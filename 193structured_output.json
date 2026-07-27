@@ -1,0 +1,119 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "193",
+      "id": "193",
+      "title": "Tax on income from Global Depository Receipts purchased in foreign currency or capital gains arising from their transfer.",
+      "indent": 0,
+      "line_start": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "193-1",
+          "indent": 0,
+          "line_start": 5,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where the total income of an assessee, being an individual, who is a resident and an employee of an Indian company engaged in specified knowledge based industry or service or an employee of its subsidiary engaged in specified knowledge based industry or service (hereafter in this section referred to as the resident employee), includes income specified in column B of the Table below, the income-tax payable shall be the aggregate of incometax computed at the rate specified in the column C applied on the corresponding income specified in column B. ||TABLE||",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "193-1-table-1",
+            "title": "TABLE",
+            "format": "pipe",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 8,
+            "line_end": 13,
+            "columns": [
+              "Sl.<br>No.",
+              "Income",
+              "Rate of Income-<br>tax payable"
+            ],
+            "rows": [
+              {
+                "column_A": "A",
+                "column_B": "B",
+                "column_C": "C"
+              },
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Income from dividend on Global Depository Receipts of an Indian company engaged in specified knowledge based industry or<br>service, issued as per such Employees' Stock Option Scheme as the Central Government may, by notification, specify in this behalf<br>and purchased by him in foreign currency.",
+                "column_C": "10%"
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Income from long-term capital gains arising from the transfer of Global Depository Receipts referred to in serial number 1.",
+                "column_C": "12.5%"
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Total income as reduced by income referred to in serial numbers 1 and 2.",
+                "column_C": "Rates in force."
+              }
+            ],
+            "linearized_text": "Subsection (1): Where the total income of an assessee, being an individual, who is a resident and an employee of an Indian company engaged in specified knowledge based industry or service or an employee of its subsidiary engaged in specified knowledge based industry or service (hereafter in this section referred to as the resident employee), includes income specified in column B of the Table below, the income-tax payable shall be the aggregate of incometax computed at the rate specified in the column C applied on the corresponding income specified in column B. ||TABLE|| Table items: Row - Sl.<br>No.: A; Income: B; Rate of Income-<br>tax payable: C. Item 1 - Income: Income from dividend on Global Depository Receipts of an Indian company engaged in specified knowledge based industry or<br>service, issued as per such Employees' Stock Option Scheme as the Central Government may, by notification, specify in this behalf<br>and purchased by him in foreign currency.; Rate of Income-<br>tax payable: 10%. Item 2 - Income: Income from long-term capital gains arising from the transfer of Global Depository Receipts referred to in serial number 1.; Rate of Income-<br>tax payable: 12.5%. Item 3 - Income: Total income as reduced by income referred to in serial numbers 1 and 2.; Rate of Income-<br>tax payable: Rates in force..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "193-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 8
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "193-2",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where the gross total income of the resident employee— ( a ) consists only of income by way of dividends in respect of Global Depository Receipts referred to in sub-section (1) (Table: Sl. No. 1), no deduction shall be allowed to him under any other provision of this Act; ( b ) includes any income referred to in sub-section (1) (Table: Sl. No. 1 or 2),— ( i ) the gross total income shall be reduced by such income; and ( ii ) the deduction under any provision of this Act shall be allowed as if the gross total income as so reduced were the gross total income of the assessee.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "193-3",
+          "indent": 0,
+          "line_start": 27,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The section 72(6) shall not apply for computation of long-term capital gains arising out of the transfer of long-term capital asset, being Global Depository Receipts referred to in sub-section (1) (Table: Sl. No. 2).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "193-4",
+          "indent": 0,
+          "line_start": 29,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this section,— ( a ) \"Global Depository Receipts\" means any instrument in the form of a depository receipt or certificate (by whatever name called) created by the Overseas Depository Bank outside India or in an International Financial Services Centre and issued to investors against the issue of,— ( i ) ordinary shares of issuing company, being a company listed on a recognised stock exchange in India; or ( ii ) foreign currency convertible bonds of issuing company; or ( iii ) ordinary shares of issuing company, being a company incorporated outside India, if such depository receipt or certificate is listed and traded on any International Financial Services Centre; ( b ) \"information technology service\" means any service which results from the use of any information technology software over a system of information technology products for realising value addition; ( c ) \"information technology software\" means any representation of instructions, data, sound or image, including source code and object code, recorded in a machine readable form and capable of being manipulated or providing inter-activity to a user, by means of an automatic data processing machine falling under heading information technology products but does not include non-information technology products; ( d ) \"Overseas Depository Bank\" means a bank authorised by the issuing company to issue Global Depository Receipts against issue of Foreign Currency Convertible Bonds or ordinary shares of the issuing company; ( e ) \"specified knowledge based industry or service\" means— ( i ) information technology software; or |(ii) information technology service; or| |---| |(iii) entertainment service; or| |(iv) pharmaceutical industry; or<br>(v) bio-technology industry; or| ( v ) bio-technology industry; or ( vi ) any other industry or service, as specified by the Central Government, by notification; ( f ) \"subsidiary\" shall have the same meaning as assigned to it in section 2( 87 ) of the Companies Act, 2013 (18 of 2013) and includes subsidiary incorporated outside India.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department Ministry of Finance, Government of India"
+    }
+  ]
+}
