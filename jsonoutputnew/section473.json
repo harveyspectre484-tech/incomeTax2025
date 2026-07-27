@@ -1,0 +1,60 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "XXII",
+      "title": "",
+      "x": 267.66,
+      "y_start": 65.2,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_children": "OFFENCES AND PROSECUTION",
+      "children": [
+        {
+          "type": "section",
+          "number": "473",
+          "id": "473",
+          "title": "^1^8[Contravention of order made during search action.]",
+          "x": 27.62,
+          "y_start": 109.43,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
+          "children": []
+        }
+      ],
+      "text_after_children": ""
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "473",
+      "id": "473",
+      "title": "^1^8[Contravention of order made during search action.]",
+      "x": 27.62,
+      "y_start": 109.43,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
+      "children": []
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "18",
+      "text": "Sub. for \"Contravention of order made under section 247.\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "19",
+      "text": "Sub. for \"rigorous imprisonment which may extend to two years and shall also be liable to fine\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

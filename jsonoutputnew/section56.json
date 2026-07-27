@@ -1,0 +1,183 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "56",
+      "id": "56",
+      "title": "Special provision in case of interest income of specified financial institutions.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "56-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything to the contrary contained in this Act, the interest income in relation to bad or doubtful debts of a specified financial institution shall be chargeable to tax under the head \"Profits and gains of business or profession\" in the tax year in which such interest is—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "56-1-a",
+              "x": 40.97,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "credited to the profit and loss account; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "56-1-b",
+              "x": 40.87,
+              "y_start": 120.9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "actually received,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "whichever is earlier."
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "56-2",
+          "x": 27.62,
+          "y_start": 150.07,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "56-2-a",
+              "x": 40.97,
+              "y_start": 164.39,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"specified financial institution\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "56-2-a-i",
+                  "x": 71.95,
+                  "y_start": 177.12,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a public financial institution; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "56-2-a-ii",
+                  "x": 69.6,
+                  "y_start": 187.73,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a scheduled bank; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "56-2-a-iii",
+                  "x": 67.24,
+                  "y_start": 198.34,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "a co-operative bank, other than—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "56-2-a-iii-A",
+                      "x": 99.2,
+                      "y_start": 208.95,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a primary agricultural credit society; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "56-2-a-iii-B",
+                      "x": 99.2,
+                      "y_start": 219.56,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a primary co-operative agricultural and rural development bank; or",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "56-2-a-iv",
+                  "x": 68.19,
+                  "y_start": 230.17,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a State Financial Corporation; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "v",
+                  "id": "56-2-a-v",
+                  "x": 70.54,
+                  "y_start": 240.78,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a State Industrial Investment Corporation; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "vi",
+                  "id": "56-2-a-vi",
+                  "x": 68.19,
+                  "y_start": 251.38,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any such class of non-banking financial companies, as may be notified by the Central Government;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "56-2-b",
+              "x": 40.87,
+              "y_start": 261.99,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"bad or doubtful debts\" shall be such categories of debts, as may be prescribed, having regard to the guidelines issued in relation to such debts by the Reserve Bank of India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

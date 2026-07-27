@@ -1,0 +1,85 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "334",
+      "id": "334",
+      "title": "Tax on income of registered non-profit organisation.",
+      "x": 27.62,
+      "y_start": 96.5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "334-1",
+          "x": 27.62,
+          "y_start": 96.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "334-1-a",
+              "x": 40.8,
+              "y_start": 123.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate of 30% on specified income for such tax year; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "334-1-b",
+              "x": 40.8,
+              "y_start": 134.16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "334-2",
+          "x": 27.62,
+          "y_start": 145.83,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "98",
+      "id": "98",
+      "title": "",
+      "x": 27.62,
+      "y_start": 158.56,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "x": 212.82,
+      "y": 65.2,
+      "text": "2. —Income of registered non-profit organisation"
+    }
+  ]
+}

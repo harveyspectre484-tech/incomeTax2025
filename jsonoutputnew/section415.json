@@ -1,0 +1,67 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "415",
+      "id": "415",
+      "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "415-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Tax Recovery Officer may grant time for the payment of any tax and, till the expiry of such time, shall stay the recovery proceedings for such tax.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "415-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "415-2-a",
+              "x": 40.8,
+              "y_start": 136.28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the order is the subject-matter of further proceeding under this Act, stay the recovery of such part of the amount specified in the certificate as pertains to the said reduction for the period for which the appeal or other proceeding remains pending; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "415-2-b",
+              "x": 40.8,
+              "y_start": 156.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the order which was the subject-matter of such appeal or other proceeding has become final and conclusive, amend the certificate, or cancel it.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

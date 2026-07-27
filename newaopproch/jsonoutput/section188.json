@@ -1,0 +1,251 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "188",
+      "id": "188",
+      "title": "Mode of repayment of certain loans or deposits or specified advances.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "188-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No branch of a banking company or co-operative bank and no other company or co-operative society and no firm or other person shall repay—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "188-1-a",
+              "x": 40.8,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any loan or deposit made with it; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "188-1-b",
+              "x": 40.8,
+              "y_start": 106.05,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "any specified advance received by it,",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "188-1-b-i",
+                  "x": 42.68,
+                  "y_start": 132.04,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an account payee cheque;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "188-1-b-ii",
+                  "x": 40.26,
+                  "y_start": 142.65,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "account payee bank draft drawn in the name of the person who has made the loan or deposit or paid the specified advance; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "188-1-b-iii",
+                  "x": 37.84,
+                  "y_start": 153.26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "by use of electronic clearing system through a bank account, or any other prescribed electronic mode,",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "188-1-b-iii-A",
+                      "x": 39.85,
+                      "y_start": 179.25,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "the loan or the deposit or specified advance, together with the interest, if any, payable thereon; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "188-1-b-iii-B",
+                      "x": 39.85,
+                      "y_start": 189.85,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "the aggregate amount of the loans or deposits held by such person with the branch of the banking company or co-operative bank or, as the case may be, the other company or co-operative society or the firm or other person (either individually or jointly) on the date of such repayment together with interest, if any, payable thereon; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "C",
+                      "id": "188-1-b-iii-C",
+                      "x": 39.38,
+                      "y_start": 219.56,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "the aggregate amount of the specified advances received by such person (either individually or jointly) on the date of such repayment together with the interest, if any, payable thereon,",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": "except through— if, — is Rs. 20000 or more."
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "188-2",
+          "x": 27.62,
+          "y_start": 256.69,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Irrespective of the provision in sub-section (1), a branch of a banking company or co-operative bank, may also make the repayment by crediting such loan or deposit to the savings bank account or current account, if any, with such branch of the person to whom such loan or deposit has to be repaid.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "188-3",
+          "x": 27.62,
+          "y_start": 284.8,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Sub-section (1) shall not apply to repayment of any loan, deposit, or specified advance taken or accepted from—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "188-3-a",
+              "x": 40.8,
+              "y_start": 299.12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "188-3-b",
+              "x": 40.8,
+              "y_start": 309.73,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any banking company, post office savings bank, or co-operative bank;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "188-3-c",
+              "x": 41.27,
+              "y_start": 320.34,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any corporation established by a Central, State, or Provincial Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "188-3-d",
+              "x": 40.8,
+              "y_start": 330.95,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any Government company as defined in section 2(45) of the Companies Act, 2013 (18 of 2013);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "188-3-e",
+              "x": 41.27,
+              "y_start": 341.56,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any institution, association, or body or class of institutions, associations or bodies notified by the Central Government.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "188-4",
+          "x": 27.62,
+          "y_start": 353.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In sub-section (1), \"Rs. 200000\" shall be substituted for \"Rs. 20000\" in the case of any deposit or loan where—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "188-4-a",
+              "x": 40.8,
+              "y_start": 368.08,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such deposit is repaid to a member by a primary agricultural credit society or a primary co-operative agricultural and rural development bank; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "188-4-b",
+              "x": 40.8,
+              "y_start": 378.69,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such loan is repaid by a member to a primary agricultural credit society or a primary co-operative agricultural and rural development bank.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "188-5",
+          "x": 27.62,
+          "y_start": 390.36,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this section, the expression \"loan or deposit\" means any loan or deposit of money which is repayable after notice or repayable after a period and, in the case of a person other than a company, includes loan or deposit of any nature.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

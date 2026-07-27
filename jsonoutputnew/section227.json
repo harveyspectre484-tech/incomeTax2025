@@ -1,0 +1,332 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "227",
+      "id": "227",
+      "title": "Computation of tonnage income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "227-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The tonnage income of a tonnage tax company for a tax year shall be the aggregate of the tonnage income of each qualifying ship computed as per sub-sections (2) and (3).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "227-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N where,— TI = the tonnage income of each qualifying ship; DTI = the daily tonnage income of each qualifying ship; N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "227-3",
+          "x": 27.62,
+          "y_start": 187.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (2), the daily tonnage income of a qualifying ship having tonnage referred to in column B of the Table below shall be the amount specified in the corresponding entity in column C thereof:",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "227-3-table-1",
+            "title": "TABLE",
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No. Qualifying ship having net tonnage A B",
+              "Amount of daily tonnage income C"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "Up to 1000.",
+                "column_B": "Rs. 70 for each 100 tons."
+              },
+              {
+                "item_no": 2,
+                "column_A": "Exceeding 1000 but not more than 10000.",
+                "column_B": "Rs. 700 plus Rs. 53 for each 100 tons exceeding 1000 tons."
+              },
+              {
+                "item_no": 3,
+                "column_A": "Exceeding 10000 but not more than 25000.",
+                "column_B": "Rs. 5470 plus Rs. 42 for each 100 tons exceeding 10000 tons."
+              },
+              {
+                "item_no": 4,
+                "column_A": "Exceeding 25000.",
+                "column_B": "Rs. 11770 plus Rs. 29 for each 100 tons exceeding 25000 tons."
+              }
+            ],
+            "linearized_text": "Subsection (3): For the purposes of sub-section (2), the daily tonnage income of a qualifying ship having tonnage referred to in column B of the Table below shall be the amount specified in the corresponding entity in column C thereof: Table items: Item 1 — Sl. No. Qualifying ship having net tonnage A B: Up to 1000.; Amount of daily tonnage income C: Rs. 70 for each 100 tons.. Item 2 — Sl. No. Qualifying ship having net tonnage A B: Exceeding 1000 but not more than 10000.; Amount of daily tonnage income C: Rs. 700 plus Rs. 53 for each 100 tons exceeding 1000 tons.. Item 3 — Sl. No. Qualifying ship having net tonnage A B: Exceeding 10000 but not more than 25000.; Amount of daily tonnage income C: Rs. 5470 plus Rs. 42 for each 100 tons exceeding 10000 tons.. Item 4 — Sl. No. Qualifying ship having net tonnage A B: Exceeding 25000.; Amount of daily tonnage income C: Rs. 11770 plus Rs. 29 for each 100 tons exceeding 25000 tons..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "227-3",
+              "page_start": 1,
+              "page_end": 1,
+              "x": 27.62,
+              "y_start": 187.2
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "227-4",
+          "x": 27.62,
+          "y_start": 319.81,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Part of the Chapter, the tonnage shall—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "227-4-a",
+              "x": 40.8,
+              "y_start": 331.68,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "mean the tonnage of a ship or inland vessel, as the case may be, indicated in the ^3^7[valid certificate] referred to in sub-section (9); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "227-4-b",
+              "x": 40.8,
+              "y_start": 344.74,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "include the deemed tonnage, being the tonnage in respect of an arrangement of purchase of slots, slot charter and an arrangement of sharing of break-bulk vessel, computed in the manner, as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "227-5",
+          "x": 27.62,
+          "y_start": 365.96,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tonnage shall be rounded off to the nearest multiple of hundred tons and for this purpose any tonnage consisting of kilograms shall be ignored and if the tonnage so rounded off is not a multiple of hundred, then, if the last figure in that amount is,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "227-5-a",
+              "x": 40.8,
+              "y_start": 393.01,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "fifty tons or more, the tonnage shall be increased to the next higher tonnage;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "227-5-b",
+              "x": 40.8,
+              "y_start": 403.62,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "less than fifty tons, the tonnage shall be reduced to the next lower tonnage,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "which is a multiple of hundred and the tonnage so rounded off shall be the tonnage of the ship for the purposes of this section."
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "227-6",
+          "x": 27.62,
+          "y_start": 431.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "No deduction or set off shall be allowed in computing the tonnage income under this Part of the Chapter, irrespective of anything contained in any other provision of this Act.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "227-7",
+          "x": 27.62,
+          "y_start": 459.31,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a qualifying ship is operated by two or more companies by way of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "227-7-a",
+              "x": 40.8,
+              "y_start": 473.63,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "joint interest in the ship; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "227-7-b",
+              "x": 40.8,
+              "y_start": 484.24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an agreement for the use of the ship,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "and their respective shares are definite and ascertainable, the tonnage income of each such company shall be an amount equal to a share of income proportionate to its share of that interest."
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "227-8",
+          "x": 27.62,
+          "y_start": 524.55,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Subject to the provisions of sub-section (7), where two or more companies are operators of a qualifying ship, the tonnage income of each company shall be computed as if each had been the only operator.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "227-9",
+          "x": 27.62,
+          "y_start": 552.67,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Part,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "227-9-a",
+              "x": 40.8,
+              "y_start": 566.99,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tonnage of a ship or inland vessel, as the case may be, shall be determined as per the valid certificate indicating its tonnage;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "227-9-b",
+              "x": 40.8,
+              "y_start": 577.6,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"valid certificate\" means,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "227-9-b-i",
+                  "x": 71.75,
+                  "y_start": 588.21,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "in case of ships registered in India,—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "227-9-b-i-A",
+                      "x": 99.0,
+                      "y_start": 598.81,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "having a length of less than twenty-four metres, a certificate issued under the Merchant Shipping (Tonnage Measurement of Ship) Rules, 1987 made under the Merchant Shipping Act, 1958 (44 of 1958);",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "227-9-b-i-B",
+                      "x": 99.0,
+                      "y_start": 618.97,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "having a length of twenty-four metres or more, an international tonnage certificate issued under the provisions of the Convention on Tonnage Measurement of Ships, 1969, as specified in the Merchant Shipping (Tonnage Measurement of Ship) Rules, 1987 made under the said Act;",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "227-9-b-ii",
+                  "x": 69.33,
+                  "y_start": 648.67,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in case of ships registered outside India, a licence issued by the Director-General of Shipping under section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958) specifying the net tonnage on the basis of Tonnage Certificate issued by the Flag State Administration, where the ship is registered or any other evidence acceptable to the Director-General of Shipping produced by the ship owner while seeking permission for chartering in the ship;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "227-9-b-iii",
+                  "x": 66.91,
+                  "y_start": 686.01,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in case of inland vessel registered in India, a ^3^8[certificate of registration] issued under the Inland Vessels Act, 2021 (24 of 2021).",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "37",
+      "text": "Sub. for \"certificate\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "38",
+      "text": "Sub. for \"certificate\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

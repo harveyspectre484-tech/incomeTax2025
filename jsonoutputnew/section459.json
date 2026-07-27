@@ -1,0 +1,124 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "459",
+      "id": "459",
+      "title": "Penalty for failure to furnish report or for furnishing inaccurate report under section 511.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "459-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any reporting entity referred to in section 511, required to furnish the report referred to in sub-section (2) of the said section, for a reporting accounting year, fails to do so, the prescribed authority under that section may impose on such entity, a penalty of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "459-1-a",
+              "x": 40.8,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 5000 for every day for which the failure continues, if the period of failure does not exceed one month;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "459-1-b",
+              "x": 40.8,
+              "y_start": 118.78,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 15000 for every day for which the failure continues beyond the period of one month.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "459-2",
+          "x": 27.62,
+          "y_start": 130.45,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If any reporting entity referred to in section 511 fails to produce the information and documents within the period allowed under sub-section (7) of the said section, the prescribed authority under that section may impose on such entity, a penalty of Rs. 5000 for every day during which the failure continues, beginning from the day immediately following the day on which the period for furnishing the information and document expires.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "459-3",
+          "x": 27.62,
+          "y_start": 171.29,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If the failure referred to in sub-section (1) or (2) continues after an order imposing a penalty under the said sub-section, has been served on the entity, then, irrespective of the provisions of the said sub-sections, the prescribed authority may impose penalty of fifty thousand rupees for every day for which such failure continues beginning from the date of service of such order.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "459-4",
+          "x": 27.62,
+          "y_start": 212.13,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a reporting entity referred to in section 511 provides inaccurate information in the report furnished under sub-section (2) of the said section, the prescribed authority under that section may impose on such entity, a penalty of Rs. 500000, if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "459-4-a",
+              "x": 40.8,
+              "y_start": 239.72,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the entity has knowledge of the inaccuracy at the time of furnishing the report but fails to inform the prescribed authority; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "459-4-b",
+              "x": 40.8,
+              "y_start": 250.32,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the entity discovers the inaccuracy after the report is furnished and fails to inform the prescribed authority and furnish correct report within fifteen days of such discovery; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "459-4-c",
+              "x": 41.27,
+              "y_start": 270.48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the entity furnishes inaccurate information or document in response to the notice issued under section 511(7).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,102 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "463",
+      "id": "463",
+      "title": "Penalty for furnishing incorrect information in reports or certificates.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "463-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Any accountant or merchant banker or registered valuer, shall be liable to pay a penalty of Rs. 10000 for any incorrect information in any report or certificate furnished under any provision of this Act or the rules made thereunder.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "463-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The penalty under sub-section (1) shall be payable for each such report or certificate.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "463-3",
+          "x": 27.62,
+          "y_start": 124.61,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_items": "The penalty under sub-section (1) shall be payable on directions of the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner",
+          "items": [
+            {
+              "type": "item",
+              "number": "Appeals",
+              "id": "463-3-Appeals",
+              "x": 27.62,
+              "y_start": 137.34,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where the incorrect information mentioned in sub-section (1) is found by such authority in the course of any proceedings under this Act.",
+              "children": []
+            }
+          ],
+          "text_after_items": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "463-4",
+          "x": 27.62,
+          "y_start": 152.73,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "463-4-a",
+              "x": 40.8,
+              "y_start": 167.58,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"merchant banker\" means Category I merchant banker registered with the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "463-4-b",
+              "x": 40.8,
+              "y_start": 187.73,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"registered valuer\" means a person registered as a valuer under section 514.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

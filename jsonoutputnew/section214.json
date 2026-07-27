@@ -1,0 +1,56 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "214",
+      "id": "214",
+      "title": "Tax on investment income and long-term capital gains.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.",
+      "children": [],
+      "table": {
+        "type": "table",
+        "table_id": "214-table-1",
+        "title": "TABLE",
+        "page_start": 1,
+        "page_end": 1,
+        "columns": [
+          "Sl. No. Income A B",
+          "Rate of Income-tax payable C"
+        ],
+        "rows": [
+          {
+            "item_no": 1,
+            "column_A": "Income from investment.",
+            "column_B": "20%"
+          },
+          {
+            "item_no": 2,
+            "column_A": "Income from long-term capital gains on specified asset.",
+            "column_B": "12.5%"
+          },
+          {
+            "item_no": 3,
+            "column_A": "Total income as reduced by income referred to against serial numbers 1 and 2.",
+            "column_B": "Rates in force."
+          }
+        ],
+        "linearized_text": "Section (214): The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B. Table items: Item 1 — Sl. No. Income A B: Income from investment.; Rate of Income-tax payable C: 20%. Item 2 — Sl. No. Income A B: Income from long-term capital gains on specified asset.; Rate of Income-tax payable C: 12.5%. Item 3 — Sl. No. Income A B: Total income as reduced by income referred to against serial numbers 1 and 2.; Rate of Income-tax payable C: Rates in force..",
+        "source": {
+          "act": "Income-tax Act",
+          "rule": "214",
+          "page_start": 1,
+          "page_end": 1,
+          "x": 27.62,
+          "y_start": 80.59
+        }
+      }
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

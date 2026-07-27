@@ -1,0 +1,240 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "354",
+      "id": "354",
+      "title": "Application for approval for purpose of section 133(1)(b)(ii).",
+      "x": 27.62,
+      "y_start": 96.5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "354-1",
+          "x": 27.62,
+          "y_start": 96.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A registered non-profit organisation or a person referred to in Schedule VII (Table: Sl. No. 1) may, for the purpose of section 133(1)(b)(ii), make an application for approval in such form and manner, as may be prescribed, to the Principal Commissioner or Commissioner, subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "354-1-a",
+              "x": 40.8,
+              "y_start": 136.28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is not expressed to be for the benefit of any particular religious community or caste;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "354-1-b",
+              "x": 40.8,
+              "y_start": 146.89,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is established in India for a charitable purpose and does not incur any expenditure of an amount exceeding 5% of its total income during a tax year which is of a religious nature;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "354-1-c",
+              "x": 41.27,
+              "y_start": 167.05,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the instrument under which it is constituted does not, or the rules governing it do not, contain any provision for the transfer at any time of the whole or any part of its assets for any purpose other than a charitable purpose;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "354-1-d",
+              "x": 40.8,
+              "y_start": 187.2,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it maintains regular accounts of its receipts and expenditure;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "354-1-e",
+              "x": 41.27,
+              "y_start": 197.81,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it prepares such statement for such period, as may be prescribed, and deliver or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority such statement in such form and verified in such manner and setting forth such particulars and within such time, as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "354-1-f",
+              "x": 42.68,
+              "y_start": 227.52,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it delivers to the said prescribed authority, a correction statement for rectification of any mistake or to add, delete or update the information furnished in the statement delivered under clause (e) in such form and verified in such manner, as may be prescribed; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "354-1-g",
+              "x": 40.8,
+              "y_start": 247.67,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it furnishes a certificate to the donor specifying the amount of donation within such period from the date of receipt of the donation containing the requisite particulars in manner, as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "354-2",
+          "x": 27.62,
+          "y_start": 268.89,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The application under sub-section (1) shall be made in respect of the cases referred to in column B of the Table below within the time limit provided in column C of the said Table and the Principal Commissioner or Commissioner, on receipt of such application, shall follow the procedure provided in sub- sections (3) and (4), and shall pass an order in writing within the time limit provided in column D and approval, if granted, shall be valid for a period provided in column E of the said Table:",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "354-2-table-1",
+            "title": "TABLE",
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "Where the activities of the applicant have At any time during the tax year One month from the end of the Three tax years commencing from not commenced. from which approval is sought. month in which application is the tax year in which such made. application is made."
+              },
+              {
+                "item_no": 2,
+                "column_A": "Where the activities of the applicant have At any time during the tax year Six months from the end of the Five tax years commencing from the commenced. from which approval is sought. quarter in which application is tax year in which such application is made. made."
+              },
+              {
+                "item_no": 3,
+                "column_A": "Where the applicant has provisional Within six months of the Six months from the end of the Five tax years commencing from the approval and activities have commenced. commencement of activities. quarter in which application is tax year in which such application is made. made."
+              },
+              {
+                "item_no": 4,
+                "column_A": "Where the provisional approval of the At least six months prior to the Six months from the end of the Five tax years following the tax year applicant is due to expire and activities expiry of the provisional quarter in which application is in which such application is made. have not commenced. approval. made."
+              },
+              {
+                "item_no": 5,
+                "column_A": "Where the period for approval of a At least six months prior to the Six months from the end of the Five tax years following the tax year registered non-profit organisation is due to expiry of the said approval. quarter in which application is in which such application is made. expire. made."
+              }
+            ],
+            "linearized_text": "Subsection (2): The application under sub-section (1) shall be made in respect of the cases referred to in column B of the Table below within the time limit provided in column C of the said Table and the Principal Commissioner or Commissioner, on receipt of such application, shall follow the procedure provided in sub- sections (3) and (4), and shall pass an order in writing within the time limit provided in column D and approval, if granted, shall be valid for a period provided in column E of the said Table: Table items: Item 1 — Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E: Where the activities of the applicant have At any time during the tax year One month from the end of the Three tax years commencing from not commenced. from which approval is sought. month in which application is the tax year in which such made. application is made.. Item 2 — Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E: Where the activities of the applicant have At any time during the tax year Six months from the end of the Five tax years commencing from the commenced. from which approval is sought. quarter in which application is tax year in which such application is made. made.. Item 3 — Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E: Where the applicant has provisional Within six months of the Six months from the end of the Five tax years commencing from the approval and activities have commenced. commencement of activities. quarter in which application is tax year in which such application is made. made.. Item 4 — Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E: Where the provisional approval of the At least six months prior to the Six months from the end of the Five tax years following the tax year applicant is due to expire and activities expiry of the provisional quarter in which application is in which such application is made. have not commenced. approval. made.. Item 5 — Sl. Case Time limit for furnishing Time limit for passing the Validity of approval No. application order A B C D E: Where the period for approval of a At least six months prior to the Six months from the end of the Five tax years following the tax year registered non-profit organisation is due to expiry of the said approval. quarter in which application is in which such application is made. expire. made..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "354-2",
+              "page_start": 1,
+              "page_end": 1,
+              "x": 27.62,
+              "y_start": 268.89
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "354-3",
+          "x": 27.62,
+          "y_start": 546.3,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an application has been made in any of the cases specified under sub-section (2) (Table: Sl. Nos. 2 to 5), the Principal Commissioner or Commissioner shall call for such documents or information or make such inquiries as he thinks necessary in order to satisfy himself about the genuineness of the activities, and compliance of such requirements of any other law in force, as are material for the purposes of achieving its objects, and—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "354-3-a",
+              "x": 40.8,
+              "y_start": 586.08,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if he is so satisfied about the objects and the genuineness of the activities and compliance of such requirements of any other law in force, he shall pass an order in writing approving it; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "354-3-b",
+              "x": 40.8,
+              "y_start": 606.24,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "if he is not so satisfied, after affording a reasonable opportunity of being heard,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "354-3-b-i",
+                  "x": 71.75,
+                  "y_start": 616.85,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "shall pass an order in writing rejecting the application, where the application was made in any of the cases specified in sub-section (2) (Table: Sl. No. 2); and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "354-3-b-ii",
+                  "x": 69.33,
+                  "y_start": 637.01,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in any other case, shall pass an order in writing rejecting the application and also cancelling the approval,",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": "and send a copy of the order to the applicant and the Assessing Officer."
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "354-4",
+          "x": 27.62,
+          "y_start": 664.06,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where an application has been made in any of the cases specified in sub-section (2) (Table: Sl. No. 1), the Principal Commissioner or Commissioner shall pass an order granting provisional approval.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "x": 182.69,
+      "y": 65.2,
+      "text": "6. —Approval for purpose of deduction under section 133(1)(b)(ii)"
+    }
+  ]
+}

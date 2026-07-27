@@ -1,0 +1,89 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "II",
+      "title": "",
+      "x": 273.38,
+      "y_start": 65.2,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_children": "BASIS OF CHARGE",
+      "children": [
+        {
+          "type": "section",
+          "number": "4",
+          "id": "4",
+          "title": "Charge of Income-tax.",
+          "x": 27.62,
+          "y_start": 111.88,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "",
+          "subsections": [
+            {
+              "type": "subsection",
+              "number": "1",
+              "id": "4-1",
+              "x": 27.62,
+              "y_start": 111.88,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "2",
+              "id": "4-2",
+              "x": 27.62,
+              "y_start": 139.99,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "3",
+              "id": "4-3",
+              "x": 27.62,
+              "y_start": 155.91,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "4",
+              "id": "4-4",
+              "x": 27.62,
+              "y_start": 171.29,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "5",
+              "id": "4-5",
+              "x": 27.62,
+              "y_start": 186.67,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
+              "children": []
+            }
+          ],
+          "text_after_subsections": ""
+        }
+      ],
+      "text_after_children": ""
+    }
+  ],
+  
+  "footnotes": [],
+  "orphans": []
+}

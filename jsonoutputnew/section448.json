@@ -1,0 +1,67 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "448",
+      "id": "448",
+      "title": "Penalty for failure to deduct tax at source.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "If any person fails to—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "448-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "deduct the whole or any part of the tax as required under Chapter XIX-B; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "448-b",
+          "x": 40.8,
+          "y_start": 106.05,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "pay or ensure the payment of, the whole or any part of the tax as required by or under—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "448-b-i",
+              "x": 71.75,
+              "y_start": 116.66,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Note 2 below the Table in section 393(3); or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "448-b-ii",
+              "x": 69.33,
+              "y_start": 127.26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Note 6 to section 393(1) (Table: Sl. No. 8),",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": "then, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to deduct or pay or ensure payment of, as aforesaid."
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

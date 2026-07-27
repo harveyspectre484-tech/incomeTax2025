@@ -1,0 +1,339 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "194",
+      "id": "194",
+      "title": "Tax on certain incomes.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "194-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in any other provision of this Act, where the total income of an assessee as mentioned in column B of the Table below, includes income of the nature specified in column C of the said Table, the income-tax payable by such assessee, for a tax year, shall be the aggregate of —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "194-1-a",
+              "x": 40.97,
+              "y_start": 120.9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax calculated on income mentioned in column C, at the rate mentioned in column D, subject to the conditions specified in column E; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "194-1-b",
+              "x": 40.87,
+              "y_start": 133.63,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax with which the assessee would have been chargeable had his total income been reduced by income mentioned in column C thereof. return of income for the relevant tax year;",
+              "children": [],
+              "table": {
+                "type": "table",
+                "table_id": "194-1-b-table-1",
+                "title": "TABLE",
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "Sl. Assessee No. A",
+                  "Income B C",
+                  "Rate Conditions of tax D E"
+                ],
+                "rows": [
+                  {
+                    "item_no": 1,
+                    "column_A": "Any person.",
+                    "column_B": "Winnings (other than from any 30% Nil. online game) from— (a) lottery; or (b) crossword puzzle; or (c) race including horse race (not being income from the activity of owning maintaining horses); or (d) card game and other game of any sort; or (e) gambling or betting of any form or nature.",
+                    "column_C": "and race"
+                  },
+                  {
+                    "item_no": 2,
+                    "column_A": "A person, resident in Royalty in respect of a patent 10% India and who is a patentee (herein referred to as an eligible assessee).",
+                    "column_C": "(a) No deduction in respect of any expenditure or allowance shall be allowed to the eligible assessee under any provision of this Act in computing his income referred to in column C; (b) an option for taxation of income by way of royalty in respect of a patent developed and registered in India is exercised in the prescribed manner, on or before the due date specified under section 263(1) for furnishing the",
+                    "column_B": "developed and registered in India."
+                  }
+                ],
+                "linearized_text": "Clause (b): income-tax with which the assessee would have been chargeable had his total income been reduced by income mentioned in column C thereof. Table items: Item 1 — Sl. Assessee No. A: Any person.; Income B C: Winnings (other than from any 30% Nil. online game) from— (a) lottery; or (b) crossword puzzle; or (c) race including horse race (not being income from the activity of owning maintaining horses); or (d) card game and other game of any sort; or (e) gambling or betting of any form or nature.; Rate Conditions of tax D E: and race. Item 2 — Sl. Assessee No. A: A person, resident in Royalty in respect of a patent 10% India and who is a patentee (herein referred to as an eligible assessee).; Income B C: developed and registered in India.; Rate Conditions of tax D E: (a) No deduction in respect of any expenditure or allowance shall be allowed to the eligible assessee under any provision of this Act in computing his income referred to in column C; (b) an option for taxation of income by way of royalty in respect of a patent developed and registered in India is exercised in the prescribed manner, on or before the due date specified under section 263(1) for furnishing the.",
+                "source": {
+                  "act": "Income-tax Act",
+                  "rule": "194-1-b",
+                  "page_start": 1,
+                  "page_end": 1,
+                  "x": 40.87,
+                  "y_start": 133.63
+                }
+              }
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "194-1-c",
+              "x": 292.49,
+              "y_start": 422.18,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where an option is exercised under clause (b) and the eligible assessee does not offer its income for taxation as per the provisions of columns C and D for any of the five tax years, succeeding such tax year, then such assessee shall not be eligible to claim the benefit of the provisions of columns C and D for five tax years subsequent to the tax year in which such income has not been offered to tax as per such provisions.",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "194-1-a",
+              "x": 292.01,
+              "y_start": 517.66,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "No deduction in respect of any expenditure (other than cost of acquisition, if any) or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing the income referred to in column C; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "194-1-b",
+              "x": 292.01,
+              "y_start": 556.91,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no set off of loss from transfer of the virtual digital asset computed herein shall be allowed against income computed under any provision of this Act to the assessee and such loss shall not be allowed to be carried forward to succeeding tax years.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "3. Any person. Income by way of transfer of 10% No deduction in respect of any expenditure or allowance shall be allowed to the carbon credits. assessee under any provision of this Act in computing his income referred to column C. 4. Any person. Any income from the transfer of 30% any virtual digital asset. 5. Any person. Any income by way of net 30% Nil. winnings from any online game, computed in the manner, as may be prescribed. 6. Any person. Any profits and gains from life 12.5% Nil. insurance business."
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "194-2",
+          "x": 27.62,
+          "y_start": 665.12,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "194-2-a",
+              "x": 40.97,
+              "y_start": 679.97,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"carbon credit\", in respect of one unit, means reduction of one tonne of carbon dioxide emissions or emissions of its equivalent gases which is validated by the United Nations Framework on Climate Change and which can be traded in market at its prevailing market price;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "194-2-b",
+              "x": 40.87,
+              "y_start": 700.13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"computer resource\" shall have the same meaning as assigned to it in section 2(1)(k) of the Information Technology Act, 2000 (21 of 2000);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "194-2-c",
+              "x": 41.94,
+              "y_start": 712.86,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"developed\" means at least 75% of the expenditure incurred in India by the eligible assessee for any invention in respect of which patent is granted under the Patents Act, 1970 (39 of 1970) (herein referred to as the Patents Act);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "194-2-d",
+              "x": 40.87,
+              "y_start": 733.01,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"horse race\" shall have the meaning assigned to it in section 94(6);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "194-2-e",
+              "x": 41.55,
+              "y_start": 745.74,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"internet\" means the combination of computer facilities and electromagnetic transmission media including related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "194-2-f",
+              "x": 43.09,
+              "y_start": 765.9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"invention\" shall have the same meaning as assigned to it in section 2(1)(j) of the Patents Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "194-2-g",
+              "x": 40.87,
+              "y_start": 778.63,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"lump sum\" includes an advance payment on account of such royalties which is not returnable;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "194-2-h",
+              "x": 40.87,
+              "y_start": 64.14,
+              "page_start": 2,
+              "page_end": 2,
+              "text_before_sub_clauses": "\"online game\" means a game that is offered on the internet and is accessible by a user through a computer resource including any telecommunication device;",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "194-2-h-i",
+                  "x": 43.59,
+                  "y_start": 84.3,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "\"patent\" shall have the same meaning as assigned to it in section 2(1)(m) of the Patents Act;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "194-2-j",
+              "x": 43.59,
+              "y_start": 97.03,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"patented article\" and \"patented process\" shall have the same meanings as respectively assigned to them in section 2(1)(o) of the Patents Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "k",
+              "id": "194-2-k",
+              "x": 41.59,
+              "y_start": 109.76,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"patentee\" means the person, being the true and first inventor of the invention, whose name is entered in the patent register as the patentee, as per the Patents Act, and includes every such person, being the true and first inventor of the invention, where more than one person is registered as patentee under that Act in respect of that patent;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "l",
+              "id": "194-2-l",
+              "x": 43.59,
+              "y_start": 139.46,
+              "page_start": 2,
+              "page_end": 2,
+              "text_before_sub_clauses": "\"royalty\", in respect of a patent, means consideration (including any lump sum consideration but excluding any consideration which would be the income of the recipient chargeable under the head \"Capital gains\" or consideration for sale of product manufactured with the use of patented process or the patented article for commercial use) for the—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "194-2-l-i",
+                  "x": 71.95,
+                  "y_start": 169.17,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "transfer of all or any rights (including the granting of a licence) in respect of a patent; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "194-2-l-ii",
+                  "x": 69.6,
+                  "y_start": 179.78,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "imparting of any information concerning the working of, or the use of, a patent; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "194-2-l-iii",
+                  "x": 67.24,
+                  "y_start": 190.39,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "use of any patent; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "194-2-l-iv",
+                  "x": 68.19,
+                  "y_start": 200.99,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "rendering of any services in connection with the activities referred to in sub-clauses (i) to (iii);",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "m",
+              "id": "194-2-m",
+              "x": 38.35,
+              "y_start": 211.6,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"true and first inventor\" shall have the same meaning as assigned to it in section 2(1)(y) of the Patents Act; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "n",
+              "id": "194-2-n",
+              "x": 40.87,
+              "y_start": 224.33,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "for the purposes of sub-section (1) (Table: Sl. No. 4), the term \"transfer\" as defined in section 2(109), shall apply to any virtual digital asset, whether capital asset or not.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

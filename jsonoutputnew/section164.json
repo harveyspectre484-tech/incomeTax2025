@@ -1,0 +1,95 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "164",
+      "id": "164",
+      "title": "Meaning of specified domestic transaction.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "For the purposes of this Chapter, the expression \"specified domestic transaction\" in case of an assessee means any of the following transactions (not being an international transaction),—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "164-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any transaction referred to in section 122;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "164-b",
+          "x": 40.8,
+          "y_start": 118.78,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any transfer of goods or services referred to in section 140(9);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "164-c",
+          "x": 41.27,
+          "y_start": 129.39,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any business transacted between the assessee and other person as referred to in section 140(13);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "164-d",
+          "x": 40.8,
+          "y_start": 137.54,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any transaction, referred to in any other section under Chapter VIII ^2^0[***], to which provisions of section 140(9) or (13) of this Act or section 80- IA(8) or (10) of the Income-tax Act, 1961 (43 of 1961) are applicable;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "164-e",
+          "x": 41.27,
+          "y_start": 160.15,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any business transacted between the persons referred to in section 205(4);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "164-f",
+          "x": 42.68,
+          "y_start": 170.76,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any other transaction as may be prescribed,",
+          "children": []
+        }
+      ],
+      "text_after_clauses": "and where the aggregate of such transactions entered into by the assessee in a tax year exceeds a sum of twenty crore rupees."
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "20",
+      "text": "Words \"or section 144\" omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

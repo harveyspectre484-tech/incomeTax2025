@@ -1,0 +1,45 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "VI",
+      "title": "",
+      "x": 272.21,
+      "y_start": 65.2,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_children": "AGGREGATION OF INCOME",
+      "children": [
+        {
+          "type": "section",
+          "number": "101",
+          "id": "101",
+          "title": "Total income.",
+          "x": 27.62,
+          "y_start": 111.88,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+          "children": []
+        }
+      ],
+      "text_after_children": ""
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "101",
+      "id": "101",
+      "title": "Total income.",
+      "x": 27.62,
+      "y_start": 111.88,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+      "children": []
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

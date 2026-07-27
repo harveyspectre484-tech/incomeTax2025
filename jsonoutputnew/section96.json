@@ -1,0 +1,93 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "V",
+      "title": "",
+      "x": 273.89,
+      "y_start": 65.2,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_children": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "children": [
+        {
+          "type": "section",
+          "number": "96",
+          "id": "96",
+          "title": "Transfer of income without transfer of assets.",
+          "x": 27.62,
+          "y_start": 111.88,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "All income arising to any person by virtue of a transfer,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "96-a",
+              "x": 40.8,
+              "y_start": 126.2,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "whether revocable or not, and whether effected before or after the commencement of this Act; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "96-b",
+              "x": 40.8,
+              "y_start": 136.81,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where there is no transfer of assets from which such income arises,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "shall be chargeable to income-tax as the income of the transferor and shall be included in his total income."
+        }
+      ],
+      "text_after_children": ""
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "96",
+      "id": "96",
+      "title": "Transfer of income without transfer of assets.",
+      "x": 27.62,
+      "y_start": 111.88,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "All income arising to any person by virtue of a transfer,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "96-a",
+          "x": 40.8,
+          "y_start": 126.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "whether revocable or not, and whether effected before or after the commencement of this Act; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "96-b",
+          "x": 40.8,
+          "y_start": 136.81,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "where there is no transfer of assets from which such income arises,",
+          "children": []
+        }
+      ],
+      "text_after_clauses": "shall be chargeable to income-tax as the income of the transferor and shall be included in his total income."
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

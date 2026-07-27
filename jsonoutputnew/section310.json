@@ -1,0 +1,78 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "310",
+      "id": "310",
+      "title": "Share of member of association of persons or body of individuals in income of association or body.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "310-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Income-tax shall not be payable by an assessee (who is a member of an association of persons or body of individuals) in respect of his share in the income of the association of persons or body of individuals computed in the manner provided in section 309, except in a case referred to in sub-section (2).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "310-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where no income-tax is chargeable on the total income of the association of persons or body of individuals, the share of a member computed as provided in section 309 shall be chargeable to tax as part of his total income.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "310-3",
+          "x": 27.62,
+          "y_start": 137.34,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where no income-tax is payable by an assessee under sub-section (1),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "310-3-a",
+              "x": 40.8,
+              "y_start": 151.66,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the association of persons or body of individuals is chargeable to tax on its total income at the maximum marginal rate or any higher rate under any of the provisions of this Act, the share of a member computed as aforesaid shall not be included in his total income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "310-3-b",
+              "x": 40.8,
+              "y_start": 171.82,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in any other case, the share of a member computed as aforesaid shall form part of his total income.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

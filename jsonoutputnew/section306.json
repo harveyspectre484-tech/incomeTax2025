@@ -1,0 +1,166 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "306",
+      "id": "306",
+      "title": "Who may be regarded as agent.",
+      "x": 27.62,
+      "y_start": 96.5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "306-1",
+          "x": 27.62,
+          "y_start": 96.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Act, \"agent\", in relation to a non-resident, includes—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "306-1-a",
+              "x": 40.8,
+              "y_start": 110.82,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "any person in India—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "306-1-a-i",
+                  "x": 71.75,
+                  "y_start": 121.43,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who is employed by or on behalf of the non-resident; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "306-1-a-ii",
+                  "x": 69.33,
+                  "y_start": 132.04,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who has any business connection with the non-resident; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "306-1-a-iii",
+                  "x": 66.91,
+                  "y_start": 142.65,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "306-1-a-iv",
+                  "x": 67.93,
+                  "y_start": 153.26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who is the trustee of the non-resident;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "306-1-b",
+              "x": 40.8,
+              "y_start": 163.86,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "306-2",
+          "x": 27.62,
+          "y_start": 175.53,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "306-2-a",
+              "x": 40.8,
+              "y_start": 202.59,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transactions are carried on in the ordinary course of business through the first-mentioned broker; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "306-2-b",
+              "x": 40.8,
+              "y_start": 213.19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "306-3",
+          "x": 27.62,
+          "y_start": 224.86,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "306-4",
+          "x": 27.62,
+          "y_start": 253.51,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "x": 219.85,
+      "y": 65.2,
+      "text": "3. —Representative assessees—Special cases"
+    }
+  ]
+}

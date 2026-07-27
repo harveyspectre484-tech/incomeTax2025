@@ -1,0 +1,155 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "196",
+      "id": "196",
+      "title": "Tax on short-term capital gains in certain cases.",
+      "x": 27.62,
+      "y_start": 96.5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "196-1",
+          "x": 27.62,
+          "y_start": 96.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the total income of an assessee includes any income chargeable under the head \"Capital gains\", arising from the transfer of a short-term capital asset—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "196-1-a",
+              "x": 40.8,
+              "y_start": 123.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "being an equity share in a company or a unit of an equity oriented fund or a unit of a business trust; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "196-1-b",
+              "x": 40.8,
+              "y_start": 134.16,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "the transaction of sale of such equity share or unit is chargeable to securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004), then,",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "196-1-b-i",
+                  "x": 42.68,
+                  "y_start": 169.7,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income-tax calculated on such short-term capital gains at the rate of 20%;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "196-1-b-ii",
+                  "x": 40.26,
+                  "y_start": 180.31,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": "the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of—"
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "196-2",
+          "x": 27.62,
+          "y_start": 191.98,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of an individual or a Hindu undivided family, being a resident, where the total income, as reduced by short-term capital gains computed under sub-section (1), is below the maximum amount which is not chargeable to income-tax, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "196-2-a",
+              "x": 40.8,
+              "y_start": 219.56,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such short-term capital gains shall be reduced by the amount by which the total income as so reduced falls short of the maximum amount which is not chargeable to income-tax; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "196-2-b",
+              "x": 40.8,
+              "y_start": 239.72,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax on the balance of such short-term capital gains shall be computed at the rate as applicable in sub-section (1)(i).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "196-3",
+          "x": 27.62,
+          "y_start": 251.38,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of sub-section (1)(b) shall not apply to a transaction undertaken on a recognised stock exchange located in any International Financial Services Centre and where the consideration for such transaction is paid or payable in foreign currency.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "196-4",
+          "x": 27.62,
+          "y_start": 279.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where the gross total income of an assessee includes any short-term capital gains referred to in sub-section (1), the deduction under Chapter VIII shall be allowed from the gross total income as reduced by such capital gains.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "196-5",
+          "x": 27.62,
+          "y_start": 307.61,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this section, the expression \"equity oriented fund\" shall have the meaning assigned to it in section 198.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "x": 204.3,
+      "y": 65.2,
+      "text": "B.—Special provisions relating to tax on capital gains"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "216",
+      "id": "216",
+      "title": "Return of income not to be furnished in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "216-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "216-b",
+          "x": 40.8,
+          "y_start": 106.05,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

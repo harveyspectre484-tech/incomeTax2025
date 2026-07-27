@@ -1,0 +1,54 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "409",
+      "id": "409",
+      "title": "When assessee is deemed to be in default.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "A person shall be deemed to be an assessee in default, if such person—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "409-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "409-b",
+          "x": 40.8,
+          "y_start": 115.6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "409-c",
+          "x": 41.27,
+          "y_start": 135.75,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
+          "children": []
+        }
+      ],
+      "text_after_clauses": "in respect of such instalment or instalments."
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

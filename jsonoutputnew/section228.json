@@ -1,0 +1,373 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "228",
+      "id": "228",
+      "title": "Relevant shipping income and exclusion from book profit.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "228-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Part, the relevant shipping income of a tonnage tax company means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "228-1-a",
+              "x": 40.8,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "its profits from core activities referred to in sub-section (3); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "228-1-b",
+              "x": 40.8,
+              "y_start": 106.05,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "its profits from incidental activities referred to in sub-section (7).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "228-2",
+          "x": 27.62,
+          "y_start": 117.72,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where the aggregate of all such incomes specified in sub-section (1)(b) exceeds 0.25% of the turnover from core activities referred to in sub-section (3), such excess shall not form part of the relevant shipping income for the purposes of this Part and shall be taxable under the other provisions of this Act.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "228-3",
+          "x": 27.62,
+          "y_start": 145.83,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The core activities of a tonnage tax company shall be—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "228-3-a",
+              "x": 40.8,
+              "y_start": 160.15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "its activities from operating qualifying ships; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "228-3-b",
+              "x": 40.8,
+              "y_start": 170.76,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "other ship-related or inland vessel related activities, as the case may be, as follows:—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "228-3-b-i",
+                  "x": 71.75,
+                  "y_start": 181.37,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "shipping contracts in respect of—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "228-3-b-i-A",
+                      "x": 99.0,
+                      "y_start": 191.98,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "earning from pooling arrangements;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "228-3-b-i-B",
+                      "x": 99.0,
+                      "y_start": 202.59,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "contracts of affreightment;",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "228-3-b-ii",
+                  "x": 69.33,
+                  "y_start": 213.19,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "specific shipping trades, being—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "228-3-b-ii-A",
+                      "x": 99.0,
+                      "y_start": 221.88,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "on-board or on-shore activities of passenger ships ^3^9[or inland vessels] comprising of fares and food and beverages consumed on- board;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "228-3-b-ii-B",
+                      "x": 99.0,
+                      "y_start": 243.96,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "slot charters, space charters, joint charters, feeder services and container box leasing of container shipping.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "228-4",
+          "x": 27.62,
+          "y_start": 255.63,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (3)(b)(i),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "228-4-a",
+              "x": 40.8,
+              "y_start": 270.48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"pooling arrangement\" means an agreement between two or more persons for providing services through a pool or operating one or more ships or inland vessels as the case may be, and sharing earnings or operating profits on the basis of mutually agreed terms;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "228-4-b",
+              "x": 40.8,
+              "y_start": 290.64,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"contract of affreightment\" means a service contract under which a tonnage tax company agrees to transport a specified quantity of specified products at a specified rate, between designated loading and discharging ports over a specified period.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "228-5",
+          "x": 27.62,
+          "y_start": 311.85,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Central Government, if it considers necessary or expedient so to do, may, by notification, exclude any activity referred to in sub-section (3)(b) or prescribe the limit up to which such activities shall be included in the core activities for the purposes of this section.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "228-6",
+          "x": 27.62,
+          "y_start": 339.97,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Every notification issued under this Part shall be laid, as soon as may be after it is issued, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification, or both Houses agree that the notification should not be issued, the notification shall thereafter have effect only in such modified form or be of no effect; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "228-7",
+          "x": 27.62,
+          "y_start": 406.27,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The incidental activities shall be the activities which are incidental to the core activities and as may be prescribed for the purpose.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "228-8",
+          "x": 27.62,
+          "y_start": 422.18,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where a tonnage tax company operates any ship or inland vessels as the case may be, which is not a qualifying ship, the income attributable to operating such non-qualifying ship shall be computed under other provisions of this Act.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "228-9",
+          "x": 27.62,
+          "y_start": 450.29,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any goods or services held for the purposes of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "228-9-a",
+              "x": 40.8,
+              "y_start": 464.62,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "tonnage tax business are transferred to any other business carried on by a tonnage tax company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "228-9-b",
+              "x": 40.8,
+              "y_start": 475.22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other business carried on by such tonnage tax company are transferred to the tonnage tax business,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "and, in either case, the consideration, if any, for such transfer as recorded in the accounts of the tonnage tax business does not correspond to the market value of such goods or services as on the date of the transfer, then, the relevant shipping income under this section shall be computed as if the transfer, in either case, had been made at the market value of such goods or services as on that date."
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "228-10",
+          "x": 27.62,
+          "y_start": 528.27,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In sub-section (9), \"market value\", in relation to any goods or services, means the price that such goods or services would ordinarily fetch on sale in the open market.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "228-11",
+          "x": 27.62,
+          "y_start": 556.38,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where, in the opinion of the Assessing Officer, the computation of the relevant shipping income in the manner specified in sub-section (9) presents exceptional difficulties, he may compute such income on such reasonable basis as he considers fit.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "228-12",
+          "x": 27.62,
+          "y_start": 584.49,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where it appears to the Assessing Officer that, owing to the close connection between the tonnage tax company and any other person, or for any other reason, the course of business between them is so arranged that the business transacted between them produces to the tonnage tax company more than the ordinary profits which might be expected to arise in the tonnage tax business, the Assessing Officer shall, in computing the relevant shipping income of the tonnage tax company for the purposes of this Part, take income as may reasonably be deemed to have been derived therefrom.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "228-13",
+          "x": 27.62,
+          "y_start": 638.6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In this Part, in case the relevant shipping income of a tonnage tax company is a loss, then, such loss shall be ignored for the purposes of computing tonnage income.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "14",
+          "id": "228-14",
+          "x": 27.62,
+          "y_start": 666.71,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where a tonnage tax company also carries on any business or activity other than the tonnage tax business, common costs attributable to the tonnage tax business shall be determined on a reasonable basis.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "15",
+          "id": "228-15",
+          "x": 27.62,
+          "y_start": 694.82,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where any asset, other than a qualifying ship, is not exclusively used for the tonnage tax business by the tonnage tax company, depreciation on such asset shall be allocated between its tonnage tax business and other business on a fair proportion to be determined by the Assessing Officer, having regard to the use of such asset for the purposes of the tonnage tax business and for the other business.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "16",
+          "id": "228-16",
+          "x": 27.62,
+          "y_start": 736.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The book profit or loss derived from the activities of a tonnage tax company, referred to in sub-section (1), shall be excluded from the book profit of the company for the purposes of section 206(1)(c).",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "39",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 2,
+      "page_end": 2
+    }
+  ],
+  "orphans": []
+}

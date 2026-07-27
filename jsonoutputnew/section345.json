@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "345",
+      "id": "345",
+      "title": "Restriction on commercial activities by a registered non-profit organisation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "345-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "345-b",
+          "x": 40.8,
+          "y_start": 118.78,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "separate books of account are maintained for such activities.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

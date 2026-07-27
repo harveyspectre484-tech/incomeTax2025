@@ -1,0 +1,113 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "444",
+      "id": "444",
+      "title": "Penalty for false entry, etc., in books of account.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "444-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), may impose a penalty equal to the aggregate amount of false or omitted entry, where during any proceeding under this Act, it is found that in the books of account maintained by any person there is—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "444-1-a",
+              "x": 40.8,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a false entry; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "444-1-b",
+              "x": 40.8,
+              "y_start": 118.78,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an omission of any entry which is relevant for computation of total income of such person, to evade tax liability.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "444-2",
+          "x": 27.62,
+          "y_start": 130.45,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Without prejudice to sub-section (1), the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals) may impose a penalty equal to the aggregated amount of false or omitted entry, on any other person, who causes the person referred to in the said sub-section in any manner to make a false entry or omits or causes to omit any entry referred to in that sub-section.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "444-3",
+          "x": 27.62,
+          "y_start": 171.29,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"false entry\" includes use or intention to use—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "444-3-a",
+              "x": 40.8,
+              "y_start": 185.61,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "forged or falsified documents such as a false invoice or, in general, a false piece of documentary evidence; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "444-3-b",
+              "x": 40.8,
+              "y_start": 196.22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "invoice in respect of supply or receipt of goods or services or both issued by the person or any other person without actual supply or receipt of such goods or services, or both; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "444-3-c",
+              "x": 41.27,
+              "y_start": 216.38,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "invoice in respect of supply or receipt of goods or services or both to or from a person who does not exist.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

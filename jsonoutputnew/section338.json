@@ -1,0 +1,67 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "338",
+      "id": "338",
+      "title": "Income not to be included in regular income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "While computing the regular income of a registered non-profit organisation, the following income shall not be included:—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "338-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "income applied outside India, where the Board, by general or special order, directs that such income shall not be so included in its total income in case of a registered non-profit organisation—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "338-a-i",
+              "x": 71.75,
+              "y_start": 115.6,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "created before the 1st April, 1952 for charitable or religious purposes; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "338-a-ii",
+              "x": 69.33,
+              "y_start": 126.2,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "created on or after the 1st April, 1952 for charitable purposes where such application of income outside India tends to promote international welfare in which India is interested;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "338-b",
+          "x": 40.8,
+          "y_start": 146.36,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the corpus donation received by the registered non-profit organisation under section 339.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

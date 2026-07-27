@@ -1,0 +1,76 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "335",
+      "id": "335",
+      "title": "Regular income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Regular income of any tax year of a registered non-profit organisation means—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "335-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "335-b",
+          "x": 40.8,
+          "y_start": 106.05,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "335-c",
+          "x": 41.27,
+          "y_start": 126.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "335-d",
+          "x": 40.8,
+          "y_start": 146.36,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "voluntary contributions received by such registered non-profit organisation in such tax year; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "335-e",
+          "x": 41.27,
+          "y_start": 156.97,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

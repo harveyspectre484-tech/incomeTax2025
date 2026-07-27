@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "326",
+      "id": "326",
+      "title": "Assessment when section 325 not complied with.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, —",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "326-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "326-b",
+          "x": 40.8,
+          "y_start": 128.33,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

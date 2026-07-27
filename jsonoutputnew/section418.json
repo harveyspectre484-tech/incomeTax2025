@@ -1,0 +1,115 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "418",
+      "id": "418",
+      "title": "Recovery of tax in pursuance of agreements with foreign countries.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "418-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an agreement is entered into by the Central Government with the Government of any country outside India for recovery of income-tax under this Act and the corresponding law in force in that country and the Government of that country or any authority under that Government which is specified in this behalf in such agreement sends to the Board a certificate for the recovery of any tax due under such corresponding law from—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "418-1-a",
+              "x": 40.8,
+              "y_start": 120.9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a resident; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "418-1-b",
+              "x": 40.8,
+              "y_start": 131.51,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "a person having any property in India,",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "418-1-b-i",
+                  "x": 42.68,
+                  "y_start": 170.23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "proceed to recover the amount specified in the certificate in the manner in which he would proceed to recover the amount specified in a certificate drawn up by him under section 413; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "418-1-b-ii",
+                  "x": 40.26,
+                  "y_start": 190.39,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "remit any sum so recovered by him to the Board after deducting his expenses in connection with the recovery proceedings.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": "the Board may forward such certificate to any Tax Recovery Officer having jurisdiction over the resident, or within whose jurisdiction such property is situated and thereupon such Tax Recovery Officer shall—"
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "418-2",
+          "x": 27.62,
+          "y_start": 202.05,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an assessee who is in default or is deemed to be in default in making a payment of tax,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "418-2-a",
+              "x": 40.8,
+              "y_start": 216.38,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is a resident of a country being a country with which the Central Government has entered into an agreement for the recovery of income- tax under this Act and the corresponding law in force in that country; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "418-2-b",
+              "x": 40.8,
+              "y_start": 236.53,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has any property in the country referred to in clause (a),",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "then, Tax Recovery Officer may forward to the Board a certificate drawn up by him under section 413 and the Board may take such action thereon as it may deem appropriate having regard to the terms of the agreement with such country."
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

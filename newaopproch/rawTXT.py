@@ -1,215 +1,3 @@
-# # import fitz
-
-# # pdf_path = r"/Users/avikalchauhan/Desktop/raglaw/sectionpdf/section7output.pdf"
-
-# # doc = fitz.open(pdf_path)
-
-# # output = []
-
-
-
-# # for page_num, page in enumerate(doc, start=1):
-
-# #     page_dict = page.get_text("dict")
-
-# #     page_lines = []
-
-# #     for block in page_dict["blocks"]:
-
-# #         if block["type"] != 0:
-# #             continue
-
-# #         for line in block["lines"]:
-
-# #             spans = line["spans"]
-
-# #             text = ""
-
-# #             x0 = spans[0]["bbox"][0]
-# #             y0 = spans[0]["bbox"][1]
-
-# #             font_size = spans[0]["size"]
-
-# #             is_bold = False
-
-# #             for span in spans:
-
-# #                 text += span["text"]
-
-# #                 if "Bold" in span["font"]:
-# #                     is_bold = True
-
-# #             page_lines.append({
-
-# #                 "page": page_num,
-
-# #                 "text": text.strip(),
-
-# #                 "x0": round(x0,2),
-
-# #                 "y0": round(y0,2),
-
-# #                 "font_size": round(font_size,2),
-
-# #                 "bold": is_bold
-
-# #             })
-
-# #     output.append(page_lines)
-
-# # doc.close()
-
-
-# # for page in output[:2]:
-
-# #     print("="*80)
-
-# #     print("PAGE",page[0]["page"])
-
-# #     print("="*80)
-
-# #     for line in page:
-
-# #         print(line)
-
-
-
-# # with open("/Users/avikalchauhan/Desktop/raglaw/newaopproch/txtformat/7income_tax_raw.txt","w",encoding="utf-8") as f:
-
-# #     for page in output:
-
-# #         f.write("\n")
-# #         f.write("="*80)
-# #         f.write("\n")
-
-# #         f.write(f"PAGE {page[0]['page']}\n")
-
-# #         f.write("="*80)
-# #         f.write("\n")
-
-# #         for line in page:
-
-# #             f.write(
-# #                 f"[x={line['x0']:7.2f}] "
-# #                 f"[y={line['y0']:7.2f}] "
-# #                 f"[font={line['font_size']:4.1f}] "
-# #                 f"[bold={line['bold']}] "
-# #                 f"{line['text']}\n"
-# #             )
-
-# import fitz
-
-# SUPERSCRIPT_BIT = 1 << 0  # bit 0 of span['flags'] = superscript
-
-# def extract_page_lines(page, page_num,size_ratio_threshold=0.85):
-#     raw_spans = []
-#     for block in page.get_text("dict")["blocks"]:
-#         if block["type"] != 0:
-#             continue
-#         for line in block["lines"]:
-#             for span in line["spans"]:
-#                 raw_spans.append({
-#                     "text": span["text"],
-#                     "x0": span["bbox"][0],
-#                     "y0": span["bbox"][1],
-#                     "y1": span["bbox"][3],
-#                     "size": span["size"],
-#                     "bold": "Bold" in span["font"],
-#                 })
-#     if not raw_spans:
-#         return []
-
-#     # Determine the dominant (body) font size for this page
-#     from collections import Counter
-#     size_counts = Counter(round(s["size"], 1) for s in raw_spans)
-#     dominant_size = size_counts.most_common(1)[0][0]
-
-#     # Mark superscript by size ratio, not by flags
-#     for s in raw_spans:
-#         s["superscript"] = s["size"] < dominant_size * size_ratio_threshold
-#     # Separate body spans from superscript/footnote-marker spans
-    
-    
-#     body_spans = [s for s in raw_spans if not s["superscript"]]
-#     sup_spans  = [s for s in raw_spans if s["superscript"]]
-
-#     # Cluster body spans into visual lines by y0 proximity
-#     body_spans.sort(key=lambda s: (round(s["y0"], 1), s["x0"]))
-#     lines = []
-#     for s in body_spans:
-#         placed = False
-#         for ln in lines:
-#             if abs(ln["y0"] - s["y0"]) <= 3.0:   # tolerance in points
-#                 ln["spans"].append(s)
-#                 placed = True
-#                 break
-#         if not placed:
-#             lines.append({"y0": s["y0"], "spans": [s]})
-
-#     # Merge each superscript into the nearest line (by y-distance)
-#     for sup in sup_spans:
-#         best_line = min(lines, key=lambda ln: abs(ln["y0"] - sup["y0"]))
-#         best_line["spans"].append(sup)
-
-#     # Sort spans within each line by x0 and build final text
-#     page_lines = []
-#     for ln in lines:
-#         ln["spans"].sort(key=lambda s: s["x0"])
-#         text = ""
-#         for s in ln["spans"]:
-#             text += f"^{s['text']}" if s["superscript"] else s["text"]
-#         page_lines.append({
-#             "page": page_num,
-#             "text": text.strip(),
-#             "x0": round(ln["spans"][0]["x0"], 2),
-#             "y0": round(ln["y0"], 2),
-#             "font_size": round(ln["spans"][0]["size"], 2),
-#             "bold": ln["spans"][0]["bold"],
-#         })
-
-#     page_lines.sort(key=lambda l: l["y0"])
-#     return page_lines
-
-
-# pdf_path = r"/Users/avikalchauhan/Desktop/raglaw/sectionpdf/section193output.pdf"
-
-# doc = fitz.open(pdf_path)
-
-# output = []
-
-# for page_num, page in enumerate(doc, start=1):
-#     page_lines = extract_page_lines(page, page_num)
-#     output.append(page_lines)
-
-# doc.close()
-
-
-# for page in output[:2]:
-#     print("=" * 80)
-#     print("PAGE", page[0]["page"])
-#     print("=" * 80)
-#     for line in page:
-#         print(line)
-
-
-# with open(r"/Users/avikalchauhan/Desktop/raglaw/newaopproch/txtformat/193income_tax_raw.txt", "w", encoding="utf-8") as f:
-#     for page in output:
-#         f.write("\n")
-#         f.write("=" * 80)
-#         f.write("\n")
-#         f.write(f"PAGE {page[0]['page']}\n")
-#         f.write("=" * 80)
-#         f.write("\n")
-#         for line in page:
-#             f.write(
-#                 f"[x={line['x0']:7.2f}] "
-#                 f"[y={line['y0']:7.2f}] "
-#                 f"[font={line['font_size']:4.1f}] "
-#                 f"[bold={line['bold']}] "
-#                 f"{line['text']}\n"
-#             )
-
-#!/usr/bin/env python3
 """
 Extract PDF text with x/y coordinates, preserving table cell boundaries.
 
@@ -239,6 +27,7 @@ SECTION_X_MAX = 30.5
 NORMAL_WORD_GAP = 1.8
 TABLE_CELL_GAP = 18.0
 LINE_Y_TOLERANCE = 3.0
+HARD_BOUNDARY_MARGIN = 5.0  # pts subtracted from a discovered column start
 
 
 @dataclass
@@ -334,14 +123,40 @@ def clean_text(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def split_table_cells(chars: list[Char]) -> list[list[Char]]:
+def split_table_cells(chars: list[Char], hard_boundaries: list[float] | None = None) -> list[list[Char]]:
+    """
+    Split a visual line of chars into table cells.
+
+    Cells normally break wherever the horizontal gap exceeds TABLE_CELL_GAP.
+    That alone is unreliable: a row's last column (e.g. a rate value) may sit
+    right after the preceding text with only ordinary word-spacing, so the
+    gap-based rule misses it even though the value clearly belongs in its
+    own column (same x-position as the same column in other rows).
+
+    `hard_boundaries` are x-positions (already known to be real column
+    starts, discovered from rows that DID split correctly) at which we force
+    a break as soon as a char's x0 reaches or passes the boundary -- even if
+    the preceding gap is small -- as long as there is at least some gap
+    (i.e. we're not slicing a boundary through the middle of a word).
+    """
     if not chars:
         return []
+
+    boundaries = sorted(hard_boundaries or [])
+    # Skip boundaries that are already to the left of the first char.
+    b_idx = 0
+    while b_idx < len(boundaries) and boundaries[b_idx] <= chars[0].x0:
+        b_idx += 1
+
     cells: list[list[Char]] = [[chars[0]]]
     prev = chars[0]
     for ch in chars[1:]:
         gap = ch.x0 - prev.x1
-        if gap > TABLE_CELL_GAP:
+        crossed_boundary = False
+        if b_idx < len(boundaries) and gap > 0.1 and prev.x1 < boundaries[b_idx] <= ch.x0:
+            crossed_boundary = True
+            b_idx += 1
+        if gap > TABLE_CELL_GAP or crossed_boundary:
             cells.append([ch])
         else:
             cells[-1].append(ch)
@@ -349,11 +164,16 @@ def split_table_cells(chars: list[Char]) -> list[list[Char]]:
     return cells
 
 
-def line_to_outline(page_num: int, chars: list[Char], table_mode: bool) -> list[OutLine]:
+def line_to_outline(
+    page_num: int,
+    chars: list[Char],
+    table_mode: bool,
+    hard_boundaries: list[float] | None = None,
+) -> list[OutLine]:
     if not chars:
         return []
 
-    cells = split_table_cells(chars) if table_mode else [chars]
+    cells = split_table_cells(chars, hard_boundaries) if table_mode else [chars]
     out: list[OutLine] = []
     for cell in cells:
         text = line_text(cell)
@@ -387,32 +207,96 @@ def is_hierarchy_start(outline: OutLine) -> bool:
     return False
 
 
-def extract_page_lines(page: fitz.Page, page_num: int, size_ratio_threshold: float = 0.85) -> list[OutLine]:
-    lines = cluster_lines(iter_chars(page, size_ratio_threshold))
-    output: list[OutLine] = []
+def find_table_regions(lines: list[list[Char]]) -> list[tuple[int, int]]:
+    """
+    First pass: walk the whole-line (non-table-split) text to find the
+    [start, end) line-index ranges that belong to a TABLE block, using the
+    same heuristics as before (centered "TABLE" heading starts a region,
+    a hierarchy marker like "(2)" or "3." after at least one table row ends it).
+    """
+    regions: list[tuple[int, int]] = []
     in_table = False
     seen_table_row = False
+    region_start: int | None = None
 
-    for chars in lines:
-        normal_outline = line_to_outline(page_num, chars, table_mode=False)
-        if not normal_outline:
+    for idx, chars in enumerate(lines):
+        whole_outline = line_to_outline(0, chars, table_mode=False)
+        if not whole_outline:
             continue
-        whole = normal_outline[0]
+        whole = whole_outline[0]
 
         if in_table and seen_table_row and is_hierarchy_start(whole):
+            regions.append((region_start, idx))
             in_table = False
+            region_start = None
 
         if is_centered_table_heading(whole):
+            if in_table and region_start is not None:
+                regions.append((region_start, idx))
             in_table = True
             seen_table_row = False
-            output.extend(normal_outline)
+            region_start = idx
             continue
 
-        outlines = line_to_outline(page_num, chars, table_mode=in_table)
-        if in_table and any(re.match(r"^\(?\d+\)?\.?", item.text.strip()) for item in outlines):
-            seen_table_row = True
-        output.extend(outlines)
+        if in_table:
+            tentative = line_to_outline(0, chars, table_mode=True)
+            if any(re.match(r"^\(?\d+\)?\.?", item.text.strip()) for item in tentative):
+                seen_table_row = True
 
+    if in_table and region_start is not None:
+        regions.append((region_start, len(lines)))
+
+    return regions
+
+
+def resolve_table_region(
+    page_num: int, lines: list[list[Char]], start: int, end: int
+) -> dict[int, list[OutLine]]:
+    """
+    Second pass over a single table region: split every line with the
+    ordinary gap-based rule first, collect the x-position of any cell that
+    is NOT the first cell on its line (a "trailing" cell -- these are the
+    rows, like the rate column, that already split correctly because their
+    gap happened to be large enough). The smallest such x-position is very
+    likely the true start of the table's rightmost column, so we re-split
+    every line in the region forcing a break there too. This recovers rows
+    where that same column's value sits close enough to the preceding text
+    that the gap-only rule would otherwise miss it.
+    """
+    baseline: dict[int, list[OutLine]] = {}
+    trailing_x0s: list[float] = []
+    for i in range(start, end):
+        outlines = line_to_outline(page_num, lines[i], table_mode=True)
+        baseline[i] = outlines
+        if len(outlines) > 1:
+            trailing_x0s.extend(o.x0 for o in outlines[1:])
+
+    if not trailing_x0s:
+        return baseline
+
+    boundary = min(trailing_x0s) - HARD_BOUNDARY_MARGIN
+    finalized: dict[int, list[OutLine]] = {}
+    for i in range(start, end):
+        finalized[i] = line_to_outline(
+            page_num, lines[i], table_mode=True, hard_boundaries=[boundary]
+        )
+    return finalized
+
+
+def extract_page_lines(page: fitz.Page, page_num: int, size_ratio_threshold: float = 0.85) -> list[OutLine]:
+    lines = cluster_lines(iter_chars(page, size_ratio_threshold))
+    regions = find_table_regions(lines)
+
+    resolved: dict[int, list[OutLine]] = {}
+    for start, end in regions:
+        resolved.update(resolve_table_region(page_num, lines, start, end))
+
+    output: list[OutLine] = []
+    for idx, chars in enumerate(lines):
+        if idx in resolved:
+            output.extend(resolved[idx])
+        else:
+            output.extend(line_to_outline(page_num, chars, table_mode=False))
     return output
 
 
@@ -455,3 +339,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+ 
