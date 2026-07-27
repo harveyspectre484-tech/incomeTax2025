@@ -20,32 +20,8 @@
           "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— TABLE |No.||| |||where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.| ||(b) under any similar scheme applicable to— (i) the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]; (ii) the members of the all-India services; (iii) the members of the defence services;|| ||(iv) the members of the civil services of a State, or the holders of civil posts under a State; or (v) the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act.|| The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially recognised tables of mortality, and—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "19-1-a",
-              "indent": 3,
-              "line_start": 31,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "where the employee has received gratuity, the commuted value of one-third of the pension, which he is normally entitled to receive; and",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-1-b",
-              "indent": 3,
-              "line_start": 33,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in any other case, the commuted value of one-half of such pension.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": "",
+          "text": "The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:—",
+          "children": [],
           "table": {
             "type": "table",
             "table_id": "19-1-table-1",
@@ -54,14 +30,105 @@
             "page_start": 1,
             "page_end": 1,
             "line_start": 11,
-            "line_end": 12,
+            "line_end": 91,
             "columns": [
-              "Sl.",
-              "Nature of sum",
-              "Amount of deduction"
+              "Sl. No. A",
+              "Nature of sum B",
+              "Amount of deduction C"
             ],
-            "rows": [],
-            "linearized_text": "Subsection (1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— TABLE",
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.",
+                "column_C": "Entire amount."
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Standard deduction.",
+                "column_C": "(a) Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) Rs. 50000 or the salary, whichever is less, in any other case."
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g).",
+                "column_C": "Entire amount."
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.",
+                "column_C": "Entire amount."
+              },
+              {
+                "item_no": 5,
+                "column_A": "",
+                "column_B": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).",
+                "column_C": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act."
+              },
+              {
+                "item_no": 6,
+                "column_A": "",
+                "column_B": "Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapaci-tated before such retire-ment; or (iii) on termination of his employment.",
+                "column_C": "Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
+              },
+              {
+                "item_no": 7,
+                "column_A": "",
+                "column_B": "Payment in commutation of pension received— (a) under the Civil Pensions (Commutation) Rules of the Central Government; or (b) under any similar scheme applicable to— (i) the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]; (ii) the members of the all-India services; (iii) the members of the defence services; (iv) the members of the civil services of a State, or the holders of civil posts under a State; or (v) the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act.",
+                "column_C": "Entire amount."
+              },
+              {
+                "item_no": 8,
+                "column_A": "",
+                "column_B": "Payment in commutation of pension is received under any scheme from any other employer.",
+                "column_C": "The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially"
+              },
+              {
+                "item_no": 9,
+                "column_A": "",
+                "column_B": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3).",
+                "column_C": "Entire amount.",
+                "raw_text": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3). Entire amount."
+              },
+              {
+                "item_no": 10,
+                "column_A": "",
+                "column_B": "Compensation received by a workman at the time of his retrenchment— (a) under the Industrial Disputes Act, 1947 (14 of 1947); or (b) under any other Act or rules, orders or notifications issued thereunder; or (c) under any standing orders; or (d) under any award, contract of service or other-wise. (a) compensation received; (b) amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947); (c) such amount, not being less than Rs. 50000, as may be notified by the Central Government.",
+                "column_C": "Minimum of—",
+                "raw_text": "Compensation received by a workman at the time of his retrenchment— Minimum of— (a) under the Industrial Disputes Act, 1947 (14 of 1947); or (b) under any other Act or rules, orders or notifications issued thereunder; or (c) under any standing orders; or (d) under any award, contract of service or other-wise. (a) compensation received; (b) amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947); (c) such amount, not being less than Rs. 50000, as may be notified by the Central Government."
+              },
+              {
+                "item_no": 11,
+                "column_A": "",
+                "column_B": "In case of compensation referred to in Sl. No. 10, where such (a) the need for extending special protection to the workmen in the undertaking to which such scheme applies; and (b) other relevant circum-stances.",
+                "column_C": "Compensation received. compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—",
+                "raw_text": "In case of compensation referred to in Sl. No. 10, where such Compensation received. compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to— (a) the need for extending special protection to the workmen in the undertaking to which such scheme applies; and (b) other relevant circum-stances."
+              },
+              {
+                "item_no": 12,
+                "column_A": "",
+                "column_B": "Amount received or receivable on voluntary retirement or termination of (a) compensation received; and (b)",
+                "column_C": "Minimum of— service under a scheme or schemes of voluntary retirement, by an ( a employee as referred to in sub-section (2)(h). Rs. 500000.",
+                "raw_text": "Amount received or receivable on voluntary retirement or termination of Minimum of— service under a scheme or schemes of voluntary retirement, by an ( a employee as referred to in sub-section (2)(h). (a) compensation received; and (b) Rs. 500000."
+              },
+              {
+                "item_no": 13,
+                "column_A": "",
+                "column_B": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise.",
+                "column_C": "Entire amount.",
+                "raw_text": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise. Entire amount."
+              },
+              {
+                "item_no": 14,
+                "column_A": "",
+                "column_B": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee. (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", where,— A=10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.",
+                "column_C": "Amount being minimum of—",
+                "raw_text": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee. Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", where,— A=10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received."
+              }
+            ],
+            "linearized_text": "Subsection (1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table items: Item 1 - Nature of sum B: Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.; Amount of deduction C: Entire amount.. Item 2 - Nature of sum B: Standard deduction.; Amount of deduction C: (a) Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) Rs. 50000 or the salary, whichever is less, in any other case.. Item 3 - Nature of sum B: Death-cum-retirement gratuity received as referred to in sub-section (2)(g).; Amount of deduction C: Entire amount.. Item 4 - Nature of sum B: Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.; Amount of deduction C: Entire amount.. Item 5 - Nature of sum B: Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).; Amount of deduction C: Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act.. Item 6 - Nature of sum B: Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapaci-tated before such retire-ment; or (iii) on termination of his employment.; Amount of deduction C: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.. Item 7 - Nature of sum B: Payment in commutation of pension received— (a) under the Civil Pensions (Commutation) Rules of the Central Government; or (b) under any similar scheme applicable to— (i) the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]; (ii) the members of the all-India services; (iii) the members of the defence services; (iv) the members of the civil services of a State, or the holders of civil posts under a State; or (v) the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act.; Amount of deduction C: Entire amount.. Item 8 - Nature of sum B: Payment in commutation of pension is received under any scheme from any other employer.; Amount of deduction C: The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially. Item 9 - Nature of sum B: Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3).; Amount of deduction C: Entire amount.. Item 10 - Nature of sum B: Compensation received by a workman at the time of his retrenchment— (a) under the Industrial Disputes Act, 1947 (14 of 1947); or (b) under any other Act or rules, orders or notifications issued thereunder; or (c) under any standing orders; or (d) under any award, contract of service or other-wise. (a) compensation received; (b) amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947); (c) such amount, not being less than Rs. 50000, as may be notified by the Central Government.; Amount of deduction C: Minimum of—. Item 11 - Nature of sum B: In case of compensation referred to in Sl. No. 10, where such (a) the need for extending special protection to the workmen in the undertaking to which such scheme applies; and (b) other relevant circum-stances.; Amount of deduction C: Compensation received. compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—. Item 12 - Nature of sum B: Amount received or receivable on voluntary retirement or termination of (a) compensation received; and (b); Amount of deduction C: Minimum of— service under a scheme or schemes of voluntary retirement, by an ( a employee as referred to in sub-section (2)(h). Rs. 500000.. Item 13 - Nature of sum B: Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise.; Amount of deduction C: Entire amount.. Item 14 - Nature of sum B: Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee. (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", where,— A=10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.; Amount of deduction C: Amount being minimum of—.",
             "source": {
               "act": "Income-tax Act",
               "rule": "19-1",
@@ -69,370 +136,12 @@
               "page_end": 1,
               "line_start": 11
             }
-          },
-          "tables": [
-            {
-              "type": "table",
-              "table_id": "19-1-table-2",
-              "title": "TABLE",
-              "format": "pipe",
-              "page_start": 1,
-              "page_end": 1,
-              "line_start": 14,
-              "line_end": 20,
-              "columns": [
-                "A",
-                "B",
-                "C"
-              ],
-              "rows": [
-                {
-                  "item_no": 1,
-                  "column_A": "",
-                  "column_B": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.",
-                  "column_C": "Entire amount."
-                },
-                {
-                  "item_no": 2,
-                  "column_A": "",
-                  "column_B": "Standard deduction.",
-                  "column_C": "(a) Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) Rs. 50000 or the salary, whichever is less, in any other case."
-                },
-                {
-                  "item_no": 3,
-                  "column_A": "",
-                  "column_B": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g).",
-                  "column_C": "Entire amount."
-                },
-                {
-                  "item_no": 4,
-                  "column_A": "",
-                  "column_B": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.",
-                  "column_C": "Entire amount."
-                },
-                {
-                  "item_no": 5,
-                  "column_A": "",
-                  "column_B": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).",
-                  "column_C": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act."
-                },
-                {
-                  "item_no": 6,
-                  "column_A": "",
-                  "column_B": "Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapaci-tated before such retire-ment; or (iii) on termination of his employment.",
-                  "column_C": "Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:—"
-                }
-              ],
-              "linearized_text": "Subsection (1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— TABLE |No.||| Table items: Item 1 - B: Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.; C: Entire amount.. Item 2 - B: Standard deduction.; C: (a) Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1); (b) Rs. 50000 or the salary, whichever is less, in any other case.. Item 3 - B: Death-cum-retirement gratuity received as referred to in sub-section (2)(g).; C: Entire amount.. Item 4 - B: Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.; C: Entire amount.. Item 5 - B: Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).; C: Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act.. Item 6 - B: Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapaci-tated before such retire-ment; or (iii) on termination of his employment.; C: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:—.",
-              "source": {
-                "act": "Income-tax Act",
-                "rule": "19-1",
-                "page_start": 1,
-                "page_end": 1,
-                "line_start": 14
-              }
-            },
-            {
-              "type": "table",
-              "table_id": "19-1-table-3",
-              "title": "TABLE",
-              "format": "pipe",
-              "page_start": 1,
-              "page_end": 1,
-              "line_start": 22,
-              "line_end": 22,
-              "columns": [
-                "7.",
-                "Payment in commutation of pension received— (a) under the Civil Pensions (Commutation) Rules of the Central Government; or",
-                "Entire amount."
-              ],
-              "rows": [],
-              "linearized_text": "Subsection (1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— TABLE |No.||| |||where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.|",
-              "source": {
-                "act": "Income-tax Act",
-                "rule": "19-1",
-                "page_start": 1,
-                "page_end": 1,
-                "line_start": 22
-              }
-            },
-            {
-              "type": "table",
-              "table_id": "19-1-table-4",
-              "title": "TABLE",
-              "format": "pipe",
-              "page_start": 1,
-              "page_end": 1,
-              "line_start": 25,
-              "line_end": 25,
-              "columns": [
-                "8.",
-                "Payment in commutation of pension is received under any scheme from any other employer.",
-                "The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially"
-              ],
-              "rows": [],
-              "linearized_text": "Subsection (1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— TABLE |No.||| |||where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.| ||(b) under any similar scheme applicable to— (i) the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]; (ii) the members of the all-India services; (iii) the members of the defence services;|| ||(iv) the members of the civil services of a State, or the holders of civil posts under a State; or (v) the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act.||",
-              "source": {
-                "act": "Income-tax Act",
-                "rule": "19-1",
-                "page_start": 1,
-                "page_end": 1,
-                "line_start": 25
-              }
-            }
-          ]
-        }
-      ],
-      "text_after_subsections": ""
-    },
-    {
-      "type": "section",
-      "number": "9",
-      "id": "9",
-      "title": "",
-      "indent": 0,
-      "line_start": 35,
-      "page_start": 1,
-      "page_end": 1,
-      "text": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3). Entire amount. Ministry of Finance, Government of India",
-      "children": []
-    },
-    {
-      "type": "section",
-      "number": "10",
-      "id": "10",
-      "title": "Income Tax Department",
-      "indent": 0,
-      "line_start": 45,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_clauses": "Compensation received by a workman at the time of his retrenchment— Minimum of—",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "10-a",
-          "indent": 3,
-          "line_start": 47,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "under the Industrial Disputes Act, 1947 (14 of 1947); or",
-          "children": []
+          }
         },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "10-b",
-          "indent": 3,
-          "line_start": 49,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "under any other Act or rules, orders or notifications issued thereunder; or",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "c",
-          "id": "10-c",
-          "indent": 3,
-          "line_start": 51,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "under any standing orders; or",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "d",
-          "id": "10-d",
-          "indent": 3,
-          "line_start": 53,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "under any award, contract of service or other-wise.",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "10-a",
-          "indent": 6,
-          "line_start": 55,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "compensation received;",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "10-b",
-          "indent": 6,
-          "line_start": 57,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947);",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "c",
-          "id": "10-c",
-          "indent": 6,
-          "line_start": 59,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "such amount, not being less than Rs. 50000, as may be notified by the Central Government.",
-          "children": []
-        }
-      ],
-      "text_after_clauses": ""
-    },
-    {
-      "type": "section",
-      "number": "11",
-      "id": "11",
-      "title": "",
-      "indent": 0,
-      "line_start": 61,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_clauses": "In case of compensation referred to in Sl. No. 10, where such Compensation received. compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "11-a",
-          "indent": 3,
-          "line_start": 63,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "the need for extending special protection to the workmen in the undertaking to which such scheme applies; and",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "11-b",
-          "indent": 3,
-          "line_start": 65,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "other relevant circum-stances.",
-          "children": []
-        }
-      ],
-      "text_after_clauses": ""
-    },
-    {
-      "type": "section",
-      "number": "12",
-      "id": "12",
-      "title": "",
-      "indent": 0,
-      "line_start": 67,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_clauses": "Amount received or receivable on voluntary retirement or termination of Minimum of— service under a scheme or schemes of voluntary retirement, by an ( a employee as referred to in sub-section (2)(h).",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "12-a",
-          "indent": 6,
-          "line_start": 69,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "compensation received; and",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "12-b",
-          "indent": 6,
-          "line_start": 71,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "Rs. 500000.",
-          "children": []
-        }
-      ],
-      "text_after_clauses": ""
-    },
-    {
-      "type": "section",
-      "number": "13",
-      "id": "13",
-      "title": "",
-      "indent": 0,
-      "line_start": 73,
-      "page_start": 1,
-      "page_end": 1,
-      "text": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise. Entire amount.",
-      "children": []
-    },
-    {
-      "type": "section",
-      "number": "14",
-      "id": "14",
-      "title": "",
-      "indent": 0,
-      "line_start": 77,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_subsections": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee. Amount being minimum of—",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "14-a",
-          "indent": 9,
-          "line_start": 81,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service);",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "14-b",
-          "indent": 9,
-          "line_start": 83,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "amount \"A\", where,— A=10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "c",
-          "id": "14-c",
-          "indent": 9,
-          "line_start": 89,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "d",
-          "id": "14-d",
-          "indent": 9,
-          "line_start": 91,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "actual payment received.",
-          "children": []
-        }
-      ],
-      "subsections": [
         {
           "type": "subsection",
           "number": "2",
-          "id": "14-2",
+          "id": "19-2",
           "indent": 0,
           "line_start": 93,
           "page_start": 1,
@@ -442,7 +151,7 @@
             {
               "type": "clause",
               "number": "a",
-              "id": "14-2-a",
+              "id": "19-2-a",
               "indent": 3,
               "line_start": 95,
               "page_start": 1,
@@ -453,7 +162,7 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "14-2-b",
+              "id": "19-2-b",
               "indent": 0,
               "line_start": 103,
               "page_start": 1,
@@ -464,7 +173,7 @@
             {
               "type": "clause",
               "number": "c",
-              "id": "14-2-c",
+              "id": "19-2-c",
               "indent": 0,
               "line_start": 105,
               "page_start": 1,
@@ -474,7 +183,7 @@
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "14-2-c-i",
+                  "id": "19-2-c-i",
                   "indent": 3,
                   "line_start": 107,
                   "page_start": 1,
@@ -485,7 +194,7 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "14-2-c-ii",
+                  "id": "19-2-c-ii",
                   "indent": 3,
                   "line_start": 109,
                   "page_start": 1,
@@ -495,7 +204,7 @@
                     {
                       "type": "item",
                       "number": "A",
-                      "id": "14-2-c-ii-A",
+                      "id": "19-2-c-ii-A",
                       "indent": 6,
                       "line_start": 111,
                       "page_start": 1,
@@ -506,7 +215,7 @@
                     {
                       "type": "item",
                       "number": "B",
-                      "id": "14-2-c-ii-B",
+                      "id": "19-2-c-ii-B",
                       "indent": 6,
                       "line_start": 113,
                       "page_start": 1,
@@ -517,7 +226,7 @@
                     {
                       "type": "item",
                       "number": "C",
-                      "id": "14-2-c-ii-C",
+                      "id": "19-2-c-ii-C",
                       "indent": 0,
                       "line_start": 115,
                       "page_start": 1,
@@ -528,7 +237,7 @@
                     {
                       "type": "item",
                       "number": "d",
-                      "id": "14-2-c-ii-d",
+                      "id": "19-2-c-ii-d",
                       "indent": 0,
                       "line_start": 117,
                       "page_start": 1,
@@ -539,7 +248,7 @@
                     {
                       "type": "item",
                       "number": "e",
-                      "id": "14-2-c-ii-e",
+                      "id": "19-2-c-ii-e",
                       "indent": 0,
                       "line_start": 119,
                       "page_start": 1,
@@ -550,7 +259,7 @@
                     {
                       "type": "item",
                       "number": "i",
-                      "id": "14-2-c-ii-i",
+                      "id": "19-2-c-ii-i",
                       "indent": 3,
                       "line_start": 121,
                       "page_start": 1,
@@ -561,7 +270,7 @@
                     {
                       "type": "item",
                       "number": "ii",
-                      "id": "14-2-c-ii-ii",
+                      "id": "19-2-c-ii-ii",
                       "indent": 3,
                       "line_start": 123,
                       "page_start": 1,
@@ -572,7 +281,7 @@
                     {
                       "type": "item",
                       "number": "iii",
-                      "id": "14-2-c-ii-iii",
+                      "id": "19-2-c-ii-iii",
                       "indent": 3,
                       "line_start": 125,
                       "page_start": 1,
@@ -589,7 +298,7 @@
             {
               "type": "clause",
               "number": "f",
-              "id": "14-2-f",
+              "id": "19-2-f",
               "indent": 0,
               "line_start": 127,
               "page_start": 1,
@@ -600,7 +309,7 @@
             {
               "type": "clause",
               "number": "g",
-              "id": "14-2-g",
+              "id": "19-2-g",
               "indent": 0,
               "line_start": 143,
               "page_start": 1,
@@ -610,7 +319,7 @@
                 {
                   "type": "item",
                   "number": "A",
-                  "id": "14-2-g-A",
+                  "id": "19-2-g-A",
                   "indent": 3,
                   "line_start": 145,
                   "page_start": 1,
@@ -621,7 +330,7 @@
                 {
                   "type": "item",
                   "number": "B",
-                  "id": "14-2-g-B",
+                  "id": "19-2-g-B",
                   "indent": 3,
                   "line_start": 147,
                   "page_start": 1,
@@ -632,7 +341,7 @@
                 {
                   "type": "item",
                   "number": "i",
-                  "id": "14-2-g-i",
+                  "id": "19-2-g-i",
                   "indent": 6,
                   "line_start": 149,
                   "page_start": 1,
@@ -643,7 +352,7 @@
                 {
                   "type": "item",
                   "number": "ii",
-                  "id": "14-2-g-ii",
+                  "id": "19-2-g-ii",
                   "indent": 6,
                   "line_start": 151,
                   "page_start": 1,
@@ -654,7 +363,7 @@
                 {
                   "type": "item",
                   "number": "iii",
-                  "id": "14-2-g-iii",
+                  "id": "19-2-g-iii",
                   "indent": 6,
                   "line_start": 153,
                   "page_start": 1,
@@ -665,7 +374,7 @@
                 {
                   "type": "item",
                   "number": "iv",
-                  "id": "14-2-g-iv",
+                  "id": "19-2-g-iv",
                   "indent": 6,
                   "line_start": 155,
                   "page_start": 1,
@@ -679,7 +388,7 @@
             {
               "type": "clause",
               "number": "h",
-              "id": "14-2-h",
+              "id": "19-2-h",
               "indent": 0,
               "line_start": 157,
               "page_start": 1,
@@ -689,7 +398,7 @@
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "14-2-h-i",
+                  "id": "19-2-h-i",
                   "indent": 3,
                   "line_start": 159,
                   "page_start": 1,
@@ -700,7 +409,7 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "14-2-h-ii",
+                  "id": "19-2-h-ii",
                   "indent": 3,
                   "line_start": 161,
                   "page_start": 1,
@@ -711,7 +420,7 @@
                 {
                   "type": "sub_clause",
                   "number": "iii",
-                  "id": "14-2-h-iii",
+                  "id": "19-2-h-iii",
                   "indent": 3,
                   "line_start": 163,
                   "page_start": 1,
@@ -722,7 +431,7 @@
                 {
                   "type": "sub_clause",
                   "number": "iv",
-                  "id": "14-2-h-iv",
+                  "id": "19-2-h-iv",
                   "indent": 3,
                   "line_start": 165,
                   "page_start": 1,
@@ -733,7 +442,7 @@
                 {
                   "type": "sub_clause",
                   "number": "v",
-                  "id": "14-2-h-v",
+                  "id": "19-2-h-v",
                   "indent": 3,
                   "line_start": 167,
                   "page_start": 1,
@@ -744,7 +453,7 @@
                 {
                   "type": "sub_clause",
                   "number": "vi",
-                  "id": "14-2-h-vi",
+                  "id": "19-2-h-vi",
                   "indent": 3,
                   "line_start": 169,
                   "page_start": 1,
@@ -755,7 +464,7 @@
                 {
                   "type": "sub_clause",
                   "number": "vii",
-                  "id": "14-2-h-vii",
+                  "id": "19-2-h-vii",
                   "indent": 3,
                   "line_start": 171,
                   "page_start": 1,
@@ -766,7 +475,7 @@
                 {
                   "type": "sub_clause",
                   "number": "viii",
-                  "id": "14-2-h-viii",
+                  "id": "19-2-h-viii",
                   "indent": 3,
                   "line_start": 173,
                   "page_start": 1,
@@ -777,7 +486,7 @@
                 {
                   "type": "sub_clause",
                   "number": "ix",
-                  "id": "14-2-h-ix",
+                  "id": "19-2-h-ix",
                   "indent": 3,
                   "line_start": 175,
                   "page_start": 1,
@@ -788,7 +497,7 @@
                 {
                   "type": "sub_clause",
                   "number": "x",
-                  "id": "14-2-h-x",
+                  "id": "19-2-h-x",
                   "indent": 3,
                   "line_start": 177,
                   "page_start": 1,
