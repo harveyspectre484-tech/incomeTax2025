@@ -1,0 +1,115 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "7",
+      "id": "7",
+      "title": "Income deemed to be received and dividend deemed to be income in a tax year.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "7-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following incomes shall be deemed to be received in the tax year:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "7-1-a",
+              "x": 40.8,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the annual accretion in that year to the balance at the credit of an employee participating in a recognised provident fund, to the extent provided in paragraph 6 of Part A of Schedule XI;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "7-1-b",
+              "x": 40.8,
+              "y_start": 115.6,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transferred balance in a recognised provident fund, to the extent provided in paragraph 11(4) and (5) of Part A of Schedule XI;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "7-1-c",
+              "x": 41.27,
+              "y_start": 126.2,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the contribution made by the Central Government or any other employer in that year to the account of an employee under a pension scheme mentioned in section 124.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "7-2",
+          "x": 27.62,
+          "y_start": 147.42,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For inclusion in the total income of an assessee,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "7-2-a",
+              "x": 40.8,
+              "y_start": 161.74,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any dividend declared by a company or distributed or paid by it within the meaning of section 2(40)(a) to [(e)] shall be deemed to be the income of the tax year in which it is so declared, distributed or paid, as the case may be;",
+              "children": [],
+              "footnote_refs": [
+                "7-2-a-fn4"
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "7-2-b",
+              "x": 40.8,
+              "y_start": 181.9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any interim dividend shall be deemed to be the income of the tax year in which the amount of such dividend is unconditionally made available by the company to the member who is entitled to it.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "4",
+      "text": "Sub. for \"(f)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1,
+      "id": "7-2-a-fn4",
+      "referenced_from": "7-2-a"
+    }
+  ],
+  "orphans": []
+}
