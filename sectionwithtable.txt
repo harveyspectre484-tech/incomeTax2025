@@ -1,2 +1,8 @@
 section 19,31,36,39,46,52,58,61,63,69(footnote,subsection 3),70(look for footnote),73(formula,subsection2),193,194,201,202,204,
 206,207,208,209,210,211,214,218,227,263,265,286 .288.322.337.352.354.393.394.402.408.423.425.437.536
+
+
+when I converting pdf to md , below the table content is not getting converted
+Here's what's actually happening: the table detection is grabbing the sentence "(2) The option under this section shall be exercised by the assessee in the manner prescribed subject to the following conditions:—" and splitting it across table cells (you can see (2) T starting one cell and he option...following conditions:— ending another cell on line 19). The (a)(b)(c)(d) sub-points are actually present further down — just the intro sentence is mangled into the table.
+
+This is a known weak spot in pymupdf4llm's table-boundary detection (it decides the table region extends further down than it should, since the PDF's underlying text/border geometry overlaps).
