@@ -1,0 +1,311 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "425",
+      "id": "425",
+      "title": "Interest for deferment of advance tax.",
+      "indent": 0,
+      "line_start": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "425-1",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where in any tax year, an assessee, liable to pay advance tax under section 404, other than the assessee mentioned in sub-section (3), has failed to pay such tax, or the advance tax paid by the assessee on its current income on or before the date specified in column B of the Table below, is less than advance tax due on returned income, as specified in column C, then the assessee shall be liable to pay interest on the amount of shortfall of advance tax as specified in column D, at the rate of interest specified in column E:�",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "425-1-table-1",
+            "title": "TABLE",
+            "format": "pipe",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 9,
+            "line_end": 16,
+            "columns": [
+              "Sl. No. A",
+              "Due date of Instalment B",
+              "Advance tax due on returned income C",
+              "TABLE Amount of Shortfall of advance tax being advance tax due as per column C, as reduced by advance tax already paid on or before the date specified in column B D",
+              "Interest payable on shortfall as specified in column D E"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "15th day of June",
+                "column_C": "15% of the tax due on returned income.",
+                "column_D": "Shortfall till 15th day of June",
+                "column_E": "3%"
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "15th day of September.",
+                "column_C": "45% of the tax due on returned income.",
+                "column_D": "Shortfall till 15th day of September",
+                "column_E": "3%"
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "15th day of December.",
+                "column_C": "75% of the tax due on returned income.",
+                "column_D": "Shortfall till 15th day of December",
+                "column_E": "3%"
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "15th day of March.",
+                "column_C": "100% of the tax due on returned income.",
+                "column_D": "Shortfall till 15th day of March",
+                "column_E": "1%."
+              }
+            ],
+            "linearized_text": "Subsection (1): Where in any tax year, an assessee, liable to pay advance tax under section 404, other than the assessee mentioned in sub-section (3), has failed to pay such tax, or the advance tax paid by the assessee on its current income on or before the date specified in column B of the Table below, is less than advance tax due on returned income, as specified in column C, then the assessee shall be liable to pay interest on the amount of shortfall of advance tax as specified in column D, at the rate of interest specified in column E:� Table items: Item 1 - Due date of Instalment B: 15th day of June; Advance tax due on returned income C: 15% of the tax due on returned income.; TABLE Amount of Shortfall of advance tax being advance tax due as per column C, as reduced by advance tax already paid on or before the date specified in column B D: Shortfall till 15th day of June; Interest payable on shortfall as specified in column D E: 3%. Item 2 - Due date of Instalment B: 15th day of September.; Advance tax due on returned income C: 45% of the tax due on returned income.; TABLE Amount of Shortfall of advance tax being advance tax due as per column C, as reduced by advance tax already paid on or before the date specified in column B D: Shortfall till 15th day of September; Interest payable on shortfall as specified in column D E: 3%. Item 3 - Due date of Instalment B: 15th day of December.; Advance tax due on returned income C: 75% of the tax due on returned income.; TABLE Amount of Shortfall of advance tax being advance tax due as per column C, as reduced by advance tax already paid on or before the date specified in column B D: Shortfall till 15th day of December; Interest payable on shortfall as specified in column D E: 3%. Item 4 - Due date of Instalment B: 15th day of March.; Advance tax due on returned income C: 100% of the tax due on returned income.; TABLE Amount of Shortfall of advance tax being advance tax due as per column C, as reduced by advance tax already paid on or before the date specified in column B D: Shortfall till 15th day of March; Interest payable on shortfall as specified in column D E: 1%..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "425-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 9
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "425-2",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The assessee shall not be liable to pay any interest under sub-section (1), if the advance tax paid by the assessee on the current income,�",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "425-2-a",
+              "indent": 3,
+              "line_start": 22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on or before the 15th day of June is 12% or more of the tax due on the returned income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "425-2-b",
+              "indent": 3,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on or before the 15th day of September is 36% or more of the tax due on the returned income.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "425-3",
+          "indent": 0,
+          "line_start": 26,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "An assessee who declares profits and gains as per section 58(2) (Table: Sl. No. 1 or 3) or, who is liable to pay advance tax under section 404, has failed to pay such tax, or the advance tax paid by the assessee on its current income on or before the 15th day of March is less than the tax due on returned income, shall be liable to pay simple interest at the rate of 1% on the amount of shortfall from the tax due on returned income.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "425-4",
+          "indent": 0,
+          "line_start": 28,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No interest shall be payable under sub-section (1) or (3) in respect of shortfall in the payment of tax due on returned income, where,�",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "425-4-a",
+              "indent": 3,
+              "line_start": 30,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "the shortfall is on account of under estimation of, or failure to estimate the following income:�",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "425-4-a-i",
+                  "indent": 6,
+                  "line_start": 32,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "capital gains;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "425-4-a-ii",
+                  "indent": 6,
+                  "line_start": 34,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income as per section 2(49)(n) ;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "425-4-a-iii",
+                  "indent": 6,
+                  "line_start": 36,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income under the head profits and gains of business or profession accruing or arising for the first time;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "425-4-a-iv",
+                  "indent": 6,
+                  "line_start": 38,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "dividend income; and",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "425-4-b",
+              "indent": 3,
+              "line_start": 40,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee has paid in full, the tax payable on the said income had such income been part of total income, in any of the remaining instalments of advance tax, if any, or by the 31st day of March of the tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "425-5",
+          "indent": 0,
+          "line_start": 42,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section \"tax due on the returned income\" means the tax chargeable on the total income declared in the return of income furnished by the assessee for the tax year in which the advance tax is paid or payable, as reduced by the amount of�",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "425-5-a",
+              "indent": 0,
+              "line_start": 46,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax deducted or collected at source as per the provisions of Chapter XIX-B on any income which is subject to such deduction or collection and which is taken into account in computing such total income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "425-5-b",
+              "indent": 0,
+              "line_start": 48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 157;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "425-5-c",
+              "indent": 0,
+              "line_start": 50,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 159(1) on account of tax paid in a country outside India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "425-5-d",
+              "indent": 0,
+              "line_start": 52,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 159(2) on account of tax paid in a specified territory outside India referred to in that section;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "425-5-e",
+              "indent": 0,
+              "line_start": 54,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any deduction, from the Indian income-tax payable, allowed under section 160, on account of tax paid in a country outside India; and 2 [ (f) any tax credit allowed to be set off as per section 206(2)(e) to (h) and 206(3) and (4). ]",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "425-6",
+          "indent": 0,
+          "line_start": 56,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this sub-section, the expression \"dividend\" shall have the meaning assigned to it in section 2(40), but shall not include sub-clause (e) thereof. \"(f) any tax credit allowed to be set off as per section 206(1)(m) to (p) and 206(2)(e) to (h) .\"",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "2",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026 . Prior to its substitution, clause (f) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

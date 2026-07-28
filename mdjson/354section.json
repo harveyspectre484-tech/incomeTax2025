@@ -1,0 +1,218 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "6",
+      "id": "6",
+      "title": "",
+      "indent": 0,
+      "line_start": 3,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "�Approval for purpose of deduction under section 133(1)(b)(ii)",
+      "children": []
+    },
+    {
+      "type": "section",
+      "number": "354",
+      "id": "354",
+      "title": "Application for approval for purpose of section 133(1)(b)(ii).",
+      "indent": 0,
+      "line_start": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "354-1",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A registered non-profit organisation or a person referred to in Schedule VII (Table: Sl. No. 1) may, for the purpose of section 133(1)(b)(ii), make an application for approval in such form and manner, as may be prescribed, to the Principal Commissioner or Commissioner, subject to the following conditions:�",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "354-1-a",
+              "indent": 3,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is not expressed to be for the benefit of any particular religious community or caste;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "354-1-b",
+              "indent": 3,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is established in India for a charitable purpose and does not incur any expenditure of an amount exceeding 5% of its total income during a tax year which is of a religious nature;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "354-1-c",
+              "indent": 3,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the instrument under which it is constituted does not, or the rules governing it do not, contain any provision for the transfer at any time of the whole or any part of its assets for any purpose other than a charitable purpose;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "354-1-d",
+              "indent": 3,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it maintains regular accounts of its receipts and expenditure;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "354-1-e",
+              "indent": 3,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it prepares such statement for such period, as may be prescribed, and deliver or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority such statement in such form and verified in such manner and setting forth such particulars and within such time, as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "354-1-f",
+              "indent": 3,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it delivers to the said prescribed authority, a correction statement for rectification of any mistake or to add, delete or update the information furnished in the statement delivered under clause (e) in such form and verified in such manner, as may be prescribed; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "354-1-g",
+              "indent": 3,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it furnishes a certificate to the donor specifying the amount of donation within such period from the date of receipt of the donation containing the requisite particulars in manner, as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "354-2",
+          "indent": 0,
+          "line_start": 23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The application under sub-section (1) shall be made in respect of the cases referred to in column B of the Table below within the time limit provided in column C of the said Table and the Principal Commissioner or Commissioner, on receipt of such application, shall follow the procedure provided in subsections (3) and (4), and shall pass an order in writing within the time limit provided in column D and approval, if granted, shall be valid for a period provided in column E of the said Table:",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "354-2-table-1",
+            "title": "TABLE",
+            "format": "pipe",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 27,
+            "line_end": 47,
+            "columns": [
+              "colum sectio provi Sl. No. A",
+              "n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B",
+              "missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C",
+              "eceipt of such application, shall ded in column D and approval, Time limit for passing the order D",
+              "ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Where the activities of the applicant have not commenced.",
+                "column_C": "At any time during the tax year from which approval is sought.",
+                "column_D": "One month from the end of the month in which application is made.",
+                "column_E": "Three tax years commencing from the tax year in which such application is made."
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Where the activities of the applicant have commenced.",
+                "column_C": "At any time during the tax year from which approval is sought.",
+                "column_D": "Six months from the end of the quarter in which application is made.",
+                "column_E": "Five tax years commencing from the tax year in which such application is made."
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Where the applicant has provisional approval and activities have commenced.",
+                "column_C": "Within six months of the commencement of activities.",
+                "column_D": "Six months from the end of the quarter in which application is made.",
+                "column_E": "Five tax years commencing from the tax year in which such application is made."
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "Where the provisional approval of the applicant is due to expire and activities have not commenced.",
+                "column_C": "At least six months prior to the expiry of the provisional approval.",
+                "column_D": "Six months from the end of the quarter in which application is made.",
+                "column_E": "Five tax years following the tax year in which such application is made."
+              },
+              {
+                "item_no": 5,
+                "column_A": "(3) W Com of the (a",
+                "column_B": "Where the period for approval of a registered non-profit organisation is due to expire. here an application has been made in any missioner shall call for such documents or in activities, and compliance of such requirem ) if he is so satisfied about the objects and pass an order in writing approving it; or",
+                "column_C": "At least six months prior to the expiry of the said approval. of the cases specified under sub formation or make such inquiries a ents of any other law in force, as ar the genuineness of the activities a",
+                "column_D": "Six months from the end of the quarter in which application is made. -section (2) (Table: Sl. Nos. 2 s he thinks necessary in order to e material for the purposes of ac nd compliance of such requireme",
+                "column_E": "Five tax years following the tax year in which such application is made. to 5), the Principal Commissioner or satisfy himself about the genuineness hieving its objects, and� nts of any other law in force, he shall"
+              }
+            ],
+            "linearized_text": "Subsection (2): The application under sub-section (1) shall be made in respect of the cases referred to in column B of the Table below within the time limit provided in column C of the said Table and the Principal Commissioner or Commissioner, on receipt of such application, shall follow the procedure provided in subsections (3) and (4), and shall pass an order in writing within the time limit provided in column D and approval, if granted, shall be valid for a period provided in column E of the said Table: Table items: Item 1 - n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B: Where the activities of the applicant have not commenced.; missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C: At any time during the tax year from which approval is sought.; eceipt of such application, shall ded in column D and approval, Time limit for passing the order D: One month from the end of the month in which application is made.; ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E: Three tax years commencing from the tax year in which such application is made.. Item 2 - n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B: Where the activities of the applicant have commenced.; missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C: At any time during the tax year from which approval is sought.; eceipt of such application, shall ded in column D and approval, Time limit for passing the order D: Six months from the end of the quarter in which application is made.; ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E: Five tax years commencing from the tax year in which such application is made.. Item 3 - n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B: Where the applicant has provisional approval and activities have commenced.; missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C: Within six months of the commencement of activities.; eceipt of such application, shall ded in column D and approval, Time limit for passing the order D: Six months from the end of the quarter in which application is made.; ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E: Five tax years commencing from the tax year in which such application is made.. Item 4 - n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B: Where the provisional approval of the applicant is due to expire and activities have not commenced.; missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C: At least six months prior to the expiry of the provisional approval.; eceipt of such application, shall ded in column D and approval, Time limit for passing the order D: Six months from the end of the quarter in which application is made.; ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E: Five tax years following the tax year in which such application is made.. Item 5 - colum sectio provi Sl. No. A: (3) W Com of the (a; n C of the said Table and the Principal Com ns (3) and (4), and shall pass an order in w ded in column E of the said Table: Case B: Where the period for approval of a registered non-profit organisation is due to expire. here an application has been made in any missioner shall call for such documents or in activities, and compliance of such requirem ) if he is so satisfied about the objects and pass an order in writing approving it; or; missioner or Commissioner, on r riting within the time limit provi TABLE Time limit for furnishing application C: At least six months prior to the expiry of the said approval. of the cases specified under sub formation or make such inquiries a ents of any other law in force, as ar the genuineness of the activities a; eceipt of such application, shall ded in column D and approval, Time limit for passing the order D: Six months from the end of the quarter in which application is made. -section (2) (Table: Sl. Nos. 2 s he thinks necessary in order to e material for the purposes of ac nd compliance of such requireme; ollow the procedure provided in sub- if granted, shall be valid for a period Validity of approval E: Five tax years following the tax year in which such application is made. to 5), the Principal Commissioner or satisfy himself about the genuineness hieving its objects, and� nts of any other law in force, he shall.",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "354-2",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 27
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "354-4",
+          "indent": 0,
+          "line_start": 49,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where an application has been made in any of the cases specified in sub-section (2) (Table: Sl. No. 1), the Principal Commissioner or Commissioner shall pass an order granting provisional approval.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department Ministry of Finance, Government of India"
+    }
+  ]
+}
