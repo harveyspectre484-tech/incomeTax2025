@@ -1118,10 +1118,15 @@ def token_kind(token: str, current: dict[str, Any], line: MdLine | None = None) 
     if token.isdigit():
         return "subsection"
     if token.islower():
+        if token in LOWER_ROMAN:
+            current_clause = current.get("clause")
+            if current_clause and current_clause.get("number") == "h" and token == "i":
+                return "clause"
+            return "sub_clause"
         current_item = current.get("item")
         if current_item and line and line.indent >= int(current_item.get("indent", -1)):
             return "item"
-        return "sub_clause" if token in LOWER_ROMAN else "clause"
+        return "clause"
     if token.isupper():
         return "item"
     return "item"
