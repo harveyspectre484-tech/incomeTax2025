@@ -1,4 +1,3 @@
-
 # """
 # Convert Markdown extracted from an Income-tax Act PDF into structured JSON.
 
@@ -28,12 +27,14 @@
 # CHAPTER_RE = re.compile(r"^(CHAPTER|Chapter)\s+([IVXLCDM\dA-Z-]+)\b(?:\s*[-:.\u2014]\s*(.*))?$")
 # SECTION_RE = re.compile(r"^(?P<number>\d+[A-Z]?)\.\s*(?P<rest>.*)$")
 # BRACKET_RE = re.compile(r"^\s*\[?\(\s*(?P<token>[A-Za-z]+|\d+)\s*\)\s*")
+# FOOTNOTE_REF_RE = re.compile(r"^\s*(?P<ref>\d+[a-z]?)\s+\[\s*(?=\()", re.I)
+# EMPTY_FOOTNOTE_REF_RE = re.compile(r"^\s*(?P<ref>\d+[a-z]?)\s+\[\s*\]\s*$", re.I)
 # EXPLANATION_RE = re.compile(r"^(Explanation(?:\s+\d+)?\.?|Explanation(?:\s+[A-Z])?)\s*[-:.\u2014]?\s*(.*)$", re.I)
 # PROVISO_RE = re.compile(r"^(Provided(?:\s+further)?\s+that)\b[:,]?\s*(.*)$", re.I)
 # ILLUSTRATION_RE = re.compile(r"^(Illustration(?:\s+\d+)?\.?)\s*[-:.\u2014]?\s*(.*)$", re.I)
 # FOOTNOTE_START_RE = re.compile(
-#     r"^(?P<number>\d+)\.\s+"
-#     r"(?P<text>(?:Sub\.|Sub-sections?|Words?|Clauses?|Clause|Omtt\.|Inserted|Ins\.|"
+#     r"^(?P<number>\d+[a-z]?)\.\s+"
+#     r"(?P<text>(?:Sub\.|Sub-sections?|Words?|Clauses?|Clause|Items?|Omtt\.|Inserted|Ins\.|"
 #     r"Omitted|Prior to|Explanation|Proviso).+)$",
 #     re.I,
 # )
@@ -62,6 +63,27 @@
 #     return re.sub(r"\s+", " ", text).strip()
 
 
+# def strip_wrapping_square_bracket(text: str) -> str:
+#     text = text.strip()
+#     if text.endswith("]"):
+#         return text[:-1].rstrip()
+#     return text
+
+
+# def extract_footnote_refs(text: str) -> tuple[list[str], str]:
+#     refs: list[str] = []
+#     rest = text
+#     while True:
+#         match = FOOTNOTE_REF_RE.match(rest)
+#         if not match:
+#             break
+#         refs.append(match.group("ref"))
+#         rest = rest[match.end():]
+#     if refs:
+#         rest = strip_wrapping_square_bracket(rest)
+#     return refs, rest
+
+
 # def strip_md_inline(text: str) -> str:
 #     text = text.strip().replace("\u00a0", " ")
 #     text = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", text)
@@ -73,6 +95,7 @@
 #     text = re.sub(r"</?sub>", "", text, flags=re.I)
 #     text = re.sub(r"<br\s*/?>", " ", text, flags=re.I)
 #     text = re.sub(r"</?[^>]+>", "", text)
+#     text = text.replace("_", "").replace("*", "")
 #     text = re.sub(r"\(\s+([A-Za-z]+|\d+)\s+\)", r"(\1)", text)
 #     return text.strip()
 
@@ -163,10 +186,15 @@
 #     if token.isdigit():
 #         return "subsection"
 #     if token.islower():
+#         if token in LOWER_ROMAN:
+#             current_clause = current.get("clause")
+#             if current_clause and current_clause.get("number") == "h" and token == "i":
+#                 return "clause"
+#             return "sub_clause"
 #         current_item = current.get("item")
 #         if current_item and line and line.indent >= int(current_item.get("indent", -1)):
 #             return "item"
-#         return "sub_clause" if token in LOWER_ROMAN else "clause"
+#         return "clause"
 #     if token.isupper():
 #         return "item"
 #     return "item"
@@ -251,7 +279,7 @@
 
 
 # def consume_bracket_tokens(text: str, line: MdLine, current: dict[str, Any]) -> str:
-#     rest = text
+#     footnote_refs, rest = extract_footnote_refs(text)
 #     created: dict[str, Any] | None = None
 
 #     while True:
@@ -266,11 +294,17 @@
 #             break
 
 #         node = new_node(kind, token, "", line)
+#         if footnote_refs and created is None:
+#             node["footnote_refs"] = footnote_refs
 #         attach_child(parent, node)
 #         set_current(kind, node, current)
 #         created = node
 
 #     if created:
+#         empty_ref = EMPTY_FOOTNOTE_REF_RE.match(rest)
+#         if empty_ref:
+#             created.setdefault("footnote_refs", []).append(empty_ref.group("ref"))
+#             rest = ""
 #         append_text(created, rest, line)
 #         return ""
 #     return text
@@ -314,7 +348,8 @@
 
 
 # def is_pipe_table_line(text: str) -> bool:
-#     return "|" in text and len([cell for cell in text.strip("|").split("|")]) >= 2
+#     stripped = text.strip()
+#     return "|" in stripped and (stripped.count("|") >= 2 or len(stripped.split("|")) >= 3)
 
 
 # def is_pipe_separator(text: str) -> bool:
@@ -323,7 +358,14 @@
 
 
 # def split_pipe_row(text: str) -> list[str]:
-#     return [clean_text(cell) for cell in text.strip().strip("|").split("|")]
+#     raw_cells = text.strip().split("|")
+#     if len(raw_cells) > 2 and raw_cells[0] == "" and raw_cells[-1] == "":
+#         raw_cells = raw_cells[1:-1]
+#     elif len(raw_cells) > 1 and raw_cells[0] == "":
+#         raw_cells = raw_cells[1:]
+#     elif len(raw_cells) > 1 and raw_cells[-1] == "":
+#         raw_cells = raw_cells[:-1]
+#     return [clean_text(cell) for cell in raw_cells]
 
 
 # def strip_item_number(text: str) -> tuple[int | None, str]:
@@ -454,24 +496,40 @@
 #     if not raw_rows:
 #         return [], []
 
-#     columns = [normalize_header_text(cell) for cell in raw_rows[0]]
+#     header_idx = 0
+#     for idx, raw in enumerate(raw_rows):
+#         if any(strip_item_number(cell)[0] is not None for cell in raw):
+#             header_idx = idx
+#             break
+
+#     columns = []
+#     if header_idx > 0:
+#         width = max(len(r) for r in raw_rows[:header_idx])
+#         for c in range(width):
+#             parts = [r[c] for r in raw_rows[:header_idx] if c < len(r)]
+#             columns.append(normalize_header_text(" ".join(parts)))
+#     else:
+#         columns = [normalize_header_text(cell) for cell in raw_rows[0]]
+
 #     rows: list[dict[str, Any]] = []
-#     for raw in raw_rows[1:]:
-#         row: dict[str, Any] = {}
-#         item_no: int | None = None
-#         for index, cell in enumerate(raw):
-#             found_item, body = strip_item_number(cell)
-#             if index == 0 and found_item is not None:
-#                 item_no = found_item
-#                 row["item_no"] = found_item
-#                 cell = body
-#             row[column_key(index)] = cell
-#         if item_no is None:
-#             first_item, first_body = strip_item_number(raw[0] if raw else "")
-#             if first_item is not None:
-#                 row["item_no"] = first_item
-#                 row["column_A"] = first_body
-#         rows.append(row)
+#     current_row: dict[str, Any] | None = None
+
+#     for raw in raw_rows[header_idx:]:
+#         item_no, body = strip_item_number(raw[0] if raw else "")
+#         if item_no is not None:
+#             current_row = {"item_no": item_no}
+#             values = [body] + raw[1:]
+#             for index, value in enumerate(values):
+#                 current_row[column_key(index)] = value
+#             rows.append(current_row)
+#             continue
+
+#         if current_row is not None:
+#             for index, value in enumerate(raw):
+#                 key = column_key(index)
+#                 if value:
+#                     current_row[key] = merge_text(current_row.get(key, ""), value)
+
 #     return columns, rows
 
 
@@ -495,6 +553,17 @@
 #     return bool(re.fullmatch(r"(?:[A-Z]\s+){2,}[A-Z]", clean_text(text)))
 
 
+# DEDUCTION_MARKERS = [
+#     "Entire amount.",
+#     "Minimum of—",
+#     "Amount being minimum of—",
+#     "Compensation received.",
+#     "Amount received, as restricted",
+#     "The commuted value shall be",
+#     "Rs. 500000.",
+# ]
+
+
 # def rows_from_loose_borderless_table(lines: list[MdLine]) -> tuple[list[str], list[dict[str, Any]]]:
 #     header_parts: list[str] = []
 #     rows: list[dict[str, Any]] = []
@@ -506,10 +575,21 @@
 #             continue
 
 #         item_no, body = strip_item_number(text)
-#         if item_no is not None and (line.numeric_list_item or item_no <= 50):
+#         if item_no is not None and (line.numeric_list_item or item_no <= 50 or current_row is not None):
+#             col_a = body
+#             col_b = ""
+#             for marker in DEDUCTION_MARKERS:
+#                 if marker in body:
+#                     parts = body.split(marker, 1)
+#                     col_a = clean_text(parts[0])
+#                     col_b = clean_text(marker + parts[1])
+#                     break
+
 #             current_row = {
 #                 "item_no": item_no,
-#                 "column_A": body,
+#                 "column_A": "",
+#                 "column_B": col_a,
+#                 "column_C": col_b,
 #                 "raw_text": body,
 #             }
 #             rows.append(current_row)
@@ -520,16 +600,29 @@
 #             continue
 
 #         current_row["raw_text"] = merge_text(current_row.get("raw_text", ""), text)
-#         current_row["column_A"] = merge_text(current_row.get("column_A", ""), text)
+
+#         is_deduction = any(text.startswith(m) or text == m for m in DEDUCTION_MARKERS)
+#         if is_deduction or (current_row.get("column_C") and not text.startswith("(") and not line.indent > 4):
+#             current_row["column_C"] = merge_text(current_row.get("column_C", ""), text)
+#         elif any(marker in text for marker in DEDUCTION_MARKERS):
+#             for marker in DEDUCTION_MARKERS:
+#                 if marker in text:
+#                     parts = text.split(marker, 1)
+#                     if parts[0].strip():
+#                         current_row["column_B"] = merge_text(current_row.get("column_B", ""), parts[0])
+#                     current_row["column_C"] = merge_text(current_row.get("column_C", ""), marker + parts[1])
+#                     break
+#         else:
+#             current_row["column_B"] = merge_text(current_row.get("column_B", ""), text)
 
 #     columns = known_income_tax_columns(" ".join(header_parts))
 #     if not columns:
-#         columns = [normalize_header_text(" ".join(header_parts)) or "Text"]
+#         columns = ["Sl. No.", "Nature of sum", "Amount of deduction"]
 #     return columns, rows
 
 
 # def rows_from_borderless_table(lines: list[MdLine]) -> tuple[list[str], list[dict[str, Any]]]:
-#     if any(line.list_item for line in lines):
+#     if any(line.list_item for line in lines) or any(strip_item_number(l.text)[0] is not None for l in lines):
 #         return rows_from_loose_borderless_table(lines)
 
 #     raw_rows = [split_borderless_cells(line.text) for line in lines]
@@ -605,46 +698,68 @@
 #     }
 
 
-# def collect_pipe_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None, current: dict[str, Any]) -> tuple[dict[str, Any], int]:
-#     table_lines: list[MdLine] = []
-#     i = start
-#     while i < len(lines) and is_pipe_table_line(lines[i].text):
-#         table_lines.append(lines[i])
-#         i += 1
-#     table = structured_table_from_md("TABLE", table_lines, parent, current, "pipe")
-#     return table, i
+# def is_valid_section_header(line: MdLine, text: str, pending_section_title: str | None, current: dict[str, Any]) -> bool:
+#     if line.list_item:
+#         return False
+#     section_match = SECTION_RE.match(text)
+#     if not section_match:
+#         return False
+
+#     num_str = section_match.group("number")
+#     rest = section_match.group("rest").strip()
+
+#     if not rest and not pending_section_title:
+#         return False
+
+#     curr_section = current.get("section")
+#     if curr_section and curr_section.get("number"):
+#         curr_num = str(curr_section["number"])
+#         curr_m = re.match(r"\d+", curr_num)
+#         new_m = re.match(r"\d+", num_str)
+#         curr_val = int(curr_m.group(0)) if curr_m else 0
+#         new_val = int(new_m.group(0)) if new_m else 0
+
+#         if curr_val > 0 and new_val > 0 and new_val <= curr_val and not pending_section_title:
+#             return False
+
+#         if current.get("subsection") and not line.bold and not pending_section_title:
+#             return False
+
+#     if line.bold or pending_section_title:
+#         return True
+
+#     if not curr_section and (len(num_str) >= 3 or rest):
+#         return True
+
+#     return False
 
 
-# def collect_borderless_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None, current: dict[str, Any]) -> tuple[dict[str, Any], int]:
+# def collect_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None, current: dict[str, Any]) -> tuple[dict[str, Any], int]:
 #     title = "TABLE"
 #     table_lines: list[MdLine] = []
 #     i = start
-#     loose_after_title = False
 
 #     if lines[i].text.strip().upper() == "TABLE":
 #         title = "TABLE"
 #         i += 1
-#         loose_after_title = True
 
 #     while i < len(lines):
 #         line = lines[i]
+#         text = line.text.strip()
+
 #         if is_running_header(line):
 #             i += 1
 #             continue
-#         if loose_after_title:
-#             if table_lines and line_starts_new_table_boundary(line):
-#                 break
-#             table_lines.append(line)
-#             i += 1
-#             continue
-#         if is_borderless_table_candidate(line):
-#             table_lines.append(line)
-#             i += 1
-#             continue
-#         if table_lines and line_starts_hierarchy(line):
-#             break
+
 #         if table_lines:
-#             break
+#             sub_match = BRACKET_RE.match(text)
+#             if sub_match and sub_match.group("token").isdigit():
+#                 break
+#             if is_valid_section_header(line, text, None, current):
+#                 break
+#             if CHAPTER_RE.match(text):
+#                 break
+
 #         table_lines.append(line)
 #         i += 1
 
@@ -652,8 +767,93 @@
 #         table_lines = [lines[start]]
 #         i = start + 1
 
-#     table = structured_table_from_md(title, table_lines, parent, current, "borderless")
+#     has_pipe = any(is_pipe_table_line(l.text) for l in table_lines)
+#     if has_pipe:
+#         pipe_lines = [l for l in table_lines if is_pipe_table_line(l.text)]
+#         borderless_lines = [l for l in table_lines if not is_pipe_table_line(l.text)]
+
+#         cols_pipe, rows_pipe = rows_from_pipe_table(pipe_lines) if pipe_lines else ([], [])
+#         cols_b, rows_b = rows_from_borderless_table(borderless_lines) if borderless_lines else ([], [])
+
+#         columns = cols_pipe if cols_pipe else cols_b
+#         combined_rows = list(rows_pipe)
+#         existing_item_nos = {r.get("item_no") for r in combined_rows if r.get("item_no") is not None}
+#         for rb in rows_b:
+#             item_no = rb.get("item_no")
+#             if item_no is not None and item_no in existing_item_nos:
+#                 for ex in combined_rows:
+#                     if ex.get("item_no") == item_no:
+#                         for k, v in rb.items():
+#                             if k not in ex or not ex[k]:
+#                                 ex[k] = v
+#                             elif v and v not in ex[k]:
+#                                 ex[k] = merge_text(ex[k], v)
+#                         break
+#             else:
+#                 combined_rows.append(rb)
+#                 if item_no is not None:
+#                     existing_item_nos.add(item_no)
+
+#         combined_rows.sort(key=lambda r: r.get("item_no", 10**9))
+#         table_format = "pipe"
+#         first = table_lines[0]
+#         last = table_lines[-1]
+#         source_rule = make_node_id(current, parent) if parent else ""
+#         table = {
+#             "type": "table",
+#             "table_id": table_id_for(parent),
+#             "title": title,
+#             "format": table_format,
+#             "page_start": first.page,
+#             "page_end": last.page,
+#             "line_start": first.line_no,
+#             "line_end": last.line_no,
+#             "columns": columns,
+#             "rows": combined_rows,
+#             "linearized_text": linearize_table(parent, combined_rows, columns),
+#             "source": {
+#                 "act": "Income-tax Act",
+#                 "rule": source_rule,
+#                 "page_start": first.page,
+#                 "page_end": last.page,
+#                 "line_start": first.line_no,
+#             },
+#         }
+#     else:
+#         table = structured_table_from_md(title, table_lines, parent, current, "borderless")
+
 #     return table, i
+
+
+# def merge_into_table(existing_table: dict[str, Any], new_table: dict[str, Any]) -> None:
+#     existing_table["page_end"] = max(existing_table.get("page_end", 0), new_table.get("page_end", 0))
+#     existing_table["line_end"] = max(existing_table.get("line_end", 0), new_table.get("line_end", 0))
+
+#     if not existing_table.get("columns") or existing_table["columns"] == ["Text"]:
+#         if new_table.get("columns") and new_table["columns"] != ["Text"]:
+#             existing_table["columns"] = new_table["columns"]
+
+#     existing_rows = existing_table.setdefault("rows", [])
+#     existing_item_nos = {r.get("item_no") for r in existing_rows if r.get("item_no") is not None}
+
+#     for row in new_table.get("rows", []):
+#         item_no = row.get("item_no")
+#         if item_no is not None and item_no in existing_item_nos:
+#             for ex in existing_rows:
+#                 if ex.get("item_no") == item_no:
+#                     for k, v in row.items():
+#                         if k not in ex or not ex[k]:
+#                             ex[k] = v
+#                         elif v and v not in ex[k]:
+#                             ex[k] = merge_text(ex[k], v)
+#                     break
+#         else:
+#             existing_rows.append(row)
+#             if item_no is not None:
+#                 existing_item_nos.add(item_no)
+
+#     existing_rows.sort(key=lambda r: r.get("item_no", 10**9))
+#     existing_table["linearized_text"] = linearize_table(None, existing_rows, existing_table.get("columns", []))
 
 
 # def attach_table(table: dict[str, Any], parent: dict[str, Any] | None, doc: dict[str, Any]) -> None:
@@ -661,7 +861,7 @@
 #         if "table" not in parent:
 #             parent["table"] = table
 #         else:
-#             parent.setdefault("tables", []).append(table)
+#             merge_into_table(parent["table"], table)
 #     else:
 #         doc.setdefault("orphan_tables", []).append(table)
 
@@ -756,7 +956,7 @@
 
 # def finalize_node(node: dict[str, Any]) -> dict[str, Any]:
 #     out: dict[str, Any] = {}
-#     for key in ("type", "number", "id", "title", "indent", "line_start", "page_start", "page_end"):
+#     for key in ("type", "number", "id", "title", "indent", "line_start", "page_start", "page_end", "footnote_refs"):
 #         if key in node:
 #             out[key] = node[key]
 
@@ -787,6 +987,23 @@
 #     return out
 
 
+# def collect_footnote_links(obj: Any, links: dict[str, list[str]]) -> None:
+#     if isinstance(obj, dict):
+#         node_id = obj.get("id") or (
+#             f"{obj.get('type')}:{obj.get('number')}"
+#             if obj.get("type") and obj.get("number")
+#             else None
+#         )
+#         if node_id:
+#             for ref in obj.get("footnote_refs", []):
+#                 links.setdefault(str(ref), []).append(str(node_id))
+#         for value in obj.values():
+#             collect_footnote_links(value, links)
+#     elif isinstance(obj, list):
+#         for value in obj:
+#             collect_footnote_links(value, links)
+
+
 # def finalize_document(doc: dict[str, Any]) -> dict[str, Any]:
 #     finalized = {
 #         "chapters": [finalize_node(chapter) for chapter in doc.get("chapters", [])],
@@ -794,6 +1011,15 @@
 #         "footnotes": doc.get("footnotes", []),
 #         "orphans": doc.get("orphans", []),
 #     }
+#     footnote_links: dict[str, list[str]] = {}
+#     collect_footnote_links(finalized.get("chapters", []), footnote_links)
+#     collect_footnote_links(finalized.get("sections", []), footnote_links)
+#     if footnote_links:
+#         finalized["footnote_reference_map"] = footnote_links
+#         for footnote in finalized["footnotes"]:
+#             refs = footnote_links.get(str(footnote.get("number")), [])
+#             if refs:
+#                 footnote["referenced_by"] = refs
 #     if "orphan_tables" in doc:
 #         finalized["orphan_tables"] = doc["orphan_tables"]
 #     return finalized
@@ -818,18 +1044,10 @@
 #             i += 1
 #             continue
 
-#         if is_pipe_table_line(text):
+#         if is_pipe_table_line(text) or (is_table_title(line) and not line.list_item) or is_borderless_table_candidate(line):
 #             parent = deepest_current(current)
-#             table, next_i = collect_pipe_table(lines, i, parent, current)
-#             attach_table(table, parent, doc)
-#             current["_last_table"] = table
-#             i = next_i
-#             continue
-
-#         if (is_table_title(line) and not line.list_item) or is_borderless_table_candidate(line):
-#             parent = deepest_current(current)
-#             table, next_i = collect_borderless_table(lines, i, parent, current)
-#             if table["rows"]:
+#             table, next_i = collect_table(lines, i, parent, current)
+#             if table.get("rows"):
 #                 attach_table(table, parent, doc)
 #                 current["_last_table"] = table
 #                 i = next_i
@@ -860,8 +1078,7 @@
 #         section_match = SECTION_RE.match(text)
 #         if (
 #             section_match
-#             and not line.list_item
-#             and (len(section_match.group("number")) >= 3 or bool(section_match.group("rest").strip()))
+#             and is_valid_section_header(line, text, pending_section_title, current)
 #         ):
 #             section = {
 #                 "type": "section",
@@ -929,7 +1146,6 @@
 # if __name__ == "__main__":
 #     main()
 
-#!/usr/bin/env python3
 """
 Convert Markdown extracted from an Income-tax Act PDF into structured JSON.
 
@@ -941,6 +1157,9 @@ same broad JSON shape, but it does not require x/y/font metadata. It can parse:
   - Explanation / Provided that / Illustration blocks
   - Markdown pipe tables
   - simple borderless tables converted to Markdown as aligned text
+  - a standalone "TABLE" marker (bare line, bolded/italic heading, or a
+    single-cell pipe row like "|TABLE|") that announces a table is starting,
+    with automatic detection of where that table ends.
 
 Usage:
   python income_tax_md_to_json.py input.md -o output.json
@@ -1313,9 +1532,30 @@ def strip_item_number(text: str) -> tuple[int | None, str]:
     return int(match.group(1) or match.group(2)), body
 
 
+def normalize_table_marker(text: str) -> str:
+    """Strip markdown/table punctuation (pipes, bold/italic markers, whitespace)
+    so a 'TABLE' marker can be recognized regardless of how the PDF-to-Markdown
+    conversion happened to wrap it, e.g.:
+      'TABLE'        -> bare line
+      '**TABLE**'    -> bolded heading
+      '_TABLE_'      -> italic heading
+      '|TABLE|'      -> single-cell pipe-table row
+      '| TABLE |'    -> single-cell pipe-table row with padding
+    """
+    return re.sub(r"[|*_\s]", "", text).upper()
+
+
+def is_table_marker_line(line: MdLine) -> bool:
+    """True only for a line that IS the 'TABLE' marker/label itself -
+    never for a line that merely contains table content."""
+    return normalize_table_marker(line.text) == "TABLE"
+
+
 def is_table_title(line: MdLine) -> bool:
     text = line.text.strip()
-    return text.upper() == "TABLE" or bool(re.match(r"^Sl\.\s*No\.?\b", text, re.I))
+    if is_table_marker_line(line):
+        return True
+    return bool(re.match(r"^Sl\.\s*No\.?\b", text, re.I))
 
 
 def is_running_header(line: MdLine) -> bool:
@@ -1424,7 +1664,14 @@ def linearize_table(parent: dict[str, Any] | None, rows: list[dict[str, Any]], c
 
 
 def rows_from_pipe_table(lines: list[MdLine]) -> tuple[list[str], list[dict[str, Any]]]:
-    raw_rows = [split_pipe_row(line.text) for line in lines if not is_pipe_separator(line.text)]
+    # Drop separator rows AND any leftover bare 'TABLE' marker rows so neither
+    # pollutes header/row detection below (a stray "TABLE" cell would
+    # otherwise be mistaken for the first data/header row).
+    raw_rows = [
+        split_pipe_row(line.text)
+        for line in lines
+        if not is_pipe_separator(line.text) and not is_table_marker_line(line)
+    ]
     if not raw_rows:
         return [], []
 
@@ -1442,6 +1689,9 @@ def rows_from_pipe_table(lines: list[MdLine]) -> tuple[list[str], list[dict[str,
             columns.append(normalize_header_text(" ".join(parts)))
     else:
         columns = [normalize_header_text(cell) for cell in raw_rows[0]]
+
+    # Data rows start right after whatever we used as header row(s) above.
+    data_start = header_idx if header_idx > 0 else 1
 
     rows: list[dict[str, Any]] = []
     current_row: dict[str, Any] | None = None
@@ -1461,6 +1711,25 @@ def rows_from_pipe_table(lines: list[MdLine]) -> tuple[list[str], list[dict[str,
                 key = column_key(index)
                 if value:
                     current_row[key] = merge_text(current_row.get(key, ""), value)
+
+    if not rows:
+        # No digit-style item markers were found (e.g. lettered (a)/(b)/(c)
+        # clauses, or a poorly-aligned OCR table where cells didn't line up
+        # across columns). Rather than silently dropping this content - which
+        # would make the table appear to have "no rows" and let it leak back
+        # into the surrounding paragraph text - fall back to one row per
+        # remaining table line, numbered sequentially, with the raw text
+        # preserved so nothing is lost.
+        seq = 0
+        for raw in raw_rows[data_start:]:
+            if not any(cell.strip() for cell in raw):
+                continue
+            seq += 1
+            row: dict[str, Any] = {"item_no": seq}
+            for index, value in enumerate(raw):
+                row[column_key(index)] = value
+            row["raw_text"] = clean_text(" ".join(raw))
+            rows.append(row)
 
     return columns, rows
 
@@ -1667,11 +1936,27 @@ def is_valid_section_header(line: MdLine, text: str, pending_section_title: str 
 
 
 def collect_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None, current: dict[str, Any]) -> tuple[dict[str, Any], int]:
+    """Collect all markdown lines that belong to a single table.
+
+    A table is opened either by an explicit 'TABLE' marker line - which may
+    show up as a bare line, a bolded/italic heading, or a single-cell pipe
+    row such as '|TABLE|' - or by the first row of table-like content (pipe
+    row / borderless aligned row) when no explicit marker precedes it. The
+    marker line itself is metadata/a label only: it is always consumed and
+    skipped, and is never emitted as a row of the table.
+
+    The table is considered closed (ended) as soon as we see anything that
+    clearly resumes normal body text or starts something else table-like:
+      - a new numbered subsection, e.g. '(2) ...'
+      - a new section header, e.g. '205. ...'
+      - a new chapter heading, e.g. 'CHAPTER V'
+      - a fresh 'TABLE' marker announcing a second, separate table
+    """
     title = "TABLE"
     table_lines: list[MdLine] = []
     i = start
 
-    if lines[i].text.strip().upper() == "TABLE":
+    if is_table_marker_line(lines[i]):
         title = "TABLE"
         i += 1
 
@@ -1684,6 +1969,10 @@ def collect_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None
             continue
 
         if table_lines:
+            # A fresh 'TABLE' marker means a new, separate table is starting;
+            # stop this one here so the two tables are never merged together.
+            if is_table_marker_line(line):
+                break
             sub_match = BRACKET_RE.match(text)
             if sub_match and sub_match.group("token").isdigit():
                 break
@@ -1691,6 +1980,11 @@ def collect_table(lines: list[MdLine], start: int, parent: dict[str, Any] | None
                 break
             if CHAPTER_RE.match(text):
                 break
+
+        # A 'TABLE' marker line is a label, not a row - skip it, don't collect it.
+        if is_table_marker_line(line):
+            i += 1
+            continue
 
         table_lines.append(line)
         i += 1
@@ -1976,10 +2270,22 @@ def parse_document(lines: list[MdLine]) -> dict[str, Any]:
             i += 1
             continue
 
-        if is_pipe_table_line(text) or (is_table_title(line) and not line.list_item) or is_borderless_table_candidate(line):
+        explicit_table_marker = is_table_marker_line(line)
+        if (
+            explicit_table_marker
+            or is_pipe_table_line(text)
+            or (is_table_title(line) and not line.list_item)
+            or is_borderless_table_candidate(line)
+        ):
             parent = deepest_current(current)
             table, next_i = collect_table(lines, i, parent, current)
-            if table.get("rows"):
+            # An explicit 'TABLE' marker is a strong enough signal on its own:
+            # commit to treating this span as a table even if row-extraction
+            # came up empty, rather than letting it fall through and merge
+            # into the surrounding paragraph text. For implicit detection
+            # (no marker, just pipe/borderless-looking lines) keep requiring
+            # at least one extracted row to avoid false positives.
+            if table.get("rows") or explicit_table_marker:
                 attach_table(table, parent, doc)
                 current["_last_table"] = table
                 i = next_i

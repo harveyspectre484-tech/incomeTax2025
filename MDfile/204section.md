@@ -8,12 +8,12 @@ Ministry of Finance, Government of India
 
 |TABLE|
 |---|
-|_Total income and rate of tax_<br>_Conditions_|
-|_A_<br>_B_|
-|(_a_) 15% on the total income other than the income mentioned in clauses (_b_), (_c_)<br> <br>Such co-operative society—|
+|_Total income and rate of tax_|_Conditions_|
+|_A_|_B_|
+|(_a_) 15% on the total income other than the income mentioned in clauses (_b_), (_c_)<br> <br>Such co-operative societyï¿½|
 |and(_d_);<br>(_a_) exercises the option in the manner provided in sub-section|
 |(_b_) 22% (without any deduction or allowance in respect of any expenditure or<br> <br>(2);|
-|allowance)on such income,—<br>(_b_) has been set-up and registered on or after the 1st April,|
+|allowance)on such income,ï¿½<br>(_b_) has been set-up and registered on or after the 1st April,|
 |(_i_) which has neither been derived from nor is incidental to<br> <br>2023;|
 |manufacturingorproduction of an article or thing;and<br>(_c_) has commenced manufacturing or production of an article|
 |(_ii_) in respect of which no specific rate of tax has been provided<br> <br>or thingon or before the 31st March,2024;|
@@ -24,7 +24,7 @@ Ministry of Finance, Government of India
 
 
 
-- (2) The option under this section shall be exercised by the assessee in the manner as may be prescribed subject to the following conditions:— 
+- (2) The option under this section shall be exercised by the assessee in the manner as may be prescribed subject to the following conditions:ï¿½ 
 
    - ( _a_ ) it shall be exercised on or before the due date specified under section 263(1) for furnishing the first of the returns of income for any tax year; and 
 
@@ -32,15 +32,15 @@ Ministry of Finance, Government of India
 
    - ( _c_ ) once the option has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year; 
 
-   - ( _d_ ) where the assessee fails to fulfil the conditions contained in sub-section (1) (Table: Sl. No. 1.B) in any tax year,— 
+   - ( _d_ ) where the assessee fails to fulfil the conditions contained in sub-section (1) (Table: Sl. No. 1.B) in any tax year,ï¿½ 
 
       - ( _i_ ) the option shall become invalid in respect of such tax year and subsequent tax years; and 
 
       - ( _ii_ ) the other provisions of this Act shall apply, as if the option had not been exercised for that tax year and subsequent tax years. 
 
-- (3) For the purposes of sub-section (1), the total income of the assessee shall be computed,— 
+- (3) For the purposes of sub-section (1), the total income of the assessee shall be computed,ï¿½ 
 
-   - ( _a_ ) without any deduction under— 
+   - ( _a_ ) without any deduction underï¿½ 
 
       - ( _i_ ) Chapter VIII other than the provisions of section 146 27 **[** _or 150_ **]** ; or 
 

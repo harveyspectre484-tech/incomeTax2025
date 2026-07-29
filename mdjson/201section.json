@@ -30,7 +30,7 @@
             "page_start": 1,
             "page_end": 1,
             "line_start": 11,
-            "line_end": 30,
+            "line_end": 15,
             "columns": [
               "Sl. No. A",
               "Assessee B",
@@ -40,13 +40,13 @@
             "rows": [
               {
                 "item_no": 1,
-                "column_A": "1",
-                "column_B": "A domestic company engaged in business of manufacture or production of any article or thing. (a) 15% on the total income other than the income mentioned in clauses(b), (c)and(d); (b) 22% (without any deduction or allowance in respect of anyexpenditure or allowance)on such income,� (i) which has neither been derived from nor isincidental to manufacturing or production of an article or thing;and (ii) in respect of which no specific rate of tax has been provided separately under Parts A, B,E and this Part of this Chapter; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d)30% on the income deemed so under section 205(4). he option under this section shall be exercised by the assessee in the manner prescribed subject to the f",
-                "column_C": "(a) 15% on the total income other than the income mentioned in clauses(b), (c)and(d); (b) 22% (without any deduction or allowance in respect of anyexpenditure or allowance)on such income,� (i) which has neither been derived from nor is incidental to manufacturing or production of an article or thing; and (ii) in respect of which no specific rate of tax has been provided separately under Parts A, B,E and this Part of this Chapter; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d)30% on the income deemed so under section 205(4). he option under this section shall be exercised by the assessee in the manner prescribed subject to the",
-                "column_D": "Such domestic company� (a) exercises the option in the manner provided in sub-section(2); (b) has been set-up and registered on or after the 1st October,2019;(c) has commenced manufacturing or production of an article or thing on or before the 31st March,2024; (d) the total income of which is computed as per the provisions of sub-section (3);and (e) fulfils all the conditions provided in sub-section (5) of this section and section 205(2)."
+                "column_A": "",
+                "column_B": "A domestic company engaged in business of manufacture or production of any article or thing.",
+                "column_C": "(a) 15% on the total income other than the income mentioned in clauses(b), (c)and(d); (b) 22% (without any deduction or allowance in respect of anyexpenditure or allowance)on such income, (i) which has neither been derived from nor is incidental to manufacturing or production of an article or thing;and (ii) in respect of which no specific rate of tax has been provided separately under Parts A, B,E and this Part of this Chapter; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d)30% on the income deemed so under section 205(4).",
+                "column_D": "Such domestic company (a) exercises the option in the manner provided in sub-section(2); (b) has been set-up and registered on or after the 1st October,2019; (c) has commenced manufacturing or production of an article or thing on or before the 31st March,2024; (d) the total income of which is computed as per the provisions of sub-section (3);and (e) fulfils all the conditions provided in sub-section (5) of this section and section 205(2)."
               }
             ],
-            "linearized_text": "Subsection (1): Irrespective of anything contained in this Act, but subject to the provisions of Parts A, B, E and this Part (other than sections 199 and 200) of this Chapter, the income-tax payable in respect of the total income of an assessee, being a domestic company, specified in column B of the Table below, shall, at the option of such assessee, be computed at the rates specified in column C, if the conditions contained in column D thereof are fulfilled. Table items: Item 1 - Assessee B: A domestic company engaged in business of manufacture or production of any article or thing. (a) 15% on the total income other than the income mentioned in clauses(b), (c)and(d); (b) 22% (without any deduction or allowance in respect of anyexpenditure or allowance)on such income,� (i) which has neither been derived from nor is; Total income and rate of tax C: Such domestic company� (a) exercises the option in the manner provided in sub-section(2); (b) has been set-up and registered on or after the 1st October,2019;. Item 2 - Sl. No. A: T; Assessee B: incidental to manufacturing or production of an article or thing;and (ii) in respect of which no specific rate of tax has been provided separately under Parts A, B,E and this Part of this Chapter; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d)30% on the income deemed so under section 205(4). he option under this section shall be exercised by the assessee in the manner prescribed subject to the f; Total income and rate of tax C: (c) has commenced manufacturing or production of an article or thing on or before the 31st March,2024; (d) the total income of which is computed as per the provisions of sub-section (3);and (e) fulfils all the conditions provided in sub-section (5) of this section and section 205(2). ollowing conditions:�.",
+            "linearized_text": "Subsection (1): Irrespective of anything contained in this Act, but subject to the provisions of Parts A, B, E and this Part (other than sections 199 and 200) of this Chapter, the income-tax payable in respect of the total income of an assessee, being a domestic company, specified in column B of the Table below, shall, at the option of such assessee, be computed at the rates specified in column C, if the conditions contained in column D thereof are fulfilled. Table items: Item 1 - Assessee B: A domestic company engaged in business of manufacture or production of any article or thing.; Total income and rate of tax C: (a) 15% on the total income other than the income mentioned in clauses(b), (c)and(d); (b) 22% (without any deduction or allowance in respect of anyexpenditure or allowance)on such income, (i) which has neither been derived from nor is incidental to manufacturing or production of an article or thing;and (ii) in respect of which no specific rate of tax has been provided separately under Parts A, B,E and this Part of this Chapter; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d)30% on the income deemed so under section 205(4).; Conditions D: Such domestic company (a) exercises the option in the manner provided in sub-section(2); (b) has been set-up and registered on or after the 1st October,2019; (c) has commenced manufacturing or production of an article or thing on or before the 31st March,2024; (d) the total income of which is computed as per the provisions of sub-section (3);and (e) fulfils all the conditions provided in sub-section (5) of this section and section 205(2)..",
             "source": {
               "act": "Income-tax Act",
               "rule": "201-1",
@@ -58,10 +58,91 @@
         },
         {
           "type": "subsection",
+          "number": "2",
+          "id": "201-2",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The option under this section shall be exercised by the assessee in the manner prescribed subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "201-2-a",
+              "indent": 0,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it shall be exercised on or before the due date specified under section 263(1) for furnishing first of the returns of income for any tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "201-2-b",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such option, once exercised, shall apply to subsequent tax years;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "201-2-c",
+              "indent": 0,
+              "line_start": 23,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "once the option has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "201-2-d",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "where the assessee fails to fulfil the conditions contained in sub-section (1) (Table: Sl. No. 1.D) in any tax year,�",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "201-2-d-i",
+                  "indent": 0,
+                  "line_start": 27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the option shall become invalid in respect of such tax year and subsequent tax years; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "201-2-d-ii",
+                  "indent": 0,
+                  "line_start": 29,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the other provisions of this Act shall apply, as if the option had not been exercised for that tax year and subsequent tax years.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
           "number": "3",
           "id": "201-3",
           "indent": 0,
-          "line_start": 32,
+          "line_start": 31,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of sub-section (1), the total income of the assessee shall be computed,�",
@@ -71,7 +152,7 @@
               "number": "a",
               "id": "201-3-a",
               "indent": 0,
-              "line_start": 34,
+              "line_start": 33,
               "page_start": 1,
               "page_end": 1,
               "text_before_sub_clauses": "without any deduction under�",
@@ -81,7 +162,7 @@
                   "number": "i",
                   "id": "201-3-a-i",
                   "indent": 0,
-                  "line_start": 38,
+                  "line_start": 37,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "section 45(2) or 47(1)(b); or",
@@ -92,7 +173,7 @@
                   "number": "ii",
                   "id": "201-3-a-ii",
                   "indent": 0,
-                  "line_start": 40,
+                  "line_start": 39,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "Chapter VIII other than section 146 or 148; or",
@@ -103,7 +184,7 @@
                   "number": "iii",
                   "id": "201-3-a-iii",
                   "indent": 0,
-                  "line_start": 42,
+                  "line_start": 41,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "sections specified in section 205(1)(a) to (g);",
@@ -117,7 +198,7 @@
               "number": "b",
               "id": "201-3-b",
               "indent": 0,
-              "line_start": 44,
+              "line_start": 43,
               "page_start": 1,
               "page_end": 1,
               "text": "without set off of any loss or allowance for unabsorbed depreciation deemed so under section 116, if such loss or depreciation is attributable to any of the deductions referred to in clause (a).",
@@ -131,7 +212,7 @@
           "number": "4",
           "id": "201-4",
           "indent": 0,
-          "line_start": 46,
+          "line_start": 45,
           "page_start": 1,
           "page_end": 1,
           "text": "While computing the income of the assessee, the loss and depreciation, or both, as specified in sub-section (3)(b) shall be deemed to have been given full effect to and no further deduction for such loss or depreciation, or both, shall be allowed for any subsequent year.",
@@ -142,7 +223,7 @@
           "number": "5",
           "id": "201-5",
           "indent": 0,
-          "line_start": 48,
+          "line_start": 47,
           "page_start": 1,
           "page_end": 1,
           "text": "In case of an amalgamation, option under this section shall remain valid in case of the amalgamated company only and if the conditions contained in sub-section (1) (Table: Sl. No. 1.D) are continued to be fulfilled by such company.",
