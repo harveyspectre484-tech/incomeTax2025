@@ -1,0 +1,10 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Firm dissolved or business discontinued.
+330. (1) Where a firm is dissolved or any business or profession carried on by it has been discontinued, the Assessing Officer shall make an assessment of the total income of the firm, as if no such dissolution or discontinuance had taken place, and all the provisions of this Act, including the provisions relating to the levy of a penalty or any other sum chargeable under any provision of this Act, shall apply, so far as may be, to such assessment.
+(2) Regardless of the generality of sub-section (1), if the Assessing Officer or Joint Commissioner (Appeals) or Commissioner (Appeals), in the course of any proceeding under this Act in respect of any such firm as referred to in that sub-section, is satisfied that the firm was guilty of any of the acts specified in Chapter XXI, he may impose or direct the imposition of a penalty as per the provisions of that Chapter.
+(3) Every person who was at the time of such dissolution or discontinuance a partner of the firm, and the legal representative of any such person who is deceased, shall be jointly and severally liable for the amount of tax, penalty or other sum payable, and all the provisions of this Act, so far as may be, shall apply to any such assessment or imposition of penalty or other sum.
+(4) Where such dissolution or discontinuance takes place after any proceedings in respect of a tax year have commenced, the proceedings may be continued against the person referred to in sub-section (3) from the stage at which the proceedings stood at the time of such dissolution or discontinuance, and all the provisions of this Act shall, so far as may be, apply accordingly.
+(5) The provisions of this section shall not affect the provisions of section 302(4).

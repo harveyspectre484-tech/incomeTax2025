@@ -1,0 +1,6 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Audit.
+348. Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, the accounts of such registered non-profit organisation for that tax year shall be audited by an accountant and the person in receipt of the income shall be required to furnish a report of an audit of such income by such date in the prescribed form, duly signed and verified by such accountant and setting forth such particulars, as may be prescribed.

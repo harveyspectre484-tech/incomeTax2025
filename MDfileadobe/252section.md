@@ -1,0 +1,14 @@
+Income Tax Department
+Ministry of Finance, Government of India
+Power to call for information.
+252. (1) The Assessing Officer, the Joint Commissioner or the Joint Commissioner (Appeals) or the Commissioner (Appeals) may, for the purposes of this Act, require any—
+(a) person, including a banking company or any officer thereof, to furnish, within such time, requisite information or to furnish statements of account and affairs verified in such manner specified by such authority, giving such information in relation to such matters as, in the opinion of such authority, will be useful for, or relevant to, any enquiry or proceedings under this Act;
+(b) firm to furnish him with a return of the names and addresses of the partners of the firm and their respective shares;
+(c) Hindu undivided family to furnish him with a return of the names and addresses of the manager and the members of the family;
+(d) person whom he has reason to believe to be a trustee, guardian or agent, to furnish him with a return of the names of the persons for or of whom he is trustee, guardian or agent, and of their addresses;
+(e) assessee to furnish a statement of the names and addresses of all persons to whom he has paid in any tax year, rent, interest, commission, royalty, brokerage, or any annuity (not being any annuity taxable under the head "Salaries"), amounting to more than Rs. 10000, or such higher amount as may be prescribed, together with particulars of all such payments made;
+(f) dealer, broker or agent or any person concerned in the management of a stock or commodity exchange to furnish a statement of the names and addresses of all persons to whom he or the exchange has paid any sum in connection with the transfer, whether by way of sale, exchange or otherwise, of assets, or on whose behalf or from whom he or the exchange has received any such sum, together with particulars of all such payments and receipts.
+(2) The powers conferred under sub-section (1)(a) may also be exercised by the competent authority or the Assistant Director.
+(3) The powers under sub-section (1)––
+(a) shall not be exercised by any income-tax authority below the rank of Principal Director or Director or Principal Commissioner or Commissioner, other than the Joint Director or Assistant Director, without the prior approval of the Principal Director or Director or, as the case may be, the Principal Commissioner or Commissioner, in a case where no proceeding is pending;
+(b) may be exercised by an income-tax authority notified under section 246(2)(a), for the purposes of an agreement referred to in section 159, even if no proceedings are pending before it or any other income-tax authority.

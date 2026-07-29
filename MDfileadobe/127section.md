@@ -1,0 +1,31 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+Deduction in respect of maintenance including medical treatment of a dependant who is a person with disability.
+127. (1) An assessee being an individual or a Hindu undivided family, who is a resident in India, shall be allowed a deduction up to Rs. 75000 from his gross total income of a tax year, subject to the provisions of this section, if during that year he has—
+(a) incurred expenditure for the medical treatment (including nursing), training and rehabilitation of a dependant, being a person with disability; or
+(b) paid or deposited any amount under a scheme framed by the Life Insurance Corporation or any other insurer or the Administrator, or the specified company, for the maintenance of a dependant, being a person with disability, subject to the conditions specified in sub-section (2) and approved by the Board in this behalf.
+(2) The deduction under sub-section (1)(b) shall be allowed only if the following conditions are fulfilled:—
+(a) the scheme referred to in sub-section (1)(b) provides for payment of an annuity or lump sum amount for the benefit of a dependant, being a person with disability—
+(i) on the death of the individual or the member of the Hindu undivided family, in whose name the scheme was subscribed; or
+(ii) on attaining the age of sixty years or more by such individual or the member of the Hindu undivided family, and the payment or deposit to such scheme has been discontinued;
+(b) the assessee nominates the dependant, being a person with disability or any other person or a trust to receive the payments on behalf of and for the benefit of such dependant.
+(3) If the dependant as referred to in sub-section (1) is a person with severe disability, the amount of deduction as referred to in sub-section (1) shall be substituted with "Rs. 125000" for "Rs. 75000".
+(4) In the event of death of the dependant, being a person with disability, before the individual or the member of the Hindu undivided family mentioned in sub-section (2), the amount paid or deposited under sub-section (1)(b) shall be deemed to be the income of the assessee of the tax year in which it is received and shall accordingly be chargeable to tax.
+(5) The provisions of sub-section (4) shall not apply to the amount received by the dependant, being a person with disability, before his death, as an annuity or lump sum by application of the condition referred to in sub-section (2)(a)(ii).
+(6) The assessee claiming deduction under this section, shall furnish a copy of the medical certificate issued by the medical authority in such form and manner as may be prescribed, along with the return of income under section 263 for the tax year in which the deduction is claimed.
+(7) If the certificate referred to in sub-section (6), specifies that the condition of disability requires reassessment of its extent after a period stipulated in it, the deduction under this section shall not be allowed for any tax year succeeding the tax year in which the said certificate expires, unless a new certificate is obtained from the medical authority in such form and manner as may be prescribed, and a copy thereof is submitted along with the return of income under section 263.
+(8) The dependant mentioned in this section shall not include a person who has claimed deduction under section 154 in computing his total income for the tax year.
+(9) For the purposes of this section,—
+(a) "Administrator" means the Administrator as referred to in section 2(a) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);
+(b) "dependant" means—
+(i) in the case of an individual, the spouse, children, parents, brothers and sisters of the individual or any of them;
+(ii) in the case of a Hindu undivided family, a member of the Hindu undivided family,
+dependant wholly or mainly on such individual or Hindu undivided family for his support and maintenance;
+(c) "disability" shall have the same meaning as assigned to it in section 2(i) of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996) and includes "autism", "cerebral palsy" and "multiple disability" respectively referred to in section 2(a), (c) and (h) of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999);
+(d) "Life Insurance Corporation" means the Life Insurance Corporation of India established under the Life Insurance Corporation Act, 1956 (31 of 1956);
+(e) "medical authority" means the medical authority as referred to in section 2(p) of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996) or such other medical authority as may, by notification, be specified by the Central Government for certifying "autism", "cerebral palsy", "multiple disabilities", "person with disability" and "severe disability" respectively referred to in section 2(a), (c), (h), (j) and (o) of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999);
+(f) "person with disability" means a person as referred to in section 2(t) of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996) or section 2(j) of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999);
+(g) "person with severe disability" means—
+(i) a person with 80% or more of one or more disabilities, as referred to in section 56(4) of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996); or
+(ii) a person with severe disability referred to in section 2(o) of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999);
+(h) "specified company" means a company as referred to section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002).

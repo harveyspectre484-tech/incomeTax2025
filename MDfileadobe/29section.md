@@ -1,0 +1,17 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+Deductions related to employee welfare.
+29. (1) The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: —
+(a) any sum paid by way of contribution towards a recognised provident fund or an approved superannuation fund, subject to—
+(i) such limits, as may be prescribed, for recognising the provident fund or approving the superannuation fund; and
+(ii) such conditions, as the Board may specify, for cases where the contributions are not made annually either as fixed amounts, or annual contributions fixed on some definite basis by reference to the income chargeable under the head "Salaries" or the contributions or to the number of members of the fund;
+(b) any sum paid by way of contribution towards a pension scheme referred to in section 124, for an employee up to 14% of the salary of the employee in the tax year, where such salary includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites;
+(c) any sum paid by way of contribution towards an approved gratuity fund created by the assessee for the exclusive benefit of his employees under an irrevocable trust;
+(d) irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year;
+7 [(e) the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.]
+(2) (a) Subject to the provisions of sub-section (1)(d), no deduction shall be allowed for any provision made for the payment of gratuity to the employees on their retirement or termination for any reason; and
+(b) in case deduction has been allowed for any provision made under sub- section (1)(d), then no deduction shall be allowed on actual payment made from such provision.
+(3) No deduction shall be allowed in respect of any sum paid by the assessee as an employer towards setting up or formation of, or as contribution to, any fund, trust, company, association of persons, body of individuals, society registered under the Societies Registration Act, 1860 (21 of 1860), or other institution for any purpose, except where such sum is so paid, for the purposes and to the extent provided by or under sub-section (1)(a) or (b) or (c), or as required by or under any other law in force.
+7. Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (e) read as under : '(e) (i) the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds by the due date;
+(ii) for the purposes of sub-clause (i), "due date" means the date by which the assessee is required as an employer to credit employee contribution to the account of an employee in the relevant fund under any Act, rule, order or notification issued under it or under any standing order, award, contract of service or otherwise and the provisions of section 37 shall not apply for determining the "due date" under this clause.'

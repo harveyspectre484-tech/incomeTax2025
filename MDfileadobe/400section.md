@@ -1,0 +1,13 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Power of Central Government to relax provisions of this Chapter.
+400. (1) The Central Government may, by notification provide that deduction or collection of tax shall not be made or is to be made at such lower rate, from such payment or receipt and in respect of such person or class of persons.
+94 [(2) The Board may, with the previous approval of the Central Government, issue guidelines to remove any difficulty arising in giving effect to the provisions of this Chapter and such guidelines shall be—
+(a) binding on the income-tax authorities and on the person liable to deduct or, as the case may be, collect income-tax; and
+(b) laid before each House of Parliament.]
+(3) The Board may notify, a class of person, or cases, where the person responsible for paying to a non-resident, not being a company, or to a foreign company, any sum, whether or not chargeable under the provisions of this Act, to make an application in such form and manner as may be prescribed, to the Assessing Officer, to determine the appropriate proportion of sum chargeable in the manner as may be prescribed, and accordingly tax shall be deducted under section 393(2) (Table: Sl. No. 17) on that proportion of the sum which is so chargeable.
+(4) The Board may by notification, make rules specifying the cases in which, and the circumstances under which, an application may be made for grant of a certificate under section 395(1) and (3), and the conditions subject to which such certificate may be granted and providing for all other matters connected therewith.
+94. Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (2) read as under :
+"(2) The Board may issue guidelines with the previous approval of the Central Government, to remove any difficulty arising in giving effect to the provisions of this Chapter and these guidelines shall be laid before each House of Parliament."

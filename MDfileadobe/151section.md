@@ -1,0 +1,17 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Deduction in respect of royalty income, etc., of authors of certain books other than text-books.
+151. (1) Where, in the case of an individual, being an author resident in India, the gross total income includes any income, derived by him in the exercise of his profession, on account of any lump sum consideration for the assignment or grant of any of his interests in the copyright of any book being a work of literary, artistic or scientific nature, or of royalty or copyright fees (whether receivable in lump sum or otherwise) in respect of such book, there shall, as per and subject to the provisions of this section, be allowed, in computing the total income of the assessee, a deduction from such income, computed in the manner specified in sub-section (2).
+(2) The deduction under this section shall be equal to the whole of such income referred to in sub-section (1), or an amount of Rs. 300000, whichever is less.
+(3) Where the income by way of such royalty or the copyright fee is not a lump sum consideration in lieu of all rights of the assessee in the book, so much of the income, before allowing expenses attributable to such income, as is in excess of 15% of the value of such books sold during the tax year shall be ignored for the purposes of deduction under this section.
+(4) In respect of any income earned from any source outside India, so much of the income shall be taken into account for the purpose of this section as is brought into India by, or on behalf of, the assessee in convertible foreign exchange within six months from the end of the tax year in which such income is earned or within such further period as the competent authority may allow in this behalf.
+(5) Deduction under this section shall not be allowed unless the assessee furnishes a certificate in such form and manner, as may be prescribed, duly verified by any person responsible for making such payment to the assessee as referred to in sub-section (1), along with the return of income, setting forth such particulars as may be prescribed.
+(6) Deduction under this section shall not be allowed in respect of any income earned from any source outside India, unless the assessee furnishes a certificate, in the prescribed form from the prescribed authority, along with the return of income in the prescribed manner.
+(7) Where a deduction for any tax year has been claimed and allowed in respect of any income referred to in this section, no deduction in respect of such income shall be allowed under any other provision of this Act in any tax year.
+(8) For the purposes of this section,—
+(a) "author" includes a joint author;
+(b) "books" shall not include brochures, commentaries, diaries, guides, journals, magazines, newspapers, pamphlets, text-books for schools, tracts and other publications of similar nature, by whatever name called;
+(c) "competent authority" means the Reserve Bank of India or such other authority as is authorised under any law in force for regulating payments and dealings in foreign exchange;
+(d) "lump sum", in regard to royalties or copyright fees, includes an advance payment on account of such royalties or copyright fees which is not returnable.

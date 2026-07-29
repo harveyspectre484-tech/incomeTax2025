@@ -1,0 +1,13 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+
+# Power to transfer cases.
+243. (1) The specified income-tax authority may transfer any case from one or more Assessing Officers subordinate to him (whether with or without concurrent jurisdiction) to any other Assessing Officer or Assessing Officers (whether with or without concurrent jurisdiction) also subordinate to him.
+(2) If the Assessing Officer or Assessing Officers, from whom the case is to be transferred and the Assessing Officer or Assessing Officers, to whom the case is to be transferred are not subordinate to the same specified income-tax authority, and the concerned specified income-tax authorities––
+(a) are in agreement, then the specified income-tax authority from whose jurisdiction the case is to be transferred may pass the order;
+(b) are not in agreement, the order transferring the case may be passed by the Board or any such specified income-tax authority as the Board may, by notification, specify in this behalf.
+(3) The order of transfer under sub-section (1) or (2) may be passed by the specified income-tax authority after giving the assessee a reasonable opportunity of being heard, wherever it is possible to do so and after recording his reasons therefor.
+(4) Nothing in sub-section (1) or (2) or (3) shall be deemed to require any such opportunity of being heard to be given, where the transfer is from any Assessing Officer or Assessing Officers (whether with or without concurrent jurisdiction) to any other Assessing Officer or Assessing Officers (whether with or without concurrent jurisdiction) and the offices of all such officers are situated in the same city, locality or place.
+(5) The transfer of a case under sub-section (1) or (2) may be made at any stage of the proceedings, and it shall not be necessary to re-issue any notice already issued by the Assessing Officer or Assessing Officers from whom the case is transferred.
+(6) For the purposes of section 241 and this section, "case", in relation to any person whose name is specified in any order or direction issued thereunder, means all proceedings under this Act in respect of any year, which may be pending on the date of such order or direction or which may have been completed on or before such date, and includes also all proceedings under this Act which may be commenced after the date of such order or direction in respect of any year.
+(7) For the purposes of sections 241, 242 and this section, "specified income-tax authority" means the Principal Director General or Director General or Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner.

@@ -1,0 +1,25 @@
+Income Tax Department
+Ministry of Finance, Government of India
+Meaning of associated enterprise.
+162. (1) For the purposes of this Chapter, the expression "associated enterprise", in relation to another enterprise, means an enterprise—
+(a) which participates, directly or indirectly, or through one or more intermediaries, in the management or control or capital of the other enterprise in the following manner,—
+(i) one or more persons who participate, directly or indirectly, or through one or more intermediaries, in management or control or capital of one enterprise, also participate, directly or indirectly, or through one or more intermediaries, in the management or control or capital of the other enterprise; or
+(ii) one enterprise holds, at any time during the tax year, directly or indirectly, shares carrying not less than 26% of the voting power in the other enterprise; or
+(iii) any person or enterprise holds, at any time during the tax year, directly or indirectly, shares carrying not less than 26% of the voting power in each of such enterprises; or
+(b) which has advanced a loan to the other enterprise and such loan constitutes not less than 51% of the book value of the total assets of the other enterprise; or
+(c) which guarantees not less than 10% of the total borrowings of the other enterprise; or
+(d) whose more than half of the board of directors or members of the governing board, or one or more executive directors or executive members of the governing board, are appointed by the other enterprise; or
+(e) whose more than half of the directors or members of the governing board, or one or more of the executive directors or members of the governing board, are appointed by the same person or persons, who has or have done so for the other enterprise; or
+(f) in case of which, manufacturing or processing of goods or articles or business carried out by such enterprise is wholly dependent on the use of know-how, patents, copyrights, trademarks, licences, franchises or any other business or commercial rights of similar nature, or any data, documentation, drawing or specification relating to any patent, invention, model, design, secret formula or process, of which the other enterprise is the owner or in respect of which the other enterprise has exclusive rights; or
+(g) in case of which, 90% or more of the raw materials and consumables required for the manufacture or processing of goods or articles carried out by such enterprise, are supplied by the other enterprise, or by persons specified by the other enterprise, and the prices and other conditions relating to the supply are influenced by such other enterprise; or
+(h) in case of which, the goods or articles manufactured or processed by such enterprise, are sold to the other enterprise or to persons specified by the other enterprise, and the prices and other conditions relating thereto are influenced by such other enterprise; or
+(i) which is controlled by an individual, and the other enterprise is also controlled by such individual or his relative or jointly by such individual and relative of such individual; or
+(j) which is controlled by a Hindu undivided family, and the other enterprise is controlled by a member of such Hindu undivided family or by a relative of a member of such Hindu undivided family or jointly by such member and his relative; or
+(k) which is a firm, association of persons or body of individuals, and the other enterprise holds not less than 10% interest in such firm, association of
+persons or body of individuals; or (l) which has any relationship of mutual interest with the other enterprise, as may be prescribed.
+(2) In relation to a specified domestic transaction entered into by an assessee, associated enterprise shall also include—
+(a) other units or undertakings or businesses of such assessee in respect of a transaction referred to in section 122 or 140(9);
+(b) any other person referred to in section 140(13) or 205(4) in respect of a transaction referred to therein; and
+19 [(c) other units, undertakings, enterprises or business of such assessee, or other person referred to in section 140(13) in respect of transactions referred to in Chapter VIII, to which the provisions of section 140(9) or (13) of this Act or section 80-IA(8) or (10) of the Income-tax Act, 1961 (43 of 1961) are applicable.]
+19. Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (c) read as under :
+"(c) other units, undertakings, enterprises or business of such assessee, or other person referred to in section 140(13) in respect of a transaction referred to in section 144 or the transactions referred to in Chapter VIII to which the provisions of section 140(9)or (13) of this Act or section 80-IA(8) or (10) of the Income-tax Act, 1961 (43 of 1961) are applicable."

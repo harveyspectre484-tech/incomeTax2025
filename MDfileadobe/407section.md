@@ -1,0 +1,19 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Payment of advance tax by assessee in pursuance of order of Assessing Officer.
+407. (1) Where a person has already been assessed for the total income of any tax year by way of regular assessment and the Assessing Officer is of the opinion that such person is liable to pay advance tax, he may require such person to pay advance tax on the specified sum, calculated in the manner laid down in section 405, by an order in writing, specifying the instalment or instalments in which such tax is to be paid, on or before the due date of each instalment specified in section 408.
+(2) The order referred to in sub-section (1) may be passed at any time during the financial year but not later than the last day of February of such financial year and it shall be followed by issuance of notice of demand under section 289.
+(3) In sub-section (1), "specified sum" means a sum, being higher of,—
+(a) the total income of the latest tax year in respect of which the assessee has been assessed by way of regular assessment; or
+(b) total income returned by the assessee in any return of income furnished by him for any subsequent tax year.
+(4) If after making of an order by the Assessing Officer under sub-section (1),—
+(a) a return of income is furnished by the assessee, under section 263 or in response to a notice under section 268; or
+(b) a regular assessment of the income is made in respect of a tax year, later than the assessment referred to in sub-section (1),
+the Assessing Officer may amend the order referred to in sub-section (1), and may require such assessee to pay advance tax on the specified sum, calculated in the manner laid down in section 405, on or before the due date of each instalment specified in section 408.
+(5) The order referred to in sub-section (4) may be passed at any time before the 1st March of that tax year and it shall be followed by issuance of a demand notice under section 289.
+(6) In sub-section (4), "specified sum" means the total income declared in the return of income or computed in regular assessment mentioned in sub-section (4)(a) and (b), respectively.
+(7) If the notice of demand issued under section 289, as referred in sub-sections (2) and (5), is served after any of the due dates specified in section 408, the appropriate part or, the whole of the amount of the advance tax specified in such notice, shall be payable on or before each of the due date falling after the date of service of the notice of demand.
+(8) Where a person, who is served with an order referred to in sub-section (1) or (4), estimates the advance tax payable on his current income to be lower than the amount of advance tax specified in the said order, then, he may send an intimation in the prescribed form to the Assessing Officer to that effect, and pay such advance tax on the current income, calculated in the manner laid down in section 405 as accords with his estimate, at an appropriate percentage thereof on or before the due date of each instalment specified in section 408 falling after the date of such intimation.
+(9) Where a person, who is served with an order referred to in sub-section (1) or (4), estimates that advance tax payable on his current income would exceed the amount of advance tax specified in such order or intimated by him under sub-section (8), he shall pay such advance tax on the current income, calculated in the manner laid down in section 405 at the appropriate part or whole of such higher amount of advance tax as accords with his estimate, on or before the due date of the last instalment specified in section 408.

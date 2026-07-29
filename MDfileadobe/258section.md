@@ -1,0 +1,11 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+Disclosure of information relating to assessees.
+258. (1) The Board or any other income-tax authority specified by it by an order in this behalf, may furnish or cause to be furnished to—
+(a) any officer, authority or body performing any functions under any law relating to the imposition of any tax, duty or cess, or dealings in foreign exchange as defined in section 2(n) of the Foreign Exchange Management Act, 1999 (42 of 1999); or
+(b) such officer, authority or body performing functions under any other law, if in the opinion of the Central Government it is necessary so to do in the public interest, as it may specify by notification in this behalf,
+any such information received or obtained by any income-tax authority in the performance of its functions under this Act, as may, in the opinion of the Board or other income-tax authority, be necessary for the purpose of enabling the officer, authority or body, to perform his or its functions under that law.
+(2) The Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner may furnish or cause to be furnished to a person, the information relating to any assessee received or obtained by any income-tax authority in the performance of his functions under this Act,––
+(a) on an application made by such person to the aforesaid authorities in the prescribed form and on being satisfied that it is in the public interest so to do; and
+(b) the decision of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner in this behalf, shall be final and shall not be called in question in any court of law.
+(3) Irrespective of anything contained in sub-section (1) or (2) or any other law in force, the Central Government may, having regard to the practices and usages, customary or any other relevant factors, by notification, direct that no information or document shall be furnished or produced by a public servant in respect of such matters relating to such class of assessees except to such authorities as specified in that notification.

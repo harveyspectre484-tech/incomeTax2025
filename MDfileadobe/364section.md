@@ -1,0 +1,12 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Procedure of Appellate Tribunal.
+364. (1) The powers and functions of the Appellate Tribunal may be exercised and discharged by Benches constituted by the President of the Appellate Tribunal from among the members thereof.
+(2) Subject to the provisions contained in sub-section (3), a Bench shall consist of one Judicial Member and one accountant member.
+(3) The President, or any other member of the Appellate Tribunal authorised in this behalf by the Central Government, may sitting singly, dispose of any case allotted to the Bench, pertaining to an assessee whose total income as computed by the Assessing Officer in the case does not exceed rupees fifty lakh.
+(4) The President of the Appellate Tribunal may, for the disposal of any particular case, constitute a Special Bench consisting of three or more members, one of whom shall necessarily be a judicial member and one an accountant member.
+(5) If the members of a Bench differ in opinion on any point, the point shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and the case shall be referred by the President of the Appellate Tribunal for hearing on such point or points by one or more of the other members of the Appellate Tribunal, and such point or points shall be decided according to the opinion of the majority of the members of the Appellate Tribunal who have heard the case, including those who first heard it.
+(6) Subject to the provisions of this Act, the Appellate Tribunal shall have power to regulate its own procedure and the procedure of Benches thereof in all matters arising out of the exercise of its powers or of the discharge of its functions, including the places at which the Benches shall hold their sittings.
+(7) The Appellate Tribunal, for the purposes of discharging its functions, shall have all the powers which are vested in the income-tax authorities referred to in section 246, and any proceeding before the Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023), and the Appellate Tribunal shall be deemed to be a Civil Court for all the purposes of section 215 and Chapter XXXVII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).

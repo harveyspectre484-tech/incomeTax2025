@@ -1,0 +1,9 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Definition of "tax year".
+3. (1) For the purposes of this Act, "tax year" means the twelve months period of the financial year commencing on the 1st April.
+(2) In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with—
+(a) the date of setting up of such business or profession; or
+(b) the date on which such source of income newly comes into existence, and ending with the said financial year.

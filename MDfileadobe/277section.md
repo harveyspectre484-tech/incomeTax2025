@@ -1,0 +1,12 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+Method of accounting in certain cases.
+277. (1) For the purposes of determining the income chargeable under the head "Profits and gains of business or profession",—
+(i) the valuation of inventory shall be made at lower of actual cost or net realisable value computed as per the income computation and disclosure standards notified under section 276(2);
+(ii) the valuation of purchase and sale of goods or services and valuation of inventory shall be adjusted to include any tax, duty, cess or fee (by whatever name called) actually paid or incurred by the assessee to bring the goods or services to the place of its location and condition as on the date of valuation;
+(iii) the inventory being securities not listed on a recognised stock exchange, or listed but not quoted on a recognised stock exchange with regularity from time to time, shall be valued at actual cost initially recognised as per the income computation and disclosure standards notified under section 276(2);
+(iv) the inventory being securities other than those referred to in clause (iii), shall be valued at lower of actual cost or net realisable value as per the income computation and disclosure standards notified under section 276(2).
+(2) For the purposes of sub-section (1), the inventory being securities held by a scheduled bank or public financial institution shall be valued as per the income computation and disclosure standards notified under section 276(2) after taking into account the extant guidelines issued by the Reserve Bank of India in this regard.
+(3) For the purposes of sub-sections (1) and (2), the comparison of actual cost and net realisable value of securities shall be made category-wise.
+(4) For the purposes of this section, any tax, duty, cess or fee (by whatever name called) under any law in force, shall include all such payment irrespective of any right arising as a consequence to such payment.
+(5) For the purposes of this section, "public financial institution" shall have the same meaning as assigned to it in section 2(72) of the Companies Act, 2013 (18 of 2013).

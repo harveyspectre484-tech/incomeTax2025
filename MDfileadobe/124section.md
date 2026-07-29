@@ -1,0 +1,26 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+
+# Deduction in respect of employer and assessee contribution to pension scheme of Central Government.
+124. (1) Where in the case of an assessee, being an individual employed by any employer, if the employer makes any contribution in his account under a pension scheme notified by the Central Government, the assessee shall be allowed a deduction in the computation of his total income, of the whole of the amount contributed by such employer as does not exceed—
+(a) 14%, where such contribution is made by the employer being the Central Government or the State Government; and
+(b) 10%, where such contribution is made by an employer other than an employer referred to in clause (a),
+of his salary in the tax year.
+(2) Where the total income of the assessee is chargeable to tax under section 202(1), the provisions of sub-section (1) shall have effect as if for "10%" referred to in clause (b) of that sub-section, "14%" had been substituted.
+(3) An assessee referred to in sub-section (1), or any other assessee, being an individual, shall be allowed a deduction not exceeding Rs. 50000, in computation of his total income of the whole of the amount paid or deposited in the tax year by such individual in his account under a pension scheme notified or as may be notified by the Central Government.
+(4) The deduction under sub-section (3) shall also be allowed where any payment or deposit is made to the account of a minor under the said pension scheme, by the assessee, being the parent or guardian of such minor, subject to the condition that the aggregate amount of deduction under sub-section (3) and this sub-section shall not exceed Rs. 50000.
+(5) No deduction under sub-sections (3) and (4) shall be allowed in respect of the amount on which a deduction has been claimed and allowed under section 123.
+(6) Any amount standing to the credit of the assessee or a minor, in his account or the account of a minor, as the case may be, referred to in sub-sections (1),
+(3) and (4) and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year,—
+(a) on account of closure or his opting out of the pension scheme referred to in sub-sections (1) and (3); or
+(b) as pension received from the annuity plan purchased or taken on such closure or opting out,
+the whole of the amount referred to in clause (a) or (b) shall be deemed to be the income of the individual or his nominee, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year.
+(7) The amount received by the nominee, on the death of the assessee, under the circumstances referred to in sub-section (6)(a), shall not be deemed to be the income of the nominee.
+(8) The amount received by a person, being the parent or guardian or nominee of a minor on account of closure of the pension scheme, due to the death of the minor, referred to in sub-section (4), shall not be deemed to be the income of such person.
+(9) For the purposes of this section, the assessee shall not be deemed to have received any amount in the tax year, if such amount is used for purchasing an annuity plan in the same tax year.
+(10) Where any amount paid or deposited by the assessee has been allowed as a deduction under sub-section (3), no deduction with reference to such amount shall be allowed under section 123 for that tax year.
+(11) Any amount standing to the credit of the assessee, being a subscriber to Unified Pension Scheme, in his account referred to in sub-sections (1) and (3), and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year on account of his superannuation or voluntary retirement or retirement under Fundamental Rules 56(j) (which is not treated as penalty under the Central Civil Services (Classification, Control and Appeal) Rules, 1965), the whole of the amount shall be deemed to be the income of the assessee or his nominee, as the case may be, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year.
+(12) For the purposes of sub-section (11), the assessee shall be deemed not to have received any amount in the tax year if such amount is transferred to pool corpus from individual corpus on account of his superannuation or voluntary retirement or retirement under Fundamental Rules 56(j) (which is not treated as penalty under the Central Civil Services (Classification, Control and Appeal) Rules, 1965), as may be applicable.
+(13) For the purposes of this section,—
+(a) "pool corpus" and "individual corpus" shall have the same meaning as in Notification F. No. FX-1/3/2024-PR of the Department of Financial Services, dated the 24th January, 2025.
+(b) "salary" includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites.

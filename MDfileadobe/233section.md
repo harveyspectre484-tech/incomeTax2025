@@ -1,0 +1,10 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+
+# Amalgamation and demerger.
+233. (1) Where there has been an amalgamation of a company with another company or companies, then, subject to the other provisions of this section, the provisions relating to the tonnage tax scheme shall, as far as may be, apply to the amalgamated company, if it is a qualifying company.
+(2) Where the amalgamated company is not a tonnage tax company, it shall exercise an option for tonnage tax scheme under section 231(1) within three months from the date of the approval of the scheme of amalgamation.
+(3) Where the amalgamating companies are tonnage tax companies, the provisions of this Part shall, as far as may be, apply to the amalgamated company for such period as the option for tonnage tax scheme which has the longest unexpired period continues to be in force.
+(4) Where one of the amalgamating companies is a qualifying company as on the 1st October, 2004 and which has not exercised the option for tonnage tax scheme before the 1st January, 2005, the provisions of this Part shall not apply to the amalgamated company and the income of the amalgamated company from the business of operating qualifying ships shall be computed as per the other provisions of this Act.
+(5) Where in a scheme of demerger, the demerged company transfers its business to the resulting company before the expiry of the option for tonnage tax scheme, then, subject to the other provisions of this Part, the tonnage tax scheme shall, as far as may be, apply to the resulting company for the unexpired period, if it is a qualifying company.
+(6) The option for tonnage tax scheme in respect of the demerged company shall remain in force for the unexpired period of the tonnage tax scheme if it continues to be a qualifying company.

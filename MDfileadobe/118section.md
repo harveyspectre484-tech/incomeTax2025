@@ -1,0 +1,23 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+
+# Carry forward and set off of losses and unabsorbed depreciation in business reorganization of co-operative banks.
+118. (1) The assessee, being a successor co-operative bank, shall, in a case where the amalgamation has taken place during the tax year, be allowed to set off the accumulated loss and the unabsorbed depreciation, if any, of the predecessor co-operative bank as if the amalgamation had not taken place, and all the other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly.
+(2) In case of a co-operative bank where demerger takes place during the tax year, and where the accumulated loss or unabsorbed depreciation of the demerged co-operative bank—
+(a) is directly relatable to the undertaking transferred, the whole of such accumulated loss or unabsorbed depreciation shall be allowed to be carried forward and set off against the income of the resulting co-operative bank; and
+(b) is not directly relatable to the undertaking transferred, then such accumulated loss or unabsorbed depreciation shall first be apportioned between the demerged co-operative bank and the resulting co-operative bank in the same proportion in which assets of the undertaking are distributed between the demerged co-operative bank and the resulting co-operative bank, and be allowed to be carried forward and set off against their respective incomes.
+(3) The provisions of this section shall apply, if—
+(a) the predecessor co-operative bank—
+(i) has been engaged in the business of banking for three or more years; and
+(ii) has held at least three-fourths of the book value of fixed assets as on the date of the business reorganisation, continuously for two years before the date of business reorganisation;
+(b) the successor co-operative bank,—
+(i) holds at least three-fourths of the book value of fixed assets of the predecessor co-operative bank acquired through business reorganisation, continuously for a minimum five years immediately succeeding the date of business reorganisation;
+(ii) continues the business of the predecessor co-operative bank for a minimum five years from the date of business reorganisation; and
+(iii) fulfils such other conditions, as may be prescribed, to ensure the revival of the business of the predecessor co-operative bank or to ensure that the business reorganisation is for genuine business purpose.
+(4) The Central Government may, by notification, specify such other conditions as it may consider necessary, other than the condition referred to in subsection (3)(b)(iii), for the purposes of ensuring that the business reorganisation is for genuine business purposes.
+(5) In a case where any of the conditions referred to in sub-section (3) or notified under sub-section (4) are not complied with, the set off of accumulated business loss or unabsorbed depreciation made in any tax year in the hands of the successor co-operative bank shall be deemed to be the income of the successor co-operative bank chargeable to tax for the year in which such conditions are not complied with.
+(6) The period commencing from the beginning of the tax year and ending on the date immediately preceding the date of business reorganisation, and the period commencing from the date of such business reorganisation and ending with the tax year, shall be deemed to be two different tax years for the purposes of set off and carry forward of loss and allowance for depreciation.
+(7) For the purposes of this section,—
+(a) "accumulated loss" means so much of the loss of amalgamating co-operative bank or demerged co-operative bank as referred to in section 112 in the hands of predecessor co-operative bank, which such predecessor co-operative bank would have been entitled to carry forward and set off under the said section, as if the business reorganisation had not taken place;
+(b) "amalgamated co-operative bank", "amalgamating co-operative bank", "amalgamation", "business reorganisation", "demerged co-operative bank", "demerger", "predecessor co-operative bank", "successor co-operative bank" and "resulting co-operative bank" shall have the meanings respectively assigned to them in section 65;
+(c) "unabsorbed depreciation" means so much of the allowance for depreciation in the hands of amalgamating co-operative bank or demerged cooperative bank, which remains to be allowed and which would have been allowed to such banks, if the business reorganisation had not taken place.

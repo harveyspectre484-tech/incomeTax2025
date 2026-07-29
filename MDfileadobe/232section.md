@@ -1,0 +1,47 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Certain conditions for applicability of tonnage tax scheme.
+232. (1) A tonnage tax company shall, subject to and as per the provisions of this section, be required to credit to a reserve account (herein referred to as the Tonnage Tax Reserve Account) an amount, being 20% or more of the book profit derived from the activities referred to in section 228(1)(a) and (b) in each tax year to be utilised in the manner laid down in sub-section (6).
+(2) For the purposes of this section, the expression "book profit" shall have the meaning assigned to it in section 206(1)(c) so far as it relates to the income derived from the activities referred to in section 228(1)(a) and (b).
+(3) Where the company has—
+(a) book profit from the business of operating qualifying ships; and
+(b) book loss from any other sources,
+and consequently, the company is not in a position to create the full or any part of the reserves under sub-section (1), the company shall create the reserves to the extent possible in that tax year and the shortfall, if any, shall be added to the reserves required to be created for the following tax year and such shortfall shall be deemed to be part of the reserve requirement of that following tax year.
+(4) For the purposes of sub-section (3), to the extent the shortfall in creation of reserves during a particular tax year is carried forward to the following tax year under the said sub-section, the company shall be considered as having created sufficient reserves for the first mentioned tax year.
+(5) For the purposes of sub-section (3), nothing contained in sub-section (4) shall apply in respect of the second year in case the shortfall in creation of reserves continues for two consecutive tax years.
+(6) The amount credited to the Tonnage Tax Reserve Account under sub-section (1) shall be utilised by the company before the expiry of eight years following the tax year in which the amount was credited—
+(a) for acquiring a new ship or new inland vessel, as the case may be, for the purposes of the business of the company; and
+(b) until the acquisition of a new ship or new inland vessel, as the case may be, for the purposes of the business of operating qualifying ships other than for distribution by way of dividends or profits or for remittance outside India as profits or for the creation of any asset outside India.
+(7) Where any amount credited to the Tonnage Tax Reserve Account under sub-section (1),—
+(a) has been utilised for any purpose other than that referred to in sub-section (6); or
+(b) has not been utilised for the purpose specified in sub-section (6)(a); or
+(c) has been utilised for the purpose of acquiring a new ship or new inland vessel, as the case may be, as specified in sub-section (6)(a), but such ship or inland vessel, as the case may be, is sold or otherwise transferred, other than in any scheme of demerger by the company to any person at any time before the expiry of three years from the end of the tax year in which it was acquired,
+an amount which bears the same proportion to the total relevant shipping income of the year in which such reserve was created, as the amount out of such reserve so utilised or not utilised bears to the total reserve created during that year under sub-section (1) shall be taxable under the other provisions of this Act—
+(i) in a case referred to in clause (a), in the year in which the amount was so utilised; or
+(ii) in a case referred to in clause (b), in the year immediately following eight years specified in sub-section (6); or
+(iii) in a case referred to in clause (c), in the year in which the sale or transfer took place.
+(8) The income so taxable under the other provisions of this Act, referred to in sub-section (7), shall be reduced by the proportionate tonnage income charged to tax in the year of creation of such reserves.
+(9) Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section
+(1) is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.
+(10) If the reserve required to be created under sub-section (1) is not created for any two consecutive tax years, the option of the company for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the second consecutive tax year in which the failure to create the reserve under sub-section (1) had occurred.
+(11) For the purposes of this section, the expression "new ship" or "new inland vessel", as the case may be, includes a qualifying ship which, before the date of acquisition by the qualifying company was used by any other person, if it was not at any time previous to the date of such acquisition owned by any person resident in India.
+40 [(12) A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement as per the guidelines issued by the Director-General of Shipping or the Inland Waterways Authority of India, as the case may be, and notified by the Central Government.
+(13) The tonnage tax company shall be required to furnish a copy of the certificate issued by the Director-General of Shipping, or the designated authority, as appointed by the respective State Governments under the Inland Vessels Act, 2021 (24 of 2021), as the case may be, along with the return of income under section 263 to the effect that such company has complied with the minimum training requirement as per the guidelines referred to in sub-section (12) for the tax year.]
+(14) If the minimum training requirement is not complied with for any five consecutive tax years, the option of the company for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the fifth consecutive tax year in which the failure to comply with the minimum training requirement as per sub-section (12) had occurred.
+(15) In the case of every company which has opted for tonnage tax scheme, not more than 49% of the net tonnage of the qualifying ships operated by it during any tax year shall be chartered in.
+(16) The proportion of net tonnage referred to in sub-section (15) in respect of a tax year shall be calculated based on the average of net tonnage during that tax year.
+(17) For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the Director- General of Shipping 41[or Inland Waterways Authority of India, as the case may be].
+(18) Where the net tonnage of ships or inland vessel, as the case may be, chartered in exceeds the limit under sub-section (15) during any tax year, the total income of such company in relation to that tax year shall be computed as if the option for tonnage tax scheme does not have effect for that tax year.
+(19) Where the limit under sub-section (15) had exceeded in any two consecutive tax years, the option for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the second consecutive tax year in which the limit had exceeded.
+(20) For the purposes of this section, the expression "chartered in" shall exclude a ship or inland vessel, as the case may be, chartered in by the company on bareboat charter-cum-demise terms.
+(21) An option for tonnage tax scheme by a tonnage tax company shall not have effect in relation to a tax year unless such company—
+(a) maintains separate books of account in respect of the business of operating qualifying ships; and
+(b) furnishes, before the specified date referred to in section 63, the report of an accountant, in the prescribed form, duly signed and verified by such accountant.
+(22) A temporary cessation (as against permanent cessation) of operating any qualifying ship by a company shall not be considered as a cessation of operating of such qualifying ship and the company shall be deemed to be operating such qualifying ship for the purposes of this Part of the Chapter.
+(23) Where a qualifying company continues to operate a ship or inland vessel, as the case may be, which temporarily ceases to be a qualifying ship, such ship or inland vessel, as the case may be, shall not be deemed as a qualifying ship for the purposes of this Part.
+40. Sub-sections (12) and (13) sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, sub-sections (12) and (13) read as under :
+"(12) A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement in respect of trainee officers as per the guidelines issued by the Director-General of Shipping and notified by the Central Government.
+(13) The tonnage tax company shall be required to furnish a copy of the certificate issued by the Director-General of Shipping along with the return of income under section 263 to the effect that such company has complied with the minimum training requirement as per the guidelines referred to in sub-section (12) for the tax year."
+41. Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.
