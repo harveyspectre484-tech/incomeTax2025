@@ -1,0 +1,134 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "337",
+      "id": "337",
+      "title": "Specified income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "table": {
+        "type": "table",
+        "id": "337-table",
+        "x": 27.62,
+        "y_start": 150.0,
+        "page_start": 1,
+        "page_end": 1,
+        "columns": [
+          "Sl. No.",
+          "Specified income",
+          "Tax year"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "specified_income": {
+              "text_before_items": "Any anonymous donation received by a registered non-profit organisation other than a registered nonprofit organisation created or established,—",
+              "items": [
+                {
+                  "letter": "i",
+                  "id": "337-table-B-i",
+                  "text": "wholly for religious purposes,",
+                  "children": [
+                    {
+                      "numeral": "ii",
+                      "id": "337-table-B-i-ii",
+                      "text": "wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher."
+                    }
+                  ]
+                }
+              ]
+            },
+            "tax_year": "Tax year in which such anonymous donation is received."
+          },
+          {
+            "sl_no": "2",
+            "specified_income": "Any portion of income applied by it, directly or indirectly, for the benefit of any related person, computed in the manner, as may be prescribed.",
+            "tax_year": "Tax year in which such application is made."
+          },
+          {
+            "sl_no": "3",
+            "specified_income": "Any portion of income applied by it outside India in contravention to the provisions of section 338(a).",
+            "tax_year": "Tax year in which such application of income is made."
+          },
+          {
+            "sl_no": "4",
+            "specified_income": "Any investment or deposit made in contravention to the provisions of section 350 out of any income, accumulated income, deemed accumulated income, corpus, deemed corpus, or any other fund.",
+            "tax_year": "Tax year in which such investment or deposit is made."
+          },
+          {
+            "sl_no": "5",
+            "specified_income": "Any deemed corpus donation in respect of which any of the conditions specified in the section 340 is violated.",
+            "tax_year": "Tax year in which such violation is made."
+          },
+          {
+            "sl_no": "6",
+            "specified_income": "Any portion of accumulated income, if it is applied to purposes other than charitable or religious purposes for which it is accumulated or set apart.",
+            "tax_year": "Tax year in which it is so applied."
+          },
+          {
+            "sl_no": "7",
+            "specified_income": "Any portion of accumulated income, if it ceases to be accumulated or set apart for application to such purposes as specified under section 342(1).",
+            "tax_year": "Tax year in which it ceases to be so accumulated or set apart."
+          },
+          {
+            "sl_no": "8",
+            "specified_income": {
+              "text_before_items": "Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to",
+              "items": [
+                {
+                  "letter": "4",
+                  "id": "337-table-B-4",
+                  "text": "for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 342(1)."
+                }
+              ]
+            },
+            "tax_year": "Last of the tax years for which income was so accumulated or set apart."
+          },
+          {
+            "sl_no": "9",
+            "specified_income": "Any portion of accumulated income, if it is credited or paid to any other registered non-profit organisation.",
+            "tax_year": "Tax year in which it is so credited or paid."
+          },
+          {
+            "sl_no": "10",
+            "specified_income": "Any income applied to purposes other than charitable or religious purposes for which it is registered.",
+            "tax_year": "Tax year in which it is so applied."
+          },
+          {
+            "sl_no": "11",
+            "specified_income": "Any income determined by the Assessing Officer under section 344 in excess of income shown in the books of account of such business undertaking.",
+            "tax_year": "Tax year to which such income relates."
+          },
+          {
+            "sl_no": "12",
+            "specified_income": {
+              "text_before_items": "Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to",
+              "items": [
+                {
+                  "letter": "30",
+                  "id": "337-table-B-30",
+                  "text": "of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired."
+                }
+              ]
+            },
+            "tax_year": "Tax year immediately following the expiry of limitation period mentioned in Column B."
+          },
+          {
+            "sl_no": "13",
+            "specified_income": "Any deemed application under section 341(5) not actually applied by the registered non-profit organization for its objects in India within the period specified in section 341(6).",
+            "tax_year": "Tax year specified in section 341(6) by which such application is required to be made."
+          }
+        ]
+      }
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

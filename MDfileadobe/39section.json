@@ -1,0 +1,475 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "39",
+      "id": "39",
+      "title": "Computation of actual cost.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "39-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The actual cost of an asset used for the purposes of the business or profession shall be the actual cost to the assessee, as reduced by the following amounts:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "39-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "part of cost of asset, if any, met by any other person or authority, directly or indirectly;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "39-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "goods and services tax paid in respect of which credit of input tax has been claimed and allowed under the relevant law;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "39-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "duty of excise or additional duty leviable under section 3 of the Customs Tariff Act, 1975 (51 of 1975) in respect of which a claim of credit has been made and allowed under the Central Excise Rules, 1944;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "39-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "subsidy, grant or reimbursement, by whatever name called, if any, relatable to the acquisition of the asset, received, directly or indirectly, by the assessee from—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "39-1-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Central Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "39-1-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a State Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "39-1-d-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any authority established under any law; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "39-1-d-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other person."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "39-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The payment or aggregate of payments exceeding Rs. 10,000 in a day for acquisition of an asset or part thereof, made to a person in a mode otherwise than by specified banking or online mode, shall be excluded from the actual cost of that asset.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "39-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "39-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In circumstances specified under column B of the Table below, the actual cost of the asset shall be as specified in column C thereof.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "39-4-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Specified circumstances",
+              "Determination of actual cost"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "specified_circumstances": "Where capital asset is transferred by an amalgamating company to an amalgamated company being an Indian company in a scheme of amalgamation.",
+                "determination_of_actual_cost": "Actual cost to amalgamated company shall be the same as it would have been if the amalgamating company had continued to hold such capital asset for the purpose of its own business."
+              },
+              {
+                "sl_no": "2",
+                "specified_circumstances": "Where capital asset is transferred by a demerged company to a resulting company being an Indian company in a demerger.",
+                "determination_of_actual_cost": "Actual cost to resulting company shall be the same as it would have been, if the demerged company had continued to hold such asset for the purpose of its own business, which shall not exceed the written down value of such capital asset in the hands of demerged company."
+              },
+              {
+                "sl_no": "3",
+                "specified_circumstances": "Where inventory is converted into or treated as a capital asset.",
+                "determination_of_actual_cost": "Fair Market Value of such inventory as on date of conversion, as determined in the manner as may be prescribed."
+              },
+              {
+                "sl_no": "4",
+                "specified_circumstances": "Where asset is acquired by the assessee by way of gift or inheritance.",
+                "determination_of_actual_cost": {
+                  "text_before_items": "Actual cost to the previous owner as reduced by—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-C-a",
+                      "text": "depreciation actually allowed in respect of tax year commencing on 1st April, 1986 or any earlier tax year; and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-C-b",
+                      "text": "depreciation allowable for tax year commencing on or after 1st April, 1987 under this Act or under the Income-tax Act, 1961(43 of 1961), as if such asset was the only asset in the relevant block of asset."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "5",
+                "specified_circumstances": "Where a building, being the property of the assessee, is put to use for the purpose of business or profession during the tax year.",
+                "determination_of_actual_cost": {
+                  "text_before_items": "Actual cost of the building as reduced by the depreciation—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-C-a",
+                      "text": "that would have been allowable had the building been used for the purpose of business or profession from the date of acquisition; and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-C-b",
+                      "text": "calculated at the rate in force on the date on which such asset was put to use for the purpose of business or profession."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "6",
+                "specified_circumstances": {
+                  "text_before_items": "Where capital asset is transferred by—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-B-a",
+                      "text": "a holding company to its subsidiary company; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-B-b",
+                      "text": "a subsidiary company to its holding company, and the conditions of section 70(1)(c) and (d), as the case may be, are satisfied."
+                    }
+                  ]
+                },
+                "determination_of_actual_cost": "Actual cost to the transferee company shall be the same as it would have been, if the transferor company had continued to hold such asset for the purpose of its own business."
+              },
+              {
+                "sl_no": "7",
+                "specified_circumstances": "Where an asset, which previously belonged to the assessee and had been used by him for the purpose of his business or profession, is reacquired by the assessee.",
+                "determination_of_actual_cost": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-C-a",
+                      "text": "Actual cost of the asset in the hands of assessee, when it was first acquired, as reduced by—",
+                      "children": [
+                        {
+                          "letter": "i",
+                          "id": "39-4-table-C-a-i",
+                          "text": "depreciation actually allowed in respect of tax year commencing on 1st April, 1986 or any earlier tax year;"
+                        },
+                        {
+                          "letter": "ii",
+                          "id": "39-4-table-C-a-ii",
+                          "text": "depreciation allowable for tax year commencing on or after 1st April, 1987 under this Act or under the Income-tax Act, 1961 (43 of 1961), as if such asset was the only asset in the relevant block of asset; or"
+                        }
+                      ]
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-C-b",
+                      "text": "actual price for which such asset is reacquired by the assessee, whichever is lower."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "8",
+                "specified_circumstances": {
+                  "text_before_items": "Where an asset is acquired by the assessee from previous owner and subsequently asset is given back to the previous owner by way of lease, hire or otherwise, and—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-B-a",
+                      "text": "the asset was being used for the purpose of business or profession by the previous owner; and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-B-b",
+                      "text": "depreciation has been claimed by the previous owner."
+                    }
+                  ]
+                },
+                "determination_of_actual_cost": "Actual cost of asset to the assessee shall be the written down value of the asset in the hands of the previous owner at the time of transfer by the previous owner."
+              },
+              {
+                "sl_no": "9",
+                "specified_circumstances": "Where an asset is used in business after it ceases to be used for scientific research related to that business and a deduction is allowable under section 33(3).",
+                "determination_of_actual_cost": "Actual cost of asset as reduced by deduction allowed for the capital asset under section 45(1)(a)(i) or under section 35(1)(iv) of the Income-tax Act, 1961 (43 of 1961)."
+              },
+              {
+                "sl_no": "10",
+                "specified_circumstances": "Where the assessee had acquired an asset outside India, as a non-resident, and the asset is brought by him to India and put to use in his business or profession in India.",
+                "determination_of_actual_cost": {
+                  "text_before_items": "Actual cost of the asset as reduced by the depreciation—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-C-a",
+                      "text": "that would have been allowable had the asset been used for the purpose of business or profession in India since the date of its acquisition; and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-C-b",
+                      "text": "calculated at the rate in force."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "11",
+                "specified_circumstances": "Where capital asset is acquired under the scheme of corporatisation of a recognised stock exchange approved by the Securities and Exchange Board of India.",
+                "determination_of_actual_cost": "Actual cost of the asset, as if there was no corporatisation."
+              },
+              {
+                "sl_no": "12",
+                "specified_circumstances": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-B-a",
+                      "text": "Where deduction under section 46 was allowed or allowable in respect of the capital asset—",
+                      "children": [
+                        {
+                          "letter": "i",
+                          "id": "39-4-table-B-a-i",
+                          "text": "to the assessee;"
+                        },
+                        {
+                          "letter": "ii",
+                          "id": "39-4-table-B-a-ii",
+                          "text": "to any person and the assessee acquires or receives such asset through special modes of acquisition from such person."
+                        }
+                      ]
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-B-b",
+                      "text": "Where deduction allowed under section 46 in respect of a capital asset becomes deemed income as per section 46(9)(b)."
+                    }
+                  ]
+                },
+                "determination_of_actual_cost": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "39-4-table-C-a",
+                      "text": "Actual cost shall be deemed to be nil."
+                    },
+                    {
+                      "letter": "b",
+                      "id": "39-4-table-C-b",
+                      "text": "Actual cost of the asset as reduced by the depreciation,—",
+                      "children": [
+                        {
+                          "letter": "i",
+                          "id": "39-4-table-C-i",
+                          "text": "that would have been allowable had the asset been used for the purpose of business since date of acquisition;"
+                        },
+                        {
+                          "letter": "ii",
+                          "id": "39-4-table-C-ii",
+                          "text": "calculated at the rate in force."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "13",
+                "specified_circumstances": "Where any amount is paid or payable as interest in connection with the acquisition of an asset.",
+                "determination_of_actual_cost": "Actual cost shall not include so much of such amount as is relatable to any period after such asset is first put to use."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "39-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in sub-section (4), other than serial number 8 of the Table in the said sub-section, in a case where the asset is acquired by the assessee, its actual cost shall be such amount as may be determined by the Assessing Officer having regard to all the circumstances of the case, where—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "39-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the asset was used by any other person for the purposes of his business, before such acquisition; and the Assessing Officer is satisfied that the main purpose of the transfer of the asset, directly or indirectly, was to reduce tax liability (by claiming depreciation on enhanced actual cost).",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "39-5-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Assessing Officer is satisfied that the main purpose of the transfer of the asset, directly or indirectly, was to reduce tax liability (by claiming depreciation on enhanced actual cost)."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "39-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The determination of actual cost under sub-section (5) shall be made with the prior approval of the Joint Commissioner.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "39-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, \"special modes of acquisition\" means acquisition—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "39-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "by way of a gift or will or an irrevocable trust; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "39-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "upon distribution on the liquidation of a company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "39-7-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "by such mode of transfer as is referred to in section 70(1)(a), (c), (d), (e), (j), (zd), (ze) and (zf).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

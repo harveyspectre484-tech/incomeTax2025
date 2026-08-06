@@ -1,0 +1,425 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "58",
+      "id": "58",
+      "title": "Special provision for computing profits and gains of business or profession on presumptive basis in case of certain residents.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "58-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sections 26 to 54, to the extent contrary to this section, shall not apply to the manner of computation of profits and gains of the specified business or profession in sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "58-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The profits and gains of any specified business or profession as mentioned in column B of the Table below, carried on by an assessee specified in column C of the said Table, having total turnover or gross receipts of business or profession during the tax year specified in column D and computed in the manner specified in column E thereof, shall be deemed to be the profits and gains of such business or profession chargeable to tax under the head \"Profits and gains of business or profession\".",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "58-2-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Specified business or profession",
+              "Assessee",
+              "Total turnover or, as the case may be, gross receipts of business or profession during tax year",
+              "Manner of computation"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "specified_business_or_profession": "Any business other than the business specified against serial number 2.",
+                "assessee": "Eligible assessee.",
+                "total_turnover_or_gross_receipts_during_tax_year": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "58-2-table-1-D-a",
+                      "text": "Does not exceed two crore rupees; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "58-2-table-1-D-b",
+                      "text": "does not exceed three crore rupees, where the amount or aggregate of amounts received, in cash, does not exceed 5% of the total turnover or gross receipts."
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                "manner_of_computation": {
+                  "text_before_items": "(A) The aggregate of—",
+                  "items": [
+                    {
+                      "letter": "i",
+                      "id": "58-2-table-1-E-i",
+                      "text": "6% of total turnover or gross receipts which is received by specified banking or online mode during the tax year or before the due date specified in section 263(1) in respect of that tax year"
+                    },
+                    {
+                      "letter": "ii",
+                      "id": "58-2-table-1-E-ii",
+                      "text": "8% of total turnover or gross receipts as reduced by the turnover or gross receipts covered in (i); or"
+                    }
+                  ],
+                  "text_after_items": "(B) profit claimed to have been actually earned, whichever is higher."
+                }
+              },
+              {
+                "sl_no": "2",
+                "specified_business_or_profession": "Business of plying, hiring or leasing goods carriage.",
+                "assessee": "An assessee, who owns not more than ten goods carriages at any time during the tax year.",
+                "total_turnover_or_gross_receipts_during_tax_year": null,
+                "manner_of_computation": {
+                  "text_before_items": "(A) The aggregate of income from goods carriage:—",
+                  "items": [
+                    {
+                      "letter": "i",
+                      "id": "58-2-table-2-E-i",
+                      "text": "being a heavy goods vehicle, calculated at the rate of Rs. 1000 per ton of gross vehicle weight or unladen weight, as the case may be, for each vehicle, for every month or part of a month during which such vehicle is owned by the assessee in the tax year"
+                    },
+                    {
+                      "letter": "ii",
+                      "id": "58-2-table-2-E-ii",
+                      "text": "being a vehicle other than heavy goods vehicle, calculated at the rate of Rs. 7,500 for each goods carriage for every month or part of a month during which the vehicle is owned by the assessee in the tax year; or"
+                    }
+                  ],
+                  "text_after_items": "(B) profit claimed to have been actually earned, whichever is higher."
+                }
+              },
+              {
+                "sl_no": "3",
+                "specified_business_or_profession": "Specified profession as referred to in section 62(4).",
+                "assessee": "Specified assessee.",
+                "total_turnover_or_gross_receipts_during_tax_year": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "58-2-table-3-D-a",
+                      "text": "Does not exceed fifty lakh rupees; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "58-2-table-3-D-b",
+                      "text": "does not exceed seventy-five lakh rupees, where the amount or aggregate of amounts received in cash does not exceed 5% of the gross receipts."
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                "manner_of_computation": "50% of the gross receipts or profit claimed to have been actually earned, whichever is higher."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "58-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any assessee mentioned in column C of the Table in sub-section (2), who claims that—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "58-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the profits or gains actually earned from the specified business or profession are lower than the profits or gains computed in the manner mentioned in column E of the said Table; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "58-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "whose total income exceeds the maximum amount which is not chargeable to tax, shall be required to—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "58-3-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "keep and maintain such books of account and other documents as required under section 62; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "58-3-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "get the accounts audited and furnish a report of such audit as required under section 63."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "58-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any loss, allowance or deduction allowable under the provisions of this Act, shall not be allowed against the income computed in the manner specified in sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "58-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2) (Table: Sl. No. 2), where the assessee is a firm, the salary and interest paid to its partners shall be deducted from the income computed under sub-section (1) subject to the conditions and limits specified in section 35(e).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "58-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The written down value of any asset used for the purposes of specified business or profession shall be computed as if the assessee mentioned in column C of the Table in sub-section (2) had claimed and was actually allowed deduction in respect of depreciation thereon for each of the relevant tax years.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "58-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an eligible assessee declares profit for any tax year as per the provisions of sub-section (2) (Table: Sl. No. 1) and he declares profit for any of the five tax years succeeding such tax year in contravention of the provisions of sub-section (1), then he shall not be eligible to claim the benefit of the provisions of this section for five tax years subsequent to the tax year in which the profit has not been declared as per the provisions of the said sub-section.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "58-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in foregoing provision of this section, where provisions of sub-section (7) are applicable to an eligible assessee and his total income exceeds the maximum amount which is not chargeable to income-tax, he shall be required to keep and maintain such books of account and other documents as required under section 62 and get them audited and furnish a report of such audit as required under section 63.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "58-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2) (Table: Sl. Nos. 1 and 3), the receipt of amount or aggregate of amounts by a cheque drawn on a bank or by a bank draft, which is not account payee, shall be deemed to be the receipt in cash.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "58-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sections 62 and 63 shall not apply in so far as they relate to the business referred to in sub-section (2) (Table: Sl. No. 2) and in computing the monetary limits under those sections, the gross receipts or, as the case may be, the income from the said business shall be excluded.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "58-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "58-11-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"eligible assessee\" means an individual, a Hindu undivided family, or a firm other than a limited liability partnership, who is resident in India, and who—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "58-11-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "***",
+                  "footnote_refs": [
+                    "8"
+                  ]
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "58-11-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has not claimed any deduction under Chapter VIII-C for the relevant tax year;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "58-11-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "does not carry on specified profession as defined in section 62(4);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "58-11-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "does not earn any income in the nature of commission or brokerage;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "58-11-a-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "does not carry on any agency business;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "58-11-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified assessee\" means an individual or a firm, other than a limited liability partnership, who is a resident in India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "58-11-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"limited liability partnership\" shall have the same meaning as assigned to it in section 2(1)(n) of the Limited Liability Partnership Act, 2008 (6 of 2009);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "58-11-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expressions \"goods carriage\", \"gross vehicle weight\" and \"unladen weight\" shall have the same meaning as respectively assigned to them in section 2 of the Motor Vehicles Act, 1988 (59 of 1988);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "58-11-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"heavy goods vehicle\" means any goods carriage, the gross vehicle weight of which exceeds 12,000 kilograms; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "58-11-f",
+              "x": 40.8,
+              "y_start": 410.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an assessee, who is in possession of a goods carriage, whether taken on hire purchase or on instalments and for which the whole or part of the amount payable is still due, shall be deemed to be the owner of such goods carriage.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "8",
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, sub-clause (i) read as under: \"(i) has not claimed any deduction under section 144;\"",
+      "page_start": 1,
+      "page_end": 1,
+      "referenced_from": "58-11-a-i"
+    }
+  ],
+  "orphans": []
+}

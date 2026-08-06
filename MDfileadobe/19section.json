@@ -98,50 +98,198 @@
             "page_start": 1,
             "page_end": 1,
             "columns": [
-              "TABLE"
+              "Sl. No.",
+              "Nature of sum",
+              "Amount of deduction"
             ],
             "rows": [
               {
-                "table": "1"
+                "sl_no": "1",
+                "nature_of_sum": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.",
+                "amount_of_deduction": "Entire amount."
               },
               {
-                "table": "2"
+                "sl_no": "2",
+                "nature_of_sum": "Standard deduction.",
+                "amount_of_deduction": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "19-1-table-C-a",
+                      "text": "Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1);"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "19-1-table-C-b",
+                      "text": "Rs. 50000 or the salary, whichever is less, in any other case."
+                    }
+                  ]
+                }
               },
               {
-                "table": "3"
+                "sl_no": "3",
+                "nature_of_sum": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g).",
+                "amount_of_deduction": "Entire amount."
               },
               {
-                "table": "4"
+                "sl_no": "4",
+                "nature_of_sum": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.",
+                "amount_of_deduction": "Entire amount."
               },
               {
-                "table": "5"
+                "sl_no": "5",
+                "nature_of_sum": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).",
+                "amount_of_deduction": {
+                  "text_before_items": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and",
+                  "items": [
+                    {
+                      "letter": "3",
+                      "id": "19-1-table-C-3",
+                      "text": "of the said Act."
+                    }
+                  ]
+                }
               },
               {
-                "table": "6"
+                "sl_no": "6",
+                "nature_of_sum": {
+                  "text_before_items": "Any other gratuity received by an employee—",
+                  "items": [
+                    {
+                      "letter": "i",
+                      "id": "19-1-table-B-i",
+                      "text": "on his retirement;",
+                      "children": [
+                        {
+                          "numeral": "ii",
+                          "id": "19-1-table-B-i-ii",
+                          "text": "on his becoming incapaci-tated before such retire-ment;"
+                        },
+                        {
+                          "numeral": "iii",
+                          "id": "19-1-table-B-i-iii",
+                          "text": "on termination of his employment."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "amount_of_deduction": {
+                  "text_before_items": "Amount being minimum of—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "19-1-table-C-a",
+                      "text": "actual gratuity received;"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "19-1-table-C-b",
+                      "text": "amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "19-1-table-C-c",
+                      "text": "half month's salary for each completed year of service, calculated as under:— where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
+                    }
+                  ]
+                }
               },
               {
-                "table": "7"
+                "sl_no": "7",
+                "nature_of_sum": {
+                  "text_before_items": "Payment in commutation of pension received—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "19-1-table-B-a",
+                      "text": "under the Civil Pensions (Commutation) Rules of the Central Government; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "19-1-table-B-b",
+                      "text": "under any similar scheme applicable to—"
+                    },
+                    {
+                      "letter": "i",
+                      "id": "19-1-table-B-i",
+                      "text": "the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]",
+                      "children": [
+                        {
+                          "numeral": "ii",
+                          "id": "19-1-table-B-i-ii",
+                          "text": "the members of the all-India services"
+                        },
+                        {
+                          "numeral": "iii",
+                          "id": "19-1-table-B-i-iii",
+                          "text": "the members of the defence services"
+                        },
+                        {
+                          "numeral": "iv",
+                          "id": "19-1-table-B-i-iv",
+                          "text": "the members of the civil services of a State, or the holders of civil posts under a State; or"
+                        }
+                      ]
+                    },
+                    {
+                      "letter": "v",
+                      "id": "19-1-table-B-v",
+                      "text": "the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act."
+                    }
+                  ]
+                },
+                "amount_of_deduction": "Entire amount."
               },
               {
-                "table": "8"
+                "sl_no": "8",
+                "nature_of_sum": "Payment in commutation of pension is received under any scheme from any other employer.",
+                "amount_of_deduction": {
+                  "text_before_items": "The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially recognised tables of mortality, and—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "19-1-table-C-a",
+                      "text": "where the employee has received gratuity, the commuted value of one-third of the pension, which he is normally entitled to receive; and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "19-1-table-C-b",
+                      "text": "in any other case, the commuted value of one-half of such pension."
+                    }
+                  ]
+                }
               },
               {
-                "table": "9"
+                "sl_no": "9",
+                "nature_of_sum": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3).",
+                "amount_of_deduction": "Entire amount."
               },
               {
-                "table": "10"
+                "sl_no": "10",
+                "nature_of_sum": "Compensation received by a workman at the time of his retrenchment—",
+                "amount_of_deduction": ""
               },
               {
-                "table": "11"
+                "sl_no": "11",
+                "nature_of_sum": "In case of compensation referred to in Sl. No. 10, where such compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—",
+                "amount_of_deduction": ""
               },
               {
-                "table": "12"
+                "sl_no": "12",
+                "nature_of_sum": "Amount received or receivable on voluntary retirement or termination of service under a scheme or schemes of voluntary retirement, by an employee as referred to in sub-section (2)(h).",
+                "amount_of_deduction": ""
               },
               {
-                "table": "13"
+                "sl_no": "13",
+                "nature_of_sum": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise.",
+                "amount_of_deduction": ""
               },
               {
-                "table": "14"
+                "sl_no": "14",
+                "nature_of_sum": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.",
+                "amount_of_deduction": ""
               }
             ]
           }

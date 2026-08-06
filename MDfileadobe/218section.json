@@ -1,0 +1,45 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "218",
+      "id": "218",
+      "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table:",
+      "subsections": [],
+      "text_after_subsections": "",
+      "table": {
+        "type": "table",
+        "id": "218-table",
+        "x": 27.62,
+        "y_start": 150.0,
+        "page_start": 1,
+        "page_end": 1,
+        "columns": [
+          "Sl. No.",
+          "Income",
+          "Rate of income-tax payable"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "income": "Income referred to in section 147(3)",
+            "rate_of_income_tax_payable": "15%"
+          },
+          {
+            "sl_no": "2",
+            "income": "Total income as reduced by income referred to in Sl. No. (1)",
+            "rate_of_income_tax_payable": "Rates in force.]"
+          }
+        ]
+      }
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

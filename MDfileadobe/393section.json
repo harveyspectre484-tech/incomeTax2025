@@ -1,0 +1,1444 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "393",
+      "id": "393",
+      "title": "Tax to be deducted at source.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "393-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any income or sum of the nature specified in column B of the Table below, is credited or paid or distributed by the person specified in column C during the tax year, to a resident, the person responsible for paying such income or sum shall deduct income-tax,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "393-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on the entire amount of such income or sum, where the amount or aggregate of amounts exceeds the threshold limit specified in column D, or on sum as per Note 1 for serial number 8(ii), as the case may be;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "393-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate specified in column D;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "393-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the time of credit of such income or sum to the account of the payee or at the time of its payment in cash or by way of a cheque or a draft or by any other mode, whichever is earlier; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "393-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "subject to the provisions of sub-sections (4), (5), (6), (8) and (9). FOR PAYMENTS TO RESIDENT",
+              "children": [],
+              "table": {
+                "type": "table",
+                "id": "393-1-d-table",
+                "x": 27.62,
+                "y_start": 150.0,
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "Sl. No.",
+                  "Nature of income or sum",
+                  "Payer",
+                  "Rate Threshold limit"
+                ],
+                "rows": [
+                  {
+                    "sl_no": "1",
+                    "nature_of_income_or_sum": {
+                      "text_before_items": "1. Commission or brokerage Any person. Specified person.",
+                      "items": [
+                        {
+                          "letter": "i",
+                          "id": "393-1-d-table-B-i",
+                          "text": "Any income by way of rent.",
+                          "children": [
+                            {
+                              "numeral": "ii",
+                              "id": "393-1-d-table-B-i-ii",
+                              "text": "Any income by way of rent. Note 1.—In serial number 2(i), the tax shall be deducted on such income at the time of—"
+                            }
+                          ]
+                        },
+                        {
+                          "letter": "a",
+                          "id": "393-1-d-table-B-a",
+                          "text": "credit of rent to the account of the payee; or"
+                        }
+                      ]
+                    },
+                    "payer": {
+                      "text_before_items": "1. Commission or brokerage Rate: Rates in force. ___________ Threshold limit: Rs. 20,000. Rate: 2% ________ Threshold limit: Rs. 20,000. Person other than specified person. Specified person. Note 1.—In serial number 2(i), the tax shall be deducted on such income at the time of—",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "393-1-d-table-C-a",
+                          "text": "credit of rent to the account of the payee; or"
+                        }
+                      ]
+                    },
+                    "rate_threshold_limit": {
+                      "text_before_items": "1. Commission or brokerage Rate: 2% ________ Threshold limit : Rs. 50,000 for a month or part of a month. Rate:",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "393-1-d-table-D-a",
+                          "text": "2%, for the use of any machinery or plant or equipment; and"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "393-1-d-table-D-b",
+                          "text": "10%, for the use of any land, or building (including factory building), or land appurtenant to a building (including factory building), or furniture, or fittings. __________ Threshold limit [for"
+                        },
+                        {
+                          "letter": "a",
+                          "id": "393-1-d-table-D-a",
+                          "text": "and (b)]: Rs. 50,000 for a month or part of a month. Note 1.—In serial number 2(i), the tax shall be deducted on such income at the time of—"
+                        },
+                        {
+                          "letter": "a",
+                          "id": "393-1-d-table-D-a",
+                          "text": "credit of rent to the account of the payee; or"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "sl_no": "2",
+                    "nature_of_income_or_sum": "2. Rent",
+                    "payer": "2. Rent",
+                    "rate_threshold_limit": "2. Rent"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "393-1-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "payment thereof in cash or by way of a cheque or a draft or any other mode, whichever is earlier, for the last month of the tax year or the last month of tenancy.",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "393-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Any consideration for transfer of any immovable property (other than agricultural land). Person [other than the person who are required to deduct tax under serial number 3(iii)]. Rate: 1% of—"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "393-1-a",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "consideration for transfer of the immovable property; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "393-1-b",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "stamp duty value of such property, whichever is higher.",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "393-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Any consideration, not being consideration in kind, Any person. under the agreement referred to in section 67(14). Threshold limit: Fifty lakh rupees and as per Note 3. Rate: 10% Threshold limit: Nil."
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "393-1-b-iii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Any sum, being in the nature of—"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "393-1-a",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "compensation or the enhanced compensation; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "393-1-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "consideration or the enhanced consideration, on account of compulsory acquisition, under any law for the time being in force, of any immovable property (other than agricultural land). Any person. Rate: 10% Threshold limit: Rs. 5,00,000. Note 1.—Consideration for transfer of any immovable property under serial number 3(i) shall be the aggregate of the amounts paid or payable by all the transferees to the transferor or all the transferors for transfer of such immovable property for the purposes of the threshold limit mentioned in column D. Note 2.—In case of consideration on which provisions of both serial numbers 3(i) and 3(ii) are applicable, tax shall be deducted under 3(ii) only. Note 3.—For the purposes of 81[serial number 3(i)], the income-tax shall be deducted where consideration for transfer of any immovable property or the stamp duty value of such property, is equal to or greater than fifty lakh rupees.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "4",
+      "id": "4",
+      "title": "3. Payment on transfer of certain immovable property other than agricultural land",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Income from capital market",
+      "subsections": [],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "5",
+      "id": "5",
+      "title": "Any securitisation trust specified in section 221.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Interest income",
+      "subsections": [],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "6",
+      "id": "6",
+      "title": "Note 2.—The person responsible for making the payment referred to in serial number 5(ii) and (iii) of this Table, may at the time of making any deduction, increase or reduce the amount to be deducted for the purpose of adjusting any excess or deficiency arising out of any previous deduction or failure to deduct during the tax year.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Payments to contractors, fees for professional and technical services, etc.",
+      "subsections": [],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "8",
+      "id": "8",
+      "title": "7. Dividend",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Other cases",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "8-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any income or sum of the nature specified in column B of the Table below, is credited or paid by the person specified in column D during the tax year, to a non-resident specified in column C, the person responsible for paying such income or sum shall deduct income-tax on the amount of such income or sum,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate specified in column E;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the time of credit of income or sum to the account of the payee or at the time of its payment in cash or by way of a cheque or a draft or by any other mode, whichever is earlier; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "8-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "subject to the provisions of sub-sections (4), (8) and (9). FOR PAYMENTS TO NON-RESIDENT",
+              "children": [],
+              "table": {
+                "type": "table",
+                "id": "8-2-c-table",
+                "x": 27.62,
+                "y_start": 150.0,
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "2. Any income by way of interest payable in respect of moneys borrowed in foreign currency from a source outside India,— (a) under a loan agreement or issue of long-term infrastructure bond on or after the 1st July, 2012 but before the 1st July, 2023; or (b) by way of issue of any long- term bond on or after the 1st October, 2014 but before the 1st July, 2023, which is approved by the Central Government in this behalf.",
+                  "Any non-resident (not being a company) or a foreign company.",
+                  "Any Indian company or a business trust.",
+                  "5%"
+                ],
+                "rows": [
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "3",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any Indian company or a business trust.",
+                    "5%": "5%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "4",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any Indian company or a business trust.",
+                    "5%": {
+                      "text_before_items": "",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "8-2-c-table-D-a",
+                          "text": "4%, where such bonds are issued on or after the 1st April, 2020 but before the 1st July, 2023; or"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "8-2-c-table-D-b",
+                          "text": "9%, where such bonds are issued on or after the 1st July, 2023."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "5",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any infrastructure debt fund referred to in Schedule VII (Table: Sl. No. 46).",
+                    "5%": "5%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "6",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any unit holder, being a nonresident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any business trust.",
+                    "5%": {
+                      "text_before_items": "",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "8-2-c-table-D-a",
+                          "text": "5%, in case of income of the nature referred to in Schedule V [Table: Sl. No. 3. B(a)]; and"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "8-2-c-table-D-b",
+                          "text": "10%, in case of income of the nature referred to in Schedule V [Table: Sl. No. 3. B(b)]."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "7",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any unitholder, being a nonresident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any business trust.",
+                    "5%": "Rates in force."
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "8",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any unitholder, being a nonresident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any investment fund specified in section 224.",
+                    "5%": "Rates in force."
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "9",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any investor, being a nonresident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any securitisation trust specified in section 221.",
+                    "5%": "Rates in force."
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "10",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident (not being a company) or a foreign company.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "As per Note 2."
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "11",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any offshore fund.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "10%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "12",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any offshore fund.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "12.5%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "13",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "10%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "14",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any non-resident.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "12.5%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "15",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any Foreign Institutional Investor.",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "As per Note 2."
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "16",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "A specified fund referred to in Schedule VI [Note 1(g)].",
+                    "any_indian_company_or_a_business_trust": "Any person.",
+                    "5%": "10%"
+                  },
+                  {
+                    "2_any_income_by_way_of_interest_payable_in_respect_of_moneys_borrowed_in_foreign_currency_from_a_source_outside_india,—_(a)_under_a_loan_agreement_or_issue_of_long_term_infrastructure_bond_on_or_after_the_1st_july,_2012_but_before_the_1st_july,_2023;_or_(b)_by_way_of_issue_of_any_long_term_bond_on_or_after_the_1st_october,_2014_but_before_the_1st_july,_2023,_which_is_approved_by_the_central_government_in_this_behalf": "17",
+                    "any_non_resident_(not_being_a_company)_or_a_foreign_company": "Any interest (not being interest referred to against serial Any non-resident (not being a Any person. numbers 2, 3, 4 and 5) or any other sum chargeable under the company) or a foreign provisions of this Act, not being income chargeable under the company. head \"Salaries\". Rates in force. Note 1.—For serial numbers 2, 3 and 4, the interest payable shall be income to the extent to which such interest does not exceed the amount of interest calculated at the rate approved by the Central Government in this behalf, having regard to the terms of the loan or the bond and its repayment. Note 2.—For serial numbers 10 and 15, tax shall be deducted at the rate of—",
+                    "any_indian_company_or_a_business_trust": "",
+                    "5%": ""
+                  }
+                ]
+              }
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-2-a",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "20%; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-2-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where an agreement referred to in section 159(1) or 159(2) applies to the payee and if the payee has furnished a certificate referred to in section 159(8), as the case may be, then, income-tax shall be deducted at the rate or rates of income-tax provided in such agreement for such income, if such rate is lower than 20%. Note 3.—For serial number 17,—",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-2-a",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if interest is payable by the Government or a public sector bank or a public financial institution within the meaning of Schedule VII (Note 3), deduction of tax shall be made only at the time of payment thereof in cash or by the issue of a cheque or draft or by any other mode;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-2-b",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the obligation to deduct tax at source and comply with the provisions of this serial number extend to all persons resident or non-resident, whether or not, the non-resident person has—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a residence or place of business or business connection in India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-2-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other presence in any manner whatsoever in India."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "8-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any income or sum of the nature specified in column B of the Table below, is credited or paid by the person specified in column C during the tax year, to any person, the person responsible for making payment of such income or sum, shall deduct income-tax—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on the entire amount of such income or sum, where the amount or aggregate of amounts exceed the threshold limit specified in column D, or on net winnings as per Note 1 of the Table; (b) at the rate specified in column D; (c) at the time of payment thereof in cash or by way of a cheque or a draft or by any other mode, or as specified therein; and (d) subject to the provisions of sub-sections (4), (5), (6), (8) and (9). TABLE FOR PAYMENTS TO ANY PERSON",
+              "children": [],
+              "table": {
+                "type": "table",
+                "id": "8-3-a-table",
+                "x": 27.62,
+                "y_start": 150.0,
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "Sl. No.",
+                  "Nature of income or sum",
+                  "Payer",
+                  "Rate Threshold limit"
+                ],
+                "rows": [
+                  {
+                    "sl_no": "1",
+                    "nature_of_income_or_sum": {
+                      "text_before_items": "Any income by way of winnings (other than winnings from online games as referred to in serial number 2) from—",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "8-3-a-table-B-a",
+                          "text": "any lottery; or"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "8-3-a-table-B-b",
+                          "text": "crossword puzzle; or"
+                        },
+                        {
+                          "letter": "c",
+                          "id": "8-3-a-table-B-c",
+                          "text": "card game and other game of any sort; or"
+                        },
+                        {
+                          "letter": "d",
+                          "id": "8-3-a-table-B-d",
+                          "text": "gambling or betting of any form or nature whatsoever."
+                        }
+                      ]
+                    },
+                    "payer": "Any person.",
+                    "rate_threshold_limit": "Rate: Rates in force. _____ Threshold limit: Rs. 10,000 in case of a single transaction."
+                  },
+                  {
+                    "sl_no": "2",
+                    "nature_of_income_or_sum": "Any income by way of winnings from online game.",
+                    "payer": "Any person.",
+                    "rate_threshold_limit": "Rate: Rates in force. _____ Threshold limit: As per Note 1."
+                  },
+                  {
+                    "sl_no": "3",
+                    "nature_of_income_or_sum": "Any income by way of winnings from any horse race.",
+                    "payer": "Any person, being a bookmaker or a person to whom a licence has been granted by the Government under any law for the time being in force for horse racing in any race course or for arranging for wagering or betting in any race course.",
+                    "rate_threshold_limit": "Rate: Rates in force. _____ Threshold limit: Rs. 10,000 in case of a single transaction."
+                  },
+                  {
+                    "sl_no": "4",
+                    "nature_of_income_or_sum": "Any income, credited or paid to a person, who is or has been stocking, distributing, purchasing or selling lottery tickets, by way of commission, remuneration or prize (by whatever name called) on such tickets.",
+                    "payer": "Any person.",
+                    "rate_threshold_limit": "Rate: 2% _____ Threshold limit: Rs. 20,000."
+                  },
+                  {
+                    "sl_no": "5",
+                    "nature_of_income_or_sum": "Any sum, paid in cash, from one or more accounts maintained by any person (herein referred as recipient).",
+                    "payer": {
+                      "text_before_items": "Any person, being, —",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "8-3-a-table-C-a",
+                          "text": "a banking company;"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "8-3-a-table-C-b",
+                          "text": "a co-operative society engaged in carrying on the business of banking; or"
+                        },
+                        {
+                          "letter": "c",
+                          "id": "8-3-a-table-C-c",
+                          "text": "a post office."
+                        }
+                      ]
+                    },
+                    "rate_threshold_limit": {
+                      "text_before_items": "Rate: 2% _____ Threshold limit:",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "8-3-a-table-D-a",
+                          "text": "three crore rupees in case of recipient being, a cooperative society; or"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "8-3-a-table-D-b",
+                          "text": "one crore rupees in case of recipient being person other than a co-operative society."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "sl_no": "6",
+                    "nature_of_income_or_sum": "Any amount referred to in section 80CCA(2)(a) of the Any person. Income-tax Act, 1961 (43 of 1961). Rate: 10% Threshold limit: Rs. 2,500.",
+                    "payer": "",
+                    "rate_threshold_limit": ""
+                  },
+                  {
+                    "sl_no": "7",
+                    "nature_of_income_or_sum": "Any sum in the nature of salary, remuneration, commission, bonus or interest paid to a partner of the firm or credited to his account (including capital account). Any person, being a firm. Rate: 10% Threshold limit: Rs. 20,000. Note 1.—For serial number 2, tax shall be deducted—",
+                    "payer": "",
+                    "rate_threshold_limit": ""
+                  }
+                ]
+              }
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-3-a",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on net winnings in the user account of the payee at the end of the tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-3-b",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where there is any withdrawal from user account during the tax year, the tax shall be deducted at the time of such withdrawal on the net winnings comprised in such withdrawal as well as on the remaining amount of net winnings in user account at the end of the tax year, where the net winnings in each case is computed in the such manner as may be prescribed. Note 2.—For serial numbers 1 and 2, where the winnings or net winnings, as the case may be,—",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-3-a",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is wholly in kind; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-3-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is partly in kind and partly in cash, but such part in cash is not sufficient to meet the liability of deduction of tax in respect of the whole of such winnings, then, the person responsible for paying shall ensure that the tax required to be deducted has been paid, before releasing the winnings. Note 3.—For serial number 4, the person responsible for making the payment shall deduct tax at the time of credit of such sum or at the time of payment of such sum in cash or by issue of a cheque or a draft or by any other mode, whichever is earlier.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "8-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The deduction of tax at source shall not be made under the provisions referred to in column B of the Table below, in respect of the income or sum along with the conditions, specified in column C:",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Interest payable on—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-4-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "National Development Bonds;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-4-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such debentures, issued by such institution or authority or any other person as the Central Government may, by notification, specify in this behalf;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-4-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any security of the Central Government or a State Government, other than—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-4-a-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Life Insurance Corporation of India established under the Life Insurance Corporation Act, 1956 (31 of 1956), in respect of any securities owned by it or in which it has full beneficial interest; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-4-a-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the General Insurance Corporation of India or to any of the four companies, formed by virtue of the schemes made under section 16(1) of the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972), in respect of any securities owned by the Corporation or such company or in which the Corporation or such company has full beneficial interest; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-4-a-iii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other insurer in respect of any securities owned by it or in which it has full beneficial interest; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "8-4-a-iv",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a \"business trust\", as defined in section 2(21), in respect of any securities, by a special purpose vehicle referred to in Schedule V (Table: Sl. No. 3)."
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-4-a",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Interest income credited or paid to— 82",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-4-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any banking company [or any co-operative society engaged in carrying on the business of banking (including a co-operative land mortgage bank)]; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-4-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any financial corporation established by or under a Central Act or State Act or Provincial Act; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-4-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Life Insurance Corporation of India established under the Life Insurance Corporation Act, 1956 (31 of 1956); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "8-4-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Unit Trust of India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "8-4-a-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any company or co-operative society carrying on the business of insurance; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "8-4-a-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such other institution, association or body or class of institutions, associations or bodies which the Central Government may, for reasons to be recorded in writing, notified in this behalf before the 1st April, 2020;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-4-b",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "interest income credited or paid—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-4-b-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by a co-operative society to any other co-operative society; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-4-b-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by a co-operative society other than a co-operative bank, to a member thereof; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-4-b-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of deposits with a primary agricultural credit society or a primary credit society or a co-operative land mortgage bank or a co-operative land development bank; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "8-4-b-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of deposits (other than time deposits made on or after the 1st July, 1995) with a cooperative society, other than a co-operative society or bank referred to in sub-clause (iii), engaged in the business of banking, except when,—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-4-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by the Central Government under any provision of this Act or the Income-tax Act, 1961 (43 of 1961), or the Estate Duty Act, 1953 (34 of 1953), or the Wealth-tax Act, 1957 (27 of 1957), or the Gift-tax Act, 1958 (18 of 1958), the Companies (Profits) Surtax Act, 1964 (7 of 1964), or the Interest-tax Act, 1974 (45 of 1974);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-4-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of deposits under any scheme framed by the Central Government and notified by it in this behalf;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-4-b-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of deposits (other than time deposits made on or after the 1st July, 1995) with a banking company;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "8-4-b-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "footnote_refs": [
+                    "83"
+                  ],
+                  "text": "on the compensation amount awarded by a Motor Accidents Claims Tribunal—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "8-4-b-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "or payable by an infrastructure capital company; or infrastructure capital fund; or infrastructure debt fund; or a public sector company; or scheduled bank in relation to a zero coupon bond issued on or after the 1st June, 2005 by such company or fund or public sector company or scheduled bank;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "8-4-b-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "as referred to in Schedule V (Table: Sl. No. 3);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vii",
+                  "id": "8-4-b-vii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by a firm to a partner of the firm.",
+                  "table": {
+                    "type": "table",
+                    "id": "8-4-b-vii-table",
+                    "x": 27.62,
+                    "y_start": 150.0,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "columns": [
+                      "8.",
+                      "Payments to contractors referred to in section 393(1) [Table: Sl. No. 6(i)].",
+                      "(a) Where— (i) any sum credited or paid or likely to be credited or paid during the tax year to the account of a contractor during the course of business of plying, hiring or leasing goods carriages; and (ii) that contractor owns ten or less goods carriages at any time during the tax year; and (iii) furnishes a declaration to that effect along with his Permanent Account Number to the person paying or crediting the sum; and (iv) the person responsible for paying to the contractor furnishes to the prescribed income-tax authority the particulars in such form and within such time as may be prescribed; (b) where such sum is credited or paid by individual or Hindu undivided family exclusively for personal purposes of such individual or any member of Hindu undivided family."
+                    ],
+                    "rows": [
+                      {
+                        "8": "9",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "Fees for professional or technical services referred to in section 393(1) [Table: Sl. No. 6(iii)].",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Where such sum is credited or paid by individual or Hindu undivided family exclusively for personal purposes of such individual or any member of Hindu undivided family."
+                      },
+                      {
+                        "8": "10",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "Dividend referred to in section 393(1) (Table: Sl. No. 7).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Dividend referred to in section 393(1) (Table: Sl. No. 7)."
+                      },
+                      {
+                        "8": "11",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "11. Payment by e-commerce operator to e-commerce participant referred to in section 393(1) [Table: Sl. No. 8(v)].",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": {
+                          "text_before_items": "Where the amount is credited or paid or likely to be credited or paid during the tax year to the account of an e-commerce participant, which is—",
+                          "items": [
+                            {
+                              "letter": "a",
+                              "id": "8-4-b-vii-table-C-a",
+                              "text": "an individual or a Hindu undivided family; and"
+                            },
+                            {
+                              "letter": "b",
+                              "id": "8-4-b-vii-table-C-b",
+                              "text": "the gross amount of the sales or services or both during the tax year does not exceed Rs. 5,00,000; and"
+                            },
+                            {
+                              "letter": "c",
+                              "id": "8-4-b-vii-table-C-c",
+                              "text": "the e-commerce participant has furnished the Permanent Account Number or Aadhaar number to the e-commerce operator."
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "8": "12",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "12. Payment on transfer of virtual digital asset referred to insection 393(1) [Table: Sl. No. 8(vi)].",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": {
+                          "text_before_items": "Where value or aggregate value of such consideration during the tax year does not exceed—",
+                          "items": [
+                            {
+                              "letter": "a",
+                              "id": "8-4-b-vii-table-C-a",
+                              "text": "Rs. 50000, when payable by an individual or a Hindu undivided family,—"
+                            },
+                            {
+                              "letter": "i",
+                              "id": "8-4-b-vii-table-C-i",
+                              "text": "whose total sales, gross receipts or turnover from the business carried on by him or profession exercised by him does not exceed one crore rupees in case of business or fifty lakh rupees in case of profession, during the tax year immediately preceding the tax year in which such virtual digital asset is transferred",
+                              "children": [
+                                {
+                                  "numeral": "ii",
+                                  "id": "8-4-b-vii-table-C-i-ii",
+                                  "text": "not having any income under the head \"Profits and gains of business or profession\";"
+                                }
+                              ]
+                            },
+                            {
+                              "letter": "b",
+                              "id": "8-4-b-vii-table-C-b",
+                              "text": "Rs. 10000, when payable by any person other than the person referred to in clause (a)."
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "8": "13",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "13. Income from units of a business trust referred to in section 393(2) (Table: Sl. No. 6).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Income of the nature referred to in Schedule V [Table: Sl. No. 3.B(b)], if the special purpose vehicle referred to in the said clause has not exercised the option under section 200."
+                      },
+                      {
+                        "8": "14",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "Income in respect of units of investment fund referred to in section 393(2) (Table: Sl. No. 8).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Income in respect of units of investment fund referred to in section 393(2) (Table: Sl. No. 8)."
+                      },
+                      {
+                        "8": "15",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "Income in respect of units of nonresidents referred to in section 393(2) (Table: Sl. No. 10).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Income payable in respect of units of the Unit Trust of India to a non-resident Indian or a non-resident Hindu undivided family, subject to prescribed conditions."
+                      },
+                      {
+                        "8": "16",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "16. Income of Foreign Institutional Investors from securities referred to in section 393(2) (Table: Sl. No. 15).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Income, by way of capital gains arising from the transfer of securities referred to in section 210, if payable to a Foreign Institutional Investor."
+                      },
+                      {
+                        "8": "17",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "17. Income of Specified Fund from securities referred to in section 393(2) (Table: Sl. No. 16).",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": "Income is exempt as per Schedule VI (Table: Sl. Nos. 1 to 4)."
+                      },
+                      {
+                        "8": "18",
+                        "payments_to_contractors_referred_to_in_section_393(1)_[table:_sl_no_6(i)]": "Payment of certain amounts in cash referred to in section 393(3) (Table: Sl. No. 5). Payment made to—",
+                        "(a)_where—_(i)_any_sum_credited_or_paid_or_likely_to_be_credited_or_paid_during_the_tax_year_to_the_account_of_a_contractor_during_the_course_of_business_of_plying,_hiring_or_leasing_goods_carriages;_and_(ii)_that_contractor_owns_ten_or_less_goods_carriages_at_any_time_during_the_tax_year;_and_(iii)_furnishes_a_declaration_to_that_effect_along_with_his_permanent_account_number_to_the_person_paying_or_crediting_the_sum;_and_(iv)_the_person_responsible_for_paying_to_the_contractor_furnishes_to_the_prescribed_income_tax_authority_the_particulars_in_such_form_and_within_such_time_as_may_be_prescribed;_(b)_where_such_sum_is_credited_or_paid_by_individual_or_hindu_undivided_family_exclusively_for_personal_purposes_of_such_individual_or_any_member_of_hindu_undivided_family": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-4-a",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-4-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any banking company or co-operative society engaged in carrying on the business of banking or a post office;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "8-4-c",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any business correspondent of a banking company or co-operative society engaged in carrying on the business of banking, as per the guidelines issued in this regard by the Reserve Bank of India under the Reserve Bank of India Act, 1934 (2 of 1934);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "8-4-d",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any white label automated teller machine operator of a banking company or co-operative society engaged in carrying on the business of banking, as per the authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 (51 of 2007). 19. Payment in respect of deposits under Payment made to heirs of an assessee. National Savings Scheme, etc., referred to in section 393(3) (Table: Sl. No. 6).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "8-4-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "TABLE"
+            ],
+            "rows": [
+              {
+                "table": "1"
+              },
+              {
+                "table": "2"
+              },
+              {
+                "table": "3"
+              },
+              {
+                "table": "4"
+              },
+              {
+                "table": "5"
+              },
+              {
+                "table": "6"
+              },
+              {
+                "table": "7"
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "8-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Chapter, the tax shall not be deducted by any person from any amount payable to—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "8-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Government; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Reserve Bank of India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "8-5-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a corporation established by or under a Central Act which is, under any law in force, exempt from income-tax on its income; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "8-5-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a Mutual fund as specified at Schedule VII (Table: Sl. No. 20 or 21), where such amount is payable to it by way of—",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "8-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "84[(a)] The deduction of tax shall not be made under provisions referred to in column C of the Table below, in the case of a person as specified in column B, if such person furnishes to the person responsible for paying any income or sum of the nature referred to in such provisions, a written declaration in duplicate in such form and manner as may be prescribed that the tax on such person's estimated total income of the tax year in which such income or sum is to be included in computing his total income shall be nil. Note.—The provisions of this sub-section shall not apply in case of a person referred to in column B of the Table, other than an individual being a resident who is of the age of sixty years or more at any time during the tax year, if the aggregate of amounts of any income or sum of the nature referred to in provision mentioned in column C of this Table, is credited or paid or likely to be credited or paid during the relevant tax year in which such income or sum is to be included, exceeds the maximum amount not chargeable to tax.",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "8-6-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The declaration referred in clause (a) may also be furnished electronically to a depository, as defined in section 2(e) of the Depositories Act, 1996 (22 of 1996), where––",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "8-6-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the income is from units, interest on securities or dividends, as the case may be, as referred to in section 393(1) [Table: 4(i), 5(i) or 7];"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "8-6-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such units or securities are held with such depository; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "8-6-b-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such securities are listed on a recognised stock exchange, in accordance with such procedure and manner, as may be prescribed."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "8-6-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "DECLARATION FOR NO DEDUCTION AT SOURCE"
+            ],
+            "rows": [
+              {
+                "declaration_for_no_deduction_at_source": "1"
+              },
+              {
+                "declaration_for_no_deduction_at_source": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "8-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "footnote_refs": [
+            "85"
+          ],
+          "text_before_clauses": "The person responsible for paying any income or sum of the nature referred to in sub-section (6) shall deliver or cause to be delivered, such declaration referred therein, received from the person, as specified in column B of the Table in sub-section (6) or the depository, to the prescribed income-tax authority, on or before the seventh day of the month immediately following the end of each quarter in which declaration is furnished to him as per sub-section (6).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "8-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in sub-section (6), the deduction of tax shall not be made from the interest paid by an Offshore Banking Unit on borrowing from or deposit made on or after 1st April, 2005, by a non-resident or a person not ordinarily resident in India.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "8-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Chapter, the deduction of tax shall not be made from any payment to a person for, or on behalf of, the New Pension System Trust referred to in Schedule VII (Table: Sl. No. 41).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "8-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In a case other than that referred to in section 392(2)(a), where under an agreement or an arrangement, if the tax chargeable on any income of the recipient referred to in this Chapter is to be borne by the payer, then, for the purposes of deduction of tax, the income shall be increased to an amount which after deduction of tax as per provisions of this Chapter becomes equal to the net amount payable under such agreement or arrangement.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "8-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The credit of any income or sum to any account, whether called \"suspense account\" or by any other name, in the books of account of the person liable to pay such income or sum, shall be deemed to be the credit of such income or sum to the account of the payee and the provisions of this Chapter shall apply accordingly.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "84",
+      "id": "84",
+      "title": "Following clause (b) shall be inserted after clause (a) of sub-section (6) of section 393 by the Finance Act, 2026, w.e.f. 1-4-2027:",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Shall be renumbered as sub-section (6)(a) thereof by Act No. 4 of 2026, w.e.f. 1-4-2027.",
+      "subsections": [],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "81",
+      "text": "Sub. for \"serial number 3(iii)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "82",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "83",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, item (iv) read as under : \"(iv) by way of interest on the compensation amount awarded by the Motor Accidents Claims Tribunal where the amount of such income or, the aggregate of the amounts of such income does not exceed Rs. 50,000 during the tax year;\"",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "85",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (7) read as under : \"(7) The person responsible for paying any income or sum of the nature referred in sub-section (6) shall deliver or cause to be delivered, one copy of the declaration referred therein, received from the person to the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, on or before the seventh day of the month following the month in which the declaration is furnished to him.\"",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

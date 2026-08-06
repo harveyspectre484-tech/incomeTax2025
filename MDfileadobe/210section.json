@@ -1,0 +1,241 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "210",
+      "id": "210",
+      "title": "Tax on income of Foreign Institutional Investors from securities or capital gains arising from their transfer.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "210-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax payable on the total income of an assessee, being a specified fund or Foreign Institutional Investor, which includes income referred to in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "210-1-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Income",
+              "Rate of Income-tax payable"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "income": "Income in respect of securities other than units referred to in section 208.",
+                "rate_of_income_tax_payable": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "210-1-table-C-a",
+                      "text": "20% in case of Foreign Institutional Investor;"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "210-1-table-C-b",
+                      "text": "10% in case of specified fund."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "2",
+                "income": "Short-term capital gains (not being short-term capital gains referred to in section 196) arising from the transfer of such securities.",
+                "rate_of_income_tax_payable": "30%"
+              },
+              {
+                "sl_no": "3",
+                "income": "Short-term capital gains referred to in section 196 arising from the transfer of such securities.",
+                "rate_of_income_tax_payable": "20%"
+              },
+              {
+                "sl_no": "4",
+                "income": "Long-term capital gains (not being long-term capital gains referred to in section 198 arising from the transfer of such securities).",
+                "rate_of_income_tax_payable": "12.5%"
+              },
+              {
+                "sl_no": "5",
+                "income": "Long-term capital gains referred to in section 198 arising from the transfer of such securities which exceeds ₹ 125000.",
+                "rate_of_income_tax_payable": "12.5%"
+              },
+              {
+                "sl_no": "6",
+                "income": "Total income as reduced by income referred to against serial numbers 1 to 5.",
+                "rate_of_income_tax_payable": "Rates in force."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "210-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case of specified fund, provisions of this section shall apply only to the extent of income that is attributable to units held by non-resident (not being a permanent establishment of such non-resident in India) calculated in the manner as may be prescribed, irrespective of the provisions of sub-section (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "210-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in sub-section (1), where the specified fund is an investment division of an offshore banking unit, the provisions of this section shall apply to the extent of income that is attributable to such investment division referred to in clause (g)(ii) of Note 1 of the Table in Schedule VI as a Category-I portfolio investor under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992), calculated in such manner as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "210-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the gross total income of the specified fund or Foreign Institutional Investor—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "210-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "consists only of income in respect of securities referred in sub-section (1) (Table: Sl. No. 1), no deduction shall be allowed to it under sections 28 to 58, 60 and 61 or section 93(1)(a) or (e) or under Chapter VIII;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "210-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "includes any income referred to in sub-section (1) (Table: Sl. No. 1) to (Table: Sl. No. 5),—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "210-4-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the gross total income shall be reduced by the amount of such income; and fund or Foreign Institutional Investor."
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "210-4-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the deduction under Chapter VIII shall be allowed as if the gross total income as so reduced, were the gross total income of the specified"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "210-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of section 72(6) shall not apply for the computation of capital gains arising out of the transfer of securities referred to in sub-section (1) (Table: Sl. No. 2) to (Table: Sl. No. 5).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "210-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "210-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"Foreign Institutional Investor\" means such investor as specified in a notification by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "210-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "210-6-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "210-6-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified fund\" shall have the meaning assigned to it in Schedule VI [Note 1].",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

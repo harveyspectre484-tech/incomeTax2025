@@ -1,0 +1,1494 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "402",
+      "id": "402",
+      "title": "Interpretation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "For the purposes of this Chapter,—",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "402-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"Administrator\" shall have the same meaning as assigned to it in section 2(a) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "402-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"agricultural land\" means agricultural land in India,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "not being a land situated in any area referred to in section 2(22)(iii), for the purposes of section 393(1) [Table: Sl. No. 3(i)];",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "including a land situated in any area referred to in section 2(22)(iii), for the purposes of section 393(1) [Table: Sl. No. 3(iii)];",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "402-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"an incorrect claim apparent from any information in the statement\" shall mean a claim, on the basis of an entry, in the statement—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "of an item, which is inconsistent with another entry of the same or some other item in such statement;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of rate of deduction of tax at source or rate of collection of tax at source, where such rate is not as per the provisions of the Act;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "402-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"authorised dealer\" means a person authorised by the Reserve Bank of India under section 10(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) to deal in foreign exchange or foreign security;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "402-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"banking company\" means a banking company to which the Banking Regulation Act, 1949 (10 of 1949) applies;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "402-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"buyer\" for the purposes of provisions in column B of the Table below means any person as specified in column C but does not include any person as specified in column D:—",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "402-6-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Provisions",
+              "Person",
+              "Person not to be included"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "provisions": "Purchase of goods referred to in section 393(1) [Table: Sl. No. 8(ii)].",
+                "person": "A person whose total sales, gross receipts or turnover from the business carried on by him exceed ten crore rupees during the tax year immediately preceding the tax year in which the purchase of goods is carried out.",
+                "person_not_to_be_included": "Any person, as the Central Government may notify for this purpose, subject to conditions as may be specified therein."
+              },
+              {
+                "sl_no": "2",
+                "provisions": "Sale of goods referred to in section 394(1) (Table: Sl. Nos. 1 to 5).",
+                "person": "A person who obtains in any sale, by way of auction, tender or any other mode, goods of the nature specified in section 394(1) (Table: Sl. Nos. 1 to 5), or the right to receive any such goods.",
+                "person_not_to_be_included": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "402-6-table-D-a",
+                      "text": "(b)"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "402-6-table-D-c",
+                      "text": "(d) A public sector company; or the Central or a State Government, and an embassy, a High Commission, legation, commission, consulate and the trade representation, of a foreign State; or a club; or a buyer in the retail sale of such goods purchased by him for personal consumption."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "3",
+                "provisions": "Sale of motor vehicle or any other goods referred to in section 394(1) (Table: Sl. No. 6).",
+                "person": "A person who obtains in any sale, goods of the nature specified in section 394(1) (Table: Sl. No. 6).",
+                "person_not_to_be_included": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "402-6-table-D-a",
+                      "text": "A person as specified in Sl. No. 2.D(b); or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "402-6-table-D-b",
+                      "text": "a local authority as defined at Schedule III (Table: Sl. No. 22); or"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "402-6-table-D-c",
+                      "text": "a public sector company which is engaged in the business of carrying passengers."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "4",
+                "provisions": "Remittance under Liberalised Remittance Scheme referred to in section 394(1) (Table: Sl. No. 7).",
+                "person": "A person remitting amount under the Liberalised Remittance Scheme of Reserve Bank of India.",
+                "person_not_to_be_included": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "402-6-table-D-a",
+                      "text": "A person as per Sl. No. 2.D(a) or Sl. No. 3.D(b);"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "402-6-table-D-b",
+                      "text": "Any other person as the Central Government may notify for this purpose subject to such conditions as may be specified therein."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "5",
+                "provisions": "Sale of overseas tour programme package referred to in section 394(1) (Table: Sl. No. 8).",
+                "person": "A person who purchases overseas tour programme package.",
+                "person_not_to_be_included": "A person as per Sl. No. 4.D."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "402-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"commission or brokerage\" includes any payment received or receivable, directly or indirectly, by a person acting on behalf of another person,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for services rendered (not being professional services); or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for any services in the course of buying or selling of goods; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-7-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in relation to any transaction relating to any asset, valuable article or thing, not being securities;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "402-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"computer resource\", \"internet\" and \"online game\" shall have the meanings respectively assigned to them in section 194(2);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "402-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"consideration for transfer of any immovable property\" shall include all charges of the nature of,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-9-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "club membership fee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-9-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "car parking fee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-9-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "electricity or water facility fee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "402-9-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "maintenance fee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "402-9-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "advance fee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "402-9-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "or any other charges of similar nature, which are incidental to transfer of the immovable property;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "402-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"contract\" shall include sub-contract;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "402-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"designated person\", for the purposes of section 393(1) [Table: Sl. No. 6 (i)], means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-11-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Central Government or any State Government; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-11-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any local authority; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-11-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any corporation established by or under a Central Act or State Act or Provincial Act; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "402-11-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "402-11-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any co-operative society; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "402-11-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any authority, constituted in India by or under any law, engaged either for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose of planning, development or improvement of cities, towns and villages, or for both; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "402-11-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any society registered under the Societies Registration Act, 1860 (21 of 1860) or under any law corresponding to that Act in force in any part of India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "402-11-h",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any trust; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "402-11-i",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any University established or incorporated by or under a Central Act or State Act or Provincial Act and an institution declared to be a university under section 3 of the University Grants Commission Act, 1956 (3 of 1956); or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "402-11-j",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any Government of a foreign State or a foreign enterprise or any association or body established outside India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "k",
+              "id": "402-11-k",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any firm; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "l",
+              "id": "402-11-l",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any person, being an individual or a Hindu undivided family or an association of persons or a body of individuals, if such person,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-11-l-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "does not fall under any of the preceding sub-clauses; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-11-l-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has total sales, gross receipts or turnover from business or profession carried on by him exceeding one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which such sum is credited or paid to the account of the contractor;"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "402-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"electronic commerce\" means the supply of goods or services, or both, including digital products, over digital or electronic network;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "402-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"e-commerce operator\" means a person who owns, operates or manages digital or electronic facility or platform for electronic commerce;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "14",
+          "id": "402-14",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"e-commerce participant\" means a person resident in India selling goods or providing services, or both, including digital products, through digital or electronic facility or platform for electronic commerce;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "15",
+          "id": "402-15",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"fees for technical services\" shall have the meaning as assigned to it in section 9(7)(b);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "16",
+          "id": "402-16",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"foreign exchange asset\" means any specified asset which the assessee has acquired or purchased with, or subscribed to in, convertible foreign exchange;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "17",
+          "id": "402-17",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"Foreign Institutional Investor\" shall have the meaning as assigned to it in section 210(6)(a);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "18",
+          "id": "402-18",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"goods carriage\" shall have the meaning as assigned to it in section 58(11)(d);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "19",
+          "id": "402-19",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"immovable property\" means any land (other than agricultural land) or any building or part of a building;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "20",
+          "id": "402-20",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"investor\" shall have the meaning assigned to it in section 221(6)(a), for the purposes of section 393(1) [Table: Sl. No. 4(iv)] and section 393(2) (Table: Sl. No. 9);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "21",
+          "id": "402-21",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"licensee or lessee\" means any person, other than a public sector company, who has been granted a lease or a licence or entered into a contract or otherwise received any right or interest either in whole or in part in any parking lot or toll plaza or mine or quarry, from the licensor or lessor for the use of parking lot or toll plaza or mine or quarry for the purposes of business;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "22",
+          "id": "402-22",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"licensor or lessor\" means any person who grants a lease or a licence or enters into a contract or otherwise transfers any right or interest either in whole or in part in any parking lot or toll plaza or mine or quarry, to another person, other than a public sector company for the use of such parking lot or toll plaza or mine or quarry for the purposes of business;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "23",
+          "id": "402-23",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"non-resident Indian\" shall have the meaning assigned to it in section 212(d);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "24",
+          "id": "402-24",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"Offshore Banking Unit\" shall have the same meaning as assigned to it in section 2(u) of the Special Economic Zones Act, 2005 (28 of 2005);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "25",
+          "id": "402-25",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"online gaming intermediary\" means an intermediary who offers one or more online games;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "26",
+          "id": "402-26",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"overseas tour programme package\" means any tour package which offers visit to any country or territory outside India and includes expenses for travel or hotel stay or boarding or lodging or any other expenditure of similar nature or in relation thereto;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "27",
+          "id": "402-27",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"person responsible for paying\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-27-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of payments of income chargeable under the head \"Salaries\", other than payments by the Central Government or the State Government—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the employer himself; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the employer is a company, the company itself, including the principal officer thereof;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-27-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of payments of income chargeable under the head \"Interest on securities\", other than payments made by or on behalf of the Central Government or State Government, local authority, corporation or company, including the principal officer thereof;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-27-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of any sum payable to a non-resident Indian, being any sum representing consideration for the transfer by him of any foreign exchange asset, which is not a short-term capital asset, the 95[authorised person, referred in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999), responsible]—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "for remitting such sum to the non-resident Indian; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "for crediting such sum to his Non-resident (External) Account maintained as per the provisions of the Foreign Exchange Management Act, 1999 (42 of 1999), and any rules made thereunder;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "402-27-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of furnishing of information relating to payment to a non-resident, not being a company, or to a foreign company, of any sum, whether or not chargeable under the provisions of this Act—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the payer himself; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the payer is a company, the company itself including the principal officer thereof;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "402-27-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of credit, or, as the case may be, payment of any other sum chargeable under the provisions of this Act—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-e-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the payer himself; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-e-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the payer is a company, the company itself including the principal officer thereof;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "402-27-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of credit, or as the case may be, payment of any sum chargeable under the provisions of this Act made by or on behalf of the Central Government or the State Government—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-f-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the drawing and disbursing officer; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-f-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other person, by whatever name called, responsible for crediting, or paying such sum;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "402-27-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of a person not resident in India—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-27-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the person himself; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-27-g-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person authorised by such person; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "402-27-g-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the agent of such person in India including any person treated as an agent under section 306;"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "28",
+          "id": "402-28",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"professional services\" means services rendered by a person in the course of carrying on legal, medical, engineering or architectural profession or the profession of accountancy or technical consultancy or interior decoration or advertising or such other profession as may be notified by the Board for the purposes of this section, or of section 62;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "29",
+          "id": "402-29",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"rent\" means any payment, by whatever name called, under any lease, sub-lease, tenancy or any other agreement or arrangement for the use of (either separately or together) any—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-29-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "land; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-29-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "building (including factory building); or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-29-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "land appurtenant to a building (including factory building); or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "402-29-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "machinery; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "402-29-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "plant; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "402-29-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "equipment; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "402-29-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "furniture; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "402-29-h",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "fittings, whether or not any or all of the above are owned by the payee, and for the purposes of section 393(1) [Table: Sl. No. 2(i)], only the payment with reference to assets mentioned in sub-clauses (a), (b) and (c) shall be treated as rent;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "30",
+          "id": "402-30",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"royalty\" shall have the meaning assigned to it in section 9(6)(b);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "31",
+          "id": "402-31",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"scrap\" means waste and scrap from the manufacture or mechanical working of materials which is definitely not usable as such because of breakage, cutting up, wear and other reasons;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "32",
+          "id": "402-32",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "33",
+          "id": "402-33",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"seller\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-33-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of section 394(1) (Table: Sl. Nos. 1 to 6),—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-33-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Central Government; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-33-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a State Government; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "402-33-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any local authority or corporation or authority established by or under a Central Act or State Act or Provincial Act; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "402-33-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any company or firm or co-operative society; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "402-33-a-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which the goods of the nature specified in such serial numbers are sold;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-33-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of section 394(1) (Table: Sl. No. 8), a person who sells overseas tour program package;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "34",
+          "id": "402-34",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"services\" for the purposes of section 393(1) [Table: Sl. No. 8(v)], includes \"fees for technical services\" and fees for \"professional services\", as defined in this section;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "35",
+          "id": "402-35",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"specified bank\" means a banking company as the Central Government may, by notification, specify;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "36",
+          "id": "402-36",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"specified company\" means for the purposes of section 393(1) [Table: Sl. No. 4(i)] and 393(2) (Table: Sl. No. 10), a company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "37",
+          "id": "402-37",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"specified person\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-37-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any person, not being an individual or Hindu undivided family; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-37-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which such income or sum is credited or paid;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "38",
+          "id": "402-38",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"special purpose vehicle\" shall have the meaning in Schedule V (Note 2);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "39",
+          "id": "402-39",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"specified senior citizen\" means an individual, being a resident in India—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-39-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is of the age of seventy-five years or more at any time during the tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-39-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is having pension income and no other income except the interest received or receivable from any account maintained by such individual in the same specified bank in which he is receiving his pension income; and (c) has furnished a declaration to the specified bank containing particulars, in such form and verified in such manner as may be prescribed;",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "40",
+          "id": "402-40",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"specified undertaking\" shall have the same meaning as assigned to it in section 2(i) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2022);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "41",
+          "id": "402-41",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"time deposits\" means deposits (including recurring deposits) repayable on the expiry of fixed periods;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "42",
+          "id": "402-42",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"unit\" for the purposes of section 393(1) [Table: Sl. No. 4(iii)] and section 393(2) (Table: Sl. No. 8) shall have the meaning assigned to it in section 224(10)(c);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "43",
+          "id": "402-43",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"Unit Trust of India\" means the Unit Trust of India as referred to in the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "44",
+          "id": "402-44",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"University\", referred in section 392(4), means a University established or incorporated by or under a Central, State or Provincial Act, and includes an institution declared under section 3 of the University Grants Commission Act, 1956 (3 of 1956), to be a University for the purposes of that Act;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "45",
+          "id": "402-45",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"user\" means any person who accesses or avails any computer resource of an online gaming intermediary;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "46",
+          "id": "402-46",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"user account\" means account of a user registered with an online gaming intermediary;",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "47",
+          "id": "402-47",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "\"work\" shall include—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "402-47-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "advertising;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "402-47-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "broadcasting and telecasting including production of programmes for such broadcasting or telecasting;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "402-47-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "carriage of goods or passengers by any mode of transport other than by railways;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "402-47-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "catering;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "402-47-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "402-47-e-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such customer; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "402-47-e-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include—"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "95",
+      "text": "Sub. for \"authorised person responsible\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "96",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}
