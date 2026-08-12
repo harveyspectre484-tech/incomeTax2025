@@ -1,0 +1,17 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+Power to reduce or waive penalty, etc., in certain cases.
+469. (1) Irrespective of anything contained in this Act, the Principal Commissioner or Commissioner may, whether on his own motion or otherwise, at his discretion reduce or waive the penalty imposed or imposable under section 439 if he is satisfied that such person,––
+(a) before the Assessing Officer detected any concealment of particulars of income or of the inaccuracy of particulars furnished in respect of such income, has made a full and true disclosure of such particulars voluntarily and in good faith; and
+(b) has cooperated in any enquiry relating to the assessment of his income and has paid or made satisfactory arrangements to pay any tax or interest payable in consequence of an order passed under this Act in respect of the relevant tax year.
+(2) For the purposes of sub-section (1), a person shall be deemed to have made full and true disclosure of his income or of the particulars relating thereto if the difference between the assessed and returned income does not attract penalties under section 439.
+(3) Irrespective of anything contained in sub-section (1) or (2), if in a case falling under section 439, the amount of income in respect of which the penalty is imposed or imposable for the relevant tax year or where such disclosure relates to more than one tax year, and aggregate amount of such income or disclosure thereof for such years exceeds Rs. 500000, the Principal Commissioner or Commissioner shall obtain prior approval from the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be, before waiving or reducing the penalty by order referred to in sub-section (1).
+(4) Where an order has been made under sub-section (1) in favour of any person, whether such order relates to one or more tax years, he shall not be entitled to any relief under this section in relation to any other tax year at any time after the making of such order.
+(5) The Principal Commissioner or Commissioner may, upon an application from the assessee, and after recording his reasons for doing so, reduce or waive the amount of penalty or penalties (whether they relate to one or more tax years) payable by the assessee or stay or compound any proceeding for the recovery of any such amount, if––
+(a) doing otherwise would cause genuine hardship to the assessee, having regard to the circumstances of the case; and
+(b) the assessee has cooperated in any inquiry relating to the assessment or any proceeding for the recovery of any amount due from him.
+(6) The Principal Commissioner or Commissioner shall take prior approval from the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be, if the aggregate amount of penalties reduced or waived or compounded, as the case may be, under sub-section (5), exceeds Rs. 100000.
+(7) An order under sub-section (5), accepting or rejecting the application under the said sub-section, shall be passed within twelve months from the end of the month in which such application was received by the Principal Commissioner or Commissioner.
+(8) No rejection of application under sub-section (5) shall be made without giving the assessee an opportunity of being heard.
+(9) Every order made under this section shall be final and shall not be called into question by any court or any other authority.

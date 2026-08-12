@@ -1,0 +1,11 @@
+# Income Tax Department
+Ministry of Finance, Government of India
+
+# Presumption as to assets, books of account, etc.
+524. (1) Where any books of account, other documents, money, bullion, jewellery, virtual digital asset or other valuable article or thing or any information in electronic form as defined in section 261(g) or on a computer system as defined in section 261(e) or any computer system containing the said information, is found in the possession or control of any person in the course of a search under section 247 or survey under section 253, it may, in any proceeding under this Act, be presumed—
+(a) that such books of account, other documents, money, bullion, jewellery, virtual digital asset or other valuable article or thing such information or computer system belong or belongs to such person;
+(b) that the contents of such books of account and other documents or such information or computer system are true;
+(c) that the signature and every other part of such books of account and other documents, which purports to be in the handwriting of any particular person, or which may reasonably be assumed to have been signed by, or to be in the handwriting of, any particular person, are in the handwriting of that person;
+(d) in the case of a document stamped, executed or attested, that it was duly stamped and executed or attested by the person by whom it purports to have been so executed or attested; and
+(e) that exchange of such information in electronic form, or on such computer system purported to be exchanged between any parties, is exchanged between the parties thereto.
+(2) Where any books of account, other documents or assets have been delivered to the requisitioning officer as per section 248, then, the provisions of subsection (1) shall apply as if such books of account, other documents or assets, which had been taken into custody from the person referred to in sub-section (1)(a) or (b) or (c) of the said section, had been found in the possession or control of that person in the course of a search under section 247.

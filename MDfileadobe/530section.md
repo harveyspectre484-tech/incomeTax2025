@@ -1,0 +1,6 @@
+# Income Tax Department
+
+# Ministry of Finance, Government of India
+
+# Act to have effect pending legislative provision for charge of tax.
+530. If on the 1st April in any tax year, provision has not yet been made by a Central Act for the charging of income-tax for that tax year, this Act shall nevertheless have effect until such provision is so made, as if the provision in force in the preceding tax year or the provision proposed in the Bill then before Parliament, whichever is more favourable to the assessee, were actually in force.
