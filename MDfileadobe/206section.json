@@ -365,42 +365,35 @@
                     "page_start": 1,
                     "page_end": 1,
                     "columns": [
+                      "sl.no",
                       "Amounts (to be added)",
                       "Amounts (to be reduced)"
                     ],
                     "rows": [
                       {
-                        "amounts_(to_be_added)": "1",
-                        "amounts_(to_be_reduced)": {
-                          "text_before_items": "(B)",
-                          "items": [
-                            {
-                              "letter": "1",
-                              "id": "206-1-d-ix-table-B-1",
-                              "text": "Amounts debited to the statement of profit and loss as referred in clause (e)(i)."
-                            },
-                            {
-                              "letter": "2",
-                              "id": "206-1-d-ix-table-B-2",
-                              "text": "The amounts or aggregate of the amounts credited to the statement of profit and loss on distribution as referred in clause (e)(ii)."
-                            },
-                            {
-                              "letter": "3",
-                              "id": "206-1-d-ix-table-B-3",
-                              "text": "Amount being one-fifth of the transition amount in the year of convergence and each of the following four tax years."
-                            },
-                            {
-                              "letter": "4",
-                              "id": "206-1-d-ix-table-B-4",
-                              "text": "The amount or the aggregate of the amounts referred to in clause (e)(iii), if such amount is not increased."
-                            },
-                            {
-                              "letter": "5",
-                              "id": "206-1-d-ix-table-B-5",
-                              "text": "The amount or the aggregate of the amounts referred to in clause (e)(iv), if such amount is not increased."
-                            }
-                          ]
-                        }
+                        "sl.no": "1",
+                        "amounts_(to_be_added)": "Amounts credited to the statement of profit and loss as referred in clause(e)(i).",
+                        "amounts_(to_be_reduced)": "Amounts debited to the statement of profit and loss as referred in clause (e)(i)."
+                      },
+                      {
+                        "sl.no": "2",
+                        "amounts_(to_be_added)": "The amounts or aggregate of the amounts debited to the statement of profit and loss on distribution as referred in clause (e)(ii).",
+                        "amounts_(to_be_reduced)": "The amounts or aggregate of the amounts credited to the statement of profit and loss on distribution as referred in clause (e)(ii)."
+                      },
+                      {
+                        "sl.no": "3",
+                        "amounts_(to_be_added)": "Amount being one-fifth of the transition amount in the year of convergence and each of the following four tax years.",
+                        "amounts_(to_be_reduced)": "Amount being one-fifth of the transition amount in the year of convergence and each of the following four tax years."
+                      },
+                      {
+                        "sl.no": "4",
+                        "amounts_(to_be_added)": "The amount or the aggregate of the amounts referred to in clause (e)(iii), if such amount is not decreased",
+                        "amounts_(to_be_reduced)": "The amount or the aggregate of the amounts referred to in clause (e)(iii), if such amount is not increased."
+                      },
+                      {
+                        "sl.no": "5",
+                        "amounts_(to_be_added)": "The amount or the aggregate of the amounts referred to in clause (e)(iv), if such amount is not decreased.",
+                        "amounts_(to_be_reduced)": "The amount or the aggregate of the amounts referred to in clause (e)(iv), if such amount is not increased. "
                       }
                     ]
                   }

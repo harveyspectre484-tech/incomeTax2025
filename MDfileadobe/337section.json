@@ -80,14 +80,7 @@
           {
             "sl_no": "8",
             "specified_income": {
-              "text_before_items": "Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to",
-              "items": [
-                {
-                  "letter": "4",
-                  "id": "337-table-B-4",
-                  "text": "for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 342(1)."
-                }
-              ]
+              "text_before_items": "Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to 341(4) for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 3 2(1)"
             },
             "tax_year": "Last of the tax years for which income was so accumulated or set apart."
           },
@@ -109,14 +102,7 @@
           {
             "sl_no": "12",
             "specified_income": {
-              "text_before_items": "Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to",
-              "items": [
-                {
-                  "letter": "30",
-                  "id": "337-table-B-30",
-                  "text": "of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired."
-                }
-              ]
+              "text_before_items": "Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to 1(30) of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired"
             },
             "tax_year": "Tax year immediately following the expiry of limitation period mentioned in Column B."
           },
