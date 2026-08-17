@@ -52,21 +52,7 @@
             "rows": [
               {
                 "sl_no": "1",
-                "circumstances": {
-                  "text_before_items": "Where the return is furnished under section 263(1),",
-                  "items": [
-                    {
-                      "letter": "4",
-                      "id": "423-2-table-B-4",
-                      "text": "or"
-                    },
-                    {
-                      "letter": "6",
-                      "id": "423-2-table-B-6",
-                      "text": "or in response to a notice under section 268(1) after the due date."
-                    }
-                  ]
-                },
+                "circumstances": "Where the return is furnished under section 263(1), 263(4) or 263(6) or in response to a notice under section 268(1) after the due date",
                 "starting_date": "Due date for furnishing the return of income under section 263(1).",
                 "ending_date": "Date of furnishing of the return.",
                 "the_amount_of_tax_on_which_interest_is_payable": {
@@ -87,21 +73,7 @@
               },
               {
                 "sl_no": "2",
-                "circumstances": {
-                  "text_before_items": "Where no return has been furnished under section 263(1),",
-                  "items": [
-                    {
-                      "letter": "4",
-                      "id": "423-2-table-B-4",
-                      "text": "or"
-                    },
-                    {
-                      "letter": "6",
-                      "id": "423-2-table-B-6",
-                      "text": "or in response to a notice under section 268(1)."
-                    }
-                  ]
-                },
+                "circumstances": "Where no return has been furnished under section 263(1),263(4) or 263(6) or in response to a notice under section 268(1).",
                 "starting_date": "Due date for furnishing the return of income under section 263(1).",
                 "ending_date": "Date of completion of the assessment under section 271.",
                 "the_amount_of_tax_on_which_interest_is_payable": "Tax on the total income determined under regular assessment as reduced by tax paid."
@@ -298,6 +270,16 @@
                   "page_start": 1,
                   "page_end": 1,
                   "text": "any deduction, from the Indian income-tax payable, allowed under section 160, on account of tax paid in a country outside India; and 99[(vii) any tax credit allowed to be set off as per section 206(2)(e) to (h) and 206(3) and (4).]"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vii",
+                  "id": "423-4-d-vii",
+                  "x": 57.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any tax credit allowed to be set off as per section 206(2)(e) to 206(2)(h) and 206(3) and 206(4)."
                 }
               ]
             }
