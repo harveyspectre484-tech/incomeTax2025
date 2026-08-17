@@ -11,3 +11,5 @@ following conditions:— ending another cell on line 19). The (a)(b)(c)(d) sub-p
 just the intro sentence is mangled into the table.
 
 This is a known weak spot in pymupdf4llm's table-boundary detection (it decides the table region extends further down than it should, since the PDF's underlying text/border geometry overlaps).
+
+work on foot note and relation and table numbering
