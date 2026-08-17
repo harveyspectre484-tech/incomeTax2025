@@ -1,0 +1,295 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "424",
+      "id": "424",
+      "title": "Interest for defaults in payment of advance tax.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "424-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Subject to the other provisions of this section, where, in any tax year, an assessee who is liable to pay advance tax under section 404,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "424-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has failed to pay such tax; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "424-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the advance tax paid by such assessee under the provisions of section 406 or 407 is less than 90% of the assessed tax, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month, for the period, beginning from the 1st April following such tax year—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "424-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "upto the date of determination of total income under section 270(1); and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "424-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "upto the date of completion of regular assessment, where a regular assessment is made, on an amount equal to the assessed tax in case where clause (a) is applicable or, on the amount by which the advance tax paid as aforesaid falls short of the assessed tax in case where clause (b) is applicable."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "424-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In sub-section (1), \"assessed tax\" means the tax on the total income determined under section 270(1) and where a regular assessment is made, the tax on the total income determined under such regular assessment as reduced by the amount of,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "424-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax deducted or collected at source as per Chapter XIX-B on any income which is subject to such deduction or collection and which is taken into account in computing such total income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "424-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 157;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "424-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 159(1) on account of tax paid in a country outside India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "424-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax allowed under section 159(2) on account of tax paid in a specified territory outside India referred to in that section;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "424-2-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any deduction, from the Indian income-tax payable, allowed under section 160, on account of tax paid in a country outside India; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "424-2-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "1"
+              ],
+              "text": "any tax credit allowed to be set off as per section 206(2)(e) to (h) and 206(3) and (4).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "424-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "424-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where in relation to a tax year, an assessment is made for the first time under section 279, the assessment so made shall be regarded as a regular assessment;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "424-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "tax on total income as determined under section 270(1) shall not include the additional income-tax, if any, payable under section 267;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "424-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "tax on the total income determined under such regular assessment shall not include the additional income-tax payable under section 267.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "424-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, before the date of determination of total income under section 270(1) or completion of a regular assessment, tax is paid by the assessee under section 266 or otherwise,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "424-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "interest shall be calculated as per the foregoing provisions of this section up to the date on which the tax is so paid, and reduced by the interest, if any, paid under section 266 towards the interest chargeable under this section;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "424-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "thereafter, interest shall be calculated at the rate aforesaid on the amount by which the tax so paid together with the advance tax paid falls short of the assessed tax. where,—",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "424-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation; B = tax on total income determined on the basis of reassessment or recomputation; C = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "424-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, as a result of an order under section 287 or 288 or 359 or 363 or 365(10) or 368 or 377 or 378, the amount on which interest was payable under sub-section (1) or (3) has been increased or reduced, the interest shall be increased or reduced accordingly, and—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "424-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in a case where the interest is increased, the Assessing Officer shall serve on the assessee a notice of demand in such form as may be prescribed specifying the sum payable and such notice of demand shall be deemed to be a notice under section 289 and the provisions of this Act shall apply accordingly;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "424-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in a case where the interest is reduced, the excess interest paid, if any, shall be refunded.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "1",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (f) read as under : \"(f) any tax credit allowed to be set off as per section 206(1)(m) to (p) and 206(2)(e) to (h).\"",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

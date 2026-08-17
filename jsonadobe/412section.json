@@ -1,0 +1,127 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "412",
+      "id": "412",
+      "title": "Penalty payable when tax in default.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "412-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "When an assessee is in default or is deemed to be in default in making a payment of tax, he shall, in addition to the amount of the arrears and the amount of interest payable under section 411(3), be liable, by way of penalty, to pay—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "412-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such amount as the Assessing Officer may direct; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "412-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of a continuing default, such further amount or amounts as the Assessing Officer may, from time to time, direct.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "412-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The total amount of penalty under sub-section (1) shall not exceed the amount of tax in arrears.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "412-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No penalty under sub-section (1) shall be levied—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "412-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "unless the assessee has been given a reasonable opportunity of being heard;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "412-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where the assessee proves to the satisfaction of the Assessing Officer that the default was for good and sufficient reasons.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "412-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The assessee shall not cease to be liable to any penalty under sub-section (1) merely by reason of the fact that before the levy of such penalty he has paid the tax.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "412-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where as a result of any final order the amount of tax, with respect to the default in the payment of which the penalty was levied, has been wholly reduced, the penalty levied shall be cancelled and the amount of penalty paid shall be refunded.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

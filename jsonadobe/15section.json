@@ -1,0 +1,103 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "15",
+      "id": "15",
+      "title": "Salaries.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "15-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following income shall be chargeable to income-tax under the head \"Salaries\":—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "15-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any salary due from an employer to an assessee in the tax year, whether paid or not;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "15-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any salary paid or allowed to him in the tax year by or on behalf of an employer though not due or before it became due to him;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "15-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any arrears of salary paid or allowed to him in the tax year by or on behalf of an employer, if not charged to income-tax for any earlier tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "15-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), employer includes former employer.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "15-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any salary paid in advance is included in the total income of any person for any tax year, it shall not be included again in the total income of such person when the salary becomes due.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "15-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any salary, bonus, commission or remuneration, by whatever name called, due to, or received by, a partner of a firm from the firm shall not be regarded as salary for the purposes of this section.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

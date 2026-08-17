@@ -1,0 +1,45 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "XIV",
+      "x": 27.62,
+      "y_start": 80.0,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "children": [
+        {
+          "type": "section",
+          "number": "236",
+          "id": "236",
+          "title": "Income-tax authorities.",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "For the purposes of this Act, there shall be the following classes of income-tax authorities:—",
+          "subsections": [],
+          "text_after_subsections": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "236",
+      "id": "236",
+      "title": "Income-tax authorities.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "For the purposes of this Act, there shall be the following classes of income-tax authorities:—",
+      "subsections": [],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

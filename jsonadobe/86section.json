@@ -1,0 +1,284 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "86",
+      "id": "86",
+      "title": "Capital gains on transfer of certain capital assets not to be charged in case of investment in residential house.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "86-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If an individual or a Hindu undivided family has—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "86-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "capital gains arising from the transfer of any long-term capital asset, not being a residential house (original asset); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "86-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "within one year before, or two years after, the date of such transfer, purchased, or has within three years after that date constructed, one residential house in India (new asset), then, the capital gains shall be dealt with as follows:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "86-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the net consideration is more than the cost of the new asset, so much of the capital gains as bears to the whole of the capital gains, the same proportion as the cost of the new asset bears to the net consideration, shall not be charged under section 67; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "86-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the net consideration is equal to or less than the cost of the new asset, no capital gains shall be charged under section 67."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "86-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the net consideration referred to in sub-section (1) is not utilised by the assessee to purchase the new asset within one year before the date of transfer of the original asset, or is not utilised for the purchase or construction of the new asset before filing the return of income under section 263, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "86-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the unutilised amount shall be deposited in a specified bank or institution and utilised as per the scheme notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "86-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such deposit shall be made before the filing of the return and not later than the due date applicable in the case of the assessee for filing the return of income under section 263; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "86-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the proof of deposit shall be submitted along with such return.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "86-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), the amount already utilised for purchasing or constructing the new asset together with the deposited amount under sub-section (2) shall, subject to sub-section (8), be deemed to be the cost of the new asset.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "86-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the amount deposited under sub-section (2) is not wholly or partly utilised for purchasing or constructing the new asset within the period specified in sub-section (1), then,— X – Y, where,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "86-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount determined as per the following formula shall be charged under section 67 as income of the tax year in which three years from the date of the transfer of the original asset expires:— X = the capital gains not charged under section 67 as per sub-section (1). Y = the capital gains that would not have been charged under section 67, if the cost of the new asset had been taken to be the amount actually utilised for purchase or construction of the new asset;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "86-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee shall be entitled to withdraw such unutilised amount in accordance with the scheme referred to in sub-section (2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "86-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (1) shall not apply, if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "86-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "86-5-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "owns more than one residential house, other than the new asset, on the date of transfer of the original asset; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "86-5-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "purchases any residential house, other than the new asset, within one year of transfer of the original asset; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "86-5-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "constructs any residential house, other than the new asset, within three years of transfer of the original asset; and"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "86-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the income from such residential house, other than the one residential house owned on the date of transfer of the original asset, is chargeable under the head \"Income from house property\". (6) If the assessee purchases, within two years after the date of transfer of the original asset, or constructs, within three years after such date, any residential house, the income from which is chargeable under the head \"Income from house property\", other than the new asset, the capital gains not charged under section 67 on the basis of cost of such new asset as per sub-section (1), shall be charged as long-term capital gains of the tax year in which such residential house is purchased or constructed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "86-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the new asset is transferred within three years from the date of purchase or its construction, the capital gains not charged under section 67 on the basis of cost of such new asset as per sub-section (1) shall be charged as long-term capital gains of the tax year in which such new asset is transferred.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "86-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the cost of the new asset exceeds ten crore rupees, the amount exceeding ten crore rupees, shall not be taken into account for the purposes of subsection (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "86-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the net consideration on the transfer of original asset exceeds ten crore rupees, the amount exceeding ten crore rupees, shall not be taken into account for the purposes of sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "86-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, \"net consideration\"means the full value of the consideration received or accruing as a result of the transfer of the original asset as reduced by any expenditure incurred wholly and exclusively in connection with such transfer.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

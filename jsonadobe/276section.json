@@ -1,0 +1,91 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "276",
+      "id": "276",
+      "title": "Method of accounting.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "276-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Income chargeable under the head \"Profits and gains of business or profession\" or \"Income from other sources\" shall, subject to the provisions of sub-section (2), be computed as per either cash or mercantile system of accounting regularly employed by the assessee.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "276-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Central Government may notify income computation and disclosure standards to be followed by any class of assessees or in respect of any class of income.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "276-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer may make an assessment in the manner provided in section 271, where—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "276-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "he is not satisfied about the correctness or completeness of the accounts of the assessee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "276-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the method of accounting provided in sub-section (1) has not been regularly followed by the assessee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "276-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income has not been computed as per the standards notified under sub-section (2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

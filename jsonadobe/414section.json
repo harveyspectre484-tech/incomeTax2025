@@ -1,0 +1,112 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "414",
+      "id": "414",
+      "title": "Tax Recovery Officer by whom recovery is to be effected.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "414-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of section 413, the Tax Recovery Officer shall be—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "414-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Tax Recovery Officer within whose jurisdiction the assessee carries on his business or profession or has the principal place of his business or profession; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "414-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Tax Recovery Officer within whose jurisdiction the assessee resides or any of his movable or immovable property is situated, the jurisdiction for this purpose being the jurisdiction assigned to the Tax Recovery Officer under the orders or directions issued by the Board, or by any income-tax authority not below the rank of Commissioner who is authorised in this behalf by the Board in pursuance of section 241.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "414-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an assessee has property within the jurisdiction of more than one Tax Recovery Officer and the Tax Recovery Officer by whom the certificate is drawn up—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "414-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is not able to recover the entire amount by sale of the property, movable or immovable, within his jurisdiction; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "414-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is of the opinion that, for the purpose of expediting or securing the recovery of the whole or any part of the amount under this Part, it is necessary so to do, he may send—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "414-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the certificate; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "414-2-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a copy of the certificate certified in the manner as may be prescribed and specifying the amount to be recovered, where only a part of the amount is to be recovered, to a Tax Recovery Officer referred to in sub-section (1)(b) and, thereupon, such officer shall also proceed to recover the amount under this Part as if the certificate or copy thereof had been drawn up by him."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

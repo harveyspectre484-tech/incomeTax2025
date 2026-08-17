@@ -1,0 +1,377 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "266",
+      "id": "266",
+      "title": "Self-assessment.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "266-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, after taking into account the amounts referred to in sub-section (2), any tax is payable on the basis of any return required to be furnished under section 263 or 268 or 280 or 294, then––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "266-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee shall be liable to pay such tax together with interest and fee payable under any provision of this Act for any delay in furnishing the return or any default or delay in payment of advance tax, before furnishing the return; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "266-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the return shall be accompanied by proof of payment of tax, interest and fee.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "266-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amounts referred to in sub-section (1) shall be,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "266-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount of tax, if any, already paid under any provision of this Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "266-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax deducted or collected at source;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "266-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 157;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "266-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax or deduction of tax claimed under section 159(1) or 160 on account of tax paid in a country outside India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "266-2-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 159(2) on account of tax paid in any specified territory outside India referred to in that section;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "266-2-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "49"
+              ],
+              "text": "any tax credit claimed to be set off as per section 206(2)(e) to (h) and 206(3) and (4); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "266-2-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax or interest payable according to the provisions of section 391(2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "266-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the amount paid by the assessee under sub-section (1) falls short of the aggregate of the tax, interest and fee as payable under the said subsection, the amount so paid shall first be adjusted towards the fee payable and thereafter towards the interest payable and the balance, if any, shall be adjusted towards the tax payable.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "266-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), interest payable under section 423 shall be computed on the tax on the total income as declared in the return as reduced by the amount of,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "266-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "advance tax, if any, paid;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "266-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax deducted or collected at source;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "266-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 157;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "266-4-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax or deduction of tax claimed under section 159(1) or 160 on account of tax paid in a country outside India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "266-4-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 159(2) on account of tax paid in any specified territory outside India referred to in that section; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "266-4-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "49"
+              ],
+              "text": "any tax credit claimed to be set off as per the provisions of section 206(2)(e) to (h) and 206(3) and (4).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "266-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), interest payable under section 424 shall be computed on an amount equal to the assessed tax or, as the case may be, on the amount by which the advance tax paid falls short of the assessed tax.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "266-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In sub-section (5), \"assessed tax\" means the tax on the total income as declared in the return as reduced by the amount of,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "266-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "tax deducted or collected at source, as per the provisions of Chapter XIX-B, on any income which is subject to such deduction or collection and which is taken into account in computing such total income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "266-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 157;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "266-6-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax or deduction of tax claimed under section 159(1) or section 160 on account of tax paid in a country outside India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "266-6-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relief of tax claimed under section 159(2) on account of tax paid in any specified territory outside India referred to in that section; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "266-6-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "50"
+              ],
+              "text": "any tax credit claimed to be set off as per the provisions of section 206(2)(e) to (h) and 206(3) and (4).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "266-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "After a regular assessment under section 270 or 271 or an assessment under section 294 has been made, any amount paid under sub-section (1) shall be deemed to have been paid towards such regular assessment or assessment.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "266-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any assessee fails to pay the whole or any part of such tax, interest or fee as per the provisions of sub-section (1), he shall be deemed to be an assessee in default in respect of the tax, interest or fee remaining unpaid and all the provisions of this Act shall apply accordingly.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "266-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (8) shall apply without prejudice to any other consequences which the assessee may incur.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "49",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (f) read as under : \"(f) any tax credit claimed to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h).\"",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "50",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (e) read as under : \"(e) any tax credit claimed to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h).\"",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

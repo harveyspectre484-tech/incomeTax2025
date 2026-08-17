@@ -1,0 +1,203 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "221",
+      "id": "221",
+      "title": "Tax on income from securitisation trusts.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "221-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Act, where a person being an investor of a securitisation trust, receives any income or any income accrues or arises to him, out of investments made in the securitisation trust, such income shall be chargeable to income-tax in the same manner as if it were the income accruing or arising to, or received by, such person, had the investments by the securitisation trust been made directly by him.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "221-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income paid or credited by the securitisation trust shall be deemed to be of the same nature and in the same proportion in the hands of the person referred to in sub-section (1), as if it had been received by, or had accrued or arisen to, the securitisation trust during the tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "221-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section (1), shall be deemed to have been credited to the account of the said person—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "221-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on the last day of the tax year; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "221-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "221-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The person responsible for crediting or making payment of the income on behalf of securitisation trust, and the securitisation trust, shall furnish, within such period, as may be prescribed, to the person who is liable to tax in respect of such income and to the prescribed income-tax authority, a statement in such form and verified in such manner, giving details of the nature of the income paid or credited during the tax year and such other relevant details, as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "221-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any income which has been included in the total income of the person referred to in sub-section (1) in a tax year, on account of it having accrued or arisen in the said tax year, shall not be included in the total income of such person in the tax year in which such income is actually paid to him by the securitisation trust.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "221-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "221-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"investor\" means a person who is holder of any securitised debt instrument or securities or security receipt issued by the securitisation trust;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "221-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"securities\" means debt securities issued by a Special Purpose Vehicle as referred to in the guidelines on securitisation of standard assets issued by the Reserve Bank of India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "221-6-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"securitised debt instrument\" shall have the same meaning as assigned to it in regulation 2(1)(s) of the Securities and Exchange Board of India (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "221-6-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"securitisation trust\" means a trust, being a—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "221-6-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"special purpose distinct entity\" as defined in regulation 2(1)(u) of the Securities and Exchange Board of India (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and the Securities Contracts (Regulation) Act, 1956 (42 of 1956) and regulated under the said regulations; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "221-6-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"Special Purpose Vehicle\" as defined in, and regulated by, the guidelines on securitisation of standard assets issued by the Reserve Bank of India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "221-6-d-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "trust set-up by a securitisation company or a reconstruction company formed, for the purposes of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), or in pursuance of any guidelines or directions issued for the said purposes by the Reserve Bank of India, which fulfils such conditions, as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "221-6-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"security receipt\" shall have the same meaning as assigned to it in section 2(1)(zg) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

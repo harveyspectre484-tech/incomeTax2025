@@ -1,0 +1,189 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "X",
+      "x": 27.62,
+      "y_start": 80.0,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Computation of income from international transaction and specified domestic transaction having regard to arm's length price.",
+      "children": [
+        {
+          "type": "section",
+          "number": "161",
+          "id": "161",
+          "title": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "",
+          "subsections": [
+            {
+              "type": "subsection",
+              "number": "1",
+              "id": "161-1",
+              "x": 27.62,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "Any income arising from an international transaction or a specified domestic transaction shall be determined having regard to the arm's length price.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "2",
+              "id": "161-2",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "Any allowance for any expense or interest arising from an international transaction or a specified domestic transaction shall also be determined having regard to the arm's length price.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "3",
+              "id": "161-3",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "If in an international transaction or specified domestic transaction, two or more associated enterprises enter into a mutual agreement or arrangement for —",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "161-3-a",
+                  "x": 40.8,
+                  "y_start": 395.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "allocation or apportionment of any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "161-3-b",
+                  "x": 40.8,
+                  "y_start": 415.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any contribution to any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises, the cost or expense allocated or apportioned to, or, contributed by, any such enterprise shall be determined having regard to the arm's length price of such benefit, service or facility.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "4",
+              "id": "161-4",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The provisions of this section shall not apply if the determination under sub-section (1) or (2) or (3) has the effect of reducing the income chargeable to tax or increasing the loss, computed on the basis of entries made in the books of account in respect of the tax year in which the international transaction or specified domestic transaction was entered.",
+              "clauses": [],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_subsections": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "161",
+      "id": "161",
+      "title": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "161-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any income arising from an international transaction or a specified domestic transaction shall be determined having regard to the arm's length price.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "161-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any allowance for any expense or interest arising from an international transaction or a specified domestic transaction shall also be determined having regard to the arm's length price.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "161-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If in an international transaction or specified domestic transaction, two or more associated enterprises enter into a mutual agreement or arrangement for —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "161-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "allocation or apportionment of any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "161-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any contribution to any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises, the cost or expense allocated or apportioned to, or, contributed by, any such enterprise shall be determined having regard to the arm's length price of such benefit, service or facility.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "161-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply if the determination under sub-section (1) or (2) or (3) has the effect of reducing the income chargeable to tax or increasing the loss, computed on the basis of entries made in the books of account in respect of the tax year in which the international transaction or specified domestic transaction was entered.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

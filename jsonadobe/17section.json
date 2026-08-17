@@ -1,0 +1,512 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "17",
+      "id": "17",
+      "title": "Perquisite.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "17-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Part, \"perquisite\" includes—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "17-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of rent-free accommodation provided to the assessee by his employer computed in such manner as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "17-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any accommodation, computed in such manner as may be prescribed, provided to the assessee by his employer at a concessional rate which is in excess of rent recoverable from or payable by the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "17-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any benefit or amenity granted or provided free of cost or at concessional rate in the following cases:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-1-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by a company to an employee, who is a director thereof or who has a substantial interest in the company;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-1-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "by any employer (including a company) to an employee [other than employee referred in sub-clause (i)] whose income under the head \"Salaries\" by way of monetary payment (from one or more employers) exceeds such amount as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "17-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any specified security or sweat equity shares allotted or transferred, directly or indirectly, by the current employer, or former employer, free of cost or at concessional rate to the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "17-1-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any other benefit or amenity, as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "17-1-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by the employer in respect of any obligation which, but for such payment, would have been payable by the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "17-1-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum payable by the employer to effect an assurance on the life of the assessee or to effect a contract for an annuity, whether directly or through a fund, other than—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-1-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a recognised provident fund; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-1-g-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an approved superannuation fund; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "17-1-g-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a Deposit-linked Insurance Fund established under—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-1-g-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a recognised provident fund;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-1-g-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in the scheme referred to in section 124(1); and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "17-1-g-iii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in an approved superannuation fund;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-1-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the annual accretion by way of interest, dividend or any other amount of similar nature during the tax year to the balance at the credit of the fund or scheme referred to in clause (h), computed in such manner, as may be prescribed (to the extent it relates to the contribution referred to in the said clause in any tax year)."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "17-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Nothing in sub-section (1) shall apply to—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "17-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any medical treatment provided to an employee or any member of his family in any hospital maintained by the employer;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "17-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by the employer in respect of any expenditure actually incurred by the employee on his medical treatment or treatment of any member of his family—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in any hospital maintained by the Government, or any local authority, or any other hospital approved by the Government for the purposes of medical treatment of its employees;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-2-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of the prescribed diseases or ailments, in any hospital approved by the Principal Chief Commissioner or Chief Commissioner having regard to such guidelines as may be issued in this behalf;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Central Government; or"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "17-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any portion of the premium paid by an employer in relation to an employee, to effect or to keep in force an insurance on the health of such employee under any scheme approved, for the purposes of section 30(c), by the—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-2-c-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "17-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by the employer in respect of any premium paid by the employee to effect or to keep in force an insurance on his health or the health of any member of his family under any scheme, approved for the purposes of section 126, by the—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-2-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Central Government; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-2-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "17-2-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any expenditure incurred by the employer for the use of any vehicle for journey by the assessee from his residence to his office or other place of work, or from such office or place to his residence;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "17-2-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any expenditure incurred by the employer, or any sum paid by the employer in respect of any expenditure actually incurred by the employee, on—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "17-2-f-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "medical treatment of the employee or any family member of such employee outside India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "17-2-f-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "travel and stay abroad for the employee or any member of the family of such employee for medical treatment;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "17-2-f-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "travel and stay abroad of one attendant who accompanies the patient in connection with such treatment."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "17-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2)(f),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "17-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expenditure on medical treatment and stay abroad shall be excluded from the perquisite only to the extent permitted by the Reserve Bank of India; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "17-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expenditure on travel shall be excluded from perquisite only in the case of an employee whose gross total income, as computed before including therein the said expenditure, does not exceed such amount as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "17-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "17-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"fair market value\" means the value determined in accordance with the method, as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "17-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"family\", in relation to an individual, shall have the meaning assigned to it in Schedule III (Note 2);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "17-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"gross total income\" shall have the meaning assigned to it in section 122(10);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "17-4-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"hospital\" includes a dispensary or a clinic or a nursing home;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "17-4-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"option\" means a right but not an obligation, granted to an employee to apply for the specified security or sweat equity shares at a predetermined price;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "17-4-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified security\" means the securities as defined in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956) and, where employees' stock option has been granted under any plan or scheme therefor, includes the securities offered under such plan or scheme;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "17-4-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"sweat equity shares\" means equity shares issued by a company to its employees or directors at a discount or for consideration other than cash for providing know-how or making available rights in the nature of intellectual property rights or value additions, by whatever name called;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "17-4-h",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of any specified security or sweat equity shares shall be the fair market value of the specified security or sweat equity shares, on the date on which the option is exercised by the assessee, as reduced by the amount actually paid by, or recovered from, the assessee in respect of such security or shares.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

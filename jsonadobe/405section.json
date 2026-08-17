@@ -1,0 +1,112 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "405",
+      "id": "405",
+      "title": "Computation of advance tax.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "405-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "405-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "405-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "405-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the person responsible for deducting tax has paid or credited such income after deduction of tax; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "405-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the person responsible for collecting tax has received or debited such income after collection of tax."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "405-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of any class of assessees, where the Finance Act of the relevant year provides that, net agricultural income shall be taken into account for the purposes of computing advance tax, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "405-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of order as mentioned in section 407(1) and (4), the net agricultural income shall be the amount that has been taken into account for the purposes of charging income-tax on the specified sum as mentioned in sub-sections (3) and (6) of the said section; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "405-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in any other situation, the net agricultural income as estimated by the assessee for the tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

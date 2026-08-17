@@ -1,0 +1,68 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "109",
+      "id": "109",
+      "title": "Set off of losses under any other head of income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "109-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Subject to the provisions of this Chapter, for any tax year, if income computed under any head of income (other than \"Capital gains\") is a loss, such loss shall be set off against income of the assessee under any other head, including \"Capital gains\", if any, assessable for that tax year, subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "109-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "loss under the head \"Profits and gains of business or profession\" shall not be set off against income assessable under the head \"Salaries\"; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "109-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "loss under the head \"Income from house property\" shall be set off to the extent of Rs. 200000 against income under any other head.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "109-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For any tax year, the loss under the head \"Capital gains\" shall not be set off against income under any other head.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

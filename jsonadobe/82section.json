@@ -1,0 +1,241 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "82",
+      "id": "82",
+      "title": "Profit on sale of property used for residence.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "82-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an individual or Hindu undivided family—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "82-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has long-term capital gains arising from the transfer of a capital asset, being buildings or lands appurtenant thereto, and being a residential house, the income of which is chargeable under the head \"Income from house property\" (original asset); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "82-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has within one year before or two years after the date of such transfer purchased, or has within three years after that date constructed, one residential house in India (new asset), then, instead of the capital gain being charged to income-tax as income of the tax year in which the transfer took place, it shall be dealt with as follows:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "82-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the capital gains exceeds the cost of the new asset, such excess shall be charged under section 67, and for computing capital gains arising from the transfer of the new asset within three years of its purchase or construction, the cost shall be nil; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "82-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the capital gains is equal to or less than the cost of the new asset, no capital gains shall be charged under section 67 and for computing capital gains from the transfer of the new asset within three years of its purchase or construction, the cost shall be reduced by the amount of the capital gains."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "82-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the capital gains referred to in sub-section (1) is not used by the assessee to purchase the new asset within one year before the date of transfer of the original asset, or is not utilised for the purchase or construction of the new asset before filing the return of income under section 263, then—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "82-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the unutilised amount shall be deposited in a specified bank or institution and utilised as per the scheme notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "82-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such deposit shall be made before the filing of the return and not later than the due date applicable in the case of the assessee for filing the return of income under section 263(1); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "82-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the proof of deposit shall be submitted along with such return.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "82-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), the amount, already utilised for purchasing or constructing the new asset, together with the deposited amount under sub-section (2) shall, subject to sub-section (7), be deemed to be the cost of the new asset.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "82-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the amount deposited under sub-section (2) is not fully utilised for purchasing or constructing the new asset within the period specified in sub-section (1), then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "82-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the unutilised amount shall be charged to tax under section 67 as the income of the tax year in which the period of three years from the date of the transfer of the original asset expires; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "82-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee shall be entitled to withdraw such unutilised amount in accordance with the scheme referred to in sub-section (2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "82-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the capital gains under sub-section (1) does not exceed two crore rupees, the assessee may, at his option, purchase or construct two residential houses in India, and where such option has been exercised,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "82-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of sub-section (1)(b), \"one residential house in India\" shall be read as \"two residential houses in India\"; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "82-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of sub-sections (1)(b) and (2), \"new asset\" shall mean two residential houses in India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "82-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If during any tax year, the assessee has exercised the option mentioned in sub-section (5), he shall not be entitled to exercise such option for the same tax year or any other tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "82-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the cost of new asset exceeds ten crore rupees, the amount exceeding ten crore rupees shall not be taken into account for the purposes of sub-section (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "82-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the capital gains on the transfer of original asset exceeds ten crore rupees, the amount exceeding ten crore rupees shall not be taken into account for the purposes of sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

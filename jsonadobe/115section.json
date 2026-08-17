@@ -1,0 +1,125 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "115",
+      "id": "115",
+      "title": "Set off and carry forward of losses from specified activity.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "115-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any loss incurred by the assessee in specified activity in any tax year shall be set off only against income from specified activity.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "115-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where for any tax year, loss computed in respect of a specified activity cannot be wholly set off under sub-section (1), so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "115-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No loss shall be carried forward under this section for more than four tax years immediately succeeding the tax year for which the loss was first computed.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "115-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "115-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"horse race\" means a horse race upon which wagering or betting may be lawfully made;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "115-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"income by way of stake money\" means the gross amount of prize money received on a race horse or race horses by the owner thereof on account of the horse or horses or any one or more of the horses winning a particular position in horse race;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "115-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"loss incurred by the assessee in specified activity\" means the amount by which the income by way of stake money, if any, falls short of the expenditure, not being capital expenditure, incurred wholly and exclusively for maintaining race horses;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "115-4-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"race horses\" means horses owned and maintained by assessee for running in a horse race;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "115-4-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified activity\" means the activity of owning and maintaining race horses.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

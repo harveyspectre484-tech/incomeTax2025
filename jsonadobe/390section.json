@@ -1,0 +1,373 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "XIX",
+      "x": 27.62,
+      "y_start": 80.0,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Deduction or collection at source and advance payment.",
+      "children": [
+        {
+          "type": "section",
+          "number": "390",
+          "id": "390",
+          "title": "A.—General",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "",
+          "subsections": [
+            {
+              "type": "subsection",
+              "number": "1",
+              "id": "390-1",
+              "x": 27.62,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The tax on income shall be payable as per this Chapter by way of—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "390-1-a",
+                  "x": 40.8,
+                  "y_start": 395.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "deduction or collection at source; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "390-1-b",
+                  "x": 40.8,
+                  "y_start": 415.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "advance payment; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "390-1-c",
+                  "x": 40.8,
+                  "y_start": 430.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "payment under section 392(2)(a).",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "2",
+              "id": "390-2",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The tax referred to in sub-section (1) shall be payable as per the provisions of this Chapter, irrespective of the fact that the assessment in respect of such income is to be made in a later tax year.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "3",
+              "id": "390-3",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "Nothing contained in this section, shall affect the charge of tax on such income under section 4(1).",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "4",
+              "id": "390-4",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The payment of tax referred to in sub-section (1) shall be in addition to any other mode of tax recovery to discharge the liability in respect of income assessed for a tax year.",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "390-4-a",
+                  "x": 40.8,
+                  "y_start": 395.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "from whose income such tax has been deducted; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "390-4-b",
+                  "x": 40.8,
+                  "y_start": 415.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "from whom such tax has been collected; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "390-4-c",
+                  "x": 40.8,
+                  "y_start": 430.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of whose income such tax has been paid.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "5",
+              "id": "390-5",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The tax deducted at source or collected at source or sum referred to in section 392(2)(a)under this Chapter and paid to the Central Government shall be treated as payment of tax on behalf of the person—",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "6",
+              "id": "390-6",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The Board may make rules for—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "390-6-a",
+                  "x": 40.8,
+                  "y_start": 395.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "giving credit of tax deducted or collected or paid to a person referred to in sub-section (5) and also a person other than the person referred to in the said sub-section;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "390-6-b",
+                  "x": 40.8,
+                  "y_start": 415.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the tax year for which the credit may be given. Downloaded/Printed on 5/22/26, 4:46 PM from www.incometaxindia.gov.in",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_subsections": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "390",
+      "id": "390",
+      "title": "A.—General",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "390-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tax on income shall be payable as per this Chapter by way of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "390-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "deduction or collection at source; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "390-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "advance payment; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "390-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "payment under section 392(2)(a).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "390-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tax referred to in sub-section (1) shall be payable as per the provisions of this Chapter, irrespective of the fact that the assessment in respect of such income is to be made in a later tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "390-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Nothing contained in this section, shall affect the charge of tax on such income under section 4(1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "390-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The payment of tax referred to in sub-section (1) shall be in addition to any other mode of tax recovery to discharge the liability in respect of income assessed for a tax year.",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "390-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "from whose income such tax has been deducted; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "390-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "from whom such tax has been collected; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "390-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of whose income such tax has been paid.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "390-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tax deducted at source or collected at source or sum referred to in section 392(2)(a)under this Chapter and paid to the Central Government shall be treated as payment of tax on behalf of the person—",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "390-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Board may make rules for—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "390-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "giving credit of tax deducted or collected or paid to a person referred to in sub-section (5) and also a person other than the person referred to in the said sub-section;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "390-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax year for which the credit may be given. Downloaded/Printed on 5/22/26, 4:46 PM from www.incometaxindia.gov.in",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

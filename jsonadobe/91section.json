@@ -1,0 +1,89 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "91",
+      "id": "91",
+      "title": "Reference to Valuation Officer.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "91-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For ascertaining the fair market value of a capital asset for this Chapter, the Assessing Officer may refer the valuation of the capital asset to a Valuation Officer,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "91-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the value of the asset claimed by the assessee is as per the estimate by a registered valuer, but the Assessing Officer is of the opinion that the value so claimed is at variance with its fair market value;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "91-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in any other case, if the Assessing Officer is of the opinion that—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "91-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the fair market value of the asset exceeds the value claimed by the assessee by more than the percentage of value of such asset or amount, as may be prescribed; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "91-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "having regard to the nature of the asset and other relevant circumstances, it is necessary so to do."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "91-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of section 269(3) to (8) shall, with necessary modifications, apply in relation to such reference made under sub-section (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

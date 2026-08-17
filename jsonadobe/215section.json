@@ -1,0 +1,124 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "215",
+      "id": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "215-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, in case of an assessee, being a non-resident Indian,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "215-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any long-term capital gains arises from the transfer of a foreign exchange asset (herein referred to as original asset); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "215-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "within six months after the date of such transfer, he has invested the whole or any part of the net consideration in any specified asset (herein referred to as new asset), then the capital gains shall be dealt with in the following manner:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "215-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "215-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A= B × D C Where, A = the capital gains not to be charged under section 67; B = whole of the capital gain; C = cost of acquisition of the new asset; D = net consideration in respect of the original asset."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "215-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "215-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"cost\", in relation to any new asset, being a deposit referred to in section 212(e)(iii) or (v), means the amount of such deposit;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "215-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"net consideration\" in relation to the transfer of the original asset, means the full value of the consideration received or accruing as a result of the transfer of such asset as reduced by any expenditure incurred wholly and exclusively in connection with such transfer.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "215-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the new asset is transferred or converted (otherwise than by transfer) into money, within three years from date of its acquisition, the capital gain arising from transfer of original asset not so charged under section 67 on the basis of the cost of such new asset as provided in sub-section (1)(i) or (ii), shall be deemed to be income by way of capital gains relating to capital assets other than short-term capital assets of the tax year in which the new asset is transferred or converted (otherwise than by transfer) into money.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,645 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "270",
+      "id": "270",
+      "title": "Assessment.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "270-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a return has been made under section 263, or in response to a notice under section 268(1) such return shall be processed in the following manner:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the total income or loss shall be computed after making the adjustments towards the following:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "270-1-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any arithmetical error in the return; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "270-1-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an incorrect claim, if such incorrect claim is apparent from any information in the return; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "270-1-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any such inconsistency in the return, with respect to the information in the return of any preceding tax year, as may be prescribed; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "270-1-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "disallowance of loss claimed, if return of the tax year for which set off of loss is claimed was furnished beyond the due date specified under section 263(1); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "270-1-a-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "disallowance of expenditure or increase in income indicated in the audit report but not taken into account in computing the total income in the return; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "270-1-a-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "disallowance of deduction claimed 55[] under any of the provisions of Chapter VIII-C, if the return is furnished beyond the due date specified under section 263(1);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax, interest and fee, if any, shall be computed on the basis of the total income computed under clause (a);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "270-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the sum payable by, or the amount of refund due to, the assessee shall be determined after adjustment of the tax, interest and fee, if any, computed under clause (b) by—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "270-1-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any tax deducted at source;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "270-1-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any tax collected at source;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "270-1-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any advance tax paid;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "270-1-c-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any rebate or relief allowable under Chapter IX;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "270-1-c-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any tax paid on self-assessment; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "270-1-c-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any amount paid otherwise by way of tax, interest or fee;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "270-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an intimation shall be sent to the assessee specifying the sum determined to be payable by, or refund due to, the assessee under clause (c); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "270-1-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount of refund due to the assessee in pursuance of the determination under clause (c) shall be granted to the assessee.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "270-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Before making any adjustment under sub-section (1)(a),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a communication is to be given to the assessee of such adjustments either in writing or in electronic mode;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the response received from the assessee in this regard, if any, shall be considered; and in a case where no response is received within thirty days of the issue of such communication, such adjustments shall be made and thereafter the intimation under sub-section (1)(d) shall be sent.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "270-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), an intimation shall also be sent to the assessee in a case where the loss declared in the return by the assessee is adjusted but no tax, interest or fee is payable by, or no refund is due to, him.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "270-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No intimation under sub-section (1) shall be sent after the expiry of nine months from the end of the financial year in which the return is made.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "270-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-sections (1) to (4),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"an incorrect claim apparent from any information in the return\" shall mean a claim, on the basis of an entry, in the return,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "270-5-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "of an item, which is inconsistent with another entry of the same or some other item in such return; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "270-5-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of which the information required to be furnished under this Act to substantiate such entry has not been so furnished;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "270-5-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of a deduction, where such deduction exceeds specified statutory limit which may have been expressed as monetary amount or percentage or ratio or fraction;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"the acknowledgement of the return\" shall be deemed to be the intimation in a case where no sum is payable by, or refundable to, the assessee under sub-section (1)(c), and where no adjustment has been made under sub-section (1)(a).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "270-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of processing of returns under sub-section (1), the Board may make a scheme for centralised processing of returns with a view to expeditiously determining the tax payable by, or the refund due to, the assessee as required under the said sub-section.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "270-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The scheme made under sub-section (6) shall, as soon as may be laid before each House of Parliament.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "270-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a return has been furnished under section 263 or in response to a notice under section 268(1), the Assessing Officer or the prescribed income-tax authority, if, considers it necessary or expedient to ensure that the assessee—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not understated the income;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not computed excessive loss;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "270-8-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not under-paid the tax in any manner, shall serve on the assessee a notice requiring him, on a date to be specified therein,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "270-8-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "either to attend the office of the Assessing Officer; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "270-8-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to produce, or cause to be produced before the Assessing Officer any evidence on which the assessee may rely in support of the return."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "270-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No notice under sub-section (8) shall be served on the assessee after the expiry of three months from the end of the financial year in which the return is furnished.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "270-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "On the day specified in the notice issued under sub-section (8), or as soon afterwards as may be, after hearing such evidence as the assessee may produce and such other evidence as the Assessing Officer may require on specified points, and after taking into account all relevant material which he has gathered, the Assessing Officer, subject to the provisions of sub-sections (11) and (13), shall—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-10-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "by an order in writing, make an assessment of the total income or loss of the assessee; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-10-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "determine the sum payable by him or refund of any amount due to him on the basis of such assessment.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "270-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of entities referred to in sub-section (12), which are required to furnish the return of income under section 263(1)(a)(iv), no order under sub-section (10) making an assessment of the total income or loss of any such entity shall be made by the Assessing Officer, without giving effect to the provisions of section 11, unless—",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "270-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (11), the entities shall be—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-12-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a research association referred to in Schedule III (Table: Sl. No. 23);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-12-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an association or institution referred to in Schedule III (Table: Sl. No. 24);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "270-12-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an institution referred to in Schedule III (Table: Sl. No. 25).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "270-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of a registered non-profit organisation, where the Assessing Officer is satisfied that any such entity has committed any specified violation as mentioned in section 351(1), he shall—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-13-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "send a reference to the Principal Commissioner or Commissioner to withdraw the approval or registration; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-13-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no order under sub-section (10) making an assessment of the total income or loss of such registered non-profit organisation shall be made by him without giving effect to the order passed by the Principal Commissioner or Commissioner under section 351(2)(ii)(A) or (B).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "14",
+          "id": "270-14",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "While making an assessment under sub-section (10), where the Assessing Officer is satisfied that the activities of the university, college or other institution referred to in section 45(3)(a) (herein referred to as entity) are not being carried out in accordance with all or any of the conditions subject to which such entity was approved, then—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-14-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "he may, after giving a reasonable opportunity of showing cause against the proposed withdrawal to the concerned entity, recommend to the Central Government to withdraw the approval; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-14-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Central Government may by order, withdraw the approval and forward a copy of the order to the concerned entity and the Assessing Officer.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "15",
+          "id": "270-15",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a regular assessment under sub-section (10) or section 271 is made,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "270-15-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax or interest paid by the assessee under sub-section (1) shall be deemed to have been paid towards such regular assessment;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "270-15-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if no refund is due on regular assessment or the amount refunded under sub-section (1) exceeds the amount refundable on regular assessment, the whole or the excess amount so refunded shall be deemed to be tax payable by the assessee and the provisions of this Act shall apply accordingly.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "55",
+      "text": "Words \"under section 144 or\" omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}
