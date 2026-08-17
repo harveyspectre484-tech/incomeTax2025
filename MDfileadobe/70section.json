@@ -6,6 +6,8 @@
       "number": "70",
       "id": "70",
       "title": "Transactions not regarded as transfer.",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
       "x": 27.62,
       "y_start": 80.59,
       "page_start": 1,
@@ -26,52 +28,30 @@
               "type": "clause",
               "number": "a",
               "id": "70-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by way of distribution of capital assets on the total or partial partition of a Hindu undivided family;",
-              "children": []
+              "text": "by way of distribution of capital assets on the total or partial partition of a Hindu undivided family;"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "70-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset by an individual or a Hindu undivided family, under a will or a gift or an irrevocable trust;",
-              "children": []
+              "text": "of a capital asset by an individual or a Hindu undivided family, under a will or a gift or an irrevocable trust;"
             },
             {
               "type": "clause",
               "number": "c",
               "id": "70-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset, not being stock-in-trade, by a company to its subsidiary company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the parent company or its nominees hold the whole of the share capital of the subsidiary company;"
+                  "text": "the parent company or its nominees hold the whole of the share capital of the subsidiary company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the subsidiary company is an Indian company;"
                 }
               ]
@@ -80,30 +60,18 @@
               "type": "clause",
               "number": "d",
               "id": "70-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset, not being stock-in-trade, by a subsidiary company to the holding company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-d-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the whole of the share capital of the subsidiary company is held by the holding company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-d-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the holding company is an Indian company;"
                 }
               ]
@@ -112,41 +80,24 @@
               "type": "clause",
               "number": "e",
               "id": "70-1-e",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a scheme of amalgamation, of a capital asset by the amalgamating company to the amalgamated company, if the amalgamated company is an Indian company;",
-              "children": []
+              "text": "in a scheme of amalgamation, of a capital asset by the amalgamating company to the amalgamated company, if the amalgamated company is an Indian company;"
             },
             {
               "type": "clause",
               "number": "f",
               "id": "70-1-f",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "by a shareholder, in a scheme of amalgamation, of a capital asset being a share or shares held by him in the amalgamating company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-f-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the transfer is made in consideration of allotment to him of any share or shares in the amalgamated company except when the shareholder itself is the amalgamated company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-f-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the amalgamated company is an Indian company;"
                 }
               ]
@@ -155,30 +106,18 @@
               "type": "clause",
               "number": "g",
               "id": "70-1-g",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "in a scheme of amalgamation, to him of a capital asset being a share or shares held in an Indian company by the amalgamating foreign company to the amalgamated foreign company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-g-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "at least 25% of the shareholders of the amalgamating foreign company continue to remain shareholders of the amalgamated foreign company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-g-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "such transfer does not attract tax on capital gains in the country, in which the amalgamating company is incorporated;"
                 }
               ]
@@ -187,223 +126,134 @@
               "type": "clause",
               "number": "h",
               "id": "70-1-h",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "in a scheme of amalgamation, of a capital asset, being a share of a foreign company, referred to in section 9(10)(a), which derives directly or indirectly, its value substantially from the share or shares of an Indian company, held by the amalgamating foreign company to the amalgamated foreign company, if—",
-              "children": []
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "70-1-h-i",
+                  "text": "at least 25% of the shareholders of the amalgamating foreign company continue to remain shareholders of the amalgamated foreign company; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "70-1-h-ii",
+                  "text": "such transfer does not attract tax on capital gains in the country in which the amalgamating company is incorporated;"
+                }
+              ]
             },
             {
               "type": "clause",
               "number": "i",
               "id": "70-1-i",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "at least 25% of the shareholders of the amalgamating foreign company continue to remain shareholders of the amalgamated foreign company; and",
-              "children": [
-                {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "70-1-i-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "such transfer does not attract tax on capital gains in the country in which the amalgamating company is incorporated;"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "i",
-                  "id": "70-1-i-i",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "of a capital asset by a banking company to a banking institution under a scheme of amalgamation of a banking company with a banking institution sanctioned and brought into force by the Central Government under section 45(7) of the Banking Regulation Act, 1949 (10 of 1949);"
-                }
-              ]
+              "text": "of a capital asset by a banking company to a banking institution under a scheme of amalgamation of a banking company with a banking institution sanctioned and brought into force by the Central Government under section 45(7) of the Banking Regulation Act, 1949 (10 of 1949);"
             },
             {
               "type": "clause",
               "number": "j",
               "id": "70-1-j",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a demerger, of a capital asset by the demerged company to the resulting company, if the resulting company is an Indian company;",
-              "children": []
+              "text": "in a demerger, of a capital asset by the demerged company to the resulting company, if the resulting company is an Indian company;"
             },
             {
               "type": "clause",
               "number": "k",
               "id": "70-1-k",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of shares by the resulting company or issue of shares by such company, in a scheme of demerger to the shareholders of the demerged company, if the transfer or issue is made in consideration of demerger of the undertaking;",
-              "children": []
+              "text": "of shares by the resulting company or issue of shares by such company, in a scheme of demerger to the shareholders of the demerged company, if the transfer or issue is made in consideration of demerger of the undertaking;"
             },
             {
               "type": "clause",
               "number": "l",
               "id": "70-1-l",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset in a demerger, being a share or shares held in an Indian company, by the demerged foreign company to the resulting foreign company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-l-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the shareholders holding not less than 75% in value of the shares of the demerged foreign company continue to remain shareholders of the resulting foreign company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-l-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "such transfer does not attract tax on capital gains in the country, in which the demerged foreign company is incorporated, and in such a case the provisions of sections 230 to 232 of the Companies Act, 2013 (18 of 2013) shall not apply;"
+                  "text": "such transfer does not attract tax on capital gains in the country, in which the demerged foreign company is incorporated,"
                 }
-              ]
+              ],
+              "closing_text": "and in such a case the provisions of sections 230 to 232 of the Companies Act, 2013 (18 of 2013) shall not apply;"
             },
             {
               "type": "clause",
               "number": "m",
               "id": "70-1-m",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset in a demerger, being a share of a foreign company, referred to in section 9(10)(a), which derives directly or indirectly, its value substantially from the share or shares of an Indian company, held by the demerged foreign company to the resulting foreign company, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-m-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the shareholders, holding not less than 75% in value of the shares of the demerged foreign company, continue to remain shareholders of the resulting foreign company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-m-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "such transfer does not attract tax on capital gains in the country in which the demerged foreign company is incorporated, and in such a case the provisions of sections 230 to 232 of the Companies Act, 2013 (18 of 2013) shall not apply;"
+                  "text": "such transfer does not attract tax on capital gains in the country in which the demerged foreign company is incorporated,"
                 }
-              ]
+              ],
+              "closing_text": "and in such a case the provisions of sections 230 to 232 of the Companies Act, 2013 (18 of 2013) shall not apply;"
             },
             {
               "type": "clause",
               "number": "n",
               "id": "70-1-n",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a business reorganisation, of a capital asset by the predecessor co-operative bank to the successor co-operative bank or to the converted banking company;",
-              "children": []
+              "text": "in a business reorganisation, of a capital asset by the predecessor co-operative bank to the successor co-operative bank or to the converted banking company;"
             },
             {
               "type": "clause",
               "number": "o",
               "id": "70-1-o",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by a shareholder, in a business reorganisation, of capital asset being share or shares held by him in the predecessor co-operative bank, if the transfer is made in consideration of the allotment to him of any share or shares in the successor co-operative bank or the converted banking company;",
-              "children": []
+              "text": "by a shareholder, in a business reorganisation, of capital asset being share or shares held by him in the predecessor co-operative bank, if the transfer is made in consideration of the allotment to him of any share or shares in the successor co-operative bank or the converted banking company;"
             },
             {
               "type": "clause",
               "number": "p",
               "id": "70-1-p",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset, being bonds or Global Depository Receipts as referred to in section 209(1), made outside India by a non-resident to another nonresident;",
-              "children": []
+              "text": "of a capital asset, being bonds or Global Depository Receipts as referred to in section 209(1), made outside India by a non-resident to another non-resident;"
             },
             {
               "type": "clause",
               "number": "q",
               "id": "70-1-q",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "made outside India, of a capital asset, being rupee denominated bond of an Indian company issued outside India, by a non-resident to another nonresident;",
-              "children": []
+              "text": "made outside India, of a capital asset, being rupee denominated bond of an Indian company issued outside India, by a non-resident to another non-resident;"
             },
             {
               "type": "clause",
               "number": "r",
               "id": "70-1-r",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset made by a non-resident on a recognised stock exchange located in any International Financial Services Centre, where the consideration for such transaction is paid or payable in foreign currency, and such capital asset is—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-r-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "bond or Global Depository Receipt referred to in section 209(1); or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-r-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "rupee denominated bond of an Indian company; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-r-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "derivative; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "70-1-r-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "such other securities as may be notified by the Central Government;"
                 }
               ]
@@ -412,193 +262,114 @@
               "type": "clause",
               "number": "s",
               "id": "70-1-s",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset, being a Government security carrying a periodic payment of interest, made outside India through an intermediary dealing in settlement of securities, by a non-resident to another non-resident;",
-              "children": []
+              "text": "of a capital asset, being a Government security carrying a periodic payment of interest, made outside India through an intermediary dealing in settlement of securities, by a non-resident to another non-resident;"
             },
             {
               "type": "clause",
               "number": "t",
               "id": "70-1-t",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a relocation, of a capital asset by the original fund to the resulting fund;",
-              "children": []
+              "text": "in a relocation, of a capital asset by the original fund to the resulting fund;"
             },
             {
               "type": "clause",
               "number": "u",
               "id": "70-1-u",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by a shareholder or unit holder or interest holder, in a relocation, of a capital asset being share or unit or interest held by him in the original fund in consideration for the share or unit or interest in the resultant fund;",
-              "children": [
-                {
-                  "type": "sub-clause",
-                  "number": "v",
-                  "id": "70-1-u-v",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "of a capital asset by India Infrastructure Finance Company Limited to an institution established for financing the infrastructure and development, set up under an Act of Parliament and notified by the Central Government for the purposes of this clause;"
-                }
-              ]
+              "text": "by a shareholder or unit holder or interest holder, in a relocation, of a capital asset being share or unit or interest held by him in the original fund in consideration for the share or unit or interest in the resultant fund;"
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "70-1-v",
+              "text": "of a capital asset by India Infrastructure Finance Company Limited to an institution established for financing the infrastructure and development, set up under an Act of Parliament and notified by the Central Government for the purposes of this clause;"
             },
             {
               "type": "clause",
               "number": "w",
               "id": "70-1-w",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset, under a plan approved by the Central Government, by a public sector company, to—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-w-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "another public sector company notified by the Central Government for the purposes of this clause; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-w-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the Central Government; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-w-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "a State Government;"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "x",
-                  "id": "70-1-w-x",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "footnote_refs": [
-                    "10a"
-                  ],
-                  "text": "by way of redemption, of Sovereign Gold Bond issued by the Reserve Bank of India under the Sovereign Gold Bond Scheme, 2015 or any subsequent Sovereign Gold Bond Scheme, if held by an individual from the date of original issue till maturity;"
                 }
               ]
             },
             {
               "type": "clause",
+              "number": "x",
+              "id": "70-1-x",
+              "text": "by way of redemption, of Sovereign Gold Bond issued by the Reserve Bank of India under the Sovereign Gold Bond Scheme, 2015 or any subsequent Sovereign Gold Bond Scheme, if held by an individual from the date of original issue till maturity;",
+              "footnote": {
+                "marker": "10a",
+                "note": "Substituted by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (x) read as under: \"(x) of Sovereign Gold Bond issued by the Reserve Bank of India under the Sovereign Gold Bond Scheme 2015, by way of redemption, by an individual;\""
+              }
+            },
+            {
+              "type": "clause",
               "number": "y",
               "id": "70-1-y",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset, being conversion of gold into Electronic Gold Receipt issued by a Vault Manager, or conversion of Electronic Gold Receipt into gold;",
-              "children": []
+              "text": "of a capital asset, being conversion of gold into Electronic Gold Receipt issued by a Vault Manager, or conversion of Electronic Gold Receipt into gold;"
             },
             {
               "type": "clause",
               "number": "z",
               "id": "70-1-z",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by way of conversion of bonds or debentures, debenture-stock or deposit certificates in any form, of a company into shares or debentures of that company;",
-              "children": []
+              "text": "by way of conversion of bonds or debentures, debenture-stock or deposit certificates in any form, of a company into shares or debentures of that company;"
             },
             {
               "type": "clause",
               "number": "za",
               "id": "70-1-za",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by way of conversion of bonds referred to in section 209(1) (Table: Sl. No. 1) into shares or debentures of any company;",
-              "children": []
+              "text": "by way of conversion of bonds referred to in section 209(1) (Table: Sl. No. 1) into shares or debentures of any company;"
             },
             {
               "type": "clause",
               "number": "zb",
               "id": "70-1-zb",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "by way of conversion of preference shares of a company into equity shares of that company;",
-              "children": []
+              "text": "by way of conversion of preference shares of a company into equity shares of that company;"
             },
             {
               "type": "clause",
               "number": "zc",
               "id": "70-1-zc",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset, being any work of art, archaeological, scientific or art collection, book, manuscript, drawing, painting, photograph or print, to—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-zc-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the Government; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-zc-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "a University; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-zc-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the National Museum, National Art Gallery or National Archives; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "70-1-zc-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "such other public museum or institution as may be notified by the Central Government to be of national importance or of renown throughout any State;"
                 }
               ]
@@ -607,50 +378,30 @@
               "type": "clause",
               "number": "zd",
               "id": "70-1-zd",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset or intangible asset by a firm to a company as a result of succession of the firm by a company in the business carried on by the firm, if —",
-              "children": [
+              "text": "of a capital asset or intangible asset by a firm to a company as a result of succession of the firm by a company in the business carried on by the firm, if—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-zd-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "all the assets and liabilities of the firm relating to the business immediately before the succession become the assets and liabilities of the company;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-zd-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "all the partners of the firm, immediately before the succession, become the shareholders of the company in the same proportion in which their capital accounts stood in the books of the firm on the date of the succession;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-zd-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the partners of the firm do not receive any consideration or benefit, directly or indirectly, in any form or manner, other than by way of allotment of shares in the company; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "70-1-zd-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the aggregate of the shareholding of the partners in the company is not less than 50% of the total voting power and such shareholding continues to not less than 50% for five years from the date of succession;"
                 }
               ]
@@ -659,80 +410,48 @@
               "type": "clause",
               "number": "ze",
               "id": "70-1-ze",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset or intangible asset by a private company or unlisted public company (herein referred to as the company) to a limited liability partnership or transfer of a share or shares held in the company by a shareholder as a result of conversion of the company into a limited liability partnership under the provisions of section 56 or 57 of the Limited Liability Partnership Act, 2008 (6 of 2009), if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-ze-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "all the assets and liabilities of the company, immediately before the conversion, become the assets and liabilities of the limited liability partnership;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-ze-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "all the shareholders of the company, immediately before the conversion, become the partners of the limited liability partnership and their capital contribution and profit sharing ratio in the limited liability partnership are in the same proportion as their shareholding in the company on the date of conversion;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-ze-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the shareholders of the company do not receive any consideration or benefit, directly or indirectly, other than by way of share in profit and capital contribution in the limited liability partnership;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "70-1-ze-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the aggregate of the profit sharing ratio of the shareholders of the company in the limited liability partnership shall not be less than 50% at any time during five years from the date of conversion;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "v",
                   "id": "70-1-ze-v",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the total sales, turnover or gross receipts in the business of the company in any of the three tax years preceding the tax year in which the conversion takes place does not exceed sixty lakh rupees;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "vi",
                   "id": "70-1-ze-vi",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the total value of the assets, as appearing in the books of account of the company in any of the three tax years preceding the tax year in which the conversion takes place does not exceed five crore rupees; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "vii",
                   "id": "70-1-ze-vii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "no amount is paid, either directly or indirectly, to any partner out of balance of accumulated profit standing in the accounts of the company on the date of conversion for three years from the date of conversion;"
                 }
               ]
@@ -741,40 +460,24 @@
               "type": "clause",
               "number": "zf",
               "id": "70-1-zf",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset or intangible asset (by way of sale or otherwise) by a sole proprietorship concern to a company in case of succession of the sole proprietorship concern by the company in the business carried on by it, if—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-zf-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "all the assets and liabilities related to the business of the sole proprietary concern, immediately before the succession, become the assets and liabilities of the company;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-zf-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the shareholding of the sole proprietor in the company is not less than 50% of the total voting power and such shareholding continues to be not less than 50% for five years from the date of the succession; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "70-1-zf-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "the sole proprietor does not receive any consideration or benefit, directly or indirectly, except through allotment of shares in the company;"
                 }
               ]
@@ -783,63 +486,36 @@
               "type": "clause",
               "number": "zg",
               "id": "70-1-zg",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a scheme for lending of any securities under an agreement or arrangement, entered into by the assessee with the borrower of such securities and which is subject to the guidelines issued by the Securities and Exchange Board of India or the Reserve Bank of India;",
-              "children": []
+              "text": "in a scheme for lending of any securities under an agreement or arrangement, entered into by the assessee with the borrower of such securities and which is subject to the guidelines issued by the Securities and Exchange Board of India or the Reserve Bank of India;"
             },
             {
               "type": "clause",
               "number": "zh",
               "id": "70-1-zh",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset in a transaction of reverse mortgage under a scheme notified by the Central Government;",
-              "children": []
+              "text": "of a capital asset in a transaction of reverse mortgage under a scheme notified by the Central Government;"
             },
             {
               "type": "clause",
               "number": "zi",
               "id": "70-1-zi",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset, being share or shares of a special purpose vehicle to a business trust in exchange of units allotted by that trust to the transferor;",
-              "children": []
+              "text": "of a capital asset, being share or shares of a special purpose vehicle to a business trust in exchange of units allotted by that trust to the transferor;"
             },
             {
               "type": "clause",
               "number": "zj",
               "id": "70-1-zj",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
               "text": "of a capital asset by a unit holder, being a unit or units, held by him in the consolidating scheme of a mutual fund, in consideration of the allotment to the unit holder of a capital asset, being a unit or units, in the consolidated scheme of the mutual fund subject to the condition that the consolidation is of two or more schemes—",
-              "children": [
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "70-1-zj-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "of an equity-oriented fund; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "70-1-zj-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "of a fund other than equity-oriented fund;"
                 }
               ]
@@ -848,308 +524,259 @@
               "type": "clause",
               "number": "zk",
               "id": "70-1-zk",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset by a unit holder, being a unit or units, held by him in the consolidating plan of a mutual fund scheme, in consideration of the allotment to the unit holder of a capital asset, being a unit or units, in the consolidated plan of that scheme of the mutual fund;",
-              "children": []
+              "text": "of a capital asset by a unit holder, being a unit or units, held by him in the consolidating plan of a mutual fund scheme, in consideration of the allotment to the unit holder of a capital asset, being a unit or units, in the consolidated plan of that scheme of the mutual fund;"
             },
             {
               "type": "clause",
               "number": "zl",
               "id": "70-1-zl",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "of a capital asset, being an interest in a joint venture, held by a public sector company, in exchange for shares of a company incorporated outside India by the government of a foreign State, as per the laws of that foreign State.",
-              "children": []
+              "text": "of a capital asset, being an interest in a joint venture, held by a public sector company, in exchange for shares of a company incorporated outside India by the government of a foreign State, as per the laws of that foreign State."
             }
-          ],
-          "text_after_clauses": ""
+          ]
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "70-2",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "In sub-section (1), the definitions mentioned in column C of the Table below shall apply to the corresponding clauses of the said sub-section mentioned in column B of the said Table: Sl. Clause No. Definitions \"(x) of Sovereing Gold Bond issued by the Reserve Bank of India under the Sovereign Gold Bond Scheme 2015, by way of redemption, by an individual;\"",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text_before_table": "In sub-section (1), the definitions mentioned in column C of the Table below shall apply to the corresponding clauses of the said sub-section mentioned in column B of the said Table:",
           "table": {
             "type": "table",
-            "id": "70-2-table",
-            "x": 27.62,
-            "y_start": 150.0,
-            "page_start": 1,
-            "page_end": 1,
+            "caption": "TABLE",
             "columns": [
-              "Sl.No",
+              "Sl. No.",
               "Clause",
               "Definitions"
             ],
             "rows": [
               {
-                "Sl.No": "1",
-                "Clause": "(i)",
-                "Definitions": {
-                  "text_before_items": "The expressions,—",
-                  "items": [
-                    {
-                      "letter": "a",
-                      "id": "70-2-table-C-a",
-                      "text": "\"banking company\" shall have the same meaning as assigned to it in section 5(c) of the Banking Regulation Act, 1949 (10 of 1949);"
-                    },
-                    {
-                      "letter": "b",
-                      "id": "70-2-table-C-b",
-                      "text": "\"banking institution\" shall have the same meaning as assigned to it in section 45(15) of the Banking Regulation Act, 1949 (10 of 1949)."
-                    }
-                  ]
-                }
+                "sl_no": "1",
+                "clause_ref": "(i)",
+                "definitions": [
+                  {
+                    "term": "banking company",
+                    "text": "shall have the same meaning as assigned to it in section 5(c) of the Banking Regulation Act, 1949 (10 of 1949)."
+                  },
+                  {
+                    "term": "banking institution",
+                    "text": "shall have the same meaning as assigned to it in section 45(15) of the Banking Regulation Act, 1949 (10 of 1949)."
+                  }
+                ]
               },
               {
-                "Sl.No": "2",
-                "Clause": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": null,
-                      "id": "70-2-table-B-n",
-                      "text": "n and (o)"
-                    }
-                  ]
-                },
-                "Definitions": "\"business reorganisation\", \"converted banking company\", \"predecessor co-operative bank\" and \"successor co-operative bank\" shall have the meanings respectively assigned to them in section 65."
+                "sl_no": "2",
+                "clause_ref": "(n) and (o)",
+                "definitions": [
+                  {
+                    "term": "business reorganisation, converted banking company, predecessor co-operative bank and successor co-operative bank",
+                    "text": "shall have the meanings respectively assigned to them in section 65."
+                  }
+                ]
               },
               {
-                "Sl.No": "3",
-                "Clause": "(r)",
-                "Definitions": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": "a",
-                      "id": "70-2-table-C-a",
-                      "text": "\"derivative\" shall have the same meaning as assigned to it in section 2(ac) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);"
-                    },
-                    {
-                      "letter": "b",
-                      "id": "70-2-table-C-b",
-                      "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)."
-                    }
-                  ]
-                }
+                "sl_no": "3",
+                "clause_ref": "(r)",
+                "definitions": [
+                  {
+                    "term": "derivative",
+                    "text": "shall have the same meaning as assigned to it in section 2(ac) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)."
+                  },
+                  {
+                    "term": "securities",
+                    "text": "shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)."
+                  }
+                ]
               },
               {
-                "Sl.No": "4",
-                "Clause": "(s)",
-                "Definitions": "\"Government Security\" shall have the same meaning as assigned to it in section 2(b) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)."
+                "sl_no": "4",
+                "clause_ref": "(s)",
+                "definitions": [
+                  {
+                    "term": "Government Security",
+                    "text": "shall have the same meaning as assigned to it in section 2(b) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)."
+                  }
+                ]
               },
               {
-                "Sl.No": "5",
-                "Clause": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": "t",
-                      "id": "70-2-table-B-t",
-                      "text": "and (u)"
-                    }
-                  ]
-                },
-                "Definitions": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": "a",
-                      "id": "70-2-table-C-a",
-                      "text": "\"original fund\" means— (A) a fund established or incorporated or registered outside India, which collects funds from its members for investing it for their benefit and fulfils the following conditions:—"
-                    },
-                    {
-                      "letter": "i",
-                      "id": "70-2-table-C-i",
-                      "text": "the fund is not a person resident in India",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "70-2-table-C-i-ii",
-                          "text": "the fund is a resident of a country or a specified territory with which an agreement referred to in section 159(1) or"
-                        }
-                      ]
-                    },
-                    {
-                      "letter": "2",
-                      "id": "70-2-table-C-2",
-                      "text": "has been entered into; or is established or incorporated or registered in a country or a specified territory as may be notified by the Central Government",
-                      "children": [
-                        {
-                          "numeral": "iii",
-                          "id": "70-2-table-C-2-iii",
-                          "text": "the fund and its activities are subject to applicable investor protection regulations in the country or specified territory where it is established or incorporated or is a resident;"
-                        },
-                        {
-                          "numeral": "iv",
-                          "id": "70-2-table-C-2-iv",
-                          "text": "fulfils other conditions as may be prescribed; (B) an investment vehicle, in which Abu Dhabi Investment Authority is the direct or indirect sole shareholder or unit holder or beneficiary or interest holder and such investment vehicle is wholly owned and controlled, directly or indirectly, by the Abu Dhabi Investment Authority or the Government of Abu Dhabi; or (C) a fund notified by the Central Government subject to conditions as specified;"
-                        }
-                      ]
-                    },
-                    {
-                      "letter": "b",
-                      "id": "70-2-table-C-b",
-                      "text": "\"relocation\" means transfer of assets of the original fund, or of its wholly owned special purpose vehicle, to a resultant fund on or before the 31st March, 2030, where consideration for such transfer is discharged in the form of share or unit or interest in the resulting fund to—"
-                    },
-                    {
-                      "letter": "i",
-                      "id": "70-2-table-C-i",
-                      "text": "a shareholder or unit holder or interest holder of the original fund, in the same proportion in which the share or unit or interest was held by such shareholder or unit holder or interest holder in such original fund, in lieu of their shares or units or interests in the original fund;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "70-2-table-C-i-ii",
-                          "text": "the original fund, in the same proportion as referred to in sub-clause (i), in respect of which the share or unit or interest is not issued by resultant fund to its shareholder or unit holder or interest holder;"
-                        }
-                      ]
-                    },
-                    {
-                      "letter": "c",
-                      "id": "70-2-table-C-c",
-                      "text": "\"resultant fund\" means a fund established or incorporated in India in the form of a trust or a company or a limited liability partnership, which is located in an International Financial Services Centre as referred to in section 147 and has been granted—"
-                    },
-                    {
-                      "letter": "i",
-                      "id": "70-2-table-C-i",
-                      "text": "a certificate of registration as a Category I or Category II or Category III Alternative Investment Fund;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "70-2-table-C-i-ii",
-                          "text": "a certificate as a retail scheme or an Exchange Traded Fund as per Schedule VI (Note 1) and which fulfils the conditions specified in Schedule VI (Table: Sl. No. 1), and is regulated under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) or regulated under the International Financial Services Centres Authority (Fund Management) Regulations, 2022 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019)."
-                        }
-                      ]
-                    }
-                  ]
-                }
+                "sl_no": "5",
+                "clause_ref": "(t) and (u)",
+                "definitions": [
+                  {
+                    "term": "original fund means ",
+                    "text": "",
+                    "sub_items": [
+                      {
+                        "marker": "(A)",
+                        "text": "a fund established or incorporated or registered outside India, which collects funds from its members for investing it for their benefit and fulfils the following conditions:—",
+                        "sub_items": [
+                          {
+                            "marker": "(i)",
+                            "text": "the fund is not a person resident in India;"
+                          },
+                          {
+                            "marker": "(ii)",
+                            "text": "the fund is a resident of a country or a specified territory with which an agreement referred to in section 159(1) or (2) has been entered into; or is established or incorporated or registered in a country or a specified territory as may be notified by the Central Government;"
+                          },
+                          {
+                            "marker": "(iii)",
+                            "text": "the fund and its activities are subject to applicable investor protection regulations in the country or specified territory where it is established or incorporated or is a resident; and"
+                          },
+                          {
+                            "marker": "(iv)",
+                            "text": "fulfils other conditions as may be prescribed;"
+                          }
+                        ]
+                      },
+                      {
+                        "marker": "(B)",
+                        "text": "an investment vehicle, in which Abu Dhabi Investment Authority is the direct or indirect sole shareholder or unit holder or beneficiary or interest holder and such investment vehicle is wholly owned and controlled, directly or indirectly, by the Abu Dhabi Investment Authority or the Government of Abu Dhabi; or"
+                      },
+                      {
+                        "marker": "(C)",
+                        "text": "a fund notified by the Central Government subject to conditions as specified;"
+                      }
+                    ]
+                  },
+                  {
+                    "term": "relocation",
+                    "text": "means transfer of assets of the original fund, or of its wholly owned special purpose vehicle, to a resultant fund on or before the 31st March, 2030, where consideration for such transfer is discharged in the form of share or unit or interest in the resulting fund to—",
+                    "sub_items": [
+                      {
+                        "marker": "(i)",
+                        "text": "a shareholder or unit holder or interest holder of the original fund, in the same proportion in which the share or unit or interest was held by such shareholder or unit holder or interest holder in such original fund, in lieu of their shares or units or interests in the original fund; or"
+                      },
+                      {
+                        "marker": "(ii)",
+                        "text": "the original fund, in the same proportion as referred to in sub-clause (i), in respect of which the share or unit or interest is not issued by resultant fund to its shareholder or unit holder or interest holder;"
+                      }
+                    ]
+                  },
+                  {
+                    "term": "resultant fund",
+                    "text": "means a fund established or incorporated in India in the form of a trust or a company or a limited liability partnership, which is located in an International Financial Services Centre as referred to in section 147 and has been granted—",
+                    "sub_items": [
+                      {
+                        "marker": "(i)",
+                        "text": "a certificate of registration as a Category I or Category II or Category III Alternative Investment Fund; or"
+                      },
+                      {
+                        "marker": "(ii)",
+                        "text": "a certificate as a retail scheme or an Exchange Traded Fund as per Schedule VI (Note 1) and which fulfils the conditions specified in Schedule VI (Table: Sl. No. 1),"
+                      }
+                    ],
+                    "closing_text": "and is regulated under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) or regulated under the International Financial Services Centres Authority (Fund Management) Regulations, 2022 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019)."
+                  }
+                ]
               },
               {
-                "Sl.No": "6",
-                "Clause": "(y)",
-                "Definitions": {
-                  "text_before_items": "\"Electronic Gold Receipt\"and \"Vault Manager\" shall have the same meanings as respectively assigned to them in regulation 2(1)(h) and",
-                  "items": [
-                    {
-                      "letter": "l",
-                      "id": "70-2-table-C-l",
-                      "text": "of the Securities and Exchange Board of India (Vault Managers) Regulations, 2021 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992)."
-                    }
-                  ]
-                }
+                "sl_no": "6",
+                "clause_ref": "(y)",
+                "definitions": [
+                  {
+                    "term": "Electronic Gold Receipt and Vault Manager",
+                    "text": "shall have the same meanings as respectively assigned to them in regulation 2(1)(h) and (l) of the Securities and Exchange Board of India (Vault Managers) Regulations, 2021 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992)."
+                  }
+                ]
               },
               {
-                "Sl.No": "7",
-                "Clause": "(zc)",
-                "Definitions": "\"University\" means a University established or incorporated by or under a Central Act or State Act or Provincial Act and includes an institution declared under section 3 of the University Grants Commission Act, 1956 (3 of 1956), to be a University for the purposes of that Act."
+                "sl_no": "7",
+                "clause_ref": "(zc)",
+                "definitions": [
+                  {
+                    "term": "University",
+                    "text": "means a University established or incorporated by or under a Central Act or State Act or Provincial Act and includes an institution declared under section 3 of the University Grants Commission Act, 1956 (3 of 1956), to be a University for the purposes of that Act."
+                  }
+                ]
               },
               {
-                "Sl.No": "8",
-                "Clause": "(ze)",
-                "c": "\"private company\" and \"unlisted public company\" shall have the same meanings as respectively assigned to them in the Limited Liability Partnership Act, 2008 (6 of 2009)."
+                "sl_no": "8",
+                "clause_ref": "(ze)",
+                "definitions": [
+                  {
+                    "term": "private company and unlisted public company",
+                    "text": "shall have the same meanings as respectively assigned to them in the Limited Liability Partnership Act, 2008 (6 of 2009)."
+                  }
+                ]
               },
               {
-                "Sl.No": "9",
-                "Clause": "(zi)",
-                "Definitions": "\"special purpose vehicle\" shall have the meaning assigned to it in Schedule V (Note 2)."
+                "sl_no": "9",
+                "clause_ref": "(zi)",
+                "definitions": [
+                  {
+                    "term": "special purpose vehicle",
+                    "text": "shall have the meaning assigned to it in Schedule V (Note 2)."
+                  }
+                ]
               },
               {
-                "Sl.No": "10",
-                "Clause": "(zj)",
-                "Definitions": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": "a",
-                      "id": "70-2-table-C-a",
-                      "text": "\"consolidated scheme\" means the scheme with which the consolidating scheme merges or which is formed as a result of such merger;"
-                    },
-                    {
-                      "letter": "b",
-                      "id": "70-2-table-C-b",
-                      "text": "\"consolidating scheme\" means the scheme of a mutual fund which merges under the process of consolidation of the schemes of mutual fund as per the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
-                    },
-                    {
-                      "letter": "c",
-                      "id": "70-2-table-C-c",
-                      "text": "\"equity oriented fund\" means a fund—"
-                    },
-                    {
-                      "letter": "i",
-                      "id": "70-2-table-C-i",
-                      "text": "where the investible funds are invested by way of equity shares in domestic companies to the extent of more than 65% of the total proceeds of such fund, for which the percentage of equity shareholding shall be computed with reference to the annual average of the monthly averages of the opening and closing figures;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "70-2-table-C-i-ii",
-                          "text": "which has been set up under a scheme of Mutual Fund specified in Schedule VII (Table: Sl. No. 20 or 21);"
-                        }
-                      ]
-                    },
-                    {
-                      "letter": "d",
-                      "id": "70-2-table-C-d",
-                      "text": "\"mutual fund\" means a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21)."
-                    }
-                  ]
-                }
+                "sl_no": "10",
+                "clause_ref": "(zj)",
+                "definitions": [
+                  {
+                    "term": "consolidated scheme",
+                    "text": "means the scheme with which the consolidating scheme merges or which is formed as a result of such merger;"
+                  },
+                  {
+                    "term": "consolidating scheme",
+                    "text": "means the scheme of a mutual fund which merges under the process of consolidation of the schemes of mutual fund as per the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+                  },
+                  {
+                    "term": "equity oriented fund",
+                    "text": "means a fund—",
+                    "sub_items": [
+                      {
+                        "marker": "(i)",
+                        "text": "where the investible funds are invested by way of equity shares in domestic companies to the extent of more than 65% of the total proceeds of such fund, for which the percentage of equity shareholding shall be computed with reference to the annual average of the monthly averages of the opening and closing figures; and"
+                      },
+                      {
+                        "marker": "(ii)",
+                        "text": "which has been set up under a scheme of Mutual Fund specified in Schedule VII (Table: Sl. No. 20 or 21);"
+                      }
+                    ]
+                  },
+                  {
+                    "term": "mutual fund",
+                    "text": "means a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21)."
+                  }
+                ]
               },
               {
-                "Sl.No": "11",
-                "Clause": "(zk)",
-                "Definitions": {
-                  "text_before_items": "",
-                  "items": [
-                    {
-                      "letter": "a",
-                      "id": "70-2-table-C-a",
-                      "text": "\"consolidating plan\" means the plan within a scheme of a mutual fund which merges under the process of consolidation of the plans within a scheme of mutual fund as per the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
-                    },
-                    {
-                      "letter": "b",
-                      "id": "70-2-table-C-b",
-                      "text": "\"consolidated plan\" means the plan with which the consolidating plan merges or which is formed as a result of such merger;"
-                    },
-                    {
-                      "letter": "c",
-                      "id": "70-2-table-C-c",
-                      "text": "\"mutual fund\" means a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21)."
-                    }
-                  ]
-                }
+                "sl_no": "11",
+                "clause_ref": "(zk)",
+                "definitions": [
+                  {
+                    "term": "consolidating plan",
+                    "text": "means the plan within a scheme of a mutual fund which merges under the process of consolidation of the plans within a scheme of mutual fund as per the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+                  },
+                  {
+                    "term": "consolidated plan",
+                    "text": "means the plan with which the consolidating plan merges or which is formed as a result of such merger;"
+                  },
+                  {
+                    "term": "mutual fund",
+                    "text": "means a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21)."
+                  }
+                ]
               },
               {
-                "Sl.No": "12",
-                "Clause": "(zl)",
-                "Definitions": "\"joint venture\" means a business entity, as may be notified by the Central Government."
+                "sl_no": "12",
+                "clause_ref": "(zl)",
+                "definitions": [
+                  {
+                    "term": "joint venture",
+                    "text": "means a business entity, as may be notified by the Central Government."
+                  }
+                ]
               }
             ]
           }
         }
       ],
-      "text_after_subsections": ""
+      "footnotes": [
+        {
+          "marker": "10a",
+          "note": "Substituted by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (x) read as under: \"(x) of Sovereign Gold Bond issued by the Reserve Bank of India under the Sovereign Gold Bond Scheme 2015, by way of redemption, by an individual;\""
+        }
+      ]
     }
-  ],
-  "footnotes": [
-    {
-      "type": "footnote",
-      "number": "10a",
-      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (x) read as under :",
-      "page_start": 1,
-      "page_end": 1
-    }
-  ],
-  "orphans": []
+  ]
 }

@@ -6,78 +6,176 @@
       "number": "352",
       "id": "352",
       "title": "Tax on accreted income.",
-      "x": 27.62,
-      "y_start": 80.59,
-      "page_start": 1,
-      "page_end": 1,
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "act": "Income-tax Act, 2025",
       "text_before_subsections": "",
       "subsections": [
         {
           "type": "subsection",
           "number": "1",
           "id": "352-1",
-          "x": 27.62,
-          "y_start": 95.44,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Every specified person shall, in addition to the income-tax chargeable in respect of his total income, be liable to pay additional income-tax on accreted income at the maximum marginal rate in any of the cases specified in column B(i) and (ii) of the Table in sub-section (4).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Every specified person shall, in addition to the income-tax chargeable in respect of his total income, be liable to pay additional income-tax on accreted income at the maximum marginal rate in any of the cases specified in column B(i) and (ii) of the Table in sub-section (4)."
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "352-2",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The accreted income referred to in sub-section (1) shall be computed using the following formula: A = B – C where, A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text_before_formula": "The accreted income referred to in sub-section (1) shall be computed using the following formula:—",
+          "formula": "A = B - C, where,— A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed."
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "352-3",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The accreted income, computed as per the provisions of sub-section (2) shall be reduced by such amount of accreted income as is attributable to specified assets, and liabilities, if any, related to such assets.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The accreted income, computed as per the provisions of sub-section (2) shall be reduced by such amount of accreted income as is attributable to specified assets, and liabilities, if any, related to such assets."
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "352-4",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below:",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text_before_table": "The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below.",
           "table": {
             "type": "table",
-            "id": "352-4-table",
-            "x": 27.62,
-            "y_start": 150.0,
-            "page_start": 1,
-            "page_end": 1,
+            "caption": "TABLE",
             "columns": [
-              "9.",
-              "(a) entity other than a registered nonprofit organisation; or (b) registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or (c) registered non-profit organisation that does not have same or similar objects.",
-              "The date of dissolution.",
-              "The date on which such period of twelve months expires."
+              "Sl. No.",
+              "Case (A)",
+              "Case (B)(i)",
+              "Case (B)(ii)",
+              "Specified date (C)",
+              "Due date for payment of tax on accreted income (D)"
             ],
             "rows": [
               {
-                "9": "9",
-                "(a)_entity_other_than_a_registered_nonprofit_organisation;_or_(b)_registered_non_profit_organisation_having_objects_same_or_similar_to_it_but_the_said_merger_does_not_fulfil_such_conditions,_as_may_be_prescribed;_or_(c)_registered_non_profit_organisation_that_does_not_have_same_or_similar_objects": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
-                "the_date_of_dissolution": "",
-                "the_date_on_which_such_period_of_twelve_months_expires": "The date of dissolution."
+                "sl_no": "1",
+                "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+                "case_b_i": "The specified person has preferred an appeal against the order of cancellation.",
+                "case_b_ii": "",
+                "specified_date": "The date of the order cancelling the registration.",
+                "due_date": "Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person."
+              },
+              {
+                "sl_no": "2",
+                "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+                "case_b_i": "The specified person has not preferred an appeal against such order of cancellation.",
+                "case_b_ii": "",
+                "specified_date": "The date of the order cancelling the registration.",
+                "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
+              },
+              {
+                "sl_no": "3",
+                "case_a": {
+                  "intro": "",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "352-4-t3-a",
+                      "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "352-4-t3-b",
+                      "text": "such modified objects do not conform to the conditions of registration."
+                    }
+                  ]
+                },
+                "case_b_i": "The specified person has not applied for fresh registration under any specified provision in such tax year.",
+                "case_b_ii": "",
+                "specified_date": "The date of adoption or modification of any object.",
+                "due_date": "The end of such tax year."
+              },
+              {
+                "sl_no": "4",
+                "case_a": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "352-4-t4-a",
+                      "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "352-4-t4-b",
+                      "text": "such modified objects do not conform to the conditions of registration."
+                    }
+                  ]
+                },
+                "case_b_i": "The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.",
+                "case_b_ii": "",
+                "specified_date": "The date of adoption or modification of any object.",
+                "due_date": "The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person."
+              },
+              {
+                "sl_no": "5",
+                "case_a": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "352-4-t5-a",
+                      "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "352-4-t5-b",
+                      "text": "such modified objects do not conform to the conditions of registration."
+                    }
+                  ]
+                },
+                "case_b_i": "The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.",
+                "case_b_ii": "",
+                "specified_date": "The date of adoption or modification of any object.",
+                "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
+              },
+              {
+                "sl_no": "6",
+                "case_a": {
+                  "intro": "The specified person fails to make an application as per the provisions of—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "352-4-t6-a",
+                      "text": "sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "352-4-t6-b",
+                      "text": "sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or"
+                    },
+                    {
+                      "marker": "c",
+                      "id": "352-4-t6-c",
+                      "text": "as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7)."
+                    }
+                  ]
+                },
+                "case_b_i": "The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.",
+                "case_b_ii": "",
+                "specified_date": "The last date for making an application for registration.",
+                "due_date": "The end of such tax year."
+              },
+              {
+                "sl_no": "7",
+                "case_a": "Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.",
+                "case_b_i": "",
+                "case_b_ii": "",
+                "specified_date": "The date of such conversion.",
+                "due_date": "The end of such tax year."
+              },
+              {
+                "sl_no": "8",
+                "case_a": "The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.",
+                "case_b_i": "",
+                "case_b_ii": "",
+                "specified_date": "The date of merger.",
+                "due_date": "The date of merger."
+              },
+              {
+                "sl_no": "9",
+                "case_a": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
+                "case_b_i": "",
+                "case_b_ii": "",
+                "specified_date": "The date of dissolution.",
+                "due_date": "The date on which such period of twelve months expires."
               }
             ]
           }
@@ -86,87 +184,42 @@
           "type": "subsection",
           "number": "5",
           "id": "352-5",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The payment of tax on the accreted income by the specified person under this section shall be deemed as the final payment of tax in respect of the said income and no further credit therefor shall be claimed by, or any deduction be allowed to, the specified person or any other person in respect of the amount of tax so paid under any other provision of this Act.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The payment of tax on the accreted income by the specified person under this section shall be deemed as the final payment of tax in respect of the said income and no further credit therefor shall be claimed by, or any deduction be allowed to, the specified person or any other person in respect of the amount of tax so paid under any other provision of this Act."
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "352-6",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Where the specified person, or the principal officer or trustee of such specified person, fails to pay the whole or any part of the tax on the accreted income within the time allowed under sub-section (4), such specified person, principal officer or trustee shall be liable to pay simple interest, computed as per the following formula: I = 1% of (T × P) where, I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text_before_formula": "Where the specified person, or the principal officer or trustee of such specified person, fails to pay the whole or any part of the tax on the accreted income within the time allowed under sub-section (4), such specified person, principal officer or trustee shall be liable to pay simple interest, computed as per the following formula:—",
+          "formula": "I = 1% of (T x P), where,— I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof."
         },
         {
           "type": "subsection",
           "number": "7",
           "id": "352-7",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
           "text_before_clauses": "All the provisions of this Act shall apply for the collection and recovery of income-tax in respect of the amount of tax payable by the specified person, principal officer or trustee and the following persons shall be deemed to be assessee in default:—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "352-7-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the specified person and principal officer or the trustee of such specified person;",
-              "children": []
+              "text": "the specified person and principal officer or the trustee of such specified person;"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "352-7-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the person to whom any asset forming part of the computation of accreted income under sub-section (2) has been transferred, where the tax on accreted income is payable under the cases specified in sub-section (4) (Table: Sl. No. 9). (8) Subject to the provisions of sub-section (7), the liability of the person referred to in clause (b) of the said sub-section shall be limited to the extent to",
-              "children": [],
-              "table": {
-                "type": "table",
-                "id": "352-7-b-table",
-                "x": 27.62,
-                "y_start": 150.0,
-                "page_start": 1,
-                "page_end": 1,
-                "columns": [
-                  "The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.",
-                  "The date of merger.",
-                  "The date of merger.\""
-                ],
-                "rows": []
-              }
+              "text": "the person to whom any asset forming part of the computation of accreted income under sub-section (2) has been transferred, where the tax on accreted income is payable under the cases specified in sub-section (4) (Table: Sl. No. 9)."
             }
-          ],
-          "text_after_clauses": ""
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "352-8",
+          "text": "Subject to the provisions of sub-section (7), the liability of the person referred to in clause (b) of the said sub-section shall be limited to the extent to which the asset received by him is capable of meeting the liability."
         }
-      ],
-      "text_after_subsections": ""
+      ]
     }
-  ],
-  "footnotes": [
-    {
-      "type": "footnote",
-      "number": "68",
-      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, Sl. No. 8 read as under : \"8.",
-      "page_start": 1,
-      "page_end": 1
-    }
-  ],
-  "orphans": []
+  ]
 }

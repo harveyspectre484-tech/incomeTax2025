@@ -6,6 +6,8 @@
       "number": "286",
       "id": "286",
       "title": "Time limit for completion of assessment, reassessment and recomputation.",
+      "chapter": "CHAPTER XVI - Procedure for assessment",
+      "act": "Income-tax Act, 2025",
       "x": 27.62,
       "y_start": 80.59,
       "page_start": 1,
@@ -16,18 +18,10 @@
           "type": "subsection",
           "number": "1",
           "id": "286-1",
-          "x": 27.62,
-          "y_start": 95.44,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "No order in respect of proceedings mentioned in column B of the Table below shall be made after expiry of the period specified in the corresponding entry in column D of the said Table and such period shall be calculated from the date as mentioned in column C thereof.",
+          "text_before_table": "No order in respect of proceedings mentioned in column B of the Table below shall be made after expiry of the period specified in the corresponding entry in column D of the said Table and such period shall be calculated from the date as mentioned in column C thereof.",
           "table": {
             "type": "table",
-            "id": "286-1-table",
-            "x": 27.62,
-            "y_start": 150.0,
-            "page_start": 1,
-            "page_end": 1,
+            "caption": "TABLE",
             "columns": [
               "Sl. No.",
               "Nature of Proceedings or orders",
@@ -37,176 +31,209 @@
             "rows": [
               {
                 "sl_no": "1",
-                "nature_of_proceedings_or_orders": "Assessment order under section 270(10) or section 271.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the financial year succeeding the relevant tax year for which assessment is made.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment order under section 270(10) or section 271."
+                },
+                "date_from": {
+                  "text": "End of the financial year succeeding the relevant tax year for which assessment is made."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "2",
-                "nature_of_proceedings_or_orders": "Assessment order under section 270(10) or 271, where an updated return of income is furnished under section 263(6).",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the financial year in which such updated return was furnished.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment order under section 270(10) or 271, where an updated return of income is furnished under section 263(6)."
+                },
+                "date_from": {
+                  "text": "End of the financial year in which such updated return was furnished."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "3",
-                "nature_of_proceedings_or_orders": "Assessment order under section 270(10) or 271, where return is furnished in consequence of order under section 239(3)(b).",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the financial year in which such return was furnished.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment order under section 270(10) or 271, where return is furnished in consequence of order under section 239(3)(b)."
+                },
+                "date_from": {
+                  "text": "End of the financial year in which such return was furnished."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "4",
-                "nature_of_proceedings_or_orders": "Assessment, reassessment or recomputation order under section 279.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the financial year in which notice under section 280 was served.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment, reassessment or recomputation order under section 279."
+                },
+                "date_from": {
+                  "text": "End of the financial year in which notice under section 280 was served."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "5",
-                "nature_of_proceedings_or_orders": "Fresh assessment order or fresh order under section 166 in pursuance to an order under section 359, or 363, or 377, or 378, setting aside or cancelling an assessment order or an order under section 166.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the financial year in which order under section 359, or 363 is received by, or order under section 377 or 378 is passed by, the jurisdictional Principal Commissioner or Commissioner.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Fresh assessment order or fresh order under section 166 in pursuance to an order under section 359, or 363, or 377, or 378, setting aside or cancelling an assessment order or an order under section 166."
+                },
+                "date_from": {
+                  "text": "End of the financial year in which order under section 359 or 363 is received by, or order under section 377 or 378 is passed by, the jurisdictional Principal Commissioner or Commissioner."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "6",
-                "nature_of_proceedings_or_orders": "Assessment or reassessment which stands revived, as per section 292.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which such assessment or reassessment stands revived.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment or reassessment which stands revived, as per section 292."
+                },
+                "date_from": {
+                  "text": "End of the month in which such assessment or reassessment stands revived."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "7",
-                "nature_of_proceedings_or_orders": "Assessment required to be made in the hands of partner, in consequence of an assessment made on the firm under section 279.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which assessment order in the case of firm is passed.",
-                "time_limit_for_completion": "One year."
+                "nature_of_proceedings": {
+                  "text": "Assessment required to be made in the hands of partner, in consequence of an assessment made on the firm under section 279."
+                },
+                "date_from": {
+                  "text": "End of the month in which assessment order in the case of firm is passed."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "8",
-                "nature_of_proceedings_or_orders": {
-                  "text_before_items": "Assessment, reassessment or recomputation required to be made on the assessee or any person in consequence of or to give effect to any finding or direction contained in an order—",
+                "nature_of_proceedings": {
+                  "intro": "Assessment, reassessment or recomputation required to be made on the assessee or any person in consequence of or to give effect to any finding or direction contained in an order—",
                   "items": [
                     {
-                      "letter": "i",
-                      "id": "286-1-table-B-i",
-                      "text": "under section 359, or 363 or 365(10), or 368, or 377 or 378;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "286-1-table-B-i-ii",
-                          "text": "of any Court in a proceeding otherwise than by way of appeal or reference under this Act."
-                        }
-                      ]
+                      "marker": "i",
+                      "id": "286-1-t8-nat-i",
+                      "text": "under section 359 or 363 or 365(10), or 368, or 377, or 378; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "286-1-t8-nat-ii",
+                      "text": "of any Court in a proceeding otherwise than by way of appeal or reference under this Act."
                     }
                   ]
                 },
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which such order is received, or passed, by the jurisdictional Principal Commissioner or Commissioner.",
-                "time_limit_for_completion": "One year."
+                "date_from": {
+                  "text": "End of the month in which such order is received, or passed, by the jurisdictional Principal Commissioner or Commissioner."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "9",
-                "nature_of_proceedings_or_orders": {
-                  "text_before_items": "Order giving effect to an order under section 359, or 363 or 365(10) or 368 or 377 or 378, otherwise than by making a fresh assessment or reassessment or fresh order under section 166, where—",
+                "nature_of_proceedings": {
+                  "intro": "Order giving effect to an order under section 359 or 363 or 365(10) or 368 or 377 or 378, otherwise than by making a fresh assessment or reassessment or fresh order under section 166, where—",
                   "items": [
                     {
-                      "letter": "i",
-                      "id": "286-1-table-B-i",
-                      "text": "verification of any issue by way of submission of any document by the assessee or any other person is to be carried out;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "286-1-table-B-i-ii",
-                          "text": "an opportunity of being heard is to be given to the assessee."
-                        }
-                      ]
+                      "marker": "i",
+                      "id": "286-1-t9-nat-i",
+                      "text": "verification of any issue by way of submission of any document by the assessee or any other person is to be carried out; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "286-1-t9-nat-ii",
+                      "text": "an opportunity of being heard is to be given to the assessee."
                     }
                   ]
                 },
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which order under section 359, or 363 or 365(10) or 368 is received, or order under section 377 or 378 is passed, by the jurisdictional Principal Commissioner or Commissioner.",
-                "time_limit_for_completion": "One year."
+                "date_from": {
+                  "text": "End of the month in which order under section 359 or 363 or 365(10) or 368 is received, or order under section 377 or 378 is passed, by the jurisdictional Principal Commissioner or Commissioner."
+                },
+                "time_limit": {
+                  "text": "One year."
+                }
               },
               {
                 "sl_no": "10",
-                "nature_of_proceedings_or_orders": "Order giving effect to an order under section 359, or 363 or 365(10) or 368 or 377 or 378 otherwise than by making a fresh assessment or reassessment or fresh order under section 166.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which order under section 359, or 363 or 365(10) or 368 is received by, or order under section 377 or 378 is passed by, the jurisdictional Principal Commissioner or Commissioner.",
-                "time_limit_for_completion": "Six months, extendable to nine months with the approval of authorities as per section 2(62) and (64)."
+                "nature_of_proceedings": {
+                  "text": "Order giving effect to an order under section 359 or 363 or 365(10) or 368 or 377 or 378 otherwise than by making a fresh assessment or reassessment or fresh order under section 166."
+                },
+                "date_from": {
+                  "text": "End of the month in which order under section 359 or 363 or 365(10) or 368 is received by, or order under section 377 or 378 is passed by, the jurisdictional Principal Commissioner or Commissioner."
+                },
+                "time_limit": {
+                  "text": "Six months, extendable to nine months with the approval of authorities as per section 2(62) and (64)."
+                }
               },
               {
                 "sl_no": "11",
-                "nature_of_proceedings_or_orders": "Modification of assessment, reassessment or recomputation to give effect to the order passed under section 166 read with section 377.",
-                "date_from_which_time_limit_for_completion_is_to_be_calculated": "End of the month in which such order under section 166 is received by the Assessing Officer.",
-                "time_limit_for_completion": "Two months."
+                "nature_of_proceedings": {
+                  "text": "Modification of assessment, reassessment or recomputation to give effect to the order passed under section 166 read with section 377."
+                },
+                "date_from": {
+                  "text": "End of the month in which such order under section 166 is received by the Assessing Officer."
+                },
+                "time_limit": {
+                  "text": "Two months."
+                }
               }
             ]
           }
         },
         {
           "type": "subsection",
+          "number": "2",
+          "id": "286-2",
+          "text": "Time limit for completion of any assessment or reassessment as provided in sub-section (1), in a case where reference is made to the Transfer Pricing Officer for determining the arm’s length price under section 166(1), shall be extended by an additional period of twelve months."
+        },
+        {
+          "type": "subsection",
           "number": "3",
           "id": "286-3",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
           "text_before_clauses": "For the purposes of this section, in computing the time limit for completion, the following period shall be excluded,—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "286-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the time taken in reopening the whole or any part of the proceeding on request of the assessee or in giving an opportunity to the assessee to be reheard under section 244; or",
-              "children": []
+              "text": "the time taken in reopening the whole or any part of the proceeding on request of the assessee or in giving an opportunity to the assessee to be re-heard under section 244; or"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "286-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing on the date on which stay on assessment proceeding was granted by an order or injunction of any court and ending on the date on which certified copy of the order vacating the stay was received by jurisdictional Principal Commissioner or Commissioner; or",
-              "children": []
+              "text": "the period commencing on the date on which stay on assessment proceeding was granted by an order or injunction of any court and ending on the date on which certified copy of the order vacating the stay was received by jurisdictional Principal Commissioner or Commissioner; or"
             },
             {
               "type": "clause",
               "number": "c",
               "id": "286-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which the Assessing Officer intimates the Central Government or the prescribed authority, the contravention of the provisions of Schedule III (Table: Sl. Nos. 23, 24, 25) or section 270(11)(i), and ending with the date on which the copy of the order withdrawing the approval or rescinding the notification, as the case may be, under those provisions is received by the Assessing Officer; or",
-              "children": []
+              "text": "the period commencing from the date on which the Assessing Officer intimates the Central Government or the prescribed authority, the contravention of the provisions of Schedule III (Table: Sl. Nos. 23, 24, 25) or section 270(11)(i), and ending with the date on which the copy of the order withdrawing the approval or rescinding the notification, as the case may be, under those provisions is received by the Assessing Officer; or"
             },
             {
               "type": "clause",
               "number": "d",
               "id": "286-3-d",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which the Assessing Officer directs the assessee to get his accounts audited or inventory valued under section 268(5) and—",
-              "children": [
+              "intro": "the period commencing from the date on which the Assessing Officer directs the assessee to get his accounts audited or inventory valued under section 268(5) and—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "286-3-d-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "ending with the last date on which the assessee is required to furnish a report of such audit or inventory valuation under that section; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "286-3-d-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
                   "text": "where such direction is challenged before a court, ending with the date on which the order setting aside such direction is received by the Principal Commissioner or Commissioner; or"
                 }
               ]
@@ -215,143 +242,85 @@
               "type": "clause",
               "number": "e",
               "id": "286-3-e",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which the Assessing Officer makes a reference to the Valuation Officer under section 269(1) and ending with the date on which the report of the Valuation Officer is received by him; or",
-              "children": []
+              "text": "the period commencing from the date on which the Assessing Officer makes a reference to the Valuation Officer under section 269(1) and ending with the date on which the report of the Valuation Officer is received by him; or"
             },
             {
               "type": "clause",
               "number": "f",
               "id": "286-3-f",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period (not exceeding sixty days) commencing from the date on which the Assessing Officer received the declaration under section 375(1) and ending with the date on which the order under section 375(3) is made by him; or",
-              "children": []
+              "text": "the period (not exceeding sixty days) commencing from the date on which the Assessing Officer received the declaration under section 375(1) and ending with the date on which the order under section 375(3) is made by him; or"
             },
             {
               "type": "clause",
               "number": "g",
               "id": "286-3-g",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which an application is made before the Board for Advance Rulings under section 383(1) and ending with the date on which the order either rejecting the application or the advance ruling pronounced by it, is received by the jurisdictional Principal Commissioner or Commissioner under section 384(5) or (8), as the case may be; or",
-              "children": []
+              "text": "the period commencing from the date on which an application is made before the Board for Advance Rulings under section 383(1) and ending with the date on which the order either rejecting the application or the advance ruling pronounced by it, is received by the jurisdictional Principal Commissioner or Commissioner under section 384(5) or (8), as the case may be; or"
             },
             {
               "type": "clause",
               "number": "h",
               "id": "286-3-h",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which a reference or first of the references for exchange of information is made by an authority competent under an agreement referred to in section 159 and ending with the date on which the information requested is last received by the jurisdictional Principal Commissioner or Commissioner, or one year, whichever is less; or",
-              "children": []
+              "text": "the period commencing from the date on which a reference or first of the references for exchange of information is made by an authority competent under an agreement referred to in section 159 and ending with the date on which the information requested is last received by the jurisdictional Principal Commissioner or Commissioner, or one year, whichever is less; or"
             },
             {
               "type": "clause",
               "number": "i",
               "id": "286-3-i",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which a reference for declaration of an arrangement to be an impermissible avoidance arrangement is received by the jurisdictional Principal Commissioner or Commissioner under section 274(1) and ending on the date on which a direction under subsection (3) or (6) or an order under sub-section (5) of the said section is received by the Assessing Officer; or",
-              "children": []
+              "text": "the period commencing from the date on which a reference for declaration of an arrangement to be an impermissible avoidance arrangement is received by the jurisdictional Principal Commissioner or Commissioner under section 274(1) and ending on the date on which a direction under sub-section (3) or (6) or an order under sub-section (5) of the said section is received by the Assessing Officer; or"
             },
             {
               "type": "clause",
               "number": "j",
               "id": "286-3-j",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the period commencing from the date on which the Assessing Officer makes a reference to the jurisdictional Principal Commissioner or Commissioner under section 270(13) and ending with the date on which copy of the order under section 351(2)(ii)(A) or (B), is received by the Assessing Officer.",
-              "children": []
+              "text": "the period commencing from the date on which the Assessing Officer makes a reference to the jurisdictional Principal Commissioner or Commissioner under section 270(13) and ending with the date on which copy of the order under section 351(2)(ii)(A) or (B), is received by the Assessing Officer."
             }
-          ],
-          "text_after_clauses": ""
+          ]
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "286-4",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Where immediately after exclusion of the period as mentioned in sub-section (3), the remaining period for completion available to the Assessing Officer, as specified in sub-section (1), for making an order of assessment, reassessment or recomputation, is less than sixty days, such remaining period shall be extended to sixty days and the aforesaid time limits for completion shall be deemed to have been extended accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where immediately after exclusion of the period as mentioned in sub-section (3), the remaining period for completion available to the Assessing Officer, as specified in sub-section (1), for making an order of assessment, reassessment or recomputation, is less than sixty days, such remaining period shall be extended to sixty days and the aforesaid time limits for completion shall be deemed to have been extended accordingly."
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "286-5",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Where the period available to the Transfer Pricing Officer is extended to sixty days as per section 166(8) and the remaining period for completion available to the Assessing Officer under this section, for making an order of assessment, reassessment or recomputation, is less than sixty days, such remaining period shall be extended to sixty days and the aforesaid time limit for completion shall be deemed to have been extended accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the period available to the Transfer Pricing Officer is extended to sixty days as per section 166(8) and the remaining period for completion available to the Assessing Officer under this section, for making an order of assessment, reassessment or recomputation, is less than sixty days, such remaining period shall be extended to sixty days and the aforesaid time limit for completion shall be deemed to have been extended accordingly."
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "286-6",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Where a proceeding before the Interim Board for Settlement abates under section 245HA of the Income-tax Act, 1961 (43 of 1961) and the remaining period of limitation available to the Assessing Officer under this section for making an order of assessment, reassessment or recomputation, after the exclusion of the period under section 245HA(4) of the Income-tax Act, 1961 (43 of 1961), is less than one year, such remaining period shall be deemed to have been extended to one year; and for the purposes of determining the period of limitation under sections 282, 287, 288 and 296 and for the purposes of payment of interest under section 437, this sub-section shall also apply accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where a proceeding before the Interim Board for Settlement abates under section 245HA of the Income-tax Act, 1961 (43 of 1961) and the remaining period of limitation available to the Assessing Officer under this section for making an order of assessment, reassessment or recomputation, after the exclusion of the period under section 245HA(4) of the Income-tax Act, 1961 (43 of 1961), is less than one year, such remaining period shall be deemed to have been extended to one year; and for the purposes of determining the period of limitation under sections 282, 287, 288 and 296 and for the purposes of payment of interest under section 437, this sub-section shall also apply accordingly."
         },
         {
           "type": "subsection",
           "number": "7",
           "id": "286-7",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "In a case where the remaining time period for making an order of regular assessment or reassessment, after excluding the time period specified in subsection (3)(j), ends before the end of the month, the remaining period shall be extended to the end of such month, and the specified time limit for completion shall be deemed to have been extended accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "In a case where the remaining time period for making an order of regular assessment or reassessment, after excluding the time period specified in sub-section (3)(j), ends before the end of the month, the remaining period shall be extended to the end of such month, and the specified time limit for completion shall be deemed to have been extended accordingly."
         },
         {
           "type": "subsection",
           "number": "8",
           "id": "286-8",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
           "text_before_clauses": "For the purposes of this section and section 283, where by an order referred to in entry in sub-section (1) (Table: Sl. No. 8.A)—",
-          "clauses": [],
-          "text_after_clauses": ""
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "286-8-i",
+              "text": "any income is excluded from the total income of the assessee for a tax year, then, an assessment of such income for another tax year shall be deemed as one made in consequence of or to give effect to any finding or direction contained in the said order; or"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "286-8-ii",
+              "text": "any income is excluded from the total income of one person and held to be the income of another person, then, an assessment of such income on such other person shall be deemed as one made in consequence of or to give effect to any finding or direction contained in the said order, if such other person was given an opportunity of being heard before the said order was passed."
+            }
+          ]
         }
-      ],
-      "text_after_subsections": ""
+      ]
     }
-  ],
-  "footnotes": [
-    {
-      "type": "footnote",
-      "number": "61",
-      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (2) read as under : \"(2) Time limit for completion of any assessment or reassessment as provided in sub-section (1), in a case where reference is made to the Transfer Pricing Officer for determining the arm's length price under section 166(1), shall be extended by an additional period of twelve months.\"",
-      "page_start": 1,
-      "page_end": 1
-    }
-  ],
-  "orphans": []
+  ]
 }

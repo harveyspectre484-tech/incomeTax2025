@@ -1,0 +1,706 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "46",
+      "id": "46",
+      "title": "Capital expenditure of specified business.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "46-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An assessee, at his option, shall be allowed a deduction of the whole of the capital expenditure incurred, wholly and exclusively, for the purposes of any specified business carried on by him during the tax year in which such expenditure is incurred.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "46-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the expenditure referred to in sub-section (1) is incurred prior to the commencement of its operations and such expenditure is capitalised in the books of account as on the date of commencement of its operations, it shall be allowed during the tax year in which such business is commenced.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "46-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "This section shall apply to the specified business fulfilling all of the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "46-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is not set up by splitting up, or the reconstruction, of an already existing business;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "46-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is not set up by the transfer of machinery or plant previously used for any purpose to the specified business;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "46-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the business is of the nature referred to in sub-section (11)(d)(iii) and such business—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-3-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "is owned by a company formed and registered in India under the Companies Act, 2013 (18 of 2013) or by a consortium of such companies or by an authority or a board or a corporation established or constituted under any Central Act or State Act;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-3-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has been approved by the Petroleum and Natural Gas Regulatory Board established under section 3(1) of the Petroleum and Natural Gas Regulatory Board Act, 2006 (19 of 2006) and notified by the Central Government in this behalf;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "46-3-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has made not less than such proportion of its total pipeline capacity as specified by regulations made by the Petroleum and Natural Gas Regulatory Board established under section 3(1) of the Petroleum and Natural Gas Regulatory Board Act, 2006 (19 of 2006) available for use on common carrier basis by any person other than the assessee or an associated person; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "46-3-c-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "fulfils any other condition as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "46-3-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the business is of the nature referred to in sub-section (11)(d)(xiv), such business,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-3-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "is owned by a company registered in India or by a consortium of such companies or by an authority or a board or corporation or any other body established or constituted under any Central Act or State Act;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-3-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "entity referred to in sub-clause (i) has entered into an agreement with the Central Government or a State Government or a local authority or any other statutory body for developing or operating and maintaining or developing, operating and maintaining a new infrastructure facility."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "46-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction shall be allowed under the provisions of Chapter VIII-C in relation to such specified business for the same or any other tax year, if a deduction under sub-section (1) is claimed and allowed.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "46-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction in respect of the expenditure referred to in sub-section (1) shall be allowed to the assessee under any other section in any tax year or under this section in any other tax year, if the deduction has been claimed and allowed to him under this section.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "46-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall apply to the specified business referred to in column B of the Table below if it commences its operations as specified in column C thereof.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "46-6-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Nature of specified business",
+              "Date of commencement of operations being on or after"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "nature_of_specified_business": "Laying and operating a cross-country natural gas pipeline network for distribution, including storage facilities being an integral part of such network.",
+                "date_of_commencement_of_operations_being_on_or_after": "Laying and operating a cross-country natural gas pipeline network for distribution, including storage facilities being an integral part of such network."
+              },
+              {
+                "sl_no": "2",
+                "nature_of_specified_business": "Building and operating a new hotel of two star or above category as classified by the Central Government.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2010."
+              },
+              {
+                "sl_no": "3",
+                "nature_of_specified_business": "Building and operating a new hospital with at least 100 beds for patients.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2010."
+              },
+              {
+                "sl_no": "4",
+                "nature_of_specified_business": "Developing and building a housing project under a scheme for slum redevelopment or rehabilitation framed by the Central Government or a State Government, and which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2010."
+              },
+              {
+                "sl_no": "5",
+                "nature_of_specified_business": "Developing and building a housing project under a scheme for affordable housing framed by the Central Government or a State Government, and which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2011."
+              },
+              {
+                "sl_no": "6",
+                "nature_of_specified_business": "A new plant or a newly installed capacity in an existing plant for production of fertilizer.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2011."
+              },
+              {
+                "sl_no": "7",
+                "nature_of_specified_business": "Setting up and operating an inland container depot or a container freight station notified or approved under the Customs Act, 1962 (52 of 1962).",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2012."
+              },
+              {
+                "sl_no": "8",
+                "nature_of_specified_business": "Bee-keeping and production of honey and beeswax.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2012."
+              },
+              {
+                "sl_no": "9",
+                "nature_of_specified_business": "Setting up and operating a warehousing facility for storage of sugar.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2012."
+              },
+              {
+                "sl_no": "10",
+                "nature_of_specified_business": "Laying and operating a slurry pipeline for the transportation of iron ore.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2014."
+              },
+              {
+                "sl_no": "11",
+                "nature_of_specified_business": "Setting up and operating a semi-conductor wafer fabrication manufacturing unit, and which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2014."
+              },
+              {
+                "sl_no": "12",
+                "nature_of_specified_business": "Developing, or operating and maintaining, or developing, operating and maintaining, any infrastructure facility.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2017."
+              },
+              {
+                "sl_no": "13",
+                "nature_of_specified_business": "In all other cases.",
+                "date_of_commencement_of_operations_being_on_or_after": "1st April, 2009."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "46-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the assessee builds a hotel of two star or above category as classified by the Central Government and subsequently, transfers the hotel operation thereof to another person while retaining its ownership, the assessee shall be deemed to be carrying on the specified business referred to in sub-section (11)(d) (iv).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "46-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions contained in sections 122(6) and 140(8) and (13) shall, so far as may be, apply to this section in respect of goods or services or assets held for the purposes of the specified business.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "46-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any asset for which a deduction is claimed and allowed under this section—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "46-9-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "shall be used only for the specified business for a period of eight years beginning with the tax year in which such asset is acquired or constructed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "46-9-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is used for the purpose other than specified business during the period referred to in clause (a), and is not chargeable to tax under section 26(2)(k), then the total amount of deduction so claimed and allowed in one or more tax years, as reduced by the amount of depreciation allowable under section 33, as if no deduction under this section was allowed, shall be deemed to be the income chargeable under the head \"Profits and gains of business or profession\" of the tax year in which the asset is so used.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "46-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (9)(b) shall not apply to a company which has become a sick industrial company under section 17(1) of the Sick Industrial Companies (Special Provisions) Act, 1985 (1 of 1986), as it stood before its repeal by the Sick Industrial Companies (Special Provisions) Repeal Act, 2003 (1 of 2004) during the period specified in sub-section (9)(a).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "46-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "46-11-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"associated person\", in relation to the assessee, means a person,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-11-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who participates, directly or indirectly, or through one or more intermediaries in the management or control or capital of the assessee;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-11-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who holds, directly or indirectly, shares carrying at least 26% of the voting power in the capital of the assessee;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "46-11-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who appoints more than half of the board of directors or members of the governing board, or one or more executive directors or executive members of the governing board of the assessee; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "46-11-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who guarantees at least 10% of the total borrowings of the assessee;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "46-11-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"cold chain facility\" means a chain of facilities for storage or transportation of agricultural and forest produce, meat and meat products, poultry, marine and dairy products, products of horticulture, floriculture and apiculture and processed food items under scientifically controlled conditions including refrigeration and other facilities necessary for the preservation of such produce;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "46-11-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"infrastructure facility\" means—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-11-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a road including toll road, a bridge or a rail system;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-11-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a highway project including housing or other activities being an integral part of the highway project;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "46-11-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a water supply project, water treatment system, irrigation project, sanitation and sewerage system or solid waste management system;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "46-11-c-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a port, airport, inland waterway, inland port or navigational channel in the sea;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "46-11-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified business\" means any one or more of the following businesses:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-11-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "setting up and operating a cold chain facility;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-11-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "setting up and operating a warehousing facility for storage of agricultural produce;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "46-11-d-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "laying and operating a cross-country natural gas or crude or petroleum oil pipeline network for distribution, including storage facilities being an integral part of such network;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "46-11-d-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "building and operating, anywhere in India, a hotel of two star or above category as classified by the Central Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "46-11-d-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "building and operating, anywhere in India, a hospital with at least 100 beds for patients;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "46-11-d-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "developing and building a housing project under a scheme for slum redevelopment or rehabilitation framed by the Central Government or a State Government and which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vii",
+                  "id": "46-11-d-vii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "developing and building a housing project under a scheme for affordable housing framed by the Central Government or a State Government and which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "viii",
+                  "id": "46-11-d-viii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "production of fertilizer in India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "x",
+                  "id": "46-11-d-x",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "bee-keeping and production of honey and beeswax;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ix",
+                  "id": "46-11-d-ix",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "setting up and operating an inland container depot or a container freight station notified or approved under the Customs Act, 1962 (52 of 1962);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "xi",
+                  "id": "46-11-d-xi",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "setting up and operating a warehousing facility for storage of sugar;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "xii",
+                  "id": "46-11-d-xii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "laying and operating a slurry pipeline for the transportation of iron ore;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "xiii",
+                  "id": "46-11-d-xiii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "setting up and operating a semi-conductor wafer fabrication manufacturing unit which is notified by the Board in this behalf in accordance with the guidelines as may be prescribed; (xiv) developing, or maintaining and operating, or developing, maintaining and operating, a new infrastructure facility;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "46-11-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any machinery or plant which was used outside India by any person other than the assessee shall not be regarded as machinery or plant previously used for any purpose, if—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-11-e-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such machinery or plant was not, at any time before the date of the installation by the assessee, used in India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-11-e-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such machinery or plant is imported into India; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "46-11-e-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "no deduction of depreciation for such machinery or plant has been allowed or is allowable under the provisions of this Act in computing the total income of any person for any period before the date of installation of the machinery or plant by the assessee;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "46-11-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if any machinery or plant or its part previously used for any purpose is transferred to the specified business and its total value does not exceed 20% of the total value of the machinery or plant used in such business, then the conditions specified in sub-section (3)(b) shall be deemed to be complied with;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "46-11-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any expenditure of capital nature shall not include any expenditure—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "46-11-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "for which the payment or aggregate of payments made to a person in a day, is not through specified banking or online mode, exceeds Rs. 10000; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "46-11-g-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "incurred on the acquisition of any land or goodwill or financial instrument."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

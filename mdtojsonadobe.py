@@ -1,3 +1,4 @@
+
 """
 Convert Markdown extracted from an Income-tax Act PDF into structured JSON.
 

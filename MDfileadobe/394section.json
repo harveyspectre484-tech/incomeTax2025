@@ -6,321 +6,219 @@
       "number": "394",
       "id": "394",
       "title": "Collection of tax at source.",
-      "x": 27.62,
-      "y_start": 80.59,
-      "page_start": 1,
-      "page_end": 1,
+      "chapter": "CHAPTER XIX - Collection and recovery of tax",
+      "act": "Income-tax Act, 2025",
       "text_before_subsections": "",
       "subsections": [
         {
           "type": "subsection",
           "number": "1",
           "id": "394-1",
-          "x": 27.62,
-          "y_start": 95.44,
-          "page_start": 1,
-          "page_end": 1,
           "text_before_clauses": "Every person, as specified in column C of the Table below shall collect tax—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "394-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "on receipts specified in column B;",
-              "children": []
+              "text": "on receipts specified in column B;"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "394-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "at the rate as specified in column D; and",
-              "children": []
+              "text": "at the rate as specified in column D; and"
             },
             {
               "type": "clause",
               "number": "c",
               "id": "394-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "at the time of debiting of the amount payable by the buyer or licensee or lessee to the account of the buyer or licensee or lessee or at the time of receipt of such amount from the said buyer or licensee or lessee in cash or by way of a cheque or a draft or any other mode, whichever is earlier. TAX COLLECTION AT SOURCE",
-              "children": [],
-              "table": {
-                "type": "table",
-                "id": "394-1-c-table",
-                "x": 27.62,
-                "y_start": 150.0,
-                "page_start": 1,
-                "page_end": 1,
-                "columns": [
-                  "Sl. No.",
-                  "Nature of receipt",
-                  "Person",
-                  "Rate of Tax Collected at Source"
-                ],
-                "rows": [
-                  {
-                    "sl_no": "1",
-                    "nature_of_receipt": "Sale of alcoholic liquor for human consumption.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "2",
-                    "nature_of_receipt": "Sale of tendu leaves.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "3",
-                    "nature_of_receipt": "Sale of timber whether obtained under a forest lease or otherwise; or any other forest produce (not being timber or tendu leaves) obtained under a forest lease.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "4",
-                    "nature_of_receipt": "Sale of scrap.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "5",
-                    "nature_of_receipt": "Sale of minerals, being coal or lignite or iron ore.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "6",
-                    "nature_of_receipt": {
-                      "text_before_items": "Sale consideration exceeding ten lakh rupees in case of—",
-                      "items": [
-                        {
-                          "letter": "a",
-                          "id": "394-1-c-table-B-a",
-                          "text": "motor vehicle; or"
-                        },
-                        {
-                          "letter": "b",
-                          "id": "394-1-c-table-B-b",
-                          "text": "any other goods, as may be notified by the Central Government."
-                        }
-                      ]
-                    },
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "1%"
-                  },
-                  {
-                    "sl_no": "7",
-                    "nature_of_receipt": "Remittance under the Liberalised Remittance Scheme of an amount or aggregate of the amounts exceeding ten lakh rupees—",
-                    "person": "Authorised dealer.",
-                    "rate_of_tax_collected_at_source": {
-                      "text_before_items": "",
-                      "items": [
-                        {
-                          "letter": "a",
-                          "id": "394-1-c-table-D-a",
-                          "text": "2% for purposes of education or medical treatment;"
-                        },
-                        {
-                          "letter": "b",
-                          "id": "394-1-c-table-D-b",
-                          "text": "20% for purposes other than education or medical treatment."
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "sl_no": "8",
-                    "nature_of_receipt": "Sale of \"overseas tour programme package\" including expenses for travel or hotel stay or boarding or lodging or any such similar or related expenditure.",
-                    "person": "Seller.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  },
-                  {
-                    "sl_no": "9",
-                    "nature_of_receipt": "Use of parking lot or toll plaza or mine or quarry for the purpose of business, excluding mining and quarrying of mineral oil (including petroleum and natural gas).",
-                    "person": "Licensor or Lessor.",
-                    "rate_of_tax_collected_at_source": "2%"
-                  }
-                ]
-              }
+              "text": "at the time of debiting of the amount payable by the buyer or licensee or lessee to the account of the buyer or licensee or lessee or at the time of receipt of such amount from the said buyer or licensee or lessee in cash or by way of a cheque or a draft or any other mode, whichever is earlier."
             }
           ],
-          "text_after_clauses": ""
+          "table": {
+            "type": "table",
+            "caption": "TABLE - TAX COLLECTION AT SOURCE",
+            "columns": [
+              "Sl. No.",
+              "Nature of receipt",
+              "Person",
+              "Rate of Tax Collected at Source"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "nature_of_receipt": "Sale of alcoholic liquor for human consumption.",
+                "person": "Seller.",
+                "rate": "2%",
+                "footnote_ref": "86"
+              },
+              {
+                "sl_no": "2",
+                "nature_of_receipt": "Sale of tendu leaves.",
+                "person": "Seller.",
+                "rate": "2%",
+                "footnote_ref": "87"
+              },
+              {
+                "sl_no": "3",
+                "nature_of_receipt": "Sale of timber whether obtained under a forest lease or otherwise; or any other forest produce (not being timber or tendu leaves) obtained under a forest lease.",
+                "person": "Seller.",
+                "rate": "2%"
+              },
+              {
+                "sl_no": "4",
+                "nature_of_receipt": "Sale of scrap.",
+                "person": "Seller.",
+                "rate": "2%",
+                "footnote_ref": "88"
+              },
+              {
+                "sl_no": "5",
+                "nature_of_receipt": "Sale of minerals, being coal or lignite or iron ore.",
+                "person": "Seller.",
+                "rate": "2%",
+                "footnote_ref": "88a"
+              },
+              {
+                "sl_no": "6",
+                "nature_of_receipt": {
+                  "intro": "Sale consideration exceeding ten lakh rupees in case of—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "394-1-t6-a",
+                      "text": "motor vehicle; or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "394-1-t6-b",
+                      "text": "any other goods, as may be notified by the Central Government."
+                    }
+                  ]
+                },
+                "person": "Seller.",
+                "rate": "1%"
+              },
+              {
+                "sl_no": "7",
+                "nature_of_receipt": "Remittance under the Liberalised Remittance Scheme of an amount or aggregate of the amounts exceeding ten lakh rupees—",
+                "person": "Authorised dealer.",
+                "rate": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "394-1-t7-rate-a",
+                      "text": "2%, for purposes of education or medical treatment;"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "394-1-t7-rate-b",
+                      "text": "20%, for purposes other than education or medical treatment."
+                    }
+                  ]
+                },
+                "footnote_ref": "88b, 89"
+              },
+              {
+                "sl_no": "8",
+                "nature_of_receipt": "Sale of \"overseas tour programme package\" including expenses for travel or hotel stay or boarding or lodging or any such similar or related expenditure.",
+                "person": "Seller.",
+                "rate": "2%"
+              },
+              {
+                "sl_no": "9",
+                "nature_of_receipt": "Use of parking lot or toll plaza or mine or quarry for the purpose of business, excluding mining and quarrying of mineral oil (including petroleum and natural gas).",
+                "person": "Licensor or Lessor.",
+                "rate": "2%"
+              }
+            ]
+          }
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "394-2",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Irrespective of anything contained in sub-section (1) (Table: Sl. Nos. 1 to 5), the collection of tax shall not to be made in respect of receipts specified in sub-section (1) (Table: Sl. Nos. 1 to 5) in respect of the buyer, who is a resident in India, if he furnishes a written declaration in duplicate in such form and manner, as may be prescribed, to the person responsible for collecting tax, mentioning that such goods are to be utilised—",
+          "text_before_clauses": "Irrespective of anything contained in sub-section (1) (Table: Sl. Nos. 1 to 5), the collection of tax shall not be made in respect of receipts specified in sub-section (1) (Table: Sl. Nos. 1 to 5) in respect of the buyer, who is a resident in India, if he furnishes a written declaration in duplicate in such form and manner, as may be prescribed, to the person responsible for collecting tax, mentioning that such goods are to be utilised—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "394-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "for the purposes of manufacturing, processing or producing articles or things or for generating power; and",
-              "children": []
+              "text": "for the purposes of manufacturing, processing or producing articles or things or for generating power; and"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "394-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "not for trading purposes.",
-              "children": []
+              "text": "not for trading purposes."
             }
-          ],
-          "text_after_clauses": ""
+          ]
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "394-3",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Where no collection of tax is to be made under sub-section (2), the person responsible for collecting tax shall deliver or cause to be delivered, one copy of the declaration referred to in that sub-section, to the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, on or before the seventh day of the month following the month of receipt of that declaration.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where no collection of tax is to be made under sub-section (2), the person responsible for collecting tax shall deliver or cause to be delivered, one copy of the declaration referred to in that sub-section, to the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, on or before the seventh day of the month following the month of receipt of that declaration."
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "394-4",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The collection of tax shall not be made by the authorised dealer in respect of receipt specified in sub-section (1) (Table: Sl. No.7),—",
+          "text_before_clauses": "The collection of tax shall not be made by the authorised dealer in respect of receipt specified in sub-section (1) (Table: Sl. No. 7),—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "394-4-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "on such amount on which tax has been collected by the seller in respect of receipt referred to in sub-section (1) (Table: Sl. No. 8);",
-              "children": []
+              "text": "on such amount on which tax has been collected by the seller in respect of receipt referred to in sub-section (1) (Table: Sl. No. 8);"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "394-4-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "if the amount being remitted out is a loan obtained from any financial institution as defined in section 129(3)(b), for the purpose of pursuing any education.",
-              "children": []
+              "text": "if the amount being remitted out is a loan obtained from any financial institution as defined in section 129(3)(b), for the purpose of pursuing any education."
             }
-          ],
-          "text_after_clauses": ""
+          ]
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "394-5",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The collection of tax shall not be made by the authorised dealer or seller, in respect of receipt specified in sub-section (1) (Table: Sl. Nos. 7 and 8), if the buyer is liable to deduct tax at source under any other provisions of this Act and he has deducted such tax.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The collection of tax shall not be made by the authorised dealer or seller, in respect of receipt specified in sub-section (1) (Table: Sl. Nos. 7 and 8), if the buyer is liable to deduct tax at source under any other provisions of this Act and he has deducted such tax."
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "394-6",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"forest produce\" shall have the same meaning as defined in any State Act for the time being in force, or in the Indian Forest Act, 1927 (16 of 1927).",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "394-6-b",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "20% of amount or aggregate of amounts exceeding ten lakh rupees.\"",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, \"forest produce\" shall have the same meaning as defined in any State Act for the time being in force, or in the Indian Forest Act, 1927 (16 of 1927)."
         }
       ],
-      "text_after_subsections": ""
+      "footnotes": [
+        {
+          "number": "86",
+          "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026."
+        },
+        {
+          "number": "87",
+          "text": "Sub. for \"5%\" by Act No. 4 of 2026, w.e.f. 1-4-2026."
+        },
+        {
+          "number": "88",
+          "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026."
+        },
+        {
+          "number": "88a",
+          "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026."
+        },
+        {
+          "number": "88b",
+          "text": "Sub. for \"5%\" by Act No. 4 of 2026, w.e.f. 1-4-2026."
+        },
+        {
+          "number": "89",
+          "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, clauses (a) and (b) read as under: \"(a) 5% of amount or aggregate of amounts up to ten lakh rupees; (b) 20% of amount or aggregate of amounts exceeding ten lakh rupees.\""
+        }
+      ]
     }
-  ],
-  "footnotes": [
-    {
-      "type": "footnote",
-      "number": "86",
-      "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 1,
-      "page_end": 1
-    },
-    {
-      "type": "footnote",
-      "number": "87",
-      "text": "Sub. for \"5%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 1,
-      "page_end": 1
-    },
-    {
-      "type": "footnote",
-      "number": "88",
-      "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 1,
-      "page_end": 1
-    },
-    {
-      "type": "footnote",
-      "number": "88a",
-      "text": "Sub. for \"1%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 1,
-      "page_end": 1
-    },
-    {
-      "type": "footnote",
-      "number": "88b",
-      "text": "Sub. for \"5%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 1,
-      "page_end": 1
-    },
-    {
-      "type": "footnote",
-      "number": "89",
-      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, clauses (a) and (b) read as under : \"(a) 5% of amount or aggregate of amounts up to ten lakh rupees;",
-      "page_start": 1,
-      "page_end": 1
-    }
-  ],
-  "orphans": []
+  ]
 }

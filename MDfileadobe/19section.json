@@ -6,6 +6,8 @@
       "number": "19",
       "id": "19",
       "title": "Deductions from salaries.",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
       "x": 27.62,
       "y_start": 80.59,
       "page_start": 1,
@@ -20,83 +22,10 @@
           "y_start": 95.44,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "19-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "under the Industrial Disputes Act, 1947 (14 of 1947); or",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "under any other Act or rules, orders or notifications issued thereunder; or",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "c",
-              "id": "19-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "under any standing orders; or",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "d",
-              "id": "19-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "under any award, contract of service or other-wise.",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "19-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the need for extending special protection to the workmen in the undertaking to which such scheme applies; and",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "other relevant circum-stances.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": "",
+          "text_before_table": "The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:—",
           "table": {
             "type": "table",
-            "id": "19-1-table",
-            "x": 27.62,
-            "y_start": 150.0,
-            "page_start": 1,
-            "page_end": 1,
+            "caption": "TABLE",
             "columns": [
               "Sl. No.",
               "Nature of sum",
@@ -105,23 +34,28 @@
             "rows": [
               {
                 "sl_no": "1",
-                "nature_of_sum": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.",
-                "amount_of_deduction": "Entire amount."
+                "nature_of_sum": {
+                  "text": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law."
+                },
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "2",
-                "nature_of_sum": "Standard deduction.",
+                "nature_of_sum": {
+                  "text": "Standard deduction."
+                },
                 "amount_of_deduction": {
-                  "text_before_items": "",
                   "items": [
                     {
-                      "letter": "a",
-                      "id": "19-1-table-C-a",
+                      "marker": "a",
+                      "id": "19-1-t2-amt-a",
                       "text": "Rs. 75000 or the salary, whichever is less, where income-tax is computed under section 202(1);"
                     },
                     {
-                      "letter": "b",
-                      "id": "19-1-table-C-b",
+                      "marker": "b",
+                      "id": "19-1-t2-amt-b",
                       "text": "Rs. 50000 or the salary, whichever is less, in any other case."
                     }
                   ]
@@ -129,69 +63,71 @@
               },
               {
                 "sl_no": "3",
-                "nature_of_sum": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g).",
-                "amount_of_deduction": "Entire amount."
+                "nature_of_sum": {
+                  "text": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g)."
+                },
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "4",
-                "nature_of_sum": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.",
-                "amount_of_deduction": "Entire amount."
+                "nature_of_sum": {
+                  "text": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services."
+                },
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "5",
-                "nature_of_sum": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).",
+                "nature_of_sum": {
+                  "text": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972)."
+                },
                 "amount_of_deduction": {
-                  "text_before_items": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and",
-                  "items": [
-                    {
-                      "letter": "3",
-                      "id": "19-1-table-C-3",
-                      "text": "of the said Act."
-                    }
-                  ]
+                  "text": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act."
                 }
               },
               {
                 "sl_no": "6",
                 "nature_of_sum": {
-                  "text_before_items": "Any other gratuity received by an employee—",
+                  "intro": "Any other gratuity received by an employee—",
                   "items": [
                     {
-                      "letter": "i",
-                      "id": "19-1-table-B-i",
-                      "text": "on his retirement;",
-                      "children": [
-                        {
-                          "numeral": "ii",
-                          "id": "19-1-table-B-i-ii",
-                          "text": "on his becoming incapaci-tated before such retire-ment;"
-                        },
-                        {
-                          "numeral": "iii",
-                          "id": "19-1-table-B-i-iii",
-                          "text": "on termination of his employment."
-                        }
-                      ]
+                      "marker": "i",
+                      "id": "19-1-t6-nat-i",
+                      "text": "on his retirement; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "19-1-t6-nat-ii",
+                      "text": "on his becoming incapacitated before such retirement; or"
+                    },
+                    {
+                      "marker": "iii",
+                      "id": "19-1-t6-nat-iii",
+                      "text": "on termination of his employment."
                     }
                   ]
                 },
                 "amount_of_deduction": {
-                  "text_before_items": "Amount being minimum of—",
+                  "intro": "Amount being minimum of—",
                   "items": [
                     {
-                      "letter": "a",
-                      "id": "19-1-table-C-a",
+                      "marker": "a",
+                      "id": "19-1-t6-amt-a",
                       "text": "actual gratuity received;"
                     },
                     {
-                      "letter": "b",
-                      "id": "19-1-table-C-b",
+                      "marker": "b",
+                      "id": "19-1-t6-amt-b",
                       "text": "amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and"
                     },
                     {
-                      "letter": "c",
-                      "id": "19-1-table-C-c",
-                      "text": "half month's salary for each completed year of service, calculated as under:— where,— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
+                      "marker": "c",
+                      "id": "19-1-t6-amt-c",
+                      "text": "half month's salary for each completed year of service, calculated as under:—",
+                      "formula": "A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
                     }
                   ]
                 }
@@ -199,63 +135,67 @@
               {
                 "sl_no": "7",
                 "nature_of_sum": {
-                  "text_before_items": "Payment in commutation of pension received—",
+                  "intro": "Payment in commutation of pension received—",
                   "items": [
                     {
-                      "letter": "a",
-                      "id": "19-1-table-B-a",
+                      "marker": "a",
+                      "id": "19-1-t7-nat-a",
                       "text": "under the Civil Pensions (Commutation) Rules of the Central Government; or"
                     },
                     {
-                      "letter": "b",
-                      "id": "19-1-table-B-b",
-                      "text": "under any similar scheme applicable to—"
-                    },
-                    {
-                      "letter": "i",
-                      "id": "19-1-table-B-i",
-                      "text": "the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)]",
-                      "children": [
+                      "marker": "b",
+                      "id": "19-1-t7-nat-b",
+                      "intro": "under any similar scheme applicable to—",
+                      "items": [
                         {
-                          "numeral": "ii",
-                          "id": "19-1-table-B-i-ii",
-                          "text": "the members of the all-India services"
+                          "marker": "i",
+                          "id": "19-1-t7-nat-b-i",
+                          "text": "the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union, [such members or holders not covered under (a)];"
                         },
                         {
-                          "numeral": "iii",
-                          "id": "19-1-table-B-i-iii",
-                          "text": "the members of the defence services"
+                          "marker": "ii",
+                          "id": "19-1-t7-nat-b-ii",
+                          "text": "the members of the all-India services;"
                         },
                         {
-                          "numeral": "iv",
-                          "id": "19-1-table-B-i-iv",
+                          "marker": "iii",
+                          "id": "19-1-t7-nat-b-iii",
+                          "text": "the members of the defence services;"
+                        },
+                        {
+                          "marker": "iv",
+                          "id": "19-1-t7-nat-b-iv",
                           "text": "the members of the civil services of a State, or the holders of civil posts under a State; or"
+                        },
+                        {
+                          "marker": "v",
+                          "id": "19-1-t7-nat-b-v",
+                          "text": "the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act."
                         }
                       ]
-                    },
-                    {
-                      "letter": "v",
-                      "id": "19-1-table-B-v",
-                      "text": "the employees of a local authority or a corporation established by a Central Act or State Act or Provincial Act."
                     }
                   ]
                 },
-                "amount_of_deduction": "Entire amount."
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "8",
-                "nature_of_sum": "Payment in commutation of pension is received under any scheme from any other employer.",
+                "nature_of_sum": {
+                  "text": "Payment in commutation of pension is received under any scheme from any other employer."
+                },
                 "amount_of_deduction": {
-                  "text_before_items": "The commuted value shall be deter-mined having regard to the age of the recipient, the state of his health, the rate of interest and officially recognised tables of mortality, and—",
+                  "intro": "The commuted value shall be determined having regard to the age of the recipient, the state of his health, the rate of interest and officially recognised tables of mortality, and—",
                   "items": [
                     {
-                      "letter": "a",
-                      "id": "19-1-table-C-a",
+                      "marker": "a",
+                      "id": "19-1-t8-amt-a",
                       "text": "where the employee has received gratuity, the commuted value of one-third of the pension, which he is normally entitled to receive; and"
                     },
                     {
-                      "letter": "b",
-                      "id": "19-1-table-C-b",
+                      "marker": "b",
+                      "id": "19-1-t8-amt-b",
                       "text": "in any other case, the commuted value of one-half of such pension."
                     }
                   ]
@@ -263,33 +203,143 @@
               },
               {
                 "sl_no": "9",
-                "nature_of_sum": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3).",
-                "amount_of_deduction": "Entire amount."
+                "nature_of_sum": {
+                  "text": "Payment in commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3)."
+                },
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "10",
-                "nature_of_sum": "Compensation received by a workman at the time of his retrenchment—",
-                "amount_of_deduction": ""
+                "nature_of_sum": {
+                  "intro": "Compensation received by a workman at the time of his retrenchment—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "19-1-t10-nat-a",
+                      "text": "under the Industrial Disputes Act, 1947 (14 of 1947); or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "19-1-t10-nat-b",
+                      "text": "under any other Act or rules, orders or notifications issued thereunder; or"
+                    },
+                    {
+                      "marker": "c",
+                      "id": "19-1-t10-nat-c",
+                      "text": "under any standing orders; or"
+                    },
+                    {
+                      "marker": "d",
+                      "id": "19-1-t10-nat-d",
+                      "text": "under any award, contract of service or otherwise."
+                    }
+                  ]
+                },
+                "amount_of_deduction": {
+                  "intro": "Minimum of—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "19-1-t10-amt-a",
+                      "text": "compensation received;"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "19-1-t10-amt-b",
+                      "text": "amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947);"
+                    },
+                    {
+                      "marker": "c",
+                      "id": "19-1-t10-amt-c",
+                      "text": "such amount, not being less than Rs. 50000, as may be notified by the Central Government."
+                    }
+                  ]
+                }
               },
               {
                 "sl_no": "11",
-                "nature_of_sum": "In case of compensation referred to in Sl. No. 10, where such compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—",
-                "amount_of_deduction": ""
+                "nature_of_sum": {
+                  "intro": "In case of compensation referred to in Sl. No. 10, where such compensation received is in accordance with any scheme which the Central Government may approve in this behalf, having regard to—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "19-1-t11-nat-a",
+                      "text": "the need for extending special protection to the workmen in the undertaking to which such scheme applies; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "19-1-t11-nat-b",
+                      "text": "other relevant circumstances."
+                    }
+                  ]
+                },
+                "amount_of_deduction": {
+                  "text": "Compensation received."
+                }
               },
               {
                 "sl_no": "12",
-                "nature_of_sum": "Amount received or receivable on voluntary retirement or termination of service under a scheme or schemes of voluntary retirement, by an employee as referred to in sub-section (2)(h).",
-                "amount_of_deduction": ""
+                "nature_of_sum": {
+                  "text": "Amount received or receivable on voluntary retirement or termination of service under a scheme or schemes of voluntary retirement, by an employee as referred to in sub-section (2)(h)."
+                },
+                "amount_of_deduction": {
+                  "intro": "Minimum of—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "19-1-t12-amt-a",
+                      "text": "compensation received; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "19-1-t12-amt-b",
+                      "text": "Rs. 500000."
+                    }
+                  ]
+                }
               },
               {
                 "sl_no": "13",
-                "nature_of_sum": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise.",
-                "amount_of_deduction": ""
+                "nature_of_sum": {
+                  "text": "Payment received by an employee of the Central Government or a State Government as the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement whether on superannuation or otherwise."
+                },
+                "amount_of_deduction": {
+                  "text": "Entire amount."
+                }
               },
               {
                 "sl_no": "14",
-                "nature_of_sum": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.",
-                "amount_of_deduction": ""
+                "nature_of_sum": {
+                  "text": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee."
+                },
+                "amount_of_deduction": {
+                  "intro": "Amount being minimum of—",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "19-1-t14-amt-a",
+                      "text": "the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service);"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "19-1-t14-amt-b",
+                      "text": "amount \"A\",",
+                      "formula": "A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;"
+                    },
+                    {
+                      "marker": "c",
+                      "id": "19-1-t14-amt-c",
+                      "text": "amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and"
+                    },
+                    {
+                      "marker": "d",
+                      "id": "19-1-t14-amt-d",
+                      "text": "actual payment received."
+                    }
+                  ]
+                }
               }
             ]
           }
@@ -298,191 +348,89 @@
           "type": "subsection",
           "number": "2",
           "id": "19-2",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "For the purposes of the Table referred to in sub-section (1),— Minimum of—",
+          "text_before_clauses": "For the purposes of the Table referred to in sub-section (1),—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
               "id": "19-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "compensation received;",
-              "children": []
+              "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed—",
+              "formula": "A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;"
             },
             {
               "type": "clause",
               "number": "b",
               "id": "19-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "amount calculated as per provisions of section 25F(b) of the Industrial Disputes Act, 1947 (14 of 1947);",
-              "children": []
+              "text": "in respect of the entries against serial numbers 6 and 14 thereof, \"Salary\" includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites;"
             },
             {
               "type": "clause",
               "number": "c",
               "id": "19-2-c",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "such amount, not being less than Rs. 50000, as may be notified by the Central Government. Compensation received. Minimum of—",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "19-2-a",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "compensation received; and",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-2-b",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "Rs. 500000. Entire amount. Amount being minimum of—",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "19-2-a",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service);",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-2-b",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "amount \"A\", where,— A=10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "c",
-              "id": "19-2-c",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and",
-              "children": []
+              "intro": "in respect of the entries against serial numbers 10 and 11 thereof, the following amounts shall be deemed to be compensation received at the time of retrenchment:—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "19-2-c-i",
+                  "text": "compensation received by a workman at the time of the closing down of the undertaking in which he is employed;"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "19-2-c-ii",
+                  "intro": "compensation received by a workman, at the time of the transfer (whether by agreement or by operation of law) of the ownership or management of the undertaking in which he is employed, from the employer in relation to that undertaking to a new employer, if—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "19-2-c-ii-A",
+                      "text": "the service of the workman has been interrupted by such transfer; or"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "19-2-c-ii-B",
+                      "text": "the terms and conditions of service applicable to the workman after such transfer are in any way less favourable to the workman than those applicable to him immediately before such transfer; or"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "C",
+                      "id": "19-2-c-ii-C",
+                      "text": "the new employer is, under the terms of such transfer or otherwise, legally not liable to pay to the workman, in the event of his retrenchment or compensation on the basis that his service has been continuous and has not been interrupted by such transfer;"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "type": "clause",
               "number": "d",
               "id": "19-2-d",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "actual payment received.",
-              "children": []
+              "text": "in respect of the entries against serial numbers 10 and 11 thereof, the expressions \"employer\" and \"workman\" shall have the same meanings as respectively assigned to them in the Industrial Disputes Act, 1947 (14 of 1947);"
             },
             {
               "type": "clause",
-              "number": "a",
-              "id": "19-2-a",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "19-2-b",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in respect of the entries against serial numbers 6 and 14 thereof, \"Salary\" includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites;",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "c",
-              "id": "19-2-c",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in respect of the entries against serial numbers 10 and 11 thereof, the following amounts shall be deemed to be compensation received at the time of retrenchment:—",
-              "children": [
+              "number": "e",
+              "id": "19-2-e",
+              "intro": "the provisions of the entries against serial number 12 thereof shall be subject to the following conditions:—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
-                  "id": "19-2-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "compensation received by a workman at the time of the closing down of the undertaking in which he is employed;"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "19-2-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "compensation received by a workman, at the time of the transfer (whether by agreement or by operation of law) of the ownership or management of the undertaking in which he is employed, from the employer in relation to that undertaking to a new employer, if—"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "i",
-                  "id": "19-2-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-e-i",
                   "text": "the applicable schemes of the said companies or authorities or societies or Universities or the institutes referred to in clauses (h)(vii) and (x), governing the payment of such amount are made as per such guidelines (including, inter alia, criteria of economic viability) as may be issued in this behalf;"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
-                  "id": "19-2-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-e-ii",
                   "text": "where deduction has been allowed to an employee in respect of the said item for any tax year, no deduction thereunder shall be allowed to him in relation to any other tax year; and"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
-                  "id": "19-2-c-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-e-iii",
                   "text": "where any relief under section 157 has been allowed to an assessee for any tax year in respect of any amount referred to in the said item, such amount shall not be allowed as a deduction from the compensation received or receivable in any tax year;"
                 }
               ]
@@ -491,62 +439,52 @@
               "type": "clause",
               "number": "f",
               "id": "19-2-f",
-              "x": 40.8,
-              "y_start": 395.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
-              "children": []
+              "text": "in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed—",
+              "formula": "A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;"
             },
             {
               "type": "clause",
               "number": "g",
               "id": "19-2-g",
-              "x": 40.8,
-              "y_start": 415.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the death-cum-retirement gratuity referred to in sub-section (1) (Table: Sl. No. 3) shall be as—",
-              "children": [
+              "intro": "the death-cum-retirement gratuity referred to in sub-section (1) (Table: Sl. No. 3) shall be as—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
-                  "number": "i",
-                  "id": "19-2-g-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "to the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union (such members or holders being persons not governed by the said rules);"
+                  "type": "sub_clause",
+                  "number": "A",
+                  "id": "19-2-g-A",
+                  "text": "received under the revised pension rules of the Central Government, or the Central Civil Services (Pension) Rules, 2021; or"
                 },
                 {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "19-2-g-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "to the members of the all-India services;"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "iii",
-                  "id": "19-2-g-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "to the members of the civil services of a State or holders of civil posts under a State; or"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "iv",
-                  "id": "19-2-g-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "to the employees of a local authority;"
+                  "type": "sub_clause",
+                  "number": "B",
+                  "id": "19-2-g-B",
+                  "intro": "received under any similar scheme applicable—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "i",
+                      "id": "19-2-g-B-i",
+                      "text": "to the members of the civil services of the Union or holders of posts connected with defence or of civil posts under the Union (such members or holders being persons not governed by the said rules);"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "ii",
+                      "id": "19-2-g-B-ii",
+                      "text": "to the members of the all-India services;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "iii",
+                      "id": "19-2-g-B-iii",
+                      "text": "to the members of the civil services of a State or holders of civil posts under a State; or"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "iv",
+                      "id": "19-2-g-B-iv",
+                      "text": "to the employees of a local authority;"
+                    }
+                  ]
                 }
               ]
             },
@@ -554,122 +492,73 @@
               "type": "clause",
               "number": "h",
               "id": "19-2-h",
-              "x": 40.8,
-              "y_start": 430.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the schemes of voluntary retirement or termination of service as referred to in sub-section (1) (Table: Sl. No. 12) shall be for the employees of—",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "i",
-              "id": "19-2-i",
-              "x": 40.8,
-              "y_start": 450.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "a public sector company (under a scheme of voluntary separation); or",
-              "children": [
+              "intro": "the schemes of voluntary retirement or termination of service as referred to in sub-section (1) (Table: Sl. No. 12) shall be for the employees of—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "19-2-h-i",
+                  "text": "a public sector company (under a scheme of voluntary separation); or"
+                },
+                {
+                  "type": "sub_clause",
                   "number": "ii",
-                  "id": "19-2-i-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-ii",
                   "text": "any other company; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
-                  "id": "19-2-i-iii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-iii",
                   "text": "an authority established under a Central Act or State Act or Provincial Act; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
-                  "id": "19-2-i-iv",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-iv",
                   "text": "a local authority; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "v",
-                  "id": "19-2-i-v",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-v",
                   "text": "a co-operative society; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "vi",
-                  "id": "19-2-i-vi",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-vi",
                   "text": "a University established or incorporated by or under a Central Act or State Act or Provincial Act and an institution declared to be a University under section 3 of the University Grants Commission Act, 1956 (3 of 1956); or"
                 },
                 {
-                  "type": "sub-clause",
-                  "number": "viii",
-                  "id": "19-2-i-viii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the Central or any State Government; or"
-                },
-                {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "vii",
-                  "id": "19-2-i-vii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-vii",
                   "text": "an Indian Institute of Technology within the meaning of section 3(g) of the Institutes of Technology Act, 1961 (59 of 1961); or"
                 },
                 {
-                  "type": "sub-clause",
-                  "number": "x",
-                  "id": "19-2-i-x",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "such institute of management, as the Central Government may, by notification, specify in this behalf."
+                  "type": "sub_clause",
+                  "number": "viii",
+                  "id": "19-2-h-viii",
+                  "text": "the Central or any State Government; or"
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ix",
-                  "id": "19-2-i-ix",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
+                  "id": "19-2-h-ix",
                   "text": "an institution, having importance throughout India or in any State or States, as the Central Government may, by notification, specify in this behalf; or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "x",
+                  "id": "19-2-h-x",
+                  "text": "such institute of management, as the Central Government may, by notification, specify in this behalf."
                 }
               ]
             }
-          ],
-          "text_after_clauses": ""
+          ]
         }
-      ],
-      "text_after_subsections": ""
+      ]
     }
-  ],
-  "footnotes": [],
-  "orphans": []
+  ]
 }
