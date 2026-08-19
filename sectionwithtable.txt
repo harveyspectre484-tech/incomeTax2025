@@ -17,6 +17,34 @@ work on
 2)relation
 3)table numbering
 
+other section reference
+
+
+ "references": [
+                {
+                  "target_id": "6-13",
+                  "target_type": "subsection",
+                  "target_section_id": "6",
+                  "target_number": "13",
+                  "anchor_text": "section 6(13)",
+                  "referenced_term": "not ordinarily resident",
+                  "relationship": "definition_reference"
+                }
+              ],
+
+
+### same section reference check 
+
+
+"references": [
+            {
+              "target_id": "4-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on"
+            }
+          ],
+
 [FOOTNOTE FOUND] 2section.md -> 4 footnote marker(s) detected
 [FOOTNOTE FOUND] 7section.md -> 2 footnote marker(s) detected
 [FOOTNOTE FOUND] 21section.md -> 2 footnote marker(s) detected

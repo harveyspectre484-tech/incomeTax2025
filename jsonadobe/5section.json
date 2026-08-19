@@ -53,6 +53,17 @@
               "page_start": 1,
               "page_end": 1,
               "text": "accrues or arises to such person outside India in that year, but when such person is \"not ordinarily resident\" in India under section 6(13), such income shall be included only when it is derived from a business controlled in or a profession set up in India.",
+              "references": [
+                {
+                  "target_id": "6-13",
+                  "target_type": "subsection",
+                  "target_section_id": "6",
+                  "target_number": "13",
+                  "anchor_text": "section 6(13)",
+                  "referenced_term": "not ordinarily resident",
+                  "relationship": "definition_reference"
+                }
+              ],
               "children": []
             }
           ],

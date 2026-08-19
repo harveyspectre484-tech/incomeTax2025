@@ -68,6 +68,14 @@
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The provisions of sub-section (2)(b) shall not apply in the case of an individual who is a citizen of India and leaves India in any tax year—",
+          "references": [
+            {
+              "target_id": "6-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b)",
+              "relationship": "exception_to"
+            }
+          ],
           "clauses": [
             {
               "type": "clause",
@@ -103,6 +111,22 @@
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The provisions of sub-section (2)(b) shall not apply, subject to the provisions of sub-section (5), in the case of an individual—",
+          "references": [
+            {
+              "reference_id": "ref-6-4",
+              "target_id": "6-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b)",
+              "relationship": "exception_to"
+            },
+            {
+              "reference_id": "ref-6-4",
+              "target_id": "6-5",
+              "target_type": "clause",
+              "anchor_text": "sub-section (5)",
+              "relationship": "subject_to"
+            }
+          ],
           "clauses": [
             {
               "type": "clause",

@@ -119,6 +119,14 @@
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.",
+          "references": [
+            {
+              "target_id": "4-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on"
+            }
+          ],
           "clauses": [],
           "text_after_clauses": ""
         },
