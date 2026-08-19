@@ -1,0 +1,127 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "289",
+      "id": "289",
+      "title": "Notice of demand.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "289-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "When any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under this Act, the Assessing Officer shall serve upon the assessee a notice of demand in such form, as may be prescribed, specifying the sum so payable.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "289-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any sum is determined to be payable by the assessee or the deductor or the collector under section 270 or 399, the intimation under the said sections shall be deemed to be a notice of demand for the purposes of this section.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-289-2-001",
+              "target_id": "270",
+              "target_type": "section",
+              "anchor_text": "section 270 or 399",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "289-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the income of the assessee of any tax year includes income of the nature specified in section 17(1)(d) and such specified security or sweat equity shares referred to in the said section are allotted or transferred directly or indirectly by the current employer, being an eligible start-up referred to in section 140, the tax or interest on such income included in the notice of demand referred to in sub-section (1) shall be payable by the assessee within fourteen days —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "289-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "after the expiry of sixty months from the end of the relevant tax year; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "289-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "from the date of the sale of such specified security or sweat equity share by the assessee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "289-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "from the date of the assessee ceasing to be the employee of the employer who allotted or transferred him such specified security or sweat equity share, whichever is the earliest.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-289-3-001",
+              "target_id": "289-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-289-3-002",
+              "target_id": "17-1-d",
+              "target_type": "clause",
+              "anchor_text": "section 17(1)(d) and such",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-289-3-003",
+              "target_id": "140",
+              "target_type": "section",
+              "anchor_text": "section 140",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

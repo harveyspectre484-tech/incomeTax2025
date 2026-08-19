@@ -1,0 +1,46 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "75",
+      "id": "75",
+      "title": "Special provision for cost of acquisition in case of depreciable asset.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-75-001",
+          "target_id": "33-2",
+          "target_type": "subsection",
+          "anchor_text": "section 33(2)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-75-002",
+          "target_id": "72",
+          "target_type": "section",
+          "anchor_text": "sections 72 and 73",
+          "relationship": "subject_to",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-75-003",
+          "target_id": "41",
+          "target_type": "section",
+          "anchor_text": "section 41",
+          "relationship": "subject_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

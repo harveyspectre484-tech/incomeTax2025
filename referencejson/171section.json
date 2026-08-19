@@ -1,0 +1,193 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "171",
+      "id": "171",
+      "title": "Maintenance, keeping and furnishing of information and document by certain persons.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "171-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every person, who—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "171-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has entered into an international transaction or specified domestic transaction; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "171-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is a constituent entity of an international group, shall keep and maintain such information and document in respect thereof and for such period and in such manner, as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "171-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer or the Commissioner (Appeals) may, during any proceeding under this Act, require any person referred to in sub-section (1)(a) to furnish any information or document referred therein within ten days from the date of receipt of a notice issued in this regard.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-171-2-001",
+              "target_id": "171-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) to furnish",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "171-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2), the Assessing Officer or the Commissioner (Appeals) may, on an application made by such person, extend the period of ten days by a further period not exceeding thirty days.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-171-3-001",
+              "target_id": "171-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "171-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every person referred to in sub-section (1)(b) shall furnish the information and document referred to in sub-section (1) to the authority prescribed under section 511(1), in such manner, on or before such date, as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-171-4-001",
+              "target_id": "171-1-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-171-4-002",
+              "target_id": "171-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1) to the",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-171-4-003",
+              "target_id": "511-1",
+              "target_type": "subsection",
+              "anchor_text": "section 511(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "171-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "171-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"constituent entity\" shall have the meaning assigned to it in section 511(10)(d);",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-171-5-a-001",
+                  "target_id": "511-10-d",
+                  "target_type": "clause",
+                  "anchor_text": "section 511(10)(d)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "171-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"international group\" shall have the meaning assigned to it in section 511(10)(g).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-171-5-b-001",
+                  "target_id": "511-10-g",
+                  "target_type": "clause",
+                  "anchor_text": "section 511(10)(g)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "200-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "sections 199 and 201)",
+    "guessed_target_id": "199",
+    "guessed_target_type": "section",
+    "relationship": "subject_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "200-1-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 116",
+    "guessed_target_id": "116",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "200-4",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 147",
+    "guessed_target_id": "147",
+    "guessed_target_type": "section",
+    "relationship": "subject_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "200-5",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 263(1)",
+    "guessed_target_id": "263-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "200-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 201",
+    "guessed_target_id": "201",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "200-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 205(2)(b) or (c)",
+    "guessed_target_id": "205-2-b",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

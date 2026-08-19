@@ -1,0 +1,522 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "1",
+      "id": "1",
+      "title": "B. —Special provisions for registered non-profit organisation",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "—Registration",
+      "subsections": [],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "332",
+      "id": "332",
+      "title": "Application for registration.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "332-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following persons may, for claiming benefits under this Part as a registered non-profit organisation, make an application for registration in such form and manner, as may be prescribed, to the Principal Commissioner or Commissioner:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "332-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a public trust; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "332-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law in force in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "332-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a company registered under section 8 of the Companies Act, 2013 (18 of 2013) or the companies registered under section 25 of the Companies Act, 1956 (1 of 1956) and deemed to have been registered in pursuance of section 465(2)(g) of the Companies Act, 2013 (18 of 2013); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-332-1-c-001",
+                  "target_id": "8",
+                  "target_type": "section",
+                  "anchor_text": "section 8",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-332-1-c-002",
+                  "target_id": "25",
+                  "target_type": "section",
+                  "anchor_text": "section 25",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-332-1-c-003",
+                  "target_id": "465-2-g",
+                  "target_type": "clause",
+                  "anchor_text": "section 465(2)(g)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "332-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a University established by law or any other educational institution affiliated thereto or recognised by the Government; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "332-1-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an institution financed wholly or in part by the Government or a local authority; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "332-1-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any person as referred to in Schedule III (Table: Sl. No. 27) to (Table: Sl. No. 29) and (Table: Sl. No. 36) and in 64[Schedule VII (Table: Sl. Nos. 17 to 19)] and (Table: Sl. No. 42); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-332-1-f-001",
+                  "target_id": "schedule-III",
+                  "target_type": "schedule",
+                  "anchor_text": "Schedule III",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-332-1-f-002",
+                  "target_id": "schedule-VII",
+                  "target_type": "schedule",
+                  "anchor_text": "Schedule VII",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "332-1-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other person notified by the Board in this behalf.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "332-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A person referred to in sub-section (1) shall be eligible for registration, if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "332-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such person is constituted or registered or incorporated in India for carrying out one or more charitable purposes, as referred to in section 2(23) or one or more public religious purposes; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-332-2-a-001",
+                  "target_id": "2-23",
+                  "target_type": "subsection",
+                  "anchor_text": "section 2(23) or one",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "332-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the properties of such person are held for the benefit of the general public under an irrevocable trust—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "332-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "wholly for charitable or religious purposes in India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "332-2-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "partly for charitable or religious purposes in India, if such person was constituted or registered or incorporated prior to the commencement of the Income-tax Act, 1961 (43 of 1961). (3) Every application in respect of the cases specified in column B of the Table below shall be made to the Principal Commissioner or Commissioner within the time provided in column C of the said Table, who shall, on receipt of such application, follow the procedure provided in this section and shall pass an order within the time specified in column D of the said Table, and registration, if granted, shall be valid for a period specified in column E thereof.",
+                  "table": {
+                    "type": "table",
+                    "id": "332-2-b-ii-table",
+                    "x": 27.62,
+                    "y_start": 150.0,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "columns": [
+                      "Sl. No.",
+                      "Case",
+                      "Time limit for furnishing application",
+                      "Time limit for passing order",
+                      "Validity of registration"
+                    ],
+                    "rows": [
+                      {
+                        "sl_no": "1",
+                        "case": "Where the activities of the applicant have not commenced and it has not been registered under any specified provision at any time before making the application.",
+                        "time_limit_for_furnishing_application": "At any time during the tax year beginning from which registration is sought.",
+                        "time_limit_for_passing_order": "One month from the end of the month in which application is made.",
+                        "validity_of_registration": "Three tax years commencing from the tax year in which such application is made."
+                      },
+                      {
+                        "sl_no": "2",
+                        "case": "Where the activities of the applicant have commenced and it has not been registered under any specified provision at any time before making the application.",
+                        "time_limit_for_furnishing_application": "At any time during the tax year, beginning from which registration is sought.",
+                        "time_limit_for_passing_order": "in Six months from the end of the quarter which application is made.",
+                        "validity_of_registration": "Five tax years commencing from application is made. the tax year in which such"
+                      },
+                      {
+                        "sl_no": "3",
+                        "case": "Where the applicant has been granted provisional registration and activities have commenced.",
+                        "time_limit_for_furnishing_application": "the Within six months of commencement of activities.",
+                        "time_limit_for_passing_order": "in Six months from the end of the quarter which application is made.",
+                        "validity_of_registration": "Five tax years commencing from application is made. the tax year in which such"
+                      },
+                      {
+                        "sl_no": "4",
+                        "case": "Where the provisional registration of the applicant is due to expire and activities have not commenced.",
+                        "time_limit_for_furnishing_application": "At least six months prior to the expiry of the provisional registration.",
+                        "time_limit_for_passing_order": "end is Six months from the of the quarter in which application made.",
+                        "validity_of_registration": "Five tax years following the tax year in which such application is made."
+                      },
+                      {
+                        "sl_no": "5",
+                        "case": "Where the registration of the applicant is due to expire, other than cases mentioned at serial number 4.",
+                        "time_limit_for_furnishing_application": "At least six months prior to the expiry of the registration.",
+                        "time_limit_for_passing_order": "is Six months from the end of the quarter in which application made.",
+                        "validity_of_registration": "Five tax years following the tax year in which such application is made."
+                      },
+                      {
+                        "sl_no": "6",
+                        "case": "of Where the registration of the applicant has become inoperative due to switching over regime under section 333.",
+                        "time_limit_for_furnishing_application": "the At any time during the tax year beginning from which registration is sought to be made operative.",
+                        "time_limit_for_passing_order": "in Six months from the end of the quarter which application is made.",
+                        "validity_of_registration": "Five tax years commencing from application is made. the tax year in which such"
+                      },
+                      {
+                        "sl_no": "7",
+                        "case": "Where the applicant, being a registered non-profit organisation, has adopted or undertaken modification of its objects which do not conform to the conditions of registration.",
+                        "time_limit_for_furnishing_application": "Within thirty days of the date of such adoption or modification",
+                        "time_limit_for_passing_order": "Six months from the end of the quarter in which application is made.",
+                        "validity_of_registration": "Five tax years commencing from commencement of the tax year in which such application is made."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-2-001",
+              "target_id": "332-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "332-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case the application under sub-section (3) is made beyond the time allowed in column C of the Table specified in the said sub-section, the Principal Commissioner or Commissioner may, if he considers that there is a reasonable cause for delay in furnishing the application, condone such delay and such application shall be deemed to have been made within time.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-4-001",
+              "target_id": "332-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "332-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case the application is made under sub-section (3) (Table: Sl. Nos. 3 to 7), and the total income of such applicant, without giving effect to the provisions of this Part, does not exceed five crore rupees during each of the two tax years, preceding the tax year in which such application is made, the provisions of (Table: Sl. Nos. 3.E to 7.E) of the said sub-section, shall have effect as if for the words \"five years\", the words \"ten years\" had been substituted.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-5-001",
+              "target_id": "332-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "332-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any application for registration is not made within the time specified in sub-section (3) (Table: Sl. No. 3.C, 4.C, 5.C or 7.C) and the delay in filing such application is not condoned under sub-section (4), such person shall be liable to pay tax on accreted income under section 352.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-6-001",
+              "target_id": "332-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-332-6-002",
+              "target_id": "332-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-332-6-003",
+              "target_id": "352",
+              "target_type": "section",
+              "anchor_text": "section 352",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "332-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Principal Commissioner or Commissioner shall, on an application made by an applicant in any of the cases specified in sub-section (3) (Table: Sl. Nos. 2 to 7), call for such documents or information or make such inquiries as he thinks necessary in order to satisfy himself about the genuineness of activities, and the compliance of such requirements of any other law as are material for the purpose of achieving its objects, and—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "332-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if he is so satisfied about the objects and the genuineness of the activities and compliance of such requirements of any other law in force, shall pass an order in writing granting registration; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "332-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if he is not so satisfied, after affording a reasonable opportunity of being heard to the applicant shall,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "332-7-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "pass an order in writing rejecting the application, where the application was made in any of the cases specified in sub-section (3) (Table: Sl. No. 2 or 6); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "332-7-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "pass an order in writing rejecting the application and also cancelling the registration in any other case specified in sub-section (3) (Table: Sl. No. 3, 4, 5 or 7), and send a copy of the said order to the applicant and the Assessing Officer."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-7-001",
+              "target_id": "332-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "332-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an application has been made in any of the cases specified in sub-section (3) (Table: Sl. No. 1), the Principal Commissioner or Commissioner shall grant provisional registration.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-8-001",
+              "target_id": "332-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "332-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the registration of a person, granted prior to the 1st April, 2021 under the specified provision of the Income-tax Act, 1961 (43 of 1961), has expired and such person makes an application for registration under this Part, the Principal Commissioner or Commissioner may, if he considers that there is a reasonable cause for delay in making such application, condone such delay and grant registration to such person under this Part within three months from the end of the month in which the application is made, which shall be valid for five years from the commencement of the tax year 2021-2022.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "332-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The order under sub-sections (7), (8) and (9) shall be passed in the form and manner, as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-332-10-001",
+              "target_id": "332-7",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (7)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "64",
+      "text": "Sub. for \"Schedule VII (Table: Sl. No. 10) to (Table: Sl. No. 19)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

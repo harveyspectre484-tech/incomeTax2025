@@ -1,0 +1,236 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "29",
+      "id": "29",
+      "title": "Deductions related to employee welfare.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "29-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "29-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by way of contribution towards a recognised provident fund or an approved superannuation fund, subject to—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "29-1-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such limits, as may be prescribed, for recognising the provident fund or approving the superannuation fund; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "29-1-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such conditions, as the Board may specify, for cases where the contributions are not made annually either as fixed amounts, or annual contributions fixed on some definite basis by reference to the income chargeable under the head \"Salaries\" or the contributions or to the number of members of the fund;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "29-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by way of contribution towards a pension scheme referred to in section 124, for an employee up to 14% of the salary of the employee in the tax year, where such salary includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-29-1-b-001",
+                  "target_id": "124",
+                  "target_type": "section",
+                  "anchor_text": "section 124",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "29-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum paid by way of contribution towards an approved gratuity fund created by the assessee for the exclusive benefit of his employees under an irrevocable trust;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "29-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-29-1-d-001",
+                  "target_id": "29-2",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (2)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "29-1-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "7"
+              ],
+              "text": "the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-29-1-e-001",
+                  "target_id": "2-49-o",
+                  "target_type": "clause",
+                  "anchor_text": "section 2(49)(o)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-29-1-e-002",
+                  "target_id": "263-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 263(1)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-29-1-001",
+              "target_id": "26",
+              "target_type": "section",
+              "anchor_text": "section 26",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "29-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "29-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Subject to the provisions of sub-section (1)(d), no deduction shall be allowed for any provision made for the payment of gratuity to the employees on their retirement or termination for any reason; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-29-2-a-001",
+                  "target_id": "29-1-d",
+                  "target_type": "clause",
+                  "anchor_text": "sub-section (1)(d)",
+                  "relationship": "subject_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "29-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in case deduction has been allowed for any provision made under sub- section (1)(d), then no deduction shall be allowed on actual payment made from such provision.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "29-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction shall be allowed in respect of any sum paid by the assessee as an employer towards setting up or formation of, or as contribution to, any fund, trust, company, association of persons, body of individuals, society registered under the Societies Registration Act, 1860 (21 of 1860), or other institution for any purpose, except where such sum is so paid, for the purposes and to the extent provided by or under sub-section (1)(a) or (b) or (c), or as required by or under any other law in force.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-29-3-001",
+              "target_id": "29-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) or (b)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "7",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (e) read as under : '(e) (i) the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds by the due date;",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

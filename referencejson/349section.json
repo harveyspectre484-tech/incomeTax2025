@@ -1,0 +1,46 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "349",
+      "id": "349",
+      "title": "Return of income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, it shall furnish the return of income for that tax year as per the provisions of section 263(1)(a)(iii) and (2), within the time limit allowed under section 263(1)(c) 65[or 263(4)].",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-349-001",
+          "target_id": "263-1-a-iii",
+          "target_type": "subclause",
+          "anchor_text": "section 263(1)(a)(iii) and (2)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-349-002",
+          "target_id": "263-1-c",
+          "target_type": "clause",
+          "anchor_text": "section 263(1)(c)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "65",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

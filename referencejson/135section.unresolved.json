@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "135-1-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 45(3)(a)(i) to be",
+    "guessed_target_id": "45-3-a-i",
+    "guessed_target_type": "subclause",
+    "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "135-1-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 45(3)(a)(ii) to be",
+    "guessed_target_id": "45-3-a-ii",
+    "guessed_target_type": "subclause",
+    "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  }
+]

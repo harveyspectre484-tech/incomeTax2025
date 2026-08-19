@@ -1,0 +1,103 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "476",
+      "id": "476",
+      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "22[(1) If a person fails to—",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "476-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply if the payment referred to in sub-section (1)(a) has been made to the credit of the Central Government on or before the time prescribed for filing the statement under section 397(3)(b) in respect of such payment. \"(1) If a person fails to—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "476-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "pay the tax deducted at source by him to the credit of the Central Government, as required by or under the provisions of Chapter XIX-B; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "476-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "pay tax or ensure payment of tax to the credit of the Central Government, as required under—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "476-2-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Note 2 below the Table in section 393(3); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "476-2-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Note 6 to section 393(1) (Table: Sl. No. 8), he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years, and with fine.\""
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-476-2-001",
+              "target_id": "476-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a)",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-476-2-002",
+              "target_id": "397-3-b",
+              "target_type": "clause",
+              "anchor_text": "section 397(3)(b)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "22",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (1) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

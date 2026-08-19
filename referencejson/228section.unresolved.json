@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "228-16",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 206(1)(c)",
+    "guessed_target_id": "206-1-c",
+    "guessed_target_type": "clause",
+    "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  }
+]

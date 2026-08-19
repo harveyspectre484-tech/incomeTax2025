@@ -1,0 +1,172 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "199",
+      "id": "199",
+      "title": "Tax on income of certain manufacturing domestic companies.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "199-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Act, but subject to the provisions of Parts A, B, E and this Part (other than sections 200 and 201) of this Chapter, the income-tax payable in respect of the total income of a person, being a domestic company, for any tax year, shall, at the option of such person, be computed at the rate of 25% subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "199-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the company has been set-up and registered on or after the 1st March, 2016;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "199-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the company is not engaged in any business other than the business of manufacture or production of any article or thing and research in relation to, or distribution of, such article or thing manufactured or produced by it; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "199-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the total income of the company has been computed,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "199-1-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "without any deduction under—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "199-1-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "without set off of any loss carried forward from any earlier tax year, if such loss is attributable to any of the deductions referred to in sub-clause (i)."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-199-1-001",
+              "target_id": "200",
+              "target_type": "section",
+              "anchor_text": "sections 200 and 201)",
+              "relationship": "subject_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "199-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The loss referred to in sub-section (1)(c)(ii) shall be deemed to have been given full effect to and no further deduction for such loss shall be allowed for any subsequent year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-199-2-001",
+              "target_id": "199-1-c",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(c)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "199-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply unless an option is exercised by the person in the manner as may be prescribed on or before the due date specified under section 263(1) for furnishing the first of the returns of income which such person is required to furnish and such option once exercised, shall apply to subsequent tax years.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-199-3-001",
+              "target_id": "263-1",
+              "target_type": "subsection",
+              "anchor_text": "section 263(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "199-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Once the option under sub-section (3) has been exercised for any tax year, it cannot be subsequently withdrawn for the same or any other tax year, except where the person exercises option under section 200.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-199-4-001",
+              "target_id": "199-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-199-4-002",
+              "target_id": "200",
+              "target_type": "section",
+              "anchor_text": "section 200",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

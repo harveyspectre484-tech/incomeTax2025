@@ -1,0 +1,195 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "59",
+      "id": "59",
+      "title": "Computation of royalty and fee for technical services in hands of non- residents.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "59-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Income in the nature of royalty or fees for technical services received by a specified assessee during a tax year, shall be computed under the head \"Profits and gains of business or profession\" under this Act, if the following conditions are satisfied:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "59-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income is received from the Government or an Indian concern;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "59-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income is in pursuance to an agreement made by the specified assessee with the Government or the Indian concern;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "59-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the specified assessee carries on business in India through a permanent establishment, or performs professional services from a fixed place of profession, situated in India; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "59-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the right, property or contract in respect of which the royalties or fees for technical services are paid is effectively connected with such permanent establishment or fixed place of profession.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "59-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction shall be allowed against the income computed under sub-section (1) in respect of the following amounts:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "59-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any expenditure or allowance which is not wholly and exclusively incurred for the business of such permanent establishment or fixed place of profession in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "59-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to its head office or to any of its other offices.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-59-2-001",
+              "target_id": "59-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "59-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of section 61 in so far as it relates to business referred to in section 61(2) (Table: Sl. No. 5), shall not apply in respect of the income referred to in this section.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-59-3-001",
+              "target_id": "61",
+              "target_type": "section",
+              "anchor_text": "section 61",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-59-3-002",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "section 61(2)",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "59-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The specified assessee shall keep and maintain books of account and other documents as per the provisions of section 62, get his accounts audited on or before the specified date referred to in section 63 by an accountant, and furnish report of audit in the prescribed form, duly signed and verified by the accountant.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-59-4-001",
+              "target_id": "62",
+              "target_type": "section",
+              "anchor_text": "section 62",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-59-4-002",
+              "target_id": "63",
+              "target_type": "section",
+              "anchor_text": "section 63",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "59-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"specified assessee\" means a non-resident (not being a company) or a foreign company.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "460",
+      "id": "460",
+      "title": "Penalty for failure to submit statement under section 505.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-460-001",
+          "target_id": "505",
+          "target_type": "section",
+          "anchor_text": "section 505",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

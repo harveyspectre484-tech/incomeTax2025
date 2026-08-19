@@ -1,0 +1,46 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "27",
+      "id": "27",
+      "title": "Manner of computing profits and gains of business or profession.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "The income referred to in section 26 shall be computed as per the provisions of sections 28 to 60, except section 58.",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-27-001",
+          "target_id": "26",
+          "target_type": "section",
+          "anchor_text": "section 26",
+          "relationship": "related_to",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-27-002",
+          "target_id": "28",
+          "target_type": "section",
+          "anchor_text": "sections 28 to 60",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-27-003",
+          "target_id": "58",
+          "target_type": "section",
+          "anchor_text": "section 58",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

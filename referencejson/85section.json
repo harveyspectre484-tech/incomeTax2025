@@ -1,0 +1,224 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "85",
+      "id": "85",
+      "title": "Capital gains not to be charged on investment in certain bonds.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "85-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an assessee has—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "85-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "long-term capital gains arising from the transfer of land or building, or both, (original asset); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "85-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "within six months after the date of such transfer, invested whole or part of the capital gains in a long-term specified asset (new asset), then, the capital gains shall be dealt with as follows:—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "85-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the capital gains exceed the investment in the new asset, the amount of capital gains as exceeds such investment shall be charged under section 67; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "85-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if the capital gains are equal to or less than the investment in the new asset, the whole of such capital gains shall not be charged under section 67."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "85-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), investment made in the long-term specified asset from capital gain arising from transfer of one or more original asset shall not exceed fifty lakh rupees,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "85-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "during any tax year; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "85-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the year of transfer of the original asset or assets and in the subsequent tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-85-2-001",
+              "target_id": "85-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "85-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the new asset is transferred or converted (otherwise than by transfer) into money within five years of its acquisition, the capital gains not charged under section 67 as per sub-section (1), shall be deemed to be income chargeable as long-term capital gains in the tax year of its transfer or conversion.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-85-3-001",
+              "target_id": "85-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-85-3-002",
+              "target_id": "67",
+              "target_type": "section",
+              "anchor_text": "section 67",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "85-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any loan or advance taken on the security of the new asset shall be deemed to have converted the new asset into money on the date of such loan or advance.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "85-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the investment in the new asset has been taken into account for sub-section (1), no deduction under section 123 for any tax year shall be allowed for such investment.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-85-5-001",
+              "target_id": "85-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-85-5-002",
+              "target_id": "123",
+              "target_type": "section",
+              "anchor_text": "section 123",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "85-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), \"long-term specified asset\" means any bond, redeemable after five years and issued on after the 1st April 2018, by the National Highways Authority of India constituted under section 3 of the National Highways Authority of India Act, 1988 (68 of 1988) or by the Rural Electrification Corporation Limited, a company formed and registered under the Companies Act, 2013 (18 of 2013) or any other bond as may be notified by the Central Government for the purposes of this section.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-85-6-001",
+              "target_id": "85-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "definition_reference",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-85-6-002",
+              "target_id": "3",
+              "target_type": "section",
+              "anchor_text": "section 3",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

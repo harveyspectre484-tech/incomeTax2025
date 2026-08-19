@@ -1,0 +1,38 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "65",
+      "id": "65",
+      "title": "Interpretation for purposes of section 64.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "For the purposes of section 64,—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-65-001",
+          "target_id": "64",
+          "target_type": "section",
+          "anchor_text": "section 64",
+          "relationship": "related_to",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-65-002",
+          "target_id": "64",
+          "target_type": "section",
+          "anchor_text": "section 64",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

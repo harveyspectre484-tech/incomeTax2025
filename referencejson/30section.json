@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "30",
+      "id": "30",
+      "title": "Deduction on certain premium.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "The following sums shall be allowed as deduction in computing income chargeable under section 26, being premium paid:—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-30-001",
+          "target_id": "26",
+          "target_type": "section",
+          "anchor_text": "section 26",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

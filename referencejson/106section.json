@@ -1,0 +1,55 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "106",
+      "id": "106",
+      "title": "Amount borrowed or repaid through negotiable instrument, hundi, etc.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "106-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "106-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-106-2-001",
+              "target_id": "106-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

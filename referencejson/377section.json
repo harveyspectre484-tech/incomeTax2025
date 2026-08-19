@@ -1,0 +1,411 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "377",
+      "id": "377",
+      "title": "Revision of orders prejudicial to revenue.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "377-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Competent Authority may call for and examine the record of any proceeding under this Act, and if he considers that any order passed therein by the Assessing Officer or the Transfer Pricing Officer, as the case may be, is erroneous in so far as it is prejudicial to the interests of the revenue, he may, after giving the assessee an opportunity of being heard and after making or causing to be made such inquiry as he deems necessary, pass such order thereon as the circumstances of the case justify, including—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "377-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an order enhancing or modifying the assessment or cancelling the assessment and directing a fresh assessment;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "377-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an order modifying the order under section 166; or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-377-1-b-001",
+                  "target_id": "166",
+                  "target_type": "section",
+                  "anchor_text": "section 166",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "377-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an order cancelling the order under section 166 and directing a fresh order under the said section.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-377-1-c-001",
+                  "target_id": "166",
+                  "target_type": "section",
+                  "anchor_text": "section 166 and directing",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "377-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purpose of sub-section (1),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "377-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an order passed by the Assessing Officer or the Transfer Pricing Officer, shall include—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "377-2-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an order of assessment made on the basis of the directions issued by the Joint Commissioner under section 272;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "377-2-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an order made by the Joint Commissioner in exercise of the powers or in the performance of the functions of an Assessing Officer or the Transfer Pricing Officer, conferred on, or assigned to, him by the Board or by the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General or Principal Commissioner or Commissioner authorised by the Board under section 241; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "377-2-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an order under section 166;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "377-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"record\" shall include all records relating to any proceeding under this Act available at the time of examination by the Competent Authority;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "377-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where any order referred to in this section and passed by the Assessing Officer or the Transfer Pricing Officer, had been the subject matter of any appeal filed, the powers of the Competent Authority, shall extend to such matters as had not been considered and decided in such appeal.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-377-2-001",
+              "target_id": "377-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "377-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An order passed by the Assessing Officer or the Transfer Pricing Officer, shall be deemed to be erroneous in so far as it is prejudicial to the interests of the revenue, if, in the opinion of the Competent Authority, the order—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "377-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is passed without making inquiries or verification which should have been made; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "377-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is passed allowing any relief without inquiring into the claim; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "377-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not been made in accordance with any order, direction or instruction issued by the Board under section 239; or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-377-3-c-001",
+                  "target_id": "239",
+                  "target_type": "section",
+                  "anchor_text": "section 239",
+                  "relationship": "procedure_reference",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "377-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No order shall be made under sub-section (1) after the expiry of two years from the end of the financial year in which the order sought to be revised was passed.",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "377-4-d",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not been passed in accordance with any decision which is prejudicial to the assessee, rendered by the jurisdictional High Court or Supreme Court in the case of the assessee or any other person.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-377-4-001",
+              "target_id": "377-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "377-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in sub-section (4), an order in revision under this section may be passed at any time in the case of an order which has been passed in consequence of, or to give effect to, any finding or direction contained in the order of the Appellate Tribunal, the High Court, or the Supreme Court.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-377-5-001",
+              "target_id": "377-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "377-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In computing the period of limitation under sub-section (4), the following period shall be excluded,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "377-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the time taken in giving an opportunity to the assessee to be reheard under section 244(2); and (b) the period commencing on the date on which stay on any proceeding under this section has been granted by an order or injunction of any court and ending on the date on which certified copy of the order or injunction vacating the stay is received by the jurisdictional Principal Commissioner or Commissioner.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-377-6-a-001",
+                  "target_id": "244-2",
+                  "target_type": "subsection",
+                  "anchor_text": "section 244(2)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-377-6-001",
+              "target_id": "377-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "377-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If after the exclusion of the period provided in sub-section (6), the time limit for completion, as provided in sub-section (4) is less than sixty days, such remaining period shall be extended to sixty days and such period of limitation shall be deemed to have been extended accordingly.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-377-7-001",
+              "target_id": "377-6",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (6)",
+              "relationship": "procedure_reference",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-377-7-002",
+              "target_id": "377-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "procedure_reference",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "377-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "377-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"Competent Authority\" means the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "377-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"Transfer Pricing Officer\" shall have the same meaning as in section 166(17).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-377-8-b-001",
+                  "target_id": "166-17",
+                  "target_type": "subsection",
+                  "anchor_text": "section 166(17)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 3,
+      "text": "C. —Revision by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner"
+    }
+  ]
+}

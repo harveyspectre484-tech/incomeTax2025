@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "177-7-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 173(c)",
+    "guessed_target_id": "173-c",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "IV",
+      "x": 27.62,
+      "y_start": 80.0,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "A.—Heads of income",
+      "children": [
+        {
+          "type": "section",
+          "number": "13",
+          "id": "13",
+          "title": "Heads of income.",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:—",
+          "subsections": [],
+          "text_after_subsections": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "13",
+      "id": "13",
+      "title": "Heads of income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:—",
+      "subsections": [],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

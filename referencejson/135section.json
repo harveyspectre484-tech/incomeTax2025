@@ -1,0 +1,177 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "135",
+      "id": "135",
+      "title": "Deduction in respect of certain donations for scientific research or rural development.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "135-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In computing the total income of an assessee, there shall be deducted, as per the provisions of this section, any sum paid by the assessee in the tax year to,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "135-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a research association which has as its object the undertaking of scientific research, or a University, college or other institution approved for the purposes of section 45(3)(a)(i) to be used for scientific research;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-135-1-a-001",
+                  "target_id": "45-3-a-i",
+                  "target_type": "subclause",
+                  "anchor_text": "section 45(3)(a)(i) to be",
+                  "relationship": "definition_or_scope",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "135-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a research association which has as its object the undertaking of research in social science or statistical research, or a University, college or other institution approved for the purposes of section 45(3)(a)(ii) to be used for research in social science or statistical research.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-135-1-b-001",
+                  "target_id": "45-3-a-ii",
+                  "target_type": "subclause",
+                  "anchor_text": "section 45(3)(a)(ii) to be",
+                  "relationship": "definition_or_scope",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "135-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Deduction for contributions made as per sub-section (1) shall not be allowed, if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "135-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the gross total income of the assessee includes income which is chargeable under the head \"Profits and gains of business or profession\"; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "135-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the contribution is made in cash exceeding Rs. 2000.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-135-2-001",
+              "target_id": "135-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "135-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Deduction under sub-section (1)(a) and (b) shall not be denied merely on the ground that subsequent to the payment of such sum by the assessee, approval to such association, University, college, other institution referred therein has been withdrawn.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-135-3-001",
+              "target_id": "135-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) and (b)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "135-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The claim of the assessee for a deduction in respect of any sum referred to in sub-section (1) in the return of income for any tax year filed by him, shall be allowed on the basis of information relating to such sum furnished by the payee to the prescribed income-tax authority or the person authorised by such authority, subject to verification as per the risk management strategy formulated by the Board from time to time.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-135-4-001",
+              "target_id": "135-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "135-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a deduction for any tax year has been claimed and allowed in respect of any payment of the nature referred to in this section, no deduction in respect of such payment shall be allowed under any other provision of this Act in any tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

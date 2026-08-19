@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "385",
+      "id": "385",
+      "title": "Appellate authority not to proceed in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-385-001",
+          "target_id": "383-1",
+          "target_type": "subsection",
+          "anchor_text": "section 383(1)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

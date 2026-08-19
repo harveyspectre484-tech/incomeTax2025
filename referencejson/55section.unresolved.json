@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "55",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "Schedule XIV",
+    "guessed_target_id": "schedule-XIV",
+    "guessed_target_type": "schedule",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "55",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "section 390(5) and (6)",
+    "guessed_target_id": "390-5",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "55",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "sections 26 to 54",
+    "guessed_target_id": "26",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

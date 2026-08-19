@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "515-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 246",
+    "guessed_target_id": "246",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-3-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(b)",
+    "guessed_target_id": "2-1-b",
+    "guessed_target_type": "clause",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-3-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 6(1)",
+    "guessed_target_id": "6-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-4-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 271(1)(ii) or 272A",
+    "guessed_target_id": "271-1-ii",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-4-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 465(1)(d)",
+    "guessed_target_id": "465-1-d",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 61(3)",
+    "guessed_target_id": "61-3",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "515-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 288(5)",
+    "guessed_target_id": "288-5",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "259",
+      "id": "259",
+      "title": "Power to call for information by prescribed income-tax authority.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "259-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "259-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-259-2-001",
+              "target_id": "260",
+              "target_type": "section",
+              "anchor_text": "section 260",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "259-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-259-3-001",
+              "target_id": "253",
+              "target_type": "section",
+              "anchor_text": "section 253",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

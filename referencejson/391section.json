@@ -1,0 +1,155 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "391",
+      "id": "391",
+      "title": "Direct payment.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "391-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax on any income shall be payable directly by the assessee if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "391-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "there is no provision under this Chapter to deduct income-tax on such income at the time of payment; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "391-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax has not been deducted as per the provisions of this Chapter.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "391-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If an assessee has any income of the nature as specified in section 17(1)(d) and such specified security or sweat equity shares are allotted or transferred directly or indirectly by the current employer which is an eligible start-up referred to in section 140, then direct payment of tax for the purposes of subsection (1) shall be made in accordance with in section 289(3).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-391-2-001",
+              "target_id": "391-1",
+              "target_type": "subsection",
+              "anchor_text": "subsection (1)",
+              "relationship": "procedure_reference",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-391-2-002",
+              "target_id": "17-1-d",
+              "target_type": "clause",
+              "anchor_text": "section 17(1)(d) and such",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-391-2-003",
+              "target_id": "140",
+              "target_type": "section",
+              "anchor_text": "section 140",
+              "relationship": "definition_or_scope",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-391-2-004",
+              "target_id": "289-3",
+              "target_type": "subsection",
+              "anchor_text": "section 289(3)",
+              "relationship": "procedure_reference",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "391-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any person, including the principal officer of the company,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "391-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is required to deduct any sum as per the provisions of this Act; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "391-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "referred to in section 392(2)(a), being an employer, does not deduct, or after so deducting fails to pay, or does not pay, the whole or any part of the tax, as required under this Act, and where the assessee has also failed to pay such tax directly, then, such person shall, apart from any other consequences that he may incur, be deemed to be an assessee in default within the meaning of section 398(1), in respect of such tax.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-391-3-b-001",
+                  "target_id": "392-2-a",
+                  "target_type": "clause",
+                  "anchor_text": "section 392(2)(a)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-391-3-b-002",
+                  "target_id": "398-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 398(1)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

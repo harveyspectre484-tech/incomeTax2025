@@ -1,0 +1,55 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "366",
+      "id": "366",
+      "title": "Case before High Court to be heard by not less than two Judges.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "366-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-366-1-001",
+              "target_id": "365",
+              "target_type": "section",
+              "anchor_text": "section 365",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "366-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

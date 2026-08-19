@@ -1,0 +1,122 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "373",
+      "id": "373",
+      "title": "Filing of appeal by income-tax authority.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "373-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Board may, from time to time, issue orders, instructions or directions to other income-tax authorities, fixing such monetary limits as it may deem fit, for the purpose of regulating filing of appeal by any income-tax authority under the provisions of this Chapter.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "373-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "373-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the same assessee for any other tax year; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "373-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other assessee for the same or any other tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-373-2-001",
+              "target_id": "373-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "373-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where no appeal has been filed by an income-tax authority pursuant to the orders or instructions or directions issued under sub-section (1), it shall not be lawful for an assessee, being a party in any appeal, to contend that the income-tax authority has acquiesced in the decision on the disputed issue by not filing an appeal in any case.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-373-3-001",
+              "target_id": "373-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "373-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Appellate Tribunal or Court, hearing such appeal, shall have regard to the orders, instructions or directions issued under sub-section (1) and the circumstances under which such appeal was filed or not filed in respect of any case.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-373-4-001",
+              "target_id": "373-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1) and the",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

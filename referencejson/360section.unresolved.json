@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "360-1-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 271",
+    "guessed_target_id": "271",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "360-1-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 245H",
+    "guessed_target_id": "245H",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

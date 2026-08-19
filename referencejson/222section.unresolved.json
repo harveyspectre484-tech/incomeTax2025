@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "222-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 224(10)(a)",
+    "guessed_target_id": "224-10-a",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "222-8",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule V",
+    "guessed_target_id": "schedule-V",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

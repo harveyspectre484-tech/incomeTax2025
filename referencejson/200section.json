@@ -1,0 +1,282 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "200",
+      "id": "200",
+      "title": "Tax on income of certain domestic companies.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "200-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Act but subject to the provisions of Parts A, B, E and this Part (other than sections 199 and 201) of this Chapter, the income-tax payable for a tax year shall be at the rate of 22%, at the option of a person being a domestic company, in respect of the total income of such person computed in the following manner:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "200-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "without any deduction under—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "200-1-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "section 45(2) or 47(1)(b); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "200-1-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Chapter VIII other than provisions of section 146 or 148; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "200-1-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "sections specified in section 205(1)(a) to (g);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "200-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "without set off of any loss carried forward or depreciation from any earlier tax year, if such loss or depreciation is attributable to any of the deductions referred to in clause (a);",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-200-1-b-001",
+                  "target_id": "200-1-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "200-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "without set off of any loss or allowance for unabsorbed depreciation deemed so under section 116, if such loss or depreciation is attributable to any of the deductions referred to in clause (a).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-200-1-c-001",
+                  "target_id": "116",
+                  "target_type": "section",
+                  "anchor_text": "section 116",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-200-1-c-002",
+                  "target_id": "200-1-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-1-001",
+              "target_id": "199",
+              "target_type": "section",
+              "anchor_text": "sections 199 and 201)",
+              "relationship": "subject_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "200-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the person fails to satisfy the requirements contained in sub-section (1) in any tax year, the option shall become invalid in respect of the said tax year and subsequent years and other provisions of the Act shall apply, as if the option had not been exercised for such tax year and for subsequent years.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-2-001",
+              "target_id": "200-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "200-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The loss and depreciation referred to in sub-section (1)(b) and (c) shall be deemed to have been given full effect to and no further deduction for such loss or depreciation shall be allowed for any subsequent year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-3-001",
+              "target_id": "200-1-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(b) and (c)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "200-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case of a person, having a Unit in the International Financial Services Centre, which has exercised option under sub-section (5), the requirements contained in sub-section (1) shall be modified to the extent that the deduction as referred to in section 147 shall be available to such Unit subject to fulfilment of the conditions contained in that section.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-4-001",
+              "target_id": "200-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-200-4-002",
+              "target_id": "200-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-200-4-003",
+              "target_id": "147",
+              "target_type": "section",
+              "anchor_text": "section 147",
+              "relationship": "subject_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "200-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply unless the option is exercised by the person in such manner as may be prescribed on or before the due date specified under section 263(1) for furnishing the return of income and such option once exercised, shall apply to subsequent tax years.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-5-001",
+              "target_id": "263-1",
+              "target_type": "subsection",
+              "anchor_text": "section 263(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "200-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Once the option under this section has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "200-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case of a person, being a domestic company, where the option exercised by it under section 201, has been rendered invalid due to violation of the conditions contained in section 205(2)(b) or (c) or (d), such person may exercise the option under this section.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-200-7-001",
+              "target_id": "201",
+              "target_type": "section",
+              "anchor_text": "section 201",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-200-7-002",
+              "target_id": "205-2-b",
+              "target_type": "clause",
+              "anchor_text": "section 205(2)(b) or (c)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

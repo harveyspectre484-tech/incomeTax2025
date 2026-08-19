@@ -1,0 +1,38 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "328",
+      "id": "328",
+      "title": "Succession of one firm by another firm.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-328-001",
+          "target_id": "327",
+          "target_type": "section",
+          "anchor_text": "section 327",
+          "relationship": "related_to",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-328-002",
+          "target_id": "313",
+          "target_type": "section",
+          "anchor_text": "section 313",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

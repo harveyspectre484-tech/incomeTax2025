@@ -1,0 +1,112 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "514",
+      "id": "514",
+      "title": "Registration of valuers.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "514-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Principal Chief Commissioner or Chief Commissioner, or the Principal Director General or Director General, shall maintain a register of valuers in which the names and addresses of persons registered under sub-section (2) shall be entered.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-514-1-001",
+              "target_id": "514-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "514-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any person, possessing such qualification for valuing such class of assets, as may be prescribed, may apply to the Principal Chief Commissioner or Chief Commissioner, or the Principal Director General or Director General, for getting registered as a valuer, in such form, verified in such manner and accompanied by such fee, as may be prescribed, along with a declaration stating that the applicant will––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "514-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "conduct an impartial and true valuation of any asset required to be valued;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "514-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "furnish a valuation report in the prescribed form;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "514-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "charge fees not exceeding the prescribed rate or rates; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "514-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "refrain from undertaking the valuation of any asset in which such person has a direct or indirect interest.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "514-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The valuation report prepared by a registered valuer for any asset shall be in such form and verified in such manner, as may be prescribed. Downloaded/Printed on 5/22/26, 6:05 PM from www.incometaxindia.gov.in",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,333 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "363",
+      "id": "363",
+      "title": "Orders of Appellate Tribunal.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "363-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Appellate Tribunal may, after giving both the parties to the appeal, an opportunity of being heard, pass such orders thereon as it thinks fit.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "363-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Appellate Tribunal may amend any order passed by it under sub-section (1) for the rectification of any mistake apparent from record, within six months from the end of the month in which the order was passed, if the mistake is brought to its notice by the assessee or the Assessing Officer.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-2-001",
+              "target_id": "363-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "363-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An amendment, as referred to in sub-section (2), which has the effect of enhancing an assessment or reducing a refund or otherwise increasing the liability of the assessee, shall not be made, unless the assessee has been allowed a reasonable opportunity of being heard.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-3-001",
+              "target_id": "363-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "363-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any application filed by the assessee under sub-section (2) shall be accompanied by a fee of Rs. 50.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-4-001",
+              "target_id": "363-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "363-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In every appeal, the Appellate Tribunal, where it is possible, may hear and decide such appeal within four years from the end of the financial year in which such appeal is filed under section 362(1) or (2).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-5-001",
+              "target_id": "362-1",
+              "target_type": "subsection",
+              "anchor_text": "section 362(1) or (2)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "363-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Appellate Tribunal may, after considering the merits of the application made by the assessee, pass an order of stay in any proceedings relating to an appeal filed under section 362(1), for a period not exceeding one hundred and eighty days from the date of such order, subject to the condition that the assessee—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "363-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "deposits not less than 20% of the amount of tax, interest, fee, penalty or any other sum payable under this Act; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "363-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "furnishes security of equal amount as referred to in clause (a), and the Appellate Tribunal shall dispose of the appeal within the said period of stay specified in that order.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-363-6-b-001",
+                  "target_id": "363-6-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-6-001",
+              "target_id": "362-1",
+              "target_type": "subsection",
+              "anchor_text": "section 362(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "363-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No extension of stay, as referred to in sub-section (6), shall be granted by the Appellate Tribunal, where such appeal is not so disposed of within the said period of stay as specified in the order of stay passed under the said sub-section, unless—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "363-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee makes an application and has complied with the condition referred to in sub-section (6); and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-363-7-a-001",
+                  "target_id": "363-6",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (6)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "363-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Appellate Tribunal is satisfied that the delay in disposing of the appeal is not attributable to the assessee, so, however, that the aggregate of the period of stay originally allowed and the period of stay so extended shall not exceed three hundred and sixty-five days and the Appellate Tribunal shall dispose of the appeal within the period or periods of stay so extended or allowed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-7-001",
+              "target_id": "363-6",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (6)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "363-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The order of stay shall stand vacated if the appeal is not disposed of within the period allowed under sub-section (6) or (7), even if the delay in disposing of the appeal is not attributable to the assessee.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-8-001",
+              "target_id": "363-6",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (6) or (7)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "363-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The cost of any appeal to the Appellate Tribunal shall be at the discretion of that Tribunal.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "363-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "footnote_refs": [
+            "70"
+          ],
+          "text_before_clauses": "The Appellate Tribunal shall—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "363-10-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "send a copy of any order passed under this section to the assessee; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "363-10-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a copy of such order shall also be sent to the jurisdictional Principal Commissioner or Commissioner, electronically on the designated portal designed by the Director General or Principal Director General and the provisions relating to time limits under this Act for any appeal, reference, revision, or otherwise, shall apply accordingly.]",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "363-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Save as provided in section 365, orders passed by the Appellate Tribunal on appeal shall be final. \"(10) The Appellate Tribunal shall send a copy of any orders passed under this section to the assessee and to the Principal Commissioner or Commissioner.\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-363-11-001",
+              "target_id": "365",
+              "target_type": "section",
+              "anchor_text": "section 365",
+              "relationship": "procedure_reference",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "70",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (10) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

@@ -1,0 +1,109 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "40",
+      "id": "40",
+      "title": "Special provision for computation of cost of acquisition of certain assets.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "40-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of computation of income under the head \"Profits and gains of business or profession\", cost of acquisition of an asset which becomes property of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "40-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an amalgamated company under a scheme of amalgamation; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "40-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an assessee, under a gift, or will, or an irrevocable trust, or on total or partial partition of a Hindu undivided family, when sold as stock-in-trade shall be the sum of—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "40-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "cost of acquisition of the said asset in the hands of the amalgamating company in case of clause (a), or the transferor or donor in case of clause (b);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "40-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any cost of improvement made;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "40-1-b-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any expenditure incurred by the amalgamating company or transferor or donor, as the case may be, wholly and exclusively in connection with such transfer."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "40-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "This section shall not apply to an asset referred to in section 67(6).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-40-2-001",
+              "target_id": "67-6",
+              "target_type": "subsection",
+              "anchor_text": "section 67(6)",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

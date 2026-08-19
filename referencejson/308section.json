@@ -1,0 +1,55 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "308",
+      "id": "308",
+      "title": "Charge of tax in case of oral trust.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "308-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "308-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-308-2-001",
+              "target_id": "303-3",
+              "target_type": "subsection",
+              "anchor_text": "section 303(3)",
+              "relationship": "definition_or_scope",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

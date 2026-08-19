@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "434-1-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 393(2)",
+    "guessed_target_id": "393-2",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

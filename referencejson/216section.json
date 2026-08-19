@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "216",
+      "id": "216",
+      "title": "Return of income not to be furnished in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-216-001",
+          "target_id": "263-1",
+          "target_type": "subsection",
+          "anchor_text": "section 263(1)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

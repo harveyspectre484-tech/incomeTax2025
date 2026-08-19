@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "147-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 80L",
+    "guessed_target_id": "80L",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "147-3-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 6(1)",
+    "guessed_target_id": "6-1",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "147-5-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(zc)",
+    "guessed_target_id": "2-zc",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "147-5-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule VI",
+    "guessed_target_id": "schedule-VI",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "147-5-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(zc)",
+    "guessed_target_id": "2-zc",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "147-5-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule VI",
+    "guessed_target_id": "schedule-VI",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

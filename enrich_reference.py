@@ -33,21 +33,40 @@ TEXT_FIELDS = (
 )
 
 SUBSECTION_RE = re.compile(
-    r"\bsub-?section\s*\(\s*(?P<subsection>\d+[A-Za-z]?)\s*\)"
-    r"(?:\s*\(\s*(?P<clause>[a-z])\s*\))?",
+    r"\bsub-?sections?\s*\(\s*(?P<subsection>\d+[A-Za-z]?)\s*\)"
+    r"(?:\s*\(\s*(?:\d*\[)?(?P<clause>[a-z0-9]+)\]?\s*\))?"
+    r"(?:\s*(?:to|and|or|-)\s*(?:\d*\[)?(?:\(\s*)?(?P<end_clause>[a-z0-9]+)\)?\]?)?",
     re.IGNORECASE,
 )
 
 SECTION_RE = re.compile(
-    r"\bsection\s+"
+    r"\bsections?\s+"
     r"(?P<section>\d+[A-Za-z]?)"
     r"(?:\s*\(\s*(?P<subsection>\d+[A-Za-z]?)\s*\))?"
-    r"(?:\s*\(\s*(?P<clause>[a-z])\s*\))?",
+    r"(?:\s*\(\s*(?:\d*\[)?(?P<clause>[a-z0-9]+)\]?\s*\))?"
+    r"(?:\s*\(\s*(?P<subclause>[ivx]+)\s*\))?"
+    r"(?:\s*(?:to|and|or|-)\s*(?:\d*\[)?(?:\(\s*)?(?P<end_clause>[a-z0-9]+)\)?\]?)?",
     re.IGNORECASE,
 )
 
 CLAUSE_RE = re.compile(
-    r"\bclause\s*\(\s*(?P<clause>[a-z])\s*\)",
+    r"\b(?:sub-)?clauses?\s*\(\s*(?:\d*\[)?(?P<clause>[a-z0-9]+)\]?\s*\)"
+    r"(?:\s*\(\s*(?P<subclause>[ivx]+)\s*\))?"
+    r"(?:\s*(?:to|and|or|-)\s*(?:\d*\[)?(?:\(\s*)?(?P<end_clause>[a-z0-9]+)\)?\]?)?",
+    re.IGNORECASE,
+)
+
+PARAGRAPH_SCHEDULE_RE = re.compile(
+    r"\bparagraph\s+(?P<para>\d+)"
+    r"(?:\s*\(\s*(?P<subpara1>\d+)\s*\)"
+    r"(?:\s*(?:and|or|to|,)\s*\(\s*(?P<subpara2>\d+)\s*\))?)?"
+    r"(?:\s+of\s+Part\s+(?P<part>[A-Z]))?"
+    r"(?:\s+of\s+Schedule\s+(?P<schedule>[IVXLCDM\d]+))?",
+    re.IGNORECASE,
+)
+
+SCHEDULE_RE = re.compile(
+    r"(?:\bPart\s+(?P<part>[A-Z])\s+of\s+)?\bSchedule\s+(?P<schedule>[IVXLCDM\d]+)",
     re.IGNORECASE,
 )
 
@@ -56,8 +75,30 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Add rule-based internal legal references to parsed Act JSON."
     )
-    parser.add_argument("input_json", help="Path to source parsed JSON")
-    parser.add_argument("output_json", help="Path to write enriched JSON")
+    parser.add_argument(
+        "input_json",
+        nargs="?",
+        default=None,
+        help="Path to source parsed JSON (optional if --file / -i is specified)",
+    )
+    parser.add_argument(
+        "output_json",
+        nargs="?",
+        default=None,
+        help="Path to write enriched JSON (optional, defaults to <input_name>_enriched.json)",
+    )
+    parser.add_argument(
+        "-i", "--input", "--file", "--input-json",
+        dest="input_flag",
+        default=None,
+        help="Path to source parsed JSON file",
+    )
+    parser.add_argument(
+        "-o", "--output", "--output-json",
+        dest="output_flag",
+        default=None,
+        help="Path to write enriched JSON file",
+    )
     parser.add_argument(
         "--unresolved",
         default=None,
@@ -70,10 +111,32 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    input_path = Path(args.input_json)
-    output_path = Path(args.output_json)
+    input_file = args.input_flag or args.input_json
+    output_file = args.output_flag or args.output_json
+
+    if not input_file:
+        try:
+            input_file = input("Enter path to source parsed JSON file: ").strip().strip('"\'')
+        except (EOFError, KeyboardInterrupt):
+            print("\nOperation cancelled.")
+            return
+
+    if not input_file:
+        print("Error: No input file path provided.")
+        return
+
+    input_path = Path(input_file).resolve()
+    if not input_path.exists():
+        print(f"Error: Input file does not exist: {input_path}")
+        return
+
+    if output_file:
+        output_path = Path(output_file).resolve()
+    else:
+        output_path = input_path.with_name(f"{input_path.stem}_enriched.json")
+
     unresolved_path = (
-        Path(args.unresolved)
+        Path(args.unresolved).resolve()
         if args.unresolved
         else output_path.with_name(output_path.stem + ".unresolved.json")
     )
@@ -205,6 +268,8 @@ def extract_references_for_unit(
             continue
 
         for regex, kind in (
+            (PARAGRAPH_SCHEDULE_RE, "para_schedule"),
+            (SCHEDULE_RE, "schedule"),
             (SUBSECTION_RE, "subsection"),
             (SECTION_RE, "section"),
             (CLAUSE_RE, "clause"),
@@ -212,6 +277,8 @@ def extract_references_for_unit(
             for match in regex.finditer(text):
                 span_key = (field, match.start(), match.end())
                 if span_key in seen_spans:
+                    continue
+                if any(start <= match.start() and end >= match.end() for (_, start, end) in seen_spans):
                     continue
                 seen_spans.add(span_key)
 
@@ -224,20 +291,25 @@ def extract_references_for_unit(
                     unit_index=unit_index,
                 )
 
-                relationship = classify_relationship(text, match.start(), match.end())
+                if not target_id:
+                    continue
 
-                if target_id and target_id in unit_index:
-                    refs.append(
-                        {
-                            "reference_id": f"ref-{source_id}-{len(refs) + 1:03d}",
-                            "target_id": target_id,
-                            "target_type": unit_index[target_id]["type"],
-                            "anchor_text": anchor_text,
-                            "relationship": relationship,
-                            "confidence": "high",
-                        }
-                    )
-                else:
+                relationship = classify_relationship(text, match.start(), match.end())
+                in_index = target_id in unit_index
+                confidence = "high" if in_index else "medium"
+
+                refs.append(
+                    {
+                        "reference_id": f"ref-{source_id}-{len(refs) + 1:03d}",
+                        "target_id": target_id,
+                        "target_type": target_type or "unknown",
+                        "anchor_text": anchor_text,
+                        "relationship": relationship,
+                        "confidence": confidence,
+                    }
+                )
+
+                if not in_index:
                     item = {
                         "source_id": source_id,
                         "source_type": source_type,
@@ -246,20 +318,9 @@ def extract_references_for_unit(
                         "guessed_target_id": target_id,
                         "guessed_target_type": target_type,
                         "relationship": relationship,
-                        "reason": "target_id not found in unit index",
+                        "reason": "target_id not found in local unit index",
                     }
                     unresolved.append(item)
-                    if include_unresolved and target_id:
-                        refs.append(
-                            {
-                                "reference_id": f"ref-{source_id}-{len(refs) + 1:03d}",
-                                "target_id": target_id,
-                                "target_type": target_type or "unknown",
-                                "anchor_text": anchor_text,
-                                "relationship": relationship,
-                                "confidence": "low",
-                            }
-                        )
 
     return refs
 
@@ -271,6 +332,40 @@ def resolve_target(
     current_subsection_id: str | None,
     unit_index: dict[str, dict[str, Any]],
 ) -> tuple[str | None, str | None]:
+    if kind == "para_schedule":
+        groups = match.groupdict()
+        para = groups.get("para")
+        part = groups.get("part")
+        schedule = groups.get("schedule")
+        
+        target_id_parts = []
+        if schedule:
+            target_id_parts.append(f"schedule-{schedule.upper()}")
+        if part:
+            target_id_parts.append(f"part-{part.upper()}")
+        if para:
+            target_id_parts.append(f"para-{para}")
+            subpara1 = groups.get("subpara1")
+            if subpara1:
+                target_id_parts.append(subpara1)
+                
+        target_id = "-".join(target_id_parts) if target_id_parts else None
+        target_type = "paragraph" if para else ("part" if part else "schedule")
+        return target_id, unit_index.get(target_id, {}).get("type") or target_type
+
+    if kind == "schedule":
+        groups = match.groupdict()
+        part = groups.get("part")
+        schedule = groups.get("schedule")
+        target_id_parts = []
+        if schedule:
+            target_id_parts.append(f"schedule-{schedule.upper()}")
+        if part:
+            target_id_parts.append(f"part-{part.upper()}")
+        target_id = "-".join(target_id_parts) if target_id_parts else None
+        target_type = "part" if part else "schedule"
+        return target_id, unit_index.get(target_id, {}).get("type") or target_type
+
     if kind == "subsection":
         if not current_section_id:
             return None, None
@@ -285,6 +380,7 @@ def resolve_target(
         section = match.group("section")
         subsection = match.groupdict().get("subsection")
         clause = match.groupdict().get("clause")
+        subclause = match.groupdict().get("subclause")
         target_id = section
         target_type = "section"
         if subsection:
@@ -293,6 +389,9 @@ def resolve_target(
         if clause:
             target_id = f"{target_id}-{clause.lower()}"
             target_type = "clause"
+        if subclause:
+            target_id = f"{target_id}-{subclause.lower()}"
+            target_type = "subclause"
         return target_id, unit_index.get(target_id, {}).get("type") or target_type
 
     if kind == "clause":
@@ -319,11 +418,11 @@ def classify_relationship(text: str, start: int, end: int) -> str:
         return "subject_to"
     if "notwithstanding" in window:
         return "overrides"
-    if "as defined in" in window or "defined in" in window or "means" in window:
+    if "within the meaning of" in window or "as defined in" in window or "defined in" in window or "means" in window:
         return "definition_reference"
-    if "in accordance with" in window:
+    if "in accordance with" in window or "to the extent provided in" in window or "provided in" in window:
         return "procedure_reference"
-    if "under" in before[-30:] or "as per" in before[-30:] or "provided in" in before[-40:]:
+    if "under" in before[-30:] or "as per" in before[-30:] or "mentioned in" in window:
         return "depends_on"
     if "for the purposes of" in window:
         return "definition_or_scope"

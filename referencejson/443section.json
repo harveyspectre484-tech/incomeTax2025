@@ -1,0 +1,145 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "443",
+      "id": "443",
+      "title": "Penalty in respect of certain income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "9[] \"443. Penalty in respect of certain income.—(1) The Assessing Officer or the Joint Commissioner (Appeals) or Commissioner (Appeals) may impose a penalty of 10% of the tax payable under section 195(1)(i), on an assessee if the income determined in his case for any tax year includes any income referred to in section 102, 103, 104, 105 or 106.",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "443-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The penalty under sub-section (1) shall be payable in addition to the tax payable under section 195.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-443-2-001",
+              "target_id": "443-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-443-2-002",
+              "target_id": "195",
+              "target_type": "section",
+              "anchor_text": "section 195",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "443-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No penalty shall be levied on income referred to in section 102, 103, 104, 105 or 106 to the extent such income has been included by the assessee in the return of income furnished under section 263 and the tax as per section 195(1)(i) has been paid on or before the end of the relevant tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-443-3-001",
+              "target_id": "102",
+              "target_type": "section",
+              "anchor_text": "section 102",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-443-3-002",
+              "target_id": "263",
+              "target_type": "section",
+              "anchor_text": "section 263 and the",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-443-3-003",
+              "target_id": "195-1-i",
+              "target_type": "clause",
+              "anchor_text": "section 195(1)(i)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "443-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No penalty under section 439 shall be imposed upon the assessee in respect of income referred to in sub-section (1).\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-443-4-001",
+              "target_id": "443-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-443-4-002",
+              "target_id": "439",
+              "target_type": "section",
+              "anchor_text": "section 439",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-443-001",
+          "target_id": "195-1-i",
+          "target_type": "clause",
+          "anchor_text": "section 195(1)(i)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-443-002",
+          "target_id": "102",
+          "target_type": "section",
+          "anchor_text": "section 102",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "9",
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, section 443 read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

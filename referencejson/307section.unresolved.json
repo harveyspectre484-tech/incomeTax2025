@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "307-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "sections 303(1)(c) and (d)",
+    "guessed_target_id": "303-1-c",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "307-3",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 303(1)(d)",
+    "guessed_target_id": "303-1-d",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

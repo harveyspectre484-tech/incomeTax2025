@@ -1,0 +1,621 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "515",
+      "id": "515",
+      "title": "Appearance by authorised representative.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "515-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An assessee, entitled or required to attend before any income-tax authority or the Appellate Tribunal for any proceeding under this Act, may attend through an authorised representative.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "515-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (1) shall not apply where an assessee is required to attend personally for examination on oath or affirmation under section 246.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-515-2-001",
+              "target_id": "515-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-515-2-002",
+              "target_id": "246",
+              "target_type": "section",
+              "anchor_text": "section 246",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "515-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "515-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"authorised representative\" means a person authorised by the assessee, in writing, to appear on his behalf, being—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "515-3-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a person related to or regularly employed by the assessee in any manner; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "515-3-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any officer of a scheduled bank with which the assessee maintains a current account or has other regular dealings; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "515-3-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any legal practitioner, who is entitled to practise in any civil court in India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "515-3-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an accountant; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "515-3-a-v",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person, who has passed any accountancy examination recognised by the Board; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "515-3-a-vi",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person, who has acquired such educational qualifications, as may be prescribed; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vii",
+                  "id": "515-3-a-vii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person who, before the coming into force of the Income-tax Act, 1961 (43 of 1961) in the Union territory of Dadra and Nagar Haveli, Goa, Daman and Diu, or Pondicherry, attended before an income-tax authority in the said territory on behalf of any assessee otherwise than as an employee or relative of that assessee; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "viii",
+                  "id": "515-3-a-viii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other person who was an authorised representative in accordance with the provisions of section 288(2)(vii) of the Income-tax Act, 1961 (43 of 1961); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ix",
+                  "id": "515-3-a-ix",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other person as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "515-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"accountant\" means a chartered accountant as defined in section 2(1)(b) of the Chartered Accountants Act, 1949 (38 of 1949), who holds a valid certificate of practice under section 6(1) of that Act, but does not include [except for representing the assessee under sub-section (1)],—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "515-3-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in case of an assessee, being a company, a person who is not eligible for appointment as an auditor of the said company under section 141(3) of the Companies Act, 2013 (18 of 2013); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "515-3-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in any other case, —"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "515-3-b-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "or (iii) or (iv);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "515-3-b-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a person convicted by a court of an offence involving fraud and ten years has not elapsed from the date of such conviction."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-515-3-b-001",
+                  "target_id": "515-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                },
+                {
+                  "reference_id": "ref-515-3-b-002",
+                  "target_id": "2-1-b",
+                  "target_type": "clause",
+                  "anchor_text": "section 2(1)(b)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-515-3-b-003",
+                  "target_id": "6-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 6(1)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "515-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No person,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "515-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who has been dismissed or removed from Government service; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "515-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who has been convicted of an offence connected with any income-tax proceeding or on whom a penalty has been imposed under this Act, except a penalty imposed under section 271(1)(ii) or 272A(1)(d) of the Income-tax Act, 1961 (43 of 1961) or section 465(1)(d) of this Act; or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-515-4-b-001",
+                  "target_id": "271-1-ii",
+                  "target_type": "clause",
+                  "anchor_text": "section 271(1)(ii) or 272A",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-515-4-b-002",
+                  "target_id": "465-1-d",
+                  "target_type": "clause",
+                  "anchor_text": "section 465(1)(d)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "515-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who has become an insolvent; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "515-4-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who has been convicted by a court for an offence involving fraud, shall be qualified to represent an assessee under sub-section (1), for––",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "515-4-d-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "all times, in case of a person referred to in clause (a);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "515-4-d-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such time as the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner may by order determine, in case of a person referred to in clause (b);"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "515-4-d-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the period during which the insolvency continues, in case of a person referred to in clause (c); and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "515-4-d-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "ten years from the date of conviction, in case of a person referred to in clause (d)."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-515-4-d-001",
+                  "target_id": "515-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "515-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "515-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is a legal practitioner or an accountant, is found guilty of misconduct in his professional capacity by any authority authorised to institute disciplinary proceedings against him, the order passed by that authority shall affect his right to attend before an income-tax authority in the same manner as it affects his right to practise as a legal practitioner or accountant, as the case may be;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "515-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is not a legal practitioner or an accountant, and is found guilty of misconduct in any income-tax proceedings by the prescribed income-tax authority, he may be directed by such authority that he shall henceforth be disqualified from representing an assessee under sub-section (1).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-515-5-b-001",
+                  "target_id": "515-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "515-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every order or direction under sub-section (4)(b) or (5)(b) shall be subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "515-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no such order or direction shall be made against any person unless he has been given a reasonable opportunity of being heard;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "515-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any person against whom such an order or direction is made may, within one month of the said order or direction, appeal to the Board to have the order or direction cancelled; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "515-6-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no such order or direction shall take effect until one month has passed from the making thereof, or, if an appeal has been filed, until the disposal of the appeal.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-515-6-001",
+              "target_id": "515-4-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (4)(b) or (5)",
+              "relationship": "subject_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "515-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A person disqualified to represent an assessee by virtue of section 61(3) of the Indian Income-tax Act, 1922 (11 of 1922) or section 288(5) of the Income-tax Act, 1961 (43 of 1961) shall be disqualified to represent an assessee under sub-section (1).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-515-7-001",
+              "target_id": "515-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-515-7-002",
+              "target_id": "61-3",
+              "target_type": "subsection",
+              "anchor_text": "section 61(3)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-515-7-003",
+              "target_id": "288-5",
+              "target_type": "subsection",
+              "anchor_text": "section 288(5)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "515-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"relative\", in relation to an individual, means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "515-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "515-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "brother or sister of the individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "515-8-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "brother or sister of the spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "515-8-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal ascendant (maternal or paternal) or descendant of the individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "515-8-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal ascendant (maternal or paternal) or descendant of the spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "515-8-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "spouse of a person referred to in clause (b), (c), (d) or (e);",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-515-8-f-001",
+                  "target_id": "515-8-b",
+                  "target_type": "clause",
+                  "anchor_text": "clause (b)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "515-8-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal descendant of a brother or sister of either the individual or the spouse of the individual.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "283-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 282",
+    "guessed_target_id": "282",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 280",
+    "guessed_target_id": "280",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-1-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 274(6)",
+    "guessed_target_id": "274-6",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 274(4)",
+    "guessed_target_id": "274-4",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-3",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 280",
+    "guessed_target_id": "280",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-3-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 274(6)",
+    "guessed_target_id": "274-6",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "283-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 274(4)",
+    "guessed_target_id": "274-4",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "198-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 197",
+    "guessed_target_id": "197",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "198-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 156",
+    "guessed_target_id": "156",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "198-8",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule VII",
+    "guessed_target_id": "schedule-VII",
+    "guessed_target_type": "schedule",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "198-8",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "exception_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

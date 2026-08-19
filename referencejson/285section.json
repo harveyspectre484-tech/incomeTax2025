@@ -1,0 +1,128 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "285",
+      "id": "285",
+      "title": "Other provisions.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "285-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In an assessment, reassessment or recomputation made under section 279, the tax shall be chargeable at the rate or rates at which it would have been charged had the income not escaped assessment.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-285-1-001",
+              "target_id": "279",
+              "target_type": "section",
+              "anchor_text": "section 279",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "285-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The proceedings initiated under section 279 shall be dropped on a claim made by the assessee and on his showing to the effect that—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "285-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessee had been assessed on an amount not lower than what he would be rightly liable for, even if the income alleged to have escaped assessment had been taken into account, or the assessment or computation had been properly made; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "285-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "he has not impugned any part of the original assessment order for the relevant tax year under section 356 or 357 or 378.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-285-2-b-001",
+                  "target_id": "356",
+                  "target_type": "section",
+                  "anchor_text": "section 356 or 357",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-285-2-001",
+              "target_id": "279",
+              "target_type": "section",
+              "anchor_text": "section 279",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "285-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a claim has been made by an assessee under sub-section (2), he shall not be entitled to reopen matters concluded by an order under section 287 or 288 or 365(10) or 368 or 377.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-285-3-001",
+              "target_id": "285-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-285-3-002",
+              "target_id": "287",
+              "target_type": "section",
+              "anchor_text": "section 287 or 288",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

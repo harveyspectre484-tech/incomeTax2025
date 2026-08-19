@@ -1,0 +1,303 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "292",
+      "id": "292",
+      "title": "Assessment of total undisclosed income as a result of search.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "292-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of any other provision of this Act, where on or after the commencement of this Act, in the case of any person, a search is initiated or requisition is made, then, the Assessing Officer shall proceed to assess or reassess the total undisclosed income of the block period as per provisions of this Part.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "292-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "292-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The assessment or reassessment or recomputation proceedings under the provisions of this Act (other than of this part), if any, pertaining to any tax year falling in the block period, pending on the date of initiation of search, or the date of making of requisition, as the case may be, shall abate and shall be deemed to have been abated on such date.",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "292-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Any proceeding for assessment or reassessment or recomputation under any provisions of this Act (other than this Part) pertaining to any tax year falling in the block period (other than the tax year in which last of the authorisations for a search is executed or requisition is made), for which a notice has been issued during the period commencing on date of initiation of search or the date of making of requisition and ending on the date of making of order under section 294(1)(c), shall abate and shall be deemed to have been abated on the date of issue of such notice.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-292-2-b-001",
+                  "target_id": "294-1-c",
+                  "target_type": "clause",
+                  "anchor_text": "section 294(1)(c)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "292-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any reference has been made under section 166(1) or order has been passed under section 166(6), the assessment or reassessment or recomputation proceedings referred to in sub-section (2) together with such reference or order, shall abate and shall be deemed to have abated on the date referred to in sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-292-3-001",
+              "target_id": "292-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2) together",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-292-3-002",
+              "target_id": "292-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-292-3-003",
+              "target_id": "166-1",
+              "target_type": "subsection",
+              "anchor_text": "section 166(1) or order",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-292-3-004",
+              "target_id": "166-6",
+              "target_type": "subsection",
+              "anchor_text": "section 166(6)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "292-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If any assessment under the provisions of this part is required to be made in the case of an assessee, in whose case a search is initiated or a requisition is made subsequently—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "292-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such pending assessment shall be duly completed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "292-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "assessment in respect of such subsequent search or requisition shall be made thereafter under the provisions of this part; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "292-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the period available for assessment in clause (b) is less than three months, such period shall be extended to three months from the end of the month in which the assessment, as referred to in clause (a) was completed.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-292-4-c-001",
+                  "target_id": "292-4-b",
+                  "target_type": "clause",
+                  "anchor_text": "clause (b)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                },
+                {
+                  "reference_id": "ref-292-4-c-002",
+                  "target_id": "292-4-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "292-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this part or section 286, if any proceeding initiated under this part or any order of assessment or reassessment made under section 294(1)(c) has been annulled in an appeal or any other legal proceeding, then—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "292-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessment or reassessment or recomputation or reference or order relating to any tax year which has abated under sub-section (2) or (3), shall revive with effect from the date of receipt of the order of such annulment by the Principal Commissioner or Commissioner;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-292-5-a-001",
+                  "target_id": "292-2",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (2) or (3)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "292-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the revival, as referred to in clause (a) shall cease to have effect, if such order of annulment is set aside.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-292-5-b-001",
+                  "target_id": "292-5-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-292-5-001",
+              "target_id": "286",
+              "target_type": "section",
+              "anchor_text": "section 286",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-292-5-002",
+              "target_id": "294-1-c",
+              "target_type": "clause",
+              "anchor_text": "section 294(1)(c)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "292-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income (other than undisclosed income) of the tax year in which the last of the authorisations for a search is executed or a requisition is made, shall be assessed separately as per the other provisions of this Act.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "292-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The total undisclosed income relating to the block period, as referred to in section 293(7) shall be charged to tax at the rate specified in section 192 as income of the block period, irrespective of the tax year or years to which such income relates.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-292-7-001",
+              "target_id": "293-7",
+              "target_type": "subsection",
+              "anchor_text": "section 293(7)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-292-7-002",
+              "target_id": "192",
+              "target_type": "section",
+              "anchor_text": "section 192",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

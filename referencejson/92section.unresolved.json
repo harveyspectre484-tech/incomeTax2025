@@ -1,0 +1,152 @@
+[
+  {
+    "source_id": "92-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 13(a) to (d)",
+    "guessed_target_id": "13-a",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-2-d",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-2-k",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule V",
+    "guessed_target_id": "schedule-V",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 223(2)",
+    "guessed_target_id": "223-2",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-3-e",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule III",
+    "guessed_target_id": "schedule-III",
+    "guessed_target_type": "schedule",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-3-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 355(g)",
+    "guessed_target_id": "355-g",
+    "guessed_target_type": "clause",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-3-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 355(h)",
+    "guessed_target_id": "355-h",
+    "guessed_target_type": "clause",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-3-g",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 70(1)(a)",
+    "guessed_target_id": "70-1-a",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-4-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 66(32)",
+    "guessed_target_id": "66-32",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-4-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 78(2)",
+    "guessed_target_id": "78-2",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-4-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "sections 78(2) and 288",
+    "guessed_target_id": "78-2",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-5-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(105)",
+    "guessed_target_id": "2-105",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-5-d",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(22)",
+    "guessed_target_id": "2-22",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "92-5-h",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "422",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "section 304(1) or (5)",
+    "guessed_target_id": "304-1",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "422",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "section 9(2)",
+    "guessed_target_id": "9-2",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "124-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 202(1)",
+    "guessed_target_id": "202-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "clause (b)",
+    "guessed_target_id": "124-2-b",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-5",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 123",
+    "guessed_target_id": "123",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-3",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "paragraph 1",
+    "guessed_target_id": "para-1",
+    "guessed_target_type": "paragraph",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-3",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule XV",
+    "guessed_target_id": "schedule-XV",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-7",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "sub-section (6)(a)",
+    "guessed_target_id": "124-6-a",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-10",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 123",
+    "guessed_target_id": "123",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-11",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "paragraph 1",
+    "guessed_target_id": "para-1",
+    "guessed_target_type": "paragraph",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "124-11",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule XV",
+    "guessed_target_id": "schedule-XV",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

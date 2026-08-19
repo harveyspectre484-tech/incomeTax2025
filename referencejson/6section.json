@@ -1,0 +1,536 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "6",
+      "id": "6",
+      "title": "Residence in India.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "6-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Act, residential status in India in a tax year of a person shall be determined as per the provisions of this section.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "6-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An individual shall be resident in India in a tax year, if he—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is in India for a total period of one hundred and eighty-two days or more in that tax year; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is in India cumulatively for sixty days or more during that year and has been in India cumulatively for three hundred and sixty-five days or more in the four years preceding such tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "6-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (2)(b) shall not apply in the case of an individual who is a citizen of India and leaves India in any tax year—",
+          "references": [
+            {
+              "target_id": "6-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b)",
+              "relationship": "exception_to",
+              "reference_id": "ref-auto-001"
+            }
+          ],
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "as a member of the crew of an Indian ship, as defined in section 3(18) of the Merchant Shipping Act, 1958 (44 of 1958); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-6-3-a-001",
+                  "target_id": "3-18",
+                  "target_type": "subsection",
+                  "anchor_text": "section 3(18)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of employment outside India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "6-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (2)(b) shall not apply, subject to the provisions of sub-section (5), in the case of an individual—",
+          "references": [
+            {
+              "reference_id": "ref-6-4",
+              "target_id": "6-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b)",
+              "relationship": "exception_to"
+            },
+            {
+              "reference_id": "ref-6-4",
+              "target_id": "6-5",
+              "target_type": "clause",
+              "anchor_text": "sub-section (5)",
+              "relationship": "subject_to"
+            }
+          ],
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is a citizen of India or a person of Indian origin; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who being outside India, comes on a visit to India in any tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "6-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the person referred to in sub-section (4) has a total income exceeding fifteen lakh rupees during the tax year referred therein (other than the income from foreign sources), sub-section (2)(b) shall apply as if the words \"sixty days\" had been substituted with \"one hundred and twenty days\".",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-6-5-001",
+              "target_id": "6-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-6-5-002",
+              "target_id": "6-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "6-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2), if the individual is—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a citizen of India; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a member of the crew of a foreign-bound ship leaving India, the total number of days in India, in respect of that voyage, shall be determined in such manner and subject to such conditions, as may be prescribed.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-6-6-001",
+              "target_id": "6-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "6-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of the provisions of sub-sections (2) to (6), an individual shall be deemed to be resident in India for a tax year, if he—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is a citizen of India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is not liable to tax in any other country or territory due to his domicile, residence, or similar criteria; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "6-7-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has total income exceeding fifteen lakh rupees during such tax year (other than the income from foreign sources).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-6-7-001",
+              "target_id": "6-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (2) to (6)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "6-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Sub-section (7) shall not apply to an individual, who is resident in India for a tax year under sub-sections (2) to (6).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-6-8-001",
+              "target_id": "6-7",
+              "target_type": "subsection",
+              "anchor_text": "Sub-section (7)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-6-8-002",
+              "target_id": "6-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (2) to (6)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "6-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A Hindu undivided family, firm or other association of persons shall be resident in India in any tax year unless the control and management of its affairs is situated wholly outside India during such tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "6-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-10-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "A company is said to be a resident in India in any tax year, if—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "6-10-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "it is an Indian company; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "6-10-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "its place of effective management is in India in that tax year;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-10-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of this sub-section, \"place of effective management\" means a place where key management and commercial decisions necessary for the conduct of business of the company as a whole are, in substance, made.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "6-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every other person is resident in India in any tax year unless during that tax year the control and management of the affairs of such person is situated wholly outside India.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "6-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person is resident in India in a tax year for any source of income, he shall be deemed to be resident in India in that tax year for each of his other sources of income.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "6-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A person is not ordinarily resident in India in any tax year, if that person is—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "6-13-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an individual who has been, or a Hindu undivided family, whose manager has been—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "6-13-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a non-resident in India in nine out of the ten tax years preceding that year; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "6-13-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in India cumulatively for seven hundred and twenty-nine days or less in seven tax years preceding that year; or"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "6-13-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a citizen of India or a person of Indian origin,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "6-13-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "whose total income excluding income from foreign sources exceeds fifteen lakh rupees during the tax year, as mentioned in sub-section (5); and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "6-13-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "who has been in India cumulatively for one hundred and twenty days or more but less than one hundred and eighty-two days during the tax year; or"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "6-13-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a citizen of India who is deemed to be resident in India under sub-section (7).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-6-13-c-001",
+                  "target_id": "6-7",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (7)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "14",
+          "id": "6-14",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, \"income from foreign sources\" means the income, which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India) and which is not deemed to accrue or arise in India. Downloaded/Printed on 5/22/26, 5:34 PM from www.incometaxindia.gov.in",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

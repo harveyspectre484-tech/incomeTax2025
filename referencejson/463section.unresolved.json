@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "463-4-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 3",
+    "guessed_target_id": "3",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "463-4-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 514",
+    "guessed_target_id": "514",
+    "guessed_target_type": "section",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

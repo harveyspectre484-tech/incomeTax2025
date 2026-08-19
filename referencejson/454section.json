@@ -1,0 +1,93 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "454",
+      "id": "454",
+      "title": "12 [Penalty for failure to furnish statement of financial transaction or reportable account after a notice.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period specified in such notice for furnishing such statement or reportable account expires and such penalty shall not exceed Rs. 100000.] \"454. Penalty for failure to furnish statement of financial transaction or reportable account.—(1) If a person who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement within the time prescribed under sub-section (2) thereof, the income-tax authority prescribed under the said sub-section (1) may impose on him, a penalty of Rs. 500 for every day during which such failure continues.",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "454-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the person referred to in sub-section (1), fails to furnish the statement within the period specified in the notice issued under section 508(7), he shall pay penalty of Rs. 1000 for every day during which the failure continues, beginning from the day immediately after the time specified in such notice for furnishing the statement expires.\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-454-2-001",
+              "target_id": "454-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-454-2-002",
+              "target_id": "508-7",
+              "target_type": "subsection",
+              "anchor_text": "section 508(7)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-454-001",
+          "target_id": "454-2",
+          "target_type": "subsection",
+          "anchor_text": "sub-section (2)",
+          "relationship": "depends_on",
+          "confidence": "high"
+        },
+        {
+          "reference_id": "ref-454-002",
+          "target_id": "454-1",
+          "target_type": "subsection",
+          "anchor_text": "sub-section (1)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-454-003",
+          "target_id": "508-1",
+          "target_type": "subsection",
+          "anchor_text": "section 508(1)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-454-004",
+          "target_id": "508-7",
+          "target_type": "subsection",
+          "anchor_text": "section 508(7)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "12",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, section 454 read as under:",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

@@ -1,0 +1,38 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "297",
+      "id": "297",
+      "title": "Certain interests and penalties not to be levied or imposed.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-297-001",
+          "target_id": "423",
+          "target_type": "section",
+          "anchor_text": "section 423",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-297-002",
+          "target_id": "439",
+          "target_type": "section",
+          "anchor_text": "section 439",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

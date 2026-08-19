@@ -1,0 +1,182 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "230",
+      "id": "230",
+      "title": "Exclusion of deduction, loss, set off, etc.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "230-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in any other provision of this Act, in computing the tonnage income of a tonnage tax company for any tax year (herein referred to as the \"relevant tax year\") in which it is chargeable to tax as per this Part—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "230-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "sections 28 to 52 shall apply as if every loss, allowance or deduction referred to therein and relating to or allowable for any of the relevant tax years, had been given full effect to for that tax year itself;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-230-1-a-001",
+                  "target_id": "28",
+                  "target_type": "section",
+                  "anchor_text": "sections 28 to 52",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "230-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no loss referred to in section 108(1) or (2)(b) or 109(1) or 112(1) or 116(1), in so far as such loss relates to the business of operating qualifying ships of the company, shall be carried forward or set off where such loss relates to any of the tax years when the company is under the tonnage tax scheme;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-230-1-b-001",
+                  "target_id": "108-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 108(1) or (2)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "230-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no deduction shall be allowed under Chapter VIII in relation to the profits and gains from the business of operating qualifying ships; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "230-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in computing the depreciation allowance under section 33, the written down value of any asset used for the purposes of the tonnage tax business shall be computed as if the company has claimed and has been actually allowed the deduction in respect of depreciation for the relevant tax years.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-230-1-d-001",
+                  "target_id": "33",
+                  "target_type": "section",
+                  "anchor_text": "section 33",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "230-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Section 112 shall apply in respect of any losses that have accrued to a company before its option for tonnage tax scheme and which are attributable to its tonnage tax business, as if such losses had been set off against the relevant shipping income in any of the tax years when the company is under the tonnage tax scheme.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-230-2-001",
+              "target_id": "112",
+              "target_type": "section",
+              "anchor_text": "Section 112",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "230-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The losses referred to in sub-section (2) shall not be available for set off against any income other than relevant shipping income in any tax year beginning on or after the company exercises its option under section 231.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-230-3-001",
+              "target_id": "230-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-230-3-002",
+              "target_id": "231",
+              "target_type": "section",
+              "anchor_text": "section 231",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "230-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any apportionment necessary to determine the losses referred to in sub-section (2) shall be made on a reasonable basis.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-230-4-001",
+              "target_id": "230-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

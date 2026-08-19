@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "7-1-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "paragraph 6 of Part A of Schedule XI",
+    "guessed_target_id": "schedule-XI-part-A-para-6",
+    "guessed_target_type": "paragraph",
+    "relationship": "procedure_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "7-1-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "paragraph 11(4) and (5) of Part A of Schedule XI",
+    "guessed_target_id": "schedule-XI-part-A-para-11-4",
+    "guessed_target_type": "paragraph",
+    "relationship": "procedure_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "7-1-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 124",
+    "guessed_target_id": "124",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "7-2-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(40)(a) to 4[(e)]",
+    "guessed_target_id": "2-40-a",
+    "guessed_target_type": "clause",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

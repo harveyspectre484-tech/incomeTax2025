@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "375-7-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 365 or appeal",
+    "guessed_target_id": "365",
+    "guessed_target_type": "section",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "375-7-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 367 or in",
+    "guessed_target_id": "367",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

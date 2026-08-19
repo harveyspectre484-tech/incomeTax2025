@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "221-6-e",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(zg)",
+    "guessed_target_id": "2-1-zg",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

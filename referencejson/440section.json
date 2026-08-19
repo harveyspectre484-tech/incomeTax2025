@@ -1,0 +1,429 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "440",
+      "id": "440",
+      "title": "8 [Waiver of penalty and immunity from prosecution.]",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "8a[(1) An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "440-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An application referred in sub-section (1) shall be made within one month from the end of the month in which the order referred to in the said subsection is received by the assessee, in such form and verified in such manner, as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-2-001",
+              "target_id": "440-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "440-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer shall, on fulfilment of the conditions as specified in sub-section (1), and after the expiry of the period of filing appeal as specified in section 358(3)(a), grant waiver of penalty under section 439 and immunity from initiation of proceedings under section 478 or 479.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-3-001",
+              "target_id": "440-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-002",
+              "target_id": "358-3-a",
+              "target_type": "clause",
+              "anchor_text": "section 358(3)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-003",
+              "target_id": "439",
+              "target_type": "section",
+              "anchor_text": "section 439 and immunity",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-004",
+              "target_id": "478",
+              "target_type": "section",
+              "anchor_text": "section 478 or 479",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "440-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No waiver or immunity under sub-section (3) shall be granted if any proceeding has been initiated under Chapter XXII.]",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-4-001",
+              "target_id": "440-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "440-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer, shall pass an order accepting or rejecting the application as referred to in sub-section (1) within three months from the end of the month of its receipt.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-5-001",
+              "target_id": "440-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "440-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No order of rejection under sub-section (5) shall be made without giving the assessee an opportunity of being heard.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-6-001",
+              "target_id": "440-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "440-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The order made under sub-section (5) shall be final.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-7-001",
+              "target_id": "440-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "440-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No appeal under section 356 or 357 or an application for revision under section 378 shall be admissible against the order referred to in sub-section (1) (a), if an order under sub-section (5) has been made accepting the application. \"(1) An assessee may make an application to the Assessing Officer for granting immunity from penalty under section 439 and initiation of proceedings under section 478 or section 479, if––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "440-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax and interest payable as per the order of assessment or reassessment under section 270(10) or section 279, has been paid within the period specified in the notice of demand; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-440-8-a-001",
+                  "target_id": "270-10",
+                  "target_type": "subsection",
+                  "anchor_text": "section 270(10) or section",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "440-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no appeal against the order referred to in clause (a) has been filed.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-440-8-b-001",
+                  "target_id": "440-8-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-8-001",
+              "target_id": "440-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1) (a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-8-002",
+              "target_id": "440-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-440-8-003",
+              "target_id": "356",
+              "target_type": "section",
+              "anchor_text": "section 356 or 357",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-8-004",
+              "target_id": "378",
+              "target_type": "section",
+              "anchor_text": "section 378",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-8-005",
+              "target_id": "439",
+              "target_type": "section",
+              "anchor_text": "section 439 and initiation",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-8-006",
+              "target_id": "478",
+              "target_type": "section",
+              "anchor_text": "section 478 or section",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "440-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An application referred to in sub-section (1) shall be made within one month from the end of the month in which the order referred to in clause (a) of the said sub-section has been received, in such form and manner as may be prescribed.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-2-001",
+              "target_id": "440-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-2-002",
+              "target_id": "440-2-a",
+              "target_type": "clause",
+              "anchor_text": "clause (a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "440-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Assessing Officer, on fulfilment of the conditions as specified in sub-section (1), and after the expiry of the period of filing appeal as specified in section 358(3)(a), shall grant immunity from penalty under section 439 and initiation of proceedings under section 478 or 479.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-3-001",
+              "target_id": "440-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-002",
+              "target_id": "358-3-a",
+              "target_type": "clause",
+              "anchor_text": "section 358(3)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-003",
+              "target_id": "439",
+              "target_type": "section",
+              "anchor_text": "section 439 and initiation",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-3-004",
+              "target_id": "478",
+              "target_type": "section",
+              "anchor_text": "section 478 or 479",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "440-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No immunity under sub-section (3) shall be granted if penalty under section 439 has been initiated under circumstances referred to in section 439(11).\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-440-4-001",
+              "target_id": "440-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-440-4-002",
+              "target_id": "439",
+              "target_type": "section",
+              "anchor_text": "section 439",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-440-4-003",
+              "target_id": "439-11",
+              "target_type": "subsection",
+              "anchor_text": "section 439(11)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-440-001",
+          "target_id": "439",
+          "target_type": "section",
+          "anchor_text": "section 439 and immunity",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-440-002",
+          "target_id": "478",
+          "target_type": "section",
+          "anchor_text": "section 478 or 479",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "8",
+      "text": "Sub. for \"Immunity from imposition of penalty etc.\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "8a",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, sub-sections (1), (2), (3) and (4) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

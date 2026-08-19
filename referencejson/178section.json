@@ -1,0 +1,95 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "XI",
+      "x": 27.62,
+      "y_start": 80.0,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "children": [
+        {
+          "type": "section",
+          "number": "178",
+          "id": "178",
+          "title": "Applicability of General Anti-Avoidance Rule.",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_subsections": "",
+          "subsections": [
+            {
+              "type": "subsection",
+              "number": "1",
+              "id": "178-1",
+              "x": 27.62,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "2",
+              "id": "178-2",
+              "x": 27.62,
+              "y_start": 380.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
+              "clauses": [],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_subsections": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "178",
+      "id": "178",
+      "title": "Applicability of General Anti-Avoidance Rule.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "178-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "178-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "456",
+      "id": "456",
+      "title": "Penalty for failure to furnish statement or information or document by an eligible investment fund.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "If any eligible investment fund required to furnish a statement or any information or document under paragraph 4 of Schedule I, fails to do so within the time prescribed under the said paragraph, the income-tax authority prescribed under the said paragraph may direct that such fund shall pay, by way of penalty, a sum of Rs. 500000.",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-456-001",
+          "target_id": "schedule-I-para-4",
+          "target_type": "paragraph",
+          "anchor_text": "paragraph 4 of Schedule I",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

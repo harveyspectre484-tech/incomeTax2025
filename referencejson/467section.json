@@ -1,0 +1,135 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "467",
+      "id": "467",
+      "title": "Penalty for failure to comply with the provisions of 14[sections 262 and 397].",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "467-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person fails to comply with the provisions of section 262, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-467-1-001",
+              "target_id": "262",
+              "target_type": "section",
+              "anchor_text": "section 262",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "467-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person, required to quote or intimate his Permanent Account Number or Aadhaar number in any document as referred to in section 262(9)(a), provides or quotes or intimates a number which is false, knowing or believing it to be false, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-467-2-001",
+              "target_id": "262-9-a",
+              "target_type": "clause",
+              "anchor_text": "section 262(9)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "467-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person fails to quote or authenticate his Permanent Account Number or Aadhaar number in any document referred to in section 262(9)(a), the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-467-3-001",
+              "target_id": "262-9-a",
+              "target_type": "clause",
+              "anchor_text": "section 262(9)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "467-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person referred to in section 262(9)(b) responsible for ensuring the correct quoting or authentication of Permanent Account Number or Aadhaar number, in documents relating to transactions prescribed under section 262(9)(a) fails to do so, the Assessing Officer may impose a penalty of Rs. 10000 on him for each such default.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-467-4-001",
+              "target_id": "262-9-b",
+              "target_type": "clause",
+              "anchor_text": "section 262(9)(b)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-467-4-002",
+              "target_id": "262-9-a",
+              "target_type": "clause",
+              "anchor_text": "section 262(9)(a)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-467-001",
+          "target_id": "262",
+          "target_type": "section",
+          "anchor_text": "sections 262 and 397]",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "14",
+      "text": "Sub. for \"section 262\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

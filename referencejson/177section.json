@@ -1,0 +1,269 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "177",
+      "id": "177",
+      "title": "Limitation on interest deduction in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "177-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contrary in this Act, any expenditure by way of interest or similar payment in respect of excess interest, as specified in sub-section (4), shall not be deductible in computation of income chargeable under the head \"Profits and gains of business or profession\", if,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "177-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is paid or payable by an Indian company or a permanent establishment of a foreign company in India, in respect of any debt issued by an associated enterprise which is a non-resident; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "177-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the sum of such expenditure in a tax year exceeds one crore rupees.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-177-1-001",
+              "target_id": "177-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "177-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a lender, not being an associated enterprise, has issued a debt referred to in sub-section (1), such debt shall be deemed to have been issued by an associated enterprise if an associated enterprise has—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "177-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "provided an implicit or explicit guarantee to the lender in respect of such debt; or (b) deposited a corresponding and matching funds with such lender.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-177-2-001",
+              "target_id": "177-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "177-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply to—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "177-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "interest paid in respect of a debt issued by a lender which is a permanent establishment in India of a non-resident engaged in the business of banking;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "177-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an Indian company or a permanent establishment of a foreign company which is engaged in the business of banking or insurance or a Finance Company located in any International Financial Services Centre, or such class of non-banking financial companies as may be notified by the Central Government in this behalf.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "177-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), the expression \"excess interest\" means the total interest paid or payable in excess of 30% of earnings before interest, taxes, depreciation and amortisation of the borrower in the tax year or the interest paid or payable to associated enterprises for that tax year, whichever is less.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-177-4-001",
+              "target_id": "177-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "definition_reference",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "177-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Interest expenditure not wholly deducted against income under the head \"Profits and gains of business or profession\" for any tax year shall be—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "177-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "carried forward to the following tax year or years; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "177-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "allowed as a deduction against the profits and gains, if any, of any business or profession carried on by it and assessable for such tax year, to the extent of maximum allowable interest expenditure as per sub-section (4).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-177-5-b-001",
+                  "target_id": "177-4",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (4)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "177-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The interest expenditure referred to in sub-section (5) shall not be carried forward for more than eight tax years immediately succeeding the tax year for which the excess interest expenditure was first computed.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-177-6-001",
+              "target_id": "177-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "177-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "177-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"debt\" means any loan, financial instrument, finance lease, financial derivative, or any arrangement that gives rise to interest, discounts or other finance charges that are deductible in the computation of income chargeable under the head \"Profits and gains of business or profession\";",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "177-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"Finance Company\" means a finance company as defined in regulation 2(1)(e) of the International Financial Services Centres Authority (Finance Company) Regulations, 2021 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019) and which satisfies such conditions and carries on such activities, as may be prescribed; (c) \"permanent establishment\" shall have the meaning assigned to it in section 173(c).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-177-7-b-001",
+                  "target_id": "173-c",
+                  "target_type": "clause",
+                  "anchor_text": "section 173(c)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

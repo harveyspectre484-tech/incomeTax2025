@@ -1,0 +1,69 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "477",
+      "id": "477",
+      "title": "Failure to pay tax collected at source.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "23[(1) If a person fails to pay the tax collected by him to the credit of the Central Government, as required under section 397(3)(a), he shall be punishable––",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "477-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall not apply if the payment of the tax collected at source has been made to the credit of the Central Government on or before the time prescribed for filing the statement under section 397(3)(b) in respect of such payment. \"(1) If a person fails to pay the tax collected by him to the credit of the Central Government, as required under section 397(3)(a), he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years, and with fine.\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-477-2-001",
+              "target_id": "397-3-b",
+              "target_type": "clause",
+              "anchor_text": "section 397(3)(b)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-477-2-002",
+              "target_id": "397-3-a",
+              "target_type": "clause",
+              "anchor_text": "section 397(3)(a)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-477-001",
+          "target_id": "397-3-a",
+          "target_type": "clause",
+          "anchor_text": "section 397(3)(a)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "23",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (1) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

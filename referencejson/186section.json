@@ -1,0 +1,174 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "186",
+      "id": "186",
+      "title": "Mode of undertaking transactions.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "186-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No person shall receive an amount of Rs. 200000 or more—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "186-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in aggregate from a person in a day; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "186-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of a single transaction; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "186-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of transactions relating to one event or occasion from a person, except through—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "186-1-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an account payee cheque; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "186-1-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "account payee bank draft; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "186-1-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "electronic clearing system through a bank account; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "186-1-c-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other electronic mode, as may be prescribed."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "186-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Sub-section (1) shall not apply to—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "186-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any receipt by Government, any banking company, post office savings bank or co-operative bank;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "186-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "transactions of the nature referred to in section 185;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-186-2-b-001",
+                  "target_id": "185",
+                  "target_type": "section",
+                  "anchor_text": "section 185",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "186-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such other persons or class of persons or receipts, as may be notified by the Central Government.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-186-2-001",
+              "target_id": "186-1",
+              "target_type": "subsection",
+              "anchor_text": "Sub-section (1)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

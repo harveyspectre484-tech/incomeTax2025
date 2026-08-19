@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "12-1",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule VIII",
+    "guessed_target_id": "schedule-VIII",
+    "guessed_target_type": "schedule",
+    "relationship": "subject_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "12-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule VIII",
+    "guessed_target_id": "schedule-VIII",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "12-3",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "Schedule VIII",
+    "guessed_target_id": "schedule-VIII",
+    "guessed_target_type": "schedule",
+    "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  }
+]

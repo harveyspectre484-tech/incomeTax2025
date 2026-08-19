@@ -1,0 +1,166 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "314",
+      "id": "314",
+      "title": "Effect of order of tribunal or court in respect of business reorganisation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "314-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything to the contrary contained in section 263, if prior to the date of order in respect of business reorganisation, any return of income has been furnished under the provisions of the said section by an entity for any tax year to which such order applies, the successor shall furnish, within six months from the end of the month in which the order was issued, a modified return in such form and manner, as may be prescribed, in accordance with and limited to the said order.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-314-1-001",
+              "target_id": "263",
+              "target_type": "section",
+              "anchor_text": "section 263",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "314-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "314-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "have been completed on the date of furnishing of the modified return as per the provisions of sub-section (1), the Assessing Officer shall pass an order modifying the total income of the relevant tax year determined in such assessment or reassessment, in accordance with such order in respect of business reorganisation and taking into account the modified return so furnished;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-314-2-a-001",
+                  "target_id": "314-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "314-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "are pending on the date of furnishing of the modified return as per sub-section (1), the Assessing Officer shall pass an order assessing or reassessing the total income of the relevant tax year as per the order in respect of the business reorganisation and taking into account the modified return so furnished.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-314-2-b-001",
+                  "target_id": "314-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "314-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Subject to any other provisions of this section, in an assessment or reassessment made in respect of a tax year under this section, all other provisions of this Act shall apply and the tax shall be chargeable at the rate or rates as applicable to such tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "314-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "314-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"business reorganisation\" means the reorganisation of business involving the amalgamation or demerger or merger of business of one or more persons;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "314-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"order in respect of business reorganisation\" means an order of a High Court or tribunal or an Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016); and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-314-4-b-001",
+                  "target_id": "5-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 5(1)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "314-4-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"successor\" means all resulting companies in a business reorganisation, whether or not the company was in existence prior to such business reorganisation.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

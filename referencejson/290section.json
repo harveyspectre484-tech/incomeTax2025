@@ -1,0 +1,114 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "290",
+      "id": "290",
+      "title": "Modification and revision of notice in certain cases.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "290-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "290-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any tax, interest, penalty, fine or any other sum in respect of which a notice of demand has been issued earlier under section 289; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-290-1-a-001",
+                  "target_id": "289",
+                  "target_type": "section",
+                  "anchor_text": "section 289",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "290-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such tax, interest, penalty, fine or any other sum is reduced as a result of an order of the Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Assessing Officer shall serve on the assessee a modified notice of demand specifying the sum payable, if any, and such notice shall be treated as a notice under section 289 and the provisions of this Act shall accordingly apply in relation to such notice.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-290-1-b-001",
+                  "target_id": "5-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 5(1)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-290-1-b-002",
+                  "target_id": "289",
+                  "target_type": "section",
+                  "anchor_text": "section 289 and the",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "290-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The modified notice of demand as referred to in sub-section (1) shall be revised where the order referred to in sub-section (1)(b) is modified by the National Company Law Appellate Tribunal or the Supreme Court.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-290-2-001",
+              "target_id": "290-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-290-2-002",
+              "target_id": "290-1-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

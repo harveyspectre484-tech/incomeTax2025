@@ -1,0 +1,150 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "7",
+      "id": "7",
+      "title": "Income deemed to be received and dividend deemed to be income in a tax year.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "7-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following incomes shall be deemed to be received in the tax year:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "7-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the annual accretion in that year to the balance at the credit of an employee participating in a recognised provident fund, to the extent provided in paragraph 6 of Part A of Schedule XI;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-7-1-a-001",
+                  "target_id": "schedule-XI-part-A-para-6",
+                  "target_type": "paragraph",
+                  "anchor_text": "paragraph 6 of Part A of Schedule XI",
+                  "relationship": "procedure_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "7-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transferred balance in a recognised provident fund, to the extent provided in paragraph 11(4) and (5) of Part A of Schedule XI;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-7-1-b-001",
+                  "target_id": "schedule-XI-part-A-para-11-4",
+                  "target_type": "paragraph",
+                  "anchor_text": "paragraph 11(4) and (5) of Part A of Schedule XI",
+                  "relationship": "procedure_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "7-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the contribution made by the Central Government or any other employer in that year to the account of an employee under a pension scheme mentioned in section 124.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-7-1-c-001",
+                  "target_id": "124",
+                  "target_type": "section",
+                  "anchor_text": "section 124",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "7-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For inclusion in the total income of an assessee,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "7-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any dividend declared by a company or distributed or paid by it within the meaning of section 2(40)(a) to 4[(e)] shall be deemed to be the income of the tax year in which it is so declared, distributed or paid, as the case may be;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-7-2-a-001",
+                  "target_id": "2-40-a",
+                  "target_type": "clause",
+                  "anchor_text": "section 2(40)(a) to 4[(e)]",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "7-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any interim dividend shall be deemed to be the income of the tax year in which the amount of such dividend is unconditionally made available by the company to the member who is entitled to it.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "4",
+      "text": "Sub. for \"(f)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

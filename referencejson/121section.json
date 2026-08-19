@@ -1,0 +1,38 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "121",
+      "id": "121",
+      "title": "Submission of return for losses.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Irrespective of anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed under section 263(1), shall be carried forward and set off under section 111(1) or 112(1) or 113(2) or 114(2) or 115(2).",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-121-001",
+          "target_id": "263-1",
+          "target_type": "subsection",
+          "anchor_text": "section 263(1)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-121-002",
+          "target_id": "111-1",
+          "target_type": "subsection",
+          "anchor_text": "section 111(1) or 112",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,153 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "195",
+      "id": "195",
+      "title": "Tax on income referred to in sections 102 to 106.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "195-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the total income of an assessee—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "195-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "includes any income referred to in section 102 or 103 or 104 or 105 or 106 and reflected in the return of income furnished under section 263; or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-195-1-a-001",
+                  "target_id": "102",
+                  "target_type": "section",
+                  "anchor_text": "section 102 or 103",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-195-1-a-002",
+                  "target_id": "263",
+                  "target_type": "section",
+                  "anchor_text": "section 263",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "195-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "determined by the Assessing Officer includes any income referred to in any of the said section 102 or 103 or 104 or 105 or 106, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "195-1-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income-tax calculated on the income referred to in clauses (a) and (b), at the rate of 24[30%]; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "195-1-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income-tax with which the assessee would have been chargeable had his total income been reduced by income referred to in clause (i)."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-195-1-b-001",
+                  "target_id": "102",
+                  "target_type": "section",
+                  "anchor_text": "section 102 or 103",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-195-1-b-002",
+                  "target_id": "195-1-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "195-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in sub-section (1)(a) and (b).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-195-2-001",
+              "target_id": "195-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) and (b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-195-001",
+          "target_id": "102",
+          "target_type": "section",
+          "anchor_text": "sections 102 to 106",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "24",
+      "text": "Sub. for \"60%\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "363-5",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 362(1) or (2)",
+    "guessed_target_id": "362-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "363-6",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 362(1)",
+    "guessed_target_id": "362-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "363-11",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 365",
+    "guessed_target_id": "365",
+    "guessed_target_type": "section",
+    "relationship": "procedure_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

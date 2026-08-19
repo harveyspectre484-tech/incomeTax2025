@@ -1,0 +1,90 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "403",
+      "id": "403",
+      "title": "Liability for payment of advance tax.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "403-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "403-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "403-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (1) shall not apply to an individual resident in India, who—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "403-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "does not have any income chargeable under the head \"Profits and gains of business or profession\"; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "403-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is of the age of sixty years or more at any time during the tax year.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-403-3-001",
+              "target_id": "403-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

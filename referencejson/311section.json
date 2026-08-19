@@ -1,0 +1,133 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "311",
+      "id": "311",
+      "title": "Charge of tax where shares of members in association of persons or body of individuals unknown, etc.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "311-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the individual shares of the members of an association of persons or body of individuals in the whole or any part of the income of such association or body are indeterminate or unknown, tax shall be charged on the total income of such association or body at the maximum marginal rate, subject to the provision of sub-section (2).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-311-1-001",
+              "target_id": "311-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "subject_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "311-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In a case referred to in sub-section (1) where the total income of any member of such association or body is chargeable to tax at a rate which is higher than the maximum marginal rate, tax shall be charged on the total income of the such association or body at such higher rate.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-311-2-001",
+              "target_id": "311-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "311-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the individual shares of the members of an association of persons or body of individuals in the whole or any part of the income of such association or body are determinate or known, and—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "311-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where the total income of any member of such association or body for the tax year (excluding his share from such association or body) exceeds the maximum amount which is not chargeable to, tax shall be charged on the total income of the association or body at the maximum marginal rate;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "311-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where the total income of such association or body for the tax year chargeable to tax at a rate which is higher than the maximum marginal rate,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "311-3-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "tax shall be charged on that portion of the total income of association or body which is relatable to the share of such member at such higher rate; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "311-3-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the balance of the total income of such association or body shall be taxed at the maximum marginal rate."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "311-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the individual shares of the members of an association of persons or body of individuals in the whole or any part of the income of such association or body shall be deemed to be indeterminate or unknown if such shares (in relation to the whole or any part of such income) are indeterminate or unknown on the date of formation of such association or body or at any time thereafter.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

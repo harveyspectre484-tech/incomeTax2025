@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "291",
+      "id": "291",
+      "title": "Intimation of loss.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "The Assessing Officer shall notify to the assessee by an order in writing the amount of the loss as computed by him for the purposes of section 111(1) or 112 or 113(2) or 115(1), where—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-291-001",
+          "target_id": "111-1",
+          "target_type": "subsection",
+          "anchor_text": "section 111(1) or 112",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

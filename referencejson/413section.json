@@ -1,0 +1,180 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "413",
+      "id": "413",
+      "title": "Certificate by Tax Recovery Officer and validity thereof.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "413-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "When an assessee is in default or is deemed to be in default in making a payment of tax, the Tax Recovery Officer may draw up under his signature a statement in such form as may be prescribed specifying the amount of arrears due from the assessee (such statement being herein and in sections 414 to 416 referred to as certificate) and shall proceed to recover from such assessee the amount specified in the certificate by one or more of the modes mentioned below, as per the rules prescribed in this regard,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "413-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "attachment and sale of movable property of the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "413-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "attachment and sale of immovable property of the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "413-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "98"
+              ],
+              "text": "appointing a receiver for the management of movable and immovable properties of the assessee.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-413-1-001",
+              "target_id": "414",
+              "target_type": "section",
+              "anchor_text": "sections 414 to 416",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "413-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Tax Recovery Officer may take action under sub-section (1), whether or not proceedings for recovery of the arrears by any other mode have been taken.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-413-2-001",
+              "target_id": "413-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "413-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The assessee shall not be entitled to dispute the correctness of any certificate drawn up by the Tax Recovery Officer on any ground.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "413-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Tax Recovery Officer may cancel the certificate if, for any reason, he considers it necessary so to do, or may correct any clerical or arithmetical mistake therein.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "413-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the movable or immovable property of the assessee shall include any property—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "413-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "which has been transferred, directly or indirectly on or after the 1st June, 1973, by the assessee to his spouse or minor child or son's wife or son's minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the said persons; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "413-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "so far as the movable or immovable property so transferred to his minor child or his son's minor child is concerned, it shall, even after the date of attainment of majority by such minor child or son's minor child, as the case may be, continue to be included in the movable or immovable property of the assessee for recovering any arrears due from the assessee in respect of any period prior to such date.",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "413-5-d",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "appointing a receiver for the management of movable and immovable properties of the assessee.\"",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "98",
+      "text": "Clause (c) sub. for clauses (c) and (d) by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, clauses (c) and (d) read as under : \"(c) arrest of the assessee and his detention in prison;",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

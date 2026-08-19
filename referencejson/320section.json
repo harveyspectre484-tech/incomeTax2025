@@ -1,0 +1,183 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "12",
+      "id": "12",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "—Discontinuance of business, or dissolution",
+      "subsections": [],
+      "text_after_subsections": ""
+    },
+    {
+      "type": "section",
+      "number": "320",
+      "id": "320",
+      "title": "Discontinued business.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "320-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in section 4, where any business or profession is discontinued in any tax year, the income of the period beginning from the first day of that tax year up to the date of such discontinuance may, at the discretion of the Assessing Officer, be charged to tax in that tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-320-1-001",
+              "target_id": "4",
+              "target_type": "section",
+              "anchor_text": "section 4",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "320-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The total income of each completed tax year or part of any tax year included in such period shall be chargeable to tax at the rate or rates in force in that tax year, and separate assessments shall be made in respect of each such completed tax year or part of any tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "320-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any person discontinuing any business or profession shall give to the Assessing Officer notice of such discontinuance within fifteen days thereof.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "320-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any business is discontinued in any year, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the person who carried on the business had such sum been received before such discontinuance.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "320-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any profession is discontinued in any year on account of the cessation of the profession by, or the retirement or death of, the person carrying on the profession, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the said person, had it been received before such discontinuance.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "320-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an assessment is to be made under the provisions of this section, the Assessing Officer may serve on the person whose income is to be assessed or, in the case of a firm, on any person who was a partner of such firm at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under section 268(1) and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under section 268(1).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-320-6-001",
+              "target_id": "268-1",
+              "target_type": "subsection",
+              "anchor_text": "section 268(1) and the",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-320-6-002",
+              "target_id": "268-1",
+              "target_type": "subsection",
+              "anchor_text": "section 268(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "320-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in section 268 or 280, where the provisions of sub-section (1) are applicable, the Assessing Officer may issue any notice under section 268 or 280, requiring the furnishing of the return by the person whose income is to be assessed in respect of any tax chargeable under any other provisions of this Act, within such period, not being less than seven days, as the Assessing Officer may think proper.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-320-7-001",
+              "target_id": "320-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-320-7-002",
+              "target_id": "268",
+              "target_type": "section",
+              "anchor_text": "section 268 or 280",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-320-7-003",
+              "target_id": "268",
+              "target_type": "section",
+              "anchor_text": "section 268 or 280",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "320-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tax chargeable under this section shall be in addition to the tax, if any, chargeable under any other provision of this Act.",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

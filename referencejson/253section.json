@@ -1,0 +1,400 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "253",
+      "id": "253",
+      "title": "Powers of survey.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "253-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in any other provision of this Act, an income-tax authority may enter any place at which a business or profession, or activity for charitable purpose is carried on, whether such place be the principal place or not of such business or profession or of such activity for charitable purpose, where such place—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "253-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is within the limits of the area assigned to such authority; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "253-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is occupied by any person in respect of whom such authority exercises jurisdiction; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "253-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of which such authority is authorised for the purposes of this section by income-tax authority, who is assigned the area within which such place is situated or who exercises jurisdiction in respect of any person occupying such place, and, upon entry into such a place, may require any proprietor, trustee, employee or any other person who may at that time and place be attending in any manner to, or helping in, the carrying on of such business or profession or such activity for charitable purpose—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "253-1-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to provide the necessary technical and other assistance (including access code) to enable the inspection of such books of account or other documents, or information in electronic form or on a computer system, as may be required and which may be available at such place;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "253-1-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to provide the necessary facility to check or verify the asset, stock, which may be found therein; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "253-1-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to furnish such information as such authority may require as to any matter which may be useful for, or relevant to, any proceeding under this Act."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "253-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, a place where a business or profession, or activity for charitable purpose is carried on shall also include any other place, whether any business or profession or activity for charitable purpose is carried on therein or not, in which the person carrying on such business or profession or activity for charitable purpose states that any of his books of account or other documents or any part of his cash or stock or other valuable article or thing or computer system relating to such business or profession or activity for charitable purpose, are or is kept.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "253-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An income-tax authority may enter any place of business or profession or activity for charitable purpose referred to in sub-sections (1) and (2), only during the hours at which such place is open for the conduct of business or profession or activity for charitable purpose and, in the case of any other place, only after sunrise and before sunset.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-253-3-001",
+              "target_id": "253-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (1) and (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "253-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An income-tax authority may, for the purposes of verifying that tax has been deducted or collected at source as per the provisions of Chapter XIX-B of this Act, after sunrise and before sunset, enter––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "253-4-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any office, or any other place where business or profession or activity for charitable purpose is carried on, within the limits of the area assigned to such authority; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "253-4-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any place in respect of which such authority is authorised for the purposes of this section by an income-tax authority who is assigned the area within which such place is situated or where books of account or documents, or computer system are kept, and on entry to such office or place, the income-tax authority may require the deductor or the collector or any other person who may at that time and place be attending in any manner to such work—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "253-4-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to provide the necessary technical and other assistance (including access code) to enable the inspection of such books of account or other documents, or information in electronic form or on a computer system, as may be required and which may be available at such place; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "253-4-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "to furnish such information as may be required in relation to such matter."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "253-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An income-tax authority acting under this section may—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "253-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "place marks of identification on the books of account or other documents inspected by such authority and make or cause to be made extracts or copies therefrom or from any computer system;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "253-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "record the statement of any person on oath which may be useful for, or relevant to, any proceeding under this Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "253-5-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "impound after recording reasons for doing so, any books of account or other documents, or any computer system inspected by it, and retain it for a period—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "253-5-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "up to fifteen days (exclusive of holidays); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "253-5-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "exceeding fifteen days (exclusive of holidays) with the prior approval of the approving authority;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "253-5-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "make an inventory of any asset or stock checked or verified by such income-tax authority.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "253-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax authority acting under sub-section (4) shall only undertake the actions referred under sub-sections (5)(a) and (5)(b).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-253-6-001",
+              "target_id": "253-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-253-6-002",
+              "target_id": "253-5-a",
+              "target_type": "clause",
+              "anchor_text": "sub-sections (5)(a) and (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "253-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An income-tax authority acting under this section shall, on no account, remove or cause to be removed from the place wherein it has entered, any asset or stock.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "253-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax authority having regard to the nature and scale of expenditure incurred, for the purposes of verifying the expenditure made by the person in connection with any function, ceremony or event, if it is of the opinion that it is necessary and expedient to do so, after such function, ceremony or event, may—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "253-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "require the person by whom such expenditure has been incurred or any other person who is likely to possess the information regarding such expenditure, to furnish such information which may be useful for, or relevant to, any proceeding under this Act;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "253-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "record the statements of the person or any other person on oath in this behalf; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "253-8-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any statement so recorded may thereafter be used as evidence in any proceeding under this Act.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "253-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person is required to provide facility to the income-tax authority to inspect books of account or other documents in any form, or any computer system or to check or verify any cash, stock or other valuable article or thing or to furnish any information or to have his statement recorded, either refuses or evades to do so, the income-tax authority shall have all the powers under section 246(1) for enforcing compliance with the requirement.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-253-9-001",
+              "target_id": "246-1",
+              "target_type": "subsection",
+              "anchor_text": "section 246(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "253-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The action under this section shall be taken by an income-tax authority with the prior approval of the Principal Director General or the Director General or the Principal Chief Commissioner or the Chief Commissioner.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "253-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

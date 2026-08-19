@@ -1,0 +1,122 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "28",
+      "id": "28",
+      "title": "Rent, rates, taxes, repairs and insurance.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "28-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The following amounts shall be allowed as deduction in respect of premises, machinery, plant or furniture used for the purposes of the business or profession:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "28-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any premium paid in respect of insurance against risk of damage or destruction thereof;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "28-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "land revenue, local rates or municipal taxes paid;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "28-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "rent paid, when the premises are occupied by the assessee as a tenant;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "28-1-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "amount paid on account of current repairs to the premises, not being in the nature of capital expenditure, when the premises are occupied by the assessee otherwise than as a tenant;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "28-1-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "amount paid on account of cost of repairs, not being in the nature of capital expenditure, when the premises are occupied by the assessee as a tenant and where he has undertaken to bear the cost of repairs to the premises; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "28-1-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount paid on account of current repairs to machinery, plant or furniture, not being in the nature of capital expenditure.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "28-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case where the premises, building, machinery, plant or furniture is partly used or not wholly and exclusively used for the purposes of the business or profession, the deduction allowable under sub-section (1) shall be restricted to the fair proportionate part thereof as determined by the Assessing Officer, having regard to the usage for the purposes of the business or profession.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-28-2-001",
+              "target_id": "28-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

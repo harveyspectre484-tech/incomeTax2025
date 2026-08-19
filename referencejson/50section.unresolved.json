@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "50-2-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "Schedule III",
+    "guessed_target_id": "schedule-III",
+    "guessed_target_type": "schedule",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

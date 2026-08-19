@@ -1,0 +1,109 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "496",
+      "id": "496",
+      "title": "Offences triable by Special Court.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "496-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "496-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the offences punishable under this Chapter shall be triable only by the Special Court, if so designated, for the area or areas or for cases or class or group of cases, as the case may be, in which the offence has been committed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "496-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a Special Court may, upon a complaint made by an authority authorised in this behalf under this Act, take cognizance of the offence for which the accused is committed for trial.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "496-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1)(a), the court competent to try offences under section 520,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "496-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "which has been designated as a Special Court under this section, shall continue to try the offences before it or offences arising under this Act after such designation;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "496-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "which has not been designated as a Special Court, may continue to try such offence pending before it till its disposal.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-496-2-001",
+              "target_id": "496-1-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-496-2-002",
+              "target_id": "520",
+              "target_type": "section",
+              "anchor_text": "section 520",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

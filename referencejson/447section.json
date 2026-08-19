@@ -1,0 +1,46 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "447",
+      "id": "447",
+      "title": "Penalty for failure to furnish report under section 172.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "11[] \"447. Penalty for failure to furnish report under section 172.—If any person fails to furnish a report from an accountant as required by section 172, the Assessing Officer may impose a penalty of Rs. 100000 on such person.\"",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-447-001",
+          "target_id": "172",
+          "target_type": "section",
+          "anchor_text": "section 172",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-447-003",
+          "target_id": "172",
+          "target_type": "section",
+          "anchor_text": "section 172",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "11",
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, section 447 read as under :",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

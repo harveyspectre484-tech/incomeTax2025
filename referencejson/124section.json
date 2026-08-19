@@ -1,0 +1,462 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "124",
+      "id": "124",
+      "title": "Deduction in respect of employer and assessee contribution to pension scheme of Central Government.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "124-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where in the case of an assessee, being an individual employed by any employer, if the employer makes any contribution in his account under a pension scheme notified by the Central Government, the assessee shall be allowed a deduction in the computation of his total income, of the whole of the amount contributed by such employer as does not exceed—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "124-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "14%, where such contribution is made by the employer being the Central Government or the State Government; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "124-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "10%, where such contribution is made by an employer other than an employer referred to in clause (a), of his salary in the tax year.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-124-1-b-001",
+                  "target_id": "124-1-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "124-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the total income of the assessee is chargeable to tax under section 202(1), the provisions of sub-section (1) shall have effect as if for \"10%\" referred to in clause (b) of that sub-section, \"14%\" had been substituted.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-2-001",
+              "target_id": "124-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-124-2-002",
+              "target_id": "202-1",
+              "target_type": "subsection",
+              "anchor_text": "section 202(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-124-2-003",
+              "target_id": "124-2-b",
+              "target_type": "clause",
+              "anchor_text": "clause (b)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "124-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An assessee referred to in sub-section (1), or any other assessee, being an individual, shall be allowed a deduction not exceeding Rs. 50000, in computation of his total income of the whole of the amount paid or deposited in the tax year by such individual in his account under a pension scheme notified or as may be notified by the Central Government.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-3-001",
+              "target_id": "124-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "124-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The deduction under sub-section (3) shall also be allowed where any payment or deposit is made to the account of a minor under the said pension scheme, by the assessee, being the parent or guardian of such minor, subject to the condition that the aggregate amount of deduction under sub-section (3) and this sub-section shall not exceed Rs. 50000.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-4-001",
+              "target_id": "124-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-124-4-002",
+              "target_id": "124-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3) and this",
+              "relationship": "subject_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "124-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction under sub-sections (3) and (4) shall be allowed in respect of the amount on which a deduction has been claimed and allowed under section 123.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-5-001",
+              "target_id": "124-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (3) and (4)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-124-5-002",
+              "target_id": "123",
+              "target_type": "section",
+              "anchor_text": "section 123",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "124-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any amount standing to the credit of the assessee or a minor, in his account or the account of a minor, as the case may be, referred to in sub-sections (1),",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-6-001",
+              "target_id": "124-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "124-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "and (4) and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "124-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on account of closure or his opting out of the pension scheme referred to in sub-sections (1) and (3); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-124-3-a-001",
+                  "target_id": "124-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-sections (1) and (3)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "124-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "as pension received from the annuity plan purchased or taken on such closure or opting out, the whole of the amount referred to in clause (a) or (b) shall be deemed to be the income of the individual or his nominee, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-124-3-b-001",
+                  "target_id": "124-3-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a) or (b)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-3-001",
+              "target_id": "para-1",
+              "target_type": "paragraph",
+              "anchor_text": "paragraph 1",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-124-3-002",
+              "target_id": "schedule-XV",
+              "target_type": "schedule",
+              "anchor_text": "Schedule XV",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "124-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount received by the nominee, on the death of the assessee, under the circumstances referred to in sub-section (6)(a), shall not be deemed to be the income of the nominee.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-7-001",
+              "target_id": "124-6-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (6)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "124-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount received by a person, being the parent or guardian or nominee of a minor on account of closure of the pension scheme, due to the death of the minor, referred to in sub-section (4), shall not be deemed to be the income of such person.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-8-001",
+              "target_id": "124-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "124-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the assessee shall not be deemed to have received any amount in the tax year, if such amount is used for purchasing an annuity plan in the same tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "124-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any amount paid or deposited by the assessee has been allowed as a deduction under sub-section (3), no deduction with reference to such amount shall be allowed under section 123 for that tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-10-001",
+              "target_id": "124-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-124-10-002",
+              "target_id": "123",
+              "target_type": "section",
+              "anchor_text": "section 123",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "124-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any amount standing to the credit of the assessee, being a subscriber to Unified Pension Scheme, in his account referred to in sub-sections (1) and (3), and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year on account of his superannuation or voluntary retirement or retirement under Fundamental Rules 56(j) (which is not treated as penalty under the Central Civil Services (Classification, Control and Appeal) Rules, 1965), the whole of the amount shall be deemed to be the income of the assessee or his nominee, as the case may be, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-11-001",
+              "target_id": "para-1",
+              "target_type": "paragraph",
+              "anchor_text": "paragraph 1",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-124-11-002",
+              "target_id": "schedule-XV",
+              "target_type": "schedule",
+              "anchor_text": "Schedule XV",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-124-11-003",
+              "target_id": "124-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (1) and (3)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "124-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (11), the assessee shall be deemed not to have received any amount in the tax year if such amount is transferred to pool corpus from individual corpus on account of his superannuation or voluntary retirement or retirement under Fundamental Rules 56(j) (which is not treated as penalty under the Central Civil Services (Classification, Control and Appeal) Rules, 1965), as may be applicable.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-124-12-001",
+              "target_id": "124-11",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (11)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "124-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "124-13-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"pool corpus\" and \"individual corpus\" shall have the same meaning as in Notification F. No. FX-1/3/2024-PR of the Department of Financial Services, dated the 24th January, 2025.",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "124-13-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"salary\" includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

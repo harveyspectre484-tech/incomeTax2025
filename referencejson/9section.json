@@ -1,0 +1,1294 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "9",
+      "id": "9",
+      "title": "Income deemed to accrue or arise in India.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "9-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income referred to in sub-sections (2) to (8) shall be deemed to accrue or arise in India.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-9-1-001",
+              "target_id": "9-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (2) to (8)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "9-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income accruing or arising, directly or indirectly, through or from—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any asset or source of income in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any property in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "9-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any business connection in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "9-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transfer of a capital asset situated in India, shall be deemed to accrue or arise in India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "9-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any income falling under the head \"Salaries\" shall be deemed to accrue or arise in India, if it is—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "earned in India, and any income payable for,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-3-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "services rendered in India; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-3-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the rest period or leave period which is preceded and succeeded by services rendered in India and forms part of the service contract of employment, shall be regarded as income earned in India;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "payable by the Government to an Indian citizen for services rendered outside India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "9-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any dividend paid by an Indian company outside India shall be deemed to accrue or arise in India.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "9-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Income by way of interest payable by—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-5-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-5-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a resident, except where it is payable in respect of any debt incurred, or moneys borrowed and used, for the purpose of—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-5-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a non-resident, if it is in respect of any debt incurred, or moneys borrowed and used, for the purposes of a business or profession carried on by such non-resident in India, shall be deemed to accrue or arise in India;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of clause (a),—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-5-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any interest payable by the permanent establishment in India of a non-resident person engaged in the business of banking, to the head office or any other permanent establishment or any other part of such non-resident outside India shall be deemed to accrue or arise in India and shall be chargeable to tax in addition to any income attributable to such permanent establishment in India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-5-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such permanent establishment in India shall—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-5-b-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c)."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-5-b-001",
+                  "target_id": "9-5-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "definition_or_scope",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "9-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Income by way of royalty payable by—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-6-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-6-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a resident, except where the royalty is payable in respect of any right, property or information used or services utilised for the purposes of—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-6-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a non-resident, if the royalty is payable in respect of any right, property or information used or services utilised for the purposes of—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-6-a-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the transfer or grant of all or any rights (including the granting of a licence) in respect of a patent, invention, model, design, secret formula or process or trade mark or similar property;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-6-a-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the imparting of any information concerning the working of, or the use of, a patent, invention, model, design, secret formula or process or trade mark or similar property;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-6-a-iii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the use of any patent, invention, model, design, secret formula or process or trade mark or similar property;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "9-6-a-iv",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the imparting of any information concerning technical, industrial, commercial or scientific knowledge, experience or skill"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "v",
+                  "id": "9-6-a-v",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the use or right to use any industrial, commercial or scientific equipment except the amounts referred in section 61(2) (Table: Sl. No. 5)"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vi",
+                  "id": "9-6-a-vi",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the transfer or grant of all or any rights (including the granting of a licence) in respect of any copyright, literary, artistic or scientific work including—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "vii",
+                  "id": "9-6-a-vii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the rendering of services in connection with the activities referred to in sub-clauses (i) to (vi);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "9-6-c",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for the purposes of clause (b),—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-6-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the transfer or grant of all or any rights in respect of any right, property or information includes transfer or grant of all or any right for use or right to use a computer software (including granting of a licence) irrespective of the medium through which that right is transferred;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-6-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "royalty includes consideration in respect of any right, property or information, whether or not—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-6-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the expression \"process\" includes transmission by satellite (including up-linking, amplification, conversion for down-linking of any signal), cable, optic fibre or by any other similar technology, whether or not that process is secret;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "9-6-c-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the expression \"computer software\" means any computer programme recorded on any disc, tape, perforated media or other information storage device and includes any such programme or any customised electronic data."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-6-c-001",
+                  "target_id": "9-6-b",
+                  "target_type": "clause",
+                  "anchor_text": "clause (b)",
+                  "relationship": "definition_or_scope",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "9-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Income by way of fees for technical services payable by—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-7-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Government;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-7-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a resident, except where it is payable in respect of services utilised for—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-7-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a non-resident, if it is payable in respect of services utilised for—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-7-a-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "for any construction, assembly, mining or like project undertaken by the recipient; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-7-a-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "which would be income of the recipient chargeable under the head \"Salaries\"."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "9-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Income arising outside India, in the nature of a sum referred to in section 2(49)(u), paid by a person resident in India,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "to a non-resident, not being a company, or to a foreign company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "to a person not ordinarily resident in India under section 6(13), shall be deemed to accrue or arise in India.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-9-8-b-001",
+                  "target_id": "6-13",
+                  "target_type": "subsection",
+                  "anchor_text": "section 6(13)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-9-8-001",
+              "target_id": "2-49-u",
+              "target_type": "clause",
+              "anchor_text": "section 2(49)(u)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "9-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-9-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "For the purposes of this section, \"business connection\" in India shall include—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-9-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any business carried out in India in the case of which all or part of operation are carried out in India; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a significant economic presence in India;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-9-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in clause (a), a business carried out in India shall include—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-9-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "business activity carried out through a person who, acting on behalf of the non-resident,—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a business activity carried out through a person who is a broker, general commission agent or any other agent, through whom such activity is carried out, and who is working mainly or wholly on behalf of—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-9-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "carried out through a broker, general commission agent or any other agent having an independent status, if such broker, general commission agent or any other agent is acting in the ordinary course of his business; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "which are confined to any of the following—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-b-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "systematic and continuous soliciting of business activities or engaging in interaction with such number of users in India, as may be prescribed, irrespective of whether the agreement for such transactions or activities is entered in India, or the non-resident has a residence or place of business in India, or the non-resident renders any services in India;"
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-9-b-001",
+                  "target_id": "9-9-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "9-9-e",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of clause (d) shall not apply to the transactions or activities which are confined to the purchase of goods in India for the purpose of export;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-9-9-e-001",
+                  "target_id": "9-9-d",
+                  "target_type": "clause",
+                  "anchor_text": "clause (d)",
+                  "relationship": "exception_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "9-9-f",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in this section, only the income which is reasonably attributable to—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-9-f-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "operations carried out in India, when all operations of the business are not carried out in India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-f-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "transactions or activities referred to in clause (d), shall be deemed to accrue or arise in India from any business connection;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "9-9-g",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the income attributable to operations of any business or significant economic presence in this section shall also include income from—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-9-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such advertisement which targets a customer who resides in India or a customer who accesses the advertisement through internet protocol address located in India;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-9-g-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "sale of data collected from a person who resides in India or from a person who uses internet protocol address located in India; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-9-g-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "sale of goods or services using data collected from a person who resides in India or from a person who uses internet protocol address located in India."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "9-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In sub-section (2),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-10-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an asset or a capital asset, being any share of, or interest in, a company or entity registered or incorporated outside India shall be deemed to be situated in India, if the share or interest derives, directly or indirectly, its value substantially from the assets (whether tangible or intangible) located in India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-10-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the share or interest, referred to in clause (a), shall be deemed to derive its value substantially from the assets (whether tangible or intangible) located in India, if on the specified date, the value of such assets,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-10-b-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "exceeds the amount of ten crore rupees; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-10-b-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "represents at least 50% of the value of all the assets owned by the company or entity, as the case may be;"
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-10-b-001",
+                  "target_id": "9-10-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "9-10-d",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expression \"specified date\" in clause (c) means—",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-9-10-d-001",
+                  "target_id": "9-10-c",
+                  "target_type": "clause",
+                  "anchor_text": "clause (c)",
+                  "relationship": "definition_reference",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "9-10-c",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the value of an asset shall be the fair market value on the specified date of such asset without reduction of liabilities, if any, in respect of the asset, determined in the manner, as may be prescribed;",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-10-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the date on which the accounting period of the company or, as the case may be, the entity ends preceding the date of transfer of a share or an interest; or"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "9-10-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expression \"accounting period\" in clause (d) means—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-10-e-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the date of transfer, if the book value of the assets of the company or, as the case may be, the entity on the date of transfer exceeds the book value of the assets as on the date referred to in sub-clause (i), by 15%;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-10-e-i",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "each period of twelve months ending with the 31st March;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-10-e-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "each period of twelve months ending with a date other than the 31st March, in a case where a company or an entity, referred to in clause (a), regularly adopts a period of twelve months ending on a day other than the 31st March for—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-10-e-iii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the period beginning with the date of registration or incorporation of a company or entity and ending with the 31st March or such other day referred to in sub-clause (ii), in a case where a company or entity comes into existence and the later accounting period shall be the successive periods of twelve months; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "9-10-e-iv",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the period beginning with the 1st April or such other day as applicable in sub-clause (ii) and ending with the date immediately preceding the date on which the company or entity ceases to exist, in a case where the company or the entity ceases to exist before the end of the accounting period;"
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-10-e-001",
+                  "target_id": "9-10-d",
+                  "target_type": "clause",
+                  "anchor_text": "clause (d)",
+                  "relationship": "definition_reference",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "9-10-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in case of assets mentioned in clause (a), if—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-10-f-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "there is a transfer outside India of any share of, or interest in, a company or an entity registered or incorporated outside India by a non-resident transferor; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-10-f-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "all the assets owned, directly or indirectly, by that company or entity are not located in India, then, the income referred to in sub-section (2) shall be only such part of the income as is reasonably attributable to assets located in India and determined in the manner, as may be prescribed;"
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-10-f-001",
+                  "target_id": "9-10-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "9-10-g",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the income referred to in sub-section (2) shall not include income from transfer, outside India, of any share of, or interest in, a company or an entity registered or incorporated outside India,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-10-g-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if such share of, or interest in, a company or an entity registered or incorporated outside India is held by a non-resident by way of investment, directly or indirectly,—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-10-g-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if such company or entity directly owns the assets situated in India and the transferor (whether individually or along with its associated enterprises), at any time in the twelve months preceding the date of transfer,—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "9-10-g-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "if such company or entity indirectly owns the assets situated in India and the transferor (whether individually or along with its associated enterprises), at any time in the twelve months preceding the date of transfer,—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "9-10-g-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in this clause, \"associated enterprises\" shall have the meaning assigned to it in section 162."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-10-g-001",
+                  "target_id": "9-2",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (2)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-9-10-001",
+              "target_id": "9-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "9-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In sub-sections (5), (6) and (7), income of a non-resident shall be deemed to accrue or arise in India and shall be included in his total income, whether or not,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-11-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the non-resident has a residence or place of business or business connection in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-11-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the non-resident has rendered services in India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-9-11-001",
+              "target_id": "9-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (5)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "9-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "9-12-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "In this section, the fund management activity carried out by an eligible investment fund through an eligible fund manager acting on behalf of such fund, shall not constitute business connection in India of that fund;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "9-12-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the eligible investment fund mentioned in clause (a) shall not be said to be resident in India under section 6 merely because the eligible fund manager, undertaking fund management activities on its behalf, is situated in India;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-9-12-b-001",
+                  "target_id": "6",
+                  "target_type": "section",
+                  "anchor_text": "section 6",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-9-12-b-002",
+                  "target_id": "9-12-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "9-12-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "nothing contained in this section shall apply to exclude any income from the total income of the eligible investment fund, which would have been so included irrespective of whether the activity of the eligible fund manager constituted the business connection in India of such fund or not;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "9-12-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "nothing contained in this section shall have any effect on the scope of total income or determination of total income in the case of the eligible fund manager;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "9-12-e",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the conditions for being an eligible investment fund or an eligible fund manager, or furnishing of requisite statements shall be as per the provisions of Schedule I;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-9-12-e-001",
+                  "target_id": "schedule-I",
+                  "target_type": "schedule",
+                  "anchor_text": "Schedule I",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "9-12-f",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Central Government may, by notification, specify that any one or more of the conditions as referred to in clause (e) shall not apply, or shall apply, with such modifications, as specified, in case of an eligible investment fund and its eligible fund manager, if—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "9-12-f-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the eligible fund manager is located in an International Financial Services Centre; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "9-12-f-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has commenced its operations on or before the 31st March, 2030."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-9-12-f-001",
+                  "target_id": "9-12-e",
+                  "target_type": "clause",
+                  "anchor_text": "clause (e)",
+                  "relationship": "exception_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "9-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"through\" shall mean and include \"by means of\", \"in consequence of\" or \"by reason of\".",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

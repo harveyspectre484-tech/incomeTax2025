@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "123",
+    "source_type": "section",
+    "field": "text_before_subsections",
+    "anchor_text": "Schedule XV",
+    "guessed_target_id": "schedule-XV",
+    "guessed_target_type": "schedule",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

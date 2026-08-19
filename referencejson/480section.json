@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "480",
+      "id": "480",
+      "title": "26 [Failure to furnish return of income setting forth undisclosed income.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-480-001",
+          "target_id": "294-1-a",
+          "target_type": "clause",
+          "anchor_text": "section 294(1)(a)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

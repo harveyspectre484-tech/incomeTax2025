@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "188-3-d",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(45)",
+    "guessed_target_id": "2-45",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "62-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 58(2) or 61",
+    "guessed_target_id": "58-2",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "62-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 58(2) or section",
+    "guessed_target_id": "58-2",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

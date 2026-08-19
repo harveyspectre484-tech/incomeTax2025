@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "418-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 413 and the",
+    "guessed_target_id": "413",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

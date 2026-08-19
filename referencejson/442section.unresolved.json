@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "442-1-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 171(1)",
+    "guessed_target_id": "171-1",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "442-2",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 171(4)",
+    "guessed_target_id": "171-4",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

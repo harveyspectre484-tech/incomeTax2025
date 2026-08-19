@@ -1,0 +1,476 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "126",
+      "id": "126",
+      "title": "Deduction in respect of health insurance premia.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "126-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An assessee, being an individual or a Hindu undivided family, shall be allowed a deduction of a sum as specified in sub-sections (2) to (8), payment of which is made by any mode as specified in sub-section (9), out of his income chargeable to tax in the tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-1-001",
+              "target_id": "126-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-sections (2) to (8)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-126-1-002",
+              "target_id": "126-9",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (9)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "126-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of an assessee, being an individual, the sum referred to in sub-section (1), shall be the aggregate of the whole of the amount paid—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "to effect or keep in force an insurance on the health (herein referred to as health insurance) of the assessee or his family, or any contributions made to the Central Government Health Scheme or such other scheme, as may be notified by the Central Government in this behalf, or any payment made for preventive health check-up of the assessee or his family, up to Rs. 25000 in aggregate;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "to effect or to keep in force the health insurance, or any payment made for preventive health check-up, for the parent or parents of the assessee, up to Rs. 25000 in aggregate;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "126-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on account of medical expenditure incurred on the health of the assessee or any member of his family, up to Rs. 50000 in aggregate; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "126-2-d",
+              "x": 40.8,
+              "y_start": 450.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on account of medical expenditure incurred on the health of any parent of the assessee, up to Rs. 50000 in aggregate.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-2-001",
+              "target_id": "126-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "126-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The deduction in respect of amounts referred to in sub-section (2)(a) or (2)(b), which are paid on account of preventive health check-up, shall be allowed up to Rs. 5000 in aggregate.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-3-001",
+              "target_id": "126-2-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(a) or (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "126-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount of sum referred to in sub-section (2) shall not exceed Rs. 50000 in aggregate of the sum specified under sub-section (2)(a) and (c) or aggregate of the sum specified under sub-section (2)(b) and (d).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-4-001",
+              "target_id": "126-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-126-4-002",
+              "target_id": "126-2-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(a) and (c)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-126-4-003",
+              "target_id": "126-2-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(b) and (d)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "126-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of an assessee, being a Hindu undivided family, the sum referred to in sub-section (1), shall be the aggregate of the whole of the amount paid —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-5-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "to effect or keep in force an insurance on the health of any member of such Hindu undivided family, up to Rs. 25000 in the aggregate; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-5-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on account of medical expenditure incurred on the health of any member of such Hindu undivided family, up to Rs. 50000 in the aggregate.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-5-001",
+              "target_id": "126-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "126-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount of sum under sub-section (5) shall not exceed Rs. 50000 in the aggregate of the sum specified under sub-section (5)(a) and (b).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-6-001",
+              "target_id": "126-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-126-6-002",
+              "target_id": "126-5-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (5)(a) and (b)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "126-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, where the amount is paid on account of medical expenditure incurred on the health of a senior citizen under sub-section (2)(c) or (d) or (5)(b), deduction shall be allowed, if no amount has been paid to effect or to keep in force the health insurance of such person.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-7-001",
+              "target_id": "126-2-c",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(c) or (d)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "126-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the sum specified in sub-section (2)(a) or (b) or (5)(a) is paid to effect or keep in force the health insurance of any person specified therein, and —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-8-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such person is a senior citizen, the amount of sum as provided in such clauses, shall be substituted with Rs. 50000 for Rs. 25000; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-8-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such sum is paid in lump sum in the tax year for more than a year, a deduction shall be allowed for each of the relevant tax year equal to the appropriate fraction of such amount.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-8-001",
+              "target_id": "126-2-a",
+              "target_type": "clause",
+              "anchor_text": "sub-section (2)(a) or (b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "126-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of deduction under sub-section (1), the payment shall be made by any mode,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-9-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "including cash, in respect of any sum paid on account of preventive health check-up; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-9-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "other than cash in all other cases not falling under clause (a).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-126-9-b-001",
+                  "target_id": "126-9-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-126-9-001",
+              "target_id": "126-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "126-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-10-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"appropriate fraction\" means the fraction where the numerator is one, and the denominator is the total number of relevant tax years;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-10-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"family\" means the spouse and dependant children of the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "126-10-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"relevant tax year\" means the tax year beginning with the tax year in which such lump sum amount is paid and the subsequent tax year or years during which the health insurance remains in force.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "126-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The health insurance referred to in this section shall be as per the scheme made in this behalf by—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "126-11-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the General Insurance Corporation of India formed under section 9 of the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972) and approved by the Central Government in this behalf; or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-126-11-a-001",
+                  "target_id": "9",
+                  "target_type": "section",
+                  "anchor_text": "section 9",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "126-11-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other insurer and approved by the Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-126-11-b-001",
+                  "target_id": "3-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 3(1)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

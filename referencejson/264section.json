@@ -1,0 +1,151 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "264",
+      "id": "264",
+      "title": "Scheme for submission of returns through tax return preparers.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "264-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Board may make a Scheme for furnishing returns of income through a tax return preparer and such Scheme shall be notified, which—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "264-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "may enable any specified class or classes of persons in preparing and furnishing returns of income through a tax return preparer authorised to act as such under the Scheme;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "264-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "may be made irrespective of provisions of section 263.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-264-1-b-001",
+                  "target_id": "263",
+                  "target_type": "section",
+                  "anchor_text": "section 263",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "264-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purpose of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "264-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"tax return preparer\" means any individual, not being a person referred to in section 515(3)(a)(ii) or an employee of the \"specified class or classes of persons\", who has been authorised to act as a tax return preparer under the Scheme made under this section;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-264-2-a-001",
+                  "target_id": "515-3-a-ii",
+                  "target_type": "subclause",
+                  "anchor_text": "section 515(3)(a)(ii) or an",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "264-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified class or classes of persons\" means any person, other than a company or a person, whose accounts are required to be audited under section 63 or under any other law, who is required to furnish a return of income under this Act.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-264-2-b-001",
+                  "target_id": "63",
+                  "target_type": "section",
+                  "anchor_text": "section 63 or under",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "264-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every notification for the Scheme referred to in sub-section (1) shall be issued as per section 534 of this Act.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-264-3-001",
+              "target_id": "264-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-264-3-002",
+              "target_id": "534",
+              "target_type": "section",
+              "anchor_text": "section 534",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

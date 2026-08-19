@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "184-8",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 92(5)(g)",
+    "guessed_target_id": "92-5-g",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "184-12",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
+    "anchor_text": "section 159(1) or (2)",
+    "guessed_target_id": "159-1",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

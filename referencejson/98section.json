@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "98",
+      "id": "98",
+      "title": "\"Transfer\" and \"revocable transfer\" defined.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "For the purposes of sections 96 and 97, and this section,—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-98-001",
+          "target_id": "96",
+          "target_type": "section",
+          "anchor_text": "sections 96 and 97",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

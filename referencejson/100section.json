@@ -1,0 +1,30 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "100",
+      "id": "100",
+      "title": "Liability of person in respect of income included in income of another person.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—",
+      "subsections": [],
+      "text_after_subsections": "",
+      "references": [
+        {
+          "reference_id": "ref-100-001",
+          "target_id": "25-a",
+          "target_type": "clause",
+          "anchor_text": "section 25(a)",
+          "relationship": "depends_on",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,78 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "435",
+      "id": "435",
+      "title": "Refund on appeal, etc.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "435-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, as a result of any order passed in appeal or other proceeding under this Act, refund of any amount becomes due to the assessee, the Assessing Officer shall, except as otherwise provided in this Act, refund the amount to the assessee without his having to make any claim in that behalf.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "435-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where, by the order as referred to in sub-section (1),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "435-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an assessment is set aside or cancelled and an order of fresh assessment is directed to be made, the refund, if any, shall become due only on the making of such fresh assessment;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "435-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assessment is annulled, the refund shall become due only of the amount, if any, of the tax paid in excess of the tax chargeable on the total income returned by the assessee.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-435-2-001",
+              "target_id": "435-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

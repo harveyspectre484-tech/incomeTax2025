@@ -1,0 +1,241 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "384",
+      "id": "384",
+      "title": "Procedure on receipt of application.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "384-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "On receipt of an application, the Board for Advance Rulings shall forward a copy thereof to the Principal Commissioner or Commissioner and, call upon him to furnish the relevant records, which shall be returned at the earliest opportunity.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "384-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The Board for Advance Rulings may, after examining the application and the records called for either allow or reject the application by an order.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "384-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2), an application shall be rejected if the question raised therein—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "384-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is already pending before any income-tax authority or Appellate Tribunal except in the case of a resident applicant falling under section 380(b)(iii) or any court;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-384-3-a-001",
+                  "target_id": "380-b-iii",
+                  "target_type": "subclause",
+                  "anchor_text": "section 380(b)(iii) or any",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "384-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "involves determination of fair market value of any property;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "384-3-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "relates to a transaction or issue which is designed prima facie for the avoidance of income-tax except in the case of a resident applicant falling in section 380(b)(iii) or in the case of an applicant falling under section 380(b)(iv).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-384-3-c-001",
+                  "target_id": "380-b-iii",
+                  "target_type": "subclause",
+                  "anchor_text": "section 380(b)(iii) or in",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-384-3-c-002",
+                  "target_id": "380-b-iv",
+                  "target_type": "subclause",
+                  "anchor_text": "section 380(b)(iv)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-384-3-001",
+              "target_id": "384-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "384-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The application shall not be rejected under sub-section (2), unless an opportunity of being heard has been given to the applicant and the reasons for such rejection are given in the order.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-384-4-001",
+              "target_id": "384-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "384-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A copy of every order made under sub-section (2) shall be sent to the applicant and to the Principal Commissioner or Commissioner.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-384-5-001",
+              "target_id": "384-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "384-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where an application is allowed under sub-section (2), the Board for Advance Rulings shall, after examining such further material as may be placed before it by the applicant or obtained by the Board for Advance Rulings, pronounce its advance ruling in writing, on the question specified in the application within six months of the receipt of application.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-384-6-001",
+              "target_id": "384-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "384-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "On a request from the applicant, the Board for Advance Rulings shall, before pronouncing its advance ruling, provide an opportunity of being heard to the applicant, either in person or through a duly authorised representative.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "384-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A copy of the advance ruling pronounced by the Board for Advance Rulings, duly signed by the Members and certified in such manner, as may be prescribed shall be sent to the applicant and to the Principal Commissioner or Commissioner, as soon as may be, after such pronouncement.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "384-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, \"authorised representative\" shall have the meaning assigned to it in section 515(3)(a), as if the applicant were an assessee.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-384-9-001",
+              "target_id": "515-3-a",
+              "target_type": "clause",
+              "anchor_text": "section 515(3)(a)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

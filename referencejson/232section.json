@@ -1,0 +1,751 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "232",
+      "id": "232",
+      "title": "Certain conditions for applicability of tonnage tax scheme.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "232-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A tonnage tax company shall, subject to and as per the provisions of this section, be required to credit to a reserve account (herein referred to as the Tonnage Tax Reserve Account) an amount, being 20% or more of the book profit derived from the activities referred to in section 228(1)(a) and (b) in each tax year to be utilised in the manner laid down in sub-section (6).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-1-001",
+              "target_id": "232-6",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (6)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-232-1-002",
+              "target_id": "228-1-a",
+              "target_type": "clause",
+              "anchor_text": "section 228(1)(a) and (b)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "232-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"book profit\" shall have the meaning assigned to it in section 206(1)(c) so far as it relates to the income derived from the activities referred to in section 228(1)(a) and (b).",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-2-001",
+              "target_id": "206-1-c",
+              "target_type": "clause",
+              "anchor_text": "section 206(1)(c)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-232-2-002",
+              "target_id": "228-1-a",
+              "target_type": "clause",
+              "anchor_text": "section 228(1)(a) and (b)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "232-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the company has—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "232-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "book profit from the business of operating qualifying ships; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "232-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "book loss from any other sources, and consequently, the company is not in a position to create the full or any part of the reserves under sub-section (1), the company shall create the reserves to the extent possible in that tax year and the shortfall, if any, shall be added to the reserves required to be created for the following tax year and such shortfall shall be deemed to be part of the reserve requirement of that following tax year.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-232-3-b-001",
+                  "target_id": "232-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "232-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (3), to the extent the shortfall in creation of reserves during a particular tax year is carried forward to the following tax year under the said sub-section, the company shall be considered as having created sufficient reserves for the first mentioned tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-4-001",
+              "target_id": "232-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "232-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (3), nothing contained in sub-section (4) shall apply in respect of the second year in case the shortfall in creation of reserves continues for two consecutive tax years.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-5-001",
+              "target_id": "232-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-232-5-002",
+              "target_id": "232-4",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (4)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "232-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount credited to the Tonnage Tax Reserve Account under sub-section (1) shall be utilised by the company before the expiry of eight years following the tax year in which the amount was credited—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "232-6-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for acquiring a new ship or new inland vessel, as the case may be, for the purposes of the business of the company; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "232-6-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "until the acquisition of a new ship or new inland vessel, as the case may be, for the purposes of the business of operating qualifying ships other than for distribution by way of dividends or profits or for remittance outside India as profits or for the creation of any asset outside India.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-6-001",
+              "target_id": "232-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "232-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any amount credited to the Tonnage Tax Reserve Account under sub-section (1),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "232-7-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has been utilised for any purpose other than that referred to in sub-section (6); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-232-7-a-001",
+                  "target_id": "232-6",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (6)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "232-7-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has not been utilised for the purpose specified in sub-section (6)(a); or",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-232-7-b-001",
+                  "target_id": "232-6-a",
+                  "target_type": "clause",
+                  "anchor_text": "sub-section (6)(a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "232-7-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has been utilised for the purpose of acquiring a new ship or new inland vessel, as the case may be, as specified in sub-section (6)(a), but such ship or inland vessel, as the case may be, is sold or otherwise transferred, other than in any scheme of demerger by the company to any person at any time before the expiry of three years from the end of the tax year in which it was acquired, an amount which bears the same proportion to the total relevant shipping income of the year in which such reserve was created, as the amount out of such reserve so utilised or not utilised bears to the total reserve created during that year under sub-section (1) shall be taxable under the other provisions of this Act—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "232-7-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a case referred to in clause (a), in the year in which the amount was so utilised; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "232-7-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a case referred to in clause (b), in the year immediately following eight years specified in sub-section (6); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "232-7-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a case referred to in clause (c), in the year in which the sale or transfer took place."
+                }
+              ],
+              "references": [
+                {
+                  "reference_id": "ref-232-7-c-001",
+                  "target_id": "232-6-a",
+                  "target_type": "clause",
+                  "anchor_text": "sub-section (6)(a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                },
+                {
+                  "reference_id": "ref-232-7-c-002",
+                  "target_id": "232-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-7-001",
+              "target_id": "232-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "232-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income so taxable under the other provisions of this Act, referred to in sub-section (7), shall be reduced by the proportionate tonnage income charged to tax in the year of creation of such reserves.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-8-001",
+              "target_id": "232-7",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (7)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "232-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "232-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-1-001",
+              "target_id": "232-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "232-10",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the reserve required to be created under sub-section (1) is not created for any two consecutive tax years, the option of the company for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the second consecutive tax year in which the failure to create the reserve under sub-section (1) had occurred.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-10-001",
+              "target_id": "232-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "232-11",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"new ship\" or \"new inland vessel\", as the case may be, includes a qualifying ship which, before the date of acquisition by the qualifying company was used by any other person, if it was not at any time previous to the date of such acquisition owned by any person resident in India.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "232-12",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "footnote_refs": [
+            "40"
+          ],
+          "text_before_clauses": "A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement as per the guidelines issued by the Director-General of Shipping or the Inland Waterways Authority of India, as the case may be, and notified by the Central Government.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-12-001",
+              "target_id": "231-4",
+              "target_type": "subsection",
+              "anchor_text": "section 231(4)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "232-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tonnage tax company shall be required to furnish a copy of the certificate issued by the Director-General of Shipping, or the designated authority, as appointed by the respective State Governments under the Inland Vessels Act, 2021 (24 of 2021), as the case may be, along with the return of income under section 263 to the effect that such company has complied with the minimum training requirement as per the guidelines referred to in sub-section (12) for the tax year.]",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-13-001",
+              "target_id": "232-12",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (12)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-232-13-002",
+              "target_id": "263",
+              "target_type": "section",
+              "anchor_text": "section 263 to the",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "14",
+          "id": "232-14",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the minimum training requirement is not complied with for any five consecutive tax years, the option of the company for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the fifth consecutive tax year in which the failure to comply with the minimum training requirement as per sub-section (12) had occurred.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-14-001",
+              "target_id": "232-12",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (12)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "15",
+          "id": "232-15",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of every company which has opted for tonnage tax scheme, not more than 49% of the net tonnage of the qualifying ships operated by it during any tax year shall be chartered in.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "16",
+          "id": "232-16",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The proportion of net tonnage referred to in sub-section (15) in respect of a tax year shall be calculated based on the average of net tonnage during that tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-16-001",
+              "target_id": "232-15",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (15)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "17",
+          "id": "232-17",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the Director- General of Shipping 41[or Inland Waterways Authority of India, as the case may be].",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-17-001",
+              "target_id": "232-16",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (16)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "18",
+          "id": "232-18",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the net tonnage of ships or inland vessel, as the case may be, chartered in exceeds the limit under sub-section (15) during any tax year, the total income of such company in relation to that tax year shall be computed as if the option for tonnage tax scheme does not have effect for that tax year.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-18-001",
+              "target_id": "232-15",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (15)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "19",
+          "id": "232-19",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the limit under sub-section (15) had exceeded in any two consecutive tax years, the option for tonnage tax scheme shall cease to have effect from the beginning of the tax year following the second consecutive tax year in which the limit had exceeded.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-19-001",
+              "target_id": "232-15",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (15)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "20",
+          "id": "232-20",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section, the expression \"chartered in\" shall exclude a ship or inland vessel, as the case may be, chartered in by the company on bareboat charter-cum-demise terms.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "21",
+          "id": "232-21",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An option for tonnage tax scheme by a tonnage tax company shall not have effect in relation to a tax year unless such company—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "232-21-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "maintains separate books of account in respect of the business of operating qualifying ships; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "232-21-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "furnishes, before the specified date referred to in section 63, the report of an accountant, in the prescribed form, duly signed and verified by such accountant.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-232-21-b-001",
+                  "target_id": "63",
+                  "target_type": "section",
+                  "anchor_text": "section 63",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "22",
+          "id": "232-22",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "A temporary cessation (as against permanent cessation) of operating any qualifying ship by a company shall not be considered as a cessation of operating of such qualifying ship and the company shall be deemed to be operating such qualifying ship for the purposes of this Part of the Chapter.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "23",
+          "id": "232-23",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a qualifying company continues to operate a ship or inland vessel, as the case may be, which temporarily ceases to be a qualifying ship, such ship or inland vessel, as the case may be, shall not be deemed as a qualifying ship for the purposes of this Part. \"(12) A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement in respect of trainee officers as per the guidelines issued by the Director-General of Shipping and notified by the Central Government.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-23-001",
+              "target_id": "231-4",
+              "target_type": "subsection",
+              "anchor_text": "section 231(4)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "232-13",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The tonnage tax company shall be required to furnish a copy of the certificate issued by the Director-General of Shipping along with the return of income under section 263 to the effect that such company has complied with the minimum training requirement as per the guidelines referred to in sub-section (12) for the tax year.\"",
+          "clauses": [],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-232-13-001",
+              "target_id": "232-12",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (12)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-232-13-002",
+              "target_id": "263",
+              "target_type": "section",
+              "anchor_text": "section 263 to the",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "40",
+      "text": "Sub-sections (12) and (13) sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, sub-sections (12) and (13) read as under :",
+      "page_start": 1,
+      "page_end": 1
+    },
+    {
+      "type": "footnote",
+      "number": "41",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}
