@@ -5,28 +5,409 @@
       "type": "section",
       "number": "7",
       "id": "7",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 3,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Interpretation",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Interpretation",
+      "children": []
     },
     {
       "type": "section",
       "number": "355",
       "id": "355",
       "title": "Interpretation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of this Part,—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "For the purposes of this Part,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "355-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"anonymous donation\" means any voluntary contribution referred to in section 2(49)(c), where a person receiving such contribution does not maintain a record of the identity indicating the name and address of the person making such contribution and such other particulars, as may be prescribed;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "355-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"approval\" means an approval under the second proviso to section 80G(5) of the Income-tax Act, 1961 (43 of 1961) or section 354;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "355-c",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"cancellation\" includes withdrawal;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "355-d",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"donation\" means any voluntary contribution received by a registered non-profit organisation from any person;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "355-e",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"commercial activity\" means any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income from such activity;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "355-f",
+          "indent": 0,
+          "line_start": 12,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"registration\" includes provisional registration, provisional approval or approval, as referred to in the second proviso to section 10(23C) or 12AB(1) of the Income-tax Act, 1961 (43 of 1961) and under section 332, but shall not include approval under the second proviso to section 80G(5) of the said Act or section 354;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "355-g",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"registered non-profit organisation\" means any person having a valid registration under any specified provision and such registration has not been cancelled;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "355-h",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"related person\" means any of the following persons:—",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "355-i",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "the author or the founder of the registered non-profit organisation;",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "355-i-ii",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any person whose total contribution to such registered non-profit organisation, during the relevant tax year exceeds Rs. 100000, or, in aggregate up to the end of the relevant tax year exceeds ten lakh rupees, as the case may be;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "355-i-iii",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where such author, founder or person is a Hindu undivided family, a member of the family;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "355-i-iv",
+              "indent": 0,
+              "line_start": 18,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any trustee or manager (by whatever name called) of the registered non-profit organisation;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "v",
+              "id": "355-i-v",
+              "indent": 0,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any relative of any persons referred to in sub-clause (i), (iii) or (iv);",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vi",
+              "id": "355-i-vi",
+              "indent": 0,
+              "line_start": 20,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any concern in which any of the persons referred to in sub-clause (i), (iii), (iv) or (v) has a substantial interest;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "355-i-i",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"relative\", in relation to an individual, means—",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "355-i-i",
+              "indent": 0,
+              "line_start": 22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "355-i-ii",
+              "indent": 0,
+              "line_start": 23,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "brother or sister of the individual;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "355-i-iii",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "brother or sister of the spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "355-i-iv",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal ascendant (maternal or paternal) or descendant of the individual;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vi",
+              "id": "355-i-vi",
+              "indent": 0,
+              "line_start": 26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "spouse of a person referred to in sub-clause (ii), (iii), (iv) or (v);",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "v",
+              "id": "355-i-v",
+              "indent": 0,
+              "line_start": 27,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal ascendant (maternal or paternal) or descendant of the spouse of the individual;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vii",
+              "id": "355-i-vii",
+              "indent": 0,
+              "line_start": 28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any lineal descendant of a brother or sister of either the individual or of the spouse of the individual;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "j",
+          "id": "355-j",
+          "indent": 0,
+          "line_start": 29,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"residual income\" means the total income without giving effect to the provisions of this Part, as reduced by regular income and specified income;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "k",
+          "id": "355-k",
+          "indent": 0,
+          "line_start": 30,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"specified asset\" means any asset which is established to have been directly acquired by the specified person— (i) out of its income of the nature referred to in Schedule II (Table: Sl. No. 1);",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "355-k-ii",
+              "indent": 0,
+              "line_start": 31,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "during the period beginning from the date of its creation or establishment and ending on the date from which the registration under specified provision became effective, if the specified person has not been allowed any benefit under this Part or under sections 11 and 12 or section 10(23C)(iv) or (v) or (vi) or (via) of the Income-tax Act, 1961 (43 of 1961) during the said period, where provisions of the first proviso or the second proviso to section 12A(2) or the eighth proviso to section 10(23C) of the said Act, are not applicable;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "355-k-iii",
+              "indent": 0,
+              "line_start": 32,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "during the period beginning from the date of its creation or establishment and ending on the date from which the registration under specified provision became effective due to the provisions of the first proviso or the second proviso to section 12A(2) or the eighth proviso to section 10(23C), where provisions of the first proviso or the second proviso to section 12A(2) or the eighth proviso to section 10(23C), of the Income-tax Act, 1961 (43 of 1961), are applicable; and (iv) which has been transferred to any other specified person within twelve months from the end of the month in which the dissolution takes place in respect of a case specified in section 352(4) (Table: Sl. No. 9);",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "l",
+          "id": "355-l",
+          "indent": 0,
+          "line_start": 34,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"specified person\" means any person which is registered under any specified provision at any time since its incorporation or creation;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "m",
+          "id": "355-m",
+          "indent": 0,
+          "line_start": 35,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"specified provision\" means section 12A, 12AA or 12AB or section 10(23C) of the Income-tax Act, 1961 (43 of 1961) or section 332;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "n",
+          "id": "355-n",
+          "indent": 0,
+          "line_start": 36,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"substantial interest\", in relation to a person in a concern, means—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "355-n-i",
+              "indent": 0,
+              "line_start": 37,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in a case where the concern is a company, if its shares (not being shares entitled to a fixed rate of dividend whether with or without a further right to participate in profits) carrying not less than 20% of the voting power are, at any time during the tax year, owned beneficially by such person or partly by such person and partly by one or more of the other related persons; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "355-n-ii",
+              "indent": 0,
+              "line_start": 38,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of any other concern, if such person is entitled, or such person and one or more of the other related persons are entitled in the aggregate at any time during the tax year, to not less than 20% of the profits of such concern;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "o",
+          "id": "355-o",
+          "indent": 0,
+          "line_start": 39,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"value\" means the value of any benefit or facility granted or provided free of cost or at concessional rate to any related person;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "p",
+          "id": "355-p",
+          "indent": 0,
+          "line_start": 40,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"wholly for charitable or religious purposes\" shall mean wholly for charitable purposes or wholly for religious purposes or wholly for charitable and religious purposes.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

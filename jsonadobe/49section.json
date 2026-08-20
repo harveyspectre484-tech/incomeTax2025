@@ -6,8 +6,8 @@
       "number": "49",
       "id": "49",
       "title": "Site Restoration Fund.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,37 +16,34 @@
           "type": "subsection",
           "number": "1",
           "id": "49-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An assessee carrying on a business of prospecting, extracting, or producing petroleum or natural gas, or both, in India, and who has an agreement with the Central Government for this business, shall be allowed a deduction on the basis of deposit to special account or site restoration account and computed as per the provisions of the Schedule X.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An assessee carrying on a business of prospecting, extracting, or producing petroleum or natural gas, or both, in India, and who has an agreement with the Central Government for this business, shall be allowed a deduction on the basis of deposit to special account or site restoration account and computed as per the provisions of the Schedule X.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "49-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Any amount withdrawn or transferred from the aforesaid accounts at the time of closure or otherwise shall be charged to tax in the year in which the amount is transferred or withdrawn as per the provisions of the Schedule X.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Any amount withdrawn or transferred from the aforesaid accounts at the time of closure or otherwise shall be charged to tax in the year in which the amount is transferred or withdrawn as per the provisions of the Schedule X.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "49-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where any asset acquired as per the special scheme, or the deposit scheme, as referred to in Schedule X, is sold or otherwise transferred in any tax year, it shall be charged to tax in accordance with the provisions of the said Schedule.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where any asset acquired as per the special scheme, or the deposit scheme, as referred to in Schedule X, is sold or otherwise transferred in any tax year, it shall be charged to tax in accordance with the provisions of the said Schedule.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

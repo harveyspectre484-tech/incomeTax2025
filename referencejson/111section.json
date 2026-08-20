@@ -6,8 +6,8 @@
       "number": "111",
       "id": "111",
       "title": "Carry forward and set off of loss from Capital gains.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "111-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -26,50 +26,43 @@
               "type": "clause",
               "number": "a",
               "id": "111-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
-              "text": "Where for any tax year, loss computed under the head \"Capital gains\" cannot be wholly set off against the income under the head \"Capital gains\" as per section 108, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and shall be set off in the following manner—",
-              "children": [
+              "text_before_sub_clauses": "Where for any tax year, loss computed under the head \"Capital gains\" cannot be wholly set off against the income under the head \"Capital gains\" as per section 108, so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and shall be set off in the following manner—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "111-1-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 7,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "if such loss relates to a short-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other capital asset;"
+                  "text": "if such loss relates to a short-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other capital asset;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "111-1-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 8,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "if such loss relates to a long-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other long-term capital asset; and"
+                  "text": "if such loss relates to a long-term capital asset, it shall be set off only against the income under the head \"Capital gains\", if any, assessable for that tax year in respect of any other long-term capital asset; and",
+                  "children": []
                 }
               ],
-              "references": [
-                {
-                  "reference_id": "ref-111-1-a-001",
-                  "target_id": "108",
-                  "target_type": "section",
-                  "anchor_text": "section 108",
-                  "relationship": "depends_on",
-                  "confidence": "medium"
-                }
-              ]
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "111-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "if the loss cannot be wholly so set off under clause (a), the amount of loss not so set off shall be carried forward to the following tax year and so on.",
@@ -92,13 +85,12 @@
           "type": "subsection",
           "number": "2",
           "id": "111-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No loss shall be carried forward under this section for more than eight tax years immediately succeeding the tax year for which the loss was first computed.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

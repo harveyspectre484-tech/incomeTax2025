@@ -6,8 +6,8 @@
       "number": "395",
       "id": "395",
       "title": "Certificates.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "395-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Where tax is required to be deducted on any income or sum under this Chapter, then subject to the rules made under this Act,—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "395-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "the payee may make an application before the Assessing Officer for deduction of income-tax at a lower rate or no deduction of income-tax, as the case may be; and",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "395-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "the Assessing Officer on being satisfied that the total income of the payee justifies deduction of income-tax at a lower rate or no deduction of income-tax, as the case may be, shall issue to him a certificate as appropriate; and",
@@ -48,8 +48,8 @@
               "type": "clause",
               "number": "c",
               "id": "395-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "footnote_refs": [
@@ -65,8 +65,8 @@
           "type": "subsection",
           "number": "2",
           "id": "395-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -75,8 +75,8 @@
               "type": "clause",
               "number": "a",
               "id": "395-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "The person responsible for paying to a non-resident any sum as mentioned in section 393(2) (Table: Sl. No. 17), may make an application to the Assessing Officer in such form and manner as may be prescribed, where he considers that the whole of such sum would not be chargeable in the case of the recipient;",
@@ -86,8 +86,8 @@
               "type": "clause",
               "number": "b",
               "id": "395-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "the application under clause (a) shall be for determination of the appropriate proportion of the sum chargeable to tax, by the Assessing Officer in the manner as may be prescribed; and",
@@ -97,8 +97,8 @@
               "type": "clause",
               "number": "c",
               "id": "395-2-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
               "text": "when the determination is made by the Assessing Officer as per clause (b), the tax shall be deducted under section 393(2) (Table: Sl. No. 17) only on that proportion of sum which is chargeable to tax under the Act.",
@@ -111,8 +111,8 @@
           "type": "subsection",
           "number": "3",
           "id": "395-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Where tax is required to be collected on any amount under this Chapter, then subject to the rules made under this Act,—",
@@ -121,8 +121,8 @@
               "type": "clause",
               "number": "a",
               "id": "395-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "the buyer or licensee or lessee may make an application before the Assessing Officer for collection of tax at a lower rate;",
@@ -132,8 +132,8 @@
               "type": "clause",
               "number": "b",
               "id": "395-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "the Assessing Officer on being satisfied that the total income of the buyer or licensee or lessee justifies collection of tax at a lower rate, shall issue to him a certificate as may be appropriate; and",
@@ -143,43 +143,47 @@
               "type": "clause",
               "number": "c",
               "id": "395-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 16,
               "page_start": 1,
               "page_end": 1,
-              "text": "when a certificate is issued under clause (b), the person responsible for collecting tax shall collect it at the rates specified in such certificate till its validity.",
-              "children": [
+              "text_before_sub_clauses": "when a certificate is issued under clause (b), the person responsible for collecting tax shall collect it at the rates specified in such certificate till its validity.",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "395-3-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 17,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the amount of tax that has been deducted or collected;"
+                  "text": "the amount of tax that has been deducted or collected;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "395-3-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 18,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the rate at which tax has been deducted or collected; and"
+                  "text": "the rate at which tax has been deducted or collected; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "395-3-c-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 19,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any other particulars, as may be prescribed,"
+                  "text": "any other particulars, as may be prescribed,",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -188,8 +192,8 @@
           "type": "subsection",
           "number": "4",
           "id": "395-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -198,8 +202,8 @@
               "type": "clause",
               "number": "a",
               "id": "395-4-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 20,
               "page_start": 1,
               "page_end": 1,
               "text": "Every person deducting or collecting tax shall issue a certificate to the deductee or collectee, as the case may be, specifying— within such period as may be prescribed;",
@@ -209,43 +213,47 @@
               "type": "clause",
               "number": "b",
               "id": "395-4-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 22,
               "page_start": 1,
               "page_end": 1,
-              "text": "an employer referred to in section 392(2)(a) shall issue a certificate to the employee, in respect of whose income payment of tax has been made by the employer, that the tax has been paid to the Central Government, and specify—",
-              "children": [
+              "text_before_sub_clauses": "an employer referred to in section 392(2)(a) shall issue a certificate to the employee, in respect of whose income payment of tax has been made by the employer, that the tax has been paid to the Central Government, and specify—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "395-4-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 23,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the amount of tax so paid;"
+                  "text": "the amount of tax so paid;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "395-4-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 24,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the rate at which tax has been paid; and"
+                  "text": "the rate at which tax has been paid; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "395-4-b-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 25,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any other particulars, as may be prescribed, within such period, as may be prescribed."
+                  "text": "any other particulars, as may be prescribed, within such period, as may be prescribed.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -254,20 +262,19 @@
           "type": "subsection",
           "number": "5",
           "id": "395-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 27,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Assessing Officer may cancel the certificate granted under sub-section (1) or (3) after giving reasonable opportunity to the applicant.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Assessing Officer may cancel the certificate granted under sub-section (1) or (3) after giving reasonable opportunity to the applicant.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "395-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 28,
           "page_start": 1,
           "page_end": 1,
           "footnote_refs": [
@@ -279,8 +286,8 @@
               "type": "clause",
               "number": "a",
               "id": "395-6-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 29,
               "page_start": 1,
               "page_end": 1,
               "text": "either issue a certificate for deduction of income-tax at lower rate or no deduction of income-tax; or",
@@ -290,8 +297,8 @@
               "type": "clause",
               "number": "b",
               "id": "395-6-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 30,
               "page_start": 1,
               "page_end": 1,
               "text": "reject such application on account of non-fulfilment of the prescribed conditions or on account of the application being incomplete.]",
@@ -310,15 +317,35 @@
       "number": "90",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (c) read as under : \"(c) when a certificate is issued under clause (b), the person responsible for paying the income or sum shall deduct the tax at the rate specified in such certificate, or deduct no income-tax, as the case may be, till its validity.\"",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "395-1-c"
+      ]
     },
     {
       "type": "footnote",
       "number": "91",
       "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "395-6"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    }
+  ],
+  "footnote_reference_map": {
+    "90": [
+      "395-1-c"
+    ],
+    "91": [
+      "395-6"
+    ]
+  }
 }

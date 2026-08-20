@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "source_id": "441-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 62 or the",
+    "guessed_target_id": "62",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

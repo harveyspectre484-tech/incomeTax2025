@@ -5,16 +5,31 @@
       "type": "section",
       "number": "300",
       "id": "300",
-      "title": "Application of other provisions of Act.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Save as otherwise provided in this part, all other provisions of this Act shall apply to assessment made under this part.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "Save as otherwise provided in this part, all other provisions of this Act shall apply to assessment made under this part.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Application of other provisions of Act."
+    }
+  ]
 }

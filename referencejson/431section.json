@@ -3,26 +3,27 @@
     {
       "type": "chapter",
       "number": "XX",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 3,
       "page_start": 1,
       "page_end": 1,
-      "text": "",
-      "children": [
+      "text_before_sections": "",
+      "sections": [
         {
           "type": "section",
           "number": "431",
           "id": "431",
           "title": "Refunds.",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_subsections": "If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any tax year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.",
-          "subsections": [],
-          "text_after_subsections": ""
+          "text": "If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any tax year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.",
+          "children": []
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -31,13 +32,12 @@
       "number": "431",
       "id": "431",
       "title": "Refunds.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 8,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any tax year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "If any person satisfies the Assessing Officer that the amount of tax paid by him or on his behalf or treated as paid by him or on his behalf for any tax year exceeds the amount with which he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.",
+      "children": []
     }
   ],
   "footnotes": [],

@@ -6,8 +6,8 @@
       "number": "179",
       "id": "179",
       "title": "Impermissible avoidance arrangement.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "179-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "An impermissible avoidance arrangement means an arrangement, the main purpose of which is to obtain a tax benefit, and it—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "179-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "creates rights, or obligations, which are not ordinarily created between persons dealing at arm's length;",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "179-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "results, directly or indirectly, in the misuse, or abuse, of the provisions of this Act;",
@@ -48,8 +48,8 @@
               "type": "clause",
               "number": "c",
               "id": "179-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "lacks commercial substance or is deemed to lack commercial substance under section 180, in whole or in part; or",
@@ -69,8 +69,8 @@
               "type": "clause",
               "number": "d",
               "id": "179-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "is entered into, or carried out, by means, or in a manner, which are not ordinarily employed for bona fide purposes.",
@@ -83,18 +83,23 @@
           "type": "subsection",
           "number": "2",
           "id": "179-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An arrangement shall be presumed, unless it is proved to the contrary by the assessee, to have been entered into, or carried out, for the main purpose of obtaining a tax benefit, if the main purpose of a step in, or a part of, the arrangement is to obtain a tax benefit, irrespective of the fact that the main purpose of the whole arrangement is not to obtain a tax benefit.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An arrangement shall be presumed, unless it is proved to the contrary by the assessee, to have been entered into, or carried out, for the main purpose of obtaining a tax benefit, if the main purpose of a step in, or a part of, the arrangement is to obtain a tax benefit, irrespective of the fact that the main purpose of the whole arrangement is not to obtain a tax benefit.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

@@ -32,7 +32,7 @@
   {
     "source_id": "298-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 294(1) (c)",
     "guessed_target_id": "294-1-c",
     "guessed_target_type": "clause",
@@ -56,16 +56,6 @@
     "anchor_text": "section 294(1)(a)",
     "guessed_target_id": "294-1-a",
     "guessed_target_type": "clause",
-    "relationship": "depends_on",
-    "reason": "target_id not found in local unit index"
-  },
-  {
-    "source_id": "298-5-c",
-    "source_type": "clause",
-    "field": "text",
-    "anchor_text": "section 357 or 362",
-    "guessed_target_id": "357",
-    "guessed_target_type": "section",
     "relationship": "depends_on",
     "reason": "target_id not found in local unit index"
   },

@@ -5,9 +5,9 @@
       "type": "section",
       "number": "132",
       "id": "132",
-      "title": "Deduction in respect of purchase of electric vehicle.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,25 +16,23 @@
           "type": "subsection",
           "number": "1",
           "id": "132-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An assessee, being an individual, shall be allowed a deduction of interest payable on loan taken by him from any financial institution for the purpose of purchase of an electric vehicle, as per the provisions of this section.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An assessee, being an individual, shall be allowed a deduction of interest payable on loan taken by him from any financial institution for the purpose of purchase of an electric vehicle, as per the provisions of this section.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "132-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The deduction under sub-section (1) shall be subject to the condition that the loan has been sanctioned by the financial institution during the period beginning on the 1st April, 2019 and ending on the 31st March, 2023.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The deduction under sub-section (1) shall be subject to the condition that the loan has been sanctioned by the financial institution during the period beginning on the 1st April, 2019 and ending on the 31st March, 2023.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-132-2-001",
@@ -50,13 +48,12 @@
           "type": "subsection",
           "number": "3",
           "id": "132-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The deduction under sub-section (1) shall not exceed Rs. 150000 and shall be allowed in computing the total income of the individual for the tax year beginning on the 1st April, 2019 and subsequent tax years.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The deduction under sub-section (1) shall not exceed Rs. 150000 and shall be allowed in computing the total income of the individual for the tax year beginning on the 1st April, 2019 and subsequent tax years.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-132-3-001",
@@ -72,13 +69,12 @@
           "type": "subsection",
           "number": "4",
           "id": "132-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where a deduction under this section is allowed for any interest referred to in sub-section (1), deduction shall not be allowed in respect of such interest under any other provision of this Act for the same or any other tax year.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where a deduction under this section is allowed for any interest referred to in sub-section (1), deduction shall not be allowed in respect of such interest under any other provision of this Act for the same or any other tax year.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-132-4-001",
@@ -94,8 +90,8 @@
           "type": "subsection",
           "number": "5",
           "id": "132-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section,—",
@@ -104,8 +100,8 @@
               "type": "clause",
               "number": "a",
               "id": "132-5-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "\"electric vehicle\" means a vehicle powered exclusively by an electric motor, whose traction energy is supplied exclusively by traction battery installed in the vehicle and has such electric regenerative braking system, which during braking provides for the conversion of vehicle kinetic energy into electrical energy;",
@@ -115,8 +111,8 @@
               "type": "clause",
               "number": "b",
               "id": "132-5-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "\"financial institution\" means a banking company to which the Banking Regulation Act, 1949 (10 of 1949) applies, or any bank or banking institution referred to in section 51 of that Act and includes a non-banking financial company.",
@@ -140,5 +136,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Deduction in respect of purchase of electric vehicle."
+    }
+  ]
 }

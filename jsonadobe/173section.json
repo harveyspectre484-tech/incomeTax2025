@@ -6,13 +6,172 @@
       "number": "173",
       "id": "173",
       "title": "Definitions of certain terms relevant to determination of arm's length price, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of this section and sections 161, 162, 163, 165, 171 and 172, unless the context otherwise requires,—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "For the purposes of this section and sections 161, 162, 163, 165, 171 and 172, unless the context otherwise requires,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "173-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"arm's length price\" means a price which is applied or proposed to be applied in a transaction between persons other than associated enterprises, in uncontrolled conditions;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "173-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"enterprise\" means a person (including a permanent establishment of such person) who is, or has been, or is proposed to be, engaged in any activity relating to—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "173-b-i",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the production, storage, supply, distribution, acquisition or control of articles or goods; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "173-b-ii",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "know-how, patents, copyrights, trade-marks, licences, franchises or any other business or commercial rights of similar nature; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "173-b-iii",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any data, documentation, drawing or specification relating to any patent, invention, model, design, secret formula or process of which the other enterprise is the owner or in respect of which the other enterprise has exclusive rights; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "173-b-iv",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "provision of services of any kind; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "v",
+              "id": "173-b-v",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "carrying out any work in pursuance of a contract; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vi",
+              "id": "173-b-vi",
+              "indent": 0,
+              "line_start": 14,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "investment or providing loan; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vii",
+              "id": "173-b-vii",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "business of acquiring, holding, underwriting or dealing with shares, debentures or other securities of any other body corporate, whether such activity or business is carried on, directly or through one or more of its units or divisions or subsidiaries, or whether such unit or division or subsidiary is located at the same place where the enterprise is located or at a different place or places;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "173-c",
+          "indent": 0,
+          "line_start": 16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"permanent establishment\", referred to in clause (b), includes a fixed place of business through which the business of the enterprise is wholly or partly carried on;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "173-d",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"specified date\" means the date one month before the due date for furnishing the return of income under section 263(1) for the relevant tax year;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "173-e",
+          "indent": 0,
+          "line_start": 18,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"transaction\" includes an arrangement, understanding or action in concert,—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "173-e-i",
+              "indent": 0,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "whether or not such arrangement, understanding or action is formal or in writing; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "173-e-ii",
+              "indent": 0,
+              "line_start": 20,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "whether or not such arrangement, understanding or action is intended to be enforceable by legal proceeding.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

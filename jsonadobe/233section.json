@@ -6,8 +6,8 @@
       "number": "233",
       "id": "233",
       "title": "Amalgamation and demerger.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,78 +16,78 @@
           "type": "subsection",
           "number": "1",
           "id": "233-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where there has been an amalgamation of a company with another company or companies, then, subject to the other provisions of this section, the provisions relating to the tonnage tax scheme shall, as far as may be, apply to the amalgamated company, if it is a qualifying company.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where there has been an amalgamation of a company with another company or companies, then, subject to the other provisions of this section, the provisions relating to the tonnage tax scheme shall, as far as may be, apply to the amalgamated company, if it is a qualifying company.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "233-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the amalgamated company is not a tonnage tax company, it shall exercise an option for tonnage tax scheme under section 231(1) within three months from the date of the approval of the scheme of amalgamation.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the amalgamated company is not a tonnage tax company, it shall exercise an option for tonnage tax scheme under section 231(1) within three months from the date of the approval of the scheme of amalgamation.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "233-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the amalgamating companies are tonnage tax companies, the provisions of this Part shall, as far as may be, apply to the amalgamated company for such period as the option for tonnage tax scheme which has the longest unexpired period continues to be in force.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the amalgamating companies are tonnage tax companies, the provisions of this Part shall, as far as may be, apply to the amalgamated company for such period as the option for tonnage tax scheme which has the longest unexpired period continues to be in force.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "233-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where one of the amalgamating companies is a qualifying company as on the 1st October, 2004 and which has not exercised the option for tonnage tax scheme before the 1st January, 2005, the provisions of this Part shall not apply to the amalgamated company and the income of the amalgamated company from the business of operating qualifying ships shall be computed as per the other provisions of this Act.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where one of the amalgamating companies is a qualifying company as on the 1st October, 2004 and which has not exercised the option for tonnage tax scheme before the 1st January, 2005, the provisions of this Part shall not apply to the amalgamated company and the income of the amalgamated company from the business of operating qualifying ships shall be computed as per the other provisions of this Act.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "233-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where in a scheme of demerger, the demerged company transfers its business to the resulting company before the expiry of the option for tonnage tax scheme, then, subject to the other provisions of this Part, the tonnage tax scheme shall, as far as may be, apply to the resulting company for the unexpired period, if it is a qualifying company.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where in a scheme of demerger, the demerged company transfers its business to the resulting company before the expiry of the option for tonnage tax scheme, then, subject to the other provisions of this Part, the tonnage tax scheme shall, as far as may be, apply to the resulting company for the unexpired period, if it is a qualifying company.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "233-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The option for tonnage tax scheme in respect of the demerged company shall remain in force for the unexpired period of the tonnage tax scheme if it continues to be a qualifying company.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The option for tonnage tax scheme in respect of the demerged company shall remain in force for the unexpired period of the tonnage tax scheme if it continues to be a qualifying company.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

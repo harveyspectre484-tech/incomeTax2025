@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "52-4-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 33(1) to (10)",
+    "guessed_target_id": "33-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "52-5-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 287",
+    "guessed_target_id": "287",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "52-5-d",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 287(8)",
+    "guessed_target_id": "287-8",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

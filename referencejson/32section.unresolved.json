@@ -2,10 +2,20 @@
   {
     "source_id": "32",
     "source_type": "section",
-    "field": "text_before_subsections",
+    "field": "text_before_clauses",
     "anchor_text": "section 26",
     "guessed_target_id": "26",
     "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "32-h",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 276(2)",
+    "guessed_target_id": "276-2",
+    "guessed_target_type": "subsection",
     "relationship": "depends_on",
     "reason": "target_id not found in local unit index"
   }

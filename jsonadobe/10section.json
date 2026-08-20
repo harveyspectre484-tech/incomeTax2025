@@ -5,16 +5,67 @@
       "type": "section",
       "number": "10",
       "id": "10",
-      "title": "Apportionment of income between spouses governed by Portuguese Civil Code.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If a husband and wife are governed by the community of property system (known as \"COMMUNIAO DOS BENS\" under the Portuguese Civil Code of 1860) in force in the State of Goa and the Union Territories of Dadra and Nagar Haveli and Daman and Diu, then—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "If a husband and wife are governed by the community of property system (known as \"COMMUNIAO DOS BENS\" under the Portuguese Civil Code of 1860) in force in the State of Goa and the Union Territories of Dadra and Nagar Haveli and Daman and Diu, then—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "10-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "their income under any head of income shall not be assessed together as that of such community of property (whether treated as an association of persons or a body of individuals);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "10-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the income mentioned in clause (a) under each head of income other than \"Salaries\" shall be divided equally between the husband and the wife;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "10-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the income so divided shall be included separately in the total income of the husband and the wife respectively, and the remaining provisions of this Act shall apply accordingly; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "10-d",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "where either the husband or the wife, has any income under the head \"Salaries\", that income shall be included in the total income of the spouse who has actually earned it.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Apportionment of income between spouses governed by Portuguese Civil Code."
+    }
+  ]
 }

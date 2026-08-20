@@ -1,18 +1,8 @@
 [
   {
-    "source_id": "66-1",
-    "source_type": "subsection",
-    "field": "text_before_clauses",
-    "anchor_text": "section 26(2)(h)",
-    "guessed_target_id": "26-2-h",
-    "guessed_target_type": "clause",
-    "relationship": "definition_or_scope",
-    "reason": "target_id not found in local unit index"
-  },
-  {
     "source_id": "66-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 51",
     "guessed_target_id": "51",
     "guessed_target_type": "section",
@@ -22,7 +12,7 @@
   {
     "source_id": "66-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 402(7)",
     "guessed_target_id": "402-7",
     "guessed_target_type": "subsection",
@@ -32,7 +22,7 @@
   {
     "source_id": "66-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 9(7)(b)",
     "guessed_target_id": "9-7-b",
     "guessed_target_type": "clause",
@@ -42,7 +32,7 @@
   {
     "source_id": "66-7",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 3(g)",
     "guessed_target_id": "3-g",
     "guessed_target_type": "clause",
@@ -52,7 +42,7 @@
   {
     "source_id": "66-8",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule II",
     "guessed_target_id": "schedule-II",
     "guessed_target_type": "schedule",
@@ -62,7 +52,7 @@
   {
     "source_id": "66-9",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 2(1)(n)",
     "guessed_target_id": "2-1-n",
     "guessed_target_type": "clause",
@@ -72,7 +62,7 @@
   {
     "source_id": "66-10",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 32(e)",
     "guessed_target_id": "32-e",
     "guessed_target_type": "clause",
@@ -92,7 +82,7 @@
   {
     "source_id": "66-14",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 5(c)",
     "guessed_target_id": "5-c",
     "guessed_target_type": "clause",
@@ -102,7 +92,7 @@
   {
     "source_id": "66-15",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 37",
     "guessed_target_id": "37",
     "guessed_target_type": "section",
@@ -112,7 +102,7 @@
   {
     "source_id": "66-16",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 173(c)",
     "guessed_target_id": "173-c",
     "guessed_target_type": "clause",
@@ -142,7 +132,7 @@
   {
     "source_id": "66-21",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 402(28)",
     "guessed_target_id": "402-28",
     "guessed_target_type": "subsection",
@@ -152,7 +142,7 @@
   {
     "source_id": "66-22",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 2(71)",
     "guessed_target_id": "2-71",
     "guessed_target_type": "subsection",
@@ -162,7 +152,7 @@
   {
     "source_id": "66-23",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 2(72)",
     "guessed_target_id": "2-72",
     "guessed_target_type": "subsection",
@@ -172,7 +162,7 @@
   {
     "source_id": "66-25",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 9(6)(b)",
     "guessed_target_id": "9-6-b",
     "guessed_target_type": "clause",
@@ -212,7 +202,7 @@
   {
     "source_id": "66-35",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 2(45)",
     "guessed_target_id": "2-45",
     "guessed_target_type": "subsection",
@@ -222,7 +212,7 @@
   {
     "source_id": "66-36",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 3 or 3A",
     "guessed_target_id": "3",
     "guessed_target_type": "section",
@@ -232,7 +222,7 @@
   {
     "source_id": "66-36",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 46",
     "guessed_target_id": "46",
     "guessed_target_type": "section",
@@ -262,7 +252,7 @@
   {
     "source_id": "66-40",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 70(2)",
     "guessed_target_id": "70-2",
     "guessed_target_type": "subsection",

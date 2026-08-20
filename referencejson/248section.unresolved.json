@@ -52,7 +52,7 @@
   {
     "source_id": "248-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "clause (a) or (b)",
     "guessed_target_id": "248-2-a",
     "guessed_target_type": "clause",
@@ -62,7 +62,7 @@
   {
     "source_id": "248-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sections 247(4)(b)",
     "guessed_target_id": "247-4-b",
     "guessed_target_type": "clause",
@@ -72,7 +72,7 @@
   {
     "source_id": "248-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247",
     "guessed_target_id": "247",
     "guessed_target_type": "section",
@@ -82,7 +82,7 @@
   {
     "source_id": "248-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sections 247(4)(b)",
     "guessed_target_id": "247-4-b",
     "guessed_target_type": "clause",

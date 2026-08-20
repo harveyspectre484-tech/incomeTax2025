@@ -3,26 +3,27 @@
     {
       "type": "chapter",
       "number": "XIII",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text": "A.—Determination of tax in certain special cases Determination of tax where total income includes income on which no tax is payable.",
-      "children": [
+      "text_before_sections": "A.—Determination of tax in certain special cases Determination of tax where total income includes income on which no tax is payable.",
+      "sections": [
         {
           "type": "section",
           "number": "190",
           "id": "190",
           "title": "DETERMINATION OF TAX IN SPECIAL CASES",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_subsections": "Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
-          "subsections": [],
-          "text_after_subsections": ""
+          "text": "Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
+          "children": []
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -31,15 +32,20 @@
       "number": "190",
       "id": "190",
       "title": "DETERMINATION OF TAX IN SPECIAL CASES",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 9,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

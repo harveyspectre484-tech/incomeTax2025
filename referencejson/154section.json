@@ -6,8 +6,8 @@
       "number": "154",
       "id": "154",
       "title": "Deduction in case of a person with disability.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 7,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "154-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An individual, being resident in India, who is certified by a medical authority, at any time during the tax year, as a person with disability or person with severe disability, shall be allowed a deduction of Rs. 75000 or Rs. 125000, respectively, while computing his total income.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An individual, being resident in India, who is certified by a medical authority, at any time during the tax year, as a person with disability or person with severe disability, shall be allowed a deduction of Rs. 75000 or Rs. 125000, respectively, while computing his total income.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "154-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The deduction under sub-section (1) shall be allowed only if all of the following conditions are fulfilled:—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "154-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "the individual furnishes a copy of the certificate issued by the medical authority;",
@@ -49,8 +48,8 @@
               "type": "clause",
               "number": "b",
               "id": "154-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "if the certificate specifies that the disability needs reassessment of its extent after a period stipulated in it, the deduction shall not be allowed for any tax year succeeding the tax year in which the certificate expires, unless a new disability certificate is obtained and furnished; and",
@@ -60,8 +59,8 @@
               "type": "clause",
               "number": "c",
               "id": "154-2-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "the certificate referred to in clauses (a) and (b) of this sub-section is furnished in the form and manner, as may be prescribed, along with the return of income under section 263 for the tax year in which the deduction is claimed.",
@@ -102,13 +101,12 @@
           "type": "subsection",
           "number": "3",
           "id": "154-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"disability\", \"medical authority\", \"person with disability\" or \"person with severe disability\" shall have the same meanings as provided in section 127.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "For the purposes of this section, \"disability\", \"medical authority\", \"person with disability\" or \"person with severe disability\" shall have the same meanings as provided in section 127.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-154-3-001",
@@ -125,5 +123,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

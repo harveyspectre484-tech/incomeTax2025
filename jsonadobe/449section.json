@@ -6,15 +6,20 @@
       "number": "449",
       "id": "449",
       "title": "Penalty for failure to collect tax at source.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If any person fails to collect the whole or any part of the tax as required under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to collect.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "If any person fails to collect the whole or any part of the tax as required under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to collect.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

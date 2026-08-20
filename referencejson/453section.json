@@ -5,25 +5,16 @@
       "type": "section",
       "number": "453",
       "id": "453",
-      "title": "Penalty for failure to comply with provisions of section 188.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If a person repays any loan or deposit or specified advance referred to in section 188 otherwise than in accordance with the provisions of that section, the Assessing Officer may impose on him, a penalty equal to the loan or deposit or specified advance so repaid.",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text": "If a person repays any loan or deposit or specified advance referred to in section 188 otherwise than in accordance with the provisions of that section, the Assessing Officer may impose on him, a penalty equal to the loan or deposit or specified advance so repaid.",
+      "children": [],
       "references": [
         {
           "reference_id": "ref-453-001",
-          "target_id": "188",
-          "target_type": "section",
-          "anchor_text": "section 188",
-          "relationship": "related_to",
-          "confidence": "medium"
-        },
-        {
-          "reference_id": "ref-453-002",
           "target_id": "188",
           "target_type": "section",
           "anchor_text": "section 188",
@@ -34,5 +25,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Penalty for failure to comply with provisions of section 188."
+    }
+  ]
 }

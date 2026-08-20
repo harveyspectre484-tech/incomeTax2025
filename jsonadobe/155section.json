@@ -3,19 +3,20 @@
     {
       "type": "chapter",
       "number": "IX",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text": "",
-      "children": [
+      "text_before_sections": "",
+      "sections": [
         {
           "type": "section",
           "number": "155",
           "id": "155",
           "title": "Rebate to be allowed in computing income-tax.",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
           "text_before_subsections": "",
@@ -24,30 +25,29 @@
               "type": "subsection",
               "number": "1",
               "id": "155-1",
-              "x": 27.62,
-              "y_start": 95.44,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
+              "children": []
             },
             {
               "type": "subsection",
               "number": "2",
               "id": "155-2",
-              "x": 27.62,
-              "y_start": 380.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
+              "children": []
             }
           ],
           "text_after_subsections": ""
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -56,8 +56,8 @@
       "number": "155",
       "id": "155",
       "title": "Rebate to be allowed in computing income-tax.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 11,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -66,30 +66,34 @@
           "type": "subsection",
           "number": "1",
           "id": "155-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "155-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

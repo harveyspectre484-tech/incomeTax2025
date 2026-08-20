@@ -5,9 +5,9 @@
       "type": "section",
       "number": "290",
       "id": "290",
-      "title": "Modification and revision of notice in certain cases.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "290-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Where,—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "290-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "any tax, interest, penalty, fine or any other sum in respect of which a notice of demand has been issued earlier under section 289; and",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "290-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "such tax, interest, penalty, fine or any other sum is reduced as a result of an order of the Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Assessing Officer shall serve on the assessee a modified notice of demand specifying the sum payable, if any, and such notice shall be treated as a notice under section 289 and the provisions of this Act shall accordingly apply in relation to such notice.",
@@ -51,18 +51,23 @@
           "type": "subsection",
           "number": "2",
           "id": "290-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The modified notice of demand as referred to in sub-section (1) shall be revised where the order referred to in sub-section (1)(b) is modified by the National Company Law Appellate Tribunal or the Supreme Court.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The modified notice of demand as referred to in sub-section (1) shall be revised where the order referred to in sub-section (1)(b) is modified by the National Company Law Appellate Tribunal or the Supreme Court.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Modification and revision of notice in certain cases."
+    }
+  ]
 }

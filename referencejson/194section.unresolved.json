@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "194-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(k)",
+    "guessed_target_id": "2-1-k",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-d",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 94(6)",
+    "guessed_target_id": "94-6",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(j)",
+    "guessed_target_id": "2-1-j",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-i",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(m)",
+    "guessed_target_id": "2-1-m",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-j",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(o)",
+    "guessed_target_id": "2-1-o",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-m",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(y)",
+    "guessed_target_id": "2-1-y",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "194-2-n",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(109)",
+    "guessed_target_id": "2-109",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  }
+]

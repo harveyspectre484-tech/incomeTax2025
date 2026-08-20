@@ -6,15 +6,20 @@
       "number": "370",
       "id": "370",
       "title": "Execution for costs awarded by Supreme Court.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

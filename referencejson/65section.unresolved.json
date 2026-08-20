@@ -12,11 +12,21 @@
   {
     "source_id": "65",
     "source_type": "section",
-    "field": "text_before_subsections",
+    "field": "text_before_clauses",
     "anchor_text": "section 64",
     "guessed_target_id": "64",
     "guessed_target_type": "section",
     "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "65-j",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 56",
+    "guessed_target_id": "56",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
     "reason": "target_id not found in local unit index"
   }
 ]

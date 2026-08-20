@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "source_id": "355-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(49)(c)",
+    "guessed_target_id": "2-49-c",
+    "guessed_target_type": "clause",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 80G(5)",
+    "guessed_target_id": "80G-5",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 354",
+    "guessed_target_id": "354",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 10(23C) or 12AB",
+    "guessed_target_id": "10-23C",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 332",
+    "guessed_target_id": "332",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 80G(5)",
+    "guessed_target_id": "80G-5",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 354",
+    "guessed_target_id": "354",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-m",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 12A",
+    "guessed_target_id": "12A",
+    "guessed_target_type": "section",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-m",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 10(23C)",
+    "guessed_target_id": "10-23C",
+    "guessed_target_type": "subsection",
+    "relationship": "definition_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "355-m",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 332",
+    "guessed_target_id": "332",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

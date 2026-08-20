@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "source_id": "16-i",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "paragraph 6 of Part A of Schedule XI",
+    "guessed_target_id": "schedule-XI-part-A-para-6",
+    "guessed_target_type": "paragraph",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "16-j",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "paragraph 11(2) of Part A of Schedule XI",
+    "guessed_target_id": "schedule-XI-part-A-para-11-2",
+    "guessed_target_type": "paragraph",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "16-k",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 124",
+    "guessed_target_id": "124",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "16-l",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 125",
+    "guessed_target_id": "125",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

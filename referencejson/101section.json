@@ -3,26 +3,27 @@
     {
       "type": "chapter",
       "number": "VI",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 3,
       "page_start": 1,
       "page_end": 1,
-      "text": "AGGREGATION OF INCOME",
-      "children": [
+      "text_before_sections": "AGGREGATION OF INCOME Total income.",
+      "sections": [
         {
           "type": "section",
           "number": "101",
           "id": "101",
-          "title": "Total income.",
-          "x": 27.62,
-          "y_start": 80.59,
+          "title": "",
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_subsections": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
-          "subsections": [],
-          "text_after_subsections": ""
+          "text": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+          "children": []
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -30,16 +31,26 @@
       "type": "section",
       "number": "101",
       "id": "101",
-      "title": "Total income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

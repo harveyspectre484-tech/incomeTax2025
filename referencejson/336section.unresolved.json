@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "source_id": "336-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 341 or accumulated",
+    "guessed_target_id": "341",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "336-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 342",
+    "guessed_target_id": "342",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "336-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 341 or accumulation",
+    "guessed_target_id": "341",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "336-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 342",
+    "guessed_target_id": "342",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

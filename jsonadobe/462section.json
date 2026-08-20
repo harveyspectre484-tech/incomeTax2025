@@ -5,16 +5,26 @@
       "type": "section",
       "number": "462",
       "id": "462",
-      "title": "Penalty for failure to furnish information or furnishing inaccurate information under section 397(3)(d).",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If any person, who is required to furnish information under section 397(3)(d), fails to furnish such information, or furnishes inaccurate information, the Assessing Officer may impose a penalty of Rs. 100000 on such person.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "If any person, who is required to furnish information under section 397(3)(d), fails to furnish such information, or furnishes inaccurate information, the Assessing Officer may impose a penalty of Rs. 100000 on such person.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Penalty for failure to furnish information or furnishing inaccurate information under section 397(3)(d)."
+    }
+  ]
 }

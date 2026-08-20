@@ -6,8 +6,8 @@
       "number": "397",
       "id": "397",
       "title": "Compliance and reporting.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "397-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "397-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "Every person deducting or collecting tax shall apply for allotment of a tax deduction and collection account number to the Assessing Officer within such time as may be prescribed, if that person has not already been allotted such number;",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "397-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "where a tax deduction and collection account number has been allotted to a person, such person shall quote such number in all challans, statements, certificates referred to in this Chapter, and in all documents pertaining to such transactions as may be prescribed in the interests of revenue;",
@@ -48,56 +48,61 @@
               "type": "clause",
               "number": "c",
               "id": "397-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "footnote_refs": [
                 "92"
               ],
-              "text": "the provisions of clause (a) shall not apply to—",
-              "children": [
+              "text_before_sub_clauses": "the provisions of clause (a) shall not apply to—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-1-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a person in respect of a transaction where he is required to deduct tax under section 393(1) [Table: Sl. No. 2(i), 3(i) or 6(ii)]; or"
+                  "text": "a person in respect of a transaction where he is required to deduct tax under section 393(1) [Table: Sl. No. 2(i), 3(i) or 6(ii)]; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-1-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a person referred to in section 393(4) [Table: Sl. No. 12.C(a)] in respect of a transaction where he is required to deduct tax on consideration for transfer of a virtual digital asset under section 393(1) [Table: Sl. No. 8(vi)]; or"
+                  "text": "a person referred to in section 393(4) [Table: Sl. No. 12.C(a)] in respect of a transaction where he is required to deduct tax on consideration for transfer of a virtual digital asset under section 393(1) [Table: Sl. No. 8(vi)]; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "397-1-c-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a resident individual or Hindu undivided family in respect of a transaction where he is required to deduct tax on any consideration for the transfer of any immovable property under section 393(2) [Table: Sl. No. 17]; or"
+                  "text": "a resident individual or Hindu undivided family in respect of a transaction where he is required to deduct tax on any consideration for the transfer of any immovable property under section 393(2) [Table: Sl. No. 17]; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "397-1-c-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a person notified in this regard by the Central Government.]"
+                  "text": "a person notified in this regard by the Central Government.]",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -106,8 +111,8 @@
           "type": "subsection",
           "number": "2",
           "id": "397-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -116,8 +121,8 @@
               "type": "clause",
               "number": "a",
               "id": "397-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "Irrespective of anything contained in any other provision of this Act, every person, entitled to receive any amount on which tax is deductible or, paying any amount on which tax is collectible, shall furnish his valid Permanent Account Number to the person responsible for deducting or collecting tax;",
@@ -127,60 +132,135 @@
               "type": "clause",
               "number": "b",
               "id": "397-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
-              "text": "in case of failure to comply with provisions of clause (a)—",
-              "children": [
+              "text_before_sub_clauses": "in case of failure to comply with provisions of clause (a)—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "tax shall be deducted at the higher of the following rates:—"
+                  "text_before_items": "tax shall be deducted at the higher of the following rates:—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "397-2-b-i-A",
+                      "indent": 0,
+                      "line_start": 16,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "at the rate specified in the relevant provision of this Act; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "397-2-b-i-B",
+                      "indent": 0,
+                      "line_start": 17,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "at the rate or rates in force; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "C",
+                      "id": "397-2-b-i-C",
+                      "indent": 0,
+                      "line_start": 18,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "at the rate of 5% where tax is required to be deducted under section 393(1) [Table: Sl. No. 8(ii) or 8(v)]; or 20% in any other case;",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 19,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "tax shall be collected at the higher of the following rates, not exceeding 20%—"
+                  "text_before_items": "tax shall be collected at the higher of the following rates, not exceeding 20%—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "397-2-b-ii-A",
+                      "indent": 0,
+                      "line_start": 20,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "at twice the rate specified in the relevant provision of this Act; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "397-2-b-ii-B",
+                      "indent": 0,
+                      "line_start": 21,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "at the rate of 5%;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "c",
+                      "id": "397-2-b-ii-c",
+                      "indent": 0,
+                      "line_start": 22,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "the provisions of clause (b)(i) shall not apply to a non-resident, not being a company or a foreign company, in respect of—",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 23,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "payment of interest on long-term bonds as specified in section 393(2) (Table: Sl. Nos. 2, 3 and 4); and"
+                  "text": "payment of interest on long-term bonds as specified in section 393(2) (Table: Sl. Nos. 2, 3 and 4); and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 24,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any other payment subject to such conditions, as may be prescribed;"
+                  "text": "any other payment subject to such conditions, as may be prescribed;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "d",
               "id": "397-2-d",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 25,
               "page_start": 1,
               "page_end": 1,
               "text": "the provisions of clause (b)(ii) shall not apply to a non-resident who does not have permanent establishment in India (which includes a fixed place of business through which the business of the enterprise is wholly or partly carried on);",
@@ -190,8 +270,8 @@
               "type": "clause",
               "number": "e",
               "id": "397-2-e",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 26,
               "page_start": 1,
               "page_end": 1,
               "text": "in respect of rent specified in section 393(1) [Table: Sl. No. 2(i)], if the tax is required to be deducted as per clause (b)(i), then such deduction shall not exceed the amount of rent payable for the last month of the tax year or the last month of the tenancy, as the case may be;",
@@ -201,62 +281,67 @@
               "type": "clause",
               "number": "f",
               "id": "397-2-f",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 27,
               "page_start": 1,
               "page_end": 1,
-              "text": "if a person does not furnish his valid Permanent Account Number in—",
-              "children": [
+              "text_before_sub_clauses": "if a person does not furnish his valid Permanent Account Number in—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-2-f-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 28,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any declaration under section 393(6) or 394(2), then such declaration becomes invalid;"
+                  "text": "any declaration under section 393(6) or 394(2), then such declaration becomes invalid;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-2-f-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 29,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any application made under provisions of section 395(1) or (3), then no certificate under such provisions shall be granted;"
+                  "text": "any application made under provisions of section 395(1) or (3), then no certificate under such provisions shall be granted;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "g",
               "id": "397-2-g",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 30,
               "page_start": 1,
               "page_end": 1,
-              "text": "if any declaration becomes invalid under clause (f)(i), then the deductor or collector shall deduct or collect tax as per the provisions of clause (b)(i) or",
-              "children": [
+              "text_before_sub_clauses": "if any declaration becomes invalid under clause (f)(i), then the deductor or collector shall deduct or collect tax as per the provisions of clause (b)(i) or",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-2-g-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 31,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "as the case may be;"
+                  "text": "as the case may be;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "h",
               "id": "397-2-h",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 32,
               "page_start": 1,
               "page_end": 1,
               "text": "the deductee or collectee shall furnish his valid Permanent Account Number to the deductor or collector, as the case may be, and the same shall be indicated in all bills, vouchers, correspondence and other documents which are sent to each other.",
@@ -269,8 +354,8 @@
           "type": "subsection",
           "number": "3",
           "id": "397-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 33,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -279,8 +364,8 @@
               "type": "clause",
               "number": "a",
               "id": "397-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 33,
               "page_start": 1,
               "page_end": 1,
               "text": "Every person responsible for deduction or collection of tax or employer referred to in section 392(2)(a) shall pay the amount so deducted or collected or determined as per section 392(2)(b) the credit of the Central Government, in such time as may be prescribed;",
@@ -290,8 +375,8 @@
               "type": "clause",
               "number": "b",
               "id": "397-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 34,
               "page_start": 1,
               "page_end": 1,
               "text": "every person responsible for deduction or collection of tax or employer referred to in section 392(2)(a), after paying the tax to the credit of the Central Government as per clause (a), shall deliver or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority, a statement for such period, in such form, verified in such manner, giving such particulars, and within such time, as may be prescribed;",
@@ -301,8 +386,8 @@
               "type": "clause",
               "number": "c",
               "id": "397-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 35,
               "page_start": 1,
               "page_end": 1,
               "text": "every prescribed authority as per clause (b), shall deliver a statement in such form and manner as may be prescribed, to the buyer or licensor or lessee referred to in section 394(1) (Table: Sl. Nos. 1 to 4 or 9);",
@@ -312,8 +397,8 @@
               "type": "clause",
               "number": "d",
               "id": "397-3-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 36,
               "page_start": 1,
               "page_end": 1,
               "text": "every person responsible for paying to a non-resident, not being a company or a foreign company, any sum, whether or not chargeable under this Act, shall furnish the information relating to payment of such sum, in such form and manner as may be prescribed;",
@@ -323,40 +408,43 @@
               "type": "clause",
               "number": "e",
               "id": "397-3-e",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 37,
               "page_start": 1,
               "page_end": 1,
-              "text": "in case of an office of the Government,—",
-              "children": [
+              "text_before_sub_clauses": "in case of an office of the Government,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-3-e-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 38,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "where the sum deducted under this Chapter or tax referred to in section 392(2)(a); or"
+                  "text": "where the sum deducted under this Chapter or tax referred to in section 392(2)(a); or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-3-e-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 39,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "where the sum collected under section 394(1) (Table: Sl. Nos. 1 to 5 or 9), has been paid to the credit of the Central Government without the production of a challan, the Pay and Accounts Officer or the Treasury Officer or the Cheque Drawing and Disbursing Officer or any other person, who is responsible for crediting such sum or tax to the credit of the Central Government, shall deliver or cause to be delivered to the prescribed authority or the person authorised by such authority, a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;"
+                  "text": "where the sum collected under section 394(1) (Table: Sl. Nos. 1 to 5 or 9), has been paid to the credit of the Central Government without the production of a challan, the Pay and Accounts Officer or the Treasury Officer or the Cheque Drawing and Disbursing Officer or any other person, who is responsible for crediting such sum or tax to the credit of the Central Government, shall deliver or cause to be delivered to the prescribed authority or the person authorised by such authority, a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "f",
               "id": "397-3-f",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 41,
               "page_start": 1,
               "page_end": 1,
               "text": "every person referred to in clause (b) or (e) may correct any discrepancy or update the information furnished, in the statement delivered under the said clauses, by delivering a correction statement in such form and verified in such manner as may be prescribed, to the prescribed authority under the said clauses, within two years from the end of the tax year in which such statement is required to be delivered under the said clauses or under section 200 of the Income-tax Act, 1961 (43 of 1961);",
@@ -366,50 +454,54 @@
               "type": "clause",
               "number": "g",
               "id": "397-3-g",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 42,
               "page_start": 1,
               "page_end": 1,
-              "text": "",
-              "children": [
+              "text_before_sub_clauses": "",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "397-3-g-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 42,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any banking company or co-operative society or public company referred to in Note 1 to section 393(1) (Table: Sl. No. 5) responsible for paying to a resident any income by way of interest, not exceeding the threshold limit mentioned in section 393(1) [Table: Sl. No. 5(ii) and (iii)], shall deliver or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority, a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;"
+                  "text": "any banking company or co-operative society or public company referred to in Note 1 to section 393(1) (Table: Sl. No. 5) responsible for paying to a resident any income by way of interest, not exceeding the threshold limit mentioned in section 393(1) [Table: Sl. No. 5(ii) and (iii)], shall deliver or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority, a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-3-g-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 43,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the Board may require any person, other than the person mentioned in sub- clause (i), responsible for paying to a resident any income which is liable for deduction of tax at source under this Chapter to deliver or cause to be delivered to the income-tax authority or the authorised person under sub-clause (i), a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;"
+                  "text": "the Board may require any person, other than the person mentioned in sub- clause (i), responsible for paying to a resident any income which is liable for deduction of tax at source under this Chapter to deliver or cause to be delivered to the income-tax authority or the authorised person under sub-clause (i), a statement in such form, verified in such manner, giving such particulars and within such time, as may be prescribed;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "397-3-g-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 44,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the person referred to in sub-clause (i) or sub-clause (ii) may deliver a correction statement to correct any discrepancy or update the information furnished, in the statement delivered under sub-clause (i) or sub-clause (ii) in such form and manner of verification, as may be prescribed to the income-tax authority referred to in sub-clause (i);"
+                  "text": "the person referred to in sub-clause (i) or sub-clause (ii) may deliver a correction statement to correct any discrepancy or update the information furnished, in the statement delivered under sub-clause (i) or sub-clause (ii) in such form and manner of verification, as may be prescribed to the income-tax authority referred to in sub-clause (i);",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "h",
               "id": "397-3-h",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 45,
               "page_start": 1,
               "page_end": 1,
               "text": "any person responsible for collecting the tax who fails to collect the tax as per the provisions of section 394, shall, irrespective of such failure, be liable to pay the tax to the credit of the Central Government as per the provisions of clause (a). \"(c) the provisions of clause (a) shall not apply—",
@@ -419,33 +511,36 @@
               "type": "clause",
               "number": "i",
               "id": "397-3-i",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 48,
               "page_start": 1,
               "page_end": 1,
-              "text": "to a person who is required to deduct tax under provisions of section 393(1) [Table: Sl. Nos. 2(i), 3(i) and 6(ii)];",
-              "children": [
+              "text_before_sub_clauses": "to a person who is required to deduct tax under provisions of section 393(1) [Table: Sl. Nos. 2(i), 3(i) and 6(ii)];",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "397-3-i-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 49,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "to a person referred to in section 393(4) [Table: Sl. No. 12.C(a)]; and"
+                  "text": "to a person referred to in section 393(4) [Table: Sl. No. 12.C(a)]; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "397-3-i-iii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 50,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a person notified in this regard by the Central Government.\""
+                  "text": "a person notified in this regard by the Central Government.\"",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -460,8 +555,22 @@
       "number": "92",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-10-2026. Prior to its substitution, clause (c) read as under :",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "397-1-c"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    }
+  ],
+  "footnote_reference_map": {
+    "92": [
+      "397-1-c"
+    ]
+  }
 }

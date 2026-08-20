@@ -5,14 +5,13 @@
       "type": "section",
       "number": "447",
       "id": "447",
-      "title": "Penalty for failure to furnish report under section 172.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "11[] \"447. Penalty for failure to furnish report under section 172.—If any person fails to furnish a report from an accountant as required by section 172, the Assessing Officer may impose a penalty of Rs. 100000 on such person.\"",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "11[] \"447. Penalty for failure to furnish report under section 172.—If any person fails to furnish a report from an accountant as required by section 172, the Assessing Officer may impose a penalty of Rs. 100000 on such person.\"",
+      "children": []
     }
   ],
   "footnotes": [
@@ -24,5 +23,16 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Penalty for failure to furnish report under section 172."
+    }
+  ]
 }

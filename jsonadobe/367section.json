@@ -5,26 +5,25 @@
       "type": "section",
       "number": "4",
       "id": "4",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Appeals to Supreme Court",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Appeals to Supreme Court",
+      "children": []
     },
     {
       "type": "section",
       "number": "367",
       "id": "367",
       "title": "Appeal to Supreme Court.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 8,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "An appeal shall lie to the Supreme Court from any judgment of the High Court delivered on an appeal made to High Court in respect of an order passed under section 363 in any case which the High Court certifies to be fit for appeal to the Supreme Court.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "An appeal shall lie to the Supreme Court from any judgment of the High Court delivered on an appeal made to High Court in respect of an order passed under section 363 in any case which the High Court certifies to be fit for appeal to the Supreme Court.",
+      "children": []
     }
   ],
   "footnotes": [],

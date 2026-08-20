@@ -5,21 +5,21 @@
       "type": "section",
       "number": "13",
       "id": "13",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Private companies",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Private companies",
+      "children": []
     },
     {
       "type": "section",
       "number": "323",
       "id": "323",
       "title": "Liability of directors of private company.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 7,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -28,8 +28,8 @@
           "type": "subsection",
           "number": "1",
           "id": "323-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in the Companies Act, 2013 (18 of 2013), where any tax due from—",
@@ -38,8 +38,8 @@
               "type": "clause",
               "number": "a",
               "id": "323-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "a private company in respect of any income of any tax year; or",
@@ -49,8 +49,8 @@
               "type": "clause",
               "number": "b",
               "id": "323-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "any other company in respect of any income of any tax year during which such other company was a private company, cannot be recovered, then, every person, who was a director of the private company at any time during the relevant tax year, shall be jointly and severally liable for the payment of such tax unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the company.",
@@ -63,18 +63,23 @@
           "type": "subsection",
           "number": "2",
           "id": "323-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"tax due\" includes penalty, interest, fees or any other sum payable under the Act.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, \"tax due\" includes penalty, interest, fees or any other sum payable under the Act.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

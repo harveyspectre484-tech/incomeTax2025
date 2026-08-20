@@ -20,7 +20,7 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "162-2-b",
+    "source_id": "162-2-c",
     "source_type": "clause",
     "field": "text",
     "anchor_text": "section 140(13)",
@@ -30,7 +30,37 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "162-2-b",
+    "source_id": "162-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 140(9) or (13)",
+    "guessed_target_id": "140-9",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "162-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 80-IA",
+    "guessed_target_id": "80",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "162-2-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 140(13)",
+    "guessed_target_id": "140-13",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "162-2-c",
     "source_type": "clause",
     "field": "text",
     "anchor_text": "section 144 or the",
@@ -40,7 +70,7 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "162-2-b",
+    "source_id": "162-2-c",
     "source_type": "clause",
     "field": "text",
     "anchor_text": "section 140(9)or (13)",
@@ -50,7 +80,7 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "162-2-b",
+    "source_id": "162-2-c",
     "source_type": "clause",
     "field": "text",
     "anchor_text": "section 80-IA",

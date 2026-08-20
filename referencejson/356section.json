@@ -3,380 +3,37 @@
     {
       "type": "chapter",
       "number": "XVIII",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text": "",
-      "children": [
+      "text_before_sections": "",
+      "sections": [
         {
           "type": "section",
           "number": "1",
           "id": "1",
           "title": "A.—Appeals",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_subsections": "—Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
-          "subsections": [],
-          "text_after_subsections": ""
-        },
-        {
-          "type": "section",
-          "number": "356",
-          "id": "356",
-          "title": "Appealable orders before Joint Commissioner (Appeals).",
-          "x": 27.62,
-          "y_start": 80.59,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_subsections": "",
-          "subsections": [
-            {
-              "type": "subsection",
-              "number": "1",
-              "id": "356-1",
-              "x": 27.62,
-              "y_start": 95.44,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "Any assessee or any deductor or any collector, aggrieved by any of the following orders of an Assessing Officer (below the rank of Joint Commissioner) may appeal to the Joint Commissioner (Appeals) against—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "356-1-a",
-                  "x": 40.8,
-                  "y_start": 395.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order being an intimation under section 270(1) or 399(1), where the assessee or deductor or collector objects to the adjustments made therein; or",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-1-a-001",
-                      "target_id": "270-1",
-                      "target_type": "subsection",
-                      "anchor_text": "section 270(1) or 399",
-                      "relationship": "depends_on",
-                      "confidence": "medium"
-                    }
-                  ]
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "356-1-b",
-                  "x": 40.8,
-                  "y_start": 415.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order under section 270(10) or 271, where the assessee objects to the amount of income assessed, or to the amount of tax determined, or to the amount of loss computed, or to the status under which he is assessed; or",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-1-b-001",
-                      "target_id": "270-10",
-                      "target_type": "subsection",
-                      "anchor_text": "section 270(10) or 271",
-                      "relationship": "depends_on",
-                      "confidence": "medium"
-                    }
-                  ]
-                },
-                {
-                  "type": "clause",
-                  "number": "c",
-                  "id": "356-1-c",
-                  "x": 40.8,
-                  "y_start": 430.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order of assessment, reassessment or recomputation under section 279; or",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-1-c-001",
-                      "target_id": "279",
-                      "target_type": "section",
-                      "anchor_text": "section 279",
-                      "relationship": "depends_on",
-                      "confidence": "medium"
-                    }
-                  ]
-                },
-                {
-                  "type": "clause",
-                  "number": "d",
-                  "id": "356-1-d",
-                  "x": 40.8,
-                  "y_start": 450.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order under section 398; or",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-1-d-001",
-                      "target_id": "398",
-                      "target_type": "section",
-                      "anchor_text": "section 398",
-                      "relationship": "depends_on",
-                      "confidence": "medium"
-                    }
-                  ]
-                },
-                {
-                  "type": "clause",
-                  "number": "e",
-                  "id": "356-1-e",
-                  "x": 40.8,
-                  "y_start": 395.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order imposing penalty under Chapter XXI; or",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "f",
-                  "id": "356-1-f",
-                  "x": 40.8,
-                  "y_start": 415.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an order under section 287 or 288 amending any of the orders or intimations mentioned in clauses (a) to (e).",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-1-f-001",
-                      "target_id": "287",
-                      "target_type": "section",
-                      "anchor_text": "section 287 or 288",
-                      "relationship": "depends_on",
-                      "confidence": "medium"
-                    },
-                    {
-                      "reference_id": "ref-356-1-f-002",
-                      "target_id": "356-1-a",
-                      "target_type": "clause",
-                      "anchor_text": "clauses (a) to (e)",
-                      "relationship": "depends_on",
-                      "confidence": "high"
-                    }
-                  ]
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "2",
-              "id": "356-2",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "No appeal shall be filed before the Joint Commissioner (Appeals) if an order referred to in sub-section (1) is passed by or with the prior approval of an income-tax authority above the rank of Deputy Commissioner.",
-              "clauses": [],
-              "text_after_clauses": "",
-              "references": [
-                {
-                  "reference_id": "ref-356-2-001",
-                  "target_id": "356-1",
-                  "target_type": "subsection",
-                  "anchor_text": "sub-section (1)",
-                  "relationship": "related_to",
-                  "confidence": "high"
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "number": "3",
-              "id": "356-3",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The Board or an income-tax authority so authorised by the Board in this regard, may transfer—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "356-3-a",
-                  "x": 40.8,
-                  "y_start": 395.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any appeal filed against an order referred to in sub-section (1), which is pending before the Commissioner (Appeals), and any matter arising out of or connected with such appeal and which is so pending, to the Joint Commissioner (Appeals); or",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-3-a-001",
-                      "target_id": "356-1",
-                      "target_type": "subsection",
-                      "anchor_text": "sub-section (1)",
-                      "relationship": "related_to",
-                      "confidence": "high"
-                    }
-                  ]
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "356-3-b",
-                  "x": 40.8,
-                  "y_start": 415.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any appeal which is pending before a Joint Commissioner (Appeals) and any matter arising out of or connected with such appeal and which is so pending, to the Commissioner (Appeals), regardless of anything contained in sub-sections (1) and (3)(a), who may proceed with such appeal or matter, from the stage at which it was before it was so transferred.",
-                  "children": [],
-                  "references": [
-                    {
-                      "reference_id": "ref-356-3-b-001",
-                      "target_id": "356-1",
-                      "target_type": "subsection",
-                      "anchor_text": "sub-sections (1) and (3)",
-                      "relationship": "related_to",
-                      "confidence": "high"
-                    }
-                  ]
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "4",
-              "id": "356-4",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "Where an appeal is transferred under sub-section (3), the appellant shall be given an opportunity of being reheard.",
-              "clauses": [],
-              "text_after_clauses": "",
-              "references": [
-                {
-                  "reference_id": "ref-356-4-001",
-                  "target_id": "356-3",
-                  "target_type": "subsection",
-                  "anchor_text": "sub-section (3)",
-                  "relationship": "depends_on",
-                  "confidence": "high"
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "number": "5",
-              "id": "356-5",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "For the disposal of appeal under this section, the Central Government may notify a scheme, so as to dispose of appeals in an expedient manner with transparency and accountability, by eliminating the interface between the Joint Commissioner (Appeals) and the appellant, to the extent technologically feasible and direct that any of the provisions of this Act relating to jurisdiction and procedure for disposal of such appeals, shall not apply or shall apply with exceptions, modifications and adaptations.",
-              "clauses": [],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "6",
-              "id": "356-6",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The Board may specify that any provisions of this section shall not apply to any case or class of cases.",
-              "clauses": [],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "7",
-              "id": "356-7",
-              "x": 27.62,
-              "y_start": 380.0,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "For the purposes of this section and section 357, \"status\" means the category of person as defined in section 2(77) under which the assessee is assessed.",
-              "clauses": [],
-              "text_after_clauses": "",
-              "references": [
-                {
-                  "reference_id": "ref-356-7-001",
-                  "target_id": "357",
-                  "target_type": "section",
-                  "anchor_text": "section 357",
-                  "relationship": "definition_reference",
-                  "confidence": "medium"
-                },
-                {
-                  "reference_id": "ref-356-7-002",
-                  "target_id": "2-77",
-                  "target_type": "subsection",
-                  "anchor_text": "section 2(77)",
-                  "relationship": "definition_reference",
-                  "confidence": "medium"
-                }
-              ]
-            }
-          ],
-          "text_after_subsections": ""
-        }
-      ]
-    }
-  ],
-  "sections": [
-    {
-      "type": "section",
-      "number": "1",
-      "id": "1",
-      "title": "A.—Appeals",
-      "x": 27.62,
-      "y_start": 80.59,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_subsections": "—Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
-      "subsections": [],
-      "text_after_subsections": ""
-    },
-    {
-      "type": "section",
-      "number": "356",
-      "id": "356",
-      "title": "Appealable orders before Joint Commissioner (Appeals).",
-      "x": 27.62,
-      "y_start": 80.59,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_subsections": "",
-      "subsections": [
-        {
-          "type": "subsection",
-          "number": "1",
-          "id": "356-1",
-          "x": 27.62,
-          "y_start": 95.44,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "Any assessee or any deductor or any collector, aggrieved by any of the following orders of an Assessing Officer (below the rank of Joint Commissioner) may appeal to the Joint Commissioner (Appeals) against—",
+          "text_before_subsections": "—Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Appealable orders before Joint Commissioner (Appeals). 356. (1) Any assessee or any deductor or any collector, aggrieved by any of the following orders of an Assessing Officer (below the rank of Joint Commissioner) may appeal to the Joint Commissioner (Appeals) against—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
-              "id": "356-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "id": "1-a",
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "an order being an intimation under section 270(1) or 399(1), where the assessee or deductor or collector objects to the adjustments made therein; or",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-1-a-001",
+                  "reference_id": "ref-1-a-001",
                   "target_id": "270-1",
                   "target_type": "subsection",
                   "anchor_text": "section 270(1) or 399",
@@ -388,16 +45,16 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "356-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "id": "1-b",
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "an order under section 270(10) or 271, where the assessee objects to the amount of income assessed, or to the amount of tax determined, or to the amount of loss computed, or to the status under which he is assessed; or",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-1-b-001",
+                  "reference_id": "ref-1-b-001",
                   "target_id": "270-10",
                   "target_type": "subsection",
                   "anchor_text": "section 270(10) or 271",
@@ -409,16 +66,16 @@
             {
               "type": "clause",
               "number": "c",
-              "id": "356-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "id": "1-c",
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "an order of assessment, reassessment or recomputation under section 279; or",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-1-c-001",
+                  "reference_id": "ref-1-c-001",
                   "target_id": "279",
                   "target_type": "section",
                   "anchor_text": "section 279",
@@ -430,16 +87,16 @@
             {
               "type": "clause",
               "number": "d",
-              "id": "356-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "id": "1-d",
+              "indent": 0,
+              "line_start": 16,
               "page_start": 1,
               "page_end": 1,
               "text": "an order under section 398; or",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-1-d-001",
+                  "reference_id": "ref-1-d-001",
                   "target_id": "398",
                   "target_type": "section",
                   "anchor_text": "section 398",
@@ -451,9 +108,9 @@
             {
               "type": "clause",
               "number": "e",
-              "id": "356-1-e",
-              "x": 40.8,
-              "y_start": 395.0,
+              "id": "1-e",
+              "indent": 0,
+              "line_start": 17,
               "page_start": 1,
               "page_end": 1,
               "text": "an order imposing penalty under Chapter XXI; or",
@@ -462,63 +119,338 @@
             {
               "type": "clause",
               "number": "f",
-              "id": "356-1-f",
-              "x": 40.8,
-              "y_start": 415.0,
+              "id": "1-f",
+              "indent": 0,
+              "line_start": 18,
               "page_start": 1,
               "page_end": 1,
               "text": "an order under section 287 or 288 amending any of the orders or intimations mentioned in clauses (a) to (e).",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-1-f-001",
+                  "reference_id": "ref-1-f-001",
                   "target_id": "287",
                   "target_type": "section",
                   "anchor_text": "section 287 or 288",
                   "relationship": "depends_on",
                   "confidence": "medium"
-                },
-                {
-                  "reference_id": "ref-356-1-f-002",
-                  "target_id": "356-1-a",
-                  "target_type": "clause",
-                  "anchor_text": "clauses (a) to (e)",
-                  "relationship": "depends_on",
-                  "confidence": "high"
                 }
               ]
             }
           ],
-          "text_after_clauses": ""
+          "subsections": [
+            {
+              "type": "subsection",
+              "number": "2",
+              "id": "1-2",
+              "indent": 0,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "No appeal shall be filed before the Joint Commissioner (Appeals) if an order referred to in sub-section (1) is passed by or with the prior approval of an income-tax authority above the rank of Deputy Commissioner.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-1-2-001",
+                  "target_id": "1-1",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (1)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "number": "3",
+              "id": "1-3",
+              "indent": 0,
+              "line_start": 20,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_clauses": "The Board or an income-tax authority so authorised by the Board in this regard, may transfer—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "1-3-a",
+                  "indent": 0,
+                  "line_start": 21,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any appeal filed against an order referred to in sub-section (1), which is pending before the Commissioner (Appeals), and any matter arising out of or connected with such appeal and which is so pending, to the Joint Commissioner (Appeals); or",
+                  "children": [],
+                  "references": [
+                    {
+                      "reference_id": "ref-1-3-a-001",
+                      "target_id": "1-1",
+                      "target_type": "subsection",
+                      "anchor_text": "sub-section (1)",
+                      "relationship": "related_to",
+                      "confidence": "medium"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "1-3-b",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any appeal which is pending before a Joint Commissioner (Appeals) and any matter arising out of or connected with such appeal and which is so pending, to the Commissioner (Appeals), regardless of anything contained in sub-sections (1) and (3)(a), who may proceed with such appeal or matter, from the stage at which it was before it was so transferred.",
+                  "children": [],
+                  "references": [
+                    {
+                      "reference_id": "ref-1-3-b-001",
+                      "target_id": "1-1",
+                      "target_type": "subsection",
+                      "anchor_text": "sub-sections (1) and (3)",
+                      "relationship": "related_to",
+                      "confidence": "medium"
+                    }
+                  ]
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subsection",
+              "number": "4",
+              "id": "1-4",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Where an appeal is transferred under sub-section (3), the appellant shall be given an opportunity of being reheard.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-1-4-001",
+                  "target_id": "1-3",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (3)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "number": "5",
+              "id": "1-5",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "For the disposal of appeal under this section, the Central Government may notify a scheme, so as to dispose of appeals in an expedient manner with transparency and accountability, by eliminating the interface between the Joint Commissioner (Appeals) and the appellant, to the extent technologically feasible and direct that any of the provisions of this Act relating to jurisdiction and procedure for disposal of such appeals, shall not apply or shall apply with exceptions, modifications and adaptations.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "6",
+              "id": "1-6",
+              "indent": 0,
+              "line_start": 26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The Board may specify that any provisions of this section shall not apply to any case or class of cases.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "number": "7",
+              "id": "1-7",
+              "indent": 0,
+              "line_start": 27,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "For the purposes of this section and section 357, \"status\" means the category of person as defined in section 2(77) under which the assessee is assessed.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-1-7-001",
+                  "target_id": "357",
+                  "target_type": "section",
+                  "anchor_text": "section 357",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-1-7-002",
+                  "target_id": "2-77",
+                  "target_type": "subsection",
+                  "anchor_text": "section 2(77)",
+                  "relationship": "definition_reference",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_subsections": ""
+        }
+      ],
+      "text_after_sections": ""
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "1",
+      "id": "1",
+      "title": "A.—Appeals",
+      "indent": 0,
+      "line_start": 10,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "—Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Appealable orders before Joint Commissioner (Appeals). 356. (1) Any assessee or any deductor or any collector, aggrieved by any of the following orders of an Assessing Officer (below the rank of Joint Commissioner) may appeal to the Joint Commissioner (Appeals) against—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "1-a",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order being an intimation under section 270(1) or 399(1), where the assessee or deductor or collector objects to the adjustments made therein; or",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-1-a-001",
+              "target_id": "270-1",
+              "target_type": "subsection",
+              "anchor_text": "section 270(1) or 399",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
         },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "1-b",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order under section 270(10) or 271, where the assessee objects to the amount of income assessed, or to the amount of tax determined, or to the amount of loss computed, or to the status under which he is assessed; or",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-1-b-001",
+              "target_id": "270-10",
+              "target_type": "subsection",
+              "anchor_text": "section 270(10) or 271",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "1-c",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order of assessment, reassessment or recomputation under section 279; or",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-1-c-001",
+              "target_id": "279",
+              "target_type": "section",
+              "anchor_text": "section 279",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "1-d",
+          "indent": 0,
+          "line_start": 16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order under section 398; or",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-1-d-001",
+              "target_id": "398",
+              "target_type": "section",
+              "anchor_text": "section 398",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "1-e",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order imposing penalty under Chapter XXI; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "1-f",
+          "indent": 0,
+          "line_start": 18,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order under section 287 or 288 amending any of the orders or intimations mentioned in clauses (a) to (e).",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-1-f-001",
+              "target_id": "287",
+              "target_type": "section",
+              "anchor_text": "section 287 or 288",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "subsections": [
         {
           "type": "subsection",
           "number": "2",
-          "id": "356-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-2",
+          "indent": 0,
+          "line_start": 19,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No appeal shall be filed before the Joint Commissioner (Appeals) if an order referred to in sub-section (1) is passed by or with the prior approval of an income-tax authority above the rank of Deputy Commissioner.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "No appeal shall be filed before the Joint Commissioner (Appeals) if an order referred to in sub-section (1) is passed by or with the prior approval of an income-tax authority above the rank of Deputy Commissioner.",
+          "children": [],
           "references": [
             {
-              "reference_id": "ref-356-2-001",
-              "target_id": "356-1",
+              "reference_id": "ref-1-2-001",
+              "target_id": "1-1",
               "target_type": "subsection",
               "anchor_text": "sub-section (1)",
               "relationship": "related_to",
-              "confidence": "high"
+              "confidence": "medium"
             }
           ]
         },
         {
           "type": "subsection",
           "number": "3",
-          "id": "356-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-3",
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Board or an income-tax authority so authorised by the Board in this regard, may transfer—",
@@ -526,42 +458,42 @@
             {
               "type": "clause",
               "number": "a",
-              "id": "356-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "id": "1-3-a",
+              "indent": 0,
+              "line_start": 21,
               "page_start": 1,
               "page_end": 1,
               "text": "any appeal filed against an order referred to in sub-section (1), which is pending before the Commissioner (Appeals), and any matter arising out of or connected with such appeal and which is so pending, to the Joint Commissioner (Appeals); or",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-3-a-001",
-                  "target_id": "356-1",
+                  "reference_id": "ref-1-3-a-001",
+                  "target_id": "1-1",
                   "target_type": "subsection",
                   "anchor_text": "sub-section (1)",
                   "relationship": "related_to",
-                  "confidence": "high"
+                  "confidence": "medium"
                 }
               ]
             },
             {
               "type": "clause",
               "number": "b",
-              "id": "356-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "id": "1-3-b",
+              "indent": 0,
+              "line_start": 22,
               "page_start": 1,
               "page_end": 1,
               "text": "any appeal which is pending before a Joint Commissioner (Appeals) and any matter arising out of or connected with such appeal and which is so pending, to the Commissioner (Appeals), regardless of anything contained in sub-sections (1) and (3)(a), who may proceed with such appeal or matter, from the stage at which it was before it was so transferred.",
               "children": [],
               "references": [
                 {
-                  "reference_id": "ref-356-3-b-001",
-                  "target_id": "356-1",
+                  "reference_id": "ref-1-3-b-001",
+                  "target_id": "1-1",
                   "target_type": "subsection",
                   "anchor_text": "sub-sections (1) and (3)",
                   "relationship": "related_to",
-                  "confidence": "high"
+                  "confidence": "medium"
                 }
               ]
             }
@@ -571,18 +503,17 @@
         {
           "type": "subsection",
           "number": "4",
-          "id": "356-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-4",
+          "indent": 0,
+          "line_start": 24,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where an appeal is transferred under sub-section (3), the appellant shall be given an opportunity of being reheard.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where an appeal is transferred under sub-section (3), the appellant shall be given an opportunity of being reheard.",
+          "children": [],
           "references": [
             {
-              "reference_id": "ref-356-4-001",
-              "target_id": "356-3",
+              "reference_id": "ref-1-4-001",
+              "target_id": "1-3",
               "target_type": "subsection",
               "anchor_text": "sub-section (3)",
               "relationship": "depends_on",
@@ -593,41 +524,38 @@
         {
           "type": "subsection",
           "number": "5",
-          "id": "356-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-5",
+          "indent": 0,
+          "line_start": 25,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the disposal of appeal under this section, the Central Government may notify a scheme, so as to dispose of appeals in an expedient manner with transparency and accountability, by eliminating the interface between the Joint Commissioner (Appeals) and the appellant, to the extent technologically feasible and direct that any of the provisions of this Act relating to jurisdiction and procedure for disposal of such appeals, shall not apply or shall apply with exceptions, modifications and adaptations.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the disposal of appeal under this section, the Central Government may notify a scheme, so as to dispose of appeals in an expedient manner with transparency and accountability, by eliminating the interface between the Joint Commissioner (Appeals) and the appellant, to the extent technologically feasible and direct that any of the provisions of this Act relating to jurisdiction and procedure for disposal of such appeals, shall not apply or shall apply with exceptions, modifications and adaptations.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
-          "id": "356-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-6",
+          "indent": 0,
+          "line_start": 26,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Board may specify that any provisions of this section shall not apply to any case or class of cases.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Board may specify that any provisions of this section shall not apply to any case or class of cases.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "7",
-          "id": "356-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "id": "1-7",
+          "indent": 0,
+          "line_start": 27,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section and section 357, \"status\" means the category of person as defined in section 2(77) under which the assessee is assessed.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "For the purposes of this section and section 357, \"status\" means the category of person as defined in section 2(77) under which the assessee is assessed.",
+          "children": [],
           "references": [
             {
-              "reference_id": "ref-356-7-001",
+              "reference_id": "ref-1-7-001",
               "target_id": "357",
               "target_type": "section",
               "anchor_text": "section 357",
@@ -635,7 +563,7 @@
               "confidence": "medium"
             },
             {
-              "reference_id": "ref-356-7-002",
+              "reference_id": "ref-1-7-002",
               "target_id": "2-77",
               "target_type": "subsection",
               "anchor_text": "section 2(77)",
@@ -649,5 +577,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

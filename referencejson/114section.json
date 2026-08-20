@@ -5,9 +5,9 @@
       "type": "section",
       "number": "114",
       "id": "114",
-      "title": "Set off and carry forward of losses computed in respect of specified business.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,13 +16,12 @@
           "type": "subsection",
           "number": "1",
           "id": "114-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Any loss, computed in respect of a specified business, referred to in section 46, shall be set off only against profits and gains of another specified business.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Any loss, computed in respect of a specified business, referred to in section 46, shall be set off only against profits and gains of another specified business.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-114-1-001",
@@ -38,28 +37,47 @@
           "type": "subsection",
           "number": "2",
           "id": "114-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where for any tax year, loss computed in respect of a specified business cannot be wholly set off under sub-section (1), so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—",
-          "clauses": [],
-          "text_after_clauses": "",
-          "references": [
+          "text_before_sub_clauses": "Where for any tax year, loss computed in respect of a specified business cannot be wholly set off under sub-section (1), so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—",
+          "sub_clauses": [
             {
-              "reference_id": "ref-114-2-001",
-              "target_id": "114-1",
-              "target_type": "subsection",
-              "anchor_text": "sub-section (1)",
-              "relationship": "depends_on",
-              "confidence": "high"
+              "type": "sub_clause",
+              "number": "i",
+              "id": "114-2-i",
+              "indent": 0,
+              "line_start": 7,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "be set off against the profits and gains, if any, of any specified business carried on by him for such tax year; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "114-2-ii",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following tax year and so on.",
+              "children": []
             }
-          ]
+          ],
+          "text_after_sub_clauses": ""
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Set off and carry forward of losses computed in respect of specified business."
+    }
+  ]
 }

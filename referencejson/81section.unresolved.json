@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "source_id": "81-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 92(2)(h)",
+    "guessed_target_id": "92-2-h",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "81-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 56(2)(ix)",
+    "guessed_target_id": "56-2-ix",
+    "guessed_target_type": "clause",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

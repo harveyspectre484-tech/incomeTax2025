@@ -5,16 +5,67 @@
       "type": "section",
       "number": "145",
       "id": "145",
-      "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of biodegradable waste for,—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of biodegradable waste for,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "145-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "generating power; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "145-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "producing bio-fertilizers, bio-pesticides or other biological agents; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "145-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "producing bio-gas; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "145-d",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "making pellets or briquettes for fuel or organic manure, there shall be allowed a deduction equal to the whole amount of such profits and gains for five consecutive tax years, beginning with the tax year in which such business commences.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Deduction for businesses engaged in collecting and processing of bio-degradable waste."
+    }
+  ]
 }

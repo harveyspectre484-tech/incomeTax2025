@@ -6,13 +6,404 @@
       "number": "235",
       "id": "235",
       "title": "Interpretation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of this Part,—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "For the purposes of this Part,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "235-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"bareboat charter\" means hiring of a ship or inland vessel, as the case may be, for a stipulated period on terms which give the charterer possession and control of the ship or inland vessel, as the case may be, including the right to appoint the master and crew;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "235-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"bareboat charter-cum-demise\" means a bareboat charter where the ownership of the ship or inland vessel, as the case may be, is intended to be transferred after a specified period to the company to whom it has been chartered;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "235-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"Director-General of Shipping\" means the Director-General of Shipping appointed by the Central Government under section 7(1) of the Merchant Shipping Act, 1958 (44 of 1958);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-235-c-001",
+              "target_id": "7-1",
+              "target_type": "subsection",
+              "anchor_text": "section 7(1)",
+              "relationship": "definition_reference",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "235-d",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"factory ship\" includes a vessel providing processing services in respect of processing of the fishing produce;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "235-e",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"fishing vessel\" shall have the meaning assigned to it in section 3(12) of the Merchant Shipping Act, 1958 (44 of 1958);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-235-e-001",
+              "target_id": "3-12",
+              "target_type": "subsection",
+              "anchor_text": "section 3(12)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "235-f",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-235-f-001",
+              "target_id": "3-q",
+              "target_type": "clause",
+              "anchor_text": "section 3(q)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "fa",
+          "id": "235-fa",
+          "indent": 0,
+          "line_start": 12,
+          "page_start": 1,
+          "page_end": 1,
+          "footnote_refs": [
+            "42"
+          ],
+          "text": "\"Inland Waterways Authority of India\" shall have the same meaning as assigned to it in section 3 of the Inland Waterways Authority of India Act, 1985 (82 of 1985);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-235-fa-001",
+              "target_id": "3",
+              "target_type": "section",
+              "anchor_text": "section 3",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "235-g",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"pleasure craft\" means a ship or inland vessel, as the case may be, of a kind whose primary use is for the purposes of sport or recreation;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "235-h",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"qualifying company\" means a company, if—",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "235-i",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "it is an Indian company;",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "235-i-ii",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the place of effective management of the company is in India;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "235-i-iii",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it owns at least one qualifying ship; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "235-i-iv",
+              "indent": 0,
+              "line_start": 18,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_items": "the main object of the company is to carry on the business of operating ships, and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— (A) the place where the board of directors of the company or its executive directors, make their decisions; or",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "B",
+                  "id": "235-i-iv-B",
+                  "indent": 0,
+                  "line_start": 20,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "235-i-i",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "235-i-i",
+              "indent": 0,
+              "line_start": 22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is a seagoing ship or vessel or inland vessel, as the case may be, of fifteen net tonnage or more;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "235-i-ii",
+              "indent": 0,
+              "line_start": 23,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is a ship registered under the Merchant Shipping Act, 1958 (44 of 1958), or a ship registered outside India in respect of which a licence has been issued by the Director-General of Shipping under section 406 or 407 of said Act or an inland vessel registered under the Inland Vessels Act, 2021 (24 of 2021), as the case may be; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "235-i-iii",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_items": "a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, but does not include—",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "A",
+                  "id": "235-i-iii-A",
+                  "indent": 0,
+                  "line_start": 26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "B",
+                  "id": "235-i-iii-B",
+                  "indent": 0,
+                  "line_start": 27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "fishing vessels;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "C",
+                  "id": "235-i-iii-C",
+                  "indent": 0,
+                  "line_start": 28,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "factory ships;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "D",
+                  "id": "235-i-iii-D",
+                  "indent": 0,
+                  "line_start": 29,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "pleasure crafts;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "E",
+                  "id": "235-i-iii-E",
+                  "indent": 0,
+                  "line_start": 30,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "harbour and river ferries;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "F",
+                  "id": "235-i-iii-F",
+                  "indent": 0,
+                  "line_start": 31,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "offshore installations; and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "G",
+                  "id": "235-i-iii-G",
+                  "indent": 0,
+                  "line_start": 32,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "j",
+                  "id": "235-i-iii-j",
+                  "indent": 0,
+                  "line_start": 33,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"seagoing ship\" means a ship, if it is certified as such by the competent authority of any country;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "k",
+                  "id": "235-i-iii-k",
+                  "indent": 0,
+                  "line_start": 34,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"tonnage income\" means the income of a tonnage tax company computed as per the provisions of this Part of the Chapter;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "l",
+                  "id": "235-i-iii-l",
+                  "indent": 0,
+                  "line_start": 35,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"tonnage tax activities\" means the activities referred to in section 228(3) and (7);",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "m",
+                  "id": "235-i-iii-m",
+                  "indent": 0,
+                  "line_start": 36,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"tonnage tax business\" means the business of operating qualifying ships giving rise to relevant shipping income as referred to in section 228(1);",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "n",
+                  "id": "235-i-iii-n",
+                  "indent": 0,
+                  "line_start": 37,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"tonnage tax company\" means a qualifying company in relation to which tonnage tax option is in force;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "o",
+                  "id": "235-i-iii-o",
+                  "indent": 0,
+                  "line_start": 38,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"tonnage tax scheme\" means a scheme for computation of profits and gains of business of operating qualifying ships under the provisions of this Part.",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [
@@ -21,8 +412,27 @@
       "number": "42",
       "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "235-fa"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ],
+  "footnote_reference_map": {
+    "42": [
+      "235-fa"
+    ]
+  }
 }

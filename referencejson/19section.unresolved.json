@@ -1,0 +1,12 @@
+[
+  {
+    "source_id": "19-2-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 25F(b)",
+    "guessed_target_id": "25F-b",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

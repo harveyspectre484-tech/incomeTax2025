@@ -5,9 +5,9 @@
       "type": "section",
       "number": "525",
       "id": "525",
-      "title": "Authorisation and assessment in case of search or requisition.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "525-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in this Act,—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "525-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "it shall not be necessary to issue an authorisation under section 247 or make a requisition under section 248 separately in the name of each person;",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "525-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "where an authorisation under section 247 has been issued or requisition under section 248 has been made mentioning therein the name of more than one person, the mention of such names of more than one person on such authorisation or requisition shall not be deemed to construe that it was issued in the name of an association of persons or body of individuals consisting of such persons.",
@@ -51,18 +51,23 @@
           "type": "subsection",
           "number": "2",
           "id": "525-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Irrespective of an authorisation issued under section 247 or a requisition made under section 248 mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Irrespective of an authorisation issued under section 247 or a requisition made under section 248 mentioning therein the name of more than one person, the assessment or reassessment shall be made separately in the name of each of the persons mentioned in such authorisation or requisition.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Authorisation and assessment in case of search or requisition."
+    }
+  ]
 }

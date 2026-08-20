@@ -6,15 +6,220 @@
       "number": "357",
       "id": "357",
       "title": "Appealable orders before Commissioner (Appeals).",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Any assessee or any deductor or any collector, aggrieved by any of the following orders, may appeal to the Commissioner (Appeals) against—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Any assessee or any deductor or any collector, aggrieved by any of the following orders, may appeal to the Commissioner (Appeals) against—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "357-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order passed by a Joint Commissioner under section 231(4)(b); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "357-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order against the assessee where the assessee denies his liability to be assessed under this Act; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "357-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order being an intimation under section 270(1) or 399(1), where the assessee or the deductor or the collector objects to the adjustments made therein; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "357-d",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any order of assessment under section 270(10), except an order passed in pursuance of directions of the Dispute Resolution Panel or an order referred to in section 274(12) or 271, where the assessee objects to the income assessed, or to the amount of tax determined, or to the amount of loss computed, or to the status under which he is assessed; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "357-e",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order of assessment, reassessment or recomputation under section 279 [except an order passed in pursuance of directions of the Dispute Resolution Panel or an order referred to in section 274(12)] or 283; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "357-f",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 169(3)(a); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "357-g",
+          "indent": 0,
+          "line_start": 12,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 287 or 288 having the effect of enhancing the assessment or reducing a refund or an order refusing to allow the claim made by the assessee under either of the said sections except an order referred to in section 274(12); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "357-h",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 306 treating the assessee as the agent of a non-resident; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "357-i",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 313(2) or (4); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "j",
+          "id": "357-j",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 315; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "k",
+          "id": "357-k",
+          "indent": 0,
+          "line_start": 16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 398; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "l",
+          "id": "357-l",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 431; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "m",
+          "id": "357-m",
+          "indent": 0,
+          "line_start": 18,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made under section 434; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "n",
+          "id": "357-n",
+          "indent": 0,
+          "line_start": 19,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order imposing or enhancing a penalty under Chapter XXI; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "o",
+          "id": "357-o",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order imposing a penalty under section 412; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "p",
+          "id": "357-p",
+          "indent": 0,
+          "line_start": 21,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order passed under section 294(1)(c); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "q",
+          "id": "357-q",
+          "indent": 0,
+          "line_start": 22,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order imposing a penalty under section 298(2); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "r",
+          "id": "357-r",
+          "indent": 0,
+          "line_start": 23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an order made by an Assessing Officer under the provisions of this Act in the case of such person or class of persons, as the Board may, having regard to the nature of the cases, the complexities involved and other relevant considerations, direct.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

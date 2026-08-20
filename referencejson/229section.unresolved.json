@@ -2,7 +2,7 @@
   {
     "source_id": "229-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 230(1)(d)",
     "guessed_target_id": "230-1-d",
     "guessed_target_type": "clause",
@@ -12,7 +12,7 @@
   {
     "source_id": "229-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 230(1)(d)",
     "guessed_target_id": "230-1-d",
     "guessed_target_type": "clause",
@@ -22,7 +22,7 @@
   {
     "source_id": "229-8",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sections 67 and 74",
     "guessed_target_id": "67",
     "guessed_target_type": "section",
@@ -32,7 +32,7 @@
   {
     "source_id": "229-8",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sections 67 to 81",
     "guessed_target_id": "67",
     "guessed_target_type": "section",
@@ -42,7 +42,7 @@
   {
     "source_id": "229-9",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 74",
     "guessed_target_id": "74",
     "guessed_target_type": "section",

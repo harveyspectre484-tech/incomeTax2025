@@ -6,8 +6,8 @@
       "number": "487",
       "id": "487",
       "title": "Offences by companies.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,25 +16,23 @@
           "type": "subsection",
           "number": "1",
           "id": "487-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "If an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "487-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of sub-section (1) shall not apply if the person referred therein proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The provisions of sub-section (1) shall not apply if the person referred therein proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-487-2-001",
@@ -50,13 +48,12 @@
           "type": "subsection",
           "number": "3",
           "id": "487-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Irrespective of anything contained in sub-sections (1) and (2), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Irrespective of anything contained in sub-sections (1) and (2), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-487-3-001",
@@ -72,13 +69,12 @@
           "type": "subsection",
           "number": "4",
           "id": "487-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If an offence under this Act has been committed by a company and the punishment for such offence is imprisonment and fine, then, without prejudice to the provisions contained in sub-section (1) or (3), such company shall be punished with fine and every person referred to in sub-section (1), or the director, manager, secretary or other officer of the company referred to in sub-section (3), shall be liable to be proceeded against and punished as per the provisions of this Act.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "If an offence under this Act has been committed by a company and the punishment for such offence is imprisonment and fine, then, without prejudice to the provisions contained in sub-section (1) or (3), such company shall be punished with fine and every person referred to in sub-section (1), or the director, manager, secretary or other officer of the company referred to in sub-section (3), shall be liable to be proceeded against and punished as per the provisions of this Act.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-487-4-001",
@@ -110,8 +106,8 @@
           "type": "subsection",
           "number": "5",
           "id": "487-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section,—",
@@ -120,65 +116,60 @@
               "type": "clause",
               "number": "a",
               "id": "487-5-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"company\" means a body corporate and includes—",
-              "children": [
+              "text_before_sub_clauses": "\"company\" means a body corporate and includes—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "487-5-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a firm; and"
+                  "text": "a firm; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "487-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 13,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "an association of persons or a body of individuals, whether incorporated or not; and"
+                  "text": "an association of persons or a body of individuals, whether incorporated or not; and",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "487-5-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"director\", in relation to—",
-              "children": [
+              "text_before_sub_clauses": "\"director\", in relation to—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "487-5-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "a firm, means a partner in the firm"
-                },
-                {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "487-5-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any association of persons or a body of individuals, means any member controlling the affairs thereof."
+                  "text": "a firm, means a partner in the firm; (ii) any association of persons or a body of individuals, means any member controlling the affairs thereof.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""

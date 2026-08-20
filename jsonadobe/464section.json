@@ -6,13 +6,36 @@
       "number": "464",
       "id": "464",
       "title": "Penalty for failure to furnish statements, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "464-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "464-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

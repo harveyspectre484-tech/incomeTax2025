@@ -61,12 +61,12 @@ PARAGRAPH_SCHEDULE_RE = re.compile(
     r"(?:\s*\(\s*(?P<subpara1>\d+)\s*\)"
     r"(?:\s*(?:and|or|to|,)\s*\(\s*(?P<subpara2>\d+)\s*\))?)?"
     r"(?:\s+of\s+Part\s+(?P<part>[A-Z]))?"
-    r"(?:\s+of\s+Schedule\s+(?P<schedule>[IVXLCDM\d]+))?",
+    r"(?:\s+of\s+Schedules?\s+(?P<schedule>[IVXLCDM\d]+)\b)?",
     re.IGNORECASE,
 )
 
 SCHEDULE_RE = re.compile(
-    r"(?:\bPart\s+(?P<part>[A-Z])\s+of\s+)?\bSchedule\s+(?P<schedule>[IVXLCDM\d]+)",
+    r"(?:\bPart\s+(?P<part>[A-Z])\s+of\s+)?\bSchedules?\s+(?P<schedule>[IVXLCDM\d]+)\b",
     re.IGNORECASE,
 )
 

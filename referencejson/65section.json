@@ -6,13 +6,333 @@
       "number": "65",
       "id": "65",
       "title": "Interpretation for purposes of section 64.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of section 64,—",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text_before_clauses": "For the purposes of section 64,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "65-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"amalgamation\" means the merger of an amalgamating co-operative bank with an amalgamated co-operative bank, if—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "65-a-i",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "all the assets and liabilities of the amalgamating co-operative bank or banks immediately before the merger (other than the assets transferred, by sale or distribution on winding up, to the amalgamated co-operative bank) become the assets and liabilities of the amalgamated co-operative bank;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "65-a-ii",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the members holding 75% or more voting rights in the amalgamating co-operative bank become members of the amalgamated co-operative bank; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "65-a-iii",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the shareholders holding 75% or more in value of the shares in the amalgamating co-operative bank (other than the shares held by the amalgamated co-operative bank or its nominee or its subsidiary, immediately before the merger) become shareholders of the amalgamated co-operative bank;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "65-b",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"amalgamating co-operative bank\" means—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "65-b-i",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a co-operative bank which merges with another co-operative bank; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "65-b-ii",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "every co-operative bank merging to form a new co-operative bank;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "65-c",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"amalgamated co-operative bank\" means—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "65-c-i",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a co-operative bank with which one or more amalgamating co-operative banks merge; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "65-c-ii",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a co-operative bank formed as a result of merger of two or more amalgamating co-operative banks;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "65-d",
+          "indent": 0,
+          "line_start": 17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"business reorganisation\" means reorganisation of business involving the amalgamation or demerger of a co-operative bank or conversion of a primary co-operative bank;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "65-e",
+          "indent": 0,
+          "line_start": 18,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"conversion\" means transition of a primary co-operative bank to a banking company under the scheme of the Reserve Bank of India as may be notified vide its circular number DCBR. CO. LS. PCB. Cir. No. 5/07.01.000/2018-19, dated 27th September, 2018;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "65-f",
+          "indent": 0,
+          "line_start": 19,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"converted banking company\" means a banking company formed as a result of conversion from primary co-operative bank;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "65-g",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"demerger\" means the transfer by a demerged co-operative bank of one or more of its undertakings to any resulting co-operative bank, in such manner that—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "65-g-i",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "all the assets and liabilities of the undertaking or undertakings immediately before the transfer become the assets and liabilities of the resulting co-operative bank;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "65-g-ii",
+              "indent": 0,
+              "line_start": 22,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the assets and the liabilities are transferred to the resulting co-operative bank at values (other than change in the value of assets consequent to their revaluation) appearing in its books of account immediately before the transfer;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "65-g-iii",
+              "indent": 0,
+              "line_start": 23,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the resulting co-operative bank issues, in consideration of the transfer, its membership to the members of the demerged co-operative bank on a proportionate basis;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "65-g-iv",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the shareholders holding 75% or more in value of the shares in the demerged co-operative bank (other than shares already held by the resulting bank or its nominee or its subsidiary immediately before the transfer), become shareholders of the resulting co-operative bank, otherwise than as a result of the acquisition of the assets of the demerged co-operative bank or any undertaking thereof by the resulting cooperative bank;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "v",
+              "id": "65-g-v",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transfer of the undertaking is on a going concern basis; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "vi",
+              "id": "65-g-vi",
+              "indent": 0,
+              "line_start": 26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transfer is as per the conditions specified by the Central Government, by notification, having regard to the necessity to ensure that the transfer is for genuine business purposes;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "65-h",
+          "indent": 0,
+          "line_start": 27,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"demerged co-operative bank\" means the co-operative bank whose undertaking is transferred, pursuant to a demerger, to a resulting bank;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "65-i",
+          "indent": 0,
+          "line_start": 28,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"predecessor co-operative bank\" means the amalgamating co-operative bank or the demerged co-operative bank, or the primary co-operative bank, which has been succeeded as a result of conversion;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "j",
+          "id": "65-j",
+          "indent": 0,
+          "line_start": 29,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"primary co-operative bank\" shall have the meaning assigned to it in clause (ccv) of section 56 of the Banking Regulation Act, 1949 (10 of 1949);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-65-j-001",
+              "target_id": "56",
+              "target_type": "section",
+              "anchor_text": "section 56",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "k",
+          "id": "65-k",
+          "indent": 0,
+          "line_start": 30,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"resulting co-operative bank\" means—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "65-k-ii",
+              "indent": 0,
+              "line_start": 31,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any co-operative bank formed as a result of demerger;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "l",
+          "id": "65-l",
+          "indent": 0,
+          "line_start": 32,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"successor co-operative bank\" means the amalgamated co-operative bank or the resulting bank.",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "65-l-i",
+              "indent": 0,
+              "line_start": 33,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "one or more co-operative banks to which the undertaking of the demerged co-operative bank is transferred in a demerger; or",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": "",
       "references": [
         {
           "reference_id": "ref-65-001",
@@ -34,5 +354,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

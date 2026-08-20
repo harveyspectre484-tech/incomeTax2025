@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "source_id": "261-g",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(r)",
+    "guessed_target_id": "2-1-r",
+    "guessed_target_type": "clause",
+    "relationship": "procedure_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "261-h",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(1)(t)",
+    "guessed_target_id": "2-1-t",
+    "guessed_target_type": "clause",
+    "relationship": "procedure_reference",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "261-i",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 247 or requisitioned",
+    "guessed_target_id": "247",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "261-i",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 248",
+    "guessed_target_id": "248",
+    "guessed_target_type": "section",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "204",
+      "id": "204",
+      "title": "Tax on income of certain new manufacturing co-operative societies.",
+      "indent": 0,
+      "line_start": 6,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "204-1",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Irrespective of anything contained in this Act but subject to the provisions of Part A, B, E and this Part (other than section 203) of this Chapter, the income-tax payable in respect of the total income of an assessee, being a co-operative society, resident in India, engaged in the business of manufacture or production of any article or thing, shall at the option of such assessee, be computed at the rates specified in column A of the said Table, if the conditions contained in column B thereof are fulfilled.",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "204-1-table-1",
+            "title": "TABLE",
+            "format": "borderless",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 9,
+            "line_end": 11,
+            "columns": [
+              "Total income and rate of tax A (a) 15% on the total income other than the income mentioned in clauses (b), (c) and (d); (b) 22% (without any deduction or allowance in respect of any expenditure or allowance) on such income,— (i) which has neither been derived from nor is incidental to manufacturing or production of an article or thing; and (ii) in respect of which no specific rate of tax has been provided separately under this Part; (c) 22% on short-term capital gains derived from transfer of a capital asset on which no depreciation is allowable under this Act; (d) 30% on the income deemed so under section 205(4).",
+              "Conditions B Such co-operative society— (a) exercises the option in the manner provided in sub-section (2); (b) has been set-up and registered on or after the 1st April, 2023; (c) has commenced manufacturing or production of an article or thing on or before the 31st March, 2024; (d) the total income of which is computed as per the provisions of sub-section (3); and (e) fulfils all the conditions provided in section 205(2)."
+            ],
+            "rows": [],
+            "linearized_text": "Subsection (1): Irrespective of anything contained in this Act but subject to the provisions of Part A, B, E and this Part (other than section 203) of this Chapter, the income-tax payable in respect of the total income of an assessee, being a co-operative society, resident in India, engaged in the business of manufacture or production of any article or thing, shall at the option of such assessee, be computed at the rates specified in column A of the said Table, if the conditions contained in column B thereof are fulfilled.",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "204-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 9
+            }
+          },
+          "references": [
+            {
+              "reference_id": "ref-204-1-001",
+              "target_id": "203",
+              "target_type": "section",
+              "anchor_text": "section 203",
+              "relationship": "subject_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "204-2",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The option under this section shall be exercised by the assessee in the manner as may be prescribed subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "204-2-a",
+              "indent": 0,
+              "line_start": 14,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it shall be exercised on or before the due date specified under section 263(1) for furnishing the first of the returns of income for any tax year; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-204-2-a-001",
+                  "target_id": "263-1",
+                  "target_type": "subsection",
+                  "anchor_text": "section 263(1)",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "204-2-b",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such option, once exercised, shall apply to subsequent tax years;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "204-2-c",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "once the option has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "204-2-d",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "where the assessee fails to fulfil the conditions contained in sub-section (1) (Table: Sl. No. 1.B) in any tax year,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "204-2-d-i",
+                  "indent": 0,
+                  "line_start": 18,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the option shall become invalid in respect of such tax year and subsequent tax years; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "204-2-d-ii",
+                  "indent": 0,
+                  "line_start": 19,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the other provisions of this Act shall apply, as if the option had not been exercised for that tax year and subsequent tax years.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "204-3",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), the total income of the assessee shall be computed,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "204-3-a",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "without any deduction under—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "204-3-a-i",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Chapter VIII other than the provisions of section 146 27[ or 150]; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "204-3-a-ii",
+                  "indent": 0,
+                  "line_start": 23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "sections specified in section 205(1)(a) to (g);",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "204-3-b",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "without set off of any loss carried forward or depreciation from earlier tax year, if such loss or depreciation is attributable to any of the deductions referred to in clause (a).",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-204-3-b-001",
+                  "target_id": "204-3-a",
+                  "target_type": "clause",
+                  "anchor_text": "clause (a)",
+                  "relationship": "related_to",
+                  "confidence": "high"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-204-3-001",
+              "target_id": "204-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "204-4",
+          "indent": 0,
+          "line_start": 25,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "While computing the income of the assessee, the loss and depreciation, or both, as specified in sub-section (3)(b) shall be deemed to have been given full effect to and no further deduction for such loss or depreciation, or both, shall be allowed for any subsequent year. 27[(5) In case of an assessee, being a co-operative society, which has exercised option under sub-section (2), the requirements contained in sub-section (3) shall be modified to the extent that the deduction under section 149(2)(d)(ii) shall be available to such assessee as does not exceed the amount of dividend distributed by it to its members at least one month before the due date for filing the return of income under section 263(1).]",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-204-4-001",
+              "target_id": "204-3-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (3)(b)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-204-4-002",
+              "target_id": "204-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-204-4-003",
+              "target_id": "204-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-204-4-004",
+              "target_id": "149-2-d-ii",
+              "target_type": "subclause",
+              "anchor_text": "section 149(2)(d)(ii)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-204-4-005",
+              "target_id": "263-1",
+              "target_type": "subsection",
+              "anchor_text": "section 263(1)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "27",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

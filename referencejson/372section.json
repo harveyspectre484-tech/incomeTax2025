@@ -5,16 +5,26 @@
       "type": "section",
       "number": "372",
       "id": "372",
-      "title": "Exclusion of time taken for copy.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "In computing the period of limitation prescribed for an appeal or an application under this Act, the day on which the order complained of was served and, if the assessee was not provided with a copy of the order when the notice of the order was served, the time required to obtain a copy of such order, shall be excluded.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "In computing the period of limitation prescribed for an appeal or an application under this Act, the day on which the order complained of was served and, if the assessee was not provided with a copy of the order when the notice of the order was served, the time required to obtain a copy of such order, shall be excluded.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Exclusion of time taken for copy."
+    }
+  ]
 }

@@ -1,0 +1,254 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "322",
+      "id": "322",
+      "title": "Company in liquidation.",
+      "indent": 0,
+      "line_start": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "322-1",
+          "indent": 0,
+          "line_start": 5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Every person,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "322-1-a",
+              "indent": 0,
+              "line_start": 6,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who is the liquidator of any company which is being wound up, whether under the orders of a court or otherwise; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "322-1-b",
+              "indent": 0,
+              "line_start": 7,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "who has been appointed the receiver of any assets of a company, (herein referred to as the liquidator), shall, within thirty days after he has become such liquidator, give notice of his appointment as such to the Assessing Officer who is entitled to assess the income of the company.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "322-2",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Assessing Officer shall, after making such inquiries or calling for such information as he may deem fit, notify to the liquidator within three months from the date on which he receives notice of the appointment of the liquidator the amount which, in the opinion of the Assessing Officer, would be sufficient to provide for any tax which is then, or is likely thereafter to become, payable by the company.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "322-3",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The liquidator—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "322-3-a",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "shall not, without the leave of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, part with any of the assets of the company or the properties in his hands until he has been notified by the Assessing Officer under sub-section (2); and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-322-3-a-001",
+                  "target_id": "322-2",
+                  "target_type": "subsection",
+                  "anchor_text": "sub-section (2)",
+                  "relationship": "depends_on",
+                  "confidence": "high"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "322-3-b",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "on being so notified, shall set aside an amount, equal to the amount notified and, until he so sets aside such amount, shall not part with any of the assets of the company or the properties in his hands.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "322-4",
+          "indent": 0,
+          "line_start": 13,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "322-4-a",
+              "indent": 0,
+              "line_start": 14,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the payment of the tax payable by the company;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "322-4-b",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "making any payment to secured creditors whose debts are entitled under law to priority of payment over debts due to Government on the date of liquidation; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "322-4-c",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "meeting such costs and expenses of the winding up of the company, as are in the opinion of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, reasonable.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-322-4-001",
+              "target_id": "322-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "322-5",
+          "indent": 0,
+          "line_start": 18,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If the liquidator fails to give the notice as per sub-section (1), or fails to set aside the amount as required by sub-section (3), or parts with any of the assets of the company or the properties in his hands in contravention of the provisions of that sub-section, he shall be personally liable for the payment of the tax which the company would be liable to pay.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-322-5-001",
+              "target_id": "322-1",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (1)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-322-5-002",
+              "target_id": "322-3",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (3)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "322-6",
+          "indent": 0,
+          "line_start": 19,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (5), if the amount of any tax payable by the company is notified under sub-section (2), the personal liability of the liquidator under that sub-section shall be to the extent of such amount.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-322-6-001",
+              "target_id": "322-5",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (5)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-322-6-002",
+              "target_id": "322-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "322-7",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where there are more liquidators than one, the obligations and liabilities attached to the liquidator under this section shall attach to all the liquidators jointly and severally.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "322-8",
+          "indent": 0,
+          "line_start": 21,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of this section shall have effect irrespective of anything to the contrary contained in any other law in force, except the provisions of the Insolvency and Bankruptcy Code, 2016 (31 of 2016).",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

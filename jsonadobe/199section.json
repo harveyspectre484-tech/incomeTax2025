@@ -6,8 +6,8 @@
       "number": "199",
       "id": "199",
       "title": "Tax on income of certain manufacturing domestic companies.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 7,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "199-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in this Act, but subject to the provisions of Parts A, B, E and this Part (other than sections 200 and 201) of this Chapter, the income-tax payable in respect of the total income of a person, being a domestic company, for any tax year, shall, at the option of such person, be computed at the rate of 25% subject to the following conditions:—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "199-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "the company has been set-up and registered on or after the 1st March, 2016;",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "199-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "the company is not engaged in any business other than the business of manufacture or production of any article or thing and research in relation to, or distribution of, such article or thing manufactured or produced by it; and",
@@ -48,33 +48,71 @@
               "type": "clause",
               "number": "c",
               "id": "199-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
-              "text": "the total income of the company has been computed,—",
-              "children": [
+              "text_before_sub_clauses": "the total income of the company has been computed,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "199-1-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "without any deduction under—"
+                  "text_before_items": "without any deduction under—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "199-1-c-i-A",
+                      "indent": 0,
+                      "line_start": 12,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "section 45(2) or 47(1)(b); or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "199-1-c-i-B",
+                      "indent": 0,
+                      "line_start": 13,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "Chapter VIII-C, other than the provisions of section 146; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "C",
+                      "id": "199-1-c-i-C",
+                      "indent": 0,
+                      "line_start": 14,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "sections specified in section 205(1)(a) to (g);",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "199-1-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "without set off of any loss carried forward from any earlier tax year, if such loss is attributable to any of the deductions referred to in sub-clause (i)."
+                  "text": "without set off of any loss carried forward from any earlier tax year, if such loss is attributable to any of the deductions referred to in sub-clause (i).",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -83,42 +121,45 @@
           "type": "subsection",
           "number": "2",
           "id": "199-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 16,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The loss referred to in sub-section (1)(c)(ii) shall be deemed to have been given full effect to and no further deduction for such loss shall be allowed for any subsequent year.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The loss referred to in sub-section (1)(c)(ii) shall be deemed to have been given full effect to and no further deduction for such loss shall be allowed for any subsequent year.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "199-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 17,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of this section shall not apply unless an option is exercised by the person in the manner as may be prescribed on or before the due date specified under section 263(1) for furnishing the first of the returns of income which such person is required to furnish and such option once exercised, shall apply to subsequent tax years.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The provisions of this section shall not apply unless an option is exercised by the person in the manner as may be prescribed on or before the due date specified under section 263(1) for furnishing the first of the returns of income which such person is required to furnish and such option once exercised, shall apply to subsequent tax years.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "199-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Once the option under sub-section (3) has been exercised for any tax year, it cannot be subsequently withdrawn for the same or any other tax year, except where the person exercises option under section 200.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Once the option under sub-section (3) has been exercised for any tax year, it cannot be subsequently withdrawn for the same or any other tax year, except where the person exercises option under section 200.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

@@ -6,8 +6,8 @@
       "number": "376",
       "id": "376",
       "title": "Procedure where an identical question of law is pending before High Courts or Supreme Court.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "376-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in this Act, where the collegium is of the opinion that—",
@@ -26,40 +26,43 @@
               "type": "clause",
               "number": "a",
               "id": "376-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
-              "text": "any question of law arising in the case of an assessee for any tax year (such case being herein referred to as the relevant case) is identical with a question of law arising,—",
-              "children": [
+              "text_before_sub_clauses": "any question of law arising in the case of an assessee for any tax year (such case being herein referred to as the relevant case) is identical with a question of law arising,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "376-1-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 7,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in his case for any other tax year; or"
+                  "text": "in his case for any other tax year; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "376-1-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 8,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in the case of any other assessee for any tax year; and"
+                  "text": "in the case of any other assessee for any tax year; and",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "376-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "such question of law is pending before the jurisdictional High Court in an appeal under section 260A of Income-tax Act, 1961 (43 of 1961) or section 365 of this Act or the Supreme Court in an appeal under section 261 of the Income-tax Act, 1961 or section 367 of this Act or in a reference under section 256 of Income-tax Act, 1961 before the Jurisdictional High Court or in a reference before the Supreme Court under section 261 of Income-tax Act, 1961 or in a Special Leave Petition under article 136 of the Constitution, against the order of the Appellate Tribunal or the jurisdictional High Court, which is in favour of such assessee (such case being herein referred to as the other case), the collegium may, decide and inform the Principal Commissioner or Commissioner not to file any appeal, at this stage, to the Appellate Tribunal under section 362(2) or to the jurisdictional High Court under section 365(2) in the relevant case against the order of the Joint Commissioner (Appeals) or the Commissioner (Appeals) or the Appellate Tribunal, as the case may be.",
@@ -130,13 +133,12 @@
           "type": "subsection",
           "number": "2",
           "id": "376-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Irrespective of anything contained in section 362(3) or section 365(2)(a), the Principal Commissioner or the Commissioner shall, on receipt of a communication from the collegium under sub-section (1), direct the Assessing Officer to make an application to the Appellate Tribunal or the jurisdictional High Court, in such form as may be prescribed, stating that an appeal on the question of law arising in the relevant case may be filed when the decision on such question of law becomes final in the other case.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Irrespective of anything contained in section 362(3) or section 365(2)(a), the Principal Commissioner or the Commissioner shall, on receipt of a communication from the collegium under sub-section (1), direct the Assessing Officer to make an application to the Appellate Tribunal or the jurisdictional High Court, in such form as may be prescribed, stating that an appeal on the question of law arising in the relevant case may be filed when the decision on such question of law becomes final in the other case.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-376-2-001",
@@ -160,13 +162,12 @@
           "type": "subsection",
           "number": "3",
           "id": "376-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The application referred to in sub-section (2) shall be filed within one hundred and twenty days from the date of receipt of the order of the Joint Commissioner (Appeals) or the Commissioner (Appeals) or of the Appellate Tribunal.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The application referred to in sub-section (2) shall be filed within one hundred and twenty days from the date of receipt of the order of the Joint Commissioner (Appeals) or the Commissioner (Appeals) or of the Appellate Tribunal.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-376-3-001",
@@ -182,8 +183,8 @@
           "type": "subsection",
           "number": "4",
           "id": "376-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Principal Commissioner or Commissioner shall direct the Assessing Officer—",
@@ -192,8 +193,8 @@
               "type": "clause",
               "number": "a",
               "id": "376-4-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "to make an application under sub-section (2), if an acceptance is received from the assessee to the effect that the question of law in the other case is identical to that arising in the relevant case; and",
@@ -213,8 +214,8 @@
               "type": "clause",
               "number": "b",
               "id": "376-4-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "to proceed as per section 362(2) or section 365(2)(b), if no such acceptance is received irrespective of anything in section 362(3) or section 365(2) (a).",
@@ -245,13 +246,12 @@
           "type": "subsection",
           "number": "5",
           "id": "376-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 16,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If the order of the Joint Commissioner (Appeals) or the Commissioner (Appeals) or the order of the Appellate Tribunal referred to in sub-section (1), is not in conformity with the final decision on the question of law in the other case, as and when such order is received, the Principal Commissioner or Commissioner may direct the Assessing Officer to appeal to the Appellate Tribunal or the jurisdictional High Court, against such order, and save as otherwise provided in this section, all other provisions of Parts A.2 and A.3 of this Chapter shall apply accordingly.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "If the order of the Joint Commissioner (Appeals) or the Commissioner (Appeals) or the order of the Appellate Tribunal referred to in sub-section (1), is not in conformity with the final decision on the question of law in the other case, as and when such order is received, the Principal Commissioner or Commissioner may direct the Assessing Officer to appeal to the Appellate Tribunal or the jurisdictional High Court, against such order, and save as otherwise provided in this section, all other provisions of Parts A.2 and A.3 of this Chapter shall apply accordingly.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-376-5-001",
@@ -267,13 +267,12 @@
           "type": "subsection",
           "number": "6",
           "id": "376-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 17,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Every appeal under sub-section (5) shall be filed within a period of sixty days to the Appellate Tribunal or one hundred and twenty days to the High Court, from the date on which the order of the jurisdictional High Court or the Supreme Court in the other case, is communicated to the Principal Commissioner or the Commissioner (having jurisdiction over the relevant case), as per the procedure specified by the Board in this behalf.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Every appeal under sub-section (5) shall be filed within a period of sixty days to the Appellate Tribunal or one hundred and twenty days to the High Court, from the date on which the order of the jurisdictional High Court or the Supreme Court in the other case, is communicated to the Principal Commissioner or the Commissioner (having jurisdiction over the relevant case), as per the procedure specified by the Board in this behalf.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-376-6-001",
@@ -289,18 +288,23 @@
           "type": "subsection",
           "number": "7",
           "id": "376-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, the expression \"collegium\" means a collegium comprising two or more Chief Commissioners or Principal Commissioners or Commissioners, as specified by the Board.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, the expression \"collegium\" means a collegium comprising two or more Chief Commissioners or Principal Commissioners or Commissioners, as specified by the Board.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

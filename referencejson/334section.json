@@ -5,21 +5,21 @@
       "type": "section",
       "number": "2",
       "id": "2",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Income of registered non-profit organisation",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Income of registered non-profit organisation",
+      "children": []
     },
     {
       "type": "section",
       "number": "334",
       "id": "334",
       "title": "Tax on income of registered non-profit organisation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 7,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -28,8 +28,8 @@
           "type": "subsection",
           "number": "1",
           "id": "334-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
@@ -38,8 +38,8 @@
               "type": "clause",
               "number": "a",
               "id": "334-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "at the rate of 30% on specified income for such tax year; and",
@@ -49,8 +49,8 @@
               "type": "clause",
               "number": "b",
               "id": "334-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
@@ -63,13 +63,12 @@
           "type": "subsection",
           "number": "2",
           "id": "334-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-334-2-001",
@@ -86,5 +85,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

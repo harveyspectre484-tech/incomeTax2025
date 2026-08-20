@@ -5,16 +5,73 @@
       "type": "section",
       "number": "81",
       "id": "81",
-      "title": "Advance money received.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "81-a",
+          "indent": 0,
+          "line_start": 5,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "81-b",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-81-b-001",
+              "target_id": "92-2-h",
+              "target_type": "clause",
+              "anchor_text": "section 92(2)(h)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-81-b-002",
+              "target_id": "56-2-ix",
+              "target_type": "clause",
+              "anchor_text": "section 56(2)(ix)",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Advance money received."
+    }
+  ]
 }

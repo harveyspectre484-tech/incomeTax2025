@@ -6,8 +6,8 @@
       "number": "494",
       "id": "494",
       "title": "Disclosure of particulars by public servants.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,25 +16,23 @@
           "type": "subsection",
           "number": "1",
           "id": "494-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be punishable with 31[simple imprisonment up to one month, or with fine, or with both].",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be punishable with 31[simple imprisonment up to one month, or with fine, or with both].",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "494-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

@@ -1,0 +1,113 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "408",
+      "id": "408",
+      "title": "Instalments of advance tax and due dates.",
+      "indent": 0,
+      "line_start": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "408-1",
+          "indent": 0,
+          "line_start": 5,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "All the assessees who are liable to pay advance tax, other than the assessee referred to in sub-section (2), shall pay the same on the current income calculated in the manner laid down in section 405 in four instalments during each financial year and the due date of each instalment and the amount of such instalment shall be as specified in the Table below:",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "408-1-table-1",
+            "title": "TABLE",
+            "format": "borderless",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 8,
+            "line_end": 13,
+            "columns": [
+              "Sl. No.",
+              "Nature of sum",
+              "Amount of deduction"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "On or before the 15th June. Not less than 15% of such advance tax.",
+                "column_C": "",
+                "raw_text": "On or before the 15th June. Not less than 15% of such advance tax."
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "On or before the 15th September. Not less than 45% of such advance tax, as reduced by the amount, if any, paid in the earlier instalment.",
+                "column_C": "",
+                "raw_text": "On or before the 15th September. Not less than 45% of such advance tax, as reduced by the amount, if any, paid in the earlier instalment."
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "On or before the 15th December. Not less than 75% of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments.",
+                "column_C": "",
+                "raw_text": "On or before the 15th December. Not less than 75% of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments."
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "On or before the 15th March. The whole amount of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments.",
+                "column_C": "",
+                "raw_text": "On or before the 15th March. The whole amount of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments."
+              }
+            ],
+            "linearized_text": "Subsection (1): All the assessees who are liable to pay advance tax, other than the assessee referred to in sub-section (2), shall pay the same on the current income calculated in the manner laid down in section 405 in four instalments during each financial year and the due date of each instalment and the amount of such instalment shall be as specified in the Table below: Table items: Item 1 - Nature of sum: On or before the 15th June. Not less than 15% of such advance tax.. Item 2 - Nature of sum: On or before the 15th September. Not less than 45% of such advance tax, as reduced by the amount, if any, paid in the earlier instalment.. Item 3 - Nature of sum: On or before the 15th December. Not less than 75% of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments.. Item 4 - Nature of sum: On or before the 15th March. The whole amount of such advance tax, as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "408-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 8
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "408-2",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "An assessee, who declares profits and gains as per the provisions of section 58(2) (Table: Sl. No. 1 or 3), shall pay the whole amount of advance tax on the current income, calculated in the manner laid down in section 405 during each financial year, on or before the 15th March.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "408-3",
+          "indent": 0,
+          "line_start": 16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Any amount paid by way of advance tax on or before the 31st March, shall be treated as advance tax paid during the financial year ending on that day for all the purposes of this Act.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

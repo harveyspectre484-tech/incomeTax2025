@@ -6,15 +6,68 @@
       "number": "141",
       "id": "141",
       "title": "Deduction in respect of profits and gains from certain industrial undertakings.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "In respect of any tax year, where—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "In respect of any tax year, where—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "141-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the gross total income of an assessee, includes any profits and gains derived from any business referred to in section 80-IB of the Income- tax Act, 1961 (43 of 1961); and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "141-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "such assessee is eligible to claim a deduction from the profits and gains derived from such business for such tax year under the provisions of the said section, as if the said Act had not been repealed, there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "141-b-i",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount of deduction is calculated as per the provisions of section 80-IB of the Income-tax Act, 1961 (43 of 1961); and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "141-b-ii",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the deduction under this Act shall be allowed only for such tax years, as would have been allowed under section 80-IB of the Income-tax Act, 1961 (43 of 1961), as if the said Act had not been repealed.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

@@ -6,8 +6,8 @@
       "number": "106",
       "id": "106",
       "title": "Amount borrowed or repaid through negotiable instrument, hundi, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,25 +16,23 @@
           "type": "subsection",
           "number": "1",
           "id": "106-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "106-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

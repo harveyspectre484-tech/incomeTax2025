@@ -219,7 +219,7 @@
               "y_start": 415.0,
               "page_start": 1,
               "page_end": 1,
-              "text": "for the purposes of clause (a),—",
+              "text": "for the purposes of clause (a) of sub-section (5),—",
               "children": [
                 {
                   "type": "sub-clause",
@@ -249,7 +249,17 @@
                   "y_start": 465.0,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c)."
+                  "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c).",
+                  "references": [
+                    {
+                      "reference_id": "ref-9-5-b-iii-001",
+                      "target_id": "173(c)",
+                      "target_type": "sub-clause",
+                      "anchor_text": "173(c)",
+                      "relationship": "definition_or_scope",
+                      "confidence": "high"
+                    }
+                  ]
                 }
               ],
               "references": [

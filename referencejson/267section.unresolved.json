@@ -233,6 +233,16 @@
     "source_id": "267-11",
     "source_type": "subsection",
     "field": "text_before_clauses",
+    "anchor_text": "section 206(1)(m) to (p)",
+    "guessed_target_id": "206-1-m",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "267-11",
+    "source_type": "subsection",
+    "field": "text_before_clauses",
     "anchor_text": "section 263(6)",
     "guessed_target_id": "263-6",
     "guessed_target_type": "subsection",

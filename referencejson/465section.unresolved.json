@@ -73,9 +73,19 @@
     "source_id": "465-2-e",
     "source_type": "clause",
     "field": "text",
-    "anchor_text": "section 263(1)(a)(iii)",
+    "anchor_text": "section 263(1)(a)(iii) or (iv)",
     "guessed_target_id": "263-1-a-iii",
     "guessed_target_type": "subclause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "465-2-e",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 263(1) and (2)",
+    "guessed_target_id": "263-1",
+    "guessed_target_type": "subsection",
     "relationship": "depends_on",
     "reason": "target_id not found in local unit index"
   },

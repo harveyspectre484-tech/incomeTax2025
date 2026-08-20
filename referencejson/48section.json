@@ -5,9 +5,9 @@
       "type": "section",
       "number": "48",
       "id": "48",
-      "title": "Tea development account, coffee development account and rubber development account.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,13 +16,12 @@
           "type": "subsection",
           "number": "1",
           "id": "48-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where an assessee is carrying on business of growing and manufacturing tea or coffee or rubber in India, such assessee shall be allowed a deduction on the basis of deposits into the special account or deposit account and computed as per the provisions of the Schedule IX.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where an assessee is carrying on business of growing and manufacturing tea or coffee or rubber in India, such assessee shall be allowed a deduction on the basis of deposits into the special account or deposit account and computed as per the provisions of the Schedule IX.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-48-1-001",
@@ -38,13 +37,12 @@
           "type": "subsection",
           "number": "2",
           "id": "48-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Any amount withdrawn or utilised or released from the aforesaid accounts at the time of closure or otherwise shall be charged to tax as per the provisions of the Schedule IX.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Any amount withdrawn or utilised or released from the aforesaid accounts at the time of closure or otherwise shall be charged to tax as per the provisions of the Schedule IX.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-48-2-001",
@@ -60,13 +58,12 @@
           "type": "subsection",
           "number": "3",
           "id": "48-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where any asset acquired as per the special scheme or the deposit scheme, as referred to in the Schedule IX, is sold or otherwise transferred in any tax year, it shall be charged to tax in accordance with the provisions of the said Schedule.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where any asset acquired as per the special scheme or the deposit scheme, as referred to in the Schedule IX, is sold or otherwise transferred in any tax year, it shall be charged to tax in accordance with the provisions of the said Schedule.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-48-3-001",
@@ -83,5 +80,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Tea development account, coffee development account and rubber development account."
+    }
+  ]
 }

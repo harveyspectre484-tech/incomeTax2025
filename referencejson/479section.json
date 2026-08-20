@@ -5,9 +5,9 @@
       "type": "section",
       "number": "479",
       "id": "479",
-      "title": "Failure to furnish returns of income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "479-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "If a person wilfully fails to furnish in due time the return of income, which is required to be furnished under section 263(1), or by notice given under section 268(1) or 280, he shall be punishable,—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "479-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "footnote_refs": [
@@ -40,8 +40,8 @@
               "type": "clause",
               "number": "b",
               "id": "479-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the failure had not been discovered, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
@@ -51,8 +51,8 @@
               "type": "clause",
               "number": "c",
               "id": "479-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "with fine, in any other case.]",
@@ -83,8 +83,8 @@
           "type": "subsection",
           "number": "2",
           "id": "479-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "A person shall not be proceeded against under sub-section (1) for failure to furnish in due time the return of income under 263(1) for any tax year, if—",
@@ -93,8 +93,8 @@
               "type": "clause",
               "number": "a",
               "id": "479-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "a return is furnished by him under section 263(4) or 263(6); or",
@@ -114,8 +114,8 @@
               "type": "clause",
               "number": "b",
               "id": "479-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "the tax payable by such person, not being a company, on the total income determined on regular assessment, as reduced by the advance tax or self-assessment tax, if any, paid before the expiry of period specified under section 263(4), and any tax deducted or collected at source, does not exceed Rs. 10000.",
@@ -135,8 +135,8 @@
               "type": "clause",
               "number": "b",
               "id": "479-2-b",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "in any other case, with imprisonment for a term which shall not be less than three months but which may extend to two years and with fine.\"",
@@ -165,8 +165,22 @@
       "number": "25",
       "text": "Clauses (a), (b) and (c) sub. for clauses (a) and (b) by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, clauses (a) and (b) read as under : \"(a) in a case, where the amount of tax, which would have been evaded if the failure had not been discovered, exceeds twenty-five lakh rupees, with rigorous imprisonment for a term which shall not be less than six months but which may extend to seven years, and with fine;",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "479-1-a"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Failure to furnish returns of income."
+    }
+  ],
+  "footnote_reference_map": {
+    "25": [
+      "479-1-a"
+    ]
+  }
 }

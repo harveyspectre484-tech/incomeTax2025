@@ -81,7 +81,7 @@ def extract_references_from_text(text, source_section=""):
 
     # 6. Chapters & Parts
     chapter_pattern = re.compile(
-        r'\bChapter\s+([IVXLCDM\dA-Z-]+)',
+        r'\bChapter\s+([IVXLCDM\dA-Z-]+)\b',
         re.IGNORECASE
     )
     chapters = [m.group(0) for m in chapter_pattern.finditer(clean_txt)]
@@ -94,7 +94,7 @@ def extract_references_from_text(text, source_section=""):
 
     # 7. Schedules
     schedule_pattern = re.compile(
-        r'\bSchedule\s+([IVXLCDM\d+]+(?:\s*\(\s*Table:\s*Sl\.\s*Nos?\.\s*[\w\d.,\s]+\s*\))?)',
+        r'\bSchedules?\s+([IVXLCDM\d+]+\b(?:\s*\(\s*Table:\s*Sl\.\s*Nos?\.\s*[\w\d.,\s]+\s*\))?)',
         re.IGNORECASE
     )
     schedules = [m.group(0).strip() for m in schedule_pattern.finditer(clean_txt)]

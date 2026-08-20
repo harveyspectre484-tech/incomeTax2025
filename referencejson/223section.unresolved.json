@@ -2,7 +2,7 @@
   {
     "source_id": "223-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sections 196",
     "guessed_target_id": "196",
     "guessed_target_type": "section",
@@ -12,7 +12,7 @@
   {
     "source_id": "223-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule V",
     "guessed_target_id": "schedule-V",
     "guessed_target_type": "schedule",
@@ -22,7 +22,7 @@
   {
     "source_id": "223-4",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 92(2)(k)",
     "guessed_target_id": "92-2-k",
     "guessed_target_type": "clause",

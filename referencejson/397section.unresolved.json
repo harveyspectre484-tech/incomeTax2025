@@ -68,15 +68,5 @@
     "guessed_target_type": "section",
     "relationship": "depends_on",
     "reason": "target_id not found in local unit index"
-  },
-  {
-    "source_id": "397-3-i",
-    "source_type": "clause",
-    "field": "text",
-    "anchor_text": "section 393(1)",
-    "guessed_target_id": "393-1",
-    "guessed_target_type": "subsection",
-    "relationship": "depends_on",
-    "reason": "target_id not found in local unit index"
   }
 ]

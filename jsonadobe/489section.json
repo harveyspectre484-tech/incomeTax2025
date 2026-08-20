@@ -6,8 +6,8 @@
       "number": "489",
       "id": "489",
       "title": "Presumption as to assets, books of account, etc., in certain cases.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,25 +16,23 @@
           "type": "subsection",
           "number": "1",
           "id": "489-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where during the course of any search made under section 247, any money, bullion, jewellery, virtual digit asset or other valuable article or thing (hereinafter referred to as the assets) or any books of account or other documents or any information in electronic form as defined in section 261(g) or on a computer system as defined in section 261(e) or any computer system containing the said information, has or have been found in the possession or control of any person and such assets or books of account or other documents or such information are tendered by the prosecution in evidence against such person, or against such person and the person referred to in section 484, for an offence under this Act, the provisions of section 247(7) shall, so far as may be, apply in relation to such assets or books of account or other documents or such information.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where during the course of any search made under section 247, any money, bullion, jewellery, virtual digit asset or other valuable article or thing (hereinafter referred to as the assets) or any books of account or other documents or any information in electronic form as defined in section 261(g) or on a computer system as defined in section 261(e) or any computer system containing the said information, has or have been found in the possession or control of any person and such assets or books of account or other documents or such information are tendered by the prosecution in evidence against such person, or against such person and the person referred to in section 484, for an offence under this Act, the provisions of section 247(7) shall, so far as may be, apply in relation to such assets or books of account or other documents or such information.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "489-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where any assets or books of account or other documents any information in electronic form or on a computer system or any computer system containing the said information taken into custody from the possession or control of any person, by the officer or authority referred to in section 248(1)(a) or (b) or (c) are delivered to the requisitioning officer under sub-section (2) of that section and such assets, books of account or other documents or such information are tendered by the prosecution in evidence against such person, or against such person and the person referred to in section 484, for an offence under this Act, the provisions of section 247(7) shall, so far as may be, apply in relation to such assets or books of account or other documents or such information.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where any assets or books of account or other documents any information in electronic form or on a computer system or any computer system containing the said information taken into custody from the possession or control of any person, by the officer or authority referred to in section 248(1)(a) or (b) or (c) are delivered to the requisitioning officer under sub-section (2) of that section and such assets, books of account or other documents or such information are tendered by the prosecution in evidence against such person, or against such person and the person referred to in section 484, for an offence under this Act, the provisions of section 247(7) shall, so far as may be, apply in relation to such assets or books of account or other documents or such information.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

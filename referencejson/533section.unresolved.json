@@ -110,16 +110,6 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "533-2-w",
-    "source_type": "clause",
-    "field": "text",
-    "anchor_text": "section 358(3)(b)",
-    "guessed_target_id": "358-3-b",
-    "guessed_target_type": "clause",
-    "relationship": "related_to",
-    "reason": "target_id not found in local unit index"
-  },
-  {
     "source_id": "533-2-y",
     "source_type": "clause",
     "field": "text",

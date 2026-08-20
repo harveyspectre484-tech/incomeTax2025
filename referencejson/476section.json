@@ -5,19 +5,102 @@
       "type": "section",
       "number": "476",
       "id": "476",
-      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "22[(1) If a person fails to—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "476-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "pay the tax deducted at source by him to the credit of the Central Government, as required by or under the provisions of Chapter XIX-B; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "476-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "pay tax or ensure payment of tax to the credit of the Central Government in respect of––",
+          "items": [
+            {
+              "type": "item",
+              "number": "A",
+              "id": "476-b-A",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any income by way of winnings from online games as referred in section 393(3) [Table: Sl. No. 2], excluding such winnings which are wholly in kind, as referred to in Note 2 to the said Table; or",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "B",
+              "id": "476-b-B",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum by way of consideration for transfer of a virtual digital asset as referred in section 393(1) [Table: Sl. No. 8(vi)], excluding such consideration which is wholly in kind, as referred to in Note 6 to the said Table, he shall be punishable––",
+              "children": []
+            }
+          ],
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "476-b-i",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of such tax exceeds fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "476-b-ii",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of such tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "476-b-iii",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with fine, in any other case.]",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
       "subsections": [
         {
           "type": "subsection",
           "number": "2",
           "id": "476-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 14,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The provisions of this section shall not apply if the payment referred to in sub-section (1)(a) has been made to the credit of the Central Government on or before the time prescribed for filing the statement under section 397(3)(b) in respect of such payment. \"(1) If a person fails to—",
@@ -26,8 +109,8 @@
               "type": "clause",
               "number": "a",
               "id": "476-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 17,
               "page_start": 1,
               "page_end": 1,
               "text": "pay the tax deducted at source by him to the credit of the Central Government, as required by or under the provisions of Chapter XIX-B; or",
@@ -37,33 +120,36 @@
               "type": "clause",
               "number": "b",
               "id": "476-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 18,
               "page_start": 1,
               "page_end": 1,
-              "text": "pay tax or ensure payment of tax to the credit of the Central Government, as required under—",
-              "children": [
+              "text_before_sub_clauses": "pay tax or ensure payment of tax to the credit of the Central Government, as required under—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "476-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 19,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "Note 2 below the Table in section 393(3); or"
+                  "text": "Note 2 below the Table in section 393(3); or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "476-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 20,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "Note 6 to section 393(1) (Table: Sl. No. 8), he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years, and with fine.\""
+                  "text": "Note 6 to section 393(1) (Table: Sl. No. 8), he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years, and with fine.\"",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": "",
@@ -99,5 +185,11 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Failure to pay tax to credit of Central Government under Chapter XIX-B."
+    }
+  ]
 }

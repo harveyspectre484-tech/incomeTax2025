@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "source_id": "396-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 392(2)(a) and tax",
+    "guessed_target_id": "392-2-a",
+    "guessed_target_type": "clause",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "396-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 393(3)",
+    "guessed_target_id": "393-3",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

@@ -6,8 +6,8 @@
       "number": "99",
       "id": "99",
       "title": "Income of individual to include income of spouse, minor child, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "99-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The total income of any individual, for a tax year, shall include the income arising directly or indirectly,—",
@@ -26,40 +26,43 @@
               "type": "clause",
               "number": "a",
               "id": "99-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
-              "text": "to the spouse of such individual,—",
-              "children": [
+              "text_before_sub_clauses": "to the spouse of such individual,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-1-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 8,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "by way of salary, commission, fees or any other form of remuneration, whether in cash or kind, from a concern in which such individual has a substantial interest but shall not include income solely attributable to the application of technical or professional knowledge, experience and technical or professional qualification of the spouse;"
+                  "text": "by way of salary, commission, fees or any other form of remuneration, whether in cash or kind, from a concern in which such individual has a substantial interest but shall not include income solely attributable to the application of technical or professional knowledge, experience and technical or professional qualification of the spouse;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-1-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "from assets transferred directly or indirectly to him or her by such individual otherwise than for adequate consideration or in connection with an agreement to live apart, subject to the provisions of section 25(a);"
+                  "text": "from assets transferred directly or indirectly to him or her by such individual otherwise than for adequate consideration or in connection with an agreement to live apart, subject to the provisions of section 25(a);",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "99-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "to the son's wife of such individual from assets transferred directly or indirectly on or after the 1st June, 1973, to her by such individual, otherwise than for adequate consideration;",
@@ -69,50 +72,54 @@
               "type": "clause",
               "number": "c",
               "id": "99-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text": "to the minor child of the such individual, but shall not include income accruing or arising—",
-              "children": [
+              "text_before_sub_clauses": "to the minor child of the such individual, but shall not include income accruing or arising—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-1-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "on account of work done by such child; or"
+                  "text": "on account of work done by such child; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-1-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 13,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "from activities where his skill, talent, specialised knowledge or experience is applied; or"
+                  "text": "from activities where his skill, talent, specialised knowledge or experience is applied; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "99-1-c-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 14,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "where such minor child is suffering from disability of the nature specified in section 154;"
+                  "text": "where such minor child is suffering from disability of the nature specified in section 154;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "d",
               "id": "99-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "to any person or association of persons from assets transferred directly or indirectly, otherwise than for adequate consideration to the person or association of persons by such individual, to the extent to which the income from such assets is for the immediate or deferred benefit of his or her spouse or his son's wife, as the case may be, other than the assets transferred before 1st June 1973, to the extent to which the income from such assets is for the immediate or deferred benefit of his son's wife.",
@@ -125,13 +132,12 @@
           "type": "subsection",
           "number": "2",
           "id": "99-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 16,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If the asset transferred under 11[sub-section (1)(a)(ii) or (b)] is invested by the spouse or son's wife, in any business or in the nature of capital contributed as a partner in a firm, or, as the case may be, for being admitted to the benefits of partnership in a firm, then, the income to be included in the hands of the individual for the tax year shall be as follows:— where ,— A = Income to be included in the hands of individual for the tax year; B = Income and interest or both, arising to the spouse or son's wife from the business or the firm, as applicable during the tax year; C = Value of such assets invested, or contributed as capital by the spouse or son's wife as on the first day of the tax year; D = Total investment or total capital contribution, as the case may be, by the spouse or son's wife as on the first day of the tax year.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "If the asset transferred under 11[sub-section (1)(a)(ii) or (b)] is invested by the spouse or son's wife, in any business or in the nature of capital contributed as a partner in a firm, or, as the case may be, for being admitted to the benefits of partnership in a firm, then, the income to be included in the hands of the individual for the tax year shall be as follows:— where ,— A = Income to be included in the hands of individual for the tax year; B = Income and interest or both, arising to the spouse or son's wife from the business or the firm, as applicable during the tax year; C = Value of such assets invested, or contributed as capital by the spouse or son's wife as on the first day of the tax year; D = Total investment or total capital contribution, as the case may be, by the spouse or son's wife as on the first day of the tax year.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-99-2-001",
@@ -147,8 +153,8 @@
           "type": "subsection",
           "number": "3",
           "id": "99-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 22,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Where a property owned by an individual is converted into property belonging to the Hindu undivided family of which he is a member, through—",
@@ -157,8 +163,8 @@
               "type": "clause",
               "number": "a",
               "id": "99-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 23,
               "page_start": 1,
               "page_end": 1,
               "text": "the act of impressing such separate property with the character of pro- perty belonging to the family; or",
@@ -168,8 +174,8 @@
               "type": "clause",
               "number": "b",
               "id": "99-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 24,
               "page_start": 1,
               "page_end": 1,
               "text": "throwing it into the common stock of the family; or",
@@ -179,33 +185,36 @@
               "type": "clause",
               "number": "c",
               "id": "99-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 25,
               "page_start": 1,
               "page_end": 1,
-              "text": "transfer, directly or indirectly to the family, without adequate consideration, then, irrespective of any other provision of this Act or any other law in force for computing the total income of such individual,—",
-              "children": [
+              "text_before_sub_clauses": "transfer, directly or indirectly to the family, without adequate consideration, then, irrespective of any other provision of this Act or any other law in force for computing the total income of such individual,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-3-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 27,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the individual shall be deemed to have transferred such property, through the family, to the members of such family for being held jointly, and the income derived from such property or part thereof, shall be deemed to be income of the individual;"
+                  "text": "the individual shall be deemed to have transferred such property, through the family, to the members of such family for being held jointly, and the income derived from such property or part thereof, shall be deemed to be income of the individual;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-3-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 28,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "where the property so converted has been the subject-matter of partition (whether partial or total) amongst the member of the family, the income derived from such property as is received by the spouse of the individual on partition, shall be deemed to arise to the spouse from assets transferred indirectly to the spouse and the provisions of sub-section (1)(a) shall apply, and the income referred to in clauses (i) and (ii) shall, on being included in the total income of the individual, be excluded from the total income of the family or the spouse."
+                  "text": "where the property so converted has been the subject-matter of partition (whether partial or total) amongst the member of the family, the income derived from such property as is received by the spouse of the individual on partition, shall be deemed to arise to the spouse from assets transferred indirectly to the spouse and the provisions of sub-section (1)(a) shall apply, and the income referred to in clauses (i) and (ii) shall, on being included in the total income of the individual, be excluded from the total income of the family or the spouse.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -214,13 +223,12 @@
           "type": "subsection",
           "number": "4",
           "id": "99-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 30,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of sub-section (3) shall not apply where the property of the individual has been converted into property belonging to the family on or before the 31st December, 1969.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The provisions of sub-section (3) shall not apply where the property of the individual has been converted into property belonging to the family on or before the 31st December, 1969.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-99-4-001",
@@ -236,8 +244,8 @@
           "type": "subsection",
           "number": "5",
           "id": "99-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 31,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section,—",
@@ -246,115 +254,139 @@
               "type": "clause",
               "number": "a",
               "id": "99-5-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 32,
               "page_start": 1,
               "page_end": 1,
-              "text": "for sub-section (1)(a)(i),—",
-              "children": [
+              "text_before_sub_clauses": "for sub-section (1)(a)(i),—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-5-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 33,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the income referred to in that clause shall be included in the hands of either of the spouse whose total income before such inclusion is greater; and"
+                  "text": "the income referred to in that clause shall be included in the hands of either of the spouse whose total income before such inclusion is greater; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 34,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such income, once included in the total income of either spouse, for a tax year, shall not be included in the income of the other spouse for any succeeding tax year, unless the Assessing Officer is so satisfied, after giving the other spouse an opportunity of being heard;"
+                  "text": "such income, once included in the total income of either spouse, for a tax year, shall not be included in the income of the other spouse for any succeeding tax year, unless the Assessing Officer is so satisfied, after giving the other spouse an opportunity of being heard;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "99-5-a-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 35,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "an individual shall be deemed to have a substantial interest in a concern,—"
+                  "text_before_items": "an individual shall be deemed to have a substantial interest in a concern,—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "99-5-a-iii-A",
+                      "indent": 0,
+                      "line_start": 36,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "in case where the concern is a company, if its shares (not being shares entitled to a fixed rate of dividend whether with or without a further right to participate in profits) carrying not less than 20% of the voting power are, at any time during the tax year, owned beneficially by the individual or jointly with one or more of his relatives;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "99-5-a-iii-B",
+                      "indent": 0,
+                      "line_start": 37,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "in any other case, if such person is entitled, or such person and one or more of his relatives are jointly entitled, to at least 20% of the profits of such concern at any time during the tax year;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "b",
+                      "id": "99-5-a-iii-b",
+                      "indent": 0,
+                      "line_start": 38,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "for sub-section (1)(c), income of minor child shall be included—",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-5-a-i",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 39,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in the income of that parent whose total income before such inclusion is greater, in case where the marriage of his parents subsists; or"
+                  "text": "in the income of that parent whose total income before such inclusion is greater, in case where the marriage of his parents subsists; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 40,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in the income of the parent who maintains such child during the tax year, in case where marriage of his parents does not subsist, and such income, once included in the total income of either of the parent, for a tax year, shall not be included in the income of the other parent for any succeeding tax year, unless the Assessing Officer is so satisfied, after giving the other parent an opportunity of being heard;"
+                  "text": "in the income of the parent who maintains such child during the tax year, in case where marriage of his parents does not subsist, and such income, once included in the total income of either of the parent, for a tax year, shall not be included in the income of the other parent for any succeeding tax year, unless the Assessing Officer is so satisfied, after giving the other parent an opportunity of being heard;",
+                  "children": []
                 }
               ],
-              "references": [
-                {
-                  "reference_id": "ref-99-5-a-001",
-                  "target_id": "99-1-a",
-                  "target_type": "clause",
-                  "anchor_text": "sub-section (1)(a)",
-                  "relationship": "related_to",
-                  "confidence": "high"
-                }
-              ]
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "c",
               "id": "99-5-c",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 41,
               "page_start": 1,
               "page_end": 1,
-              "text": "for sub-section (3), \"property\" includes—",
-              "children": [
+              "text_before_sub_clauses": "for sub-section (3), \"property\" includes—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "99-5-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 42,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "interest in property; or"
+                  "text": "interest in property; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "99-5-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 43,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "movable or immovable property; or"
+                  "text": "movable or immovable property; or",
+                  "children": []
                 }
               ],
-              "references": [
-                {
-                  "reference_id": "ref-99-5-c-001",
-                  "target_id": "99-3",
-                  "target_type": "subsection",
-                  "anchor_text": "sub-section (3)",
-                  "relationship": "related_to",
-                  "confidence": "high"
-                }
-              ]
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -367,13 +399,47 @@
       "number": "100",
       "id": "100",
       "title": "Liability of person in respect of income included in income of another person.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 46,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text_before_clauses": "Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "100-a",
+          "indent": 0,
+          "line_start": 47,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "100-b",
+          "indent": 0,
+          "line_start": 48,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "100-c",
+          "indent": 0,
+          "line_start": 49,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the provisions of Chapter XIX-D shall apply accordingly.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": "",
       "references": [
         {
           "reference_id": "ref-100-001",

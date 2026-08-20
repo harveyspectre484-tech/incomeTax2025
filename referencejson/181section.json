@@ -6,8 +6,8 @@
       "number": "181",
       "id": "181",
       "title": "Consequences of impermissible avoidance arrangement.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "181-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If an arrangement is declared to be an impermissible avoidance arrangement, then, the consequences, in relation to tax, of the arrangement, including denial of tax benefit or a benefit under a tax treaty, shall be determined, in the manner as deemed appropriate in the circumstances of the case.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "If an arrangement is declared to be an impermissible avoidance arrangement, then, the consequences, in relation to tax, of the arrangement, including denial of tax benefit or a benefit under a tax treaty, shall be determined, in the manner as deemed appropriate in the circumstances of the case.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "181-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The consequences of an arrangement declared to be an impermissible avoidance arrangement as referred to in sub-section (1) shall include but shall not be limited to the following:—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "181-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "disregarding, combining or recharacterising any step in, or a part or whole of, the impermissible avoidance arrangement;",
@@ -49,8 +48,8 @@
               "type": "clause",
               "number": "b",
               "id": "181-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "treating the impermissible avoidance arrangement as if it had not been entered into or carried out;",
@@ -60,8 +59,8 @@
               "type": "clause",
               "number": "c",
               "id": "181-2-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "disregarding any accommodating party or treating any accommodating party and any other party as one and the same person;",
@@ -71,8 +70,8 @@
               "type": "clause",
               "number": "d",
               "id": "181-2-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "deeming persons who are connected persons in relation to each other to be one and the same person for the purposes of determining tax treatment of any amount;",
@@ -82,65 +81,71 @@
               "type": "clause",
               "number": "e",
               "id": "181-2-e",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text": "reallocating amongst the parties to the arrangement—",
-              "children": [
+              "text_before_sub_clauses": "reallocating amongst the parties to the arrangement—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "181-2-e-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any accrual, or receipt, of a capital nature or revenue nature; or"
+                  "text": "any accrual, or receipt, of a capital nature or revenue nature; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "181-2-e-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 13,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any expenditure, deduction, relief or rebate;"
+                  "text": "any expenditure, deduction, relief or rebate;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "f",
               "id": "181-2-f",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
-              "text": "treating—",
-              "children": [
+              "text_before_sub_clauses": "treating—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "181-2-f-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the place of residence of any party to the arrangement; or"
+                  "text": "the place of residence of any party to the arrangement; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "181-2-f-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 16,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the situs of an asset or of a transaction, at a place other than the place of residence, location of the asset or location of the transaction as provided under the arrangement; or (g) considering or looking through any arrangement by disregarding any corporate structure."
+                  "text": "the situs of an asset or of a transaction, at a place other than the place of residence, location of the asset or location of the transaction as provided under the arrangement; or (g) considering or looking through any arrangement by disregarding any corporate structure.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": "",
@@ -159,8 +164,8 @@
           "type": "subsection",
           "number": "3",
           "id": "181-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In this section,—",
@@ -169,8 +174,8 @@
               "type": "clause",
               "number": "a",
               "id": "181-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 19,
               "page_start": 1,
               "page_end": 1,
               "text": "any equity may be treated as debt or vice versa;",
@@ -180,8 +185,8 @@
               "type": "clause",
               "number": "b",
               "id": "181-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 20,
               "page_start": 1,
               "page_end": 1,
               "text": "any accrual, or receipt, of a capital nature may be treated as of revenue nature or vice versa; or",
@@ -191,8 +196,8 @@
               "type": "clause",
               "number": "c",
               "id": "181-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 21,
               "page_start": 1,
               "page_end": 1,
               "text": "any expenditure, deduction, relief or rebate may be recharacterised.",
@@ -206,5 +211,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

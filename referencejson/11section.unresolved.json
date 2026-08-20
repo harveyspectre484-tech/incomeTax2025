@@ -1,8 +1,18 @@
 [
   {
+    "source_id": "11-1",
+    "source_type": "subsection",
+    "field": "text",
+    "anchor_text": "Schedules II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "subject_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
     "source_id": "11-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule VII",
     "guessed_target_id": "schedule-VII",
     "guessed_target_type": "schedule",
@@ -12,7 +22,7 @@
   {
     "source_id": "11-4",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule VII",
     "guessed_target_id": "schedule-VII",
     "guessed_target_type": "schedule",
@@ -20,19 +30,29 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "11-4",
+    "source_id": "11-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
-    "anchor_text": "Schedule i",
-    "guessed_target_id": "schedule-I",
+    "field": "text",
+    "anchor_text": "Schedules II",
+    "guessed_target_id": "schedule-II",
     "guessed_target_type": "schedule",
-    "relationship": "related_to",
+    "relationship": "definition_or_scope",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "11-1",
+    "source_type": "subsection",
+    "field": "text",
+    "anchor_text": "Schedules II",
+    "guessed_target_id": "schedule-II",
+    "guessed_target_type": "schedule",
+    "relationship": "subject_to",
     "reason": "target_id not found in local unit index"
   },
   {
     "source_id": "11-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule VII",
     "guessed_target_id": "schedule-VII",
     "guessed_target_type": "schedule",
@@ -42,7 +62,7 @@
   {
     "source_id": "11-4",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule VII",
     "guessed_target_id": "schedule-VII",
     "guessed_target_type": "schedule",
@@ -50,13 +70,13 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "11-4",
+    "source_id": "11-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
-    "anchor_text": "Schedule i",
-    "guessed_target_id": "schedule-I",
+    "field": "text",
+    "anchor_text": "Schedules II",
+    "guessed_target_id": "schedule-II",
     "guessed_target_type": "schedule",
-    "relationship": "related_to",
+    "relationship": "definition_or_scope",
     "reason": "target_id not found in local unit index"
   }
 ]

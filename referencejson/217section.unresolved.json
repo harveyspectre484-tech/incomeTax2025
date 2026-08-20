@@ -1,15 +1,5 @@
 [
   {
-    "source_id": "217",
-    "source_type": "section",
-    "field": "title",
-    "anchor_text": "sections 212 to 216",
-    "guessed_target_id": "212",
-    "guessed_target_type": "section",
-    "relationship": "depends_on",
-    "reason": "target_id not found in local unit index"
-  },
-  {
     "source_id": "217-1-b",
     "source_type": "clause",
     "field": "text",
@@ -110,9 +100,9 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "218",
-    "source_type": "section",
-    "field": "title",
+    "source_id": "217-2-b",
+    "source_type": "clause",
+    "field": "text",
     "anchor_text": "sections 212 to 218",
     "guessed_target_id": "212",
     "guessed_target_type": "section",
@@ -120,9 +110,9 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "218",
-    "source_type": "section",
-    "field": "text_before_subsections",
+    "source_id": "217-2-b",
+    "source_type": "clause",
+    "field": "text",
     "anchor_text": "sections 212 to 217",
     "guessed_target_id": "212",
     "guessed_target_type": "section",
@@ -130,13 +120,23 @@
     "reason": "target_id not found in local unit index"
   },
   {
-    "source_id": "218",
-    "source_type": "section",
-    "field": "text_before_subsections",
+    "source_id": "217-2-b",
+    "source_type": "clause",
+    "field": "text",
     "anchor_text": "section 263",
     "guessed_target_id": "263",
     "guessed_target_type": "section",
     "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "217-2-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "sections 212 to 217",
+    "guessed_target_id": "212",
+    "guessed_target_type": "section",
+    "relationship": "exception_to",
     "reason": "target_id not found in local unit index"
   }
 ]

@@ -6,8 +6,8 @@
       "number": "471",
       "id": "471",
       "title": "Procedure.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "471-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No order imposing a penalty under this Chapter shall be made unless the assessee has been heard, or has been given a reasonable opportunity of being heard 16[by way of a show-cause notice to that effect].",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No order imposing a penalty under this Chapter shall be made unless the assessee has been heard, or has been given a reasonable opportunity of being heard 16[by way of a show-cause notice to that effect].",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "471-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "No order imposing a penalty under this Chapter shall be made without the prior approval of the Joint Commissioner—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "471-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "where the penalty exceeds Rs. 10000, by the Income-tax Officer;",
@@ -49,8 +48,8 @@
               "type": "clause",
               "number": "b",
               "id": "471-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "where the penalty exceeds Rs. 20000, by the Assistant Commissioner or Deputy Commissioner.",
@@ -63,20 +62,19 @@
           "type": "subsection",
           "number": "3",
           "id": "471-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An income-tax authority on making an order under this Chapter imposing a penalty, unless he himself is the Assessing Officer, shall send a copy of the order to the Assessing Officer.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An income-tax authority on making an order under this Chapter imposing a penalty, unless he himself is the Assessing Officer, shall send a copy of the order to the Assessing Officer.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "471-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
           "footnote_refs": [
@@ -88,8 +86,8 @@
               "type": "clause",
               "number": "a",
               "id": "471-4-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
               "text": "penalty under section 439, if any, shall constitute part of such draft assessment or shall be imposed as a part of such order of assessment or reassessment, as the case may be; and",
@@ -99,8 +97,8 @@
               "type": "clause",
               "number": "b",
               "id": "471-4-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "the reference to the assessment order or the penalty order under section 439 in any of the provisions of this Act shall take reference to such order of assessment or reassessment, as the case may be.",
@@ -113,13 +111,12 @@
           "type": "subsection",
           "number": "5",
           "id": "471-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 14,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the approval of the Joint Commissioner is taken for passing of an order of assessment or reassessment on or after the 1st April, 2027, such approval shall also be deemed to be the approval for the imposition of penalty under section 439, if any, constituting part of such order of assessment or reassessment.]",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the approval of the Joint Commissioner is taken for passing of an order of assessment or reassessment on or after the 1st April, 2027, such approval shall also be deemed to be the approval for the imposition of penalty under section 439, if any, constituting part of such order of assessment or reassessment.]",
+          "children": []
         }
       ],
       "text_after_subsections": ""
@@ -134,5 +131,10 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [],
+  "footnote_reference_map": {
+    "17": [
+      "471-4"
+    ]
+  }
 }

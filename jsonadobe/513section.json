@@ -5,9 +5,9 @@
       "type": "section",
       "number": "513",
       "id": "513",
-      "title": "Appearance by registered valuer in certain matters.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,42 +16,45 @@
           "type": "subsection",
           "number": "1",
           "id": "513-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Any assessee, entitled or required to attend before any income-tax authority or the Appellate Tribunal in matters relating to the valuation of any asset, may attend through a registered valuer.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Any assessee, entitled or required to attend before any income-tax authority or the Appellate Tribunal in matters relating to the valuation of any asset, may attend through a registered valuer.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "513-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of sub-section (1) shall not apply, where the assessee is required to attend personally for examination on oath or affirmation under section 246.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The provisions of sub-section (1) shall not apply, where the assessee is required to attend personally for examination on oath or affirmation under section 246.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "513-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, the expression \"registered valuer\" means a person registered as a valuer under section 514.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, the expression \"registered valuer\" means a person registered as a valuer under section 514.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Appearance by registered valuer in certain matters."
+    }
+  ]
 }

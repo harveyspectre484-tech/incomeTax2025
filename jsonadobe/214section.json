@@ -1,0 +1,71 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "214",
+      "id": "214",
+      "title": "Tax on investment income and long-term capital gains.",
+      "indent": 0,
+      "line_start": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.",
+      "children": [],
+      "table": {
+        "type": "table",
+        "table_id": "214-table-1",
+        "title": "TABLE",
+        "format": "borderless",
+        "page_start": 1,
+        "page_end": 1,
+        "line_start": 8,
+        "line_end": 12,
+        "columns": [
+          "Sl. No.",
+          "Nature of sum",
+          "Amount of deduction"
+        ],
+        "rows": [
+          {
+            "item_no": 1,
+            "column_A": "",
+            "column_B": "Income from investment. 20%",
+            "column_C": "",
+            "raw_text": "Income from investment. 20%"
+          },
+          {
+            "item_no": 2,
+            "column_A": "",
+            "column_B": "Income from long-term capital gains on specified asset. 12.5%",
+            "column_C": "",
+            "raw_text": "Income from long-term capital gains on specified asset. 12.5%"
+          },
+          {
+            "item_no": 3,
+            "column_A": "",
+            "column_B": "Total income as reduced by income referred to against serial numbers 1 and 2. Rates in force.",
+            "column_C": "",
+            "raw_text": "Total income as reduced by income referred to against serial numbers 1 and 2. Rates in force."
+          }
+        ],
+        "linearized_text": "Section (214): The income-tax payable on the total income of an assessee, being a non-resident Indian, which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B. Table items: Item 1 - Nature of sum: Income from investment. 20%. Item 2 - Nature of sum: Income from long-term capital gains on specified asset. 12.5%. Item 3 - Nature of sum: Total income as reduced by income referred to against serial numbers 1 and 2. Rates in force..",
+        "source": {
+          "act": "Income-tax Act",
+          "rule": "214",
+          "page_start": 1,
+          "page_end": 1,
+          "line_start": 8
+        }
+      }
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

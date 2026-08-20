@@ -6,8 +6,8 @@
       "number": "275",
       "id": "275",
       "title": "Reference to Dispute Resolution Panel.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "275-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Assessing Officer shall, irrespective of anything to the contrary contained in this Act, in the first instance, forward a draft of the proposed order of assessment (hereafter in this section referred to as the draft order) to the eligible assessee, if he proposes to make any variation which is prejudicial to the interest of such assessee.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Assessing Officer shall, irrespective of anything to the contrary contained in this Act, in the first instance, forward a draft of the proposed order of assessment (hereafter in this section referred to as the draft order) to the eligible assessee, if he proposes to make any variation which is prejudicial to the interest of such assessee.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "275-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "On receipt of the draft order, the eligible assessee shall, within thirty days of its receipt by him,—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "file his acceptance of the variations to the Assessing Officer; or",
@@ -49,33 +48,36 @@
               "type": "clause",
               "number": "b",
               "id": "275-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
-              "text": "file his objections, if any, to such variation with,—",
-              "children": [
+              "text_before_sub_clauses": "file his objections, if any, to such variation with,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "275-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the Dispute Resolution Panel; and"
+                  "text": "the Dispute Resolution Panel; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "275-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the Assessing Officer."
+                  "text": "the Assessing Officer.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -84,8 +86,8 @@
           "type": "subsection",
           "number": "3",
           "id": "275-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Assessing Officer shall complete the assessment on the basis of the draft order, if—",
@@ -94,8 +96,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "the assessee intimates to the Assessing Officer the acceptance of the variation; or",
@@ -105,8 +107,8 @@
               "type": "clause",
               "number": "b",
               "id": "275-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "no objection is received within the period specified in sub-section (2).",
@@ -119,8 +121,8 @@
           "type": "subsection",
           "number": "4",
           "id": "275-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 15,
           "page_start": 1,
           "page_end": 1,
           "footnote_refs": [
@@ -132,40 +134,43 @@
               "type": "clause",
               "number": "a",
               "id": "275-4-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
-              "text": "The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
-              "children": [
+              "text_before_sub_clauses": "The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "275-4-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 16,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the acceptance is received; or"
+                  "text": "the acceptance is received; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "275-4-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 17,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the period of filing of objections under sub-section (2) expires."
+                  "text": "the period of filing of objections under sub-section (2) expires.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "275-4-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 18,
               "page_start": 1,
               "page_end": 1,
               "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be governed by the provisions of this sub-section.]",
@@ -178,32 +183,30 @@
           "type": "subsection",
           "number": "5",
           "id": "275-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 19,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Dispute Resolution Panel shall, in a case where any objection is received under sub-section (2), issue such directions, as it thinks fit, for guidance of the Assessing Officer to enable him to complete the assessment.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Dispute Resolution Panel shall, in a case where any objection is received under sub-section (2), issue such directions, as it thinks fit, for guidance of the Assessing Officer to enable him to complete the assessment.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "275-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Dispute Resolution Panel shall issue the directions as referred to in sub-section (5), in writing, stating the points of determination, the decision thereon and the reason for such decision.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Dispute Resolution Panel shall issue the directions as referred to in sub-section (5), in writing, stating the points of determination, the decision thereon and the reason for such decision.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "7",
           "id": "275-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 21,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Dispute Resolution Panel may, before issuing any directions referred to in sub-section (5),—",
@@ -212,8 +215,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-7-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 22,
               "page_start": 1,
               "page_end": 1,
               "text": "make such further enquiry, as it thinks fit; or",
@@ -223,8 +226,8 @@
               "type": "clause",
               "number": "b",
               "id": "275-7-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 23,
               "page_start": 1,
               "page_end": 1,
               "text": "cause any further enquiry to be made by any income-tax authority and report the result of the same to such panel.",
@@ -237,80 +240,74 @@
           "type": "subsection",
           "number": "8",
           "id": "275-8",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 24,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Dispute Resolution Panel may, confirm, reduce or enhance the variations proposed in the draft order, so however, that it shall not set aside any proposed variation, or issue any direction under sub-section (5) for further enquiry and passing of the assessment order.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Dispute Resolution Panel may, confirm, reduce or enhance the variations proposed in the draft order, so however, that it shall not set aside any proposed variation, or issue any direction under sub-section (5) for further enquiry and passing of the assessment order.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "9",
           "id": "275-9",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 25,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of sub-section (8), the power of the Dispute Resolution Panel to enhance the variation shall include the power to consider any matter arising out of the assessment proceedings relating to the draft order, irrespective of the fact that such matter was not raised by the eligible assessee.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of sub-section (8), the power of the Dispute Resolution Panel to enhance the variation shall include the power to consider any matter arising out of the assessment proceedings relating to the draft order, irrespective of the fact that such matter was not raised by the eligible assessee.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "10",
           "id": "275-10",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 26,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If the members of the Dispute Resolution Panel differ in opinion on any point, the point shall be decided as per the opinion of the majority of the members.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "If the members of the Dispute Resolution Panel differ in opinion on any point, the point shall be decided as per the opinion of the majority of the members.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "11",
           "id": "275-11",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 27,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Every direction issued by the Dispute Resolution Panel shall be binding on the Assessing Officer.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Every direction issued by the Dispute Resolution Panel shall be binding on the Assessing Officer.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "12",
           "id": "275-12",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 28,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No direction under sub-section (5) shall be issued unless an opportunity of being heard is given to the assessee, and the Assessing Officer, on such directions which are prejudicial to the interest of the assessee, or the interest of the revenue, respectively.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No direction under sub-section (5) shall be issued unless an opportunity of being heard is given to the assessee, and the Assessing Officer, on such directions which are prejudicial to the interest of the assessee, or the interest of the revenue, respectively.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "13",
           "id": "275-13",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 29,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No direction under sub-section (5) shall be issued after nine months from the end of the month in which the draft order is forwarded to the eligible assessee.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No direction under sub-section (5) shall be issued after nine months from the end of the month in which the draft order is forwarded to the eligible assessee.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "14",
           "id": "275-14",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 30,
           "page_start": 1,
           "page_end": 1,
           "footnote_refs": [
@@ -322,8 +319,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-14-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 30,
               "page_start": 1,
               "page_end": 1,
               "text": "Upon receipt of the directions issued under sub-section (5), the Assessing Officer shall, in conformity with the directions, complete, irrespective of anything to the contrary contained in section 286, the assessment without providing any further opportunity of being heard to the assessee, within one month from the end of the month in which such direction is received.",
@@ -333,8 +330,8 @@
               "type": "clause",
               "number": "b",
               "id": "275-14-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 31,
               "page_start": 1,
               "page_end": 1,
               "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under section 286, time period available for the Assessing Officer under this sub-section to pass the assessment order upon receipt of the direction issued under sub-section (5), shall be governed by the provisions of sub-section (13) and this sub-section.]",
@@ -347,32 +344,30 @@
           "type": "subsection",
           "number": "15",
           "id": "275-15",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 32,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Board may make rules for the purposes of the efficient functioning of the Dispute Resolution Panel and expeditious disposal of the objections filed under sub-section (2) by the eligible assessee.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Board may make rules for the purposes of the efficient functioning of the Dispute Resolution Panel and expeditious disposal of the objections filed under sub-section (2) by the eligible assessee.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "16",
           "id": "275-16",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 33,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provisions of this section shall not apply to any assessment or reassessment order passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner as provided in section 274(12).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The provisions of this section shall not apply to any assessment or reassessment order passed by the Assessing Officer with the prior approval of the Principal Commissioner or Commissioner as provided in section 274(12).",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "17",
           "id": "275-17",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 34,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section, subject to the provisions of sub-section (18),—",
@@ -381,8 +376,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-17-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 35,
               "page_start": 1,
               "page_end": 1,
               "text": "\"Dispute Resolution Panel\" means a collegium comprising of three Principal Commissioners or Commissioners of Income-tax constituted by the Board for this purpose;",
@@ -392,33 +387,36 @@
               "type": "clause",
               "number": "b",
               "id": "275-17-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 36,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"eligible assessee\" means,—",
-              "children": [
+              "text_before_sub_clauses": "\"eligible assessee\" means,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "275-17-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 37,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any person in whose case the variation referred to in sub-section (1) arises as a consequence of the order of the Transfer Pricing Officer passed under section 166(6);"
+                  "text": "any person in whose case the variation referred to in sub-section (1) arises as a consequence of the order of the Transfer Pricing Officer passed under section 166(6);",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "275-17-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 38,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any non-resident (not being a company), or any foreign company."
+                  "text": "any non-resident (not being a company), or any foreign company.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -427,20 +425,19 @@
           "type": "subsection",
           "number": "18",
           "id": "275-18",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 39,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The eligible assessee referred to in sub-section (17) shall not include person referred to in section 292(1) or other person referred to in section 295.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The eligible assessee referred to in sub-section (17) shall not include person referred to in section 292(1) or other person referred to in section 295.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "19",
           "id": "275-19",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 40,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The provisions of this section shall not apply to any proceedings under Chapter XVI-B. \"(4) The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
@@ -449,8 +446,8 @@
               "type": "clause",
               "number": "a",
               "id": "275-19-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 43,
               "page_start": 1,
               "page_end": 1,
               "text": "the acceptance is received; or",
@@ -460,8 +457,8 @@
               "type": "clause",
               "number": "b",
               "id": "275-19-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 44,
               "page_start": 1,
               "page_end": 1,
               "text": "the period of filing of objections under sub-section (2) expires.\"",
@@ -480,15 +477,29 @@
       "number": "56",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (4) read as under :",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "275-4"
+      ]
     },
     {
       "type": "footnote",
       "number": "57",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (14) read as under : \"(14) Upon receipt of the directions issued under sub-section (5), the Assessing Officer shall, in conformity with the directions, complete, irrespective of anything to the contrary contained in section 286, the assessment without providing any further opportunity of being heard to the assessee, within one month from the end of the month in which such direction is received.\"",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "275-14"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [],
+  "footnote_reference_map": {
+    "56": [
+      "275-4"
+    ],
+    "57": [
+      "275-14"
+    ]
+  }
 }

@@ -1,15 +1,5 @@
 [
   {
-    "source_id": "119-3-b",
-    "source_type": "clause",
-    "field": "text",
-    "anchor_text": "section 140",
-    "guessed_target_id": "140",
-    "guessed_target_type": "section",
-    "relationship": "related_to",
-    "reason": "target_id not found in local unit index"
-  },
-  {
     "source_id": "119-4-e",
     "source_type": "clause",
     "field": "text",

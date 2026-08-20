@@ -6,15 +6,145 @@
       "number": "301",
       "id": "301",
       "title": "Interpretation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of this Part—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "For the purposes of this Part—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "301-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"block period\" means the aggregate of—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "301-a-i",
+              "indent": 0,
+              "line_start": 7,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the period comprising six tax years preceding the tax year in which the search was initiated or any requisition was made; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "301-a-ii",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the period starting from the 1st April of the tax year in which search was initiated or requisition was made and ending on the date of the execution of the last of the authorisations for such search or such requisition;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "301-b",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"requisition\" means requisition of books of account, other documents or any assets under section 248;",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-301-b-001",
+              "target_id": "248",
+              "target_type": "section",
+              "anchor_text": "section 248",
+              "relationship": "definition_reference",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "301-c",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"search\" means a search initiated under section 247;",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-301-c-001",
+              "target_id": "247",
+              "target_type": "section",
+              "anchor_text": "section 247",
+              "relationship": "definition_reference",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "301-d",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"the last of the authorisations\" shall be deemed to have been executed,—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "301-d-i",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of search, on the conclusion of search as recorded in the last panchnama drawn in relation to any person in whose case the warrant of authorisation has been issued, irrespective of whether or not any seizure is recorded in such panchnama;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "301-d-ii",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in the case of requisition, on the actual receipt of the books of account or other documents or assets by the Authorised Officer;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "301-e",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"undisclosed income\" includes any money, bullion, jewellery, virtual digital asset or other valuable article or thing or any expenditure or any income based on any entry in the books of account or other documents or transactions, where such money, bullion, jewellery, virtual digital asset, valuable article, thing, entry in the books of account or other document or transaction represents wholly or partly income or property which has not been or would not have been disclosed for the purposes of this Act, or any expense, exemption, deduction or allowance claimed under this Act which is found to be incorrect, in respect of the block period.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

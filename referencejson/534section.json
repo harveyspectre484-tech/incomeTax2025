@@ -6,13 +6,67 @@
       "number": "534",
       "id": "534",
       "title": "Laying before Parliament.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "The Central Government shall cause––",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "The Central Government shall cause––",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "534-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "every rule made under this Act;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "534-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "rules of procedure framed by the Appellate Tribunal under section 364; or",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-534-b-001",
+              "target_id": "364",
+              "target_type": "section",
+              "anchor_text": "section 364",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "534-c",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "every notification issued under sections 263(3) and 264 and Chapter XIII-G, to be laid, as soon as may be after it is made or issued, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in such rule, or notification or both Houses agree that the rule, should not be made or the notification should not be issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-534-c-001",
+              "target_id": "263-3",
+              "target_type": "subsection",
+              "anchor_text": "sections 263(3) and 264",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

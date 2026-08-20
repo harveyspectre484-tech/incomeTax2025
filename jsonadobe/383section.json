@@ -6,8 +6,8 @@
       "number": "383",
       "id": "383",
       "title": "Application for advance ruling.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,37 +16,34 @@
           "type": "subsection",
           "number": "1",
           "id": "383-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "383-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The application shall be accompanied by a fee, as may be prescribed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The application shall be accompanied by a fee, as may be prescribed.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "383-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An applicant may withdraw an application within thirty days from the date of the application.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An applicant may withdraw an application within thirty days from the date of the application.",
+          "children": []
         }
       ],
       "text_after_subsections": ""

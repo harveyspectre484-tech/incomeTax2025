@@ -3,19 +3,20 @@
     {
       "type": "chapter",
       "number": "III",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text": "",
-      "children": [
+      "text_before_sections": "",
+      "sections": [
         {
           "type": "section",
           "number": "11",
           "id": "11",
           "title": "Incomes not included in total income.",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
           "text_before_subsections": "",
@@ -24,66 +25,62 @@
               "type": "subsection",
               "number": "1",
               "id": "11-1",
-              "x": 27.62,
-              "y_start": 95.44,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
+              "children": []
             },
             {
               "type": "subsection",
               "number": "2",
               "id": "11-2",
-              "x": 27.62,
-              "y_start": 380.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
+              "children": []
             },
             {
               "type": "subsection",
               "number": "3",
               "id": "11-3",
-              "x": 27.62,
-              "y_start": 380.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
+              "children": []
             },
             {
               "type": "subsection",
               "number": "4",
               "id": "11-4",
-              "x": 27.62,
-              "y_start": 380.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
+              "children": []
             },
             {
               "type": "subsection",
               "number": "5",
               "id": "11-5",
-              "x": 27.62,
-              "y_start": 380.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
-              "text_before_clauses": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
-              "clauses": [],
-              "text_after_clauses": ""
+              "text": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
+              "children": []
             }
           ],
           "text_after_subsections": ""
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -92,8 +89,8 @@
       "number": "11",
       "id": "11",
       "title": "Incomes not included in total income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 11,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -102,66 +99,72 @@
           "type": "subsection",
           "number": "1",
           "id": "11-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "11-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "11-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "11-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 14,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "11-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 15,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

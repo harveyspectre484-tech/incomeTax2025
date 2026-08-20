@@ -6,13 +6,103 @@
       "number": "25",
       "id": "25",
       "title": "Interpretation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of sections 20 to 24, the \"owner\" in relation to a property or any part thereof shall include—",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text_before_clauses": "For the purposes of sections 20 to 24, the \"owner\" in relation to a property or any part thereof shall include—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "25-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an individual who transfers without adequate consideration, any property to the spouse (except under an agreement to live apart), or to a minor child (other than a married daughter);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "25-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the holder of an impartible estate, and he shall be deemed to be an individual owner in respect of all the properties comprised in the estate;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "25-c",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a member of a co-operative society, company or other association of persons to whom a building or part thereof is allotted or leased under a house building scheme of the society, company or association;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "25-d",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a person who is allowed to take or retain possession of any building or part thereof in part performance of a contract of the nature referred to in section 53A of the Transfer of Property Act, 1882 (4 of 1882);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-25-d-001",
+              "target_id": "53A",
+              "target_type": "section",
+              "anchor_text": "section 53A of the Transfer of Property Act, 1882 (4 of 1882);",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "25-e",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "a person who acquires any rights (excluding any rights by way of a lease from month to month or for a period not exceeding one year) in or with respect to any building or its part—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "25-e-i",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "by virtue of transfer of such property by way of sale or exchange or original or extendible lease for a term of not less than twelve years; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "25-e-ii",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "accruing or arising from any transaction (whether by way of becoming a member of, or acquiring shares in, a co-operative society, company or other association of persons or by way of any agreement or any arrangement of whatever nature), not being a transaction by way of sale, exchange or lease which has the effect of enabling the enjoyment of such property.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": "",
       "references": [
         {
           "reference_id": "ref-25-001",
@@ -21,10 +111,41 @@
           "anchor_text": "sections 20 to 24",
           "relationship": "definition_or_scope",
           "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-25-001",
+          "target_id": "21",
+          "target_type": "section",
+          "anchor_text": "sections 21",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-25-002",
+          "target_id": "22",
+          "target_type": "section",
+          "anchor_text": "sections 22",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-25-003",
+          "target_id": "23",
+          "target_type": "section",
+          "anchor_text": "sections 23",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
+        },
+        {
+          "reference_id": "ref-25-004",
+          "target_id": "24",
+          "target_type": "section",
+          "anchor_text": "sections 24",
+          "relationship": "definition_or_scope",
+          "confidence": "medium"
         }
       ]
     }
   ],
-  "footnotes": [],
-  "orphans": []
+  "footnotes": []
 }

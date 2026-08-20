@@ -6,8 +6,8 @@
       "number": "251",
       "id": "251",
       "title": "Copying, extraction, retention and release of books of account and documents seized or requisitioned.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,32 +16,30 @@
           "type": "subsection",
           "number": "1",
           "id": "251-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the authorised officer referred to in section 247(1) has no jurisdiction over the person referred to in section 247(1)(a) or (b), assets and material seized or requisitioned under section 247(1) to 247(4) shall be handed over to the Assessing Officer having jurisdiction over such person within a period of one hundred and eighty days from the date on which a search is initiated under section 247 or requisition is made under section 248 and such Assessing Officer thereupon shall exercise the powers under sub-sections (2) and (3).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the authorised officer referred to in section 247(1) has no jurisdiction over the person referred to in section 247(1)(a) or (b), assets and material seized or requisitioned under section 247(1) to 247(4) shall be handed over to the Assessing Officer having jurisdiction over such person within a period of one hundred and eighty days from the date on which a search is initiated under section 247 or requisition is made under section 248 and such Assessing Officer thereupon shall exercise the powers under sub-sections (2) and (3).",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "251-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The authorised officer shall, on an application made by the person from whose custody any material seized or requisitioned, are seized under section 247(1) to (4), allow such person, in the presence of such officer or any other person empowered by such officer in this behalf, to make copies thereof or take extracts therefrom, at such place and time as appointed by such officer.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The authorised officer shall, on an application made by the person from whose custody any material seized or requisitioned, are seized under section 247(1) to (4), allow such person, in the presence of such officer or any other person empowered by such officer in this behalf, to make copies thereof or take extracts therefrom, at such place and time as appointed by such officer.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "251-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The authorised officer may––",
@@ -50,8 +48,8 @@
               "type": "clause",
               "number": "a",
               "id": "251-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "retain the assets and material seized or requisitioned, under section 247 or 248, up to one month from the end of the quarter in which the order of assessment or reassessment or recomputation is made under section 270(10) or section 271 or section 279 or section 294(1)(c);",
@@ -61,8 +59,8 @@
               "type": "clause",
               "number": "b",
               "id": "251-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "retain such assets and material seized or requisitioned, beyond the period specified in clause (a), after recording reasons in writing and obtaining approval from the approving authority.",
@@ -75,30 +73,34 @@
           "type": "subsection",
           "number": "4",
           "id": "251-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The approving authority shall not allow the retention of assets and material seized or requisitioned, beyond thirty days from the date on which all the proceedings under the Income-tax Act, 1961 (43 of 1961) or this Act in respect of the years for which the assets and material seized or requisitioned are relevant, are completed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The approving authority shall not allow the retention of assets and material seized or requisitioned, beyond thirty days from the date on which all the proceedings under the Income-tax Act, 1961 (43 of 1961) or this Act in respect of the years for which the assets and material seized or requisitioned are relevant, are completed.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "251-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If a person legally entitled to the assets and material seized or requisitioned under section 247(1) to (4) or section 248, objects for any reason, to the approval given by approving authority under sub-section (3)(b), he may make an application to the Board stating therein the reasons for such objection and requesting for the return of the assets and material seized or requisitioned and the Board may, after giving the applicant an opportunity of being heard, pass such orders as it thinks fit.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "If a person legally entitled to the assets and material seized or requisitioned under section 247(1) to (4) or section 248, objects for any reason, to the approval given by approving authority under sub-section (3)(b), he may make an application to the Board stating therein the reasons for such objection and requesting for the return of the assets and material seized or requisitioned and the Board may, after giving the applicant an opportunity of being heard, pass such orders as it thinks fit.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

@@ -1,0 +1,431 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "52",
+      "id": "52",
+      "title": "Amortisation of expenditure for telecommunications services, amalgamation, demerger, scheme of voluntary retirement, etc.",
+      "indent": 0,
+      "line_start": 6,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "52-1",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where an expenditure of the nature specified in column B of the Table given below is incurred during the tax year, a deduction or part thereof shall be allowed in equal instalments in each of the successive tax years as mentioned in column D of the said Table, beginning from the initial tax year specified in column C thereof.",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "52-1-table-1",
+            "title": "TABLE",
+            "format": "borderless",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 9,
+            "line_end": 14,
+            "columns": [
+              "Sl. No.",
+              "Nature of sum",
+              "Amount of deduction"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Expenditure incurred by an Indian company, wholly and exclusively for the purposes of amalgamation or demerger of an undertaking. Tax year in which such amalgamation or demerger takes place. Five tax years.",
+                "column_C": "",
+                "raw_text": "Expenditure incurred by an Indian company, wholly and exclusively for the purposes of amalgamation or demerger of an undertaking. Tax year in which such amalgamation or demerger takes place. Five tax years."
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Amount paid to an employee in connection with his voluntary retirement as per any scheme of voluntary retirement. Tax year in which such payment is made. Five tax years.",
+                "column_C": "",
+                "raw_text": "Amount paid to an employee in connection with his voluntary retirement as per any scheme of voluntary retirement. Tax year in which such payment is made. Five tax years."
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Capital expenditure incurred and actually paid for acquiring any right to use spectrum for telecommunication services (spectrum fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) spectrum fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the spectrum for which the fee is paid remains in force.",
+                "column_C": "",
+                "raw_text": "Capital expenditure incurred and actually paid for acquiring any right to use spectrum for telecommunication services (spectrum fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) spectrum fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the spectrum for which the fee is paid remains in force."
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "Capital expenditure incurred and actually paid for acquiring any right to operate telecommunication services (herein referred to as licence fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) licence fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the licence for which the fee is paid remains in force.",
+                "column_C": "",
+                "raw_text": "Capital expenditure incurred and actually paid for acquiring any right to operate telecommunication services (herein referred to as licence fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) licence fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the licence for which the fee is paid remains in force."
+              }
+            ],
+            "linearized_text": "Subsection (1): Where an expenditure of the nature specified in column B of the Table given below is incurred during the tax year, a deduction or part thereof shall be allowed in equal instalments in each of the successive tax years as mentioned in column D of the said Table, beginning from the initial tax year specified in column C thereof. Table items: Item 1 - Nature of sum: Expenditure incurred by an Indian company, wholly and exclusively for the purposes of amalgamation or demerger of an undertaking. Tax year in which such amalgamation or demerger takes place. Five tax years.. Item 2 - Nature of sum: Amount paid to an employee in connection with his voluntary retirement as per any scheme of voluntary retirement. Tax year in which such payment is made. Five tax years.. Item 3 - Nature of sum: Capital expenditure incurred and actually paid for acquiring any right to use spectrum for telecommunication services (spectrum fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) spectrum fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the spectrum for which the fee is paid remains in force.. Item 4 - Nature of sum: Capital expenditure incurred and actually paid for acquiring any right to operate telecommunication services (herein referred to as licence fee). Tax year in which,— (a) the business to operate telecom services is commenced; or (b) licence fee is actually paid, whichever is later. Number of years commencing from the initial tax year and ending in the tax year up to which the licence for which the fee is paid remains in force..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "52-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 9
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "52-2",
+          "indent": 0,
+          "line_start": 16,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the licence or spectrum referred to in sub-section (1) (Table: Sl. No. 3 or 4)—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-2-a",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is transferred, and the proceeds of the transfer (so far as they consist of capital sums) are less than the expenditure though incurred, but remaining unallowed, a deduction equal to such expenditure remaining unallowed, as reduced by the proceeds of the transfer, shall be allowed in respect of the tax year in which the licence or spectrum is transferred;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-2-b",
+              "indent": 0,
+              "line_start": 18,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is transferred, whether in whole or in part, and the proceeds of the transfer (so far as they consist of capital sums) exceed the amount of the expenditure though incurred, but remaining unallowed, so much of the excess as does not exceed the difference between the expenditure incurred to obtain the licence or spectrum and the amount of such expenditure remaining unallowed, shall be chargeable to income-tax as profits and gains of the business in the tax year in which the licence or spectrum has been transferred;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "52-2-c",
+              "indent": 0,
+              "line_start": 19,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is transferred under clause (b) in a tax year in which the business is no longer in existence, the provisions of said clause shall apply as if the business is in existence in that tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "52-2-d",
+              "indent": 0,
+              "line_start": 20,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "is transferred, whether in whole or in part, and the proceeds of the transfer (so far as they consist of capital sums) are equal or greater than the amount of expenditure incurred remaining unallowed, no deduction for such expenditure shall be allowed under sub-section (1) in respect of the tax year in which the licence or spectrum is transferred or in respect of any subsequent tax year or years;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "52-2-e",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "is sold or otherwise transferred by the amalgamating company or demerged company, as the case may be, in a scheme of amalgamation or demerger, to the amalgamated company or resulting company, being an Indian company,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "52-2-e-i",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the provisions of clauses (a), (b), (c) and (d) shall not apply to the amalgamating or demerged company; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "52-2-e-ii",
+                  "indent": 0,
+                  "line_start": 23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "all the provisions of this section shall continue to apply to the amalgamated or resulting company as it would have applied to the amalgamating or demerged company, as if the transfer had not taken place.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "52-3",
+          "indent": 0,
+          "line_start": 24,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a part of licence or spectrum referred to in sub-section (1) (Table: Sl. No. 3 or 4) is transferred in a tax year and sub-section (2)(b) and (c) does not apply, the deduction to be allowed under sub-section (1) for the expenditure though incurred but remaining unallowed shall be arrived at by—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-3-a",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "subtracting the proceeds of transfer (so far as they consist of capital sums) from the expenditure remaining unallowed; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-3-b",
+              "indent": 0,
+              "line_start": 26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "dividing the remainder by the number of relevant tax years which have not expired at the beginning of the tax year during which the licence or spectrum is transferred.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "52-4",
+          "indent": 0,
+          "line_start": 27,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction shall be allowed—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-4-a",
+              "indent": 0,
+              "line_start": 28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "for depreciation under section 33(1) to (10) in respect of expenditure mentioned in sub-section (1) (Table: Sl. No. 3 or 4), where deduction under this section is claimed and allowed for any tax year;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-4-b",
+              "indent": 0,
+              "line_start": 29,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "under any other provision of this Act in respect of the expenditure mentioned in sub-section (1) (Table: Sl. No. 1 or 2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "52-5",
+          "indent": 0,
+          "line_start": 30,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In case any deduction has been claimed and granted in respect of an expenditure referred to in sub-section (1) (Table: Sl. No. 3) in a tax year and subsequently there is failure on part of the assessee to comply with any of the provisions of this section, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-5-a",
+              "indent": 0,
+              "line_start": 31,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the deduction shall be deemed to have been wrongly allowed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-5-b",
+              "indent": 0,
+              "line_start": 32,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Assessing Officer may, irrespective of any other provisions of this Act, recompute the total income of the assessee for the said tax year by making necessary rectification;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "52-5-c",
+              "indent": 0,
+              "line_start": 33,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of section 287 shall, so far as may be, apply; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "52-5-d",
+              "indent": 0,
+              "line_start": 34,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the period of four years specified in section 287(8) shall be counted from the end of the tax year in which such failure takes place.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "52-6",
+          "indent": 0,
+          "line_start": 35,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where a specified business reorganisation takes place before the expiry of the period specified in sub-section (1) (Table: Sl. No. 2.D), in case of an expenditure referred against serial number 2 thereof, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-6-a",
+              "indent": 0,
+              "line_start": 36,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of this section, as far as may be, shall continue to apply to the successor entity as they would have applied to the predecessor entity if such reorganisation had not taken place; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-6-b",
+              "indent": 0,
+              "line_start": 37,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no deduction shall be allowed to the predecessor entity under this section for the tax year in which such reorganisation takes place.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "52-7",
+          "indent": 0,
+          "line_start": 38,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "52-7-a",
+              "indent": 0,
+              "line_start": 39,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"actually paid\" means the actual payment of expenditure irrespective of the tax year in which the liability for the expenditure was incurred according to the method of accounting regularly employed by the assessee or payable in such manner, as may be prescribed;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "52-7-b",
+              "indent": 0,
+              "line_start": 40,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"equal instalments\" shall be calculated by taking numerator as 1 and denominator as the tax years mentioned in column D of the Table in sub-section (1);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "52-7-c",
+              "indent": 0,
+              "line_start": 41,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"specified business reorganisation\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "52-7-c-i",
+                  "indent": 0,
+                  "line_start": 42,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "amalgamation of an Indian company and its undertaking with another Indian company; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "52-7-c-ii",
+                  "indent": 0,
+                  "line_start": 43,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "demerger of an undertaking of an Indian company to another company; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "52-7-c-iii",
+                  "indent": 0,
+                  "line_start": 44,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "succession of a firm or proprietorship concern to a company fulfilling conditions as laid down in section 70(1)(zd); or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "52-7-c-iv",
+                  "indent": 0,
+                  "line_start": 45,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "conversion of a private company or unlisted public company to a limited liability partnership fulfilling conditions laid down in section 70(1) (ze).",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

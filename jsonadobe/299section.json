@@ -6,8 +6,8 @@
       "number": "299",
       "id": "299",
       "title": "Authority competent to make assessment of block period.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,30 +16,34 @@
           "type": "subsection",
           "number": "1",
           "id": "299-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "299-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

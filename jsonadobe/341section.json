@@ -5,9 +5,9 @@
       "type": "section",
       "number": "341",
       "id": "341",
-      "title": "Application of income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "341-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 4,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The following sums shall be allowed as application of income to a registered non-profit organisation:—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "341-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 5,
               "page_start": 1,
               "page_end": 1,
               "text": "any sum, other than the sum referred to in clause (b), applied by it for charitable or religious purpose in India for which it is registered where such sum is paid during the tax year provided that the provisions of section 35(b)(i) and section 36(4), (5), (6) and (7) shall apply in respect of such sum; and",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "341-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "85% of the sum paid by way of donation made to any other registered non-profit organisation.",
@@ -51,8 +51,8 @@
           "type": "subsection",
           "number": "2",
           "id": "341-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The application of income under sub-section (1) shall include the following:—",
@@ -61,65 +61,71 @@
               "type": "clause",
               "number": "a",
               "id": "341-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount invested or deposited back during the tax year, in the modes permitted under section 350 maintained specifically for such corpus, if—",
-              "children": [
+              "text_before_sub_clauses": "the amount invested or deposited back during the tax year, in the modes permitted under section 350 maintained specifically for such corpus, if—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "341-2-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such investment or depositing back is made within five years from the end of the tax year in which such application of income was made from the corpus; and"
+                  "text": "such investment or depositing back is made within five years from the end of the tax year in which such application of income was made from the corpus; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "341-2-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the application of income from the corpus is made after the 31st March, 2021 and there was no violation of any provision of this Part, or any corresponding provision of the Income-tax Act, 1961 (43 of 1961) with respect to such application;"
+                  "text": "the application of income from the corpus is made after the 31st March, 2021 and there was no violation of any provision of this Part, or any corresponding provision of the Income-tax Act, 1961 (43 of 1961) with respect to such application;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "341-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount repaid, during the tax year, towards any loan or borrowing where,—",
-              "children": [
+              "text_before_sub_clauses": "the amount repaid, during the tax year, towards any loan or borrowing where,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "341-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such repayment is within five years from the end of the tax year in which such application of income was made from the loan or borrowing; and"
+                  "text": "such repayment is within five years from the end of the tax year in which such application of income was made from the loan or borrowing; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "341-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 13,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the application of income from the loan or borrowing is made after the 31st March, 2021 and there was no violation of any provision of this Part, or any corresponding provision of the Income-tax Act, 1961 (43 of 1961) with respect to such application."
+                  "text": "the application of income from the loan or borrowing is made after the 31st March, 2021 and there was no violation of any provision of this Part, or any corresponding provision of the Income-tax Act, 1961 (43 of 1961) with respect to such application.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -128,8 +134,8 @@
           "type": "subsection",
           "number": "3",
           "id": "341-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 14,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The following claims shall not be allowed as application of income under sub-sections (1) and (2):—",
@@ -138,8 +144,8 @@
               "type": "clause",
               "number": "a",
               "id": "341-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "the deduction or allowance by way of depreciation or otherwise claimed in respect of an asset acquisition of which has been claimed as an application of income in the same or any other tax year under this Part or under any corresponding provision of the Income-tax Act, 1961 (43 of 1961); or",
@@ -149,8 +155,8 @@
               "type": "clause",
               "number": "b",
               "id": "341-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 16,
               "page_start": 1,
               "page_end": 1,
               "text": "a claim of set off or deduction or allowance of any excess application of any of the years preceding the tax year; or",
@@ -160,8 +166,8 @@
               "type": "clause",
               "number": "c",
               "id": "341-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 17,
               "page_start": 1,
               "page_end": 1,
               "text": "any sum paid as a corpus donation to any other registered non-profit organisation.",
@@ -174,32 +180,30 @@
           "type": "subsection",
           "number": "4",
           "id": "341-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An application from corpus, loan or borrowing, accumulated income, specified income or deemed accumulated income shall not be considered as application for the purpose of sub-sections (1) and (2).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "An application from corpus, loan or borrowing, accumulated income, specified income or deemed accumulated income shall not be considered as application for the purpose of sub-sections (1) and (2).",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "341-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 19,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where, in a tax year, the regular income applied by a registered non-profit organisation towards charitable or religious purposes in India, as per the provisions of sub-sections (1) to (4), is less than 85% of regular income, the shortfall, or any part thereof, at the option of the registered non-profit organisation, may be treated as deemed application.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where, in a tax year, the regular income applied by a registered non-profit organisation towards charitable or religious purposes in India, as per the provisions of sub-sections (1) to (4), is less than 85% of regular income, the shortfall, or any part thereof, at the option of the registered non-profit organisation, may be treated as deemed application.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "341-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Any deemed application under sub-section (5) shall be applied by the registered non-profit organisation for its objects in India,—",
@@ -208,8 +212,8 @@
               "type": "clause",
               "number": "a",
               "id": "341-6-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 21,
               "page_start": 1,
               "page_end": 1,
               "text": "during the tax year in which the income is received or in the tax year immediately succeeding such tax year, where such shortfall is for the reason that the whole or any part of the income has not been received during that tax year;",
@@ -219,8 +223,8 @@
               "type": "clause",
               "number": "b",
               "id": "341-6-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 22,
               "page_start": 1,
               "page_end": 1,
               "text": "in the tax year immediately succeeding the tax year in which the income was derived, where such shortfall is for any other reason.",
@@ -233,32 +237,30 @@
           "type": "subsection",
           "number": "7",
           "id": "341-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 23,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The option under sub-section (5) shall be exercised on or before the due date specified in section 263(1) for furnishing the return of income for such tax year, in such form and manner, as may be prescribed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The option under sub-section (5) shall be exercised on or before the due date specified in section 263(1) for furnishing the return of income for such tax year, in such form and manner, as may be prescribed.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "8",
           "id": "341-8",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 24,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The application of income under sub-section (1) shall include deemed application under sub-section (5).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The application of income under sub-section (1) shall include deemed application under sub-section (5).",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "9",
           "id": "341-9",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 25,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Following income from capital gains shall be deemed as application of income—",
@@ -267,65 +269,71 @@
               "type": "clause",
               "number": "a",
               "id": "341-9-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 26,
               "page_start": 1,
               "page_end": 1,
-              "text": "the capital gain from transfer of a capital asset, being property held under trust wholly for charitable or religious purposes, where the whole or any part of the net consideration is utilised for acquiring another capital asset to be so held,—",
-              "children": [
+              "text_before_sub_clauses": "the capital gain from transfer of a capital asset, being property held under trust wholly for charitable or religious purposes, where the whole or any part of the net consideration is utilised for acquiring another capital asset to be so held,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "341-9-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 27,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "if the whole of the net consideration is utilised in acquiring the new capital asset, the whole of such capital gain;"
+                  "text": "if the whole of the net consideration is utilised in acquiring the new capital asset, the whole of such capital gain;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "341-9-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 28,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "if only a part of the net consideration is utilised for acquiring the new capital asset, so much of such capital gain as is equal to the amount, if any, by which the amount so utilised exceeds the cost of the transferred asset;"
+                  "text": "if only a part of the net consideration is utilised for acquiring the new capital asset, so much of such capital gain as is equal to the amount, if any, by which the amount so utilised exceeds the cost of the transferred asset;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "341-9-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 29,
               "page_start": 1,
               "page_end": 1,
-              "text": "the appropriate fraction of the capital gain arising from the transfer of a capital asset, being property held under trust in part for charitable or religious purposes, where the whole or any part of the net consideration is utilised for acquiring another capital asset to be so held,—",
-              "children": [
+              "text_before_sub_clauses": "the appropriate fraction of the capital gain arising from the transfer of a capital asset, being property held under trust in part for charitable or religious purposes, where the whole or any part of the net consideration is utilised for acquiring another capital asset to be so held,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "341-9-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 30,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "if the cost of acquisition of the new capital asset acquired is not less than the net consideration in respect of the capital asset transferred, the whole of appropriate fraction of such capital gain;"
+                  "text": "if the cost of acquisition of the new capital asset acquired is not less than the net consideration in respect of the capital asset transferred, the whole of appropriate fraction of such capital gain;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "341-9-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 31,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in any other case, so much of the appropriate fraction of the capital gain as is equal to the amount, if any, by which the appropriate fraction of the amount utilised for acquiring the new asset exceeds the appropriate fraction of the cost of the transferred asset."
+                  "text": "in any other case, so much of the appropriate fraction of the capital gain as is equal to the amount, if any, by which the appropriate fraction of the amount utilised for acquiring the new asset exceeds the appropriate fraction of the cost of the transferred asset.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -334,8 +342,8 @@
           "type": "subsection",
           "number": "10",
           "id": "341-10",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 32,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of sub-section (9),—",
@@ -344,8 +352,8 @@
               "type": "clause",
               "number": "a",
               "id": "341-10-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 33,
               "page_start": 1,
               "page_end": 1,
               "text": "\"appropriate fraction\" means the fraction which represents the extent to which the income derived from the capital asset transferred was immediately before such transfer applicable to charitable or religious purpose;",
@@ -355,8 +363,8 @@
               "type": "clause",
               "number": "b",
               "id": "341-10-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 34,
               "page_start": 1,
               "page_end": 1,
               "text": "\"cost of transferred asset\" means the aggregate of the cost of acquisition (as ascertained for the purposes of sections 72 and 73) of the capital asset which is subject of the transfer and the cost of any improvement thereto within the meaning assigned to that expression in section 90(1)(b);",
@@ -366,8 +374,8 @@
               "type": "clause",
               "number": "c",
               "id": "341-10-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 35,
               "page_start": 1,
               "page_end": 1,
               "text": "\"net consideration\" means the full value of the consideration received or accruing as a result of the transfer of the capital asset as reduced by any expenditure incurred wholly and exclusively in connection with such transfer.",
@@ -381,5 +389,21 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Application of income."
+    }
+  ]
 }

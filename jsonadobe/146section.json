@@ -6,8 +6,8 @@
       "number": "146",
       "id": "146",
       "title": "Deduction in respect of additional employee cost.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,32 +16,30 @@
           "type": "subsection",
           "number": "1",
           "id": "146-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Subject to the conditions specified in sub-sections (2) and (3), if the gross total income of an assessee, to whom section 63 applies, includes any profits and gains derived from business, a deduction of an amount equal to 30% of additional employee cost incurred in the course of such business in the tax year shall be allowed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Subject to the conditions specified in sub-sections (2) and (3), if the gross total income of an assessee, to whom section 63 applies, includes any profits and gains derived from business, a deduction of an amount equal to 30% of additional employee cost incurred in the course of such business in the tax year shall be allowed.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "146-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The deduction referred to in sub-section (1) shall be allowed for three consecutive tax years, beginning from the tax year in which the employment is provided.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The deduction referred to in sub-section (1) shall be allowed for three consecutive tax years, beginning from the tax year in which the employment is provided.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "146-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The deduction under sub-section (1) shall not be allowed, if—",
@@ -50,8 +48,8 @@
               "type": "clause",
               "number": "a",
               "id": "146-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "the business is formed by splitting up, or the reconstruction, of an existing business; or",
@@ -61,8 +59,8 @@
               "type": "clause",
               "number": "b",
               "id": "146-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "the business is acquired by the assessee through transfer from any other person or as a result of any business reorganisation; or",
@@ -72,8 +70,8 @@
               "type": "clause",
               "number": "c",
               "id": "146-3-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "the assessee does not furnish the report of an accountant, before the specified date as referred to in section 63, giving the particulars in the report, as may be prescribed.",
@@ -86,20 +84,19 @@
           "type": "subsection",
           "number": "4",
           "id": "146-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The condition referred to in sub-section (3)(a) shall not apply in respect of an undertaking which is formed as a result of the re-establishment, reconstruction or revival by the assessee of the business of any such undertaking as is referred to in section 140(4), in the circumstances and within the period specified in said section.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The condition referred to in sub-section (3)(a) shall not apply in respect of an undertaking which is formed as a result of the re-establishment, reconstruction or revival by the assessee of the business of any such undertaking as is referred to in section 140(4), in the circumstances and within the period specified in said section.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "146-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section,—",
@@ -108,115 +105,161 @@
               "type": "clause",
               "number": "a",
               "id": "146-5-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"additional employee cost\" means—",
-              "children": [
+              "text_before_sub_clauses": "\"additional employee cost\" means—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "146-5-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 14,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the total emoluments paid or payable to additional employees employed during the tax year; or"
+                  "text": "the total emoluments paid or payable to additional employees employed during the tax year; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "146-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "emoluments paid or payable to employees employed during the tax year, where that year is the first year of a new business, and it shall be nil in the case of an existing business, if—"
+                  "text_before_items": "emoluments paid or payable to employees employed during the tax year, where that year is the first year of a new business, and it shall be nil in the case of an existing business, if—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "146-5-a-ii-A",
+                      "indent": 0,
+                      "line_start": 16,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "there is no increase in the number of employees from the total number employed as on the last day of the preceding tax year; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "146-5-a-ii-B",
+                      "indent": 0,
+                      "line_start": 17,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "emoluments are paid otherwise than by an account payee cheque or account payee bank draft or by use of electronic clearing system through a bank account or through such other electronic mode, as may be prescribed;",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "b",
+                      "id": "146-5-a-ii-b",
+                      "indent": 0,
+                      "line_start": 18,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "\"additional employee\" means an employee who has been employed during the tax year and whose employment increases the total number of employees employed by the employer as on the last day of the preceding tax year, but does not include any employee—",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "146-5-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 19,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "whose total emoluments exceed Rs. 25000 per month;"
+                  "text": "whose total emoluments exceed Rs. 25000 per month;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "146-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 20,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "for whom the Government pays the entire contribution under the Employees' Pension Scheme notified as per the provisions of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952);"
+                  "text": "for whom the Government pays the entire contribution under the Employees' Pension Scheme notified as per the provisions of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952);",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "146-5-a-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 21,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "employed for less than one hundred and fifty days in case of an assessee who is engaged in the business of manufacturing of apparel or footwear or leather products, except where such employee is employed for said number of days in the immediately succeeding tax year, he shall be deemed as an additional employee of the succeeding tax year and the provisions of this section shall apply accordingly;"
+                  "text": "employed for less than one hundred and fifty days in case of an assessee who is engaged in the business of manufacturing of apparel or footwear or leather products, except where such employee is employed for said number of days in the immediately succeeding tax year, he shall be deemed as an additional employee of the succeeding tax year and the provisions of this section shall apply accordingly;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iv",
                   "id": "146-5-a-iv",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 22,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "employed for less than two hundred and forty days during the tax year in case of any other assessee, except where such employee is employed for said number of days in the immediately succeeding tax year, he shall be deemed as an additional employee of the succeeding tax year and the provisions of this section shall apply accordingly; and"
+                  "text": "employed for less than two hundred and forty days during the tax year in case of any other assessee, except where such employee is employed for said number of days in the immediately succeeding tax year, he shall be deemed as an additional employee of the succeeding tax year and the provisions of this section shall apply accordingly; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "v",
                   "id": "146-5-a-v",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 23,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "who does not participate in a recognised provident fund;"
+                  "text": "who does not participate in a recognised provident fund;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "c",
               "id": "146-5-c",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 24,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"emoluments\" means any sum paid or payable to an employee in lieu of his employment, by whatever name called, but does not include—",
-              "children": [
+              "text_before_sub_clauses": "\"emoluments\" means any sum paid or payable to an employee in lieu of his employment, by whatever name called, but does not include—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "146-5-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 25,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "employer contributions paid or payable to any pension or provident fund or any other fund for the benefit of the employee as mandated by any law; and"
+                  "text": "employer contributions paid or payable to any pension or provident fund or any other fund for the benefit of the employee as mandated by any law; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "146-5-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 26,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "lump sum payments paid or payable to an employee at the time of termination of his service, superannuation, or voluntary retirement, such as gratuity, severance pay, leave encashment, voluntary retrenchment benefits, commutation of pension and the like."
+                  "text": "lump sum payments paid or payable to an employee at the time of termination of his service, superannuation, or voluntary retirement, such as gratuity, severance pay, leave encashment, voluntary retrenchment benefits, commutation of pension and the like.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -226,5 +269,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

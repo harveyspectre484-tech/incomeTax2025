@@ -6,8 +6,8 @@
       "number": "40",
       "id": "40",
       "title": "Special provision for computation of cost of acquisition of certain assets.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "40-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of computation of income under the head \"Profits and gains of business or profession\", cost of acquisition of an asset which becomes property of—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "40-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "an amalgamated company under a scheme of amalgamation; or",
@@ -37,43 +37,47 @@
               "type": "clause",
               "number": "b",
               "id": "40-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
-              "text": "an assessee, under a gift, or will, or an irrevocable trust, or on total or partial partition of a Hindu undivided family, when sold as stock-in-trade shall be the sum of—",
-              "children": [
+              "text_before_sub_clauses": "an assessee, under a gift, or will, or an irrevocable trust, or on total or partial partition of a Hindu undivided family, when sold as stock-in-trade shall be the sum of—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "40-1-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "cost of acquisition of the said asset in the hands of the amalgamating company in case of clause (a), or the transferor or donor in case of clause (b);"
+                  "text": "cost of acquisition of the said asset in the hands of the amalgamating company in case of clause (a), or the transferor or donor in case of clause (b);",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "40-1-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any cost of improvement made;"
+                  "text": "any cost of improvement made;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "40-1-b-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any expenditure incurred by the amalgamating company or transferor or donor, as the case may be, wholly and exclusively in connection with such transfer."
+                  "text": "any expenditure incurred by the amalgamating company or transferor or donor, as the case may be, wholly and exclusively in connection with such transfer.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -82,13 +86,12 @@
           "type": "subsection",
           "number": "2",
           "id": "40-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 12,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "This section shall not apply to an asset referred to in section 67(6).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "This section shall not apply to an asset referred to in section 67(6).",
+          "children": []
         }
       ],
       "text_after_subsections": ""

@@ -1,18 +1,8 @@
 [
   {
-    "source_id": "112-1",
-    "source_type": "subsection",
-    "field": "text_before_clauses",
-    "anchor_text": "section 109",
-    "guessed_target_id": "109",
-    "guessed_target_type": "section",
-    "relationship": "depends_on",
-    "reason": "target_id not found in local unit index"
-  },
-  {
     "source_id": "112-3",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 33(11) or 45",
     "guessed_target_id": "33-11",
     "guessed_target_type": "subsection",

@@ -5,16 +5,45 @@
       "type": "section",
       "number": "422",
       "id": "422",
-      "title": "Recovery of tax arrear in respect of non-resident from his assets.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Irrespective of anything contained in section 304(1) or (5), where the person entitled to the income referred to in section 9(2) is a non-resident, the tax chargeable thereon, whether in his name or in the name of his agent who is liable as a representative assessee—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Irrespective of anything contained in section 304(1) or (5), where the person entitled to the income referred to in section 9(2) is a non-resident, the tax chargeable thereon, whether in his name or in the name of his agent who is liable as a representative assessee—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "422-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "may be recovered by deduction under the provisions of Chapter XIX-B; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "422-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "any arrears of tax may also be recovered as per the provisions of this Act from any assets of the non-resident which are, or may at any time come, within India.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Recovery of tax arrear in respect of non-resident from his assets."
+    }
+  ]
 }

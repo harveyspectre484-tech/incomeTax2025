@@ -2,7 +2,7 @@
   {
     "source_id": "124-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 202(1)",
     "guessed_target_id": "202-1",
     "guessed_target_type": "subsection",
@@ -12,7 +12,7 @@
   {
     "source_id": "124-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "clause (b)",
     "guessed_target_id": "124-2-b",
     "guessed_target_type": "clause",
@@ -22,7 +22,7 @@
   {
     "source_id": "124-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 123",
     "guessed_target_id": "123",
     "guessed_target_type": "section",
@@ -52,7 +52,7 @@
   {
     "source_id": "124-7",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "sub-section (6)(a)",
     "guessed_target_id": "124-6-a",
     "guessed_target_type": "clause",
@@ -62,7 +62,7 @@
   {
     "source_id": "124-10",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 123",
     "guessed_target_id": "123",
     "guessed_target_type": "section",
@@ -72,7 +72,7 @@
   {
     "source_id": "124-11",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "paragraph 1",
     "guessed_target_id": "para-1",
     "guessed_target_type": "paragraph",
@@ -82,7 +82,7 @@
   {
     "source_id": "124-11",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule XV",
     "guessed_target_id": "schedule-XV",
     "guessed_target_type": "schedule",

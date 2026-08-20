@@ -2,7 +2,7 @@
   {
     "source_id": "222-7",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 224(10)(a)",
     "guessed_target_id": "224-10-a",
     "guessed_target_type": "clause",
@@ -12,7 +12,7 @@
   {
     "source_id": "222-8",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "Schedule V",
     "guessed_target_id": "schedule-V",
     "guessed_target_type": "schedule",

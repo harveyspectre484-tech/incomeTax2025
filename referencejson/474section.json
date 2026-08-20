@@ -5,14 +5,13 @@
       "type": "section",
       "number": "474",
       "id": "474",
-      "title": "20 [Failure to afford facility for inspection of books of account during search.]",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If a person, who is required to afford the authorised officer with the necessary facility to inspect the books of account or other documents, under section 247(1)(ii), fails to do so, he shall be punishable with 21[simple imprisonment for a term up to six months, or with fine, or with both].",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text": "If a person, who is required to afford the authorised officer with the necessary facility to inspect the books of account or other documents, under section 247(1)(ii), fails to do so, he shall be punishable with 21[simple imprisonment for a term up to six months, or with fine, or with both].",
+      "children": [],
       "references": [
         {
           "reference_id": "ref-474-001",
@@ -41,5 +40,16 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "20 [Failure to afford facility for inspection of books of account during search.]"
+    }
+  ]
 }

@@ -5,21 +5,21 @@
       "type": "section",
       "number": "4",
       "id": "4",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 3,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Association of persons and body of individuals",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Association of persons and body of individuals",
+      "children": []
     },
     {
       "type": "section",
       "number": "309",
       "id": "309",
       "title": "Method of computing a member's share in income of association of persons or body of individuals.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -28,20 +28,19 @@
           "type": "subsection",
           "number": "1",
           "id": "309-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, sections 310 and 311, an association of persons or body of individuals shall not include a company or a cooperative society or a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law corresponding to that Act in force in any part of India.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, sections 310 and 311, an association of persons or body of individuals shall not include a company or a cooperative society or a society registered under the Societies Registration Act, 1860 (21 of 1860), or under any law corresponding to that Act in force in any part of India.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "309-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In computing the total income of an assessee who is a member of an association of persons or a body of individuals wherein the shares of the members are determinate and known, the share of a member in the income or loss of such association or body shall be computed in the following manner,—",
@@ -50,8 +49,8 @@
               "type": "clause",
               "number": "a",
               "id": "309-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "any interest, salary, bonus, commission or remuneration, by whatever name called, paid to any member in respect of the tax year shall be deducted from the total income of the association or body and the balance ascertained and apportioned among the members in the proportions in which they are entitled to share in the income of the association or body;",
@@ -61,33 +60,36 @@
               "type": "clause",
               "number": "b",
               "id": "309-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
-              "text": "the interest, salary, bonus, commission or remuneration referred to in clause (a), shall be,—",
-              "children": [
+              "text_before_sub_clauses": "the interest, salary, bonus, commission or remuneration referred to in clause (a), shall be,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "309-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "added to the apportioned amount referred to in clause (a), if such apportioned amount is a profit; or"
+                  "text": "added to the apportioned amount referred to in clause (a), if such apportioned amount is a profit; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "309-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "adjusted against the apportioned amount referred to in clause (a), if such apportioned amount is a loss, and the resultant amount shall be treated as the share of the member in the income of such association or body."
+                  "text": "adjusted against the apportioned amount referred to in clause (a), if such apportioned amount is a loss, and the resultant amount shall be treated as the share of the member in the income of such association or body.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -96,42 +98,45 @@
           "type": "subsection",
           "number": "3",
           "id": "309-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The share of a member in the income or loss of the association or body, as computed under sub-section (2), shall, for the purposes of assessment, be apportioned under the various heads of income in the same manner in which the income or loss of the association or body has been determined under each head of income.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The share of a member in the income or loss of the association or body, as computed under sub-section (2), shall, for the purposes of assessment, be apportioned under the various heads of income in the same manner in which the income or loss of the association or body has been determined under each head of income.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "309-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 14,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Any interest paid by a member on capital borrowed by him for the purposes of investment in the association or body shall, in computing his share chargeable under the head \"Profits and gains of business or profession\" in respect of his share in the income of the association or body, be deducted from his share.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Any interest paid by a member on capital borrowed by him for the purposes of investment in the association or body shall, in computing his share chargeable under the head \"Profits and gains of business or profession\" in respect of his share in the income of the association or body, be deducted from his share.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "309-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 15,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"paid\" means actually paid or incurred according to the method of accounting upon the basis of which the profits or gains are computed under the head \"Profits and gains of business or profession\".",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, \"paid\" means actually paid or incurred according to the method of accounting upon the basis of which the profits or gains are computed under the head \"Profits and gains of business or profession\".",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

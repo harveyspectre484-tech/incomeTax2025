@@ -5,9 +5,9 @@
       "type": "section",
       "number": "29",
       "id": "29",
-      "title": "Deductions related to employee welfare.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "29-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: —",
@@ -26,40 +26,43 @@
               "type": "clause",
               "number": "a",
               "id": "29-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
-              "text": "any sum paid by way of contribution towards a recognised provident fund or an approved superannuation fund, subject to—",
-              "children": [
+              "text_before_sub_clauses": "any sum paid by way of contribution towards a recognised provident fund or an approved superannuation fund, subject to—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "29-1-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 7,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such limits, as may be prescribed, for recognising the provident fund or approving the superannuation fund; and"
+                  "text": "such limits, as may be prescribed, for recognising the provident fund or approving the superannuation fund; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "29-1-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 8,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such conditions, as the Board may specify, for cases where the contributions are not made annually either as fixed amounts, or annual contributions fixed on some definite basis by reference to the income chargeable under the head \"Salaries\" or the contributions or to the number of members of the fund;"
+                  "text": "such conditions, as the Board may specify, for cases where the contributions are not made annually either as fixed amounts, or annual contributions fixed on some definite basis by reference to the income chargeable under the head \"Salaries\" or the contributions or to the number of members of the fund;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "29-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "any sum paid by way of contribution towards a pension scheme referred to in section 124, for an employee up to 14% of the salary of the employee in the tax year, where such salary includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites;",
@@ -79,8 +82,8 @@
               "type": "clause",
               "number": "c",
               "id": "29-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
               "text": "any sum paid by way of contribution towards an approved gratuity fund created by the assessee for the exclusive benefit of his employees under an irrevocable trust;",
@@ -90,8 +93,8 @@
               "type": "clause",
               "number": "d",
               "id": "29-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year;",
@@ -111,8 +114,8 @@
               "type": "clause",
               "number": "e",
               "id": "29-1-e",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
               "footnote_refs": [
@@ -156,8 +159,8 @@
           "type": "subsection",
           "number": "2",
           "id": "29-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -166,8 +169,8 @@
               "type": "clause",
               "number": "a",
               "id": "29-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "Subject to the provisions of sub-section (1)(d), no deduction shall be allowed for any provision made for the payment of gratuity to the employees on their retirement or termination for any reason; and",
@@ -187,8 +190,8 @@
               "type": "clause",
               "number": "b",
               "id": "29-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "in case deduction has been allowed for any provision made under sub- section (1)(d), then no deduction shall be allowed on actual payment made from such provision.",
@@ -201,20 +204,34 @@
           "type": "subsection",
           "number": "3",
           "id": "29-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 15,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No deduction shall be allowed in respect of any sum paid by the assessee as an employer towards setting up or formation of, or as contribution to, any fund, trust, company, association of persons, body of individuals, society registered under the Societies Registration Act, 1860 (21 of 1860), or other institution for any purpose, except where such sum is so paid, for the purposes and to the extent provided by or under sub-section (1)(a) or (b) or (c), or as required by or under any other law in force.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "No deduction shall be allowed in respect of any sum paid by the assessee as an employer towards setting up or formation of, or as contribution to, any fund, trust, company, association of persons, body of individuals, society registered under the Societies Registration Act, 1860 (21 of 1860), or other institution for any purpose, except where such sum is so paid, for the purposes and to the extent provided by or under sub-section (1)(a) or (b) or (c), or as required by or under any other law in force.",
           "references": [
             {
               "reference_id": "ref-29-3-001",
               "target_id": "29-1-a",
               "target_type": "clause",
-              "anchor_text": "sub-section (1)(a) or (b)",
-              "relationship": "depends_on",
+              "anchor_text": "sub-section (1)(a) or (b) or (c)",
+              "relationship": "subject_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-29-3-002",
+              "target_id": "29-1-b",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) or (b) or (c)",
+              "relationship": "subject_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-29-3-003",
+              "target_id": "29-1-c",
+              "target_type": "clause",
+              "anchor_text": "sub-section (1)(a) or (b) or (c)",
+              "relationship": "subject_to",
               "confidence": "high"
             }
           ]
@@ -229,8 +246,22 @@
       "number": "7",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (e) read as under : '(e) (i) the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds by the due date;",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "29-1-e"
+      ]
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Deductions related to employee welfare."
+    }
+  ],
+  "footnote_reference_map": {
+    "7": [
+      "29-1-e"
+    ]
+  }
 }

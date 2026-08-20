@@ -6,13 +6,509 @@
       "number": "32",
       "id": "32",
       "title": "Other deductions.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "The following amounts shall be allowed as deduction in computing income chargeable under section 26:—",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text_before_clauses": "The following amounts shall be allowed as deduction in computing income chargeable under section 26:—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "32-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "bonus or commission paid to an employee for services rendered, but only when such amount would not have been payable to the employee as profits or dividend if it had not been paid as bonus or commission;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "32-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "interest paid in respect of capital borrowed for the purposes of business or profession, where—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-b-i",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such interest shall not include interest on capital borrowed for acquisition of an asset, whether capitalised in the books of account or not, for any period beginning from the date the capital was borrowed for acquisition of the asset till the date that asset was first put to use;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-b-ii",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "recurring subscriptions paid periodically by shareholders or subscribers in Mutual Benefit Societies fulfilling the conditions as may be prescribed, shall be deemed to be capital borrowed;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "32-c",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "contribution paid by a public financial institution to the credit guarantee fund trust for small industries as the Central Government may, by notification, specify;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "32-d",
+          "indent": 0,
+          "line_start": 11,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "the pro rata amount of discount on a zero coupon bond having regard to the period of life of such bond calculated in the manner, as may be prescribed, where—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-d-i",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"discount\" means the difference between the amount received or receivable by the infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank issuing the bond, and the amount payable on maturity or redemption of such bond;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-d-ii",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"period of life of bond\" means the period commencing from the date of issue of the bond and ending on the date of the maturity or redemption of such bond;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "32-e",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "the amount carried to a special reserve created and maintained by a specified entity, subject to the following conditions:—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-e-i",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such amount shall not exceed 20% of the profits derived from an eligible business computed under the head \"Profits and gains of business or profession\" before any deductions under this clause; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-e-ii",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_items": "when the aggregate of such amounts carried to such reserve account from time to time exceeds twice the amount of paid-up share capital and of general reserves of the specified entity, no deduction shall be allowable on such excess, and for the purposes of this clause,—",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "A",
+                  "id": "32-e-ii-A",
+                  "indent": 0,
+                  "line_start": 18,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"specified entity\" means—",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "I",
+                  "id": "32-e-ii-I",
+                  "indent": 0,
+                  "line_start": 19,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a public financial institution as specified in section 2(72) of the Companies Act, 2013 (18 of 2013);",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "II",
+                  "id": "32-e-ii-II",
+                  "indent": 0,
+                  "line_start": 20,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a financial corporation which is a public sector company;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "III",
+                  "id": "32-e-ii-III",
+                  "indent": 0,
+                  "line_start": 21,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a banking company;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "IV",
+                  "id": "32-e-ii-IV",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a co-operative bank other than a primary agricultural credit society or a primary co-operative agricultural and rural development bank;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "V",
+                  "id": "32-e-ii-V",
+                  "indent": 0,
+                  "line_start": 23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a housing finance company; and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "VI",
+                  "id": "32-e-ii-VI",
+                  "indent": 0,
+                  "line_start": 24,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any other financial corporation including a public company;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "B",
+                  "id": "32-e-ii-B",
+                  "indent": 0,
+                  "line_start": 25,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"eligible business\" means,—",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "I",
+                  "id": "32-e-ii-I",
+                  "indent": 0,
+                  "line_start": 26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of any of the specified entities referred to in clause (e)(A)(I) to (IV), the business of providing long-term finance for—",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "a",
+                  "id": "32-e-ii-a",
+                  "indent": 0,
+                  "line_start": 27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "industrial or agricultural development;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "b",
+                  "id": "32-e-ii-b",
+                  "indent": 0,
+                  "line_start": 28,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "development of infrastructure facility in India; or",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "c",
+                  "id": "32-e-ii-c",
+                  "indent": 0,
+                  "line_start": 29,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "development of housing in India;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "II",
+                  "id": "32-e-ii-II",
+                  "indent": 0,
+                  "line_start": 30,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of the specified entity referred to in clause (e)(A)(V), the business of providing long-term finance for the construction or purchase of houses in India for residential purposes; and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "III",
+                  "id": "32-e-ii-III",
+                  "indent": 0,
+                  "line_start": 31,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in respect of the specified entity referred to in clause (e)(A)(VI), the business of providing long-term finance for development of infrastructure facility in India;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "C",
+                  "id": "32-e-ii-C",
+                  "indent": 0,
+                  "line_start": 32,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"infrastructure facility\" means—",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "I",
+                  "id": "32-e-ii-I",
+                  "indent": 0,
+                  "line_start": 33,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an infrastructure facility as defined in Explanation to section 80-IA(4)(i) of the Income-tax Act, 1961 (43 of 1961) or any other public facility of a similar nature as may be notified by the Board in this behalf and which fulfils the conditions as may be prescribed;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "II",
+                  "id": "32-e-ii-II",
+                  "indent": 0,
+                  "line_start": 34,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an undertaking referred to in section 80-IA(4)(ii) or (iii) or (iv) or (vi) of the Income-tax Act, 1961 (43 of 1961); and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "III",
+                  "id": "32-e-ii-III",
+                  "indent": 0,
+                  "line_start": 35,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "an undertaking referred to in section 80-IB(10) of the Income-tax Act, 1961 (43 of 1961);",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "f",
+                  "id": "32-e-ii-f",
+                  "indent": 0,
+                  "line_start": 36,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any expenditure, not being capital expenditure, incurred by a corporation or a body corporate, by whatever name called, if,—",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-e-i",
+              "indent": 0,
+              "line_start": 37,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is constituted or established by a Central Act or State Act or Provincial Act;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-e-ii",
+              "indent": 0,
+              "line_start": 38,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is notified by the Central Government for the purposes of this clause having regard to the objects and purposes of the Act referred to in sub-clause (i); and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "32-e-iii",
+              "indent": 0,
+              "line_start": 39,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expenditure is incurred for the objects and purposes authorised by the Act under which it is constituted or established;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "32-g",
+          "indent": 0,
+          "line_start": 40,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the expenditure incurred by a co-operative society engaged in the business of manufacture of sugar, on purchase of sugarcane at a price equal to or less than the price fixed or approved by the Government;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "32-h",
+          "indent": 0,
+          "line_start": 41,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "marked to market loss or other expected loss as computed as per the income computation and disclosure standards notified under section 276(2);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-32-h-001",
+              "target_id": "276-2",
+              "target_type": "subsection",
+              "anchor_text": "section 276(2)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "32-i",
+          "indent": 0,
+          "line_start": 42,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "any expenditure bona fide incurred by a company for the purpose of promoting family planning amongst its employees, subject to the following conditions:—",
+          "items": [
+            {
+              "type": "item",
+              "number": "A",
+              "id": "32-i-A",
+              "indent": 0,
+              "line_start": 43,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if such expenditure or any part of it is of capital nature, one-fifth of it shall be deducted for the tax year in which it was incurred and the balance shall be deducted in equal instalments for each of the four immediately succeeding tax years;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "B",
+              "id": "32-i-B",
+              "indent": 0,
+              "line_start": 44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of sections 33(11) and 112(3) shall apply to deduction under this clause as they apply in relation to deductions allowable in respect of depreciation;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "C",
+              "id": "32-i-C",
+              "indent": 0,
+              "line_start": 45,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of sections 38(1)(c), 39(4) (Table: Sl. No. 9), 45(6) and (10), shall apply to an asset representing capital expenditure for promoting family planning, to the extent they apply to an asset representing capital expenditure on scientific research;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "j",
+              "id": "32-i-j",
+              "indent": 0,
+              "line_start": 46,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount being difference between the actual cost of animals used for the purposes of the business or profession otherwise than as stock-in-trade and the amount realised from the carcasses or animals, where such animals have died or become permanently useless; and",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "k",
+              "id": "32-i-k",
+              "indent": 0,
+              "line_start": 47,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount paid as securities transaction tax or commodities transaction tax, if—",
+              "children": []
+            }
+          ],
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-i-i",
+              "indent": 0,
+              "line_start": 48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the taxable securities transactions or taxable commodities transactions are entered into the course of the business during the tax year; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-i-ii",
+              "indent": 0,
+              "line_start": 49,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the income arising from such taxable securities transactions or taxable commodities transactions is included in the income computed under the head \"Profits and gains of business or profession\".",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": "",
       "references": [
         {
           "reference_id": "ref-32-001",
@@ -26,5 +522,16 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

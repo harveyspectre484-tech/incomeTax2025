@@ -6,8 +6,8 @@
       "number": "416",
       "id": "416",
       "title": "Other modes of recovery.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,13 +16,12 @@
           "type": "subsection",
           "number": "1",
           "id": "416-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where no certificate has been drawn up under section 413, the Assessing Officer may recover the tax by any one or more of the modes provided in this section.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where no certificate has been drawn up under section 413, the Assessing Officer may recover the tax by any one or more of the modes provided in this section.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-416-1-001",
@@ -38,13 +37,12 @@
           "type": "subsection",
           "number": "2",
           "id": "416-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where a certificate has been drawn up under section 413, the Tax Recovery Officer may, without prejudice to the modes of recovery specified in that section, recover the tax by any one or more of the modes provided in this section.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Where a certificate has been drawn up under section 413, the Tax Recovery Officer may, without prejudice to the modes of recovery specified in that section, recover the tax by any one or more of the modes provided in this section.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-416-2-001",
@@ -60,25 +58,23 @@
           "type": "subsection",
           "number": "3",
           "id": "416-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "If any assessee is in receipt of any income chargeable under the head \"Salaries\", the Assessing Officer or Tax Recovery Officer may require any person paying the same to deduct from any payment subsequent to the date of such requisition any arrears of tax due from such assessee and such person shall comply with the said requisition and shall pay the sum so deducted to the credit of the Central Government or as the Board directs.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "If any assessee is in receipt of any income chargeable under the head \"Salaries\", the Assessing Officer or Tax Recovery Officer may require any person paying the same to deduct from any payment subsequent to the date of such requisition any arrears of tax due from such assessee and such person shall comply with the said requisition and shall pay the sum so deducted to the credit of the Central Government or as the Board directs.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "4",
           "id": "416-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Nothing contained in sub-section (3) shall apply to any part of the salary exempted from attachment in execution of a decree of a civil court under section 60 of the Code of Civil Procedure, 1908 (5 of 1908).",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "Nothing contained in sub-section (3) shall apply to any part of the salary exempted from attachment in execution of a decree of a civil court under section 60 of the Code of Civil Procedure, 1908 (5 of 1908).",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-416-4-001",
@@ -102,8 +98,8 @@
           "type": "subsection",
           "number": "5",
           "id": "416-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "",
@@ -112,40 +108,67 @@
               "type": "clause",
               "number": "a",
               "id": "416-5-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
-              "text": "The Assessing Officer or Tax Recovery Officer may, at any time or from time to time, by notice in writing require any person—",
-              "children": [
+              "text_before_sub_clauses": "The Assessing Officer or Tax Recovery Officer may, at any time or from time to time, by notice in writing require any person—",
+              "items": [
                 {
-                  "type": "sub-clause",
-                  "number": "i",
-                  "id": "416-5-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "type": "item",
+                  "number": "I",
+                  "id": "416-5-a-I",
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "either forthwith upon the money becoming due or being held; or"
+                  "text": "from whom money is due or may become due to the assessee; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "416-5-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "type": "item",
+                  "number": "II",
+                  "id": "416-5-a-II",
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "at or within the time specified in the notice (not being before the money becomes due or is held), so much of the money as is sufficient to pay the amount due by the assessee in respect of arrears or the whole of the money when it is equal to or less than that amount."
+                  "text": "who holds or may subsequently hold money for or on account of the assessee, to pay to the Assessing Officer or Tax Recovery Officer—",
+                  "children": []
                 }
-              ]
+              ],
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "416-5-a-i",
+                  "indent": 0,
+                  "line_start": 14,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "either forthwith upon the money becoming due or being held; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "416-5-a-ii",
+                  "indent": 0,
+                  "line_start": 15,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "at or within the time specified in the notice (not being before the money becomes due or is held), so much of the money as is sufficient to pay the amount due by the assessee in respect of arrears or the whole of the money when it is equal to or less than that amount.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "416-5-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 17,
               "page_start": 1,
               "page_end": 1,
               "text": "A notice under this sub-section may be issued to any person who holds or may subsequently hold any money for or on account of the assessee jointly with any other person.",
@@ -155,62 +178,56 @@
               "type": "clause",
               "number": "d",
               "id": "416-5-d",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 18,
               "page_start": 1,
               "page_end": 1,
-              "text": "A copy of the notice under this sub-section shall be forwarded to—",
-              "children": [
+              "text_before_sub_clauses": "A copy of the notice under this sub-section shall be forwarded to—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "416-5-d-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 19,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the assessee; and"
+                  "text": "the assessee; and",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "c",
               "id": "416-5-c",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 20,
               "page_start": 1,
               "page_end": 1,
-              "text": "For the purposes of this sub-section, the shares of the joint holders in the account, as referred in clause (b), shall be presumed, until the contrary is proved, to be equal.",
-              "children": [
+              "text_before_sub_clauses": "For the purposes of this sub-section, the shares of the joint holders in the account, as referred in clause (b), shall be presumed, until the contrary is proved, to be equal.",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "416-5-c-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 21,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in the case of a joint account to all the joint holders, at his or their last addresses known to the Assessing Officer or Tax Recovery Officer."
+                  "text": "in the case of a joint account to all the joint holders, at his or their last addresses known to the Assessing Officer or Tax Recovery Officer.",
+                  "children": []
                 }
               ],
-              "references": [
-                {
-                  "reference_id": "ref-416-5-c-001",
-                  "target_id": "416-5-b",
-                  "target_type": "clause",
-                  "anchor_text": "clause (b)",
-                  "relationship": "related_to",
-                  "confidence": "high"
-                }
-              ]
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "e",
               "id": "416-5-e",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 23,
               "page_start": 1,
               "page_end": 1,
               "text": "Save as otherwise provided in this sub-section, every person to whom a notice is issued under that sub-section shall be bound to comply with such notice, and, in particular, where any such notice is issued to a post office, banking company or an insurer, it shall not be necessary for any pass book, deposit receipt, policy or any other document to be produced for the purpose of any entry, endorsement or the like being made before payment is made, irrespective of any rule, practice or requirement to the contrary.",
@@ -220,8 +237,8 @@
               "type": "clause",
               "number": "f",
               "id": "416-5-f",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 24,
               "page_start": 1,
               "page_end": 1,
               "text": "Any claim respecting any property in relation to which a notice under this sub-section has been issued arising after the date of the notice shall be void as against any demand contained in the notice.",
@@ -231,8 +248,8 @@
               "type": "clause",
               "number": "g",
               "id": "416-5-g",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 25,
               "page_start": 1,
               "page_end": 1,
               "text": "Where a person, to whom a notice under this sub-section is issued, objects to it by a statement on oath that—",
@@ -242,8 +259,8 @@
               "type": "clause",
               "number": "a",
               "id": "416-5-a",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 26,
               "page_start": 1,
               "page_end": 1,
               "text": "the sum demanded or any part thereof is not due to the assessee; or",
@@ -253,8 +270,8 @@
               "type": "clause",
               "number": "b",
               "id": "416-5-b",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 27,
               "page_start": 1,
               "page_end": 1,
               "text": "he does not hold any money for or on account of the assessee, then nothing contained in that sub-section shall be deemed to require such person to pay any such sum or part thereof.",
@@ -264,8 +281,8 @@
               "type": "clause",
               "number": "h",
               "id": "416-5-h",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 29,
               "page_start": 1,
               "page_end": 1,
               "text": "Where it is discovered that the statement given by a person under clause (g) was false in any material particular, such person shall be personally liable to the Assessing Officer or Tax Recovery Officer to the extent of his own liability to the assessee on the date of the notice, or to the extent of the assessee's liability for any sum due under this Act, whichever is less.",
@@ -285,8 +302,8 @@
               "type": "clause",
               "number": "i",
               "id": "416-5-i",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 30,
               "page_start": 1,
               "page_end": 1,
               "text": "The Assessing Officer or Tax Recovery Officer may, at any time or from time to time, amend or revoke any notice issued under this sub-section or extend the time for making any payment in pursuance of a notice issued under the said sub-section.",
@@ -296,8 +313,8 @@
               "type": "clause",
               "number": "j",
               "id": "416-5-j",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 31,
               "page_start": 1,
               "page_end": 1,
               "text": "The Assessing Officer or Tax Recovery Officer shall grant a receipt for any amount paid in compliance with a notice issued under this sub-section, and the person so paying shall be fully discharged from his liability to the assessee to the extent of the amount so paid.",
@@ -307,65 +324,71 @@
               "type": "clause",
               "number": "k",
               "id": "416-5-k",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 32,
               "page_start": 1,
               "page_end": 1,
-              "text": "Any person discharging any liability to the assessee after receipt of a notice under this sub-section shall be personally liable to the Assessing Officer or the Tax Recovery Officer—",
-              "children": [
+              "text_before_sub_clauses": "Any person discharging any liability to the assessee after receipt of a notice under this sub-section shall be personally liable to the Assessing Officer or the Tax Recovery Officer—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "416-5-k-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 33,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "to the extent of his own liability to the assessee so discharged; or"
+                  "text": "to the extent of his own liability to the assessee so discharged; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "416-5-k-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 34,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "to the extent of the assessee's liability for any sum due under this Act, whichever is less."
+                  "text": "to the extent of the assessee's liability for any sum due under this Act, whichever is less.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "l",
               "id": "416-5-l",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 36,
               "page_start": 1,
               "page_end": 1,
-              "text": "If the person to whom a notice under this sub-section is issued fails to make payment in pursuance thereof to the Assessing Officer or Tax Recovery Officer,—",
-              "children": [
+              "text_before_sub_clauses": "If the person to whom a notice under this sub-section is issued fails to make payment in pursuance thereof to the Assessing Officer or Tax Recovery Officer,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "416-5-l-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 37,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "he shall be deemed to be an assessee in default in respect of the amount specified in the notice and further proceedings may be taken against him for the realisation of the amount as if it were an arrear of tax due from him, in the manner provided in sections 413 to 415; and"
+                  "text": "he shall be deemed to be an assessee in default in respect of the amount specified in the notice and further proceedings may be taken against him for the realisation of the amount as if it were an arrear of tax due from him, in the manner provided in sections 413 to 415; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "416-5-l-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 38,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the notice shall have the same effect as an attachment of a debt by the Tax Recovery Officer in exercise of his powers under section 413."
+                  "text": "the notice shall have the same effect as an attachment of a debt by the Tax Recovery Officer in exercise of his powers under section 413.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -374,8 +397,8 @@
           "type": "subsection",
           "number": "6",
           "id": "416-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 39,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Assessing Officer or Tax Recovery Officer may apply to the court in whose custody there is money belonging to the assessee—",
@@ -384,8 +407,8 @@
               "type": "clause",
               "number": "a",
               "id": "416-6-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 40,
               "page_start": 1,
               "page_end": 1,
               "text": "for payment to him of the entire amount of such money; or (b) if it is more than the tax due, an amount sufficient to discharge the tax.",
@@ -398,18 +421,23 @@
           "type": "subsection",
           "number": "7",
           "id": "416-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 41,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Assessing Officer or Tax Recovery Officer may, if so authorised by an income-tax authority not below the rank of Commissioner by general or special order, recover any arrears of tax due from an assessee by distraint and sale of his movable property in the manner as may be prescribed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Assessing Officer or Tax Recovery Officer may, if so authorised by an income-tax authority not below the rank of Commissioner by general or special order, recover any arrears of tax due from an assessee by distraint and sale of his movable property in the manner as may be prescribed.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    }
+  ]
 }

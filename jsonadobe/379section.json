@@ -6,21 +6,20 @@
       "number": "1",
       "id": "1",
       "title": "D. —Alternate Dispute Resolutions",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Dispute Resolution Committee in certain cases",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Dispute Resolution Committee in certain cases",
+      "children": []
     },
     {
       "type": "section",
       "number": "379",
       "id": "379",
       "title": "Dispute Resolution Committee.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 9,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -29,32 +28,30 @@
           "type": "subsection",
           "number": "1",
           "id": "379-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Central Government shall constitute, one or more Dispute Resolution Committees, as per the rules made under this Act, for dispute resolution in the case of such persons or class of persons, as specified by the Board, who opt for dispute resolution under this Chapter in respect of dispute arising from any variation in the specified order in his case and who fulfils the specified conditions, as may be prescribed.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Central Government shall constitute, one or more Dispute Resolution Committees, as per the rules made under this Act, for dispute resolution in the case of such persons or class of persons, as specified by the Board, who opt for dispute resolution under this Chapter in respect of dispute arising from any variation in the specified order in his case and who fulfils the specified conditions, as may be prescribed.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "379-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Dispute Resolution Committee, subject to the conditions as may be prescribed, may make modifications to the variations in specified order or reduce or 80[waive any penalty imposed or imposable] under this Act, or grant immunity from prosecution for any offence punishable under this Act, in case of a person whose dispute is resolved under this Chapter.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Dispute Resolution Committee, subject to the conditions as may be prescribed, may make modifications to the variations in specified order or reduce or 80[waive any penalty imposed or imposable] under this Act, or grant immunity from prosecution for any offence punishable under this Act, in case of a person whose dispute is resolved under this Chapter.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "379-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in section 275, upon receipt of the order of the Dispute Resolution Committee under this section, the Assessing Officer shall,—",
@@ -63,8 +60,8 @@
               "type": "clause",
               "number": "a",
               "id": "379-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
               "text": "in a case where the specified order is a draft of the proposed order of assessment under section 275(1), pass an order of assessment, reassessment or recomputation; or",
@@ -74,8 +71,8 @@
               "type": "clause",
               "number": "b",
               "id": "379-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
               "text": "in any other case, modify the order of assessment, reassessment or recomputation, in conformity with the directions contained in the order of the Dispute Resolution Committee within one month from the end of the month in which such order is received.",
@@ -88,13 +85,47 @@
           "type": "subsection",
           "number": "4",
           "id": "379-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 15,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"specified order\" means such order, including draft order, as specified by the Board, and—",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text_before_sub_clauses": "For the purposes of this section, \"specified order\" means such order, including draft order, as specified by the Board, and—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "379-4-i",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the aggregate sum of variations proposed or made in such order does not exceed ten lakh rupees;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "379-4-ii",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such order is not based on search initiated under section 247 or requisition under section 248 in the case of assessee or any other person or survey under section 253 or information received under an agreement referred to in section 159(1) or (2);",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "379-4-iii",
+              "indent": 0,
+              "line_start": 18,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where the assessee has filed a return for the tax year relevant to such order, total income as per such return does not exceed fifty lakh rupees.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
         }
       ],
       "text_after_subsections": ""
@@ -109,5 +140,11 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

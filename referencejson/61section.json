@@ -1,0 +1,367 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "61",
+      "id": "61",
+      "title": "Special provision for computation of income on presumptive basis in respect of certain business activities of certain non-residents.",
+      "indent": 0,
+      "line_start": 6,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "61-1",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of sections 26 to 54, to the extent contrary to this section, shall not apply to the manner of computation of profits and gains of the specified business in sub-section (2).",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-1-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-61-1-002",
+              "target_id": "26",
+              "target_type": "section",
+              "anchor_text": "sections 26 to 54",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "61-2",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The profits and gains of any specified business as mentioned in column B of the Table below, carried on by a specified assessee as mentioned in column C of the said Table during a tax year, shall be computed in the manner specified in column D thereof, and shall be deemed to be the profits and gains of such business of such assessee chargeable to tax for the said tax year under the head \"Profits and gains of business or profession\".",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "61-2-table-1",
+            "title": "TABLE",
+            "format": "borderless",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 10,
+            "line_end": 17,
+            "columns": [
+              "Sl. No.",
+              "Nature of sum",
+              "Amount of deduction"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Business of operation of ships, other than cruise ships referred to in Serial number 2. Non- resident. 7.5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods shipped at any port in India, whether paid or payable, in or outside India, to the assessee or any other person on his behalf (including demurrage, handling or other similar charges); B = sum on account of carriage of passengers, livestock, mail or goods shipped at any port outside India, whether received or deemed to be received in India, by the assessee or any other person on his behalf (including demurrage, handling or other similar charges).",
+                "column_C": "",
+                "raw_text": "Business of operation of ships, other than cruise ships referred to in Serial number 2. Non- resident. 7.5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods shipped at any port in India, whether paid or payable, in or outside India, to the assessee or any other person on his behalf (including demurrage, handling or other similar charges); B = sum on account of carriage of passengers, livestock, mail or goods shipped at any port outside India, whether received or deemed to be received in India, by the assessee or any other person on his behalf (including demurrage, handling or other similar charges)."
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Business of operation of cruise ships (subject to the conditions as may be prescribed). Non- resident. 20% of (A+B), where,— A = sum on account of carriage of passengers, paid or payable to the assessee or any other person on his behalf; B = sum on account of carriage of passengers received or deemed to be received by the assessee or any other person on his behalf.",
+                "column_C": "",
+                "raw_text": "Business of operation of cruise ships (subject to the conditions as may be prescribed). Non- resident. 20% of (A+B), where,— A = sum on account of carriage of passengers, paid or payable to the assessee or any other person on his behalf; B = sum on account of carriage of passengers received or deemed to be received by the assessee or any other person on his behalf."
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Business of operation of aircraft. Non- resident. 5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods from any place in India, paid or payable (in or outside India) to the assessee or any other person on his behalf; B = sum on account of carriage of passengers, livestock, mail or goods from any place outside India, received or deemed to be received in India, by the assessee or any other person on his behalf.",
+                "column_C": "",
+                "raw_text": "Business of operation of aircraft. Non- resident. 5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods from any place in India, paid or payable (in or outside India) to the assessee or any other person on his behalf; B = sum on account of carriage of passengers, livestock, mail or goods from any place outside India, received or deemed to be received in India, by the assessee or any other person on his behalf."
+              },
+              {
+                "item_no": 4,
+                "column_A": "",
+                "column_B": "Business of civil construction or erection or testing or commissioning, of plant or machinery, in connection with a turnkey power project, approved by the Central Government. Foreign company. 10% of the amount towards such civil construction, erection, testing, or commissioning, paid or payable, to the assessee or to any other person on his behalf, whether in or outside India.",
+                "column_C": "",
+                "raw_text": "Business of civil construction or erection or testing or commissioning, of plant or machinery, in connection with a turnkey power project, approved by the Central Government. Foreign company. 10% of the amount towards such civil construction, erection, testing, or commissioning, paid or payable, to the assessee or to any other person on his behalf, whether in or outside India."
+              },
+              {
+                "item_no": 5,
+                "column_A": "",
+                "column_B": "Business of providing services or facilities (including supply of plant and machinery on hire) for prospecting, extraction or production of mineral oils. Non- resident. 10% of (A+B), where,— A = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils in India, paid or payable (in or outside India), to the assessee or any other person on his behalf; B = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils outside India, received or deemed to be received in India, by the assessee or any other person on his behalf.",
+                "column_C": "",
+                "raw_text": "Business of providing services or facilities (including supply of plant and machinery on hire) for prospecting, extraction or production of mineral oils. Non- resident. 10% of (A+B), where,— A = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils in India, paid or payable (in or outside India), to the assessee or any other person on his behalf; B = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils outside India, received or deemed to be received in India, by the assessee or any other person on his behalf."
+              },
+              {
+                "item_no": 6,
+                "column_A": "",
+                "column_B": "Business of providing services or technology in India, for the purposes of setting up an electronics manufacturing facility or in connection with manufacturing or producing electronic goods, article or thing in India to a resident company. Non- resident. 25% of (A + B), where,— A = the amount paid or payable to the non-resident assessee or to any person on his behalf on account of providing services or technology; B = the amount received or deemed to be received by the non-resident assessee or on behalf of non-resident assessee on account of providing services or technology.",
+                "column_C": "",
+                "raw_text": "Business of providing services or technology in India, for the purposes of setting up an electronics manufacturing facility or in connection with manufacturing or producing electronic goods, article or thing in India to a resident company. Non- resident. 25% of (A + B), where,— A = the amount paid or payable to the non-resident assessee or to any person on his behalf on account of providing services or technology; B = the amount received or deemed to be received by the non-resident assessee or on behalf of non-resident assessee on account of providing services or technology."
+              }
+            ],
+            "linearized_text": "Subsection (2): The profits and gains of any specified business as mentioned in column B of the Table below, carried on by a specified assessee as mentioned in column C of the said Table during a tax year, shall be computed in the manner specified in column D thereof, and shall be deemed to be the profits and gains of such business of such assessee chargeable to tax for the said tax year under the head \"Profits and gains of business or profession\". Table items: Item 1 - Nature of sum: Business of operation of ships, other than cruise ships referred to in Serial number 2. Non- resident. 7.5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods shipped at any port in India, whether paid or payable, in or outside India, to the assessee or any other person on his behalf (including demurrage, handling or other similar charges); B = sum on account of carriage of passengers, livestock, mail or goods shipped at any port outside India, whether received or deemed to be received in India, by the assessee or any other person on his behalf (including demurrage, handling or other similar charges).. Item 2 - Nature of sum: Business of operation of cruise ships (subject to the conditions as may be prescribed). Non- resident. 20% of (A+B), where,— A = sum on account of carriage of passengers, paid or payable to the assessee or any other person on his behalf; B = sum on account of carriage of passengers received or deemed to be received by the assessee or any other person on his behalf.. Item 3 - Nature of sum: Business of operation of aircraft. Non- resident. 5% of (A+B), where,— A = sum on account of carriage of passengers, livestock, mail or goods from any place in India, paid or payable (in or outside India) to the assessee or any other person on his behalf; B = sum on account of carriage of passengers, livestock, mail or goods from any place outside India, received or deemed to be received in India, by the assessee or any other person on his behalf.. Item 4 - Nature of sum: Business of civil construction or erection or testing or commissioning, of plant or machinery, in connection with a turnkey power project, approved by the Central Government. Foreign company. 10% of the amount towards such civil construction, erection, testing, or commissioning, paid or payable, to the assessee or to any other person on his behalf, whether in or outside India.. Item 5 - Nature of sum: Business of providing services or facilities (including supply of plant and machinery on hire) for prospecting, extraction or production of mineral oils. Non- resident. 10% of (A+B), where,— A = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils in India, paid or payable (in or outside India), to the assessee or any other person on his behalf; B = sum on account of business of providing services and facilities in connection with, or supply of plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of mineral oils outside India, received or deemed to be received in India, by the assessee or any other person on his behalf.. Item 6 - Nature of sum: Business of providing services or technology in India, for the purposes of setting up an electronics manufacturing facility or in connection with manufacturing or producing electronic goods, article or thing in India to a resident company. Non- resident. 25% of (A + B), where,— A = the amount paid or payable to the non-resident assessee or to any person on his behalf on account of providing services or technology; B = the amount received or deemed to be received by the non-resident assessee or on behalf of non-resident assessee on account of providing services or technology..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "61-2",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 10
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "61-3",
+          "indent": 0,
+          "line_start": 19,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2) (Table: Sl. Nos. 4 and 5) the specified assessee may claim that the profits actually earned from the specified business are lower than the business profits computed under sub-section (2), if,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "61-3-a",
+              "indent": 0,
+              "line_start": 20,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "he keeps and maintains such books of account and other documents as required under section 62; and",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-61-3-a-001",
+                  "target_id": "62",
+                  "target_type": "section",
+                  "anchor_text": "section 62",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "61-3-b",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "gets his accounts audited and furnish a report of such audit as required under section 63.",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-61-3-b-001",
+                  "target_id": "63",
+                  "target_type": "section",
+                  "anchor_text": "section 63",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-61-3-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-61-3-002",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "61-4",
+          "indent": 0,
+          "line_start": 22,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Any loss, allowance or deduction allowable under the provisions of this Act shall not be allowed against the income computed in the manner specified in sub-section (2).",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-4-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "related_to",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "61-5",
+          "indent": 0,
+          "line_start": 23,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The written down value of any asset used for the purposes of specified business or profession shall be computed, as if the assessee mentioned in column C of the Table in sub-section (2) had claimed and was actually allowed depreciation thereon for each of the relevant tax years.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-5-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "depends_on",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "61-6",
+          "indent": 0,
+          "line_start": 24,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (2) (Table: Sl. No. 5) the provisions of this section shall not apply where the provisions of section 54 or 59 or 207 or 527 apply for the purposes of computing profits and gains or any other income referred to in the said sections.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-6-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-61-6-002",
+              "target_id": "54",
+              "target_type": "section",
+              "anchor_text": "section 54 or 59",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "61-7",
+          "indent": 0,
+          "line_start": 25,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (2) (Table: Sl. No. 5), \"plant\" includes ships, aircrafts, vehicles, drilling units, scientific apparatuses and equipments used for the purposes of the specified business.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-7-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "61-8",
+          "indent": 0,
+          "line_start": 26,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2) (Table: Sl. No. 6), resident company shall satisfy the following:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "61-8-a",
+              "indent": 0,
+              "line_start": 27,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is establishing or operating electronics manufacturing facility or a connected facility for manufacturing or producing electronic goods, article or thing in India, under a scheme notified by the Central Government in the Ministry of Electronics and Information Technology; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "61-8-b",
+              "indent": 0,
+              "line_start": 28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it satisfies the conditions as may be prescribed in this behalf.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "",
+          "references": [
+            {
+              "reference_id": "ref-61-8-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "definition_or_scope",
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "61-9",
+          "indent": 0,
+          "line_start": 29,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of sections 59 and 207 shall not apply to amounts referred to in sub-section (2) (Table: Sl. No. 6).",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-61-9-001",
+              "target_id": "61-2",
+              "target_type": "subsection",
+              "anchor_text": "sub-section (2)",
+              "relationship": "exception_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-61-9-002",
+              "target_id": "59",
+              "target_type": "section",
+              "anchor_text": "sections 59 and 207",
+              "relationship": "exception_to",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

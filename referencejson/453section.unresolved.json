@@ -2,17 +2,7 @@
   {
     "source_id": "453",
     "source_type": "section",
-    "field": "title",
-    "anchor_text": "section 188",
-    "guessed_target_id": "188",
-    "guessed_target_type": "section",
-    "relationship": "related_to",
-    "reason": "target_id not found in local unit index"
-  },
-  {
-    "source_id": "453",
-    "source_type": "section",
-    "field": "text_before_subsections",
+    "field": "text",
     "anchor_text": "section 188",
     "guessed_target_id": "188",
     "guessed_target_type": "section",

@@ -5,9 +5,9 @@
       "type": "section",
       "number": "198",
       "id": "198",
-      "title": "Tax on long-term capital gains in certain cases.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "198-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 4,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Irrespective of anything contained in section 197, the tax payable by an assessee on his total income shall be determined as per the provisions of sub-section (2), if—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "198-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 5,
               "page_start": 1,
               "page_end": 1,
               "text": "the total income includes any income chargeable under the head \"Capital gains\";",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "198-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "the capital gains arise from the transfer of a long-term capital asset being an equity share in a company or a unit of an equity oriented fund or a unit of a business trust;",
@@ -48,33 +48,36 @@
               "type": "clause",
               "number": "c",
               "id": "198-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
-              "text": "securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004) has—",
-              "children": [
+              "text_before_sub_clauses": "securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004) has—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "198-1-c-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 8,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in a case where the long-term capital asset is in the nature of an equity share in a company, been paid on acquisition and transfer of such capital asset; or"
+                  "text": "in a case where the long-term capital asset is in the nature of an equity share in a company, been paid on acquisition and transfer of such capital asset; or",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "198-1-c-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in a case where the long-term capital asset is in the nature of a unit of an equity oriented fund or a unit of a business trust, been paid on transfer of such capital asset."
+                  "text": "in a case where the long-term capital asset is in the nature of a unit of an equity oriented fund or a unit of a business trust, been paid on transfer of such capital asset.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -83,8 +86,8 @@
           "type": "subsection",
           "number": "2",
           "id": "198-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The tax payable by the assessee on the total income referred to in sub-section (1) shall be the aggregate of—",
@@ -93,8 +96,8 @@
               "type": "clause",
               "number": "a",
               "id": "198-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 11,
               "page_start": 1,
               "page_end": 1,
               "text": "income-tax calculated on such long-term capital gains exceeding Rs. 125000 at the rate of 12.5%; and",
@@ -104,8 +107,8 @@
               "type": "clause",
               "number": "b",
               "id": "198-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 12,
               "page_start": 1,
               "page_end": 1,
               "text": "income-tax payable on the total income as reduced by long-term capital gains referred to in sub-section (1) as if the total income so reduced were the total income of the assessee.",
@@ -118,8 +121,8 @@
           "type": "subsection",
           "number": "3",
           "id": "198-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 13,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In the case of an individual or a Hindu undivided family, being a resident, where the total income as reduced by long-term capital gains computed under sub-section (1) is below the maximum amount which is not chargeable to income-tax, then,—",
@@ -128,8 +131,8 @@
               "type": "clause",
               "number": "a",
               "id": "198-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 14,
               "page_start": 1,
               "page_end": 1,
               "text": "such long-term capital gains shall be reduced by the amount by which the total income as so reduced falls short of the maximum amount which is not chargeable to income-tax; and",
@@ -139,8 +142,8 @@
               "type": "clause",
               "number": "b",
               "id": "198-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 15,
               "page_start": 1,
               "page_end": 1,
               "text": "the tax on the balance of such long-term capital gains shall be computed at the rate as referred to in sub-section (2).",
@@ -153,66 +156,144 @@
           "type": "subsection",
           "number": "4",
           "id": "198-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 16,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The condition specified in sub-section (1)(c) shall not apply to a transfer undertaken on a recognised stock exchange located in any International Financial Services Centre and where the consideration for such transfer is received or receivable in foreign currency.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The condition specified in sub-section (1)(c) shall not apply to a transfer undertaken on a recognised stock exchange located in any International Financial Services Centre and where the consideration for such transfer is received or receivable in foreign currency.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "5",
           "id": "198-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 17,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Central Government may, by notification, specify the nature of acquisition in respect of which the provisions of sub-section (1)(c)(i) shall not apply.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Central Government may, by notification, specify the nature of acquisition in respect of which the provisions of sub-section (1)(c)(i) shall not apply.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "6",
           "id": "198-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the gross total income of an assessee includes any long-term capital gains referred to in sub-section (1), the deduction under Chapter VIII shall be allowed from the gross total income as reduced by such capital gains.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the gross total income of an assessee includes any long-term capital gains referred to in sub-section (1), the deduction under Chapter VIII shall be allowed from the gross total income as reduced by such capital gains.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "7",
           "id": "198-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 19,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the total income of an assessee includes any long-term capital gains referred to in sub-section (1), the rebate under section 156 shall be allowed from the income-tax on the total income as reduced by tax payable on such capital gains.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the total income of an assessee includes any long-term capital gains referred to in sub-section (1), the rebate under section 156 shall be allowed from the income-tax on the total income as reduced by tax payable on such capital gains.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "8",
           "id": "198-8",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, the expression \"equity oriented fund\" means a fund set up under a scheme of a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21) or under a scheme of an insurance company comprising unit linked insurance policies to which exemption in Schedule II (Table: Sl. No. 2) does not apply and—",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text_before_sub_clauses": "For the purposes of this section, the expression \"equity oriented fund\" means a fund set up under a scheme of a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21) or under a scheme of an insurance company comprising unit linked insurance policies to which exemption in Schedule II (Table: Sl. No. 2) does not apply and—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "198-8-i",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_items": "in a case where the fund invests in the units of another fund which is traded on a recognised stock exchange,—",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "A",
+                  "id": "198-8-i-A",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a minimum of 90% of the total proceeds of such fund is invested in the units of such other fund; and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "B",
+                  "id": "198-8-i-B",
+                  "indent": 0,
+                  "line_start": 23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such other fund also invests a minimum of 90% of its total proceeds in the equity shares of domestic companies listed on a recognised stock exchange; and",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "198-8-ii",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_items": "in any other case, a minimum of 65% of the total proceeds of such fund is invested in the equity shares of domestic companies listed on a recognised stock exchange, and, for the purposes of this clause,—",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "I",
+                  "id": "198-8-ii-I",
+                  "indent": 0,
+                  "line_start": 26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the percentage of equity shareholding or unit held in respect of the fund, shall be computed with reference to the annual average of the monthly averages of the opening and closing figures;",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "II",
+                  "id": "198-8-ii-II",
+                  "indent": 0,
+                  "line_start": 27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in case of a scheme of an insurance company comprising unit linked insurance policies to which exemption in Schedule II (Table: Sl. No. 2) does not apply, the minimum requirement of 90% or 65%, as the case may be, is required to be satisfied throughout the term of such insurance policy.",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            }
+          ],
+          "text_after_sub_clauses": ""
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Tax on long-term capital gains in certain cases."
+    }
+  ]
 }

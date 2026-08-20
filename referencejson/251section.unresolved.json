@@ -2,7 +2,7 @@
   {
     "source_id": "251-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247(1)",
     "guessed_target_id": "247-1",
     "guessed_target_type": "subsection",
@@ -12,7 +12,7 @@
   {
     "source_id": "251-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247(1)(a) or (b)",
     "guessed_target_id": "247-1-a",
     "guessed_target_type": "clause",
@@ -22,7 +22,7 @@
   {
     "source_id": "251-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247(1) to 247",
     "guessed_target_id": "247-1",
     "guessed_target_type": "subsection",
@@ -32,7 +32,7 @@
   {
     "source_id": "251-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247 or requisition",
     "guessed_target_id": "247",
     "guessed_target_type": "section",
@@ -42,7 +42,7 @@
   {
     "source_id": "251-1",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 248 and such",
     "guessed_target_id": "248",
     "guessed_target_type": "section",
@@ -52,7 +52,7 @@
   {
     "source_id": "251-2",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247(1) to (4)",
     "guessed_target_id": "247-1",
     "guessed_target_type": "subsection",
@@ -92,7 +92,7 @@
   {
     "source_id": "251-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 247(1) to (4)",
     "guessed_target_id": "247-1",
     "guessed_target_type": "subsection",
@@ -102,7 +102,7 @@
   {
     "source_id": "251-5",
     "source_type": "subsection",
-    "field": "text_before_clauses",
+    "field": "text",
     "anchor_text": "section 248",
     "guessed_target_id": "248",
     "guessed_target_type": "section",

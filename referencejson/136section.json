@@ -5,9 +5,9 @@
       "type": "section",
       "number": "136",
       "id": "136",
-      "title": "Deduction in respect of contributions given by companies to political parties.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,13 +16,12 @@
           "type": "subsection",
           "number": "1",
           "id": "136-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-136-1-001",
@@ -38,13 +37,12 @@
           "type": "subsection",
           "number": "2",
           "id": "136-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-136-2-001",
@@ -61,5 +59,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Deduction in respect of contributions given by companies to political parties."
+    }
+  ]
 }

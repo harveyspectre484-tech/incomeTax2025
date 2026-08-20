@@ -5,16 +5,45 @@
       "type": "section",
       "number": "441",
       "id": "441",
-      "title": "Failure to keep, maintain or retain books of account, documents, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "441-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "441-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "retain such books of account and other documents for the period specified in the said rules.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Failure to keep, maintain or retain books of account, documents, etc."
+    }
+  ]
 }

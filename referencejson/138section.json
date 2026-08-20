@@ -5,22 +5,89 @@
       "type": "section",
       "number": "138",
       "id": "138",
-      "title": "Deductions in respect of profits and gains from industrial undertakings or enterprises engaged in infrastructure development, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "In respect of any tax year, where—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "In respect of any tax year, where—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "138-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the gross total income of an assessee includes any profits and gains derived by an undertaking or an enterprise from any business referred to in section 80-IA of the Income-tax Act, 1961 (43 of 1961); and",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-138-a-001",
+              "target_id": "80",
+              "target_type": "section",
+              "anchor_text": "section 80-IA",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "138-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "such assessee is eligible to claim a deduction from the profits and gains derived from such business for such tax year under the provisions of the said section, as if the said Act had not been repealed, there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "138-b-i",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the amount of deduction is calculated as per the provisions of section 80-IA of the Income-tax Act, 1961 (43 of 1961); and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "138-b-ii",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the deduction under this Act shall be allowed only for such tax years, as would have been allowed under section 80-IA of the Income-tax Act, 1961 (43 of 1961), as if the said Act had not been repealed.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
   "orphans": [
     {
       "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
       "line": 3,
       "text": "C.—Deductions in respect of certain incomes"
+    },
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Deductions in respect of profits and gains from industrial undertakings or enterprises engaged in infrastructure development, etc."
     }
   ]
 }

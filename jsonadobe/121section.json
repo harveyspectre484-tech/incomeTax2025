@@ -6,15 +6,20 @@
       "number": "121",
       "id": "121",
       "title": "Submission of return for losses.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Irrespective of anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed under section 263(1), shall be carried forward and set off under section 111(1) or 112(1) or 113(2) or 114(2) or 115(2).",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "Irrespective of anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed under section 263(1), shall be carried forward and set off under section 111(1) or 112(1) or 113(2) or 114(2) or 115(2).",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

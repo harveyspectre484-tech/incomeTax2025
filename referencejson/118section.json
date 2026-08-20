@@ -6,8 +6,8 @@
       "number": "118",
       "id": "118",
       "title": "Carry forward and set off of losses and unabsorbed depreciation in business reorganization of co-operative banks.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "118-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The assessee, being a successor co-operative bank, shall, in a case where the amalgamation has taken place during the tax year, be allowed to set off the accumulated loss and the unabsorbed depreciation, if any, of the predecessor co-operative bank as if the amalgamation had not taken place, and all the other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The assessee, being a successor co-operative bank, shall, in a case where the amalgamation has taken place during the tax year, be allowed to set off the accumulated loss and the unabsorbed depreciation, if any, of the predecessor co-operative bank as if the amalgamation had not taken place, and all the other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "118-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In case of a co-operative bank where demerger takes place during the tax year, and where the accumulated loss or unabsorbed depreciation of the demerged co-operative bank—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "118-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "is directly relatable to the undertaking transferred, the whole of such accumulated loss or unabsorbed depreciation shall be allowed to be carried forward and set off against the income of the resulting co-operative bank; and",
@@ -49,8 +48,8 @@
               "type": "clause",
               "number": "b",
               "id": "118-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "is not directly relatable to the undertaking transferred, then such accumulated loss or unabsorbed depreciation shall first be apportioned between the demerged co-operative bank and the resulting co-operative bank in the same proportion in which assets of the undertaking are distributed between the demerged co-operative bank and the resulting co-operative bank, and be allowed to be carried forward and set off against their respective incomes.",
@@ -63,8 +62,8 @@
           "type": "subsection",
           "number": "3",
           "id": "118-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The provisions of this section shall apply, if—",
@@ -73,75 +72,82 @@
               "type": "clause",
               "number": "a",
               "id": "118-3-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 10,
               "page_start": 1,
               "page_end": 1,
-              "text": "the predecessor co-operative bank—",
-              "children": [
+              "text_before_sub_clauses": "the predecessor co-operative bank—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "118-3-a-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "has been engaged in the business of banking for three or more years; and"
+                  "text": "has been engaged in the business of banking for three or more years; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "118-3-a-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "has held at least three-fourths of the book value of fixed assets as on the date of the business reorganisation, continuously for two years before the date of business reorganisation;"
+                  "text": "has held at least three-fourths of the book value of fixed assets as on the date of the business reorganisation, continuously for two years before the date of business reorganisation;",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
               "number": "b",
               "id": "118-3-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 13,
               "page_start": 1,
               "page_end": 1,
-              "text": "the successor co-operative bank,—",
-              "children": [
+              "text_before_sub_clauses": "the successor co-operative bank,—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "118-3-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 14,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "holds at least three-fourths of the book value of fixed assets of the predecessor co-operative bank acquired through business reorganisation, continuously for a minimum five years immediately succeeding the date of business reorganisation;"
+                  "text": "holds at least three-fourths of the book value of fixed assets of the predecessor co-operative bank acquired through business reorganisation, continuously for a minimum five years immediately succeeding the date of business reorganisation;",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "118-3-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 15,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "continues the business of the predecessor co-operative bank for a minimum five years from the date of business reorganisation; and"
+                  "text": "continues the business of the predecessor co-operative bank for a minimum five years from the date of business reorganisation; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "iii",
                   "id": "118-3-b-iii",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 16,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "fulfils such other conditions, as may be prescribed, to ensure the revival of the business of the predecessor co-operative bank or to ensure that the business reorganisation is for genuine business purpose."
+                  "text": "fulfils such other conditions, as may be prescribed, to ensure the revival of the business of the predecessor co-operative bank or to ensure that the business reorganisation is for genuine business purpose.",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -150,13 +156,12 @@
           "type": "subsection",
           "number": "4",
           "id": "118-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 17,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Central Government may, by notification, specify such other conditions as it may consider necessary, other than the condition referred to in subsection (3)(b)(iii), for the purposes of ensuring that the business reorganisation is for genuine business purposes.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The Central Government may, by notification, specify such other conditions as it may consider necessary, other than the condition referred to in subsection (3)(b)(iii), for the purposes of ensuring that the business reorganisation is for genuine business purposes.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-118-4-001",
@@ -172,13 +177,12 @@
           "type": "subsection",
           "number": "5",
           "id": "118-5",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 18,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "In a case where any of the conditions referred to in sub-section (3) or notified under sub-section (4) are not complied with, the set off of accumulated business loss or unabsorbed depreciation made in any tax year in the hands of the successor co-operative bank shall be deemed to be the income of the successor co-operative bank chargeable to tax for the year in which such conditions are not complied with.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "In a case where any of the conditions referred to in sub-section (3) or notified under sub-section (4) are not complied with, the set off of accumulated business loss or unabsorbed depreciation made in any tax year in the hands of the successor co-operative bank shall be deemed to be the income of the successor co-operative bank chargeable to tax for the year in which such conditions are not complied with.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-118-5-001",
@@ -202,20 +206,19 @@
           "type": "subsection",
           "number": "6",
           "id": "118-6",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 19,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The period commencing from the beginning of the tax year and ending on the date immediately preceding the date of business reorganisation, and the period commencing from the date of such business reorganisation and ending with the tax year, shall be deemed to be two different tax years for the purposes of set off and carry forward of loss and allowance for depreciation.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The period commencing from the beginning of the tax year and ending on the date immediately preceding the date of business reorganisation, and the period commencing from the date of such business reorganisation and ending with the tax year, shall be deemed to be two different tax years for the purposes of set off and carry forward of loss and allowance for depreciation.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "7",
           "id": "118-7",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 20,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For the purposes of this section,—",
@@ -224,8 +227,8 @@
               "type": "clause",
               "number": "a",
               "id": "118-7-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 21,
               "page_start": 1,
               "page_end": 1,
               "text": "\"accumulated loss\" means so much of the loss of amalgamating co-operative bank or demerged co-operative bank as referred to in section 112 in the hands of predecessor co-operative bank, which such predecessor co-operative bank would have been entitled to carry forward and set off under the said section, as if the business reorganisation had not taken place;",
@@ -245,8 +248,8 @@
               "type": "clause",
               "number": "b",
               "id": "118-7-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 22,
               "page_start": 1,
               "page_end": 1,
               "text": "\"amalgamated co-operative bank\", \"amalgamating co-operative bank\", \"amalgamation\", \"business reorganisation\", \"demerged co-operative bank\", \"demerger\", \"predecessor co-operative bank\", \"successor co-operative bank\" and \"resulting co-operative bank\" shall have the meanings respectively assigned to them in section 65;",
@@ -266,8 +269,8 @@
               "type": "clause",
               "number": "c",
               "id": "118-7-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 23,
               "page_start": 1,
               "page_end": 1,
               "text": "\"unabsorbed depreciation\" means so much of the allowance for depreciation in the hands of amalgamating co-operative bank or demerged cooperative bank, which remains to be allowed and which would have been allowed to such banks, if the business reorganisation had not taken place.",
@@ -281,5 +284,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

@@ -6,8 +6,8 @@
       "number": "213",
       "id": "213",
       "title": "Special provision for computation of total income of non-residents.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,20 +16,19 @@
           "type": "subsection",
           "number": "1",
           "id": "213-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 6,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the investment income of a non-resident Indian.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "2",
           "id": "213-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In the case of an assessee, being a non-resident Indian, where—",
@@ -38,8 +37,8 @@
               "type": "clause",
               "number": "a",
               "id": "213-2-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "the gross total income consists only of investment income or income by way of long-term capital gains or both, then no deduction shall be allowed under Chapter VIII;",
@@ -49,43 +48,36 @@
               "type": "clause",
               "number": "b",
               "id": "213-2-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
-              "text": "the gross total income includes any income referred to in clause (a),—",
-              "children": [
+              "text_before_sub_clauses": "the gross total income includes any income referred to in clause (a),—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "213-2-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the gross total income shall be reduced by such income; and"
+                  "text": "the gross total income shall be reduced by such income; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "213-2-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee."
+                  "text": "the deductions under Chapter VIII shall be allowed as if the gross total income as so reduced was the gross total income of the assessee.",
+                  "children": []
                 }
               ],
-              "references": [
-                {
-                  "reference_id": "ref-213-2-b-001",
-                  "target_id": "213-2-a",
-                  "target_type": "clause",
-                  "anchor_text": "clause (a)",
-                  "relationship": "related_to",
-                  "confidence": "high"
-                }
-              ]
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""

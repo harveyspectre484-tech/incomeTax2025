@@ -5,9 +5,9 @@
       "type": "section",
       "number": "195",
       "id": "195",
-      "title": "Tax on income referred to in sections 102 to 106.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "195-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Where the total income of an assessee—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "195-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "includes any income referred to in section 102 or 103 or 104 or 105 or 106 and reflected in the return of income furnished under section 263; or",
@@ -37,33 +37,36 @@
               "type": "clause",
               "number": "b",
               "id": "195-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
-              "text": "determined by the Assessing Officer includes any income referred to in any of the said section 102 or 103 or 104 or 105 or 106, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—",
-              "children": [
+              "text_before_sub_clauses": "determined by the Assessing Officer includes any income referred to in any of the said section 102 or 103 or 104 or 105 or 106, if such income is not covered under clause (a), the income-tax payable shall be the aggregate of—",
+              "sub_clauses": [
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "i",
                   "id": "195-1-b-i",
-                  "x": 55.0,
-                  "y_start": 465.0,
+                  "indent": 0,
+                  "line_start": 9,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "income-tax calculated on the income referred to in clauses (a) and (b), at the rate of 24[30%]; and"
+                  "text": "income-tax calculated on the income referred to in clauses (a) and (b), at the rate of 24[30%]; and",
+                  "children": []
                 },
                 {
-                  "type": "sub-clause",
+                  "type": "sub_clause",
                   "number": "ii",
                   "id": "195-1-b-ii",
-                  "x": 55.0,
-                  "y_start": 480.0,
+                  "indent": 0,
+                  "line_start": 10,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "income-tax with which the assessee would have been chargeable had his total income been reduced by income referred to in clause (i)."
+                  "text": "income-tax with which the assessee would have been chargeable had his total income been reduced by income referred to in clause (i).",
+                  "children": []
                 }
-              ]
+              ],
+              "text_after_sub_clauses": ""
             }
           ],
           "text_after_clauses": ""
@@ -72,13 +75,12 @@
           "type": "subsection",
           "number": "2",
           "id": "195-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Irrespective of anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in sub-section (1)(a) and (b).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Irrespective of anything contained in this Act, no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed to the assessee under any provision of this Act in computing his income referred to in sub-section (1)(a) and (b).",
+          "children": []
         }
       ],
       "text_after_subsections": ""
@@ -93,5 +95,11 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Tax on income referred to in sections 102 to 106."
+    }
+  ]
 }

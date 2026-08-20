@@ -5,14 +5,74 @@
       "type": "section",
       "number": "480",
       "id": "480",
-      "title": "26 [Failure to furnish return of income setting forth undisclosed income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable—",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text_before_clauses": "If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "480-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "480-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "480-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "with fine, in any other case. 26. Section 480 sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sections 480 read as under : \"480. Failure to furnish return of income in search cases.—If a person wilfully fails to furnish in due time the return of total income which is required to be furnished by notice given under section 294(1)(a), he shall be punishable with imprisonment for a term which shall not be less than three months but which may extend to three years and with fine.\"",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-480-c-001",
+              "target_id": "480",
+              "target_type": "section",
+              "anchor_text": "Section 480",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-480-c-002",
+              "target_id": "480",
+              "target_type": "section",
+              "anchor_text": "sections 480",
+              "relationship": "related_to",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-480-c-003",
+              "target_id": "294-1-a",
+              "target_type": "clause",
+              "anchor_text": "section 294(1)(a)",
+              "relationship": "depends_on",
+              "confidence": "medium"
+            }
+          ]
+        }
+      ],
+      "text_after_clauses": "",
       "references": [
         {
           "reference_id": "ref-480-001",
@@ -26,5 +86,11 @@
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "26 [Failure to furnish return of income setting forth undisclosed income."
+    }
+  ]
 }

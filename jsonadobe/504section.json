@@ -6,13 +6,47 @@
       "number": "504",
       "id": "504",
       "title": "Service of notice in case of discontinued business.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Where an assessment is to be made under section 320, the Assessing Officer may serve on the—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Where an assessment is to be made under section 320, the Assessing Officer may serve on the—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "504-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "person whose income is to be assessed; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "504-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "person who was a member of a firm or association of persons at the time of its discontinuance, in the case of a firm or an association of persons; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "504-c",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "principal officer, in the case of a company, a notice containing all or any of the requirements which may be included in a notice under section 268(1) and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that section.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

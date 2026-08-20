@@ -5,9 +5,9 @@
       "type": "section",
       "number": "426",
       "id": "426",
-      "title": "Interest on excess refund.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "426-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "Subject to the other provisions of this Act, where any refund is granted to the assessee under section 270(1), and—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "426-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "no refund is due on regular assessment; or",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "426-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "the amount refunded under section 270(1) exceeds the amount refundable on regular assessment, the assessee shall be liable to pay simple interest at the rate of 0.5% on the whole or the excess amount so refunded, for every month or part of a month comprised in the period from the date of grant of refund to the date of such regular assessment.",
@@ -51,30 +51,34 @@
           "type": "subsection",
           "number": "2",
           "id": "426-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where, as a result of an order under section 287 or 288 or 359 or 363 or 365(10) or 368 or 377 or 378, the amount of refund granted under section 270(1) is held to be correctly allowed, either in whole or in part, then, the interest chargeable, if any, under sub-section (1) shall be reduced accordingly.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where, as a result of an order under section 287 or 288 or 359 or 363 or 365(10) or 368 or 377 or 378, the amount of refund granted under section 270(1) is held to be correctly allowed, either in whole or in part, then, the interest chargeable, if any, under sub-section (1) shall be reduced accordingly.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "426-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where in relation to a tax year, an assessment is made for the first time under section 279, the assessment so made shall be regarded as a regular assessment for the purposes of this section.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where in relation to a tax year, an assessment is made for the first time under section 279, the assessment so made shall be regarded as a regular assessment for the purposes of this section.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Interest on excess refund."
+    }
+  ]
 }

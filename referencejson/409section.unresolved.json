@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "source_id": "409-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 408",
+    "guessed_target_id": "408",
+    "guessed_target_type": "section",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "409-a",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 407(1) and (4)",
+    "guessed_target_id": "407-1",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "409-b",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 407(8)",
+    "guessed_target_id": "407-8",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "409-c",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 407(9)",
+    "guessed_target_id": "407-9",
+    "guessed_target_type": "subsection",
+    "relationship": "depends_on",
+    "reason": "target_id not found in local unit index"
+  }
+]

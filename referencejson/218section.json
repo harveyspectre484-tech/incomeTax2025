@@ -1,0 +1,68 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "218",
+      "id": "218",
+      "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
+      "indent": 0,
+      "line_start": 4,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table:",
+      "children": [],
+      "table": {
+        "type": "table",
+        "table_id": "218-table-1",
+        "title": "TABLE",
+        "format": "borderless",
+        "page_start": 1,
+        "page_end": 1,
+        "line_start": 7,
+        "line_end": 10,
+        "columns": [
+          "Sl. No.",
+          "Nature of sum",
+          "Amount of deduction"
+        ],
+        "rows": [
+          {
+            "item_no": 1,
+            "column_A": "",
+            "column_B": "Income referred to in section 147(3) 15%",
+            "column_C": "",
+            "raw_text": "Income referred to in section 147(3) 15%"
+          },
+          {
+            "item_no": 2,
+            "column_A": "",
+            "column_B": "Total income as reduced by income referred to in Sl. No. (1) Rates in force.]",
+            "column_C": "",
+            "raw_text": "Total income as reduced by income referred to in Sl. No. (1) Rates in force.]"
+          }
+        ],
+        "linearized_text": "Section (218): Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table: Table items: Item 1 - Nature of sum: Income referred to in section 147(3) 15%. Item 2 - Nature of sum: Total income as reduced by income referred to in Sl. No. (1) Rates in force.].",
+        "source": {
+          "act": "Income-tax Act",
+          "rule": "218",
+          "page_start": 1,
+          "page_end": 1,
+          "line_start": 7
+        }
+      },
+      "references": [
+        {
+          "reference_id": "ref-218-001",
+          "target_id": "147-3",
+          "target_type": "subsection",
+          "anchor_text": "section 147(3)",
+          "relationship": "related_to",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -6,13 +6,93 @@
       "number": "484",
       "id": "484",
       "title": "Abetment of false return, etc.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If a person abets or induces in any manner another person––",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "If a person abets or induces in any manner another person––",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "484-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "to make and deliver an account or a statement or declaration relating to any income chargeable to tax which is false and which he either knows to be false or does not believe to be true; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "484-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "to commit an offence under section 478(1), 29[he shall be punishable—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "484-b-i",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax, penalty or interest which would have been evaded, if the declaration, account or statement had been accepted as true, or which is wilfully attempted to be evaded, exceeds fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "484-b-ii",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, penalty or interest which would have been evaded, if the declaration, account or statement had been accepted as true, or which is wilfully attempted to be evaded, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "484-b-iii",
+              "indent": 0,
+              "line_start": 12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with fine, in any other case.] \"he shall be punishable,—",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "484-b-i",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in a case, where the amount of tax, penalty or interest which would have been evaded, if the declaration, account or statement had been accepted as true, or which is wilfully attempted to be evaded, exceeds twenty-five lakh rupees, with rigorous imprisonment for a term which shall not be less than six months but which may extend to seven years, and with fine;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "484-b-ii",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in any other case, with rigorous imprisonment for a term which shall not be less than three months but which may extend to two years, and with fine.\"",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [

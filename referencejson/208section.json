@@ -1,0 +1,265 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "208",
+      "id": "208",
+      "title": "Tax on income from units purchased in foreign currency or capital gains arising from their transfer.",
+      "indent": 0,
+      "line_start": 6,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "208-1",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The income-tax payable on the total income of an assessee, being an overseas financial organisation (herein referred to as Offshore Fund), which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B.",
+          "children": [],
+          "table": {
+            "type": "table",
+            "table_id": "208-1-table-1",
+            "title": "TABLE",
+            "format": "borderless",
+            "page_start": 1,
+            "page_end": 1,
+            "line_start": 9,
+            "line_end": 13,
+            "columns": [
+              "Sl. No.",
+              "Nature of sum",
+              "Amount of deduction"
+            ],
+            "rows": [
+              {
+                "item_no": 1,
+                "column_A": "",
+                "column_B": "Income received in respect of units purchased in foreign currency. 10%",
+                "column_C": "",
+                "raw_text": "Income received in respect of units purchased in foreign currency. 10%"
+              },
+              {
+                "item_no": 2,
+                "column_A": "",
+                "column_B": "Long-term capital gains arising from the transfer of units purchased in foreign currency. 12.5%",
+                "column_C": "",
+                "raw_text": "Long-term capital gains arising from the transfer of units purchased in foreign currency. 12.5%"
+              },
+              {
+                "item_no": 3,
+                "column_A": "",
+                "column_B": "Total income as reduced by income referred against serial numbers 1 and 2. Rates in force.",
+                "column_C": "",
+                "raw_text": "Total income as reduced by income referred against serial numbers 1 and 2. Rates in force."
+              }
+            ],
+            "linearized_text": "Subsection (1): The income-tax payable on the total income of an assessee, being an overseas financial organisation (herein referred to as Offshore Fund), which includes income specified in column B of the Table below, shall be the aggregate of income-tax computed at the rate specified in the column C applied on the corresponding income specified in column B. Table items: Item 1 - Nature of sum: Income received in respect of units purchased in foreign currency. 10%. Item 2 - Nature of sum: Long-term capital gains arising from the transfer of units purchased in foreign currency. 12.5%. Item 3 - Nature of sum: Total income as reduced by income referred against serial numbers 1 and 2. Rates in force..",
+            "source": {
+              "act": "Income-tax Act",
+              "rule": "208-1",
+              "page_start": 1,
+              "page_end": 1,
+              "line_start": 9
+            }
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "208-2",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the gross total income of the Offshore Fund—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "208-2-a",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "consists only of income from units or income by way of long-term capital gains arising from the transfer of units, or both, no deduction shall be allowed to the assessee under sections 28 to 58, 60 and 61 or section 93(1)(a) or (e) or under Chapter VIII;",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-208-2-a-001",
+                  "target_id": "28",
+                  "target_type": "section",
+                  "anchor_text": "sections 28 to 58",
+                  "relationship": "depends_on",
+                  "confidence": "medium"
+                },
+                {
+                  "reference_id": "ref-208-2-a-002",
+                  "target_id": "93-1-a",
+                  "target_type": "clause",
+                  "anchor_text": "section 93(1)(a) or (e)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "208-2-b",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "includes any income referred to in clause (a),—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "208-2-b-i",
+                  "indent": 0,
+                  "line_start": 18,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the gross total income shall be reduced by such income; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "208-2-b-ii",
+                  "indent": 0,
+                  "line_start": 19,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the deduction under Chapter VIII shall be allowed as if the gross total income so reduced were the gross total income of the assessee.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "208-3",
+          "indent": 0,
+          "line_start": 20,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "208-3-a",
+              "indent": 0,
+              "line_start": 21,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"overseas financial organisation\" means any fund, institution, association or body, whether incorporated or not, established under the laws of a country outside India,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "208-3-a-i",
+                  "indent": 0,
+                  "line_start": 22,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "which has entered into an arrangement for investment in India with any public sector bank or public financial institution or a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21); and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "208-3-a-ii",
+                  "indent": 0,
+                  "line_start": 23,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such arrangement is approved by the Securities and Exchange Board of India, established under the Securities and Exchange Board of India Act, 1992 (15 of 1992), for this purpose;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "208-3-b",
+              "indent": 0,
+              "line_start": 24,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"public financial institution\" shall have the same meaning as assigned to it in section 2(72) of the Companies Act, 2013 (18 of 2013);",
+              "children": [],
+              "references": [
+                {
+                  "reference_id": "ref-208-3-b-001",
+                  "target_id": "2-72",
+                  "target_type": "subsection",
+                  "anchor_text": "section 2(72)",
+                  "relationship": "related_to",
+                  "confidence": "medium"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "208-3-c",
+              "indent": 0,
+              "line_start": 25,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"unit\" means unit of,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "208-3-c-i",
+                  "indent": 0,
+                  "line_start": 26,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21); or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "208-3-c-ii",
+                  "indent": 0,
+                  "line_start": 27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the Unit Trust of India.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

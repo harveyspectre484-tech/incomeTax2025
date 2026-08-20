@@ -5,16 +5,163 @@
       "type": "section",
       "number": "428",
       "id": "428",
-      "title": "Fee for default in furnishing return of income, audited accounts and reports.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Without prejudice to the provisions of this Act, where any person—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Without prejudice to the provisions of this Act, where any person—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "428-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "required to furnish a return of income under section 263, fails to do so within the due date, as specified under sub-section (1) of the said section, he shall be liable to pay by way of fee,—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "428-a-i",
+              "indent": 0,
+              "line_start": 7,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 1000, if the total income of such person does not exceed Rs. 500000; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "428-a-ii",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 5000, in any other case;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "428-b",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "furnishes a return of income under section 263(5) beyond nine months from the end of relevant tax year, he shall be liable to pay by way of fee,––",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "428-b-i",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 1000, if the total income of such person does not exceed Rs. 500000; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "428-b-ii",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 5000, in any other case;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "428-c",
+          "indent": 0,
+          "line_start": 12,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "fails to get his accounts audited for any tax year or years and furnish the report of such audit as required under section 63, he shall be liable to pay by way of fee,––",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "428-c-i",
+              "indent": 0,
+              "line_start": 13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 75000 for a delay up to one month for which such failure continues; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "428-c-ii",
+              "indent": 0,
+              "line_start": 14,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 150000 thereafter;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "428-d",
+          "indent": 0,
+          "line_start": 15,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "fails to furnish a report from an accountant as required by section 172, he shall be liable to pay by way of fee,––",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "428-d-i",
+              "indent": 0,
+              "line_start": 16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 50000 for a delay up to one month for which such failure continues; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "428-d-ii",
+              "indent": 0,
+              "line_start": 17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a sum of Rs. 100000 thereafter.]",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Fee for default in furnishing return of income, audited accounts and reports."
+    }
+  ]
 }

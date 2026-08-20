@@ -6,13 +6,71 @@
       "number": "30",
       "id": "30",
       "title": "Deduction on certain premium.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "The following sums shall be allowed as deduction in computing income chargeable under section 26, being premium paid:—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "The following sums shall be allowed as deduction in computing income chargeable under section 26, being premium paid:—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "30-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "by any assessee in respect of insurance against risk of damage or destruction of stocks or stores used for the purposes of business or profession;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "30-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "by a federal milk co-operative society to effect or to keep in force an insurance on the life of the cattle owned by a member of a co-operative society, being a primary society engaged in supplying milk raised by its members to such federal milk co-operative society;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "30-c",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "by the assessee as an employer, through any mode of payment other than cash, to effect or to keep in force an insurance on the health of its employees under a scheme framed in this behalf by—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "30-c-i",
+              "indent": 0,
+              "line_start": 10,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the General Insurance Corporation of India formed under section 9 of the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972) and approved by the Central Government; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "30-c-ii",
+              "indent": 0,
+              "line_start": 11,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any other insurer and approved by the Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999).",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "193-3",
+    "source_type": "subsection",
+    "field": "text",
+    "anchor_text": "section 72(6)",
+    "guessed_target_id": "72-6",
+    "guessed_target_type": "subsection",
+    "relationship": "exception_to",
+    "reason": "target_id not found in local unit index"
+  },
+  {
+    "source_id": "193-4-f",
+    "source_type": "clause",
+    "field": "text",
+    "anchor_text": "section 2(87)",
+    "guessed_target_id": "2-87",
+    "guessed_target_type": "subsection",
+    "relationship": "related_to",
+    "reason": "target_id not found in local unit index"
+  }
+]

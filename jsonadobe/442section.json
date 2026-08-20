@@ -5,9 +5,9 @@
       "type": "section",
       "number": "442",
       "id": "442",
-      "title": "Penalty for failure to keep and maintain information and document, etc., in respect of certain transactions.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "442-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The Assessing Officer or Commissioner (Appeals) may impose a penalty of 2% of the value of each international transaction or specified domestic transaction entered into by a person, if in respect of such transaction he—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "442-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "fails to keep and maintain any such information and document as required by section 171(1);",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "442-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "fails to report such transaction which he is required to do so; or",
@@ -48,8 +48,8 @@
               "type": "clause",
               "number": "c",
               "id": "442-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "maintains or furnishes an incorrect information or document.",
@@ -62,18 +62,23 @@
           "type": "subsection",
           "number": "2",
           "id": "442-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The prescribed income-tax authority referred to in section 171(4) may impose a penalty of Rs. 500000 on a person, if he fails to furnish the information and document required under the said section.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The prescribed income-tax authority referred to in section 171(4) may impose a penalty of Rs. 500000 on a person, if he fails to furnish the information and document required under the said section.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Penalty for failure to keep and maintain information and document, etc., in respect of certain transactions."
+    }
+  ]
 }

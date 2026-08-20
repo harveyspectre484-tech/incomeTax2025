@@ -6,13 +6,36 @@
       "number": "187",
       "id": "187",
       "title": "Acceptance of payment through prescribed electronic modes.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "187-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "such person is carrying on business or profession; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "187-b",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],

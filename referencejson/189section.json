@@ -6,15 +6,86 @@
       "number": "189",
       "id": "189",
       "title": "Interpretation.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "For the purposes of this Chapter, unless the context otherwise requires,—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "For the purposes of this Chapter, unless the context otherwise requires,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "189-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-189-a-001",
+              "target_id": "51",
+              "target_type": "section",
+              "anchor_text": "section 51",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "189-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"primary agricultural credit society\", and \"primary co-operative agricultural and rural development bank\" shall have the meanings respectively assigned to them in section 150;",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-189-b-001",
+              "target_id": "150",
+              "target_type": "section",
+              "anchor_text": "section 150",
+              "relationship": "related_to",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "189-c",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"specified sum\" means any sum of money receivable, whether as advance or otherwise, in relation to transfer of an immovable property, whether or not the transfer takes place;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "189-d",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"specified advance\" means any sum of money in the nature of advance, by whatever name called, in relation to transfer of an immovable property, whether or not the transfer takes place.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

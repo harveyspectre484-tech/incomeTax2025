@@ -5,16 +5,45 @@
       "type": "section",
       "number": "460",
       "id": "460",
-      "title": "Penalty for failure to submit statement under section 505.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Ministry of Finance, Government of India",
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text_before_clauses": "If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "460-a",
+          "indent": 0,
+          "line_start": 6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Rs. 1000 for every day for which the failure continues, if the period of failure does not exceed three months; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "460-b",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Rs. 100000 in any other case.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 4,
+      "text": "Penalty for failure to submit statement under section 505."
+    }
+  ]
 }

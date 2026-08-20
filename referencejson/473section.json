@@ -3,24 +3,24 @@
     {
       "type": "chapter",
       "number": "XXII",
-      "x": 27.62,
-      "y_start": 80.0,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text": "18[Contravention of order made during search action.]",
-      "children": [
+      "text_before_sections": "18[Contravention of order made during search action.]",
+      "sections": [
         {
           "type": "section",
           "number": "473",
           "id": "473",
           "title": "OFFENCES AND PROSECUTION",
-          "x": 27.62,
-          "y_start": 80.59,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_subsections": "Whoever contravenes any order referred to in section 247(4) shall be punishable with 19[simple imprisonment up to two years and with fine].",
-          "subsections": [],
-          "text_after_subsections": "",
+          "text": "Whoever contravenes any order referred to in section 247(4) shall be punishable with 19[simple imprisonment up to two years and with fine].",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-473-001",
@@ -32,7 +32,8 @@
             }
           ]
         }
-      ]
+      ],
+      "text_after_sections": ""
     }
   ],
   "sections": [
@@ -41,13 +42,12 @@
       "number": "473",
       "id": "473",
       "title": "OFFENCES AND PROSECUTION",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 8,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "Whoever contravenes any order referred to in section 247(4) shall be punishable with 19[simple imprisonment up to two years and with fine].",
-      "subsections": [],
-      "text_after_subsections": "",
+      "text": "Whoever contravenes any order referred to in section 247(4) shall be punishable with 19[simple imprisonment up to two years and with fine].",
+      "children": [],
       "references": [
         {
           "reference_id": "ref-473-001",
@@ -76,5 +76,11 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

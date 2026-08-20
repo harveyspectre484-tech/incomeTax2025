@@ -5,16 +5,31 @@
       "type": "section",
       "number": "517",
       "id": "517",
-      "title": "Receipt to be given.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "A receipt shall be given for any money paid or recovered under this Act.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "A receipt shall be given for any money paid or recovered under this Act.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Receipt to be given."
+    }
+  ]
 }

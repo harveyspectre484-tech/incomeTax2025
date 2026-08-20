@@ -6,8 +6,8 @@
       "number": "501",
       "id": "501",
       "title": "Service of notice, generally.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 5,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -16,8 +16,8 @@
           "type": "subsection",
           "number": "1",
           "id": "501-1",
-          "x": 27.62,
-          "y_start": 95.44,
+          "indent": 0,
+          "line_start": 5,
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "The service of a notice, or summon, or requisition, or order, or any other communication, under this Act (herein referred to as communication) may be made by delivering or transmitting a copy thereof, to the person therein named—",
@@ -26,8 +26,8 @@
               "type": "clause",
               "number": "a",
               "id": "501-1-a",
-              "x": 40.8,
-              "y_start": 395.0,
+              "indent": 0,
+              "line_start": 6,
               "page_start": 1,
               "page_end": 1,
               "text": "by post or by such courier services as may be approved by the Board;",
@@ -37,8 +37,8 @@
               "type": "clause",
               "number": "b",
               "id": "501-1-b",
-              "x": 40.8,
-              "y_start": 415.0,
+              "indent": 0,
+              "line_start": 7,
               "page_start": 1,
               "page_end": 1,
               "text": "in such manner as provided under the Code of Civil Procedure, 1908 (5 of 1908) for the purposes of service of summons;",
@@ -48,8 +48,8 @@
               "type": "clause",
               "number": "c",
               "id": "501-1-c",
-              "x": 40.8,
-              "y_start": 430.0,
+              "indent": 0,
+              "line_start": 8,
               "page_start": 1,
               "page_end": 1,
               "text": "in the form of any electronic record as provided in Chapter IV of the Information Technology Act, 2000 (21 of 2000); or",
@@ -59,8 +59,8 @@
               "type": "clause",
               "number": "d",
               "id": "501-1-d",
-              "x": 40.8,
-              "y_start": 450.0,
+              "indent": 0,
+              "line_start": 9,
               "page_start": 1,
               "page_end": 1,
               "text": "by any other means of transmission of documents, as may be prescribed.",
@@ -73,30 +73,34 @@
           "type": "subsection",
           "number": "2",
           "id": "501-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 10,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The Board may make rules providing for the addresses (including the address for electronic mail or electronic mail message) to which the communication referred to in sub-section (1) may be delivered or transmitted to the person therein named.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "The Board may make rules providing for the addresses (including the address for electronic mail or electronic mail message) to which the communication referred to in sub-section (1) may be delivered or transmitted to the person therein named.",
+          "children": []
         },
         {
           "type": "subsection",
           "number": "3",
           "id": "501-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 11,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"electronic mail\" and \"electronic mail message\" means a message or information created or transmitted or received on a computer, computer system, computer resource or communication device including attachments in text, image, audio, video and any other electronic record, which may be transmitted with the message.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "For the purposes of this section, \"electronic mail\" and \"electronic mail message\" means a message or information created or transmitted or received on a computer, computer system, computer resource or communication device including attachments in text, image, audio, video and any other electronic record, which may be transmitted with the message.",
+          "children": []
         }
       ],
       "text_after_subsections": ""
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

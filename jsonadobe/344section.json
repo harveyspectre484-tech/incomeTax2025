@@ -5,28 +5,33 @@
       "type": "section",
       "number": "3",
       "id": "3",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 3,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "—Commercial activities by registered non-profit organisation",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "—Commercial activities by registered non-profit organisation",
+      "children": []
     },
     {
       "type": "section",
       "number": "344",
       "id": "344",
       "title": "Business undertaking held as property.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "indent": 0,
+      "line_start": 6,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "W here the property held by a registered non-profit organisation includes a business undertaking, and where a claim is made that the income of any such undertaking is eligible for benefits under this Part, then the Assessing Officer shall have the power to determine the income of such business undertaking as per the provisions of this Act.",
-      "subsections": [],
-      "text_after_subsections": ""
+      "text": "W here the property held by a registered non-profit organisation includes a business undertaking, and where a claim is made that the income of any such undertaking is eligible for benefits under this Part, then the Assessing Officer shall have the power to determine the income of such business undertaking as per the provisions of this Act.",
+      "children": []
     }
   ],
   "footnotes": [],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
 }

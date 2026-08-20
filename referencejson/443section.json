@@ -5,9 +5,9 @@
       "type": "section",
       "number": "443",
       "id": "443",
-      "title": "Penalty in respect of certain income.",
-      "x": 27.62,
-      "y_start": 80.59,
+      "title": "",
+      "indent": 0,
+      "line_start": 4,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "9[] \"443. Penalty in respect of certain income.—(1) The Assessing Officer or the Joint Commissioner (Appeals) or Commissioner (Appeals) may impose a penalty of 10% of the tax payable under section 195(1)(i), on an assessee if the income determined in his case for any tax year includes any income referred to in section 102, 103, 104, 105 or 106.",
@@ -16,13 +16,12 @@
           "type": "subsection",
           "number": "2",
           "id": "443-2",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 7,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The penalty under sub-section (1) shall be payable in addition to the tax payable under section 195.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "The penalty under sub-section (1) shall be payable in addition to the tax payable under section 195.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-443-2-001",
@@ -46,13 +45,12 @@
           "type": "subsection",
           "number": "3",
           "id": "443-3",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 8,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No penalty shall be levied on income referred to in section 102, 103, 104, 105 or 106 to the extent such income has been included by the assessee in the return of income furnished under section 263 and the tax as per section 195(1)(i) has been paid on or before the end of the relevant tax year.",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "No penalty shall be levied on income referred to in section 102, 103, 104, 105 or 106 to the extent such income has been included by the assessee in the return of income furnished under section 263 and the tax as per section 195(1)(i) has been paid on or before the end of the relevant tax year.",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-443-3-001",
@@ -84,13 +82,12 @@
           "type": "subsection",
           "number": "4",
           "id": "443-4",
-          "x": 27.62,
-          "y_start": 380.0,
+          "indent": 0,
+          "line_start": 9,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "No penalty under section 439 shall be imposed upon the assessee in respect of income referred to in sub-section (1).\"",
-          "clauses": [],
-          "text_after_clauses": "",
+          "text": "No penalty under section 439 shall be imposed upon the assessee in respect of income referred to in sub-section (1).\"",
+          "children": [],
           "references": [
             {
               "reference_id": "ref-443-4-001",
@@ -141,5 +138,21 @@
       "page_end": 1
     }
   ],
-  "orphans": []
+  "orphans": [
+    {
+      "page": 1,
+      "line": 1,
+      "text": "Income Tax Department"
+    },
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    },
+    {
+      "page": 1,
+      "line": 3,
+      "text": "Penalty in respect of certain income."
+    }
+  ]
 }
