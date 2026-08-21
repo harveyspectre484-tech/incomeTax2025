@@ -36,14 +36,7 @@ other section reference
 ### same section reference check 
 
 
-"references": [
-            {
-              "target_id": "4-1",
-              "target_type": "subsection",
-              "anchor_text": "sub-section (1)",
-              "relationship": "depends_on"
-            }
-          ],
+
 
 
 Relationship	                 Meaning	                                                  Retrieval behavior

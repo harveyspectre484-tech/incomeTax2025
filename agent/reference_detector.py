@@ -17,7 +17,8 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Union
-
+from dotenv import load_dotenv
+load_dotenv()
 try:
     import google.generativeai as genai
     HAS_GEMINI_SDK = True
@@ -141,8 +142,8 @@ def resolve_relative_target(level: str, lineage: Dict[str, Any]) -> Tuple[str, s
 
 class ReferenceDetectorAgent:
     """Agent scanning AST text nodes for internal/external cross-references."""
-
-    def __init__(self, use_llm_fallback: bool = False, model_name: str = "gemini-1.5-flash"):
+#gemini-3-flash-preview
+    def __init__(self, use_llm_fallback: bool = False, model_name: str = "gemini-3.5-flash"):
         self.use_llm_fallback = use_llm_fallback
         self.model_name = model_name
         self.ref_counter = 0
@@ -277,7 +278,10 @@ class ReferenceDetectorAgent:
         node_id = lineage.get("_current_id", "unknown")
 
         prompt = f"""You are a specialized Legal AI Agent parsing cross-references in statutory text.
-Find any missing references to other sections, clauses, or external Acts not already detected.
+Find any missing references to other sections, clauses, or external Acts not detected. 
+were ever have to take a reference of income tact act take income tax act 2025, 
+do not take reference of income tax act 1961.
+
 
 Node ID: {node_id}
 Already Detected Anchors: {json.dumps(existing_anchors)}
@@ -285,10 +289,11 @@ Text snippet:
 "{text}"
 
 Task:
-1. Identify missing cross-references (anchor_text).
-2. Determine target_id (can be a string or list of strings if multiple sections/ranges).
-3. Determine target_type (section, subsection, clause, sub_clause, external_act).
-4. Classify relationship: "depends_on", "defines_term", "subject_to", "exception_to", "procedural_reference", "related_to", "amended_by_footnote".
+1. If the json structure is not right for (section, subsection, clause, sub_clause) then correct it.
+2. Identify missing cross-references (anchor_text).
+3. Determine target_id (can be a string or list of strings if multiple sections/ranges).
+4. Determine target_type (section, subsection, clause, sub_clause, external_act).
+5. Classify relationship: "depends_on", "defines_term", "subject_to", "exception_to", "procedural_reference", "related_to", "amended_by_footnote".
 
 Respond ONLY with a JSON array of objects:
 [

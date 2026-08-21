@@ -13,6 +13,8 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from dotenv import load_dotenv
+load_dotenv()
 
 from mdtojson import parse_markdown_to_ast
 from llm_structure_checker import check_and_heal_ast

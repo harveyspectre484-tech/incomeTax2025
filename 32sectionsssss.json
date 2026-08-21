@@ -1,0 +1,1215 @@
+{
+  "sections": [
+    {
+      "type": "section",
+      "number": "32",
+      "id": "32",
+      "title": "Other deductions.",
+      "line_start": 4,
+      "text": "32. The following amounts shall be allowed as deduction in computing income chargeable under section 26:—",
+      "subsections": [],
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "32-a",
+          "line_start": 6,
+          "text": "(a) bonus or commission paid to an employee for services rendered, but only when such amount would not have been payable to the employee as profits or dividend if it had not been paid as bonus or commission;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "32-b",
+          "line_start": 7,
+          "text": "(b) interest paid in respect of capital borrowed for the purposes of business or profession, where—",
+          "children": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-b-i",
+              "line_start": 8,
+              "text": "(i) such interest shall not include interest on capital borrowed for acquisition of an asset, whether capitalised in the books of account or not, for any period beginning from the date the capital was borrowed for acquisition of the asset till the date that asset was first put to use;",
+              "references": [
+                {
+                  "reference_id": "ref-32-b-i-002",
+                  "target_id": "36(1)(iii)",
+                  "target_type": "clause",
+                  "anchor_text": "such interest",
+                  "relationship": "exception_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-b-i-003",
+                  "target_id": "43(1)",
+                  "target_type": "section",
+                  "anchor_text": "capitalised in the books of account",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-b-i-004",
+                  "target_id": "32",
+                  "target_type": "section",
+                  "anchor_text": "first put to use",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-b-i-005",
+                  "target_id": "2(12A)",
+                  "target_type": "clause",
+                  "anchor_text": "books of account",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-b-ii",
+              "line_start": 9,
+              "text": "(ii) recurring subscriptions paid periodically by shareholders or subscribers in Mutual Benefit Societies fulfilling the conditions as may be prescribed, shall be deemed to be capital borrowed;",
+              "references": [
+                {
+                  "reference_id": "ref-32-b-ii-006",
+                  "target_id": "rules",
+                  "target_type": "external_act",
+                  "anchor_text": "as may be prescribed",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-b-ii-007",
+                  "target_id": "32",
+                  "target_type": "section",
+                  "anchor_text": "capital borrowed",
+                  "relationship": "defines_term",
+                  "confidence": "medium",
+                  "detected_by": "llm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "32-c",
+          "line_start": 10,
+          "text": "(c) contribution paid by a public financial institution to the credit guarantee fund trust for small industries as the Central Government may, by notification, specify;",
+          "references": [
+            {
+              "reference_id": "ref-32-c-008",
+              "target_id": "Companies Act, 1956",
+              "target_type": "external_act",
+              "anchor_text": "public financial institution",
+              "relationship": "defines_term",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-c-009",
+              "target_id": "Micro, Small and Medium Enterprises Development Act, 2006",
+              "target_type": "external_act",
+              "anchor_text": "small industries",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-c-010",
+              "target_id": "General Clauses Act, 1897",
+              "target_type": "external_act",
+              "anchor_text": "Central Government",
+              "relationship": "defines_term",
+              "confidence": "medium",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "32-d",
+          "line_start": 11,
+          "text": "(d) the pro rata amount of discount on a zero coupon bond having regard to the period of life of such bond calculated in the manner, as may be prescribed, where—",
+          "children": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-d-i",
+              "line_start": 12,
+              "text": "(i) \"discount\" means the difference between the amount received or receivable by the infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank issuing the bond, and the amount payable on maturity or redemption of such bond;",
+              "references": [
+                {
+                  "reference_id": "ref-32-d-i-012",
+                  "target_id": [
+                    "2(26A)"
+                  ],
+                  "target_type": "clause",
+                  "anchor_text": "infrastructure capital company",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-d-i-013",
+                  "target_id": [
+                    "2(26B)"
+                  ],
+                  "target_type": "clause",
+                  "anchor_text": "infrastructure capital fund",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-d-i-014",
+                  "target_id": [
+                    "2(36A)"
+                  ],
+                  "target_type": "clause",
+                  "anchor_text": "public sector company",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-d-i-015",
+                  "target_id": [
+                    "2(40)"
+                  ],
+                  "target_type": "clause",
+                  "anchor_text": "scheduled bank",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-d-ii",
+              "line_start": 13,
+              "text": "(ii) \"period of life of bond\" means the period commencing from the date of issue of the bond and ending on the date of the maturity or redemption of such bond;"
+            }
+          ],
+          "references": [
+            {
+              "reference_id": "ref-32-d-011",
+              "target_id": "rules",
+              "target_type": "external_act",
+              "anchor_text": "prescribed",
+              "relationship": "procedural_reference",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "32-e",
+          "line_start": 14,
+          "text": "(e) the amount carried to a special reserve created and maintained by a specified entity, subject to the following conditions:—",
+          "children": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-e-i",
+              "line_start": 15,
+              "text": "(i) such amount shall not exceed 20% of the profits derived from an eligible business computed under the head \"Profits and gains of business or profession\" before any deductions under this clause; and",
+              "references": [
+                {
+                  "reference_id": "ref-32-e-i-018",
+                  "target_id": "32-e",
+                  "target_type": "clause",
+                  "anchor_text": "under this clause",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-e-i-019",
+                  "target_id": [
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44DB"
+                  ],
+                  "target_type": "section",
+                  "anchor_text": "Profits and gains of business or profession",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-e-i-020",
+                  "target_id": "32-e",
+                  "target_type": "clause",
+                  "anchor_text": "eligible business",
+                  "relationship": "defines_term",
+                  "confidence": "medium",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-e-ii",
+              "line_start": 16,
+              "text": "(ii) when the aggregate of such amounts carried to such reserve account from time to time exceeds twice the amount of paid-up share capital and of general reserves of the specified entity, no deduction shall be allowable on such excess,",
+              "references": [
+                {
+                  "reference_id": "ref-32-e-ii-021",
+                  "target_id": "specified_entity_definition",
+                  "target_type": "clause",
+                  "anchor_text": "specified entity",
+                  "relationship": "defines_term",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-e-ii-022",
+                  "target_id": "Companies Act",
+                  "target_type": "external_act",
+                  "anchor_text": "paid-up share capital",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-e-ii-023",
+                  "target_id": "Companies Act",
+                  "target_type": "external_act",
+                  "anchor_text": "general reserves",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-e-ii-024",
+                  "target_id": "32-e",
+                  "target_type": "clause",
+                  "anchor_text": "reserve account",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "explanation",
+              "line_start": 17,
+              "text": "and for the purposes of this clause,—",
+              "references": [
+                {
+                  "reference_id": "ref-node-025",
+                  "target_id": "32-e",
+                  "target_type": "clause",
+                  "anchor_text": "for the purposes of this clause",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "regex"
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "number": "A",
+              "id": "32-e-A",
+              "line_start": 18,
+              "text": "(A) \"specified entity\" means—",
+              "children": [
+                {
+                  "type": "sub_item",
+                  "number": "I",
+                  "id": "32-e-A-I",
+                  "line_start": 19,
+                  "text": "(I) a public financial institution as specified in section 2(72) of the Companies Act, 2013 (18 of 2013);",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-A-I-026",
+                      "target_id": "external:Companies Act, 2013:2(72)",
+                      "target_type": "external_act",
+                      "anchor_text": "section 2(72) of the Companies Act, 2013",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex",
+                      "act_name": "Companies Act, 2013"
+                    },
+                    {
+                      "reference_id": "ref-32-e-A-I-027",
+                      "target_id": "Companies Act, 2013",
+                      "target_type": "external_act",
+                      "anchor_text": "18 of 2013",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "II",
+                  "id": "32-e-A-II",
+                  "line_start": 20,
+                  "text": "(II) a financial corporation which is a public sector company;",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-A-II-028",
+                      "target_id": "2-36A",
+                      "target_type": "clause",
+                      "anchor_text": "public sector company",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "III",
+                  "id": "32-e-A-III",
+                  "line_start": 21,
+                  "text": "(III) a banking company;"
+                },
+                {
+                  "type": "sub_item",
+                  "number": "IV",
+                  "id": "32-e-A-IV",
+                  "line_start": 22,
+                  "text": "(IV) a co-operative bank other than a primary agricultural credit society or a primary co-operative agricultural and rural development bank;",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-A-IV-029",
+                      "target_id": "Banking Regulation Act, 1949, Section 5(cci)",
+                      "target_type": "section",
+                      "anchor_text": "co-operative bank",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-A-IV-030",
+                      "target_id": "Banking Regulation Act, 1949, Section 5(cciv)",
+                      "target_type": "section",
+                      "anchor_text": "primary agricultural credit society",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-A-IV-031",
+                      "target_id": "Banking Regulation Act, 1949, Section 5(ccv)",
+                      "target_type": "section",
+                      "anchor_text": "primary co-operative agricultural and rural development bank",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "V",
+                  "id": "32-e-A-V",
+                  "line_start": 23,
+                  "text": "(V) a housing finance company; and"
+                },
+                {
+                  "type": "sub_item",
+                  "number": "VI",
+                  "id": "32-e-A-VI",
+                  "line_start": 24,
+                  "text": "(VI) any other financial corporation including a public company;"
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "number": "B",
+              "id": "32-e-B",
+              "line_start": 25,
+              "text": "(B) \"eligible business\" means,—",
+              "children": [
+                {
+                  "type": "sub_item",
+                  "number": "I",
+                  "id": "32-e-B-I",
+                  "line_start": 26,
+                  "text": "(I) in respect of any of the specified entities referred to in clause (e)(A)(I) to (IV), the business of providing long-term finance for—",
+                  "children": [
+                    {
+                      "type": "sub_sub_item",
+                      "number": "a",
+                      "id": "32-e-B-I-a",
+                      "line_start": 27,
+                      "text": "(a) industrial or agricultural development;"
+                    },
+                    {
+                      "type": "sub_sub_item",
+                      "number": "b",
+                      "id": "32-e-B-I-b",
+                      "line_start": 28,
+                      "text": "(b) development of infrastructure facility in India; or"
+                    },
+                    {
+                      "type": "sub_sub_item",
+                      "number": "c",
+                      "id": "32-e-B-I-c",
+                      "line_start": 29,
+                      "text": "(c) development of housing in India;"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-B-I-032",
+                      "target_id": "e",
+                      "target_type": "clause",
+                      "anchor_text": "clause (e)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-B-I-033",
+                      "target_id": [
+                        "32-e-A-I",
+                        "32-e-A-II",
+                        "32-e-A-III",
+                        "32-e-A-IV"
+                      ],
+                      "target_type": "sub_clause",
+                      "anchor_text": "clause (e)(A)(I) to (IV)",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "II",
+                  "id": "32-e-B-II",
+                  "line_start": 30,
+                  "text": "(II) in respect of the specified entity referred to in clause (e)(A)(V), the business of providing long-term finance for the construction or purchase of houses in India for residential purposes; and",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-B-II-034",
+                      "target_id": "e",
+                      "target_type": "clause",
+                      "anchor_text": "clause (e)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-B-II-035",
+                      "target_id": "clause (e)(A)(V)",
+                      "target_type": "sub_clause",
+                      "anchor_text": "clause (e)(A)(V)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "III",
+                  "id": "32-e-B-III",
+                  "line_start": 31,
+                  "text": "(III) in respect of the specified entity referred to in clause (e)(A)(VI), the business of providing long-term finance for development of infrastructure facility in India;",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-B-III-036",
+                      "target_id": "e",
+                      "target_type": "clause",
+                      "anchor_text": "clause (e)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-B-III-037",
+                      "target_id": "clause (e)(A)(VI)",
+                      "target_type": "sub_clause",
+                      "anchor_text": "clause (e)(A)(VI)",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "number": "C",
+              "id": "32-e-C",
+              "line_start": 32,
+              "text": "(C) \"infrastructure facility\" means—",
+              "children": [
+                {
+                  "type": "sub_item",
+                  "number": "I",
+                  "id": "32-e-C-I",
+                  "line_start": 33,
+                  "text": "(I) an infrastructure facility as defined in Explanation to section 80-IA(4)(i) of the Income-tax Act, 1961 (43 of 1961) or any other public facility of a similar nature as may be notified by the Board in this behalf and which fulfils the conditions as may be prescribed;",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-C-I-038",
+                      "target_id": "80",
+                      "target_type": "section",
+                      "anchor_text": "section 80",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-I-039",
+                      "target_id": "80-IA(4)(i)",
+                      "target_type": "clause",
+                      "anchor_text": "section 80-IA(4)(i)",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-I-040",
+                      "target_id": "Income-tax Act, 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "Income-tax Act, 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-I-041",
+                      "target_id": "43 of 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "43 of 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-I-042",
+                      "target_id": "80-IA(4)(i)_explanation",
+                      "target_type": "explanation",
+                      "anchor_text": "Explanation to section 80-IA(4)(i)",
+                      "relationship": "defines_term",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "II",
+                  "id": "32-e-C-II",
+                  "line_start": 34,
+                  "text": "(II) an undertaking referred to in section 80-IA(4)(ii) or (iii) or (iv) or (vi) of the Income-tax Act, 1961 (43 of 1961); and",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-C-II-043",
+                      "target_id": "80",
+                      "target_type": "section",
+                      "anchor_text": "section 80",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-II-044",
+                      "target_id": [
+                        "80-IA(4)(ii)",
+                        "80-IA(4)(iii)",
+                        "80-IA(4)(iv)",
+                        "80-IA(4)(vi)"
+                      ],
+                      "target_type": "clause",
+                      "anchor_text": "section 80-IA(4)(ii) or (iii) or (iv) or (vi)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-II-045",
+                      "target_id": "Income-tax Act, 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "Income-tax Act, 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-II-046",
+                      "target_id": "Act 43 of 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "43 of 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_item",
+                  "number": "III",
+                  "id": "32-e-C-III",
+                  "line_start": 35,
+                  "text": "(III) an undertaking referred to in section 80-IB(10) of the Income-tax Act, 1961 (43 of 1961);",
+                  "references": [
+                    {
+                      "reference_id": "ref-32-e-C-III-047",
+                      "target_id": "80",
+                      "target_type": "section",
+                      "anchor_text": "section 80",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "regex"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-III-048",
+                      "target_id": "section 80-IB(10)",
+                      "target_type": "subsection",
+                      "anchor_text": "section 80-IB(10)",
+                      "relationship": "depends_on",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-III-049",
+                      "target_id": "Income-tax Act, 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "Income-tax Act, 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    },
+                    {
+                      "reference_id": "ref-32-e-C-III-050",
+                      "target_id": "Income-tax Act, 1961",
+                      "target_type": "external_act",
+                      "anchor_text": "43 of 1961",
+                      "relationship": "related_to",
+                      "confidence": "high",
+                      "detected_by": "llm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "reference_id": "ref-32-e-016",
+              "target_id": [
+                "32-e-i",
+                "32-e-ii",
+                "32-e-iii"
+              ],
+              "target_type": "clause",
+              "anchor_text": "following conditions",
+              "relationship": "subject_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-e-017",
+              "target_id": "specified_entity_definition",
+              "target_type": "clause",
+              "anchor_text": "specified entity",
+              "relationship": "defines_term",
+              "confidence": "medium",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "32-f",
+          "line_start": 36,
+          "text": "(f) any expenditure, not being capital expenditure, incurred by a corporation or a body corporate, by whatever name called, if,—",
+          "children": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-f-i",
+              "line_start": 37,
+              "text": "(i) it is constituted or established by a Central Act or State Act or Provincial Act;",
+              "references": [
+                {
+                  "reference_id": "ref-32-f-i-051",
+                  "target_id": "Central Act",
+                  "target_type": "external_act",
+                  "anchor_text": "Central Act",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-f-i-052",
+                  "target_id": "State Act",
+                  "target_type": "external_act",
+                  "anchor_text": "State Act",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-f-i-053",
+                  "target_id": "Provincial Act",
+                  "target_type": "external_act",
+                  "anchor_text": "Provincial Act",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-f-ii",
+              "line_start": 38,
+              "text": "(ii) it is notified by the Central Government for the purposes of this clause having regard to the objects and purposes of the Act referred to in sub-clause (i); and",
+              "references": [
+                {
+                  "reference_id": "ref-32-f-ii-054",
+                  "target_id": "i",
+                  "target_type": "sub_clause",
+                  "anchor_text": "sub-clause (i)",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-f-ii-055",
+                  "target_id": "32-f",
+                  "target_type": "clause",
+                  "anchor_text": "for the purposes of this clause",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-f-ii-056",
+                  "target_id": "external_act",
+                  "target_type": "external_act",
+                  "anchor_text": "the Act",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "32-f-iii",
+              "line_start": 39,
+              "text": "(iii) the expenditure is incurred for the objects and purposes authorised by the Act under which it is constituted or established;",
+              "references": [
+                {
+                  "reference_id": "ref-32-f-iii-057",
+                  "target_id": "external_act",
+                  "target_type": "external_act",
+                  "anchor_text": "the Act",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "32-g",
+          "line_start": 40,
+          "text": "(g) the expenditure incurred by a co-operative society engaged in the business of manufacture of sugar, on purchase of sugarcane at a price equal to or less than the price fixed or approved by the Government;",
+          "references": [
+            {
+              "reference_id": "ref-32-g-058",
+              "target_id": "2(19)",
+              "target_type": "clause",
+              "anchor_text": "co-operative society",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-g-059",
+              "target_id": "2(29BA)",
+              "target_type": "clause",
+              "anchor_text": "manufacture",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-g-060",
+              "target_id": "2(13)",
+              "target_type": "clause",
+              "anchor_text": "business",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "32-h",
+          "line_start": 41,
+          "text": "(h) marked to market loss or other expected loss as computed as per the income computation and disclosure standards notified under section 276(2);",
+          "references": [
+            {
+              "reference_id": "ref-32-h-061",
+              "target_id": "276",
+              "target_type": "section",
+              "anchor_text": "section 276",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "regex"
+            },
+            {
+              "reference_id": "ref-32-h-062",
+              "target_id": "276(2)",
+              "target_type": "subsection",
+              "anchor_text": "section 276(2)",
+              "relationship": "procedural_reference",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "32-i",
+          "line_start": 42,
+          "text": "(i) any expenditure bona fide incurred by a company for the purpose of promoting family planning amongst its employees, subject to the following conditions:—",
+          "children": [
+            {
+              "type": "item",
+              "number": "A",
+              "id": "32-i-A",
+              "line_start": 43,
+              "text": "(A) if such expenditure or any part of it is of capital nature, one-fifth of it shall be deducted for the tax year in which it was incurred and the balance shall be deducted in equal instalments for each of the four immediately succeeding tax years;",
+              "references": [
+                {
+                  "reference_id": "ref-32-i-A-065",
+                  "target_id": "74",
+                  "target_type": "section",
+                  "anchor_text": "tax year",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-A-066",
+                  "target_id": "21",
+                  "target_type": "section",
+                  "anchor_text": "capital nature",
+                  "relationship": "exception_to",
+                  "confidence": "medium",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-A-067",
+                  "target_id": "32",
+                  "target_type": "section",
+                  "anchor_text": "such expenditure",
+                  "relationship": "depends_on",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "number": "B",
+              "id": "32-i-B",
+              "line_start": 44,
+              "text": "(B) the provisions of sections 33(11) and 112(3) shall apply to deduction under this clause as they apply in relation to deductions allowable in respect of depreciation;",
+              "references": [
+                {
+                  "reference_id": "ref-32-i-B-068",
+                  "target_id": "33",
+                  "target_type": "section",
+                  "anchor_text": "sections 33",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-i-B-069",
+                  "target_id": "32-i",
+                  "target_type": "clause",
+                  "anchor_text": "under this clause",
+                  "relationship": "related_to",
+                  "confidence": "medium",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-i-B-070",
+                  "target_id": "112(3)",
+                  "target_type": "subsection",
+                  "anchor_text": "112(3)",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-B-071",
+                  "target_id": "33(11)",
+                  "target_type": "subsection",
+                  "anchor_text": "33(11)",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "number": "C",
+              "id": "32-i-C",
+              "line_start": 45,
+              "text": "(C) the provisions of sections 38(1)(c), 39(4) (Table: Sl. No. 9), 45(6) and (10), shall apply to an asset representing capital expenditure for promoting family planning, to the extent they apply to an asset representing capital expenditure on scientific research;",
+              "references": [
+                {
+                  "reference_id": "ref-32-i-C-072",
+                  "target_id": "38",
+                  "target_type": "section",
+                  "anchor_text": "sections 38",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "regex"
+                },
+                {
+                  "reference_id": "ref-32-i-C-073",
+                  "target_id": "38(1)(c)",
+                  "target_type": "clause",
+                  "anchor_text": "38(1)(c)",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-C-074",
+                  "target_id": "39(4)",
+                  "target_type": "subsection",
+                  "anchor_text": "39(4)",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-C-075",
+                  "target_id": "45(6)",
+                  "target_type": "subsection",
+                  "anchor_text": "45(6)",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-i-C-076",
+                  "target_id": "45(10)",
+                  "target_type": "subsection",
+                  "anchor_text": "10",
+                  "relationship": "procedural_reference",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "reference_id": "ref-32-i-063",
+              "target_id": "2(17)",
+              "target_type": "clause",
+              "anchor_text": "company",
+              "relationship": "defines_term",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-i-064",
+              "target_id": [
+                "36(1)(ix)(a)",
+                "36(1)(ix)(b)"
+              ],
+              "target_type": "sub_clause",
+              "anchor_text": "following conditions",
+              "relationship": "subject_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "j",
+          "id": "32-j",
+          "line_start": 46,
+          "text": "(j) the amount being difference between the actual cost of animals used for the purposes of the business or profession otherwise than as stock-in-trade and the amount realised from the carcasses or animals, where such animals have died or become permanently useless; and",
+          "references": [
+            {
+              "reference_id": "ref-32-j-077",
+              "target_id": "43(1)",
+              "target_type": "clause",
+              "anchor_text": "actual cost",
+              "relationship": "depends_on",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-j-078",
+              "target_id": "28",
+              "target_type": "section",
+              "anchor_text": "business or profession",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "k",
+          "id": "32-k",
+          "line_start": 47,
+          "text": "(k) the amount paid as securities transaction tax or commodities transaction tax, if—",
+          "children": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-k-i",
+              "line_start": 48,
+              "text": "(i) the taxable securities transactions or taxable commodities transactions are entered into the course of the business during the tax year; and",
+              "references": [
+                {
+                  "reference_id": "ref-32-k-i-081",
+                  "target_id": "Finance (No. 2) Act, 2004",
+                  "target_type": "external_act",
+                  "anchor_text": "taxable securities transactions",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-k-i-082",
+                  "target_id": "Finance Act, 2013",
+                  "target_type": "external_act",
+                  "anchor_text": "taxable commodities transactions",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-k-ii",
+              "line_start": 49,
+              "text": "(ii) the income arising from such taxable securities transactions or taxable commodities transactions is included in the income computed under the head \"Profits and gains of business or profession\".",
+              "references": [
+                {
+                  "reference_id": "ref-32-k-ii-083",
+                  "target_id": "Finance (No. 2) Act, 2004",
+                  "target_type": "external_act",
+                  "anchor_text": "taxable securities transactions",
+                  "relationship": "defines_term",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-k-ii-084",
+                  "target_id": "Finance Act, 2013",
+                  "target_type": "external_act",
+                  "anchor_text": "taxable commodities transactions",
+                  "relationship": "defines_term",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                },
+                {
+                  "reference_id": "ref-32-k-ii-085",
+                  "target_id": "28",
+                  "target_type": "section",
+                  "anchor_text": "Profits and gains of business or profession",
+                  "relationship": "related_to",
+                  "confidence": "high",
+                  "detected_by": "llm"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "reference_id": "ref-32-k-079",
+              "target_id": "Finance (No. 2) Act, 2004",
+              "target_type": "external_act",
+              "anchor_text": "securities transaction tax",
+              "relationship": "depends_on",
+              "confidence": "high",
+              "detected_by": "llm"
+            },
+            {
+              "reference_id": "ref-32-k-080",
+              "target_id": "Finance Act, 2013",
+              "target_type": "external_act",
+              "anchor_text": "commodities transaction tax",
+              "relationship": "depends_on",
+              "confidence": "high",
+              "detected_by": "llm"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "reference_id": "ref-32-001",
+          "target_id": "26",
+          "target_type": "section",
+          "anchor_text": "section 26",
+          "relationship": "related_to",
+          "confidence": "high",
+          "detected_by": "regex"
+        }
+      ]
+    }
+  ]
+}
