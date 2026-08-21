@@ -1,0 +1,132 @@
+{
+  "sections": [
+    {
+      "type": "section",
+      "number": "37",
+      "id": "37",
+      "title": "General expenditure.",
+      "line_start": 1,
+      "text": "Section 37. General expenditure.",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "37-1",
+          "indent": 0,
+          "line_start": 3,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "(1) Any expenditure (not being an expenditure of the nature specified in sections 28 to 33, 44 to 49, 51 and 52 and not being in the nature of capital expenditure or personal expenses of the assessee), laid out or expended wholly and exclusively for the purposes of the business or profession shall be allowed in computing the income chargeable under the head \"Profits and gains of business or profession\".",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-37-1-002",
+              "target_id": [
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "51",
+                "52"
+              ],
+              "target_type": "section",
+              "anchor_text": "sections 28 to 33, 44 to 49, 51 and 52",
+              "relationship": "depends_on",
+              "confidence": "high",
+              "detected_by": "regex"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "37-2",
+          "indent": 0,
+          "line_start": 5,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "(2) Notwithstanding anything contained in sub-section (1), no allowance shall be made in respect of any expenditure incurred by an assessee on advertisement in any souvenir, brochure, tract, pamphlet or the like published by a political party.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-37-2-003",
+              "target_id": "1",
+              "target_type": "sub_clause",
+              "anchor_text": "sub-section (1)",
+              "relationship": "exception_to",
+              "confidence": "high",
+              "detected_by": "regex"
+            }
+          ]
+        }
+      ],
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "37-a",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "(a) Any expenditure incurred by an assessee on activities relating to corporate social responsibility referred to in section 135 of the Companies Act, 2013 shall not be deemed to be an expenditure incurred by the assessee for the purposes of the business or profession.",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-37-a-004",
+              "target_id": "external:Companies Act, 2013:135",
+              "target_type": "external_act",
+              "anchor_text": "section 135 of the Companies Act, 2013",
+              "relationship": "depends_on",
+              "confidence": "high",
+              "detected_by": "regex",
+              "act_name": "Companies Act, 2013"
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "37-b",
+          "indent": 0,
+          "line_start": 9,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "(b) marked to market loss or other expected loss as computed as per the income computation and disclosure standards notified under section 276(2);",
+          "children": [],
+          "references": [
+            {
+              "reference_id": "ref-37-b-005",
+              "target_id": "276",
+              "target_type": "section",
+              "anchor_text": "section 276",
+              "relationship": "related_to",
+              "confidence": "high",
+              "detected_by": "regex"
+            }
+          ]
+        }
+      ],
+      "children": [],
+      "references": [
+        {
+          "reference_id": "ref-37-001",
+          "target_id": "37",
+          "target_type": "section",
+          "anchor_text": "Section 37",
+          "relationship": "related_to",
+          "confidence": "high",
+          "detected_by": "regex"
+        }
+      ]
+    }
+  ]
+}

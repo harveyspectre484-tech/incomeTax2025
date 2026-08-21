@@ -143,74 +143,76 @@
                   "line_start": 18,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "\"specified entity\" means—",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "I",
-                  "id": "32-e-ii-I",
-                  "indent": 0,
-                  "line_start": 19,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a public financial institution as specified in section 2(72) of the Companies Act, 2013 (18 of 2013);",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "II",
-                  "id": "32-e-ii-II",
-                  "indent": 0,
-                  "line_start": 20,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a financial corporation which is a public sector company;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "III",
-                  "id": "32-e-ii-III",
-                  "indent": 0,
-                  "line_start": 21,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a banking company;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "IV",
-                  "id": "32-e-ii-IV",
-                  "indent": 0,
-                  "line_start": 22,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a co-operative bank other than a primary agricultural credit society or a primary co-operative agricultural and rural development bank;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "V",
-                  "id": "32-e-ii-V",
-                  "indent": 0,
-                  "line_start": 23,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a housing finance company; and",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "VI",
-                  "id": "32-e-ii-VI",
-                  "indent": 0,
-                  "line_start": 24,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any other financial corporation including a public company;",
-                  "children": []
+                  "text_before_sub_items": "\"specified entity\" means—",
+                  "sub_items": [
+                    {
+                      "type": "sub_item",
+                      "number": "I",
+                      "id": "32-e-ii-A-I",
+                      "indent": 0,
+                      "line_start": 19,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a public financial institution as specified in section 2(72) of the Companies Act, 2013 (18 of 2013);",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "II",
+                      "id": "32-e-ii-A-II",
+                      "indent": 0,
+                      "line_start": 20,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a financial corporation which is a public sector company;",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "III",
+                      "id": "32-e-ii-A-III",
+                      "indent": 0,
+                      "line_start": 21,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a banking company;",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "IV",
+                      "id": "32-e-ii-A-IV",
+                      "indent": 0,
+                      "line_start": 22,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a co-operative bank other than a primary agricultural credit society or a primary co-operative agricultural and rural development bank;",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "V",
+                      "id": "32-e-ii-A-V",
+                      "indent": 0,
+                      "line_start": 23,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a housing finance company; and",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "VI",
+                      "id": "32-e-ii-A-VI",
+                      "indent": 0,
+                      "line_start": 24,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "any other financial corporation including a public company;",
+                      "children": []
+                    }
+                  ],
+                  "text_after_sub_items": ""
                 },
                 {
                   "type": "item",
@@ -220,74 +222,42 @@
                   "line_start": 25,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "\"eligible business\" means,—",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "I",
-                  "id": "32-e-ii-I",
-                  "indent": 0,
-                  "line_start": 26,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in respect of any of the specified entities referred to in clause (e)(A)(I) to (IV), the business of providing long-term finance for—",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "a",
-                  "id": "32-e-ii-a",
-                  "indent": 0,
-                  "line_start": 27,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "industrial or agricultural development;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "b",
-                  "id": "32-e-ii-b",
-                  "indent": 0,
-                  "line_start": 28,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "development of infrastructure facility in India; or",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "c",
-                  "id": "32-e-ii-c",
-                  "indent": 0,
-                  "line_start": 29,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "development of housing in India;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "II",
-                  "id": "32-e-ii-II",
-                  "indent": 0,
-                  "line_start": 30,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in respect of the specified entity referred to in clause (e)(A)(V), the business of providing long-term finance for the construction or purchase of houses in India for residential purposes; and",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "III",
-                  "id": "32-e-ii-III",
-                  "indent": 0,
-                  "line_start": 31,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in respect of the specified entity referred to in clause (e)(A)(VI), the business of providing long-term finance for development of infrastructure facility in India;",
-                  "children": []
+                  "text_before_sub_items": "\"eligible business\" means,—",
+                  "sub_items": [
+                    {
+                      "type": "sub_item",
+                      "number": "I",
+                      "id": "32-e-ii-B-I",
+                      "indent": 0,
+                      "line_start": 26,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "in respect of any of the specified entities referred to in clause (e)(A)(I) to (IV), the business of providing long-term finance for industrial or agricultural development;development of infrastructure facility in India; or development of housing in India;",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "II",
+                      "id": "32-e-ii-c-II",
+                      "indent": 0,
+                      "line_start": 30,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "in respect of the specified entity referred to in clause (e)(A)(V), the business of providing long-term finance for the construction or purchase of houses in India for residential purposes; and",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "III",
+                      "id": "32-e-ii-c-III",
+                      "indent": 0,
+                      "line_start": 31,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "in respect of the specified entity referred to in clause (e)(A)(VI), the business of providing long-term finance for development of infrastructure facility in India;",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "type": "item",
@@ -297,41 +267,43 @@
                   "line_start": 32,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "\"infrastructure facility\" means—",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "I",
-                  "id": "32-e-ii-I",
-                  "indent": 0,
-                  "line_start": 33,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an infrastructure facility as defined in Explanation to section 80-IA(4)(i) of the Income-tax Act, 1961 (43 of 1961) or any other public facility of a similar nature as may be notified by the Board in this behalf and which fulfils the conditions as may be prescribed;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "II",
-                  "id": "32-e-ii-II",
-                  "indent": 0,
-                  "line_start": 34,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an undertaking referred to in section 80-IA(4)(ii) or (iii) or (iv) or (vi) of the Income-tax Act, 1961 (43 of 1961); and",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "III",
-                  "id": "32-e-ii-III",
-                  "indent": 0,
-                  "line_start": 35,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "an undertaking referred to in section 80-IB(10) of the Income-tax Act, 1961 (43 of 1961);",
-                  "children": []
+                  "text_before_sub_items": "\"infrastructure facility\" means—",
+                  "sub_items": [
+                    {
+                      "type": "sub_item",
+                      "number": "I",
+                      "id": "32-e-ii-C-I",
+                      "indent": 0,
+                      "line_start": 33,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "an infrastructure facility as defined in Explanation to section 80-IA(4)(i) of the Income-tax Act, 1961 (43 of 1961) or any other public facility of a similar nature as may be notified by the Board in this behalf and which fulfils the conditions as may be prescribed;",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "II",
+                      "id": "32-e-ii-C-II",
+                      "indent": 0,
+                      "line_start": 34,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "an undertaking referred to in section 80-IA(4)(ii) or (iii) or (iv) or (vi) of the Income-tax Act, 1961 (43 of 1961); and",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_item",
+                      "number": "III",
+                      "id": "32-e-ii-C-III",
+                      "indent": 0,
+                      "line_start": 35,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "an undertaking referred to in section 80-IB(10) of the Income-tax Act, 1961 (43 of 1961);",
+                      "children": []
+                    }
+                  ],
+                  "text_after_sub_items": ""
                 },
                 {
                   "type": "item",
@@ -373,6 +345,52 @@
               "type": "sub_clause",
               "number": "iii",
               "id": "32-e-iii",
+              "indent": 0,
+              "line_start": 39,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the expenditure is incurred for the objects and purposes authorised by the Act under which it is constituted or established;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "32-f",
+          "indent": 0,
+          "line_start": 14,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "any expenditure, not being capital expenditure, incurred by a corporation or a body corporate, by whatever name called, if,—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "32-f-i",
+              "indent": 0,
+              "line_start": 15,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is constituted or established by a Central Act or State Act or Provincial Act;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "32-f-ii",
+              "indent": 0,
+              "line_start": 38,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it is notified by the Central Government for the purposes of this clause having regard to the objects and purposes of the Act referred to in sub-clause (i); and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "32-f-iii",
               "indent": 0,
               "line_start": 39,
               "page_start": 1,

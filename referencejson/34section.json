@@ -25,11 +25,44 @@
           "references": [
             {
               "reference_id": "ref-34-1-001",
-              "target_id": "28",
+              "target_id": [
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33"
+              ],
               "target_type": "section",
               "anchor_text": "sections 28 to 33",
               "relationship": "related_to",
               "confidence": "medium"
+            },
+            {
+              "reference_id": "ref-34-1-002",
+              "target_ids": [
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49"
+              ],
+              "target_type": "section",
+              "anchor_text": "44 to 49",
+              "relationship": "exclusion_reference",
+              "confidence": "high"
+            },
+            {
+              "reference_id": "ref-34-1-003",
+              "target_ids": [
+                "51",
+                "52"
+              ],
+              "target_type": "section",
+              "anchor_text": "51 and 52",
+              "relationship": "exclusion_reference",
+              "confidence": "high"
             }
           ]
         },
