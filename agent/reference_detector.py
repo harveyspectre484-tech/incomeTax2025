@@ -1,8 +1,8 @@
 """
-Legal Reference Detection Agent for Income-Tax Act AST JSON.
+Legal Reference Detection Agent for AST JSON (Novita AI Integration).
 
 Parses AST JSON, extracts internal and external legal cross-references using
-Regex + LLM Fallback, classifies legal relationships into standard categories:
+Regex + Novita AI (Kimi K-3 Model) Fallback, classifies legal relationships into standard categories:
 [depends_on, defines_term, subject_to, exception_to, procedural_reference, related_to, amended_by_footnote],
 handles section ranges (e.g. sections 28 to 33 -> list target_id), and updates the JSON in-place.
 """
@@ -17,13 +17,8 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Union
-from dotenv import load_dotenv
-load_dotenv()
-try:
-    import google.generativeai as genai
-    HAS_GEMINI_SDK = True
-except ImportError:
-    HAS_GEMINI_SDK = False
+
+from novita_client import NovitaAIClient
 
 
 # =====================================================================
@@ -64,9 +59,8 @@ RELATIONSHIP_PATTERNS = [
 def expand_section_range(numbers_str: str) -> List[str]:
     """Expands strings like '28 to 33, 44 to 49, 51 and 52' into a list of section ID strings."""
     results: List[str] = []
-    # Split by comma or 'and'
     parts = re.split(r",|\band\b", numbers_str, flags=re.I)
-    
+
     for part in parts:
         part = part.strip()
         if not part:
@@ -110,10 +104,6 @@ class ReferenceItem:
         return d
 
 
-# =====================================================================
-# STEP 2: RELATIONSHIP CLASSIFIER
-# =====================================================================
-
 def classify_relationship(text: str, match_start: int) -> str:
     """Analyze text snippet preceding the reference to classify relationship."""
     prefix = text[max(0, match_start - 70):match_start]
@@ -137,29 +127,35 @@ def resolve_relative_target(level: str, lineage: Dict[str, Any]) -> Tuple[str, s
 
 
 # =====================================================================
-# STEP 3: REFERENCE DETECTION ENGINE
+# STEP 2: REFERENCE DETECTION ENGINE
 # =====================================================================
 
 class ReferenceDetectorAgent:
     """Agent scanning AST text nodes for internal/external cross-references."""
-#gemini-3-flash-preview
-    def __init__(self, use_llm_fallback: bool = False, model_name: str = "gemini-3.5-flash"):
+
+    def __init__(
+        self,
+        use_llm_fallback: bool = False,
+        api_key: Optional[str] = None,
+        model_name: str = "moonshotai/kimi-k3",
+        temperature: float = 0.1,
+        max_tokens: int = 4096,
+        top_p: float = 0.95,
+    ):
         self.use_llm_fallback = use_llm_fallback
-        self.model_name = model_name
         self.ref_counter = 0
-        self.llm_model = None
+        self.client = NovitaAIClient(
+            api_key=api_key,
+            model=model_name,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            top_p=top_p,
+        )
 
-        if self.use_llm_fallback:
-            self.init_llm_client()
-
-    def init_llm_client(self) -> None:
-        api_key = os.environ.get("GEMINI_API_KEY")
-        if HAS_GEMINI_SDK and api_key:
-            genai.configure(api_key=api_key)
-            self.llm_model = genai.GenerativeModel(self.model_name)
-            print(f"[ReferenceAgent] LLM Fallback activated ({self.model_name})")
-        else:
-            print("[ReferenceAgent Warning] GEMINI_API_KEY missing or SDK not installed. Running regex only.")
+        if self.use_llm_fallback and self.client.is_configured():
+            print(f"[ReferenceAgent] Novita AI Fallback activated ({model_name})")
+        elif self.use_llm_fallback:
+            print("[ReferenceAgent Warning] NOVITA_API_KEY missing. Running regex only.")
 
     def generate_ref_id(self, node_id: str) -> str:
         self.ref_counter += 1
@@ -221,8 +217,6 @@ class ReferenceDetectorAgent:
                 target_type = "sub_clause"
 
             ref_id = self.generate_ref_id(lineage.get("_current_id", ""))
-            
-            # If multiple targets in range, use list as target_id
             target_val = expanded_targets if len(expanded_targets) > 1 else expanded_targets[0]
 
             refs.append(
@@ -262,8 +256,8 @@ class ReferenceDetectorAgent:
                 )
             )
 
-        # 4. LLM Disambiguation Fallback
-        if self.use_llm_fallback and self.llm_model:
+        # 4. Novita AI Disambiguation Fallback
+        if self.use_llm_fallback and self.client.is_configured():
             llm_refs = self.llm_disambiguate_fallback(text, lineage, list(seen_anchors))
             for ref in llm_refs:
                 if ref.anchor_text not in seen_anchors:
@@ -277,11 +271,9 @@ class ReferenceDetectorAgent:
         llm_refs: List[ReferenceItem] = []
         node_id = lineage.get("_current_id", "unknown")
 
-        prompt = f"""You are a specialized Legal AI Agent parsing cross-references in statutory text.
-Find any missing references to other sections, clauses, or external Acts not detected. 
-were ever have to take a reference of income tact act take income tax act 2025, 
-do not take reference of income tax act 1961.
+        system_prompt = "You are a specialized Legal AI Agent parsing cross-references in statutory text."
 
+        prompt = f"""Find any missing references to other sections, clauses, or external Acts not already detected.
 
 Node ID: {node_id}
 Already Detected Anchors: {json.dumps(existing_anchors)}
@@ -289,11 +281,10 @@ Text snippet:
 "{text}"
 
 Task:
-1. If the json structure is not right for (section, subsection, clause, sub_clause) then correct it.
-2. Identify missing cross-references (anchor_text).
-3. Determine target_id (can be a string or list of strings if multiple sections/ranges).
-4. Determine target_type (section, subsection, clause, sub_clause, external_act).
-5. Classify relationship: "depends_on", "defines_term", "subject_to", "exception_to", "procedural_reference", "related_to", "amended_by_footnote".
+1. Identify missing cross-references (anchor_text).
+2. Determine target_id (can be a string or list of strings if multiple sections/ranges).
+3. Determine target_type (section, subsection, clause, sub_clause, external_act).
+4. Classify relationship: "depends_on", "defines_term", "subject_to", "exception_to", "procedural_reference", "related_to", "amended_by_footnote".
 
 Respond ONLY with a JSON array of objects:
 [
@@ -307,8 +298,8 @@ Respond ONLY with a JSON array of objects:
 ]"""
 
         try:
-            response = self.llm_model.generate_content(prompt)
-            raw_res = response.text.strip()
+            raw_res = self.client.generate_chat_completion(prompt, system_prompt=system_prompt)
+            raw_res = raw_res.strip()
             if raw_res.startswith("```"):
                 raw_res = re.sub(r"^```[a-z]*\n?", "", raw_res, flags=re.I)
                 raw_res = re.sub(r"\n?```$", "", raw_res)
@@ -336,7 +327,7 @@ Respond ONLY with a JSON array of objects:
 
 
 # =====================================================================
-# STEP 4: RECURSIVE AST TRAVERSAL
+# STEP 3: RECURSIVE AST TRAVERSAL
 # =====================================================================
 
 def update_node_references(node: Dict[str, Any], detector: ReferenceDetectorAgent, lineage: Dict[str, Any]) -> None:
@@ -351,7 +342,7 @@ def update_node_references(node: Dict[str, Any], detector: ReferenceDetectorAgen
     current_lineage["_current_id"] = node_id
 
     text_pieces = []
-    for key in ("text", "title"):
+    for key in ("text", "title", "text_before_subsections", "text_before_clauses", "text_before_sub_clauses", "text_before_items"):
         if node.get(key):
             text_pieces.append(node[key])
 
@@ -364,7 +355,7 @@ def update_node_references(node: Dict[str, Any], detector: ReferenceDetectorAgen
             for ref in detected:
                 existing_refs.append(ref.to_dict())
 
-    child_keys = ("sections", "subsections", "clauses", "sub_clauses", "items", "sub_items", "children")
+    child_keys = ("chapters", "sections", "subsections", "clauses", "sub_clauses", "items", "sub_items", "children", "explanations", "provisos", "illustrations")
     for key in child_keys:
         children = node.get(key)
         if isinstance(children, list):
@@ -373,11 +364,26 @@ def update_node_references(node: Dict[str, Any], detector: ReferenceDetectorAgen
                     update_node_references(child, detector, current_lineage)
 
 
-def process_document(doc: Dict[str, Any], use_llm: bool = False, model_name: str = "gemini-1.5-flash") -> Dict[str, Any]:
-    detector = ReferenceDetectorAgent(use_llm_fallback=use_llm, model_name=model_name)
+def process_document(
+    doc: Dict[str, Any],
+    use_llm: bool = False,
+    api_key: Optional[str] = None,
+    model_name: str = "moonshotai/kimi-k3",
+    temperature: float = 0.1,
+    max_tokens: int = 4096,
+    top_p: float = 0.95,
+) -> Dict[str, Any]:
+    detector = ReferenceDetectorAgent(
+        use_llm_fallback=use_llm,
+        api_key=api_key,
+        model_name=model_name,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        top_p=top_p,
+    )
     lineage: Dict[str, Any] = {}
 
-    for key in ("sections", "subsections"):
+    for key in ("chapters", "sections", "subsections"):
         items = doc.get(key, [])
         for item in items:
             update_node_references(item, detector, lineage)
@@ -386,15 +392,27 @@ def process_document(doc: Dict[str, Any], use_llm: bool = False, model_name: str
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Legal Reference Detection Agent")
+    parser = argparse.ArgumentParser(description="Legal Reference Detection Agent (Novita AI)")
     parser.add_argument("input", type=Path, help="Input AST JSON file")
     parser.add_argument("-o", "--output", type=Path, default=None, help="Output JSON file path")
     parser.add_argument("--use-llm", action="store_true", help="Enable LLM fallback")
-    parser.add_argument("--model", type=str, default="gemini-1.5-flash", help="Gemini model name")
+    parser.add_argument("--api-key", type=str, default=None, help="Novita API Key")
+    parser.add_argument("--model", type=str, default="moonshotai/kimi-k3", help="Model name")
+    parser.add_argument("--temperature", type=float, default=0.1, help="LLM temperature")
+    parser.add_argument("--max-tokens", type=int, default=4096, help="LLM max tokens")
+    parser.add_argument("--top-p", type=float, default=0.95, help="LLM top_p")
     args = parser.parse_args()
 
     doc = json.loads(args.input.read_text(encoding="utf-8"))
-    updated_doc = process_document(doc, use_llm=args.use_llm, model_name=args.model)
+    updated_doc = process_document(
+        doc,
+        use_llm=args.use_llm,
+        api_key=args.api_key,
+        model_name=args.model,
+        temperature=args.temperature,
+        max_tokens=args.max_tokens,
+        top_p=args.top_p,
+    )
 
     output_path = args.output if args.output else args.input
     output_path.write_text(json.dumps(updated_doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
