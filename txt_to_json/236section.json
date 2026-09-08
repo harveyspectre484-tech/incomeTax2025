@@ -1,0 +1,317 @@
+{
+  "chapters": [
+    {
+      "type": "chapter",
+      "number": "XIV",
+      "title": "",
+      "x": 269.34,
+      "y_start": 65.2,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_children": "TAX ADMINISTRATION A.—Authorities, jurisdiction and functions",
+      "children": [
+        {
+          "type": "section",
+          "number": "236",
+          "id": "236",
+          "title": "Income-tax authorities.",
+          "x": 27.62,
+          "y_start": 127.26,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this Act, there shall be the following classes of income-tax authorities:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "236-a",
+              "x": 40.8,
+              "y_start": 142.12,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "236-b",
+              "x": 40.8,
+              "y_start": 152.73,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Principal Directors General of Income-tax or Principal Chief Commissioners of Income-tax;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "236-c",
+              "x": 41.27,
+              "y_start": 163.33,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Directors General of Income-tax or Chief Commissioners of Income-tax;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "236-d",
+              "x": 40.8,
+              "y_start": 173.94,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Principal Directors of Income-tax or Principal Commissioners of Income-tax;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "236-e",
+              "x": 41.27,
+              "y_start": 184.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Directors of Income-tax or Commissioners of Income-tax or Commissioners of Income-tax (Appeals);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "236-f",
+              "x": 42.68,
+              "y_start": 195.16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Additional Directors of Income-tax or Additional Commissioners of Income-tax or Additional Commissioners of Income-tax (Appeals);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "236-g",
+              "x": 40.8,
+              "y_start": 205.77,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Joint Directors of Income-tax or Joint Commissioners of Income-tax or Joint Commissioners of Income-tax (Appeals);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "236-h",
+              "x": 40.8,
+              "y_start": 216.38,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "Deputy Directors of Income-tax or Deputy Commissioners of Income- tax;",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "236-h-i",
+                  "x": 42.68,
+                  "y_start": 226.98,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Assistant Directors of Income-tax or Assistant Commissioners of Income-tax;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "236-j",
+              "x": 42.68,
+              "y_start": 237.59,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Income-tax Officers;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "k",
+              "id": "236-k",
+              "x": 41.27,
+              "y_start": 248.2,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Tax Recovery Officers; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "l",
+              "id": "236-l",
+              "x": 42.68,
+              "y_start": 258.81,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Inspectors of Income-tax.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_children": ""
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "number": "236",
+      "id": "236",
+      "title": "Income-tax authorities.",
+      "x": 27.62,
+      "y_start": 127.26,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "For the purposes of this Act, there shall be the following classes of income-tax authorities:—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "236-a",
+          "x": 40.8,
+          "y_start": 142.12,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "236-b",
+          "x": 40.8,
+          "y_start": 152.73,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Principal Directors General of Income-tax or Principal Chief Commissioners of Income-tax;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "236-c",
+          "x": 41.27,
+          "y_start": 163.33,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Directors General of Income-tax or Chief Commissioners of Income-tax;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "236-d",
+          "x": 40.8,
+          "y_start": 173.94,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Principal Directors of Income-tax or Principal Commissioners of Income-tax;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "236-e",
+          "x": 41.27,
+          "y_start": 184.55,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Directors of Income-tax or Commissioners of Income-tax or Commissioners of Income-tax (Appeals);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "f",
+          "id": "236-f",
+          "x": 42.68,
+          "y_start": 195.16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Additional Directors of Income-tax or Additional Commissioners of Income-tax or Additional Commissioners of Income-tax (Appeals);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "g",
+          "id": "236-g",
+          "x": 40.8,
+          "y_start": 205.77,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Joint Directors of Income-tax or Joint Commissioners of Income-tax or Joint Commissioners of Income-tax (Appeals);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "h",
+          "id": "236-h",
+          "x": 40.8,
+          "y_start": 216.38,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "Deputy Directors of Income-tax or Deputy Commissioners of Income- tax;",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "236-h-i",
+              "x": 42.68,
+              "y_start": 226.98,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Assistant Directors of Income-tax or Assistant Commissioners of Income-tax;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "j",
+          "id": "236-j",
+          "x": 42.68,
+          "y_start": 237.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Income-tax Officers;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "k",
+          "id": "236-k",
+          "x": 41.27,
+          "y_start": 248.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Tax Recovery Officers; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "l",
+          "id": "236-l",
+          "x": 42.68,
+          "y_start": 258.81,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Inspectors of Income-tax.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

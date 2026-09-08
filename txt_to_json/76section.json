@@ -1,0 +1,148 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "76",
+      "id": "76",
+      "title": "Special provision for computation of capital gains in case of Market Linked Debenture.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "76-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Irrespective of anything contained in section 2(101) or section 72, the gains on the transfer or redemption or maturity, of a capital asset as mentioned in sub-section (2) shall be treated as short-term capital gains and shall be computed as per sub-section (3).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "76-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1), the capital asset shall be—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "76-2-a",
+              "x": 40.8,
+              "y_start": 123.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a unit of a Specified Mutual Fund acquired on or after the 1st April, 2023 or a Market Linked Debenture; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "76-2-b",
+              "x": 40.8,
+              "y_start": 134.16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an unlisted bond or an unlisted debenture which is transferred or redeemed or matures on or after the 23rd July, 2024.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "76-3",
+          "x": 27.62,
+          "y_start": 145.83,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (1), the short-term capital gains shall be computed as per the following formula:— X = A – B – C, where,— X = short-term capital gains; A = full value of consideration received or accruing as a result of the transfer or redemption or maturity of the debenture or unit or bond; B = the cost of acquisition of the debenture or unit or bond; and C = the expenditure incurred wholly and exclusively in connection with such transfer or redemption or maturity.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "76-4",
+          "x": 27.62,
+          "y_start": 243.43,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In computing capital gains under sub-section (3), no deduction shall be allowed for any sum paid as securities transaction tax as per Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "76-5",
+          "x": 27.62,
+          "y_start": 271.54,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "76-5-a",
+              "x": 40.8,
+              "y_start": 286.39,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"Market Linked Debenture\" means a security, by whatever name called, which has an underlying principal component in the form of a debt security and where the returns are linked to market returns on other underlying securities or indices, and include any security classified or regulated as a market linked debenture by the Securities and Exchange Board of India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "76-5-b",
+              "x": 40.8,
+              "y_start": 316.1,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "\"Specified Mutual Fund\" means a Mutual Fund, by whatever name called, which invests more than 65% of its total proceeds in debt and money market instruments or a fund which invests 65% or more of its total proceeds in units of such Mutual Fund, subject to the following:—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "76-5-b-i",
+                  "x": 71.75,
+                  "y_start": 336.25,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the percentage of investment in debt and money market instruments or in units of a fund shall be computed with reference to the annual average of the daily closing figures;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "76-5-b-ii",
+                  "x": 69.33,
+                  "y_start": 356.41,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "\"debt and money market instruments\" shall include any securities, by whatever name called, classified or regulated as debt and money market instruments by the Securities and Exchange Board of India.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

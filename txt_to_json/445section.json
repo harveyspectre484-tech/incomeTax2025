@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "445",
+      "id": "445",
+      "title": "Benefits to related persons.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "445-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "445-b",
+          "x": 40.8,
+          "y_start": 128.33,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

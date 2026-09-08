@@ -1,0 +1,276 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "36",
+      "id": "36",
+      "title": "Expenses or payments not deductible in certain circumstances.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "36-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of this section shall have effect irrespective of anything to the contrary contained in any other provision of this Act relating to computation of income under the head \"Profits and gains of business or profession\".",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "36-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the assessee incurs any expenditure for which payment has been or is to be made to any \"specified person\", which in the opinion of the Assessing Officer is excessive or unreasonable having regard to the—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "36-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "fair market value of the goods, services or facilities; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "36-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "legitimate needs of the business or profession of the assessee; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "36-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "benefit derived by or accruing to the assessee therefrom, so much of the expenditure as considered excessive or unreasonable by him shall not be allowed as a deduction.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "36-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2) and this sub-section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "36-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"specified person\" shall mean the following,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "36-3-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in relation to an assessee mentioned in column B of the Table below, the person referred to in column C thereof:—",
+                  "table": {
+                    "type": "table",
+                    "id": "36-3-a-i-table",
+                    "x": 27.62,
+                    "y_start": 150.0,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "columns": [
+                      "Sl. No.",
+                      "Assessee",
+                      "Specified person"
+                    ],
+                    "rows": [
+                      {
+                        "sl_no": "1",
+                        "assessee": "Individual.",
+                        "specified_person": "Any relative of the assessee."
+                      },
+                      {
+                        "sl_no": "2",
+                        "assessee": "Company.",
+                        "specified_person": "Any director of the company or his relative."
+                      },
+                      {
+                        "sl_no": "3",
+                        "assessee": "Firm.",
+                        "specified_person": "Partner of the firm or his relative."
+                      },
+                      {
+                        "sl_no": "4",
+                        "assessee": "Association of persons.",
+                        "specified_person": "Member of the association or his relative."
+                      },
+                      {
+                        "sl_no": "5",
+                        "assessee": "Hindu undivided family.",
+                        "specified_person": "Member of the family or his relative;"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "36-3-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person being an individual or company or firm or association of persons or Hindu undivided family having substantial interest in the business or profession of the assessee, or any director, partner, member thereof or any relatives of such individual, director, partner, member or any other company in which the first mentioned company has substantial interest;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "36-3-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a company, firm, association of persons, or Hindu undivided family whose director, partner or member has substantial interest in the business or profession of the assessee, or any director, partner or member thereof and their relatives, as the case may be;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iv",
+                  "id": "36-3-a-iv",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "any person carrying on a business or profession, where assessee, being—"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "36-3-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in a case where the business or profession is carried on by a company, such person is, at any time during the tax year, the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) carrying not less than 20% of the voting power; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "36-3-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "in any other case, such person is, at any time during the tax year, beneficially entitled to not less than 20% of the profits of such business or profession."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "36-4",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where in respect of any expenditure incurred by the assessee, any payment or aggregate of payments made in a day to a person exceeds Rs. 10000 and is not made through specified banking or online mode, then the expenditure by way of such payments shall not be allowed as a deduction.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "36-5",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where any deduction was made in any preceding tax year for a liability incurred for any expenditure and payment in respect of such liability is made during a subsequent tax year and if such payment or aggregate of payments made in a day to a person exceeds Rs. 10000 and is not made through specified banking or online mode, such payment shall be deemed to be the income under the head \"Profits and gains of business or profession\" in such subsequent tax year.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "36-6",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-sections (4) and (5), the figures \"Rs. 10000\" shall be read as \"Rs. 35000\" in case the payment is made for plying, hiring or leasing of goods carriages.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "36-7",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-sections (4) and (5) shall not be applicable in cases and circumstances, as may be prescribed, having regard to the nature and extent of banking facilities available, considerations of business expediency and other relevant factors.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "36-8",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Nothing (with reference to mode of payment) contained in any other law in force or in any contract, shall apply in respect of any payment which has been made through specified banking or online mode, in compliance of sub-sections (4) to (7), and no plea shall be allowed to be raised, in any suit or other proceeding on the ground that the payment was not made or tendered in cash or in mode other than through specified banking or online mode.",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "36-9",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction or allowance shall be allowed in respect of marked to market loss or other expected loss, except as allowable under section 32(1)(h).",
+          "clauses": [],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

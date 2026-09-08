@@ -1,0 +1,85 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "2",
+      "id": "2",
+      "title": "Income Tax Department",
+      "indent": 0,
+      "line_start": 4,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "—Income of registered non-profit organisation",
+      "children": []
+    },
+    {
+      "type": "section",
+      "number": "334",
+      "id": "334",
+      "title": "Tax on income of registered non-profit organisation.",
+      "indent": 0,
+      "line_start": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "334-1",
+          "indent": 0,
+          "line_start": 7,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "334-1-a",
+              "indent": 0,
+              "line_start": 8,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate of 30% on specified income for such tax year; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "334-1-b",
+              "indent": 0,
+              "line_start": 9,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "334-2",
+          "indent": 0,
+          "line_start": 10,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "line": 2,
+      "text": "Ministry of Finance, Government of India"
+    }
+  ]
+}

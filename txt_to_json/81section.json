@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "81",
+      "id": "81",
+      "title": "Advance money received.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "81-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "81-b",
+          "x": 40.8,
+          "y_start": 128.33,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

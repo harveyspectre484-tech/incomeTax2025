@@ -1,0 +1,198 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "211",
+      "id": "211",
+      "title": "Tax on non-resident sportsmen or sports associations.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "211-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the total income of an assessee,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "211-1-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "being a sportsman (including an athlete), who is not a citizen of India and is a non-resident, includes any income received or receivable by way of—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "211-1-a-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "participation in India in any game [other than a game the winnings from which are taxable as specified in section 194(1) (Table: Sl. No. 1)] or sport; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "211-1-a-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "advertisement; or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "211-1-a-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "contribution of articles relating to any game or sport in India in newspapers, magazines or journals; or"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "211-1-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "being a non-resident sports association or institution, includes any amount guaranteed to be paid or payable to such association or institution in relation to any game, other than a game the winnings from which are taxable as specified in section 194(1) (Table: Sl. No. 1) or sport played in India; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "211-1-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "being an entertainer, who is not a citizen of India and is a non-resident, includes any income received or receivable from his performance in India, then, the aggregate of income-tax payable by the assessee shall be computed at the rate specified in the column C applied on the corresponding income specified in column B:—",
+              "children": [],
+              "table": {
+                "type": "table",
+                "id": "211-1-c-table",
+                "x": 27.62,
+                "y_start": 150.0,
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "Sl. No.",
+                  "Income",
+                  "Rate of Income-tax payable"
+                ],
+                "rows": [
+                  {
+                    "sl_no": "1",
+                    "income": {
+                      "text_before_items": "Income referred to in clause",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "211-1-c-table-B-a",
+                          "text": "or"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "211-1-c-table-B-b",
+                          "text": "or (c)."
+                        }
+                      ]
+                    },
+                    "rate_of_income_tax_payable": "20%"
+                  },
+                  {
+                    "sl_no": "2",
+                    "income": {
+                      "text_before_items": "Total income as reduced by income referred to in clause",
+                      "items": [
+                        {
+                          "letter": "a",
+                          "id": "211-1-c-table-B-a",
+                          "text": "or"
+                        },
+                        {
+                          "letter": "b",
+                          "id": "211-1-c-table-B-b",
+                          "text": "or (c)."
+                        }
+                      ]
+                    },
+                    "rate_of_income_tax_payable": "Rates in force."
+                  }
+                ]
+              }
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "211-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No deduction in respect of any expenditure or allowance shall be allowed under any provision of this Act in computing the income referred to in subsection (1).",
+          "clauses": [],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "211-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "It shall not be necessary for the assessee to furnish a return of his income under section 263(1), if—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "211-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "his total income during the tax year consisted only of income referred to in sub-section (1); and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "211-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

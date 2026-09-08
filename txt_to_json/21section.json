@@ -1,0 +1,154 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "21",
+      "id": "21",
+      "title": "Determination of annual value.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "21-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of section 20, the annual value of any property shall be deemed to be the higher of the following:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "21-1-a",
+              "x": 40.97,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the sum for which it might reasonably be expected to let from year to year; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "21-1-b",
+              "x": 40.87,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the actual rent received or receivable by the owner, if the property or any part of it is let.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "21-2",
+          "x": 27.62,
+          "y_start": 121.96,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If the property or any part of it is let and was vacant for the whole or any part of the tax year and owing to such vacancy the actual rent received or receivable by the owner in respect thereof is less than the sum referred to in sub-section (1)(a), the annual value of such property shall be deemed to be the amount so received or receivable.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "21-3",
+          "x": 27.62,
+          "y_start": 162.8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The annual value of the property shall be reduced by the taxes (including service taxes) levied by a local authority in respect of such property, actually paid during the tax year by the owner, irrespective of when such taxes became payable.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "21-4",
+          "x": 27.62,
+          "y_start": 190.92,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The rent which cannot be realised by the owner shall not be included in computing the actual rent received or receivable, subject to the rules as may be made in this behalf.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "21-5",
+          "x": 27.62,
+          "y_start": 219.56,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where a property is held as stock-in-trade and is not let wholly or partly at any time during the tax year, the annual value of such property or part thereof authority.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "21-6",
+          "x": 27.62,
+          "y_start": 260.4,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The annual value of the property consisting of a house or any part thereof shall be taken as nil, if the owner occupies it for his own residence or cannot actually occupy it due to any reason.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "21-7",
+          "x": 27.62,
+          "y_start": 288.51,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (6)—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "21-7-a",
+              "x": 40.97,
+              "y_start": 303.37,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "shall apply only in respect of two of such houses as specified by the assessee in this behalf;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "21-7-b",
+              "x": 40.87,
+              "y_start": 316.1,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "shall not apply, if the house or any part thereof is actually let during any time of the tax year, or if the owner derives any other benefit from it.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "5",
+      "text": "Sub. for \"nil for\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

@@ -1,0 +1,302 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "73",
+      "id": "73",
+      "title": "Cost with reference to certain modes of acquisition.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 2,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "73-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "73-1-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 2,
+            "columns": [
+              "Sl. No.",
+              "Description of the capital asset",
+              "Cost of acquisition"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "description_of_the_capital_asset": {
+                  "text_before_items": "If the capital asset became the property of the assessee—",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "73-1-table-1-B-a",
+                      "text": "under a gift or will; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "73-1-table-1-B-b",
+                      "text": "by succession, inheritance or devolution; or"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "73-1-table-1-B-c",
+                      "text": "on any distribution of assets on the liquidation of a company; or"
+                    },
+                    {
+                      "letter": "d",
+                      "id": "73-1-table-1-B-d",
+                      "text": "under a transfer to a revocable or an irrevocable trust; or"
+                    },
+                    {
+                      "letter": "e",
+                      "id": "73-1-table-1-B-e",
+                      "text": "being a Hindu undivided family, by the mode referred to in section 99(3) after the 31st December, 1969; or"
+                    },
+                    {
+                      "letter": "f",
+                      "id": "73-1-table-1-B-f",
+                      "text": "under any such transfer as is referred to in section 70(1)(a), (c), (d), (e), (g), (h), (i), (j), (l), (m), (n), (o), (t), (u), (v), (w), (zd), (ze) or (zf)."
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                "cost_of_acquisition": "The cost for which the previous owner of the property acquired it, as increased by the cost of any improvement incurred or borne by the previous owner or the assessee."
+              },
+              {
+                "sl_no": "2",
+                "description_of_the_capital_asset": "Capital asset, being a share or shares in an amalgamated company which is an Indian company that became the property of the assessee in consideration of a transfer referred to in section 70(1)(f).",
+                "cost_of_acquisition": "The cost of acquisition to him of the share or the shares in the amalgamating company."
+              },
+              {
+                "sl_no": "3",
+                "description_of_the_capital_asset": "Capital asset being a share or debenture of a company, which became the property of the assessee in consideration of a transfer referred to in section 70(1)(z) or (za).",
+                "cost_of_acquisition": "That part of the cost of debenture, debenture-stock, bond or deposit certificate in relation to which such asset is acquired by the assessee."
+              },
+              {
+                "sl_no": "4",
+                "description_of_the_capital_asset": "Capital asset, being specified security or sweat equity shares, referred to in section 17(1)(d).",
+                "cost_of_acquisition": "Fair market value taken into account for the purposes of the said clause."
+              },
+              {
+                "sl_no": "5",
+                "description_of_the_capital_asset": "Capital asset, being rights of a partner referred to in section 42 of the Limited Liability Partnership Act, 2008 (6 of 2009), which became the property of the assessee on conversion as referred to in section 70(1)(ze).",
+                "cost_of_acquisition": "The cost of acquisition to him of the share or shares in the company immediately before its conversion."
+              },
+              {
+                "sl_no": "6",
+                "description_of_the_capital_asset": "Capital asset, being share or shares of a company acquired by a non-resident assessee on redemption of Global Depository Receipts referred to in section 209(1) (Table: Sl. No. 2) held by such assessee.",
+                "cost_of_acquisition": "The price of the said share or shares prevailing on any recognised stock exchange on the date on which a request for redemption was made."
+              },
+              {
+                "sl_no": "7",
+                "description_of_the_capital_asset": "Capital asset, being a unit of a business trust, which became the property of the assessee in consideration of a transfer as referred to in section 70(1)(zi).",
+                "cost_of_acquisition": "The cost of acquisition to him of the share referred to in the said clause."
+              },
+              {
+                "sl_no": "8",
+                "description_of_the_capital_asset": "Capital asset, being a unit or units in a consolidated scheme of a mutual fund, which became the property of the assessee in consideration of a transfer referred to in section 70(1)(zj).",
+                "cost_of_acquisition": "The cost of acquisition to him of the unit or units in the consolidating scheme of the mutual fund."
+              },
+              {
+                "sl_no": "9",
+                "description_of_the_capital_asset": "Capital asset, being equity share of a company, which became the property of the assessee in consideration of a transfer referred to in section 70(1)(zb).",
+                "cost_of_acquisition": "That part of the cost of the preference shares in relation to which such asset is acquired."
+              },
+              {
+                "sl_no": "10",
+                "description_of_the_capital_asset": "Capital asset, being a unit or units in a consolidated plan of a mutual fund scheme, which became the property of the assessee in consideration of a transfer referred to in section 70(1)(zk).",
+                "cost_of_acquisition": "The cost of acquisition to him of the unit or units in the consolidating plan of the scheme of the mutual fund."
+              },
+              {
+                "sl_no": "11",
+                "description_of_the_capital_asset": "Capital asset being a unit or units in the segregated portfolio.",
+                "cost_of_acquisition": {
+                  "text_before_items": "Computed as per the following formula:—",
+                  "note": "The equation itself did not survive text extraction from the source PDF (likely rendered as an image/special layout there); only the variable definitions below are available in this markdown.",
+                  "variables": [
+                    {
+                      "symbol": "X",
+                      "definition": "cost of acquisition of the unit or units in segregated portfolio"
+                    },
+                    {
+                      "symbol": "A",
+                      "definition": "cost of acquisition of unit or units in the total portfolio"
+                    },
+                    {
+                      "symbol": "B",
+                      "definition": "Net Asset Value of the asset transferred to the segregated portfolio"
+                    },
+                    {
+                      "symbol": "C",
+                      "definition": "Net Asset Value of the total portfolio immediately before segregation of portfolios"
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "12",
+                "description_of_the_capital_asset": "Capital asset being original units held by the unit holder in the main portfolio.",
+                "cost_of_acquisition": "The cost of acquisition of such original units as reduced by the amount as so arrived at under serial number 11."
+              },
+              {
+                "sl_no": "13",
+                "description_of_the_capital_asset": "Capital asset, being shares as referred to in section 70(1)(zl) which became the property of the assessee.",
+                "cost_of_acquisition": "The cost of acquisition to it of the interest in the joint venture referred to in the said clause."
+              },
+              {
+                "sl_no": "14",
+                "description_of_the_capital_asset": "Shares in the resulting company as a result of demerger.",
+                "cost_of_acquisition": {
+                  "text_before_items": "Computed as per the following formula:—",
+                  "note": "The equation itself did not survive text extraction from the source PDF (likely rendered as an image/special layout there); only the variable definitions below are available in this markdown.",
+                  "variables": [
+                    {
+                      "symbol": "X",
+                      "definition": "cost of acquisition of shares in the resulting company"
+                    },
+                    {
+                      "symbol": "A",
+                      "definition": "cost of acquisition of shares in demerged company"
+                    },
+                    {
+                      "symbol": "B",
+                      "definition": "net book value of assets transferred in demerger"
+                    },
+                    {
+                      "symbol": "C",
+                      "definition": "net worth of demerged company immediately before demerger"
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "15",
+                "description_of_the_capital_asset": "Original shares held by the shareholder in the demerged company.",
+                "cost_of_acquisition": "The cost of acquisition of such original shares as reduced by the amount so arrived at under serial number 14."
+              },
+              {
+                "sl_no": "16",
+                "description_of_the_capital_asset": "Capital asset deemed to be chargeable to tax according to the provisions of section 71(1).",
+                "cost_of_acquisition": "Cost for which such asset was acquired by the transferee company."
+              },
+              {
+                "sl_no": "17",
+                "description_of_the_capital_asset": "Capital asset being property, where the capital gain arises from the transfer of such property the value of which has been subject to income-tax under section 92(2)(m).",
+                "cost_of_acquisition": "The value taken into account under section 92(2)(m)."
+              },
+              {
+                "sl_no": "18",
+                "description_of_the_capital_asset": "Capital asset declared under the Income Declaration Scheme, 2016, where the tax, surcharge and penalty have been paid as per the provisions of such Scheme on the fair market value as on the date of the commencement of that Scheme.",
+                "cost_of_acquisition": "The fair market value of the asset taken into account for the purposes of the said Scheme."
+              },
+              {
+                "sl_no": "19",
+                "description_of_the_capital_asset": "Specified capital asset referred to in clause (c) of the Explanation to section 10(37A) of the Income-tax Act, 1961 (43 of 1961), which has been transferred after the expiry of two years from the end of the tax year in which the possession of such asset was handed over to the assessee.",
+                "cost_of_acquisition": "The stamp duty value as on the last day of the second tax year after the end of the tax year in which the possession of the said specified capital asset was handed over to the assessee."
+              },
+              {
+                "sl_no": "20",
+                "description_of_the_capital_asset": "Capital asset, being share in the project, in the form of land or building, or both, under section 67(14), not being a capital asset referred to in section 67(16).",
+                "cost_of_acquisition": "The amount deemed as full value of consideration under section 67(14)."
+              },
+              {
+                "sl_no": "21",
+                "description_of_the_capital_asset": "Capital asset, being the asset held by a trust or an institution in respect of which accreted income has been computed and tax paid thereon as per section 352.",
+                "cost_of_acquisition": "The fair market value of the asset considered for computation of accreted income as on specified date as per section 352(2)."
+              },
+              {
+                "sl_no": "22",
+                "description_of_the_capital_asset": "Capital asset referred to in section 26(2)(j).",
+                "cost_of_acquisition": "The fair market value for section 26(2)(j)."
+              },
+              {
+                "sl_no": "23",
+                "description_of_the_capital_asset": "Capital asset, being an Electronic Gold Receipt issued by a Vault Manager, which became the property of the person as consideration of a transfer, as referred to in section 70(1)(y).",
+                "cost_of_acquisition": "The cost of gold for the person in whose name Electronic Gold Receipt is issued."
+              },
+              {
+                "sl_no": "24",
+                "description_of_the_capital_asset": "Capital asset being gold released against an Electronic Gold Receipt, which became the property of the person as consideration for a transfer as referred to in section 70(1)(y).",
+                "cost_of_acquisition": "The cost of the Electronic Gold Receipt for such person."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "73-2",
+          "x": 27.62,
+          "y_start": 400.0,
+          "page_start": 2,
+          "page_end": 2,
+          "text_before_clauses": "For the purposes of the Table in sub-section (1), in respect of the entries against—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "73-2-a",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "serial number 1, \"previous owner of the property\" for any capital asset owned by an assessee, means the last previous owner of the capital asset who acquired it by a mode of acquisition other than that referred to in column B thereof;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "73-2-b",
+              "x": 40.8,
+              "y_start": 435.0,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "serial numbers 11 and 12, \"main portfolio\", \"segregated portfolio\" and \"total portfolio\" shall have the same meanings as respectively assigned to them in the Circular No. SEBI/HO/IMD/DF2/CIR/P/2018/160, dated the 28th December, 2018, issued by the Securities and Exchange Board of India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "73-2-c",
+              "x": 40.8,
+              "y_start": 460.0,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "serial numbers 14 and 15, \"net worth\" means the total of the paid-up share capital and general reserves as appearing in the books of account of the demerged company immediately before the demerger;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "73-2-d",
+              "x": 40.8,
+              "y_start": 480.0,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "serial numbers 2, 14 and 15, the provisions as contained therein, shall, as far as may be, also apply in relation to business reorganisation of a cooperative bank as referred to in section 64.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

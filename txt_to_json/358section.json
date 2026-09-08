@@ -1,0 +1,192 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "358",
+      "id": "358",
+      "title": "Form of appeal and limitation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "358-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Every appeal under this Chapter shall be in such form and verified in such manner, as may be prescribed.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "358-2",
+          "x": 27.62,
+          "y_start": 96.5,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "An appeal referred to in sub-section (1), made to the Commissioner (Appeals) or to the Joint Commissioner (Appeals), shall be accompanied by a fee of —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "358-2-a",
+              "x": 40.8,
+              "y_start": 123.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 250, where the total income of the assessee as computed by the Assessing Officer in the case to which the appeal relates is Rs. 100000 or less;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "358-2-b",
+              "x": 40.8,
+              "y_start": 134.16,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 500, where the total income of the assessee, computed as aforesaid, in the case to which the appeal relates is more than Rs. 100000 but not more than Rs. 200000;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "358-2-c",
+              "x": 41.27,
+              "y_start": 154.32,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 1000, where the total income of the assessee, computed as aforesaid, in the case to which the appeal relates is more than Rs. 200000;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "358-2-d",
+              "x": 40.8,
+              "y_start": 164.92,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Rs. 250, where the subject matter of an appeal is not covered under clauses (a), (b) and (c).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "358-3",
+          "x": 27.62,
+          "y_start": 176.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The appeal shall be presented within thirty days,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "358-3-a",
+              "x": 40.8,
+              "y_start": 190.92,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "from the date of service of the notice of demand where the appeal relates to any assessment or penalty; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "358-3-b",
+              "x": 40.8,
+              "y_start": 201.52,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in any other case, from the date on which intimation of the order sought to be appealed against is served.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "358-4",
+          "x": 27.62,
+          "y_start": 213.19,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of sub-section (3)(a), where an application made under section 440(1) is rejected, the period beginning from the date on which the application is made, to the date on which the order rejecting the application is served on the assessee, shall be excluded.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "358-5",
+          "x": 27.62,
+          "y_start": 241.84,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Joint Commissioner (Appeals) or the Commissioner (Appeals) may admit an appeal after the expiration of the said period if he is satisfied that the appellant had sufficient cause for not presenting it within that period.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "358-6",
+          "x": 27.62,
+          "y_start": 269.95,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "No appeal under this Chapter shall be admitted unless at the time of filing of the appeal,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "358-6-a",
+              "x": 40.8,
+              "y_start": 284.27,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where a return has been filed by the assessee, the assessee has paid the tax due on the income returned by him; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "358-6-b",
+              "x": 40.8,
+              "y_start": 294.88,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where no return has been filed by the assessee, the assessee has paid an amount equal to the amount of advance tax which was payable by him.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "358-7",
+          "x": 27.62,
+          "y_start": 306.55,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Joint Commissioner (Appeals) or the Commissioner (Appeals) may, for the purposes of sub-section (6)(b) and on an application made by the appellant in this behalf, for reasons to be recorded in writing, exempt him from the operation of the provisions of that sub-section.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

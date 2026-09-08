@@ -1,0 +1,50 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "225",
+      "id": "225",
+      "title": "Income from business of operating qualifying ships.",
+      "x": 27.62,
+      "y_start": 96.5,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Irrespective of anything contained in sections 26 to 54 (except 50 and 53), in the case of a company, the income from the business of operating qualifying ships—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "225-a",
+          "x": 40.8,
+          "y_start": 123.55,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "may, at its option, be computed as per provisions of this Part; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "225-b",
+          "x": 40.8,
+          "y_start": 134.16,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "such income shall be deemed to be the profits and gains of such business chargeable to tax under the head \"Profits and gains of business or profession\".",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": [
+    {
+      "page": 1,
+      "x": 185.66,
+      "y": 65.2,
+      "text": "G.—Special provisions relating to income of shipping companies"
+    }
+  ]
+}

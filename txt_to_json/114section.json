@@ -1,0 +1,67 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "114",
+      "id": "114",
+      "title": "Set off and carry forward of losses computed in respect of specified business.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "114-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Any loss, computed in respect of a specified business, referred to in section 46, shall be set off only against profits and gains of another specified business.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "114-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "Where for any tax year, loss computed in respect of a specified business cannot be wholly set off under sub-section (1), so much of the loss not so set off or the whole loss, as the case may be, shall be carried forward to the following tax year and—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "114-2-i",
+              "x": 42.68,
+              "y_start": 136.28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "be set off against the profits and gains, if any, of any specified business carried on by him for such tax year; and",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "114-2-ii",
+              "x": 40.26,
+              "y_start": 146.89,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the loss cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following tax year and so on.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

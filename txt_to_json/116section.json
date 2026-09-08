@@ -1,0 +1,606 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "116",
+      "id": "116",
+      "title": "Treatment of accumulated losses and unabsorbed depreciation in amalgamation or demerger, etc.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "116-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where there has been an amalgamation of,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-1-a",
+              "x": 40.8,
+              "y_start": 95.44,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a company owning an industrial undertaking or a ship or a hotel with another company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-1-b",
+              "x": 40.8,
+              "y_start": 106.05,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a banking company referred to in section 5(c) of the Banking Regulation Act, 1949 (10 of 1949) with a specified bank; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "116-1-c",
+              "x": 41.27,
+              "y_start": 116.66,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "one or more public sector company with one or more other public sector company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "116-1-d",
+              "x": 40.8,
+              "y_start": 127.26,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "an erstwhile public sector company with one or more company or companies, if the share purchase agreement entered into under strategic disinvestment restricted immediate amalgamation of the said public sector company and the amalgamation is carried out within five years from the end of the tax year in which the restriction on amalgamation in the share purchase agreement ends,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "then, irrespective of anything contained in any other provision of this Act, the accumulated loss and unabsorbed depreciation of the amalgamating company shall be deemed to be the loss or, allowance for unabsorbed depreciation of the amalgamated company for the tax year in which the amalgamation was effected, and other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly."
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "116-2",
+          "x": 27.62,
+          "y_start": 198.87,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The accumulated loss and the unabsorbed depreciation of the amalgamating company, in case of an amalgamation referred to in sub-section (1)(d), which is deemed to be the loss or, as the case may be, the unabsorbed depreciation of the amalgamated company, shall not exceed the accumulated loss and unabsorbed depreciation of the public sector company as on the date on which it ceases to be a public sector company due to such strategic disinvestment.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "116-3",
+          "x": 27.62,
+          "y_start": 239.72,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (1)(d),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-3-a",
+              "x": 40.8,
+              "y_start": 254.57,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"control\" shall have the same meaning as assigned to it in section 2(27) of the Companies Act, 2013 (18 of 2013);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-3-b",
+              "x": 40.8,
+              "y_start": 265.18,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"erstwhile public sector company\" means a company which was a public sector company in earlier tax years and ceases to be so due to strategic disinvestment by the Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "116-3-c",
+              "x": 41.27,
+              "y_start": 285.33,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "116-3-c-i",
+                  "x": 41.27,
+                  "y_start": 285.33,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text_before_items": "\"strategic disinvestment\" means sale of shareholding by the Central Government or State Government or a public sector company, in a public sector company or in a company, which results in—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "116-3-c-i-A",
+                      "x": 99.0,
+                      "y_start": 305.49,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "reduction of its shareholding to below 51%; and",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "116-3-c-i-B",
+                      "x": 99.0,
+                      "y_start": 316.1,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "transfer of control to the buyer;",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "116-3-c-ii",
+                  "x": 69.33,
+                  "y_start": 326.71,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "for clause (c)(i)(A), the reduction of shareholding shall apply only where shareholding of the Central Government or the State Government or the public sector company exceeded 51% before the sale of shareholding;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "116-3-c-iii",
+                  "x": 66.91,
+                  "y_start": 346.86,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the transfer of control referred to in clause (c)(i)(B) may be effected by the Central Government or the State Government or the public sector company or any two or all of them.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "116-4",
+          "x": 27.62,
+          "y_start": 368.08,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in sub-sections (1), (2) and (3), the accumulated loss shall not be set off or carried forward and the unabsorbed depreciation shall not be allowed in the assessment of the amalgamated company unless,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-4-a",
+              "x": 40.8,
+              "y_start": 395.13,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "the amalgamating company—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "116-4-a-i",
+                  "x": 71.75,
+                  "y_start": 405.74,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has been engaged in the business, in which the accumulated loss occurred or depreciation remains unabsorbed, for three or more years;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "116-4-a-ii",
+                  "x": 69.33,
+                  "y_start": 416.35,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "has held continuously as on the date of the amalgamation, at least three-fourths of the book value of fixed assets held by it two years preceding the date of amalgamation;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-4-b",
+              "x": 40.8,
+              "y_start": 436.5,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "the amalgamated company—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "116-4-b-i",
+                  "x": 71.75,
+                  "y_start": 447.11,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "holds continuously for a minimum of five years from the date of amalgamation at least three-fourths of the book value of fixed assets of the amalgamating company acquired in a scheme of amalgamation;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "116-4-b-ii",
+                  "x": 69.33,
+                  "y_start": 467.27,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "continues the business of the amalgamating company for a minimum of five years from the date of amalgamation;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "116-4-b-iii",
+                  "x": 66.91,
+                  "y_start": 477.88,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "fulfils such other conditions as may be prescribed to ensure the revival of the business of the amalgamating company or to ensure that the amalgamation is for genuine business purpose.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "116-5",
+          "x": 27.62,
+          "y_start": 499.09,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If any of the conditions laid down in sub-section (4) are not complied with, the set off of loss or allowance of depreciation made in any tax year in the hands of the amalgamated company shall be deemed to be the income of the amalgamated company chargeable to tax for the year in which the non- compliance occurs.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "116-6",
+          "x": 27.62,
+          "y_start": 539.94,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Irrespective of anything contained in any other provisions of this Act, in the case of a demerger, the accumulated loss and the allowance for unabsorbed depreciation of the demerged company shall,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-6-a",
+              "x": 40.8,
+              "y_start": 567.52,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if directly relatable to the undertakings transferred to the resulting company, be allowed to be carried forward and set off in the hands of the resulting company;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-6-b",
+              "x": 40.8,
+              "y_start": 587.68,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if not directly relatable to the undertakings transferred to the resulting company, be apportioned between the demerged company and the resulting company in the same proportion in which the assets of the undertakings have been retained by the demerged company and transferred to the resulting company, and shall be allowed to be carried forward and set off in the hands of the demerged company or the resulting company, as applicable.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "116-7",
+          "x": 27.62,
+          "y_start": 627.99,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The Central Government may, by notification, specify such conditions to ensure that the demerger is for genuine business purposes.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "8",
+          "id": "116-8",
+          "x": 27.62,
+          "y_start": 643.37,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If there has been reorganisation of business where, a firm is succeeded by a company fulfilling the conditions laid down in section 70(1)(zd) or a proprietary concern is succeeded by a company fulfilling the conditions laid down in section 70(1)(zf), then, irrespective of anything contained in any other provision of this Act, the accumulated loss and the unabsorbed depreciation of the predecessor firm or the proprietary concern, shall be deemed to be the loss or allowance for depreciation of the successor company for the tax year in which business reorganisation was effected and other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly, subject to provisions of sub-section (9).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "9",
+          "id": "116-9",
+          "x": 27.62,
+          "y_start": 709.67,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "If any of the conditions laid down in section 70(1)(zd) or (zf), as the case may be, are not complied with, the set off of loss or allowance of depreciation made in any tax year in the hands of the successor company, shall be deemed to be the income of the company chargeable to tax in the year in which the non-compliance occurs.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "10",
+          "id": "116-10",
+          "x": 27.62,
+          "y_start": 751.05,
+          "page_start": 1,
+          "page_end": 2,
+          "text": "If there has been reorganisation of business whereby a private company or unlisted public company is succeeded by a limited liability partnership fulfilling the conditions laid down in section 70(1)(ze), then, irrespective of anything contained in any other provision of this Act, the accumulated loss and the unabsorbed depreciation of the predecessor company, shall be deemed to be the loss or allowance for depreciation of the successor limited liability partnership for the tax year in which business reorganisation was effected and other provisions of this Act relating to set off and carry forward of loss and allowance for depreciation shall apply accordingly, subject to provisions of sub-section (11).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "11",
+          "id": "116-11",
+          "x": 27.62,
+          "y_start": 93.32,
+          "page_start": 2,
+          "page_end": 2,
+          "text": "If any of the conditions laid down in section 70(1)(ze) are not complied with, the set off of loss or allowance of depreciation made in any tax year in the hands of the successor limited liability partnership, shall be deemed to be the income of the limited liability partnership chargeable to tax in the year in which the non-compliance occurs.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "12",
+          "id": "116-12",
+          "x": 27.62,
+          "y_start": 134.69,
+          "page_start": 2,
+          "page_end": 2,
+          "text_before_clauses": "For any amalgamation referred to in sub-section (1) or reorganisation of business referred to in sub-section (8) or (10) effected on or after the 1st April, 2025, any loss forming part of the accumulated loss of the predecessor entity, being—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "116-12-i",
+              "x": 42.68,
+              "y_start": 161.74,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the amalgamating company; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "116-12-ii",
+              "x": 40.26,
+              "y_start": 172.35,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the firm or proprietary concern; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "116-12-iii",
+              "x": 37.84,
+              "y_start": 182.96,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the private company or unlisted public company,",
+              "children": []
+            }
+          ],
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-12-a",
+              "x": 40.8,
+              "y_start": 208.95,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the amalgamated company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-12-b",
+              "x": 40.8,
+              "y_start": 219.56,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the successor company; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "116-12-c",
+              "x": 41.27,
+              "y_start": 230.17,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "the successor limited liability partnership,",
+              "children": []
+            }
+          ],
+          "text_after_clauses": "as the case may be, which is deemed to be the loss of the successor entity, being— as the case may be, shall be carried forward for not more than eight tax years immediately succeeding the tax year for which such loss was first computed for the original predecessor entity."
+        },
+        {
+          "type": "subsection",
+          "number": "13",
+          "id": "116-13",
+          "x": 27.62,
+          "y_start": 270.48,
+          "page_start": 2,
+          "page_end": 2,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "116-13-a",
+              "x": 40.8,
+              "y_start": 284.8,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"accumulated loss\" means so much of the loss of the predecessor firm or the proprietary concern or the private company or unlisted public company before conversion into limited liability partnership or the amalgamating company or the demerged company, under the head \"Profits and gains of business or profession\" (excluding loss in a speculation business) which would have been eligible for carry forward and set off to such predecessor entity under section 112, had the reorganisation of business or conversion or amalgamation or demerger not occurred;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "116-13-b",
+              "x": 40.8,
+              "y_start": 324.05,
+              "page_start": 2,
+              "page_end": 2,
+              "text_before_sub_clauses": "\"industrial undertaking\" means any undertaking which is engaged in—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "116-13-b-i",
+                  "x": 71.75,
+                  "y_start": 334.66,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "the manufacture or processing of goods; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "116-13-b-ii",
+                  "x": 69.33,
+                  "y_start": 345.27,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "the manufacture of computer software; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "116-13-b-iii",
+                  "x": 66.91,
+                  "y_start": 355.88,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "the business of generation or distribution of electricity or any other form of power; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "116-13-b-iv",
+                  "x": 67.93,
+                  "y_start": 366.49,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "the business of providing telecommunication services, whether basic or cellular, including radio paging, domestic satellite service, network of trunking, broadband network and internet services; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "v",
+                  "id": "116-13-b-v",
+                  "x": 70.35,
+                  "y_start": 386.64,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "mining; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "vi",
+                  "id": "116-13-b-vi",
+                  "x": 67.93,
+                  "y_start": 397.25,
+                  "page_start": 2,
+                  "page_end": 2,
+                  "text": "the construction of ships, aircrafts or rail systems;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "116-13-c",
+              "x": 41.27,
+              "y_start": 407.86,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"original predecessor entity\" means predecessor entity in respect of the first amalgamation for sub-section (1) or first reorganisation of business for sub-sections (8) and (10), as the case may be;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "116-13-d",
+              "x": 40.8,
+              "y_start": 428.02,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"specified bank\" means the State Bank of India constituted under the State Bank of India Act, 1955 (23 of 1955) or a corresponding new bank constituted under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970) or under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980 (40 of 1980);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "116-13-e",
+              "x": 41.27,
+              "y_start": 457.72,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"unabsorbed depreciation\" means so much of the allowance for depreciation of the predecessor firm or the proprietary concern or the private company or unlisted public company before conversion into limited liability partnership or the amalgamating company or the demerged company, which remains to be allowed and which would have been allowed to such predecessor entity under this Act, had the reorganisation of business or conversion or amalgamation or demerger not occurred.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

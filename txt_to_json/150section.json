@@ -1,0 +1,86 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "150",
+      "id": "150",
+      "title": "^1^8[Deduction in respect of income of federal co-operative.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "150-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If the gross total income of an assessee being a federal co-operative, in any tax year, includes any income by way of dividends received from its investment with any company, a deduction shall be allowed from such income, to the extent of the amount which,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "150-1-a",
+              "x": 41.27,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has arisen from such investment as recorded in its books of account on or before the 31st January, 2026; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "150-1-b",
+              "x": 40.8,
+              "y_start": 118.78,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "has been distributed by it to its members at least one month before the due date for filing the return of income under section 263(1).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "150-2",
+          "x": 27.62,
+          "y_start": 130.45,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "The provisions of this section shall not apply to any tax year beginning on or after the 1st April, 2029.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "150-3",
+          "x": 27.62,
+          "y_start": 145.83,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "For the purposes of this section, \"federal co-operative\" means a \"federal co-operative\" as defined in section 3(k) of the Multi-State Co-operative",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "18",
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, section 150 read as under : '150. Interpretation for purposes of section 149.—For the purposes of section 149,— (a) \"consumers' co-operative society\" means a society for the benefit of the consumers; (b) \"primary agricultural credit society\" has the same meaning as assigned to it in Part V of the Banking Regulation Act, 1949 (10 of 1949); and (c) \"primary co-operative agricultural and rural development bank\" means a society having an area of operation confined to a taluk, the principal object of which is to provide long-term credit for agricultural and rural development activities.'",
+      "page_start": 1,
+      "page_end": 1
+    }
+  ],
+  "orphans": []
+}

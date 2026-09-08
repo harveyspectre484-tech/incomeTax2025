@@ -1,0 +1,157 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "212",
+      "id": "212",
+      "title": "Interpretation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "In sections 213 to 218,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "212-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"foreign exchange asset\" means any specified asset which the assessee has acquired or purchased with, or subscribed to in, convertible foreign exchange;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "212-b",
+          "x": 40.8,
+          "y_start": 115.6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"investment income\" means any income derived from a foreign exchange asset;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "212-c",
+          "x": 41.27,
+          "y_start": 126.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"long-term capital gains\" means income chargeable under the head \"Capital gains\" relating to a capital asset, being a foreign exchange asset which is not a short-term capital asset;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "212-d",
+          "x": 40.8,
+          "y_start": 146.36,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"non-resident Indian\" means an individual, who is not a resident and is—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "212-d-i",
+              "x": 71.75,
+              "y_start": 156.97,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a citizen of India; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "212-d-ii",
+              "x": 69.33,
+              "y_start": 167.58,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a person of Indian origin;",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "212-e",
+          "x": 41.27,
+          "y_start": 178.19,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"specified asset\" means any of the following assets:—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "212-e-i",
+              "x": 71.75,
+              "y_start": 188.79,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "shares in an Indian company; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "212-e-ii",
+              "x": 69.33,
+              "y_start": 199.4,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "debentures issued by an Indian company which is not a private company as defined in the Companies Act, 2013 (18 of 2013); or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iii",
+              "id": "212-e-iii",
+              "x": 66.91,
+              "y_start": 210.01,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "deposits with an Indian company which is not a private company as defined in the Companies Act, 2013 (18 of 2013); or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "iv",
+              "id": "212-e-iv",
+              "x": 67.93,
+              "y_start": 220.62,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any security of the Central Government as defined in section 2(f) of the Government Securities Act, 2006 (38 of 2006); or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "v",
+              "id": "212-e-v",
+              "x": 70.35,
+              "y_start": 231.23,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such other assets as the Central Government may specify in this behalf by notification.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

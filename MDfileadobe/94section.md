@@ -2,7 +2,7 @@
 
 # Ministry of Finance, Government of India
 Amounts not deductible.
-94 . (1) Irrespective of anything contained in section 93, the following amounts shall not be deductible in computing the income of any assessee chargeable under the head "Income from other sources":—
+94. (1) Irrespective of anything contained in section 93, the following amounts shall not be deductible in computing the income of any assessee chargeable under the head "Income from other sources":—
 (a) any personal expenses of the assessee; or
 (b) any interest chargeable under this Act, payable outside India, on which tax has not been paid or deducted under Chapter XIX-B; or
 (c) any payment chargeable under the head "Salaries", if it is payable outside India, unless tax has been paid or deducted under Chapter XIX-B.

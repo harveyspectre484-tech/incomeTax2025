@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "493",
+      "id": "493",
+      "title": "Proof of entries in records or documents.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "493-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the production of the records or other documents in the custody of the income-tax authority containing such entries; or",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "493-b",
+          "x": 40.8,
+          "y_start": 118.78,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the production of a copy of the entries certified by the income-tax authority having custody of the records or other documents under its signature and stating that it is a true copy of the original entries and that such original entries are contained in the records or other documents in its custody.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

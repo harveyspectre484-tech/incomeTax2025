@@ -397,9 +397,3 @@ where, the expression "infrastructure debt fund" means the infrastructure debt f
 (B) the parent entity or principal entity of such group is listed on stock exchange in a country or territory outside India other than the country or territory outside India as specified by the Board in this behalf,'
 3a. Items (II) and (III) sub. for item (II) by the Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, item (II) read as under :
 '(II) "group entity", "parent entity" and "principal entity" shall be such entities which satisfy such conditions as may be prescribed in this behalf;'
-
-# Definition of "tax year".
-3. (1) For the purposes of this Act, "tax year" means the twelve months period of the financial year commencing on the 1st April.
-(2) In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with—
-(a) the date of setting up of such business or profession; or
-(b) the date on which such source of income newly comes into existence, and ending with the said financial year.

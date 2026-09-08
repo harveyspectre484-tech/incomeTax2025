@@ -1,0 +1,249 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "31",
+      "id": "31",
+      "title": "Deduction for bad debt and provision for bad and doubtful debt.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "31-1",
+          "x": 27.62,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The amount mentioned in column C of the Table below, in respect of any provision for bad and doubtful debts made by the assessee specified in column B thereof, shall be allowed as a deduction in computation of income chargeable under section 26.",
+          "clauses": [],
+          "text_after_clauses": "",
+          "table": {
+            "type": "table",
+            "id": "31-1-table",
+            "x": 27.62,
+            "y_start": 150.0,
+            "page_start": 1,
+            "page_end": 1,
+            "columns": [
+              "Sl. No.",
+              "Specified assessee",
+              "Amount of deduction"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "specified_assessee": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "31-1-table-B-a",
+                      "text": "A scheduled bank, other than a bank incorporated by or under the laws of a country outside India; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "31-1-table-B-b",
+                      "text": "a non-scheduled bank; or"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "31-1-table-B-c",
+                      "text": "a co-operative bank, other than—"
+                    },
+                    {
+                      "letter": "i",
+                      "id": "31-1-table-B-i",
+                      "text": "a primary agricultural credit society;",
+                      "children": [
+                        {
+                          "numeral": "ii",
+                          "id": "31-1-table-B-i-ii",
+                          "text": "a primary co-operative agricultural and rural development bank."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "amount_of_deduction": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "31-1-table-C-a",
+                      "text": "not more than 8.5% of the total income of the tax year computed before making any deduction under this clause and Chapter VIII, and an additional amount up to 10% of the aggregate average advances made by rural branches computed in the manner as may be prescribed;"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "31-1-table-C-b",
+                      "text": "for an assessee mentioned in clauses"
+                    },
+                    {
+                      "letter": "a",
+                      "id": "31-1-table-C-a",
+                      "text": "and"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "31-1-table-C-b",
+                      "text": "of column B, at its option, an additional amount in excess of clause"
+                    },
+                    {
+                      "letter": "a",
+                      "id": "31-1-table-C-a",
+                      "text": "of this column but not more than the income from redemption of securities as per a scheme framed by the Central Government, when such income has been disclosed in the return of income under the head \"Profits and gains of business or profession\"."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "2",
+                "specified_assessee": {
+                  "text_before_items": "",
+                  "items": [
+                    {
+                      "letter": "a",
+                      "id": "31-1-table-B-a",
+                      "text": "A bank incorporated by or under the laws of a country outside India; or"
+                    },
+                    {
+                      "letter": "b",
+                      "id": "31-1-table-B-b",
+                      "text": "a public financial institution or a State Financial Corporation or a State Industrial Investment Corporation; or"
+                    },
+                    {
+                      "letter": "c",
+                      "id": "31-1-table-B-c",
+                      "text": "a non-banking financial company."
+                    }
+                  ]
+                },
+                "amount_of_deduction": "Not more than 5% of the total income of a tax year computed before making any deduction under this clause and Chapter VIII."
+              }
+            ]
+          }
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "31-2",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Any amount of bad debt, or part of it, in the tax year in which such amount is written off as irrecoverable in the accounts of the assessee, shall be allowed as deduction in computation of income chargeable under section 26, subject to the following conditions:—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "31-2-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "it has been taken into account in computing the income of the assessee of the tax year in which it is written off, or any earlier tax year, or represents the money lent in the ordinary course of the business of banking or money lending which is carried on by the assessee;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "31-2-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the amount ultimately recovered on any such debt or part of debt is less than the difference between the debt or part and the amount so deducted, the deficiency shall be deductible in the tax year in which the ultimate recovery is made; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "31-2-c",
+              "x": 40.8,
+              "y_start": 430.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where it relates to an assessee to which sub-section (1) applies,—",
+              "children": [
+                {
+                  "type": "sub-clause",
+                  "number": "i",
+                  "id": "31-2-c-i",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "only that amount which exceeds the credit balance in the provision for bad and doubtful debts account made under that sub-section shall be allowed as deduction;"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "31-2-c-ii",
+                  "x": 55.0,
+                  "y_start": 480.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such amount shall be allowed only when the assessee has debited any amount of bad debt or part thereof in that tax year to the provision for bad and doubtful debts account made under that sub-section; and"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "iii",
+                  "id": "31-2-c-iii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the aforesaid account shall be only one such account under sub-section (1) and such account shall be related to all types of advances, including advances made by rural branches."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "31-3",
+          "x": 27.62,
+          "y_start": 380.0,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of sub-section (2),—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "31-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any bad debt or part of it written off as irrecoverable shall not include any provision for bad and doubtful debt;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "31-3-b",
+              "x": 40.8,
+              "y_start": 415.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any amount of bad debt or part of it, which has been taken into account in computing the income of the assessee of the tax year in which the amount of bad debt or part of it becomes irrecoverable or of an earlier tax year as per income computation and disclosure standards notified under section 276(2) without recording it in the accounts, shall be allowed as a deduction in computing the income of the assessee of the tax year in which it becomes irrecoverable and such bad debt or part of it shall be deemed to be written off as irrecoverable in the accounts for the purposes of sub-section (2).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

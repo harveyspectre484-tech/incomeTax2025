@@ -1,0 +1,774 @@
+section,severity,code,message,file
+3,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/3section_can.json
+4,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/4section_can.json
+5,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/5section_can.json
+6,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/6section_can.json
+7,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/7section_can.json
+8,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/8section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-6-a-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-6-a-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-6-a-iii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-7-a-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-7-a-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-9-b-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-9-b-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-9-b-ii-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+9,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 9-10-e-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/9section_can.json
+10,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/10section_can.json
+11,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/11section_can.json
+12,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/12section_can.json
+13,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/13section_can.json
+14,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/14section_can.json
+15,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/15section_can.json
+16,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/16section_can.json
+17,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 17-1-h-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/17section_can.json
+18,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/18section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t2-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t2-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-amt-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-nat-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-nat-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t6-nat-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b-iv,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t7-nat-b-v,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t8-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t8-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-amt-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-nat-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-nat-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-nat-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t10-nat-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t11-nat-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t11-nat-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t12-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t12-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t14-amt-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t14-amt-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t14-amt-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+19,ERROR,missing_expected_unit,Missing expected unit id: 19-1-t14-amt-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/19section_can.json
+20,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/20section_can.json
+21,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/21section_can.json
+22,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/22section_can.json
+23,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/23section_can.json
+24,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/24section_can.json
+25,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/25section_can.json
+26,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 26-2-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/26section_can.json
+27,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/27section_can.json
+28,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/28section_can.json
+29,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/29section_can.json
+30,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/30section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-B-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-B-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-B-i-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+31,ERROR,missing_expected_unit,Missing expected unit id: 31-1-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/31section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-c-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-c-II-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-c-III-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+32,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 32-e-ii-I-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/32section_can.json
+33,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/33section_can.json
+34,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/34section_can.json
+35,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/35section_can.json
+36,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 36-3-a-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/36section_can.json
+36,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 36-3-a-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/36section_can.json
+37,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/37section_can.json
+38,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/38section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-B-a-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-B-a-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-a-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-a-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+39,ERROR,missing_expected_unit,Missing expected unit id: 39-4-table-C-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/39section_can.json
+40,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/40section_can.json
+41,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/41section_can.json
+42,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/42section_can.json
+43,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/43section_can.json
+44,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 44-2-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/44section_can.json
+44,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 44-2-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/44section_can.json
+44,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 44-2-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/44section_can.json
+45,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/45section_can.json
+46,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/46section_can.json
+47,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/47section_can.json
+48,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/48section_can.json
+49,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/49section_can.json
+50,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/50section_can.json
+51,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 51-2-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/51section_can.json
+52,ERROR,missing_expected_unit,Missing expected unit id: 52-1-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/52section_can.json
+52,ERROR,missing_expected_unit,Missing expected unit id: 52-1-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/52section_can.json
+53,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/53section_can.json
+54,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/54section_can.json
+55,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/55section_can.json
+56,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/56section_can.json
+57,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/57section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-1-D-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-1-D-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-1-E-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-1-E-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-2-E-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-2-E-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-3-D-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+58,ERROR,missing_expected_unit,Missing expected unit id: 58-2-table-3-D-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/58section_can.json
+59,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/59section_can.json
+60,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/60section_can.json
+61,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/61section_can.json
+62,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 62-2-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/62section_can.json
+63,ERROR,missing_expected_unit,Missing expected unit id: 63-1-table-1-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/63section_can.json
+63,ERROR,missing_expected_unit,Missing expected unit id: 63-1-table-1-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/63section_can.json
+63,ERROR,missing_expected_unit,Missing expected unit id: 63-1-table-1-B-b-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/63section_can.json
+63,ERROR,missing_expected_unit,Missing expected unit id: 63-1-table-1-B-b-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/63section_can.json
+63,ERROR,missing_expected_unit,Missing expected unit id: 63-1-table-1-B-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/63section_can.json
+64,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/64section_can.json
+65,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/65section_can.json
+66,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/66section_can.json
+67,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/67section_can.json
+68,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/68section_can.json
+69,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 69-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/69section_can.json
+70,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/70section_can.json
+71,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/71section_can.json
+72,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/72section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+73,ERROR,missing_expected_unit,Missing expected unit id: 73-1-table-1-B-f,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/73section_can.json
+74,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/74section_can.json
+75,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/75section_can.json
+76,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/76section_can.json
+77,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/77section_can.json
+78,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/78section_can.json
+79,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/79section_can.json
+80,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/80section_can.json
+81,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/81section_can.json
+82,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 82-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/82section_can.json
+82,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 82-1-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/82section_can.json
+82,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 82-1-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/82section_can.json
+82,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 82-1-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/82section_can.json
+83,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/83section_can.json
+84,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/84section_can.json
+85,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/85section_can.json
+86,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/86section_can.json
+87,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/87section_can.json
+88,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/88section_can.json
+89,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/89section_can.json
+90,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/90section_can.json
+91,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/91section_can.json
+92,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 92-2-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
+92,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 92-2-a-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
+92,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 92-2-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
+92,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 92-2-b-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
+92,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 92-2-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
+93,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 93-1-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
+94,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/94section_can.json
+95,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/95section_can.json
+96,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/96section_can.json
+97,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/97section_can.json
+98,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/98section_can.json
+99,ERROR,wrong_section_numbers_in_file,Canonical file contains units for other section_number values: 100,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/99section_can.json
+100,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/100section_can.json
+101,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/101section_can.json
+102,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/102section_can.json
+103,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/103section_can.json
+104,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/104section_can.json
+105,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/105section_can.json
+106,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/106section_can.json
+107,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/107section_can.json
+108,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/108section_can.json
+109,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/109section_can.json
+110,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/110section_can.json
+111,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/111section_can.json
+112,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/112section_can.json
+113,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/113section_can.json
+114,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/114section_can.json
+115,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/115section_can.json
+116,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/116section_can.json
+117,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/117section_can.json
+118,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/118section_can.json
+119,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/119section_can.json
+120,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/120section_can.json
+121,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/121section_can.json
+122,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/122section_can.json
+123,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/123section_can.json
+124,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 124-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/124section_can.json
+125,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/125section_can.json
+126,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 126-2-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/126section_can.json
+126,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 126-2-c-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/126section_can.json
+127,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/127section_can.json
+128,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/128section_can.json
+129,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/129section_can.json
+130,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/130section_can.json
+131,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/131section_can.json
+132,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/132section_can.json
+133,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/133section_can.json
+134,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/134section_can.json
+135,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/135section_can.json
+136,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/136section_can.json
+137,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/137section_can.json
+138,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/138section_can.json
+139,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/139section_can.json
+140,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 140-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/140section_can.json
+141,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/141section_can.json
+142,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/142section_can.json
+143,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/143section_can.json
+144,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/144section_can.json
+145,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/145section_can.json
+146,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/146section_can.json
+147,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 147-1-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/147section_can.json
+147,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 147-1-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/147section_can.json
+148,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/148section_can.json
+149,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 149-2-c-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/149section_can.json
+149,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 149-2-c-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/149section_can.json
+150,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/150section_can.json
+151,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/151section_can.json
+152,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/152section_can.json
+153,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/153section_can.json
+154,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/154section_can.json
+155,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/155section_can.json
+156,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/156section_can.json
+157,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/157section_can.json
+158,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/158section_can.json
+159,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/159section_can.json
+160,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/160section_can.json
+161,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/161section_can.json
+162,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/162section_can.json
+163,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/163section_can.json
+164,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/164section_can.json
+165,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 165-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/165section_can.json
+165,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 165-3-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/165section_can.json
+166,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 166-6-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/166section_can.json
+166,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 166-6-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/166section_can.json
+167,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/167section_can.json
+168,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/168section_can.json
+169,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 169-5-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/169section_can.json
+170,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/170section_can.json
+171,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/171section_can.json
+172,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/172section_can.json
+173,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/173section_can.json
+174,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/174section_can.json
+175,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/175section_can.json
+176,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/176section_can.json
+177,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/177section_can.json
+178,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/178section_can.json
+179,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/179section_can.json
+180,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/180section_can.json
+181,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/181section_can.json
+182,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/182section_can.json
+183,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/183section_can.json
+184,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/184section_can.json
+185,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/185section_can.json
+186,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/186section_can.json
+187,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/187section_can.json
+188,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/188section_can.json
+189,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/189section_can.json
+190,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/190section_can.json
+191,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/191section_can.json
+192,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/192section_can.json
+193,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/193section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-C-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-C-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-C-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-E-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-E-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+194,ERROR,missing_expected_unit,Missing expected unit id: 194-1-b-table-E-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/194section_can.json
+195,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/195section_can.json
+196,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/196section_can.json
+197,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/197section_can.json
+198,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/198section_can.json
+199,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/199section_can.json
+200,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/200section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-b-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-b-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-C-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-F-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-F-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+201,ERROR,missing_expected_unit,Missing expected unit id: 201-1-table-F-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/201section_can.json
+202,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/202section_can.json
+203,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/203section_can.json
+204,ERROR,missing_expected_unit,Missing expected unit id: 204-1-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/204section_can.json
+204,ERROR,missing_expected_unit,Missing expected unit id: 204-1-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/204section_can.json
+204,ERROR,missing_expected_unit,Missing expected unit id: 204-1-table-B-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/204section_can.json
+204,ERROR,missing_expected_unit,Missing expected unit id: 204-1-table-B-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/204section_can.json
+204,ERROR,missing_expected_unit,Missing expected unit id: 204-1-table-B-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/204section_can.json
+205,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/205section_can.json
+206,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 206-1-i-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/206section_can.json
+206,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 206-1-i-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/206section_can.json
+207,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/207section_can.json
+208,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/208section_can.json
+209,ERROR,missing_expected_unit,Missing expected unit id: 209-1-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/209section_can.json
+209,ERROR,missing_expected_unit,Missing expected unit id: 209-1-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/209section_can.json
+209,ERROR,missing_expected_unit,Missing expected unit id: 209-1-table-B-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/209section_can.json
+210,ERROR,missing_expected_unit,Missing expected unit id: 210-1-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
+210,ERROR,missing_expected_unit,Missing expected unit id: 210-1-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
+211,ERROR,missing_expected_unit,Missing expected unit id: 211-1-c-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/211section_can.json
+211,ERROR,missing_expected_unit,Missing expected unit id: 211-1-c-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/211section_can.json
+212,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/212section_can.json
+213,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/213section_can.json
+214,ERROR,missing_expected_unit,Missing expected unit id: 214-table,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/214section_can.json
+214,ERROR,missing_table_units,"Expected at least 1 table units, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/214section_can.json
+215,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/215section_can.json
+216,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/216section_can.json
+217,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/217section_can.json
+218,ERROR,missing_expected_unit,Missing expected unit id: 218-table,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/218section_can.json
+218,ERROR,missing_table_units,"Expected at least 1 table units, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/218section_can.json
+219,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/219section_can.json
+220,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/220section_can.json
+221,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 221-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/221section_can.json
+222,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/222section_can.json
+223,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/223section_can.json
+224,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 224-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/224section_can.json
+225,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/225section_can.json
+226,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/226section_can.json
+227,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/227section_can.json
+228,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/228section_can.json
+229,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/229section_can.json
+230,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/230section_can.json
+231,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/231section_can.json
+232,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 232-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
+233,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/233section_can.json
+234,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/234section_can.json
+235,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 235-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/235section_can.json
+235,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 235-h-i-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/235section_can.json
+235,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 235-h-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/235section_can.json
+235,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 235-h-iii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/235section_can.json
+236,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/236section_can.json
+237,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/237section_can.json
+238,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/238section_can.json
+239,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/239section_can.json
+240,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/240section_can.json
+241,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/241section_can.json
+242,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 242-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/242section_can.json
+242,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 242-3-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/242section_can.json
+242,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 242-3-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/242section_can.json
+243,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/243section_can.json
+244,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/244section_can.json
+245,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/245section_can.json
+246,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/246section_can.json
+247,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/247section_can.json
+248,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
+249,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/249section_can.json
+250,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/250section_can.json
+251,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/251section_can.json
+252,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/252section_can.json
+253,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/253section_can.json
+254,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/254section_can.json
+255,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/255section_can.json
+256,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/256section_can.json
+257,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/257section_can.json
+258,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/258section_can.json
+259,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/259section_can.json
+260,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/260section_can.json
+261,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/261section_can.json
+262,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/262section_can.json
+264,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/264section_can.json
+265,ERROR,missing_expected_unit,Missing expected unit id: 265-table,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/265section_can.json
+265,ERROR,missing_expected_unit,Missing expected unit id: 265-table-C-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/265section_can.json
+265,ERROR,missing_expected_unit,Missing expected unit id: 265-table-C-i-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/265section_can.json
+265,ERROR,missing_expected_unit,Missing expected unit id: 265-table-C-i-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/265section_can.json
+265,ERROR,missing_table_units,"Expected at least 1 table units, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/265section_can.json
+266,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/266section_can.json
+267,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/267section_can.json
+268,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/268section_can.json
+269,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/269section_can.json
+270,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/270section_can.json
+271,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/271section_can.json
+272,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/272section_can.json
+273,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/273section_can.json
+274,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/274section_can.json
+275,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 275-3-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/275section_can.json
+276,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/276section_can.json
+277,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/277section_can.json
+278,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/278section_can.json
+279,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/279section_can.json
+280,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/280section_can.json
+281,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 281-2-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/281section_can.json
+282,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/282section_can.json
+283,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/283section_can.json
+284,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/284section_can.json
+285,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/285section_can.json
+286,ERROR,missing_expected_unit,Missing expected unit id: 286-1-t8-nat-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/286section_can.json
+286,ERROR,missing_expected_unit,Missing expected unit id: 286-1-t8-nat-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/286section_can.json
+286,ERROR,missing_expected_unit,Missing expected unit id: 286-1-t9-nat-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/286section_can.json
+286,ERROR,missing_expected_unit,Missing expected unit id: 286-1-t9-nat-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/286section_can.json
+287,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/287section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t1-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t1-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t1-cond-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t2-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t2-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t2-cond-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-cond-ii-A,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-cond-ii-B,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-time-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t4-time-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t5-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t5-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t6-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t6-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t7-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t7-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t7-cond-ii-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t7-cond-ii-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t8-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t8-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t9-cond-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t9-cond-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t10-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,ERROR,missing_expected_unit,Missing expected unit id: 288-1-t10-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+289,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/289section_can.json
+290,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/290section_can.json
+291,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/291section_can.json
+292,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/292section_can.json
+293,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
+294,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/294section_can.json
+295,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/295section_can.json
+296,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/296section_can.json
+297,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/297section_can.json
+298,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/298section_can.json
+299,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/299section_can.json
+300,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/300section_can.json
+301,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/301section_can.json
+302,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/302section_can.json
+303,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/303section_can.json
+304,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/304section_can.json
+305,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/305section_can.json
+306,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/306section_can.json
+307,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/307section_can.json
+308,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/308section_can.json
+309,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/309section_can.json
+310,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/310section_can.json
+311,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/311section_can.json
+312,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/312section_can.json
+313,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/313section_can.json
+314,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/314section_can.json
+315,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 315-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/315section_can.json
+316,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/316section_can.json
+317,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/317section_can.json
+318,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/318section_can.json
+319,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/319section_can.json
+320,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/320section_can.json
+321,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/321section_can.json
+322,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/322section_can.json
+323,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/323section_can.json
+324,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/324section_can.json
+325,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/325section_can.json
+326,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/326section_can.json
+327,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/327section_can.json
+328,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/328section_can.json
+329,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/329section_can.json
+330,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/330section_can.json
+331,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/331section_can.json
+332,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/332section_can.json
+333,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/333section_can.json
+334,ERROR,wrong_section_numbers_in_file,Canonical file contains units for other section_number values: 2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/334section_can.json
+335,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/335section_can.json
+336,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/336section_can.json
+337,ERROR,missing_expected_unit,Missing expected unit id: 337-table,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/337section_can.json
+337,ERROR,missing_expected_unit,Missing expected unit id: 337-table-B-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/337section_can.json
+337,ERROR,missing_expected_unit,Missing expected unit id: 337-table-B-i-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/337section_can.json
+337,ERROR,missing_table_units,"Expected at least 1 table units, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/337section_can.json
+338,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/338section_can.json
+339,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/339section_can.json
+340,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/340section_can.json
+341,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/341section_can.json
+342,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/342section_can.json
+343,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/343section_can.json
+344,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/344section_can.json
+345,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/345section_can.json
+346,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/346section_can.json
+347,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/347section_can.json
+348,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/348section_can.json
+349,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/349section_can.json
+350,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/350section_can.json
+351,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/351section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t3-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t3-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t4-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t4-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t5-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t5-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t6-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t6-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,ERROR,missing_expected_unit,Missing expected unit id: 352-4-t6-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+353,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/353section_can.json
+354,ERROR,wrong_section_numbers_in_file,Canonical file contains units for other section_number values: 6,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/354section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-i-3,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-iii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-iv-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-v-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 355-h-vi-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+356,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/356section_can.json
+357,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/357section_can.json
+358,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/358section_can.json
+359,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/359section_can.json
+360,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/360section_can.json
+361,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/361section_can.json
+362,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/362section_can.json
+363,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/363section_can.json
+364,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/364section_can.json
+365,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/365section_can.json
+366,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/366section_can.json
+367,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/367section_can.json
+368,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/368section_can.json
+369,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/369section_can.json
+370,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/370section_can.json
+371,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/371section_can.json
+372,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/372section_can.json
+373,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/373section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-i,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-ii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-iii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-iv,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-ix,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-v,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-vi,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-vii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+374,ERROR,missing_expected_unit,Missing expected unit id: 374-viii,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/374section_can.json
+375,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/375section_can.json
+376,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 376-4-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/376section_can.json
+377,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/377section_can.json
+378,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/378section_can.json
+379,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/379section_can.json
+380,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/380section_can.json
+381,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/381section_can.json
+382,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/382section_can.json
+383,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/383section_can.json
+384,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/384section_can.json
+385,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/385section_can.json
+386,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/386section_can.json
+387,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/387section_can.json
+388,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/388section_can.json
+389,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/389section_can.json
+390,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/390section_can.json
+391,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/391section_can.json
+392,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/392section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t1-payee-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t1-payee-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t4-rate-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t4-rate-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t6-rate-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t6-rate-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t10-nat-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-2-t10-nat-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t1-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t1-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t1-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t1-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t5-payer-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t5-payer-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-3-t5-payer-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t6-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t6-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t7-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t7-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t7-cond-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t8-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t8-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t10-cond-f,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t11-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t11-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t11-cond-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t12-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t12-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t18-cond-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t18-cond-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t18-cond-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-4-t18-cond-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-f,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,ERROR,missing_expected_unit,Missing expected unit id: 393-6-t1-g,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+394,ERROR,missing_expected_unit,Missing expected unit id: 394-1-t6-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/394section_can.json
+394,ERROR,missing_expected_unit,Missing expected unit id: 394-1-t6-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/394section_can.json
+394,ERROR,missing_expected_unit,Missing expected unit id: 394-1-t7-rate-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/394section_can.json
+394,ERROR,missing_expected_unit,Missing expected unit id: 394-1-t7-rate-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/394section_can.json
+395,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/395section_can.json
+396,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/396section_can.json
+397,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/397section_can.json
+398,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/398section_can.json
+399,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/399section_can.json
+400,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/400section_can.json
+401,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/401section_can.json
+402,ERROR,missing_expected_unit,Missing expected unit id: 402-6-table-D-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/402section_can.json
+402,ERROR,missing_expected_unit,Missing expected unit id: 402-6-table-D-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/402section_can.json
+402,ERROR,missing_expected_unit,Missing expected unit id: 402-6-table-D-c,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/402section_can.json
+402,ERROR,missing_expected_unit,Missing expected unit id: 402-6-table-D-d,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/402section_can.json
+403,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/403section_can.json
+404,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/404section_can.json
+405,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/405section_can.json
+406,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/406section_can.json
+407,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 407-4-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/407section_can.json
+407,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 407-4-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/407section_can.json
+408,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/408section_can.json
+409,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/409section_can.json
+410,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/410section_can.json
+411,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 411-2-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/411section_can.json
+411,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 411-2-b-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/411section_can.json
+411,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 411-2-b-ii-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/411section_can.json
+412,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/412section_can.json
+413,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/413section_can.json
+414,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/414section_can.json
+415,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/415section_can.json
+416,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 416-5-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/416section_can.json
+416,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 416-5-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/416section_can.json
+417,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/417section_can.json
+418,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/418section_can.json
+419,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/419section_can.json
+420,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/420section_can.json
+421,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/421section_can.json
+422,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/422section_can.json
+423,ERROR,missing_expected_unit,Missing expected unit id: 423-2-table-B-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/423section_can.json
+423,ERROR,missing_expected_unit,Missing expected unit id: 423-2-table-B-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/423section_can.json
+423,ERROR,missing_expected_unit,Missing expected unit id: 423-2-table-F-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/423section_can.json
+423,ERROR,missing_expected_unit,Missing expected unit id: 423-2-table-F-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/423section_can.json
+424,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/424section_can.json
+425,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/425section_can.json
+426,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/426section_can.json
+427,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/427section_can.json
+428,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/428section_can.json
+429,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/429section_can.json
+430,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/430section_can.json
+431,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/431section_can.json
+432,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/432section_can.json
+433,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/433section_can.json
+434,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/434section_can.json
+435,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/435section_can.json
+436,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/436section_can.json
+437,ERROR,missing_expected_unit,Missing expected unit id: 437-1-table-C-a,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/437section_can.json
+437,ERROR,missing_expected_unit,Missing expected unit id: 437-1-table-C-b,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/437section_can.json
+438,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/438section_can.json
+439,ERROR,empty_legal_units,No canonical units found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/439section_can.json
+440,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/440section_can.json
+441,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/441section_can.json
+442,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/442section_can.json
+443,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/443section_can.json
+444,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/444section_can.json
+445,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/445section_can.json
+446,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/446section_can.json
+447,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/447section_can.json
+448,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/448section_can.json
+449,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/449section_can.json
+450,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/450section_can.json
+451,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/451section_can.json
+452,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/452section_can.json
+453,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/453section_can.json
+454,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/454section_can.json
+455,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/455section_can.json
+456,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/456section_can.json
+457,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/457section_can.json
+458,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/458section_can.json
+459,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/459section_can.json
+460,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/460section_can.json
+461,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/461section_can.json
+462,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/462section_can.json
+463,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/463section_can.json
+464,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/464section_can.json
+465,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/465section_can.json
+466,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/466section_can.json
+467,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/467section_can.json
+468,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/468section_can.json
+469,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/469section_can.json
+470,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/470section_can.json
+471,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/471section_can.json
+472,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/472section_can.json
+473,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/473section_can.json
+474,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/474section_can.json
+475,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/475section_can.json
+476,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/476section_can.json
+477,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/477section_can.json
+478,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/478section_can.json
+479,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/479section_can.json
+480,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/480section_can.json
+481,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/481section_can.json
+482,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/482section_can.json
+483,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/483section_can.json
+484,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/484section_can.json
+485,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/485section_can.json
+486,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/486section_can.json
+487,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/487section_can.json
+488,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/488section_can.json
+489,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/489section_can.json
+490,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/490section_can.json
+491,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/491section_can.json
+492,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/492section_can.json
+493,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/493section_can.json
+494,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/494section_can.json
+495,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/495section_can.json
+496,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/496section_can.json
+497,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/497section_can.json
+498,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/498section_can.json
+499,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/499section_can.json
+500,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 500-4-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/500section_can.json
+501,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/501section_can.json
+502,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/502section_can.json
+503,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/503section_can.json
+504,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/504section_can.json
+505,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/505section_can.json
+506,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/506section_can.json
+507,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/507section_can.json
+508,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
+509,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/509section_can.json
+510,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/510section_can.json
+511,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 511-10-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/511section_can.json
+512,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/512section_can.json
+513,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/513section_can.json
+514,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/514section_can.json
+515,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/515section_can.json
+516,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/516section_can.json
+517,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/517section_can.json
+518,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/518section_can.json
+519,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/519section_can.json
+520,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/520section_can.json
+521,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/521section_can.json
+522,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/522section_can.json
+523,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/523section_can.json
+524,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 524-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/524section_can.json
+524,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 524-1-a-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/524section_can.json
+525,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/525section_can.json
+526,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/526section_can.json
+527,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/527section_can.json
+528,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/528section_can.json
+529,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/529section_can.json
+530,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/530section_can.json
+531,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/531section_can.json
+532,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/532section_can.json
+533,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/533section_can.json
+534,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/534section_can.json
+535,OK,ok,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/535section_can.json
+536,ERROR,bad_section_unit_count,"Expected 1 section unit, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/536section_can.json
+536,ERROR,wrong_section_numbers_in_file,Canonical file contains units for other section_number values: 439,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/536section_can.json
+536,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 439-3-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/536section_can.json
+536,WARN,unexpected_unit,Unit was not predicted from raw hierarchy: 439-4-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/536section_can.json

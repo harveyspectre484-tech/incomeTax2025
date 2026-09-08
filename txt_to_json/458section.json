@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "458",
+      "id": "458",
+      "title": "Penalty for failure to furnish information or document under section 506.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "458-a",
+          "x": 40.8,
+          "y_start": 108.17,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "458-b",
+          "x": 40.8,
+          "y_start": 128.33,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Rs. 500000, in any other case.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

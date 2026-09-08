@@ -1,0 +1,43 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "89",
+      "id": "89",
+      "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "89-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "89-b",
+          "x": 40.8,
+          "y_start": 106.05,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
+          "children": []
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

@@ -1,0 +1,78 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "97",
+      "id": "97",
+      "title": "Chargeability of income in transfer of assets.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "97-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "All income arising to any person by virtue of a revocable transfer of assets shall be chargeable to income-tax as income of the transferor and shall be included in his total income.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "97-2",
+          "x": 27.62,
+          "y_start": 109.23,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "The provisions of sub-section (1) shall not apply,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "97-2-a",
+              "x": 40.8,
+              "y_start": 123.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where a transfer is by way of trust which is not revocable during the lifetime of the beneficiary and in case of any other transfer, is not revocable during the lifetime of the transferee; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "97-2-b",
+              "x": 40.8,
+              "y_start": 143.71,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the transferor does not derive any direct or indirect benefit from such income in cases referred to in clause (a).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "97-3",
+          "x": 27.62,
+          "y_start": 155.38,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Irrespective of the provisions of sub-section (2), all income arising to any person by virtue of such transfer shall be chargeable to income-tax as income of the transferor as and when the power to revoke such transfer arises, and shall then be included in his total income.",
+          "children": []
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

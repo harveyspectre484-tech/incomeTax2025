@@ -1,0 +1,100 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "25",
+      "id": "25",
+      "title": "Interpretation.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_clauses": "For the purposes of sections 20 to 24, the \"owner\" in relation to a property or any part thereof shall include—",
+      "clauses": [
+        {
+          "type": "clause",
+          "number": "a",
+          "id": "25-a",
+          "x": 40.8,
+          "y_start": 95.44,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "an individual who transfers without adequate consideration, any property to the spouse (except under an agreement to live apart), or to a minor child (other than a married daughter);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "b",
+          "id": "25-b",
+          "x": 40.8,
+          "y_start": 115.6,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "the holder of an impartible estate, and he shall be deemed to be an individual owner in respect of all the properties comprised in the estate;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "c",
+          "id": "25-c",
+          "x": 41.27,
+          "y_start": 126.2,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a member of a co-operative society, company or other association of persons to whom a building or part thereof is allotted or leased under a house building scheme of the society, company or association;",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "d",
+          "id": "25-d",
+          "x": 40.8,
+          "y_start": 146.36,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "a person who is allowed to take or retain possession of any building or part thereof in part performance of a contract of the nature referred to in section 53A of the Transfer of Property Act, 1882 (4 of 1882);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "e",
+          "id": "25-e",
+          "x": 41.27,
+          "y_start": 166.52,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "a person who acquires any rights (excluding any rights by way of a lease from month to month or for a period not exceeding one year) in or with respect to any building or its part—",
+          "sub_clauses": [
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "25-e-i",
+              "x": 71.75,
+              "y_start": 186.67,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "by virtue of transfer of such property by way of sale or exchange or original or extendible lease for a term of not less than twelve years; or",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "25-e-ii",
+              "x": 69.33,
+              "y_start": 197.28,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "accruing or arising from any transaction (whether by way of becoming a member of, or acquiring shares in, a co-operative society, company or other association of persons or by way of any agreement or any arrangement of whatever nature), not being a transaction by way of sale, exchange or lease which has the effect of enabling the enjoyment of such property.",
+              "children": []
+            }
+          ],
+          "text_after_sub_clauses": ""
+        }
+      ],
+      "text_after_clauses": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

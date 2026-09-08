@@ -1,0 +1,181 @@
+{
+  "chapters": [],
+  "sections": [
+    {
+      "type": "section",
+      "number": "197",
+      "id": "197",
+      "title": "Tax on long-term capital gains.",
+      "x": 27.62,
+      "y_start": 80.59,
+      "page_start": 1,
+      "page_end": 1,
+      "text_before_subsections": "",
+      "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "197-1",
+          "x": 27.62,
+          "y_start": 80.59,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "Where the total income of an assessee includes any income arising from the transfer of a long-term capital asset which is chargeable under the head \"Capital gains\", the tax payable by the assessee on the total income, subject to sub-sections (2), (3) and (4), shall be the aggregate of—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "197-1-a",
+              "x": 40.8,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax payable on the total income as reduced by such long-term capital gains, had the total income, as so reduced, been his total income; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "197-1-b",
+              "x": 40.8,
+              "y_start": 118.78,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax calculated on such long-term capital gains at the rate of 12.5%.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "2",
+          "id": "197-2",
+          "x": 27.62,
+          "y_start": 130.45,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "In the case of an individual or a Hindu undivided family, being a resident, where the total income as reduced by long-term capital gains computed under sub-section (1) is below the maximum amount which is not chargeable to income-tax, then,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "197-2-a",
+              "x": 40.8,
+              "y_start": 157.5,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "such long-term capital gains shall be reduced by the amount by which the total income as so reduced falls short of the maximum amount which is not chargeable to income-tax; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "197-2-b",
+              "x": 40.8,
+              "y_start": 177.66,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax on the balance of such long-term capital gains shall be computed at the rate as referred in sub-section (1).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "subsection",
+          "number": "3",
+          "id": "197-3",
+          "x": 27.62,
+          "y_start": 189.32,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In the case of an individual or a Hindu undivided family, being a resident, in the case of transfer of a long-term capital asset, being land or building, or both, which was acquired before the 23rd July, 2024, the excess income-tax computed as per the following formula shall be ignored:— E = A – B where— E = excess income-tax to be ignored; A = income-tax computed under sub-section (1)(b); B = income-tax computed under sub-section (1)(b) taking the rate as 20% and the capital gains is computed by taking the cost of acquisition as \"indexed cost of acquisition\" and the cost of improvement as \"indexed cost of improvement\".",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "197-4",
+          "x": 27.62,
+          "y_start": 290.11,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "In the case of an assessee being a non-resident (not being a company) or a foreign company, the long-term capital gains arising from the transfer of a capital asset, being unlisted securities or shares of a company not being a company in which the public are substantially interested, shall be computed without giving effect to the provisions under section 72(6).",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "5",
+          "id": "197-5",
+          "x": 27.62,
+          "y_start": 330.95,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Where the gross total income of an assessee includes any income arising from the transfer of a long-term capital asset, the gross total income shall be reduced by such income and the deduction under Chapter VIII shall be allowed as if the gross total income as so reduced were the gross total income of the assessee.",
+          "children": []
+        },
+        {
+          "type": "subsection",
+          "number": "6",
+          "id": "197-6",
+          "x": 27.62,
+          "y_start": 372.32,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "For the purposes of this section,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "197-6-a",
+              "x": 40.8,
+              "y_start": 386.64,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "197-6-b",
+              "x": 40.8,
+              "y_start": 397.25,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"listed securities\" means the securities which are listed on any recognised stock exchange in India;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "197-6-c",
+              "x": 41.27,
+              "y_start": 407.86,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"unlisted securities\" means securities other than listed securities;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "197-6-d",
+              "x": 40.8,
+              "y_start": 418.47,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "\"indexed cost of acquisition\" and \"indexed cost of improvement\" shall have the meanings respectively assigned to them in section 72.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_subsections": ""
+    }
+  ],
+  "footnotes": [],
+  "orphans": []
+}

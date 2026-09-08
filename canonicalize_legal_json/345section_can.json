@@ -1,0 +1,61 @@
+{
+  "legal_units": [
+    {
+      "id": "345",
+      "citation": "Section 345",
+      "unit_type": "section",
+      "parent_id": null,
+      "section_id": "345",
+      "section_number": "345",
+      "title": "Restriction on commercial activities by a registered non-profit organisation.",
+      "text": "A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— (a) such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and (b) separate books of account are maintained for such activities.",
+      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— (a) such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and (b) separate books of account are maintained for such activities.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 80.59
+    },
+    {
+      "id": "345-a",
+      "citation": "Section 345(a)",
+      "unit_type": "clause",
+      "parent_id": "345",
+      "section_id": "345",
+      "section_number": "345",
+      "title": "Restriction on commercial activities by a registered non-profit organisation.",
+      "text": "such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
+      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(a): such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 108.17
+    },
+    {
+      "id": "345-b",
+      "citation": "Section 345(b)",
+      "unit_type": "clause",
+      "parent_id": "345",
+      "section_id": "345",
+      "section_number": "345",
+      "title": "Restriction on commercial activities by a registered non-profit organisation.",
+      "text": "separate books of account are maintained for such activities.",
+      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(b): separate books of account are maintained for such activities.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 118.78
+    }
+  ]
+}
