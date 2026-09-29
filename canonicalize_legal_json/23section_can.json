@@ -1,4 +1,5 @@
 {
+  "section_number": "23",
   "legal_units": [
     {
       "id": "23",
@@ -8,8 +9,8 @@
       "section_id": "23",
       "section_number": "23",
       "title": "Arrears of rent and unrealised rent received subsequently.",
-      "text": "(1) The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised. (2) The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year. (3) A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.",
-      "context_text": "Section 23 Arrears of rent and unrealised rent received subsequently. (1) The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised. (2) The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year. (3) A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.",
+      "text": "",
+      "retrieval_text": "Section 23 Arrears of rent and unrealised rent received subsequently.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "23",
       "title": "Arrears of rent and unrealised rent received subsequently.",
       "text": "The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.",
-      "context_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(1): The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.",
+      "retrieval_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(1): The amount of arrears of rent received by an assessee from a tenant, or the unrealised rent realised subsequently from a tenant, shall be deemed to be the income from house property in respect of the tax year in which such rent is received or realised.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "23",
       "title": "Arrears of rent and unrealised rent received subsequently.",
       "text": "The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.",
-      "context_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(2): The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.",
+      "retrieval_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(2): The amount deemed to be income from house property under sub-section (1) shall be included in the total income of the assessee under the head \"Income from house property\", whether the assessee is the owner of the property or not in that tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "23",
       "title": "Arrears of rent and unrealised rent received subsequently.",
       "text": "A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.",
-      "context_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(3): A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.",
+      "retrieval_text": "Section 23 Arrears of rent and unrealised rent received subsequently. Section 23(3): A sum equal to 30% of the arrears of rent or the unrealised rent referred to in sub-section (1) shall be allowed as deduction.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,51 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 137.34
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "23-1",
+      "to_id": "23",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "23",
+      "to_id": "23-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "23-2",
+      "to_id": "23",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "23",
+      "to_id": "23-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "23-3",
+      "to_id": "23",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "23",
+      "to_id": "23-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "23-2",
+      "to_id": "23-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
+    },
+    {
+      "from_id": "23-3",
+      "to_id": "23-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "506",
   "legal_units": [
     {
       "id": "506",
@@ -8,8 +9,8 @@
       "section_id": "506",
       "section_number": "506",
       "title": "Furnishing of information or documents by an Indian concern in certain cases.",
-      "text": "Where,–– then, such Indian concern shall, for the purposes of determination of any income accruing or arising in India under the said section, furnish within prescribed period to the prescribed income-tax authority the information or documents in such manner, as may be prescribed. (a) any share of, or interest in, a company or an entity registered or incorporated outside India derives, directly or indirectly, its value substantially from the assets located in India, as referred to in section 9(10)(a); and (b) such company or entity, as the case may be, holds, directly or indirectly, such assets in India through, or in, an Indian concern,",
-      "context_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– then, such Indian concern shall, for the purposes of determination of any income accruing or arising in India under the said section, furnish within prescribed period to the prescribed income-tax authority the information or documents in such manner, as may be prescribed. (a) any share of, or interest in, a company or an entity registered or incorporated outside India derives, directly or indirectly, its value substantially from the assets located in India, as referred to in section 9(10)(a); and (b) such company or entity, as the case may be, holds, directly or indirectly, such assets in India through, or in, an Indian concern,",
+      "text": "Where,–– then, such Indian concern shall, for the purposes of determination of any income accruing or arising in India under the said section, furnish within prescribed period to the prescribed income-tax authority the information or documents in such manner, as may be prescribed.",
+      "retrieval_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– then, such Indian concern shall, for the purposes of determination of any income accruing or arising in India under the said section, furnish within prescribed period to the prescribed income-tax authority the information or documents in such manner, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "506",
       "title": "Furnishing of information or documents by an Indian concern in certain cases.",
       "text": "any share of, or interest in, a company or an entity registered or incorporated outside India derives, directly or indirectly, its value substantially from the assets located in India, as referred to in section 9(10)(a); and",
-      "context_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– Section 506(a): any share of, or interest in, a company or an entity registered or incorporated outside India derives, directly or indirectly, its value substantially from the assets located in India, as referred to in section 9(10)(a); and",
+      "retrieval_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– Section 506(a): any share of, or interest in, a company or an entity registered or incorporated outside India derives, directly or indirectly, its value substantially from the assets located in India, as referred to in section 9(10)(a); and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "506",
       "title": "Furnishing of information or documents by an Indian concern in certain cases.",
       "text": "such company or entity, as the case may be, holds, directly or indirectly, such assets in India through, or in, an Indian concern,",
-      "context_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– Section 506(b): such company or entity, as the case may be, holds, directly or indirectly, such assets in India through, or in, an Indian concern,",
+      "retrieval_text": "Section 506 Furnishing of information or documents by an Indian concern in certain cases. Where,–– Section 506(b): such company or entity, as the case may be, holds, directly or indirectly, such assets in India through, or in, an Indian concern,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 115.6
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "506-a",
+      "to_id": "506",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "506",
+      "to_id": "506-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "506-b",
+      "to_id": "506",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "506",
+      "to_id": "506-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "506-a",
+      "to_id": "9-10-a",
+      "edge_type": "references",
+      "reference_text": "section 9(10)(a)"
     }
   ]
 }

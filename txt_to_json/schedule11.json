@@ -1,0 +1,1905 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "XI",
+      "id": "schedule-XI",
+      "reference_text": "[See section 2(91)]",
+      "reference_section": "2(91)",
+      "title": "RECOGNISED PROVIDENT FUNDS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-xi-3",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_parts": "",
+      "parts": [
+        {
+          "type": "part",
+          "number": "A",
+          "id": "schedule-XI-A",
+          "title": "RECOGNISED PROVIDENT FUNDS",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "1",
+              "id": "schedule-XI-A-1",
+              "title": "Application of Part",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "This Part shall not apply to any provident fund to which the Provident Funds Act, 1925 (19 of 1925), applies.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "2",
+              "id": "schedule-XI-A-2",
+              "title": "Definitions.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "For the purposes of this Part, unless the context otherwise requires,—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-A-2-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"approving authority\" means the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-A-2-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"employer\" means any person who maintains a provident fund for the benefit of his or its employees, being—",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-A-2-b-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "a Hindu undivided family, company, firm or other association of persons, or"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-A-2-b-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "an individual engaged in a business or profession, the profits and gains whereof are assessable to income-tax under the head \"Profits and gains of business or profession\";"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-XI-A-2-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"employee\" means an employee participating in a provident fund, excluding personal or domestic servant;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-XI-A-2-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"contribution\" means any sum credited by or on behalf of any employee out of his salary, or by an employer out of his own funds, to the individual account of an employee, excluding any sum credited as interest;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "e",
+                  "id": "schedule-XI-A-2-e",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"balance to the credit of an employee\" means the total amount to the credit of his individual account in a provident fund at any time;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "f",
+                  "id": "schedule-XI-A-2-f",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"annual accretion\", in relation to the balance to the credit of an employee means the increase to such balance, in any year arising from contributions and interest;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "g",
+                  "id": "schedule-XI-A-2-g",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"accumulated balance due to an employee\" means the balance to his credit, or portion thereof claimable by the employee under the regulations of the fund, on the day he ceases to be an employee of the employer maintaining the fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "h",
+                  "id": "schedule-XI-A-2-h",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"regulations of a fund\" means the specific regulations governing the constitution and administration of a particular provident fund; and",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "i",
+                  "id": "schedule-XI-A-2-i",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "\"salary\" includes dearness allowance, if provided for in the terms of employment, but excludes all other allowances and perquisites.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "3",
+              "id": "schedule-XI-A-3",
+              "title": "Recognition to provident fund and its withdrawal.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-3-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The approving authority may grant recognition to a provident fund, which in his opinion, satisfies the conditions prescribed in paragraph 4 and the rules made by the Board in this regard and may, at any time, withdraw such recognition if, in his opinion, the provident fund violates any of those conditions.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-3-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An order granting recognition shall take effect on such date specified by the approving authority as per any rules made or may be made by the Board in this behalf, such date not being later than the last day of the tax year in which the order is made.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XI-A-3-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An order withdrawing recognition shall take effect from the date on which it is made.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "4",
+                  "id": "schedule-XI-A-3-4",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An order according recognition to a provident fund shall not, unless the approving authority otherwise directs, be affected by the fact that—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-3-4-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the fund is subsequently amalgamated with another provident fund on the occurrence of an amalgamation of the undertakings in connection with which the two funds are maintained; or",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-3-4-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the fund subsequently absorbs the whole or a part of another provident fund belonging to an undertaking which is wholly or in part transferred to or merged in the undertaking of the employer maintaining the first-mentioned fund.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "4",
+              "id": "schedule-XI-A-4",
+              "title": "Conditions to be satisfied by recognised provident funds.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "In order to receive and retain recognition, a provident fund, shall, subject to the provisions of paragraph 5, satisfy the following conditions and any other conditions as may be prescribed—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-A-4-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "all employees shall be employed in India, or employed by an employer whose principal place of business is in India;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-A-4-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the contributions of an employee in any year shall be a fixed proportion of his salary for that year, deducted by the employer from each periodical payment of salary in that proportion and credited to the employee's individual account in the fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-XI-A-4-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "[***]",
+                  "children": [],
+                  "footnote_refs": [
+                    "44"
+                  ],
+                  "amendment_status": "omitted"
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-XI-A-4-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the fund shall be vested in two or more trustees or the Official Trustee under a trust which shall not be revocable, except with the consent of all the beneficiaries;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "e",
+                  "id": "schedule-XI-A-4-e",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the fund shall consist only of--",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-A-4-e-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "contributions as specified above, received by the trustees;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-A-4-e-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "accumulations thereof;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "iii",
+                      "id": "schedule-XI-A-4-e-iii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "interest credited in respect of such contributions and accumulations;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "iv",
+                      "id": "schedule-XI-A-4-e-iv",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "securities purchased therewith; and"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "v",
+                      "id": "schedule-XI-A-4-e-v",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "any capital gains arising from the transfer of capital assets of the fund;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "f",
+                  "id": "schedule-XI-A-4-f",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the fund shall be a fund--",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-A-4-f-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "of an establishment to which the provisions of section 1(3) of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) apply; or"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-A-4-f-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "of an establishment notified by the Central Provident Fund Commissioner under section 1(4) of the said Act,"
+                    }
+                  ],
+                  "text_after_children": "and such establishment shall obtain exemption under section 17 of the said Act from the operation of all or any of the provisions of any scheme as referred to in that section;",
+                  "footnote_refs": [
+                    "45"
+                  ],
+                  "amendment_status": "substituted"
+                },
+                {
+                  "type": "clause",
+                  "number": "g",
+                  "id": "schedule-XI-A-4-g",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the employer, subject to clause (h), shall not be entitled to recover any sum from the fund, except when the employee—",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-A-4-g-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "is dismissed for misconduct; or"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-A-4-g-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "voluntarily leaves his employment otherwise than due to ill-health or other unavoidable cause before the end of the term of service specified in the regulations of the fund;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "h",
+                  "id": "schedule-XI-A-4-h",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "for the purposes of clause (g), the recovery made by the employer shall be limited to--",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-A-4-h-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the contributions made by him to the individual account of the employee;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-A-4-h-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "interest credited in respect of such contributions as per the regulations of the fund; and"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "iii",
+                      "id": "schedule-XI-A-4-h-iii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the accumulations thereof;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "i",
+                  "id": "schedule-XI-A-4-i",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the accumulated balance due to an employee shall be payable on the day he ceases to be an employee of the employer maintaining the fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "j",
+                  "id": "schedule-XI-A-4-j",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "except as provided in clause (i) or as per conditions and restrictions prescribed, no portion of the balance to the credit of an employee shall be payable to him.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "5",
+              "id": "schedule-XI-A-5",
+              "title": "Relaxation of conditions.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-5-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Irrespective of anything contained in paragraph 4(a), the approving authority may, if he thinks fit and subject to such conditions that he thinks proper to attach to such recognition, record recognition to a fund which is—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-5-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "maintained by an employer whose principal place of business is outside India; and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-5-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the proportion of employees employed outside India does not exceed 10%.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-5-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Irrespective of anything contained in paragraph 4(b), an employee who retains his employment--",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-5-2-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "while serving in the armed forces of the Union; or",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-5-2-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "when taken into or employed in the national service under any law for the time being in force,",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": "may, contribute to the fund during such service in the armed forces or employment in the national service, a sum not exceeding the amount he would have contributed had he continued to serve the employer, whether he received any salary or not from the employer."
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XI-A-5-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Irrespective of anything contained in paragraph 4(e) or (i),—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-5-3-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "at the request made in writing by the employee who ceases to be an employee of the employer maintaining the fund, the trustees of the fund may agree to retain the whole or any part of the accumulated balance to be drawn by him at any time on demand;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-5-3-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "when the accumulated balance due to such employee is retained in the fund as per clause (a), the fund may also include interest in respect of such accumulated balance; and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "c",
+                      "id": "schedule-XI-A-5-3-c",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the fund may also consist of any amount and interest thereof transferred from the employee's individual account in any recognised provident fund maintained by his former employer.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "4",
+                  "id": "schedule-XI-A-5-4",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "[***]",
+                  "clauses": [],
+                  "text_after_clauses": "",
+                  "footnote_refs": [
+                    "46"
+                  ],
+                  "amendment_status": "omitted"
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "5",
+                  "id": "schedule-XI-A-5-5",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Irrespective of anything contained in paragraph 4(j), in order to allow an employee to pay the amount of tax assessed on his total income under paragraph 11(4), such employee shall be allowed to withdraw from the balance amount to his credit in the recognised provident fund, a sum not exceeding the difference between such amount and the amount to which he would have been assessed if the transferred balance referred to in paragraph 11(2) had not been included in the total income.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "6",
+              "id": "schedule-XI-A-6",
+              "title": "Employer's annual contributions, when deemed to be income received by employee.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "The portion of the annual accretion in the tax year to the balance of an employee in a recognised provident fund consisting of interest credited on the balance to the credit of an employee in so far as it is allowed at a rate exceeding such rate as fixed by the Central Government by notification, shall be deemed to have been received by the employee and included in his total income for that tax year and shall be liable to income-tax.",
+              "clauses": [],
+              "text_after_clauses": "",
+              "footnote_refs": [
+                "47"
+              ],
+              "amendment_status": "substituted"
+            },
+            {
+              "type": "paragraph",
+              "number": "7",
+              "id": "schedule-XI-A-7",
+              "title": "Exemption for employee's contributions.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "An employee participating in a recognised provident fund shall, in respect of his own contributions to his individual account in the fund in the tax year, be entitled to a deduction in the computation of his total income of an amount determined as per section 123.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "8",
+              "id": "schedule-XI-A-8",
+              "title": "Exclusion from total income of accumulated balance",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-8-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Subject to the provisions of sub-paragraph (2), the accumulated balance due and payable to an employee shall be excluded from the computation of his total income—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-8-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "if the employee has rendered continuous service with his employer for five years or more; or",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-8-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "even if, the employee has not served continuously, the service was terminated due to--",
+                      "children": [
+                        {
+                          "type": "sub-clause",
+                          "number": "i",
+                          "id": "schedule-XI-A-8-1-b-i",
+                          "x": null,
+                          "y_start": null,
+                          "page_start": null,
+                          "page_end": null,
+                          "text": "the employee's ill-health; or"
+                        },
+                        {
+                          "type": "sub-clause",
+                          "number": "ii",
+                          "id": "schedule-XI-A-8-1-b-ii",
+                          "x": null,
+                          "y_start": null,
+                          "page_start": null,
+                          "page_end": null,
+                          "text": "by the contraction or closure of the employer's business; or"
+                        },
+                        {
+                          "type": "sub-clause",
+                          "number": "iii",
+                          "id": "schedule-XI-A-8-1-b-iii",
+                          "x": null,
+                          "y_start": null,
+                          "page_start": null,
+                          "page_end": null,
+                          "text": "other cause beyond the control of the employee;"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "clause",
+                      "number": "c",
+                      "id": "schedule-XI-A-8-1-c",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "if, on the cessation of his employment, the employee obtains employment with any other employer, to the extent the accumulated balance due and becoming payable to him is transferred to his individual account in any recognised provident fund maintained by such other employer; or",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "d",
+                      "id": "schedule-XI-A-8-1-d",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the entire balance standing to the employee's credit is transferred to his account under a pension scheme referred to in section 124 and notified by the Central Government.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-8-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Where the accumulated balance due and payable to an employee includes any amount transferred from another recognised provident fund or funds of a previous employer or employers, the continuous service period for the purposes of sub-paragraph (1)(a) or (b) shall include the period or periods served under the aforesaid previous employer or employers.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "9",
+              "id": "schedule-XI-A-9",
+              "title": "Tax on accumulated balance.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "Where the accumulated balance due to an employee is included in his total income owing to the provisions of paragraph 8 not being applicable, then—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-A-9-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the Assessing Officer shall calculate the total of the various sums of tax which would have been payable by the employee in respect of his total income for each of the years concerned if the fund had not been a recognised provident fund; and",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-A-9-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the amount by which such total exceeds the total of all sums paid by or on behalf of such employee by way of tax for such years shall be payable by the employee in addition to any other tax for which he may be liable for the tax year in which the accumulated balance due to him becomes payable.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "10",
+              "id": "schedule-XI-A-10",
+              "title": "Deduction at source of tax payable on accumulated balance.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "In cases where paragraph 9 applies--",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-A-10-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the trustees of a recognised provident fund; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-A-10-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "any person authorised by the regulations of the fund to make payment of accumulated balances due to employees,",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": "shall deduct from the accumulated balance at the time of payment, the amount payable under the rule and the provisions of Chapter XIX-B shall apply as if the accumulated balance were income chargeable under the head \"Salaries\"."
+            },
+            {
+              "type": "paragraph",
+              "number": "11",
+              "id": "schedule-XI-A-11",
+              "title": "Treatment of balance in newly recognised provident fund.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-11-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Where recognition is accorded to a provident fund with existing balances, an account shall be made of the fund up to the day immediately preceding the day on which the recognition takes effect,—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-11-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "showing the balance to the credit of each employee on such day; and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-11-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "containing such further particulars as may be prescribed.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-11-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The account shall also show in respect of balance to the credit of each employee—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-11-2-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the amount thereof to be transferred to the employee's account in the recognised provident fund (herein referred to as transferred balance); and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-11-2-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "such \"transferred balance\" shall be shown as balance to his credit in the recognised provident fund on the date on which the recognition takes effect, and sub-paragraph (4) and paragraph 5(5) shall apply accordingly.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XI-A-11-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Any part of the balance to the credit of each employee in the existing fund not transferred to the recognised fund shall be excluded from the recognised fund's account and shall be liable to income-tax as per the provisions of this Act, other than this Part.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "4",
+                  "id": "schedule-XI-A-11-4",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Subject to rules made by the Board in this behalf,—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-11-4-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the Assessing Officer shall calculate the aggregate of all amounts in the transferred balance that would have been liable to income-tax if this Part had been in force since the fund's institution, without regard to any tax which may have been paid on any amount;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-11-4-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the aggregate of amounts in a transferred balance, if any, shall be deemed to be income received by the employee in the tax year in which the recognition of the fund takes effect and shall be included in the employee's total income for that tax year;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "c",
+                      "id": "schedule-XI-A-11-4-c",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "for the purposes of assessment, the remainder of the transferred balance shall be disregarded, but no other exemption or relief, by way of refund or otherwise, shall be granted in respect of any sum comprised in such transferred balance.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "5",
+                  "id": "schedule-XI-A-11-5",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "In cases of serious accounting difficulty, the approving authority may, subject to rules, make a summary calculation of the aggregate as provided in sub-paragraph (4).",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "6",
+                  "id": "schedule-XI-A-11-6",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Nothing in this paragraph shall affect the rights of the persons administering an unrecognised provident fund or dealing with it, or with the balance to the credit of any individual employee prior to recognition, in any manner permitted by law.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "12",
+              "id": "schedule-XI-A-12",
+              "title": "Accounts of recognised provident funds.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-12-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The accounts of a recognised provident fund shall be maintained by the trustees of the fund in such form, for such period, and contain such particulars, as may be prescribed.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-12-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The accounts shall be available to inspection by the income-tax authorities at all reasonable times, and the trustees shall provide the Assessing Officer with the abstracts of such accounts as may be prescribed.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "13",
+              "id": "schedule-XI-A-13",
+              "title": "Appeal.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-13-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An employer objecting to an order of the approving authority not granting recognition or withdrawing recognition from a provident fund may appeal to the Board, within sixty days of such order.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-13-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The appeal shall be in such form and verified in such manner, and subject to the payment of such fee as may be prescribed.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "14",
+              "id": "schedule-XI-A-14",
+              "title": "Treatment of fund transferred by employer to trustee.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-A-14-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "When an employer who maintains a provident fund, whether recognised or not, for the benefit of his employees and has not transferred the fund or portion of it, transfers such fund or portion to trustees in trust for the participating employees, the transferred amount shall be deemed to be of the nature of capital expenditure.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-A-14-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "When an employee receives the accumulated balance due to him from the fund, any portion of such balance representing the employee's share of the amount transferred to the trustees (without addition of interest and exclusive of employee's contributions and interest thereon) shall be deemed to be,—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-A-14-2-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "employer's expenditure under section 34;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-A-14-2-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "incurred in the tax year in which the accumulated balance due to the employee is paid,",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": "provided an arrangement for deduction of tax at source has been made from the amount of such share by the employer."
+                }
+              ],
+              "text_after_subparagraphs": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        },
+        {
+          "type": "part",
+          "number": "B",
+          "id": "schedule-XI-B",
+          "title": "APPROVED SUPERANNUATION FUNDS AND GRATUITY FUNDS",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "1",
+              "id": "schedule-XI-B-1",
+              "title": "Interpretation.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "For the purposes of this Part, unless the context otherwise requires, \"approving authority\", \"employer\", \"employee\", \"contribution\" and \"salary\", in relation to superannuation funds and gratuity funds shall have, the meanings as assigned to those expressions in paragraph 2(a), (b), (c), (d) and (i) of Part A in relation to provident funds.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "2",
+              "id": "schedule-XI-B-2",
+              "title": "According approval to superannuation fund and its withdrawal.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-B-2-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The approving authority may grant approval to any superannuation fund or its part, or any gratuity fund, as the case may be, which in his opinion satisfies the conditions prescribed in paragraph 3, and may withdraw such approval at any time, if, in his opinion, the circumstances cease to warrant such approval.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-B-2-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The approving authority shall inform the trustees of the fund, in writing, the grant of approval with the date on which the approval is to take effect and the conditions subject to which such approval is granted, if any.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XI-B-2-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The approving authority shall inform the trustees of the fund, in writing, any withdrawal of approval along with the reasons and the date on which the withdrawal is to take effect.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "4",
+                  "id": "schedule-XI-B-2-4",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The approving authority shall not refuse or withdraw any approval without giving the trustees a reasonable opportunity of being heard.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "3",
+              "id": "schedule-XI-B-3",
+              "title": "Conditions for approval.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "In order to receive and retain approval, a superannuation fund or a gratuity fund, as the case may be, shall satisfy the following conditions, and any other conditions as may be prescribed:—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-B-3-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the fund shall be established under an irrevocable trust in connection with a trade or an undertaking carried on in India, with at least 90% employees employed in India;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-B-3-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the sole purpose of the fund shall be the provision of annuities or gratuity, as the case may be, for employees in the trade or undertaking--",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-XI-B-3-b-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "upon their retirement at or after a specified age;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-XI-B-3-b-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "upon incapacitation before retirement;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "iii",
+                      "id": "schedule-XI-B-3-b-iii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "on termination of employment after a minimum period of service specified in the rules of the gratuity fund; or"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "iv",
+                      "id": "schedule-XI-B-3-b-iv",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "for the widows, children or dependants of such employees on their death;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-XI-B-3-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "the employer in the trade or undertaking shall contribute to the fund; and",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-XI-B-3-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "all annuities, pensions and other benefits, granted from the fund shall be payable only in India.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "4",
+              "id": "schedule-XI-B-4",
+              "title": "Application for approval.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-B-4-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An application for approval of a superannuation fund or part of it, or any gratuity fund, as the case may be, shall be made in writing by the trustees to the Assessing Officer by whom the employer is assessable, and shall be accompanied by—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-B-4-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "a copy of the instrument establishing the fund and two copies of the rules thereof; and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-B-4-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "two copies of the accounts of the fund relating to such earlier year or years (not more than three years immediately preceding the year in which the said application is made) for which the accounts have been made up, if the fund has been in existence before the financial year in which the application for approval is made.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-B-4-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "In addition to the documents referred to in sub-paragraph (1), the approving authority may require such further information to be furnished as he thinks proper.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XI-B-4-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "If any alteration is made to the rules, constitution, objects or conditions of the fund after the date of the application for approval,--",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-B-4-3-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "the trustees shall immediately inform such alterations to the Assessing Officer mentioned in sub-paragraph (1); and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-B-4-3-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "failure to inform such alterations may result in the approval given, if any, be deemed to be withdrawn from the date on which the alteration took effect, unless the approving authority orders otherwise.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "5",
+              "id": "schedule-XI-B-5",
+              "title": "Gratuity deemed to be salary.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "If any gratuity is paid to an employee during his lifetime, the gratuity shall be treated as salary paid to the employee for the purposes of this Act.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "6",
+              "id": "schedule-XI-B-6",
+              "title": "Contributions of employee when deemed to be income of employer.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "When contributions by an employer (including the interest, if any) are repaid to the employer, the amount so repaid shall be deemed for the purposes of income-tax to be the income of the employer of the tax year in which they are so repaid.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "7",
+              "id": "schedule-XI-B-7",
+              "title": "Deduction of tax on contributions paid to an employee.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-B-7-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "When any contributions made by an employer to an approved superannuation fund, including interest are paid to an employee during his lifetime under conditions other than those specified in Schedule II (Table: Sl. No. 8), tax on the amounts so paid shall be deducted at the average rate of tax applicable to the employee—",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XI-B-7-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "during the previous three years; or",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XI-B-7-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "during the period for which the employee was a member of the fund, if the period is less than three years.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-B-7-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The trustees shall pay the tax so deducted to the Central Government within the time and manner, as may be prescribed.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "8",
+              "id": "schedule-XI-B-8",
+              "title": "Deduction from pay of and contributions on behalf of employee to be included in return.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "When an employer deducts contributions from the emoluments of the employee or pays on his behalf any contributions to an approved superannuation fund, all such deductions or payments shall be included in the statement which is required under section 397(3)(b).",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "9",
+              "id": "schedule-XI-B-9",
+              "title": "Appeal.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XI-B-9-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "An employer objecting to an order of the approving authority refusing to grant approval to a superannuation fund, or a gratuity fund, as the case may be, or withdrawing such approval may appeal to the Board within sixty days of such order.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XI-B-9-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The appeal shall be in such form and verified in such manner and subject to the payment of such fee, as may be prescribed.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "10",
+              "id": "schedule-XI-B-10",
+              "title": "Liability of trustees on cessation of approval of superannuation fund.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "If a fund or a part of a fund for any reason ceases to be an approved superannuation fund, the trustees of the fund shall nevertheless remain liable to tax on any sum paid on account of returned contributions (including interest on contributions, if any), in so far as the sum so paid is in respect of contributions made before the fund or part of the fund ceased to be an approved superannuation fund under the provisions of this Part.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "11",
+              "id": "schedule-XI-B-11",
+              "title": "Liabilities of trustees on cessation of approval of gratuity fund.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "If a gratuity fund for any reason ceases to be an approved gratuity fund, the trustees shall nevertheless remain liable to tax on any gratuity paid to any employee.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "12",
+              "id": "schedule-XI-B-12",
+              "title": "Particulars to be furnished.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "The trustees of an approved superannuation fund or an approved gratuity fund and any employer who contributes to such a fund shall furnish such returns, statement, particulars or information, as required by notice from the Assessing Officer within the specified period, not being less than twenty-one days from the date of the notice.",
+              "clauses": [],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        },
+        {
+          "type": "part",
+          "number": "C",
+          "id": "schedule-XI-C",
+          "title": "POWER TO MAKE RULES FOR PROVIDENT FUNDS, SUPERANNUATION FUNDS AND GRATUITY FUNDS",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "1",
+              "id": "schedule-XI-C-1",
+              "title": "Power of Board to make rules for fund.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "In addition to powers granted by Part A and Part B of this Schedule, the Board may make rules for a fund (provident fund or superannuation fund or gratuity fund) in respect of the following:—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XI-C-1-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to provide for the statements and information to be submitted along with an application for approval or recognition for a fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XI-C-1-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to provide for the returns, statements, particulars, or information which the Assessing Officer may require from the trustees of an approved superannuation fund or from the employer;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-XI-C-1-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to limit the ordinary annual and other contributions of an employer to the gratuity fund or an approved superannuation fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-XI-C-1-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "[***]",
+                  "children": [],
+                  "footnote_refs": [
+                    "48"
+                  ],
+                  "amendment_status": "omitted"
+                },
+                {
+                  "type": "clause",
+                  "number": "e",
+                  "id": "schedule-XI-C-1-e",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to regulate investment or deposit of the moneys of a recognised or an approved fund;",
+                  "children": [],
+                  "footnote_refs": [
+                    "49"
+                  ],
+                  "amendment_status": "substituted"
+                },
+                {
+                  "type": "clause",
+                  "number": "f",
+                  "id": "schedule-XI-C-1-f",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to provide for the assessment by way of penalty of any consideration received by an employee for an assignment of, or creation of a charge upon, his beneficial interest in a recognised or an approved fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "g",
+                  "id": "schedule-XI-C-1-g",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to determine the extent and manner of exemption from payment of tax on contributions and interest credited to the individual account of the employee in a provident fund from which recognition has been withdrawn;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "h",
+                  "id": "schedule-XI-C-1-h",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to determine the extent and manner of exemption from payment of tax on any payment made from a superannuation fund from which approval has been withdrawn;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "i",
+                  "id": "schedule-XI-C-1-i",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to provide for the withdrawal of the approval of a superannuation fund or gratuity fund, which ceases to satisfy the requirements of this Part or the rules made thereunder; and",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "j",
+                  "id": "schedule-XI-C-1-j",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "to carry out any other the purpose of this Part and to secure such further control over the recognition or approval of the funds and the administration of such funds as it may deem requisite.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "2",
+              "id": "schedule-XI-C-2",
+              "title": "",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "All rules made under this Part shall be subject to section 534.",
+              "clauses": [],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        }
+      ],
+      "text_after_parts": ""
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "44",
+      "id": "schedule-XI-footnote-44",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, clause (c) read as under : \"(c) the employer's contributions to the employee's account in any year shall not exceed the employee's contribution in that year, and shall be credited to the employee's account at intervals not exceeding one year;\"",
+      "related_node_ids": [
+        "schedule-XI-A-4-c"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "45",
+      "id": "schedule-XI-footnote-45",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (f) read as under : \"(f) the fund shall be the fund of an establishment— (i) to which the provisions of section 1(3) of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) apply; or (ii) notified by the Central Provident Fund Commissioner under section 1(4) of the said Act, and such establishment shall be exempted from the operation of all or any of the provisions of any scheme mentioned in section 17 of the said Act;\"",
+      "related_node_ids": [
+        "schedule-XI-A-4-f"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "46",
+      "id": "schedule-XI-footnote-46",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, sub-paragraph (4) read as under : \"(4) Subject to any rules made by the Board, the approving authority may relax the provisions of paragraph 4(c) for any particular fund,— (a) to permit the payment of larger contributions by an employer to the employee's individual account whose salary does not exceed five hundred rupees per month; and (b) to permit the employers to credit the employees' individual accounts with periodical bonuses or contributions of a contingent nature, when the calculation and payment of such bonuses or contributions is provided for on definite principles by the regulations of the fund.\"",
+      "related_node_ids": [
+        "schedule-XI-A-5-4"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "47",
+      "id": "schedule-XI-footnote-47",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, paragraph 6 read as under : \"6. Employer's annual contributions, when deemed to be income received by employee.—The portion of the annual accretion in the tax year to the employee's balance in a recognised provident fund consisting of— (a) contributions made by the employer exceeding 12% of the employee's salary; and (b) interest credited on the balance to the credit of an employee in so far as it is allowed at a rate exceeding such rate as fixed by the Central Government by notification, shall be deemed to have been received by the employee and included in his total income for that tax year and shall be liable to income tax.\"",
+      "related_node_ids": [
+        "schedule-XI-A-6"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "48",
+      "id": "schedule-XI-footnote-48",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Omtt. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its omission, clause (d) read as under : \"(d) to limit the contributions to a recognised provident fund by employees who are shareholders in the company;\"",
+      "related_node_ids": [
+        "schedule-XI-C-1-d"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "49",
+      "id": "schedule-XI-footnote-49",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (e) read as under : \"(e) to regulate investment or deposit of the moneys of a recognised or an approved fund, subject to the condition that no rule shall require more than 50% of the fund's money to be invested in Government securities as defined in section 2(f) of the Government Securities Act, 2006 (38 of 2006);\"",
+      "related_node_ids": [
+        "schedule-XI-C-1-e"
+      ]
+    }
+  ],
+  "orphans": []
+}

@@ -1,4 +1,5 @@
 {
+  "section_number": "466",
   "legal_units": [
     {
       "id": "466",
@@ -9,7 +10,7 @@
       "section_number": "466",
       "title": "Penalty for failure to comply with the provisions of section 254.",
       "text": "If a person fails to comply with the provisions of section 254, the Joint Commissioner, Deputy Director or Assistant Director or the Assessing Officer,",
-      "context_text": "Section 466 Penalty for failure to comply with the provisions of section 254. If a person fails to comply with the provisions of section 254, the Joint Commissioner, Deputy Director or Assistant Director or the Assessing Officer,",
+      "retrieval_text": "Section 466 Penalty for failure to comply with the provisions of section 254. If a person fails to comply with the provisions of section 254, the Joint Commissioner, Deputy Director or Assistant Director or the Assessing Officer,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "466",
+      "to_id": "254",
+      "edge_type": "references",
+      "reference_text": "section 254"
     }
   ]
 }

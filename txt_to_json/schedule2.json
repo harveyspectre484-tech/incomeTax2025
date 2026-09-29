@@ -1,0 +1,616 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "II",
+      "id": "schedule-II",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "INCOME NOT TO BE INCLUDED IN TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a person for a tax year, the income mentioned in column B of the Table below shall not be included, subject to fulfilment of the conditions mentioned in column C of the said Table, and the expressions used in columns B and C of the said Table, shall have the meaning respectively assigned to them in the Notes below the said Table.",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Agricultural income."
+            },
+            "conditions": {
+              "text": "Nil."
+            },
+            "id": "schedule-II-t1"
+          },
+          {
+            "sl_no": "2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any sum received under a life insurance policy, including the sum allocated by way of bonus on such policy."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "intro": "The insurance policies, issued during the period mentioned in column B of the table below, except where such sum is received on the death of a person, under a life Insurance policy issued by, shall fulfil the conditions mentioned in column C thereof:",
+                  "table": {
+                    "type": "table",
+                    "caption": "TABLE",
+                    "columns": [
+                      "Sl. No.",
+                      "Period of issue of insurance policy",
+                      "Conditions"
+                    ],
+                    "column_labels": [
+                      "A",
+                      "B",
+                      "C"
+                    ],
+                    "rows": [
+                      {
+                        "sl_no": "1",
+                        "period_of_issue_of_insurance_policy": {
+                          "text": "1st April, 2003 to 31st March, 2012."
+                        },
+                        "conditions": {
+                          "text": "Premium to sum assured ratio is ≤ 20%."
+                        },
+                        "id": "schedule-II-t2-cond-a-t1"
+                      },
+                      {
+                        "sl_no": "2",
+                        "period_of_issue_of_insurance_policy": {
+                          "text": "1st April, 2012 to 31st March, 2013."
+                        },
+                        "conditions": {
+                          "text": "Premium to sum assured ratio is ≤ 10%."
+                        },
+                        "id": "schedule-II-t2-cond-a-t2"
+                      },
+                      {
+                        "sl_no": "3",
+                        "period_of_issue_of_insurance_policy": {
+                          "text": "1st April, 2013 to 31st January, 2021."
+                        },
+                        "conditions": {
+                          "text": "Premium to sum assured ratio is ≤ 15% for special policy; and ≤ 10% for other policies."
+                        },
+                        "id": "schedule-II-t2-cond-a-t3"
+                      },
+                      {
+                        "sl_no": "4",
+                        "period_of_issue_of_insurance_policy": {
+                          "text": "1st February, 2021 to 31st March, 2023."
+                        },
+                        "conditions": {
+                          "items": [
+                            {
+                              "marker": null,
+                              "intro": "Unit linked insurance policy:—",
+                              "items": [
+                                {
+                                  "marker": "A",
+                                  "text": "premium to sum assured ratio is ≤ 15% for special policy; and ≤ 10% for other policies; and",
+                                  "id": "schedule-II-t2-cond-a-t4-cond-group1-A"
+                                },
+                                {
+                                  "marker": "B",
+                                  "text": "aggregate of premium for all such policies (in any of the tax years during the term of all of such policies) is ≤ ₹ 2,50,000.",
+                                  "id": "schedule-II-t2-cond-a-t4-cond-group1-B"
+                                }
+                              ],
+                              "id": "schedule-II-t2-cond-a-t4-cond-group1"
+                            },
+                            {
+                              "marker": null,
+                              "text": "Premium to sum assured ratio is ≤ 15% for special policy; and ≤ 10% for other policies.",
+                              "intro": "Other than unit linked insurance policy:—",
+                              "id": "schedule-II-t2-cond-a-t4-cond-group2"
+                            }
+                          ]
+                        },
+                        "id": "schedule-II-t2-cond-a-t4"
+                      },
+                      {
+                        "sl_no": "5",
+                        "period_of_issue_of_insurance_policy": {
+                          "text": "On or after the 1st April, 2023."
+                        },
+                        "conditions": {
+                          "items": [
+                            {
+                              "marker": null,
+                              "intro": "Unit linked insurance policy:—",
+                              "items": [
+                                {
+                                  "marker": "a",
+                                  "text": "premium to sum assured ratio is ≤ 15% for special policy; and ≤ 10% for other policies; and",
+                                  "id": "schedule-II-t2-cond-a-t5-cond-group1-a"
+                                },
+                                {
+                                  "marker": "b",
+                                  "text": "aggregate of premium for all such policies (in any of the tax years during the term of all of such policies) ≤ ₹ 2,50,000.",
+                                  "id": "schedule-II-t2-cond-a-t5-cond-group1-b"
+                                }
+                              ],
+                              "id": "schedule-II-t2-cond-a-t5-cond-group1"
+                            },
+                            {
+                              "marker": null,
+                              "intro": "Other than Unit linked insurance policy:—",
+                              "items": [
+                                {
+                                  "marker": "i",
+                                  "text": "premium to sum assured ratio is ≤ 15% for special policy; and ≤ 10% for other policies; and",
+                                  "id": "schedule-II-t2-cond-a-t5-cond-group2-i"
+                                },
+                                {
+                                  "marker": "ii",
+                                  "text": "aggregate of premium for all such policies (in any of the tax years during the term of all of such policies) is ≤ ₹ 5,00,000;",
+                                  "id": "schedule-II-t2-cond-a-t5-cond-group2-ii"
+                                }
+                              ],
+                              "id": "schedule-II-t2-cond-a-t5-cond-group2"
+                            }
+                          ]
+                        },
+                        "id": "schedule-II-t2-cond-a-t5"
+                      }
+                    ],
+                    "id": "schedule-II-t2-cond-a-table"
+                  },
+                  "id": "schedule-II-t2-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "the conditions of aggregate premium of ₹ 2,50,000 and ₹ 5,00,000 mentioned in clause (a) shall not apply to any sum received under a life Insurance policy issued on or after the 1st April, 2025, by the International Financial Services Centre Insurance Office;",
+                  "id": "schedule-II-t2-cond-b"
+                },
+                {
+                  "marker": "c",
+                  "intro": "the following sums shall not be eligible for exclusion from total income:—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "text": "any sum received under section 127(4); and",
+                      "id": "schedule-II-t2-cond-c-i"
+                    },
+                    {
+                      "marker": "ii",
+                      "text": "any sum received under a Keyman insurance policy.",
+                      "id": "schedule-II-t2-cond-c-ii"
+                    }
+                  ],
+                  "id": "schedule-II-t2-cond-c"
+                }
+              ],
+              "notes": [
+                {
+                  "type": "note",
+                  "number": null,
+                  "id": "schedule-II-t2-cond-note",
+                  "caption": "Note",
+                  "text": "For removal of difficulties, the Board may issue guidelines with the previous approval of the Central Government, which shall be binding on the income-tax authorities and the assessee and every guideline issued by the Board under this clause shall be laid before each House of Parliament."
+                }
+              ]
+            },
+            "id": "schedule-II-t2"
+          },
+          {
+            "sl_no": "3",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from a provident fund to which the Provident Funds Act, 1925 (19 of 1925) applies, or from any other provident fund set up by the Central Government and notified by it in this behalf."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "intro": "The income by way of interest accrued during the tax year shall not be eligible for exclusion from total income where,—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "text": "it is attributable to the contribution (including aggregate thereof) made by that person on or after the 1st April, 2021;",
+                      "id": "schedule-II-t3-cond-a-i"
+                    },
+                    {
+                      "marker": "ii",
+                      "intro": "such contribution exceeds—",
+                      "items": [
+                        {
+                          "marker": "A",
+                          "text": "₹ 5,00,000 in a tax year in such fund where no contribution is made by the employer of such person;",
+                          "id": "schedule-II-t3-cond-a-ii-A"
+                        },
+                        {
+                          "marker": "B",
+                          "text": "₹ 2,50,000 in other cases; and",
+                          "id": "schedule-II-t3-cond-a-ii-B"
+                        }
+                      ],
+                      "id": "schedule-II-t3-cond-a-ii"
+                    }
+                  ],
+                  "id": "schedule-II-t3-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "the amount of income not to be excluded from total income as referred to in clause (a) shall be computed in such manner, as may be prescribed.",
+                  "id": "schedule-II-t3-cond-b"
+                }
+              ]
+            },
+            "id": "schedule-II-t3"
+          },
+          {
+            "sl_no": "4",
+            "income_not_to_be_included_in_total_income": {
+              "text": "The accumulated balance due and becoming payable to an employee participating in a recognised provident fund to the extent provided in paragraph 8 of Part A of the Schedule XI."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "intro": "The income by way of interest accrued during the tax year shall not be eligible for exclusion from total income where,—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "text": "it is attributable to contribution (including aggregate thereof) made by that person on or after the 1st April, 2021; and",
+                      "id": "schedule-II-t4-cond-a-i"
+                    },
+                    {
+                      "marker": "ii",
+                      "intro": "such contribution exceeds—",
+                      "items": [
+                        {
+                          "marker": "A",
+                          "text": "₹ 5,00,000 in a financial year in such fund where no contribution is made by the employer of such person; or",
+                          "id": "schedule-II-t4-cond-a-ii-A"
+                        },
+                        {
+                          "marker": "B",
+                          "text": "₹ 2,50,000 in other cases; and",
+                          "id": "schedule-II-t4-cond-a-ii-B"
+                        }
+                      ],
+                      "id": "schedule-II-t4-cond-a-ii"
+                    }
+                  ],
+                  "id": "schedule-II-t4-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "the amount of income not to be excluded from total income as referred to in clause (a) shall be computed in such manner as may be prescribed.",
+                  "id": "schedule-II-t4-cond-b"
+                }
+              ]
+            },
+            "id": "schedule-II-t4"
+          },
+          {
+            "sl_no": "5",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from any account opened as per the Sukanya Samriddhi Account Scheme, 2019 made under the Government Savings Promotion Act, 1873 (5 of 1873)."
+            },
+            "conditions": {
+              "text": "Nil."
+            },
+            "id": "schedule-II-t5"
+          },
+          {
+            "sl_no": "6",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from the National Pension System Trust."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "text": "Such payment is on closure of account of the assessee or on his opting out of the pension scheme referred to in section 124; and",
+                  "id": "schedule-II-t6-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "the said payment does not exceed 60% of the total amount payable at the time of such closure or his opting out of the scheme.",
+                  "id": "schedule-II-t6-cond-b"
+                }
+              ]
+            },
+            "id": "schedule-II-t6"
+          },
+          {
+            "sl_no": "7",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from the Agniveer Corpus Fund to a person enrolled under the Agnipath Scheme or to his nominee."
+            },
+            "conditions": {
+              "text": "Nil."
+            },
+            "id": "schedule-II-t7"
+          },
+          {
+            "sl_no": "8",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from an approved superannuation fund."
+            },
+            "conditions": {
+              "intro": "Such payment is made—",
+              "items": [
+                {
+                  "marker": "a",
+                  "text": "on the death of a beneficiary;",
+                  "id": "schedule-II-t8-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "to an employee in lieu of or in commutation of an annuity on his retirement at or after a specified age or on his becoming incapacitated prior to such retirement;",
+                  "id": "schedule-II-t8-cond-b"
+                },
+                {
+                  "marker": "c",
+                  "text": "by way of refund of contributions on the death of a beneficiary;",
+                  "id": "schedule-II-t8-cond-c"
+                },
+                {
+                  "marker": "d",
+                  "text": "by way of refund of contributions to an employee on his leaving the service in connection with which the fund is established otherwise than by retirement at or after a specified age or on his becoming incapacitated prior to such retirement, to the extent to which such payment does not exceed the contributions made prior to the commencement of this Act and any interest thereon; or",
+                  "id": "schedule-II-t8-cond-d"
+                },
+                {
+                  "marker": "e",
+                  "text": "by way of transfer to the account of the employee under a pension scheme referred to in section 124 and notified by the Central Government in this behalf.",
+                  "id": "schedule-II-t8-cond-e"
+                }
+              ]
+            },
+            "id": "schedule-II-t8"
+          },
+          {
+            "sl_no": "9",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Scholarships."
+            },
+            "conditions": {
+              "text": "Such scholarship is granted to meet the cost of education."
+            },
+            "id": "schedule-II-t9"
+          },
+          {
+            "sl_no": "10",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment made, whether in cash or in kind for any award or reward."
+            },
+            "conditions": {
+              "intro": "Such payment is made—",
+              "items": [
+                {
+                  "marker": "a",
+                  "text": "in pursuance of any award instituted in the public interest by the Central Government or any State Government or instituted by any other body and approved by the Central Government in this behalf; or",
+                  "id": "schedule-II-t10-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "as a reward by the Central Government or any State Government for such purposes as may be approved by the Central Government in this behalf in public interest.",
+                  "id": "schedule-II-t10-cond-b"
+                }
+              ]
+            },
+            "id": "schedule-II-t10"
+          },
+          {
+            "sl_no": "11",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Income by way of interest, premium on redemption or other payment on such securities, bonds, annuity certificates, savings certificates, other certificates issued by the Central Government and deposits."
+            },
+            "conditions": {
+              "text": "Such certificates and deposits are notified by the Central Government, subject to such conditions and limits as specified therein."
+            },
+            "id": "schedule-II-t11"
+          },
+          {
+            "sl_no": "12",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Interest on Gold Deposit Bonds issued under the Gold Deposit Scheme, 1999 or deposit certificates issued under the Gold Monetisation Scheme, 2015 notified by the Central Government."
+            },
+            "conditions": {
+              "text": "Nil."
+            },
+            "id": "schedule-II-t12"
+          },
+          {
+            "sl_no": "13",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Interest on bonds issued by a local authority or by a State Pooled Finance Entity."
+            },
+            "conditions": {
+              "text": "As specified by the Central Government, by notification."
+            },
+            "id": "schedule-II-t13"
+          },
+          {
+            "sl_no": "14",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income arising from the transfer of a capital asset, being a unit of the Unit Scheme, 1964 referred to in Schedule I to the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002)."
+            },
+            "conditions": {
+              "text": "The transfer of such asset takes place on or after the 1st April, 2002."
+            },
+            "id": "schedule-II-t14"
+          },
+          {
+            "sl_no": "15",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from the National Pension System Trust received by an assessee, who is a subscriber to the Unified Pension Scheme;"
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "text": "such payment received at the time of his superannuation or voluntary retirement or retirement under rule 56(j) of the Fundamental Rules [which is not treated as penalty under the Central Civil Services (Classification, Control and Appeal) Rules, 1965]; and",
+                  "id": "schedule-II-t15-cond-a"
+                },
+                {
+                  "marker": "b",
+                  "text": "the said payment does not exceed 60% of the Individual corpus, as defined in notification number FX-1/3/2024-PR of the Department of Financial Services, dated the 24th January, 2025;",
+                  "id": "schedule-II-t15-cond-b"
+                }
+              ]
+            },
+            "id": "schedule-II-t15"
+          },
+          {
+            "sl_no": "16",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any sum received as “lump sum amount” from the National Pension System Trust by an assessee being a subscriber to the Unified Pension Scheme."
+            },
+            "conditions": {
+              "text": "The said “lump sum amount” is as per clause (vi) of Para 2, of the Notification number FX-1/3/2024-PR of the Department of Financial Services, dated the 24th January, 2025."
+            },
+            "id": "schedule-II-t16"
+          },
+          {
+            "sl_no": "17",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income covered under section 10(15)(iii) or (15)(iv)(c), (15)(iv)(d), (15)(iv)(e), (15)(iv)(f), (15)(iv)(g) or (15)(iv)(h) or (36) of the Income-tax Act, 1961 (43 of 1961), subject to the conditions as provided therein."
+            },
+            "conditions": {
+              "text": "Nil."
+            },
+            "id": "schedule-II-t17"
+          }
+        ],
+        "id": "schedule-II-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-II-note1",
+          "text_before_clauses": "For the purposes of Sl. No. 2,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-II-note1-a",
+              "text": "“actual capital sum assured” shall have the meaning assigned to it in paragraph 2(2) of Schedule XV;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-II-note1-b",
+              "text": "“International Financial Services Centre Insurance Office” shall have the same meaning as assigned to it regulation 3(1)(k) of the International Financial Services Centre Authority (Registration of Insurance Business) Regulations, 2021, made under the International Financial Services Centres Authority Act, 2019 (50 of 2019);"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-II-note1-c",
+              "intro": "“Keyman insurance policy” means a life insurance policy—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-II-note1-c-i",
+                  "text": "taken by a person on the life of another person;"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-II-note1-c-ii",
+                  "text": "such person is or was the employee of the first-mentioned person or is or was connected in any manner with the business of the first-mentioned person; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-II-note1-c-iii",
+                  "text": "includes such policy which has been assigned to a person at any time during the term of the policy, with or without any consideration;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-II-note1-d",
+              "text": "“premium to sum assured ratio” shall mean the highest percentage of annual premium payable to the actual capital sum assured, during the term of the policy;"
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-II-note1-e",
+              "intro": "“special policy” means any policy issued on life of any person, who is—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-II-note1-e-i",
+                  "text": "a person with disability or a person with severe disability as referred to in section 154; or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-II-note1-e-ii",
+                  "text": "suffering from disease or ailment as specified in the rules made under section 128;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "schedule-II-note1-f",
+              "intro": "“United Linked Insurance Policy” means a unit linked life insurance policy,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-II-note1-f-i",
+                  "text": "which has components of both investment and insurance; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-II-note1-f-ii",
+                  "text": "is linked to a unit as defined in regulation 3(ee) of the Insurance Regulatory and Development Authority of India (Unit Linked Insurance Products) Regulations, 2019 made under the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999);"
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-II-note2",
+          "text": "For the purposes of Sl. No. 7, the expression “Agniveer Corpus Fund” and “Agnipath Scheme” shall have the meanings respectively assigned to them in section 125."
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-II-note3",
+          "text": "For the purposes of Sl. No. 11, the expression “interest” includes hedging transaction charges on account of currency fluctuation."
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-II-note4",
+          "text": "For the purposes of Sl. No. 13, the expression “State Pooled Finance Entity” means such entity which is set up as per the guidelines for the Pooled Finance Development Scheme notified by the Central Government in the Ministry of Housing and Urban Affairs."
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [],
+  "orphans": []
+}

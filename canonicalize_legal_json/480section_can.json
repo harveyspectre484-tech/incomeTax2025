@@ -1,4 +1,5 @@
 {
+  "section_number": "480",
   "legal_units": [
     {
       "id": "480",
@@ -8,8 +9,8 @@
       "section_id": "480",
       "section_number": "480",
       "title": "^2^6[Failure to furnish return of income setting forth undisclosed income.",
-      "text": "If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— (a) with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or (b) with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or (c) with fine, in any other case.",
-      "context_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— (a) with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or (b) with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or (c) with fine, in any other case.",
+      "text": "If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable—",
+      "retrieval_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "480",
       "title": "^2^6[Failure to furnish return of income setting forth undisclosed income.",
       "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or",
-      "context_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(a): with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or",
+      "retrieval_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(a): with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of tax exceeds fifty lakh rupees; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "480",
       "title": "^2^6[Failure to furnish return of income setting forth undisclosed income.",
       "text": "with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
-      "context_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(b): with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+      "retrieval_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(b): with simple imprisonment up to six months, or with fine, or with both, where the amount of tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "480",
       "title": "^2^6[Failure to furnish return of income setting forth undisclosed income.",
       "text": "with fine, in any other case.",
-      "context_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(c): with fine, in any other case.",
+      "retrieval_text": "Section 480 ^2^6[Failure to furnish return of income setting forth undisclosed income. If a person wilfully fails to furnish in due time the return of income, setting forth his undisclosed income for the block period, which is required to be furnished by notice given under section 294(1)(a), he shall be punishable— Section 480(c): with fine, in any other case.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,45 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 138.93
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "480-a",
+      "to_id": "480",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "480",
+      "to_id": "480-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "480-b",
+      "to_id": "480",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "480",
+      "to_id": "480-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "480-c",
+      "to_id": "480",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "480",
+      "to_id": "480-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "480",
+      "to_id": "294-1-a",
+      "edge_type": "references",
+      "reference_text": "section 294(1)(a)"
     }
   ]
 }

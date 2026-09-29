@@ -1,4 +1,5 @@
 {
+  "section_number": "441",
   "legal_units": [
     {
       "id": "441",
@@ -8,8 +9,8 @@
       "section_id": "441",
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
-      "text": "A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— (a) keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or (b) retain such books of account and other documents for the period specified in the said rules.",
-      "context_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— (a) keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or (b) retain such books of account and other documents for the period specified in the said rules.",
+      "text": "A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
+      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
       "text": "keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
-      "context_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(a): keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
+      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(a): keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
       "text": "retain such books of account and other documents for the period specified in the said rules.",
-      "context_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(b): retain such books of account and other documents for the period specified in the said rules.",
+      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(b): retain such books of account and other documents for the period specified in the said rules.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 118.78
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "441-a",
+      "to_id": "441",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "441",
+      "to_id": "441-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "441-b",
+      "to_id": "441",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "441",
+      "to_id": "441-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "441-a",
+      "to_id": "62",
+      "edge_type": "references",
+      "reference_text": "section 62"
     }
   ]
 }

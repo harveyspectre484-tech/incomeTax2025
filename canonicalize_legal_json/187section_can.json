@@ -1,4 +1,5 @@
 {
+  "section_number": "187",
   "legal_units": [
     {
       "id": "187",
@@ -8,8 +9,8 @@
       "section_id": "187",
       "section_number": "187",
       "title": "Acceptance of payment through prescribed electronic modes.",
-      "text": "Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— (a) such person is carrying on business or profession; and (b) total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
-      "context_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— (a) such person is carrying on business or profession; and (b) total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
+      "text": "Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where—",
+      "retrieval_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "187",
       "title": "Acceptance of payment through prescribed electronic modes.",
       "text": "such person is carrying on business or profession; and",
-      "context_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— Section 187(a): such person is carrying on business or profession; and",
+      "retrieval_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— Section 187(a): such person is carrying on business or profession; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "187",
       "title": "Acceptance of payment through prescribed electronic modes.",
       "text": "total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
-      "context_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— Section 187(b): total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
+      "retrieval_text": "Section 187 Acceptance of payment through prescribed electronic modes. Every person shall provide facility for accepting payment, through electronic modes as may be prescribed, in addition to other electronic modes, if any, being provided by him, where— Section 187(b): total sales, turnover or gross receipts in such business or profession exceeds fifty crore rupees during the immediately preceding tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 118.78
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "187-a",
+      "to_id": "187",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "187",
+      "to_id": "187-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "187-b",
+      "to_id": "187",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "187",
+      "to_id": "187-b",
+      "edge_type": "contains"
     }
   ]
 }

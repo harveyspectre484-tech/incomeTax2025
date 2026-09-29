@@ -1,4 +1,5 @@
 {
+  "section_number": "3",
   "legal_units": [
     {
       "id": "3",
@@ -8,8 +9,8 @@
       "section_id": "3",
       "section_number": "3",
       "title": "Definition of \"tax year\".",
-      "text": "(1) For the purposes of this Act, \"tax year\" means the twelve months period of the financial year commencing on the 1st April. (2) In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence,",
-      "context_text": "Section 3 Definition of \"tax year\". (1) For the purposes of this Act, \"tax year\" means the twelve months period of the financial year commencing on the 1st April. (2) In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence,",
+      "text": "",
+      "retrieval_text": "Section 3 Definition of \"tax year\".",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "3",
       "title": "Definition of \"tax year\".",
       "text": "For the purposes of this Act, \"tax year\" means the twelve months period of the financial year commencing on the 1st April.",
-      "context_text": "Section 3 Definition of \"tax year\". Section 3(1): For the purposes of this Act, \"tax year\" means the twelve months period of the financial year commencing on the 1st April.",
+      "retrieval_text": "Section 3 Definition of \"tax year\". Section 3(1): For the purposes of this Act, \"tax year\" means the twelve months period of the financial year commencing on the 1st April.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -46,8 +47,8 @@
       "section_id": "3",
       "section_number": "3",
       "title": "Definition of \"tax year\".",
-      "text": "In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence,",
-      "context_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence,",
+      "text": "In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year.",
+      "retrieval_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "3",
       "title": "Definition of \"tax year\".",
       "text": "the date of setting up of such business or profession; or",
-      "context_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence, Section 3(2)(a): the date of setting up of such business or profession; or",
+      "retrieval_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. Section 3(2)(a): the date of setting up of such business or profession; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "3",
       "title": "Definition of \"tax year\".",
       "text": "the date on which such source of income newly comes into existence,",
-      "context_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence, Section 3(2)(b): the date on which such source of income newly comes into existence,",
+      "retrieval_text": "Section 3 Definition of \"tax year\". Section 3(2): In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— and ending with the said financial year. Section 3(2)(b): the date on which such source of income newly comes into existence,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,49 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 134.16
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "3-1",
+      "to_id": "3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "3",
+      "to_id": "3-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "3-2",
+      "to_id": "3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "3",
+      "to_id": "3-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "3-2-a",
+      "to_id": "3-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "3-2",
+      "to_id": "3-2-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "3-2-b",
+      "to_id": "3-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "3-2",
+      "to_id": "3-2-b",
+      "edge_type": "contains"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "308",
   "legal_units": [
     {
       "id": "308",
@@ -8,8 +9,8 @@
       "section_id": "308",
       "section_number": "308",
       "title": "Charge of tax in case of oral trust.",
-      "text": "(1) Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate. (2) For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
-      "context_text": "Section 308 Charge of tax in case of oral trust. (1) Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate. (2) For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
+      "text": "",
+      "retrieval_text": "Section 308 Charge of tax in case of oral trust.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "308",
       "title": "Charge of tax in case of oral trust.",
       "text": "Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate.",
-      "context_text": "Section 308 Charge of tax in case of oral trust. Section 308(1): Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate.",
+      "retrieval_text": "Section 308 Charge of tax in case of oral trust. Section 308(1): Where a trustee receives or is entitled to receive any income on behalf or for the benefit of any person under an oral trust, then, irrespective of anything contained in any other provision of this Act, tax shall be charged on such income at the maximum marginal rate.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "308",
       "title": "Charge of tax in case of oral trust.",
       "text": "For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
-      "context_text": "Section 308 Charge of tax in case of oral trust. Section 308(2): For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
+      "retrieval_text": "Section 308 Charge of tax in case of oral trust. Section 308(2): For the purposes of this section, \"oral trust\" shall have the meaning assigned to it in section 303(3).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "308-1",
+      "to_id": "308",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "308",
+      "to_id": "308-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "308-2",
+      "to_id": "308",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "308",
+      "to_id": "308-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "308-2",
+      "to_id": "303-3",
+      "edge_type": "references",
+      "reference_text": "section 303(3)"
     }
   ]
 }

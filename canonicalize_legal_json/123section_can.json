@@ -1,4 +1,5 @@
 {
+  "section_number": "123",
   "legal_units": [
     {
       "id": "123",
@@ -9,7 +10,7 @@
       "section_number": "123",
       "title": "Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc.",
       "text": "An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
-      "context_text": "Section 123 Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
+      "retrieval_text": "Section 123 Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 96.5
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "123",
+      "to_id": "schedule-15",
+      "edge_type": "references",
+      "reference_text": "Schedule XV"
     }
   ]
 }

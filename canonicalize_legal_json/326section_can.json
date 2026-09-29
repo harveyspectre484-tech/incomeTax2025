@@ -1,4 +1,5 @@
 {
+  "section_number": "326",
   "legal_units": [
     {
       "id": "326",
@@ -8,8 +9,8 @@
       "section_id": "326",
       "section_number": "326",
       "title": "Assessment when section 325 not complied with.",
-      "text": "Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — (a) no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and (b) such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
-      "context_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — (a) no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and (b) such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
+      "text": "Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, —",
+      "retrieval_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, —",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "326",
       "title": "Assessment when section 325 not complied with.",
       "text": "no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and",
-      "context_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — Section 326(a): no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and",
+      "retrieval_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — Section 326(a): no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing its income chargeable under the head \"Profits and gains of business or profession\"; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "326",
       "title": "Assessment when section 325 not complied with.",
       "text": "such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
-      "context_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — Section 326(b): such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
+      "retrieval_text": "Section 326 Assessment when section 325 not complied with. Irrespective of anything contained in any other provision of this Act, where a firm does not comply with the provisions of section 325 for any tax year, — Section 326(b): such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under section 26(2)(g) in the hands of partners of such firm.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 128.33
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "326-a",
+      "to_id": "326",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "326",
+      "to_id": "326-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "326-b",
+      "to_id": "326",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "326",
+      "to_id": "326-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "326",
+      "to_id": "325",
+      "edge_type": "references",
+      "reference_text": "section 325"
+    },
+    {
+      "from_id": "326-b",
+      "to_id": "26-2-g",
+      "edge_type": "references",
+      "reference_text": "section 26(2)(g)"
     }
   ]
 }

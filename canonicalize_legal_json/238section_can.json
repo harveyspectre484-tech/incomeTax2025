@@ -1,4 +1,5 @@
 {
+  "section_number": "238",
   "legal_units": [
     {
       "id": "238",
@@ -9,7 +10,7 @@
       "section_number": "238",
       "title": "Control of income-tax authorities.",
       "text": "The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
-      "context_text": "Section 238 Control of income-tax authorities. The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
+      "retrieval_text": "Section 238 Control of income-tax authorities. The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

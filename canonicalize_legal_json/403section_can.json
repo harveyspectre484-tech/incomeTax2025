@@ -1,4 +1,5 @@
 {
+  "section_number": "403",
   "legal_units": [
     {
       "id": "403",
@@ -8,8 +9,8 @@
       "section_id": "403",
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
-      "text": "(1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part. (2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year. (3) The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year.",
-      "context_text": "Section 403 Liability for payment of advance tax. (1) Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part. (2) For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year. (3) The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year.",
+      "text": "",
+      "retrieval_text": "Section 403 Liability for payment of advance tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
       "text": "Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.",
-      "context_text": "Section 403 Liability for payment of advance tax. Section 403(1): Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.",
+      "retrieval_text": "Section 403 Liability for payment of advance tax. Section 403(1): Advance tax shall be payable during any financial year in respect of the current income of the assessee, as per the provisions of this Part.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
       "text": "For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.",
-      "context_text": "Section 403 Liability for payment of advance tax. Section 403(2): For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.",
+      "retrieval_text": "Section 403 Liability for payment of advance tax. Section 403(2): For the purposes of this Part, \"current income\" of a tax year means the total income of the assessee which would be chargeable to tax for such tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -65,8 +66,8 @@
       "section_id": "403",
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
-      "text": "The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year.",
-      "context_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year.",
+      "text": "The provisions of sub-section (1) shall not apply to an individual resident in India, who—",
+      "retrieval_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
       "text": "does not have any income chargeable under the head \"Profits and gains of business or profession\"; and",
-      "context_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year. Section 403(3)(a): does not have any income chargeable under the head \"Profits and gains of business or profession\"; and",
+      "retrieval_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who— Section 403(3)(a): does not have any income chargeable under the head \"Profits and gains of business or profession\"; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -104,7 +105,7 @@
       "section_number": "403",
       "title": "Liability for payment of advance tax.",
       "text": "is of the age of sixty years or more at any time during the tax year.",
-      "context_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who— (a) does not have any income chargeable under the head \"Profits and gains of business or profession\"; and (b) is of the age of sixty years or more at any time during the tax year. Section 403(3)(b): is of the age of sixty years or more at any time during the tax year.",
+      "retrieval_text": "Section 403 Liability for payment of advance tax. Section 403(3): The provisions of sub-section (1) shall not apply to an individual resident in India, who— Section 403(3)(b): is of the age of sixty years or more at any time during the tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -113,6 +114,65 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 152.73
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "403-1",
+      "to_id": "403",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "403",
+      "to_id": "403-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "403-2",
+      "to_id": "403",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "403",
+      "to_id": "403-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "403-3",
+      "to_id": "403",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "403",
+      "to_id": "403-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "403-3-a",
+      "to_id": "403-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "403-3",
+      "to_id": "403-3-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "403-3-b",
+      "to_id": "403-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "403-3",
+      "to_id": "403-3-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "403-3",
+      "to_id": "403-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

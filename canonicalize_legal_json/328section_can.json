@@ -1,4 +1,5 @@
 {
+  "section_number": "328",
   "legal_units": [
     {
       "id": "328",
@@ -9,7 +10,7 @@
       "section_number": "328",
       "title": "Succession of one firm by another firm.",
       "text": "Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
-      "context_text": "Section 328 Succession of one firm by another firm. Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
+      "retrieval_text": "Section 328 Succession of one firm by another firm. Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "328",
+      "to_id": "327",
+      "edge_type": "references",
+      "reference_text": "section 327"
+    },
+    {
+      "from_id": "328",
+      "to_id": "313",
+      "edge_type": "references",
+      "reference_text": "section 313"
     }
   ]
 }

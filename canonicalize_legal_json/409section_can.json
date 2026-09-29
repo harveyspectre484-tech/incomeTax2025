@@ -1,4 +1,5 @@
 {
+  "section_number": "409",
   "legal_units": [
     {
       "id": "409",
@@ -8,8 +9,8 @@
       "section_id": "409",
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
-      "text": "A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments. (a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or (b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or (c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
-      "context_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments. (a) does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or (b) does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or (c) does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
+      "text": "A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments.",
+      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
-      "context_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(a): does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
+      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(a): does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
-      "context_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(b): does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
+      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(b): does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
-      "context_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(c): does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
+      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(c): does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,63 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 135.75
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "409-a",
+      "to_id": "409",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "409",
+      "to_id": "409-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "409-b",
+      "to_id": "409",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "409",
+      "to_id": "409-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "409-c",
+      "to_id": "409",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "409",
+      "to_id": "409-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "409-a",
+      "to_id": "408",
+      "edge_type": "references",
+      "reference_text": "section 408"
+    },
+    {
+      "from_id": "409-a",
+      "to_id": "407-1",
+      "edge_type": "references",
+      "reference_text": "section 407(1)"
+    },
+    {
+      "from_id": "409-b",
+      "to_id": "407-8",
+      "edge_type": "references",
+      "reference_text": "section 407(8)"
+    },
+    {
+      "from_id": "409-c",
+      "to_id": "407-9",
+      "edge_type": "references",
+      "reference_text": "section 407(9)"
     }
   ]
 }

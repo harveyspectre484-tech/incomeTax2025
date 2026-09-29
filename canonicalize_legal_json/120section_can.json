@@ -1,4 +1,5 @@
 {
+  "section_number": "120",
   "legal_units": [
     {
       "id": "120",
@@ -8,8 +9,8 @@
       "section_id": "120",
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
-      "text": "(1) Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4). (2) For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
-      "context_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. (1) Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4). (2) For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
+      "text": "",
+      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "text": "Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
-      "context_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(1): Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
+      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(1): Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "text": "For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
-      "context_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(2): For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
+      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(2): For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,59 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 121.96
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "120-1",
+      "to_id": "120",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "120",
+      "to_id": "120-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "120-2",
+      "to_id": "120",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "120",
+      "to_id": "120-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "120-1",
+      "to_id": "247",
+      "edge_type": "references",
+      "reference_text": "section 247"
+    },
+    {
+      "from_id": "120-1",
+      "to_id": "248",
+      "edge_type": "references",
+      "reference_text": "section 248"
+    },
+    {
+      "from_id": "120-1",
+      "to_id": "253",
+      "edge_type": "references",
+      "reference_text": "section 253"
+    },
+    {
+      "from_id": "120-1",
+      "to_id": "253-4",
+      "edge_type": "references",
+      "reference_text": "section 253(4)"
+    },
+    {
+      "from_id": "120-2",
+      "to_id": "301",
+      "edge_type": "references",
+      "reference_text": "section 301"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "136",
   "legal_units": [
     {
       "id": "136",
@@ -8,8 +9,8 @@
       "section_id": "136",
       "section_number": "136",
       "title": "Deduction in respect of contributions given by companies to political parties.",
-      "text": "(1) An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust. (2) For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
-      "context_text": "Section 136 Deduction in respect of contributions given by companies to political parties. (1) An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust. (2) For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
+      "text": "",
+      "retrieval_text": "Section 136 Deduction in respect of contributions given by companies to political parties.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "136",
       "title": "Deduction in respect of contributions given by companies to political parties.",
       "text": "An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust.",
-      "context_text": "Section 136 Deduction in respect of contributions given by companies to political parties. Section 136(1): An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust.",
+      "retrieval_text": "Section 136 Deduction in respect of contributions given by companies to political parties. Section 136(1): An assessee, being an Indian company, shall be allowed a deduction for the amount contributed by it, other than by way of cash, during a tax year to a political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951) or an electoral trust.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "136",
       "title": "Deduction in respect of contributions given by companies to political parties.",
       "text": "For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
-      "context_text": "Section 136 Deduction in respect of contributions given by companies to political parties. Section 136(2): For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
+      "retrieval_text": "Section 136 Deduction in respect of contributions given by companies to political parties. Section 136(2): For the purposes of this section, the term \"contribute\", with its grammatical variations and cognate expressions shall have the same meaning as assigned to it in section 182 of the Companies Act, 2013 (18 of 2013).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,134 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-1951-43",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Representation of the People Act",
+      "title_year": "1951",
+      "act_number": "43",
+      "act_year": "1951",
+      "official_citation": "43 of 1951",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "A of the Representation of the People Act, 1951 (43 of 1951)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1951-43-section-29a",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1951-43",
+      "jurisdiction": "India",
+      "act_title": "Representation of the People Act",
+      "title_year": "1951",
+      "act_number": "43",
+      "act_year": "1951",
+      "official_citation": "43 of 1951",
+      "identity_basis": "official_citation",
+      "locator_text": "section 29A",
+      "section": "29A",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 29A of the Representation of the People Act, 1951 (43 of 1951)"
+      ]
+    },
+    {
+      "id": "ext-india-act-2013-18",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Companies Act",
+      "title_year": "2013",
+      "act_number": "18",
+      "act_year": "2013",
+      "official_citation": "18 of 2013",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Companies Act, 2013 (18 of 2013)"
+      ]
+    },
+    {
+      "id": "ext-india-act-2013-18-section-182",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-2013-18",
+      "jurisdiction": "India",
+      "act_title": "Companies Act",
+      "title_year": "2013",
+      "act_number": "18",
+      "act_year": "2013",
+      "official_citation": "18 of 2013",
+      "identity_basis": "official_citation",
+      "locator_text": "section 182",
+      "section": "182",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 182 of the Companies Act, 2013 (18 of 2013)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "136-1",
+      "to_id": "136",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "136",
+      "to_id": "136-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "136-2",
+      "to_id": "136",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "136",
+      "to_id": "136-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "136-1",
+      "to_id": "ext-india-act-1951-43-section-29a",
+      "edge_type": "references_external",
+      "reference_text": "section 29A of the Representation of the People Act, 1951 (43 of 1951)",
+      "target_act_id": "ext-india-act-1951-43",
+      "target_act_title": "Representation of the People Act",
+      "target_section": "29A",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1951",
+      "target_act_title_year": "1951",
+      "target_official_citation": "43 of 1951",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "136-2",
+      "to_id": "ext-india-act-2013-18-section-182",
+      "edge_type": "references_external",
+      "reference_text": "section 182 of the Companies Act, 2013 (18 of 2013)",
+      "target_act_id": "ext-india-act-2013-18",
+      "target_act_title": "Companies Act",
+      "target_section": "182",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "18",
+      "target_act_year": "2013",
+      "target_act_title_year": "2013",
+      "target_official_citation": "18 of 2013",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

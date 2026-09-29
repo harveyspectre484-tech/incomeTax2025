@@ -48,6 +48,7 @@ LOWER_ROMAN = {
 }
 UPPER_ROMAN = {x.upper() for x in LOWER_ROMAN}
 SECTION_X_MAX = 30.5
+ITEM_INDENT_TOLERANCE = 5.0
 
 
 @dataclass
@@ -219,6 +220,8 @@ def set_current(kind: str, node: dict[str, Any], current: dict[str, Any]) -> Non
     if kind in order:
         for lower in order[order.index(kind) + 1 :]:
             current.pop(lower, None)
+        if kind != "item":
+            current.pop("_item_stack", None)
 
 
 def deepest_current(current: dict[str, Any]) -> dict[str, Any] | None:
@@ -250,8 +253,12 @@ def continuation_target(line: Line, current: dict[str, Any]) -> dict[str, Any] |
     back to the clause margin, it belongs to the clause even when a sub-clause was
     the most recent numbered item.
     """
-    keys = ("item", "sub_clause", "clause", "subsection", "section")
-    candidates = [current[key] for key in keys if current.get(key)]
+    item_candidates = list(reversed(current.get("_item_stack", [])))
+    candidates = item_candidates + [
+        current[key]
+        for key in ("sub_clause", "clause", "subsection", "section")
+        if current.get(key)
+    ]
     if not candidates:
         return current.get("chapter")
 
@@ -267,6 +274,16 @@ def continuation_target(line: Line, current: dict[str, Any]) -> dict[str, Any] |
     return candidates[-1]
 
 
+def find_item_parent(line: Line, current: dict[str, Any]) -> dict[str, Any] | None:
+    """Resolve nested item levels from indentation, regardless of marker style."""
+    stack = current.setdefault("_item_stack", [])
+    while stack and line.x <= float(stack[-1].get("x", 0)) + ITEM_INDENT_TOLERANCE:
+        stack.pop()
+    if stack:
+        return stack[-1]
+    return find_parent_for("item", current)
+
+
 def consume_bracket_tokens(text: str, line: Line, current: dict[str, Any]) -> str:
     """Create nodes for all leading tokens, e.g. '(1)(a)'."""
     rest = text
@@ -280,13 +297,28 @@ def consume_bracket_tokens(text: str, line: Line, current: dict[str, Any]) -> st
         token = match.group("token")
         rest = rest[match.end() :]
         kind = token_kind(token, current)
-        parent = find_parent_for(kind, current)
+        if kind == "item" and created and created.get("type") == "item":
+            parent = created
+        elif kind == "item":
+            parent = find_item_parent(line, current)
+        else:
+            parent = find_parent_for(kind, current)
         if not parent:
             break
 
         node = new_node(kind, token, "", line)
+        if kind == "item" and parent.get("id"):
+            node["id"] = f"{parent['id']}-{token}"
         attach_child(parent, node)
         set_current(kind, node, current)
+        if kind == "item":
+            stack = current.setdefault("_item_stack", [])
+            if parent.get("type") == "item":
+                while stack and stack[-1] is not parent:
+                    stack.pop()
+            else:
+                stack.clear()
+            stack.append(node)
         created = node
 
     if created:

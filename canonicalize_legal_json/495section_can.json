@@ -1,4 +1,5 @@
 {
+  "section_number": "495",
   "legal_units": [
     {
       "id": "495",
@@ -8,8 +9,8 @@
       "section_id": "495",
       "section_number": "495",
       "title": "Special Courts.",
-      "text": "(1) The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Judicial Magistrate of the first class as Special Court for such area or areas, or for such cases or class or group of cases, as specified in the notification. (2) For the purposes of this section, the expression \"High Court\" means the High Court of the State in which a Judicial Magistrate of first class designated as Special Court was functioning immediately before such designation. (3) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), be charged at the same trial.",
-      "context_text": "Section 495 Special Courts. (1) The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Judicial Magistrate of the first class as Special Court for such area or areas, or for such cases or class or group of cases, as specified in the notification. (2) For the purposes of this section, the expression \"High Court\" means the High Court of the State in which a Judicial Magistrate of first class designated as Special Court was functioning immediately before such designation. (3) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), be charged at the same trial.",
+      "text": "",
+      "retrieval_text": "Section 495 Special Courts.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "495",
       "title": "Special Courts.",
       "text": "The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Judicial Magistrate of the first class as Special Court for such area or areas, or for such cases or class or group of cases, as specified in the notification.",
-      "context_text": "Section 495 Special Courts. Section 495(1): The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Judicial Magistrate of the first class as Special Court for such area or areas, or for such cases or class or group of cases, as specified in the notification.",
+      "retrieval_text": "Section 495 Special Courts. Section 495(1): The Central Government, in consultation with the Chief Justice of the High Court, may, for trial of offences punishable under this Chapter, by notification, designate one or more courts of Judicial Magistrate of the first class as Special Court for such area or areas, or for such cases or class or group of cases, as specified in the notification.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "495",
       "title": "Special Courts.",
       "text": "For the purposes of this section, the expression \"High Court\" means the High Court of the State in which a Judicial Magistrate of first class designated as Special Court was functioning immediately before such designation.",
-      "context_text": "Section 495 Special Courts. Section 495(2): For the purposes of this section, the expression \"High Court\" means the High Court of the State in which a Judicial Magistrate of first class designated as Special Court was functioning immediately before such designation.",
+      "retrieval_text": "Section 495 Special Courts. Section 495(2): For the purposes of this section, the expression \"High Court\" means the High Court of the State in which a Judicial Magistrate of first class designated as Special Court was functioning immediately before such designation.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "495",
       "title": "Special Courts.",
       "text": "While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), be charged at the same trial.",
-      "context_text": "Section 495 Special Courts. Section 495(3): While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), be charged at the same trial.",
+      "retrieval_text": "Section 495 Special Courts. Section 495(3): While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), be charged at the same trial.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,45 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "495-1",
+      "to_id": "495",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "495",
+      "to_id": "495-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "495-2",
+      "to_id": "495",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "495",
+      "to_id": "495-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "495-3",
+      "to_id": "495",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "495",
+      "to_id": "495-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "495-3",
+      "to_id": "495-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

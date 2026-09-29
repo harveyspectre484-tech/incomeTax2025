@@ -1,4 +1,5 @@
 {
+  "section_number": "369",
   "legal_units": [
     {
       "id": "369",
@@ -9,7 +10,7 @@
       "section_number": "369",
       "title": "Tax to be paid irrespective of appeal, etc.",
       "text": "Irrespective of the fact that an appeal has been preferred to the High Court or the Supreme Court, tax shall be payable as per the assessment made in the case.",
-      "context_text": "Section 369 Tax to be paid irrespective of appeal, etc. Irrespective of the fact that an appeal has been preferred to the High Court or the Supreme Court, tax shall be payable as per the assessment made in the case.",
+      "retrieval_text": "Section 369 Tax to be paid irrespective of appeal, etc. Irrespective of the fact that an appeal has been preferred to the High Court or the Supreme Court, tax shall be payable as per the assessment made in the case.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 96.5
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

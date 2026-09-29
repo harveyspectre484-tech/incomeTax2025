@@ -1,4 +1,5 @@
 {
+  "section_number": "16",
   "legal_units": [
     {
       "id": "16",
@@ -8,8 +9,8 @@
       "section_id": "16",
       "section_number": "16",
       "title": "Income from salary.",
-      "text": "For the purposes of this Part, \"salary\" includes— (a) wages; (b) any annuity or pension; (c) any gratuity; (d) any fees or commission; (e) perquisites; (f) profits in lieu of, or in addition to, any salary or wages; (g) any advance of salary; (h) any payment received by an employee in respect of any period of leave not availed of by him; (i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI; (j) the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof; (k) the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and (l) the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— (a) wages; (b) any annuity or pension; (c) any gratuity; (d) any fees or commission; (e) perquisites; (f) profits in lieu of, or in addition to, any salary or wages; (g) any advance of salary; (h) any payment received by an employee in respect of any period of leave not availed of by him; (i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI; (j) the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof; (k) the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and (l) the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
+      "text": "For the purposes of this Part, \"salary\" includes—",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "wages;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(a): wages;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(a): wages;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "any annuity or pension;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(b): any annuity or pension;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(b): any annuity or pension;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "any gratuity;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(c): any gratuity;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(c): any gratuity;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "any fees or commission;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(d): any fees or commission;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(d): any fees or commission;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -104,7 +105,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "perquisites;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(e): perquisites;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(e): perquisites;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -123,7 +124,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "profits in lieu of, or in addition to, any salary or wages;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(f): profits in lieu of, or in addition to, any salary or wages;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(f): profits in lieu of, or in addition to, any salary or wages;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -142,7 +143,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "any advance of salary;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(g): any advance of salary;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(g): any advance of salary;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -160,8 +161,8 @@
       "section_id": "16",
       "section_number": "16",
       "title": "Income from salary.",
-      "text": "any payment received by an employee in respect of any period of leave not availed of by him; (i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(h): any payment received by an employee in respect of any period of leave not availed of by him; (i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;",
+      "text": "any payment received by an employee in respect of any period of leave not availed of by him;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(h): any payment received by an employee in respect of any period of leave not availed of by him;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -180,7 +181,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(h): any payment received by an employee in respect of any period of leave not availed of by him; (i) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI; Section 16(h)(i): the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(h): any payment received by an employee in respect of any period of leave not availed of by him; Section 16(h)(i): the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax as per paragraph 6 of Part A of Schedule XI;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -199,7 +200,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof;",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(j): the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof;",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(j): the aggregate of all sums that are comprised in the transferred balance as referred to in paragraph 11(2) of Part A of Schedule XI of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-paragraphs (4) and (5) thereof;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -218,7 +219,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(k): the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(k): the contribution made by the Central Government or any other employer in any tax year, to the account of an employee under a pension scheme referred to in section 124; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -237,7 +238,7 @@
       "section_number": "16",
       "title": "Income from salary.",
       "text": "the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
-      "context_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(l): the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
+      "retrieval_text": "Section 16 Income from salary. For the purposes of this Part, \"salary\" includes— Section 16(l): the contribution made by the Central Government in any tax year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 125.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -246,6 +247,153 @@
       "line_start": null,
       "x": 42.68,
       "y_start": 240.78
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "16-a",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-b",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-c",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-d",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-d",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-e",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-e",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-f",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-f",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-g",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-g",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-h",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-h",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-h-i",
+      "to_id": "16-h",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16-h",
+      "to_id": "16-h-i",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-j",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-j",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-k",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-k",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-l",
+      "to_id": "16",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "16",
+      "to_id": "16-l",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "16-h-i",
+      "to_id": "schedule-11",
+      "edge_type": "references",
+      "reference_text": "Schedule XI"
+    },
+    {
+      "from_id": "16-j",
+      "to_id": "schedule-11",
+      "edge_type": "references",
+      "reference_text": "Schedule XI"
+    },
+    {
+      "from_id": "16-k",
+      "to_id": "124",
+      "edge_type": "references",
+      "reference_text": "section 124"
+    },
+    {
+      "from_id": "16-l",
+      "to_id": "125",
+      "edge_type": "references",
+      "reference_text": "section 125"
     }
   ]
 }

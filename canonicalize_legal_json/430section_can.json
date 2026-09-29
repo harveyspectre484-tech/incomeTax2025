@@ -1,4 +1,5 @@
 {
+  "section_number": "430",
   "legal_units": [
     {
       "id": "430",
@@ -9,7 +10,7 @@
       "section_number": "430",
       "title": "Fee for default relating to intimation of Aadhaar number.",
       "text": "Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
-      "context_text": "Section 430 Fee for default relating to intimation of Aadhaar number. Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
+      "retrieval_text": "Section 430 Fee for default relating to intimation of Aadhaar number. Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "430",
+      "to_id": "262-6",
+      "edge_type": "references",
+      "reference_text": "section 262(6)"
     }
   ]
 }

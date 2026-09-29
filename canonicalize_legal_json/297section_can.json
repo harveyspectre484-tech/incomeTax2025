@@ -1,4 +1,5 @@
 {
+  "section_number": "297",
   "legal_units": [
     {
       "id": "297",
@@ -9,7 +10,7 @@
       "section_number": "297",
       "title": "Certain interests and penalties not to be levied or imposed.",
       "text": "Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.",
-      "context_text": "Section 297 Certain interests and penalties not to be levied or imposed. Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.",
+      "retrieval_text": "Section 297 Certain interests and penalties not to be levied or imposed. Interest under section 423, 424 or 425 or penalty under section 439 shall not be levied or imposed upon the assessee for the undisclosed income assessed or reassessed for the block period.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "297",
+      "to_id": "423",
+      "edge_type": "references",
+      "reference_text": "section 423"
+    },
+    {
+      "from_id": "297",
+      "to_id": "439",
+      "edge_type": "references",
+      "reference_text": "section 439"
     }
   ]
 }

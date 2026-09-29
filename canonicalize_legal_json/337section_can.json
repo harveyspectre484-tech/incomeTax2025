@@ -1,4 +1,5 @@
 {
+  "section_number": "337",
   "legal_units": [
     {
       "id": "337",
@@ -8,8 +9,8 @@
       "section_id": "337",
       "section_number": "337",
       "title": "Specified income.",
-      "text": "The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table with columns Sl. No., Specified income, Tax year and 13 rows.",
-      "context_text": "Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table with columns Sl. No., Specified income, Tax year and 13 rows.",
+      "text": "The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
+      "retrieval_text": "Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

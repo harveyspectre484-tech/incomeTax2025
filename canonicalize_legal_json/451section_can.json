@@ -1,4 +1,5 @@
 {
+  "section_number": "451",
   "legal_units": [
     {
       "id": "451",
@@ -9,7 +10,7 @@
       "section_number": "451",
       "title": "Penalty for failure to comply with provisions of section 186.",
       "text": "The Assessing Officer may impose on a person, a penalty equal to the sum received by him in contravention of the provisions of section 186.",
-      "context_text": "Section 451 Penalty for failure to comply with provisions of section 186. The Assessing Officer may impose on a person, a penalty equal to the sum received by him in contravention of the provisions of section 186.",
+      "retrieval_text": "Section 451 Penalty for failure to comply with provisions of section 186. The Assessing Officer may impose on a person, a penalty equal to the sum received by him in contravention of the provisions of section 186.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "451",
+      "to_id": "186",
+      "edge_type": "references",
+      "reference_text": "section 186"
     }
   ]
 }

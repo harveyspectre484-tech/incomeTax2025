@@ -1,4 +1,5 @@
 {
+  "section_number": "319",
   "legal_units": [
     {
       "id": "319",
@@ -8,8 +9,8 @@
       "section_id": "319",
       "section_number": "319",
       "title": "Assessment of persons likely to transfer property to avoid tax.",
-      "text": "(1) Irrespective of anything contained in section 4, where it appears to the Assessing Officer during any current tax year that any person is likely to charge, sell, transfer, dispose of or otherwise part with any of his assets with a view to avoiding payment of any liability under the provisions of this Act, the total income of such person for the period beginning from the first day of that current tax year up to the date when the Assessing Officer commences proceedings under this section shall be chargeable to tax in the current tax year. (2) For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
-      "context_text": "Section 319 Assessment of persons likely to transfer property to avoid tax. (1) Irrespective of anything contained in section 4, where it appears to the Assessing Officer during any current tax year that any person is likely to charge, sell, transfer, dispose of or otherwise part with any of his assets with a view to avoiding payment of any liability under the provisions of this Act, the total income of such person for the period beginning from the first day of that current tax year up to the date when the Assessing Officer commences proceedings under this section shall be chargeable to tax in the current tax year. (2) For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
+      "text": "",
+      "retrieval_text": "Section 319 Assessment of persons likely to transfer property to avoid tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "319",
       "title": "Assessment of persons likely to transfer property to avoid tax.",
       "text": "Irrespective of anything contained in section 4, where it appears to the Assessing Officer during any current tax year that any person is likely to charge, sell, transfer, dispose of or otherwise part with any of his assets with a view to avoiding payment of any liability under the provisions of this Act, the total income of such person for the period beginning from the first day of that current tax year up to the date when the Assessing Officer commences proceedings under this section shall be chargeable to tax in the current tax year.",
-      "context_text": "Section 319 Assessment of persons likely to transfer property to avoid tax. Section 319(1): Irrespective of anything contained in section 4, where it appears to the Assessing Officer during any current tax year that any person is likely to charge, sell, transfer, dispose of or otherwise part with any of his assets with a view to avoiding payment of any liability under the provisions of this Act, the total income of such person for the period beginning from the first day of that current tax year up to the date when the Assessing Officer commences proceedings under this section shall be chargeable to tax in the current tax year.",
+      "retrieval_text": "Section 319 Assessment of persons likely to transfer property to avoid tax. Section 319(1): Irrespective of anything contained in section 4, where it appears to the Assessing Officer during any current tax year that any person is likely to charge, sell, transfer, dispose of or otherwise part with any of his assets with a view to avoiding payment of any liability under the provisions of this Act, the total income of such person for the period beginning from the first day of that current tax year up to the date when the Assessing Officer commences proceedings under this section shall be chargeable to tax in the current tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "319",
       "title": "Assessment of persons likely to transfer property to avoid tax.",
       "text": "For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
-      "context_text": "Section 319 Assessment of persons likely to transfer property to avoid tax. Section 319(2): For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
+      "retrieval_text": "Section 319 Assessment of persons likely to transfer property to avoid tax. Section 319(2): For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,47 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "319-1",
+      "to_id": "319",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "319",
+      "to_id": "319-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "319-2",
+      "to_id": "319",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "319",
+      "to_id": "319-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "319-1",
+      "to_id": "4",
+      "edge_type": "references",
+      "reference_text": "section 4"
+    },
+    {
+      "from_id": "319-2",
+      "to_id": "317-2",
+      "edge_type": "references",
+      "reference_text": "section 317(2)"
+    },
+    {
+      "from_id": "319-2",
+      "to_id": "319-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

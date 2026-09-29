@@ -1,4 +1,5 @@
 {
+  "section_number": "24",
   "legal_units": [
     {
       "id": "24",
@@ -8,8 +9,8 @@
       "section_id": "24",
       "section_number": "24",
       "title": "Property owned by co-owners.",
-      "text": "(1) For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income. (2) The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
-      "context_text": "Section 24 Property owned by co-owners. (1) For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income. (2) The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
+      "text": "",
+      "retrieval_text": "Section 24 Property owned by co-owners.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "24",
       "title": "Property owned by co-owners.",
       "text": "For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
-      "context_text": "Section 24 Property owned by co-owners. Section 24(1): For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
+      "retrieval_text": "Section 24 Property owned by co-owners. Section 24(1): For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "24",
       "title": "Property owned by co-owners.",
       "text": "The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
-      "context_text": "Section 24 Property owned by co-owners. Section 24(2): The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
+      "retrieval_text": "Section 24 Property owned by co-owners. Section 24(2): The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "24-1",
+      "to_id": "24",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "24",
+      "to_id": "24-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "24-2",
+      "to_id": "24",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "24",
+      "to_id": "24-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "24-2",
+      "to_id": "21-6",
+      "edge_type": "references",
+      "reference_text": "section 21(6)"
     }
   ]
 }

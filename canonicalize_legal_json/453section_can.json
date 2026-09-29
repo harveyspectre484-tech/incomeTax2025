@@ -1,4 +1,5 @@
 {
+  "section_number": "453",
   "legal_units": [
     {
       "id": "453",
@@ -9,7 +10,7 @@
       "section_number": "453",
       "title": "Penalty for failure to comply with provisions of section 188.",
       "text": "If a person repays any loan or deposit or specified advance referred to in section 188 otherwise than in accordance with the provisions of that section, the Assessing Officer may impose on him, a penalty equal to the loan or deposit or specified advance so repaid.",
-      "context_text": "Section 453 Penalty for failure to comply with provisions of section 188. If a person repays any loan or deposit or specified advance referred to in section 188 otherwise than in accordance with the provisions of that section, the Assessing Officer may impose on him, a penalty equal to the loan or deposit or specified advance so repaid.",
+      "retrieval_text": "Section 453 Penalty for failure to comply with provisions of section 188. If a person repays any loan or deposit or specified advance referred to in section 188 otherwise than in accordance with the provisions of that section, the Assessing Officer may impose on him, a penalty equal to the loan or deposit or specified advance so repaid.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "453",
+      "to_id": "188",
+      "edge_type": "references",
+      "reference_text": "section 188"
     }
   ]
 }

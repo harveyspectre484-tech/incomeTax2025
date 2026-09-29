@@ -1,4 +1,5 @@
 {
+  "section_number": "335",
   "legal_units": [
     {
       "id": "335",
@@ -8,8 +9,8 @@
       "section_id": "335",
       "section_number": "335",
       "title": "Regular income.",
-      "text": "Regular income of any tax year of a registered non-profit organisation means— (a) income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year; (b) income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year; (c) income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year; (d) voluntary contributions received by such registered non-profit organisation in such tax year; and (e) gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— (a) income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year; (b) income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year; (c) income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year; (d) voluntary contributions received by such registered non-profit organisation in such tax year; and (e) gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
+      "text": "Regular income of any tax year of a registered non-profit organisation means—",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "335",
       "title": "Regular income.",
       "text": "income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year;",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(a): income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year;",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(a): income from any charitable or religious activity, for which such non-profit organisation is registered, carried out by it in such tax year;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "335",
       "title": "Regular income.",
       "text": "income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year;",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(b): income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year;",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(b): income other than income covered in clause (e), derived from any property, deposit or investment held wholly for charitable or religious purposes by such registered non-profit organisation in such tax year;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "335",
       "title": "Regular income.",
       "text": "income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year;",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(c): income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year;",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(c): income other than income covered in clause (e), derived from any property, deposit or investment held in part for charitable and religious purposes by such registered non-profit organisation as referred in section 332(2)(b)(ii) in such tax year;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "335",
       "title": "Regular income.",
       "text": "voluntary contributions received by such registered non-profit organisation in such tax year; and",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(d): voluntary contributions received by such registered non-profit organisation in such tax year; and",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(d): voluntary contributions received by such registered non-profit organisation in such tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -104,7 +105,7 @@
       "section_number": "335",
       "title": "Regular income.",
       "text": "gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
-      "context_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(e): gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
+      "retrieval_text": "Section 335 Regular income. Regular income of any tax year of a registered non-profit organisation means— Section 335(e): gains of any commercial activity permissible under sections 344, 345 and 346, carried out by such registered non-profit organisation in such tax year, computed in such manner, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -113,6 +114,77 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 156.97
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "335-a",
+      "to_id": "335",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "335",
+      "to_id": "335-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "335-b",
+      "to_id": "335",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "335",
+      "to_id": "335-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "335-c",
+      "to_id": "335",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "335",
+      "to_id": "335-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "335-d",
+      "to_id": "335",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "335",
+      "to_id": "335-d",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "335-e",
+      "to_id": "335",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "335",
+      "to_id": "335-e",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "335-b",
+      "to_id": "335-e",
+      "edge_type": "references",
+      "reference_text": "clause (e)"
+    },
+    {
+      "from_id": "335-c",
+      "to_id": "332-2-b",
+      "edge_type": "references",
+      "reference_text": "section 332(2)(b)"
+    },
+    {
+      "from_id": "335-c",
+      "to_id": "335-e",
+      "edge_type": "references",
+      "reference_text": "clause (e)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "27",
   "legal_units": [
     {
       "id": "27",
@@ -9,7 +10,7 @@
       "section_number": "27",
       "title": "Manner of computing profits and gains of business or profession.",
       "text": "The income referred to in section 26 shall be computed as per the provisions of sections 28 to 60, except section 58.",
-      "context_text": "Section 27 Manner of computing profits and gains of business or profession. The income referred to in section 26 shall be computed as per the provisions of sections 28 to 60, except section 58.",
+      "retrieval_text": "Section 27 Manner of computing profits and gains of business or profession. The income referred to in section 26 shall be computed as per the provisions of sections 28 to 60, except section 58.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "27",
+      "to_id": "26",
+      "edge_type": "references",
+      "reference_text": "section 26"
+    },
+    {
+      "from_id": "27",
+      "to_id": "58",
+      "edge_type": "references",
+      "reference_text": "section 58"
     }
   ]
 }

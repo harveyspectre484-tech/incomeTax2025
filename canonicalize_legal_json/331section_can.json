@@ -1,4 +1,5 @@
 {
+  "section_number": "331",
   "legal_units": [
     {
       "id": "331",
@@ -8,8 +9,8 @@
       "section_id": "331",
       "section_number": "331",
       "title": "Liability of partners of limited liability partnership in liquidation.",
-      "text": "Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— then, in such case, every such person who was a partner of such limited liability partnership at any time during the relevant tax year, shall be jointly and severally liable for the payment of such tax due unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the limited liability partnership. (a) the limited liability partnership in respect of any income of any tax year; or (b) any other person in respect of any income of any tax year during which such other person was a limited liability partnership,",
-      "context_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— then, in such case, every such person who was a partner of such limited liability partnership at any time during the relevant tax year, shall be jointly and severally liable for the payment of such tax due unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the limited liability partnership. (a) the limited liability partnership in respect of any income of any tax year; or (b) any other person in respect of any income of any tax year during which such other person was a limited liability partnership,",
+      "text": "Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— then, in such case, every such person who was a partner of such limited liability partnership at any time during the relevant tax year, shall be jointly and severally liable for the payment of such tax due unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the limited liability partnership.",
+      "retrieval_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— then, in such case, every such person who was a partner of such limited liability partnership at any time during the relevant tax year, shall be jointly and severally liable for the payment of such tax due unless he proves that the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on his part in relation to the affairs of the limited liability partnership.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "331",
       "title": "Liability of partners of limited liability partnership in liquidation.",
       "text": "the limited liability partnership in respect of any income of any tax year; or",
-      "context_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— Section 331(a): the limited liability partnership in respect of any income of any tax year; or",
+      "retrieval_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— Section 331(a): the limited liability partnership in respect of any income of any tax year; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "331",
       "title": "Liability of partners of limited liability partnership in liquidation.",
       "text": "any other person in respect of any income of any tax year during which such other person was a limited liability partnership,",
-      "context_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— Section 331(b): any other person in respect of any income of any tax year during which such other person was a limited liability partnership,",
+      "retrieval_text": "Section 331 Liability of partners of limited liability partnership in liquidation. Irrespective of anything contained in the Limited Liability Partnership Act, 2008 (6 of 2009), where any tax including penalty, interest, fee or any other sum payable under the Act is due and cannot be recovered from— Section 331(b): any other person in respect of any income of any tax year during which such other person was a limited liability partnership,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,60 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 134.16
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-2009-6",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Limited Liability Partnership Act",
+      "title_year": "2008",
+      "act_number": "6",
+      "act_year": "2009",
+      "official_citation": "6 of 2009",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": true,
+      "source_mentions": [
+        "Limited Liability Partnership Act, 2008 (6 of 2009)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "331-a",
+      "to_id": "331",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "331",
+      "to_id": "331-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "331-b",
+      "to_id": "331",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "331",
+      "to_id": "331-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "331",
+      "to_id": "ext-india-act-2009-6",
+      "edge_type": "references_external_act",
+      "reference_text": "Limited Liability Partnership Act, 2008 (6 of 2009)",
+      "target_act_id": "ext-india-act-2009-6",
+      "target_act_title": "Limited Liability Partnership Act",
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "6",
+      "target_act_year": "2009",
+      "target_act_title_year": "2008",
+      "target_official_citation": "6 of 2009",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

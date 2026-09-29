@@ -1,4 +1,5 @@
 {
+  "section_number": "387",
   "legal_units": [
     {
       "id": "387",
@@ -8,8 +9,8 @@
       "section_id": "387",
       "section_number": "387",
       "title": "Powers of the Board for Advance Rulings.",
-      "text": "(1) The Board for Advance Rulings shall, for the purpose of exercising its powers, have all the powers of a civil court under the Code of Civil Procedure, 1908 (5 of 1908) as are referred to in section 246 of this Act. (2) The Board for Advance Rulings shall be deemed to be a civil court for the purposes of section 215 but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) and every proceeding before the Board for Advance Rulings shall be deemed to be a judicial proceeding under sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
-      "context_text": "Section 387 Powers of the Board for Advance Rulings. (1) The Board for Advance Rulings shall, for the purpose of exercising its powers, have all the powers of a civil court under the Code of Civil Procedure, 1908 (5 of 1908) as are referred to in section 246 of this Act. (2) The Board for Advance Rulings shall be deemed to be a civil court for the purposes of section 215 but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) and every proceeding before the Board for Advance Rulings shall be deemed to be a judicial proceeding under sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
+      "text": "",
+      "retrieval_text": "Section 387 Powers of the Board for Advance Rulings.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "387",
       "title": "Powers of the Board for Advance Rulings.",
       "text": "The Board for Advance Rulings shall, for the purpose of exercising its powers, have all the powers of a civil court under the Code of Civil Procedure, 1908 (5 of 1908) as are referred to in section 246 of this Act.",
-      "context_text": "Section 387 Powers of the Board for Advance Rulings. Section 387(1): The Board for Advance Rulings shall, for the purpose of exercising its powers, have all the powers of a civil court under the Code of Civil Procedure, 1908 (5 of 1908) as are referred to in section 246 of this Act.",
+      "retrieval_text": "Section 387 Powers of the Board for Advance Rulings. Section 387(1): The Board for Advance Rulings shall, for the purpose of exercising its powers, have all the powers of a civil court under the Code of Civil Procedure, 1908 (5 of 1908) as are referred to in section 246 of this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "387",
       "title": "Powers of the Board for Advance Rulings.",
       "text": "The Board for Advance Rulings shall be deemed to be a civil court for the purposes of section 215 but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) and every proceeding before the Board for Advance Rulings shall be deemed to be a judicial proceeding under sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
-      "context_text": "Section 387 Powers of the Board for Advance Rulings. Section 387(2): The Board for Advance Rulings shall be deemed to be a civil court for the purposes of section 215 but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) and every proceeding before the Board for Advance Rulings shall be deemed to be a judicial proceeding under sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
+      "retrieval_text": "Section 387 Powers of the Board for Advance Rulings. Section 387(2): The Board for Advance Rulings shall be deemed to be a civil court for the purposes of section 215 but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) and every proceeding before the Board for Advance Rulings shall be deemed to be a judicial proceeding under sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,47 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "387-1",
+      "to_id": "387",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "387",
+      "to_id": "387-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "387-2",
+      "to_id": "387",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "387",
+      "to_id": "387-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "387-1",
+      "to_id": "246",
+      "edge_type": "references",
+      "reference_text": "section 246"
+    },
+    {
+      "from_id": "387-2",
+      "to_id": "215",
+      "edge_type": "references",
+      "reference_text": "section 215"
+    },
+    {
+      "from_id": "387-2",
+      "to_id": "233",
+      "edge_type": "references",
+      "reference_text": "section 233"
     }
   ]
 }

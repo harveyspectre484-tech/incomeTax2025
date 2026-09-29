@@ -1,4 +1,5 @@
 {
+  "section_number": "518",
   "legal_units": [
     {
       "id": "518",
@@ -9,7 +10,7 @@
       "section_number": "518",
       "title": "Indemnity.",
       "text": "Every person deducting, retaining, or paying any tax in pursuance of this Act in respect of an income belonging to another person shall be indemnified for the deduction, retention, or payment thereof.",
-      "context_text": "Section 518 Indemnity. Every person deducting, retaining, or paying any tax in pursuance of this Act in respect of an income belonging to another person shall be indemnified for the deduction, retention, or payment thereof.",
+      "retrieval_text": "Section 518 Indemnity. Every person deducting, retaining, or paying any tax in pursuance of this Act in respect of an income belonging to another person shall be indemnified for the deduction, retention, or payment thereof.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

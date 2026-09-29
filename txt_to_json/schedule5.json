@@ -1,0 +1,743 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "V",
+      "id": "schedule-V",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "INCOME NOT TO BE INCLUDED IN TOTAL INCOME OF CERTAIN ELIGIBLE PERSONS INCLUDING INVESTMENT FUNDS, BUSINESS TRUSTS AND THEIR UNIT HOLDERS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-v-4",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a tax year of any eligible person mentioned in column C of the Table below, the income mentioned in column B of the said Table shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D of the said Table shall have the meanings respectively assigned to them in Notes below the said Table:",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-V-t1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income other than the income chargeable under the head \"Profits and gains of business or profession\"."
+            },
+            "eligible_persons": {
+              "text": "An investment fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-V-t2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income referred to in section 224, accruing or arising to, or received being that proportion of income which is of the same nature as income chargeable under the head \"Profits and gains of business or profession\"."
+            },
+            "eligible_persons": {
+              "text": "A unit holder of an investment fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "3",
+            "id": "schedule-V-t3",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income by way of—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-V-t3-income-a",
+                  "text": "interest received or receivable from a special purpose vehicle; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-V-t3-income-b",
+                  "text": "dividend received or receivable from a special purpose vehicle."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "text": "A business trust."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "4",
+            "id": "schedule-V-t4",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of renting or leasing or letting out any real estate asset owned directly by such business trust."
+            },
+            "eligible_persons": {
+              "text": "A business trust, being a real estate investment trust."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "5",
+            "id": "schedule-V-t5",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any distributed income referred to in section 223."
+            },
+            "eligible_persons": {
+              "text": "Any unit holder of a business trust."
+            },
+            "conditions": {
+              "intro": "Exemption shall not be allowed on that proportion of the income which is of the same nature as—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-V-t5-cond-a",
+                  "text": "interest received or receivable from a special purpose vehicle by the business trust; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-V-t5-cond-b",
+                  "text": "***",
+                  "status": "omitted",
+                  "footnote_refs": [
+                    "66"
+                  ]
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-V-t5-cond-c",
+                  "text": "income of a business trust, being a real estate investment trust, by way of renting or leasing or letting out any real estate asset owned directly by such business trust."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "6",
+            "id": "schedule-V-t6",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income from investment in a venture capital undertaking."
+            },
+            "eligible_persons": {
+              "text": "Venture capital company or venture capital fund other than an investment fund specified in section 224(10)(a)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "7",
+            "id": "schedule-V-t7",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income of the nature of—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-V-t7-income-a",
+                  "text": "dividend;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-V-t7-income-b",
+                  "text": "interest;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-V-t7-income-c",
+                  "text": "any sum referred to in section 92(2)(k); or"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-V-t7-income-d",
+                  "text": "long-term capital gains (whether or not such capital gains are deemed as short-term capital gains under section 76),"
+                }
+              ],
+              "text_after_items": "arising from an investment made by a specified person in India, whether in the form of debt or share capital or unit."
+            },
+            "eligible_persons": {
+              "text": "A specified person."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-V-t7-cond-a",
+                  "intro": "Such investment—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-V-t7-cond-a-i",
+                      "text": "is made on or after the 1st April, 2020 but on or before the 31st March, 2030;"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-V-t7-cond-a-ii",
+                      "text": "is held for at least three years; and"
+                    },
+                    {
+                      "marker": "iii",
+                      "id": "schedule-V-t7-cond-a-iii",
+                      "intro": "is in,—",
+                      "items": [
+                        {
+                          "marker": "A",
+                          "id": "schedule-V-t7-cond-a-iii-A",
+                          "text": "a business trust being an eligible InvIT;"
+                        },
+                        {
+                          "marker": "B",
+                          "id": "schedule-V-t7-cond-a-iii-B",
+                          "text": "an eligible infrastructure entity;"
+                        },
+                        {
+                          "marker": "C",
+                          "id": "schedule-V-t7-cond-a-iii-C",
+                          "text": "an eligible Alternate Investment Fund;"
+                        },
+                        {
+                          "marker": "D",
+                          "id": "schedule-V-t7-cond-a-iii-D",
+                          "text": "an eligible domestic company; or"
+                        },
+                        {
+                          "marker": "E",
+                          "id": "schedule-V-t7-cond-a-iii-E",
+                          "text": "an eligible Non-banking Financial Company;"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-V-t7-cond-b",
+                  "text": "if any difficulty arises in interpreting or implementing the provisions, the Board may issue guidelines;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-V-t7-cond-c",
+                  "intro": "such guidelines shall be—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-V-t7-cond-c-i",
+                      "text": "issued with the previous approval of the Central Government;"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-V-t7-cond-c-ii",
+                      "text": "laid before each House of Parliament; and"
+                    },
+                    {
+                      "marker": "iii",
+                      "id": "schedule-V-t7-cond-c-iii",
+                      "text": "binding on the Income-tax Authority and the specified person;"
+                    }
+                  ]
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-V-t7-cond-d",
+                  "text": "where any income has not been included in the total income of the specified person, and subsequently during any tax year the specified person fails to satisfy any of these conditions so that the said income would not have been eligible for such non-inclusion, such income shall be chargeable to income-tax as the income of the specified person of that tax year;"
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-V-t7-cond-e",
+                  "text": "where an eligible Alternate Investment Fund has investment of less than 100% in one or more of eligible infrastructure entity or eligible domestic company or eligible Non-Banking Financial Company or in an eligible InvIT, income accrued or arisen or received or attributable to such investment, directly or indirectly, which is exempt herein shall be calculated proportionately to that investment made in one or more of the eligible infrastructure entity or eligible domestic company or eligible Non-Banking Financial Company or in an eligible InvIT, in such manner as may be prescribed;"
+                },
+                {
+                  "marker": "f",
+                  "id": "schedule-V-t7-cond-f",
+                  "text": "where an eligible domestic company has investment of less than 100% in one or more of the eligible infrastructure entity, income accrued or arisen or received or attributable to such investments, directly or indirectly, which is exempt herein shall be calculated proportionately to the investment made in one or more of the eligible infrastructure entity, in such manner, as may be prescribed;"
+                },
+                {
+                  "marker": "g",
+                  "id": "schedule-V-t7-cond-g",
+                  "text": "where an eligible Non-Banking Financial Company has lending of less than 100% in one or more of the eligible infrastructure entity, income accrued or arisen or received or attributable to such lending, directly or indirectly, which is exempt herein shall be calculated proportionately to the lending made in eligible infrastructure entity, in such manner, as may be prescribed;"
+                },
+                {
+                  "marker": "h",
+                  "id": "schedule-V-t7-cond-h",
+                  "text": "in case a sovereign wealth fund or pension fund has loans or borrowings, directly or indirectly, for the purposes of making investment in India, such fund shall be deemed to be not eligible for exclusion from total income."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "8",
+            "id": "schedule-V-t8",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income falling under section 10(23F) and (23FA) of the Income-tax Act, 1961 (43 of 1961), subject to the conditions as specified therein."
+            },
+            "eligible_persons": {
+              "text": ""
+            },
+            "conditions": {
+              "text": ""
+            }
+          }
+        ],
+        "id": "schedule-V-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-V-note1",
+          "text": "For the purposes of Sl. Nos. 1 and 2, the expression \"investment fund\" shall have the meaning assigned to it in section 224(10)(a)."
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-V-note2",
+          "text": "For the purposes of Sl. No. 3, the expression \"special purpose vehicle\" means an Indian company in which the business trust holds controlling interest and any specific percentage of shareholding or interest, as may be required by the law under which such trust is granted registration."
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-V-note3",
+          "text": "For the purposes of Sl. Nos. 4 and 5, the expression \"real estate asset\" shall have the same meaning as assigned to it in regulation 2(1)(zj) of the Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992)."
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-V-note4",
+          "text_before_clauses": "For the purposes of Sl. No. 6,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-V-note4-a",
+              "intro": "\"venture capital company\" means a company which—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note4-a-i",
+                  "text": "has been granted a certificate of registration, before the 21st May, 2012, as a Venture Capital Fund and is regulated under the Securities and Exchange Board of India (Venture Capital Funds) Regulations, 1996 (herein referred to as the Venture Capital Funds Regulations) made under the Securities and Exchange Board of India Act, 1992 (15 of 1992); or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note4-a-ii",
+                  "intro": "has been granted a certificate of registration as Venture Capital Fund as a sub-category of Category I Alternative Investment Fund and is regulated under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 (herein referred to as the Alternative Investment Funds Regulations) made under the Securities and Exchange Board of India Act, 1992 (15 of 1992), and which fulfils the following conditions:—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note4-a-ii-A",
+                      "text": "it is not listed on a recognised stock exchange;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note4-a-ii-B",
+                      "text": "it has invested not less than two-thirds of its investible funds in unlisted equity shares or equity linked instruments of venture capital undertaking; and"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "C",
+                      "id": "schedule-V-note4-a-ii-C",
+                      "text": "it has not invested in any venture capital undertaking in which its director or a substantial shareholder (being a beneficial owner of equity shares exceeding 10% of its equity share capital) holds, either individually or collectively, equity shares in excess of 15% of the paid-up equity share capital of such venture capital undertaking;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-V-note4-b",
+              "intro": "\"venture capital fund\" means a fund—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note4-b-i",
+                  "intro": "operating under a trust deed registered under the provisions of the Registration Act, 1908 (16 of 1908), which—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note4-b-i-A",
+                      "text": "has been granted a certificate of registration, before the 21st May, 2012, as a Venture Capital Fund and is regulated under the Venture Capital Funds Regulations; or"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note4-b-i-B",
+                      "intro": "has been granted a certificate of registration as Venture Capital Fund as a sub-category of Category I Alternative Investment Fund under the Alternative Investment Funds Regulations or as referred to in regulation 18(2) of the International Financial Services Centres Authority (Fund Management) Regulations, 2022 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019), and which fulfils the following conditions:—",
+                      "sub_sub_sub_clauses": [
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "I",
+                          "id": "schedule-V-note4-b-i-B-I",
+                          "text": "it has invested not less than two-thirds of its investible funds in unlisted equity shares or equity linked instruments of venture capital undertaking;"
+                        },
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "II",
+                          "id": "schedule-V-note4-b-i-B-II",
+                          "text": "it has not invested in any venture capital undertaking in which its trustee or the settler holds, either individually or collectively, equity shares in excess of 15% of the paid-up equity share capital of such venture capital undertaking;"
+                        },
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "III",
+                          "id": "schedule-V-note4-b-i-B-III",
+                          "text": "the units, if any, issued by it are not listed in any recognised stock exchange; and"
+                        },
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "IV",
+                          "id": "schedule-V-note4-b-i-B-IV",
+                          "text": "any other condition as may be prescribed; or"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note4-b-ii",
+                  "text": "operating as a venture capital scheme made by the Unit Trust of India;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-V-note4-c",
+              "intro": "\"venture capital undertaking\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note4-c-i",
+                  "text": "a venture capital undertaking as defined in regulation 2(n) of the Securities and Exchange Board of India (Venture Capital Funds) Regulations, 1996; or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note4-c-ii",
+                  "text": "a venture capital undertaking as defined in regulation 2(1)(aa) of the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "5",
+          "id": "schedule-V-note5",
+          "text_before_clauses": "For the purposes of Sl. No. 7,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-V-note5-a",
+              "intro": "\"specified person\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-a-i",
+                  "intro": "a wholly owned subsidiary of the Abu Dhabi Investment Authority, which—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note5-a-i-A",
+                      "text": "is a resident of the United Arab Emirates; and"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note5-a-i-B",
+                      "text": "makes investment, directly or indirectly, out of the fund owned by the Government of Abu Dhabi;"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-a-ii",
+                  "intro": "a sovereign wealth fund, which satisfies the following conditions:—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note5-a-ii-A",
+                      "text": "it is wholly owned and controlled, directly or indirectly, by the government of a foreign country;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note5-a-ii-B",
+                      "text": "it is set up and regulated under the law of such foreign country;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "C",
+                      "id": "schedule-V-note5-a-ii-C",
+                      "text": "the earnings of the said fund are credited either to the account of the government of that foreign country or to any other account designated by that government so that no portion of the earnings enures any benefit to any private person;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "D",
+                      "id": "schedule-V-note5-a-ii-D",
+                      "text": "the asset of the said fund vests in the government of such foreign country upon dissolution;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "E",
+                      "id": "schedule-V-note5-a-ii-E",
+                      "text": "the provisions of items (C) and (D) shall not apply to any payment made to creditors or depositors for loan taken or borrowing for the purposes other than for making investment in India;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "F",
+                      "id": "schedule-V-note5-a-ii-F",
+                      "text": "it does not participate in the day-to-day operations of investee but the monitoring mechanism to protect the investment with the investee including the right to appoint directors or executive director shall not be considered as participation in the day to day operations of the investee; and"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "G",
+                      "id": "schedule-V-note5-a-ii-G",
+                      "text": "it is specified by the Central Government, by notification for this purpose and fulfils the conditions specified in such notification;"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-V-note5-a-iii",
+                  "intro": "a pension fund, which—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note5-a-iii-A",
+                      "text": "is created or established under the law of a foreign country including the laws made by any of its political constituents, being a province, State or local body, by whatever name called;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note5-a-iii-B",
+                      "text": "is not liable to tax in such foreign country or if liable to tax, exemption from taxation for all its income has been provided by such foreign country;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "C",
+                      "id": "schedule-V-note5-a-iii-C",
+                      "text": "does not participate in the day-to-day operations of investee but the monitoring mechanism to protect the investment with the investee including the right to appoint directors or executive director shall not be considered as participation in day-to-day operations of the investee;"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "D",
+                      "id": "schedule-V-note5-a-iii-D",
+                      "text": "is specified by the Central Government, by notification for this purpose and fulfils conditions specified in such notification; and"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "E",
+                      "id": "schedule-V-note5-a-iii-E",
+                      "text": "satisfies such other conditions as may be prescribed;"
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "schedule-V-note5-a-iv",
+                  "text": "the Public Investment Fund of the Government of the Kingdom of Saudi Arabia;"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "v",
+                  "id": "schedule-V-note5-a-v",
+                  "intro": "a wholly owned subsidiary of the Public Investment Fund of the Government of the Kingdom of Saudi Arabia, which—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note5-a-v-A",
+                      "text": "is a resident of Saudi Arabia; and"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note5-a-v-B",
+                      "text": "makes investment, directly or indirectly, out of the fund owned by such Government;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-V-note5-b",
+              "text": "\"investee\" means a business trust or eligible infrastructure entity or eligible Alternate Investment Fund or eligible domestic company or eligible Non-Banking Financial Company, in which the sovereign wealth fund or the pension fund has made the investment directly or indirectly;"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-V-note5-c",
+              "intro": "\"loan and borrowing\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-c-i",
+                  "text": "any loan taken or borrowing by a sovereign wealth fund from or any deposit or investment made in a sovereign wealth fund by, any person other than the Government of the country in which the sovereign wealth fund is set up;"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-c-ii",
+                  "intro": "any loan taken or borrowing by a pension fund from or any deposit or investment made in a pension fund by any person, but shall not include—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-V-note5-c-ii-A",
+                      "text": "the deposit or investment which represents statutory obligations and defined contributions of one or more funds or plans established for providing retirement, social security, employment, disability or death benefits; or"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-V-note5-c-ii-B",
+                      "text": "any similar compensation to the participants or beneficiaries of such funds or plans, as the case may be;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-V-note5-d",
+              "intro": "\"eligible infrastructure entity\" means a company or enterprise or an entity carrying on—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-d-i",
+                  "text": "the business of developing, or operating and maintaining, or developing, operating and maintaining an infrastructure facility as defined in section 138; or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-d-ii",
+                  "text": "such other business as the Central Government may, by notification, specify in this behalf;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-V-note5-e",
+              "intro": "\"eligible Alternate Investment Fund\" means Category-I or Category-II Alternative Investment Fund—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-e-i",
+                  "text": "regulated under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-e-ii",
+                  "text": "having not less than 50% investment in one or more of the eligible infrastructure entity or eligible domestic company or eligible Non-Banking Financial Company or in an eligible InvIT, computed in such manner as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "schedule-V-note5-f",
+              "intro": "\"eligible domestic company\" means a domestic company—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-f-i",
+                  "text": "set up and registered on or after the 1st April, 2021; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-f-ii",
+                  "text": "having minimum 75% investments in one or more of the eligible infrastructure entities, computed in such manner, as may be prescribed;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "schedule-V-note5-g",
+              "intro": "\"eligible Non-Banking Financial Company\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-V-note5-g-i",
+                  "text": "a non-banking financial company registered as an Infrastructure Finance Company as referred to in notification number RBI/2009-10/316 issued by the Reserve Bank of India or in an Infrastructure Debt Fund, a non-banking finance company as referred to in the Reserve Bank of India (Non-Banking Financial Company-Scale Based Regulations) Directions, 2023, issued by the Reserve Bank of India; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-V-note5-g-ii",
+                  "text": "having minimum 90% lending to one or more of eligible infrastructure entities, computed in such manner, as may be prescribed; and"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "schedule-V-note5-h",
+              "text": "\"eligible InvIT\" means an Infrastructure Investment Trust referred to in section 2(21)(a)."
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "66",
+      "id": "schedule-V-footnote66",
+      "text": "Omitt. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026. Prior to its omission, clause (b) read as under :",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-V-t5-cond-b"
+      ],
+      "prior_text": "\"(b) dividend received or receivable from a special purpose vehicle by the business trust (in a case where the special purpose vehicle has exercised the option under section 200); or\""
+    }
+  ],
+  "orphans": []
+}

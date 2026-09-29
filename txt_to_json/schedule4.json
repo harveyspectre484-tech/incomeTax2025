@@ -1,0 +1,916 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "IV",
+      "id": "schedule-IV",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "INCOME NOT TO BE INCLUDED IN TOTAL INCOME OF ELIGIBLE NON-RESIDENTS, FOREIGN COMPANIES AND OTHER SUCH PERSONS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-iv-4",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a tax year of any eligible person mentioned in column C of the Table below, the income mentioned in column B of the said Table shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D shall have the meanings respectively assigned to them in the Notes below the said Table:",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-IV-t1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of interest."
+            },
+            "eligible_persons": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t1-person-a",
+                  "text": "A person being an individual, who is a resident outside India as defined in section 2(w) of the Foreign Exchange Management Act, 1999 (42 of 1999); or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t1-person-b",
+                  "text": "a person being an individual who has been permitted by the Reserve Bank of India to maintain the said account."
+                }
+              ]
+            },
+            "conditions": {
+              "text": "Such interest is on moneys standing to the credit of such person in a Non-Resident (External) Account in any bank in India as per the said Act and the rules made thereunder."
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-IV-t2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any remuneration received for service in the capacity as an official mentioned in column C, not being a citizen of India."
+            },
+            "eligible_persons": {
+              "text": "An official, by whatever name called, of an embassy, high commission, legation, commission, consulate or the trade representation of a foreign State, or as a member of the staff of any of these officials."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t2-cond-a",
+                  "text": "The remuneration received as a trade commissioner or other official representative in India of the government of a foreign State (not holding office as such in an honorary capacity), or as members of the staff, if any, of the government, resident for similar purposes in the country concerned enjoy a similar exemption in that country; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t2-cond-b",
+                  "text": "the members of the staff are subjects of the country represented and are not engaged in any business or profession or employment in India otherwise than as members of such staff."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "3",
+            "id": "schedule-IV-t3",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any remuneration received as an employee for services rendered by him during his stay in India."
+            },
+            "eligible_persons": {
+              "text": "A person who is an employee of a foreign enterprise, not being a citizen of India."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t3-cond-a",
+                  "text": "The foreign enterprise is not engaged in any trade or business in India;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t3-cond-b",
+                  "text": "his stay in India does not exceed in the aggregate a period of ninety days in such tax year; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t3-cond-c",
+                  "text": "such remuneration is not liable to be deducted from the income of the employer chargeable under this Act."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "4",
+            "id": "schedule-IV-t4",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income chargeable under the head \"Salaries\", received or due as remuneration for services rendered in connection with his employment on a foreign ship."
+            },
+            "eligible_persons": {
+              "text": "Any individual being a non-resident, not being a citizen of India."
+            },
+            "conditions": {
+              "text": "The total stay of such individual in India does not exceed in the aggregate a period of ninety days in the tax year."
+            }
+          },
+          {
+            "sl_no": "5",
+            "id": "schedule-IV-t5",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any remuneration received as an employee of the Government of a foreign State."
+            },
+            "eligible_persons": {
+              "text": "An employee of the Government of a foreign State, not being a citizen of India."
+            },
+            "conditions": {
+              "intro": "Such remuneration is received during his stay in India in connection with his training in any establishment or office of, or in any undertaking owned by—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t5-cond-a",
+                  "text": "the Government; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t5-cond-b",
+                  "text": "any company in which the entire paid-up share capital is held by the Central Government or any State Government or State Governments, or partly by the Central Government and partly by one or more State Governments; or"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t5-cond-c",
+                  "text": "any company which is a subsidiary of a company referred to in clause (b); or"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-IV-t5-cond-d",
+                  "text": "any corporation established by or under a Central Act or State Act or Provincial Act; or"
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-IV-t5-cond-e",
+                  "text": "any society registered under the Societies Registration Act, 1860 (21 of 1860), or under any other law and wholly financed by the Central Government, or any State Government or State Governments, or partly by the Central Government and partly by one or more State Governments."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "6",
+            "id": "schedule-IV-t6",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income arising by way of royalty or fees for technical services."
+            },
+            "eligible_persons": {
+              "text": "Any foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t6-cond-a",
+                  "text": "Such company is notified by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t6-cond-b",
+                  "text": "such income is received in pursuance of an agreement entered into with the Central Government for providing services in or outside India in projects connected with security of India."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "7",
+            "id": "schedule-IV-t7",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income arising by way of royalty from, or fees for technical services rendered in or outside India."
+            },
+            "eligible_persons": {
+              "text": "A non-resident, not being a company, or a foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t7-cond-a",
+                  "text": "Such royalty is received from the National Technical Research Organisation; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t7-cond-b",
+                  "text": "such fees is for technical services rendered to the National Technical Research Organisation."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "8",
+            "id": "schedule-IV-t8",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Interest received."
+            },
+            "eligible_persons": {
+              "text": "Non-resident or a person who is not ordinarily resident."
+            },
+            "conditions": {
+              "text": "Such interest is received in India on a deposit made on or after the 1st April, 2005 in an Offshore Banking Unit referred to in section 2(u) of the Special Economic Zones Act, 2005 (28 of 2005)."
+            }
+          },
+          {
+            "sl_no": "9",
+            "id": "schedule-IV-t9",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Income from lease rentals, by whatever name called, of cruise ship."
+            },
+            "eligible_persons": {
+              "text": "Foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t9-cond-a",
+                  "text": "Such income is received from a specified company which operates such ship or ships in India;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t9-cond-b",
+                  "text": "such foreign company and the specified company are subsidiaries of the same holding company; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t9-cond-c",
+                  "text": "such income is received or accrues or arises in India for any relevant tax year beginning on or before the 1st April, 2029."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "10",
+            "id": "schedule-IV-t10",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income derived in India by way of interest, dividends or Capital gains from investments made."
+            },
+            "eligible_persons": {
+              "text": "The European Economic Community."
+            },
+            "conditions": {
+              "text": "Such investments are made out of its funds under such scheme as the Central Government may, by notification specify."
+            }
+          },
+          {
+            "sl_no": "11",
+            "id": "schedule-IV-t11",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income received in India in Indian currency."
+            },
+            "eligible_persons": {
+              "text": "A foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t11-cond-a",
+                  "text": "Such income is on account of sale of crude oil or any other goods or rendering of services, as may be notified by the Central Government in this behalf, to any person in India;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t11-cond-b",
+                  "text": "receipt of such income in India by the foreign company is pursuant to an agreement or an arrangement entered into by the Central Government or approved by the Central Government;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t11-cond-c",
+                  "text": "such foreign company and the agreement or arrangement is notified by the Central Government, having regard to the national interest; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-IV-t11-cond-d",
+                  "text": "such foreign company is not engaged in any activity in India, other than activity resulting in such income."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "12",
+            "id": "schedule-IV-t12",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising on account of storage of crude oil in a facility in India and sale of such crude oil to any person resident in India."
+            },
+            "eligible_persons": {
+              "text": "A foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t12-cond-a",
+                  "text": "Such storage and sale by the foreign company is pursuant to an agreement or an arrangement entered into by the Central Government or approved by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t12-cond-b",
+                  "text": "such foreign company and the agreement or arrangement is notified by the Central Government, having regard to the national interest."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "13",
+            "id": "schedule-IV-t13",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising on account of sale of leftover stock of crude oil, if any, from the facility in India after the expiry of the agreement or arrangement referred to against serial number 12 or on termination of the said agreement or arrangement."
+            },
+            "eligible_persons": {
+              "text": "A foreign company."
+            },
+            "conditions": {
+              "text": "Such sale shall be as per the terms mentioned in the said agreement or arrangement, subject to such conditions as may be notified by the Central Government in this behalf."
+            }
+          },
+          {
+            "sl_no": "13A",
+            "id": "schedule-IV-t13A",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income arising on account of providing capital goods, equipment or tooling to a contract manufacturer, being a company resident in India."
+            },
+            "eligible_persons": {
+              "text": "A foreign company, who is providing capital goods, equipment or tooling to the contract manufacturer for use in electronic manufacturing in India."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13A-cond-a",
+                  "text": "Ownership of such capital goods, equipment or tooling remains with the foreign company;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13A-cond-b",
+                  "text": "such capital goods, equipment or tooling is under the control and direction of the contract manufacturer;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13A-cond-c",
+                  "text": "the contract manufacturer is located in a custom bonded area, that is, a warehouse referred to in section 65 of the Customs Act, 1962 (52 of 1962);"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-IV-t13A-cond-d",
+                  "text": "the contract manufacturer produces specified electronic goods on behalf of the foreign company for a consideration; and",
+                  "footnote_refs": [
+                    "48a"
+                  ]
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-IV-t13A-cond-e",
+                  "text": "such exemption shall be available up to the tax year 2040-2041.",
+                  "footnote_refs": [
+                    "48b"
+                  ]
+                }
+              ]
+            },
+            "footnote_refs": [
+              "48"
+            ]
+          },
+          {
+            "sl_no": "13B",
+            "id": "schedule-IV-t13B",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income which accrues or arises outside India, and is not deemed to accrue or arise in India."
+            },
+            "eligible_persons": {
+              "text": "An individual, being a non-resident for a period of five consecutive tax years immediately preceding the tax year during which he visits India for the first time for rendering services in India in connection with any scheme as may be notified by the Central Government."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13B-cond-a",
+                  "text": "Such individual, during the relevant tax year renders any service in India in connection with any scheme as may be notified by the Central Government;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13B-cond-b",
+                  "text": "such exemption shall not be available beyond a period of five consecutive tax years commencing from the first tax year during which he visits India in connection with such scheme; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13B-cond-c",
+                  "text": "such other conditions, as may be prescribed."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "48"
+            ]
+          },
+          {
+            "sl_no": "13C",
+            "id": "schedule-IV-t13C",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising in India or deemed to accrue or arise in India by way of procuring data centre services from a specified data centre."
+            },
+            "eligible_persons": {
+              "text": "A foreign company."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13C-cond-a",
+                  "text": "***",
+                  "footnote_refs": [
+                    "49"
+                  ],
+                  "status": "omitted"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13C-cond-b",
+                  "text": "such foreign company does not own or operate any of the physical infrastructure or any resources of the specified data centre;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13C-cond-c",
+                  "text": "all sales by such foreign company to users located in India are made through a reseller entity being an Indian company;"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-IV-t13C-cond-d",
+                  "text": "such foreign company maintains and furnishes such information in such form and manner, as may be prescribed; and"
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-IV-t13C-cond-e",
+                  "text": "such exemption shall be available up to tax year ending on the 31st March, 2047."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "48"
+            ]
+          },
+          {
+            "sl_no": "13D",
+            "id": "schedule-IV-t13D",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any interest on Government security, and any capital gains arising from the sale, exchange or transfer of such Government security."
+            },
+            "eligible_persons": {
+              "text": "A Foreign Institutional Investor."
+            },
+            "conditions": {
+              "text": "Such exemption shall be subject to furnishing of information in such form and manner, as may be prescribed."
+            },
+            "footnote_refs": [
+              "49a"
+            ]
+          },
+          {
+            "sl_no": "13E",
+            "id": "schedule-IV-t13E",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any interest on Government security, and any capital gains arising from the sale, exchange or transfer of such Government security."
+            },
+            "eligible_persons": {
+              "text": "Bank for International Settlements."
+            },
+            "conditions": {
+              "text": "Such exemption shall be subject to furnishing of information in such form and manner, as may be prescribed."
+            },
+            "footnote_refs": [
+              "49a"
+            ]
+          },
+          {
+            "sl_no": "13F",
+            "id": "schedule-IV-t13F",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income on sale of rough diamonds."
+            },
+            "eligible_persons": {
+              "intro": "A foreign company—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13F-person-a",
+                  "text": "engaged in the business of diamond mining; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13F-person-b",
+                  "text": "being a sightholder of the company referred to in clause (a); or"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13F-person-c",
+                  "text": "being a broker, aggregator or a tender and auction entity connected with sale of rough diamonds."
+                }
+              ]
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13F-cond-a",
+                  "text": "The sale of rough diamonds is carried out in any notified special zone as referred to in section 9(9)(c)(ii)(C);"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13F-cond-b",
+                  "text": "such foreign company maintains and furnishes such information in such form and manner, as may be prescribed; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13F-cond-c",
+                  "text": "such exemption shall be available up to the tax year ending on the 31st March, 2041."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "49b"
+            ]
+          },
+          {
+            "sl_no": "13G",
+            "id": "schedule-IV-t13G",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising on account of storage of components in a warehouse in a custom bonded area."
+            },
+            "eligible_persons": {
+              "text": "A foreign company, which stores components in a warehouse in a custom bonded area for providing them to a contract manufacturer to be used for manufacturing of specified electronic goods."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-IV-t13G-cond-a",
+                  "text": "Such exemption shall be available on sale of components by such foreign company;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-IV-t13G-cond-b",
+                  "text": "such contract manufacturer produces electronic goods on behalf of any foreign company;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-IV-t13G-cond-c",
+                  "text": "such exemption shall be subject to furnishing of information in such form and manner, as may be prescribed; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-IV-t13G-cond-d",
+                  "text": "such exemption shall be available up to the tax year ending on the 31st March, 2041."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "49b"
+            ]
+          },
+          {
+            "sl_no": "14",
+            "id": "schedule-IV-t14",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income falling under section 10(6A), (6B), (6BB), (15A), (15)(iiia), (15)(iiib), (15)(iiic) or (15)(iv)(a), (15)(iv)(b) or (15)(iv)(fa) of the Income-tax Act, 1961 (43 of 1961) subject to the conditions as specified therein."
+            },
+            "eligible_persons": {
+              "text": ""
+            },
+            "conditions": {
+              "text": ""
+            }
+          }
+        ],
+        "id": "schedule-IV-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-IV-note1",
+          "text_before_clauses": "For the purposes of Sl. No. 9, —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-IV-note1-a",
+              "text": "\"specified company\" means any company, other than a domestic company which operates cruise ships in India and opts to pay tax as per the provisions of section 61(2) (Table: Sl. No. 2);"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-IV-note1-b",
+              "text": "\"holding company\", in relation to a foreign company or a specified company, means a company of which such companies are subsidiary companies; and"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-IV-note1-c",
+              "text": "\"subsidiary company\" or \"subsidiary\", in relation to a holding company, means a company in which the holding company exercises or controls more than one-half of the total share capital either at its own or together with one or more of its subsidiary companies."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-IV-note2",
+          "text": "For the purposes of Sl. No. 10, — \"European Economic Community\" means the European Economic Community established by the Treaty of Rome of 25th March, 1957."
+        },
+        {
+          "type": "note",
+          "number": "2A",
+          "id": "schedule-IV-note2A",
+          "text_before_clauses": "For the purposes of Sl. No. 13A, the expression \"specified electronic goods\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-IV-note2A-a",
+              "text": "mobile phones; or"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-IV-note2A-b",
+              "text": "laptops, all-in-one personal computers and tablets; or"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-IV-note2A-c",
+              "text": "servers and ultra small form factor (USFF); or"
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-IV-note2A-d",
+              "text": "sub-assemblies to the finished goods mentioned in clauses (a) to (c); or"
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-IV-note2A-e",
+              "text": "hearables and wearables and accessories related to the finished goods mentioned in clauses (a) to (c)."
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "49c"
+          ]
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-IV-note3",
+          "text_before_clauses": "For the purposes of Sl. No. 13C, —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-IV-note3-a",
+              "text": "\"data centre\" means a dedicated secure space within a building or centralised location where computing and networking equipment is concentrated for the purpose of collecting, storing, processing, distributing or allowing access to large amounts of data;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-IV-note3-b",
+              "text": "\"data centre services\" means the services provided by a data centre through the use of physical infrastructure including land, buildings, mechanical electrical power equipments, cooling system, security and information technology infrastructure including servers, computers, storage systems, operating systems, security solutions, network and associated software platforms, networking and other equipment, human resource in India;"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-IV-note3-c",
+              "intro": "\"specified data centre\" means a data centre which—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-IV-note3-c-i",
+                  "text": "is operated by an Indian company, whether by way of owning or leasing; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-IV-note3-c-ii",
+                  "text": "satisfies such other conditions as may be prescribed."
+                }
+              ],
+              "footnote_refs": [
+                "51"
+              ]
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "50"
+          ]
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-IV-note4",
+          "text_before_clauses": "For the purposes of Sl. Nos. 13D and 13E,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-IV-note4-a",
+              "text": "\"Bank for International Settlements\" means the Bank for International Settlements established at the Hague Conference in 1930 and headquartered at Basel, Switzerland;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-IV-note4-b",
+              "text": "\"Foreign Institutional Investor\" shall have the meaning assigned to it in section 210(6)(a);"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-IV-note4-c",
+              "text": "\"Government security\" shall have the same meaning as assigned to it in section 2(f) of the Government Securities Act, 2006 (38 of 2006)."
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "51a"
+          ]
+        },
+        {
+          "type": "note",
+          "number": "5",
+          "id": "schedule-IV-note5",
+          "text": "For the purposes of Sl. No. 13F, the expression \"rough diamond\" means any diamond that is unworked or simply sawn, cleaved or bruted and falling under the Tariff Heading 7102 10, 7102 21, or 7102 31 of the First Schedule to the Customs Tariff Act, 1975 (51 of 1975) and accompanied by the Kimberley Process Certificate.",
+          "footnote_refs": [
+            "51b"
+          ]
+        },
+        {
+          "type": "note",
+          "number": "6",
+          "id": "schedule-IV-note6",
+          "text_before_clauses": "For the purposes of Sl. No. 13G,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-IV-note6-a",
+              "text": "\"contract manufacturer\" means an Indian company which produces specified electronic goods on behalf of any foreign company in a custom bonded area;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-IV-note6-b",
+              "text": "\"custom bonded area\" means a warehouse as referred to in section 65 of the Customs Act, 1962 (52 of 1962); and"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-IV-note6-c",
+              "text": "\"specified electronic goods\" shall have the meaning assigned to it in Note 2A."
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "51b"
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "48",
+      "id": "schedule-IV-footnote48",
+      "text": "Sl. Nos. 13A, 13B and 13C Ins. by the Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-t13A",
+        "schedule-IV-t13B",
+        "schedule-IV-t13C"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "48a",
+      "id": "schedule-IV-footnote48a",
+      "text": "Sub. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026. Prior to its substitution, clause (d) read as under :",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-t13A-cond-d"
+      ],
+      "prior_text": "\"(d) the contract manufacturer produces electronic goods on behalf of the foreign company for a consideration;\""
+    },
+    {
+      "type": "footnote",
+      "number": "48b",
+      "id": "schedule-IV-footnote48b",
+      "text": "Sub. for \"2030-2031\" by the Act No. 21 of 2026, w.r.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-t13A-cond-e"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "49",
+      "id": "schedule-IV-footnote49",
+      "text": "Omitt. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026. Prior to its omission, clause (a) read as under :",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-t13C-cond-a"
+      ],
+      "prior_text": "\"(a) Such foreign company is notified by the Central Government in this behalf;\""
+    },
+    {
+      "type": "footnote",
+      "number": "49a",
+      "id": "schedule-IV-footnote49a",
+      "text": "Ins. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-t13D",
+        "schedule-IV-t13E"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "49b",
+      "id": "schedule-IV-footnote49b",
+      "text": "Ins. by the Act No. 21 of 2026, w.e.f. 1-10-2026.",
+      "effective_from": "2026-10-01",
+      "applies_to": [
+        "schedule-IV-t13F",
+        "schedule-IV-t13G"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "49c",
+      "id": "schedule-IV-footnote49c",
+      "text": "Ins. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-note2A"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "50",
+      "id": "schedule-IV-footnote50",
+      "text": "Ins. by the Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-note3"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "51",
+      "id": "schedule-IV-footnote51",
+      "text": "Sub. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026. Prior to its substitution, clause (c) read as under :",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-note3-c"
+      ],
+      "prior_text": "'(c) \"specified data centre\" means a data centre which is— (i) set up under an approved scheme and is notified in this behalf by the Central Government in the Ministry of Electronics and Information Technology; and (ii) owned and operated by an Indian company.'"
+    },
+    {
+      "type": "footnote",
+      "number": "51a",
+      "id": "schedule-IV-footnote51a",
+      "text": "Ins. by the Act No. 21 of 2026, w.r.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-IV-note4"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "51b",
+      "id": "schedule-IV-footnote51b",
+      "text": "Ins. by the Act No. 21 of 2026, w.e.f. 1-10-2026.",
+      "effective_from": "2026-10-01",
+      "applies_to": [
+        "schedule-IV-note5",
+        "schedule-IV-note6"
+      ]
+    }
+  ],
+  "orphans": []
+}

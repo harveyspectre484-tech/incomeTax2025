@@ -1,4 +1,5 @@
 {
+  "section_number": "505",
   "legal_units": [
     {
       "id": "505",
@@ -9,7 +10,7 @@
       "section_number": "505",
       "title": "Submission of statement by a non-resident having liaison office.",
       "text": "Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
-      "context_text": "Section 505 Submission of statement by a non-resident having liaison office. Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
+      "retrieval_text": "Section 505 Submission of statement by a non-resident having liaison office. Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,40 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-1999-42",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Foreign Exchange Management Act",
+      "title_year": "1999",
+      "act_number": "42",
+      "act_year": "1999",
+      "official_citation": "42 of 1999",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Foreign Exchange Management Act, 1999 (42 of 1999)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "505",
+      "to_id": "ext-india-act-1999-42",
+      "edge_type": "references_external_act",
+      "reference_text": "Foreign Exchange Management Act, 1999 (42 of 1999)",
+      "target_act_id": "ext-india-act-1999-42",
+      "target_act_title": "Foreign Exchange Management Act",
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "42",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "42 of 1999",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

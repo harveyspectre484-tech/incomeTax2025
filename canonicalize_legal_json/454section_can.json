@@ -1,4 +1,5 @@
 {
+  "section_number": "454",
   "legal_units": [
     {
       "id": "454",
@@ -9,7 +10,7 @@
       "section_number": "454",
       "title": "^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice.",
       "text": "Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
-      "context_text": "Section 454 ^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice. Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
+      "retrieval_text": "Section 454 ^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice. Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "454",
+      "to_id": "508-1",
+      "edge_type": "references",
+      "reference_text": "section 508(1)"
+    },
+    {
+      "from_id": "454",
+      "to_id": "508-7",
+      "edge_type": "references",
+      "reference_text": "section 508(7)"
     }
   ]
 }

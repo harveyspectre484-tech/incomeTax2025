@@ -1,4 +1,5 @@
 {
+  "section_number": "481",
   "legal_units": [
     {
       "id": "481",
@@ -9,7 +10,7 @@
       "section_number": "481",
       "title": "^2^6[Failure to comply with a direction of special audit or valuation.",
       "text": "If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
-      "context_text": "Section 481 ^2^6[Failure to comply with a direction of special audit or valuation. If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
+      "retrieval_text": "Section 481 ^2^6[Failure to comply with a direction of special audit or valuation. If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "481",
+      "to_id": "268-5",
+      "edge_type": "references",
+      "reference_text": "section 268(5)"
     }
   ]
 }

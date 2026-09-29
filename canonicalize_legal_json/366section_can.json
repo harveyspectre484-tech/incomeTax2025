@@ -1,4 +1,5 @@
 {
+  "section_number": "366",
   "legal_units": [
     {
       "id": "366",
@@ -8,8 +9,8 @@
       "section_id": "366",
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
-      "text": "(1) When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges. (2) Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
-      "context_text": "Section 366 Case before High Court to be heard by not less than two Judges. (1) When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges. (2) Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
+      "text": "",
+      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
       "text": "When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
-      "context_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(1): When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
+      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(1): When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
       "text": "Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
-      "context_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(2): Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
+      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(2): Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "366-1",
+      "to_id": "366",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "366",
+      "to_id": "366-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "366-2",
+      "to_id": "366",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "366",
+      "to_id": "366-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "366-1",
+      "to_id": "365",
+      "edge_type": "references",
+      "reference_text": "section 365"
     }
   ]
 }

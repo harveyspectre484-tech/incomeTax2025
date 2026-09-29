@@ -1,4 +1,5 @@
 {
+  "section_number": "534",
   "legal_units": [
     {
       "id": "534",
@@ -8,8 +9,8 @@
       "section_id": "534",
       "section_number": "534",
       "title": "Laying before Parliament.",
-      "text": "The Central Government shall cause–– to be laid, as soon as may be after it is made or issued, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in such rule, or notification or both Houses agree that the rule, should not be made or the notification should not be issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification. (a) every rule made under this Act; (b) rules of procedure framed by the Appellate Tribunal under section 364; or (c) every notification issued under sections 263(3) and 264 and Chapter XIII-G,",
-      "context_text": "Section 534 Laying before Parliament. The Central Government shall cause–– to be laid, as soon as may be after it is made or issued, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in such rule, or notification or both Houses agree that the rule, should not be made or the notification should not be issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification. (a) every rule made under this Act; (b) rules of procedure framed by the Appellate Tribunal under section 364; or (c) every notification issued under sections 263(3) and 264 and Chapter XIII-G,",
+      "text": "The Central Government shall cause–– to be laid, as soon as may be after it is made or issued, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in such rule, or notification or both Houses agree that the rule, should not be made or the notification should not be issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification.",
+      "retrieval_text": "Section 534 Laying before Parliament. The Central Government shall cause–– to be laid, as soon as may be after it is made or issued, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in such rule, or notification or both Houses agree that the rule, should not be made or the notification should not be issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "534",
       "title": "Laying before Parliament.",
       "text": "every rule made under this Act;",
-      "context_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(a): every rule made under this Act;",
+      "retrieval_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(a): every rule made under this Act;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "534",
       "title": "Laying before Parliament.",
       "text": "rules of procedure framed by the Appellate Tribunal under section 364; or",
-      "context_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(b): rules of procedure framed by the Appellate Tribunal under section 364; or",
+      "retrieval_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(b): rules of procedure framed by the Appellate Tribunal under section 364; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "534",
       "title": "Laying before Parliament.",
       "text": "every notification issued under sections 263(3) and 264 and Chapter XIII-G,",
-      "context_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(c): every notification issued under sections 263(3) and 264 and Chapter XIII-G,",
+      "retrieval_text": "Section 534 Laying before Parliament. The Central Government shall cause–– Section 534(c): every notification issued under sections 263(3) and 264 and Chapter XIII-G,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,45 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 116.66
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "534-a",
+      "to_id": "534",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "534",
+      "to_id": "534-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "534-b",
+      "to_id": "534",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "534",
+      "to_id": "534-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "534-c",
+      "to_id": "534",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "534",
+      "to_id": "534-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "534-b",
+      "to_id": "364",
+      "edge_type": "references",
+      "reference_text": "section 364"
     }
   ]
 }

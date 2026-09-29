@@ -1,4 +1,5 @@
 {
+  "section_number": "349",
   "legal_units": [
     {
       "id": "349",
@@ -9,7 +10,7 @@
       "section_number": "349",
       "title": "Return of income.",
       "text": "Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, it shall furnish the return of income for that tax year as per the provisions of section 263(1)(a)(iii)",
-      "context_text": "Section 349 Return of income. Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, it shall furnish the return of income for that tax year as per the provisions of section 263(1)(a)(iii)",
+      "retrieval_text": "Section 349 Return of income. Where the total income of a registered non-profit organisation, without giving effect to the provisions of this Part, exceeds the maximum amount which is not chargeable to income-tax in any tax year, it shall furnish the return of income for that tax year as per the provisions of section 263(1)(a)(iii)",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "349",
+      "to_id": "263-1-a",
+      "edge_type": "references",
+      "reference_text": "section 263(1)(a)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "98",
   "legal_units": [
     {
       "id": "98",
@@ -8,8 +9,8 @@
       "section_id": "98",
       "section_number": "98",
       "title": "\"Transfer\" and \"revocable transfer\" defined.",
-      "text": "For the purposes of sections 96 and 97, and this section,— (a) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement; (b) a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
-      "context_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— (a) \"transfer\" includes any settlement, trust, covenant, agreement or arrangement; (b) a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
+      "text": "For the purposes of sections 96 and 97, and this section,—",
+      "retrieval_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "98",
       "title": "\"Transfer\" and \"revocable transfer\" defined.",
       "text": "\"transfer\" includes any settlement, trust, covenant, agreement or arrangement;",
-      "context_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(a): \"transfer\" includes any settlement, trust, covenant, agreement or arrangement;",
+      "retrieval_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(a): \"transfer\" includes any settlement, trust, covenant, agreement or arrangement;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -46,8 +47,8 @@
       "section_id": "98",
       "section_number": "98",
       "title": "\"Transfer\" and \"revocable transfer\" defined.",
-      "text": "a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
-      "context_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
+      "text": "a transfer shall be deemed to be revocable, if—",
+      "retrieval_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "98",
       "title": "\"Transfer\" and \"revocable transfer\" defined.",
       "text": "it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or",
-      "context_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets. Section 98(b)(i): it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or",
+      "retrieval_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if— Section 98(b)(i): it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "98",
       "title": "\"Transfer\" and \"revocable transfer\" defined.",
       "text": "it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
-      "context_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if— (i) it contains any provision for the direct or indirect re-transfer of the whole or any part of the income or assets to the transferor; or (ii) it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets. Section 98(b)(ii): it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
+      "retrieval_text": "Section 98 \"Transfer\" and \"revocable transfer\" defined. For the purposes of sections 96 and 97, and this section,— Section 98(b): a transfer shall be deemed to be revocable, if— Section 98(b)(ii): it, in any way, gives the transferor a right to re-assume power directly or indirectly over the whole or any part of the income or assets.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,49 @@
       "line_start": null,
       "x": 69.33,
       "y_start": 127.26
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "98-a",
+      "to_id": "98",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "98",
+      "to_id": "98-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "98-b",
+      "to_id": "98",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "98",
+      "to_id": "98-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "98-b-i",
+      "to_id": "98-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "98-b",
+      "to_id": "98-b-i",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "98-b-ii",
+      "to_id": "98-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "98-b",
+      "to_id": "98-b-ii",
+      "edge_type": "contains"
     }
   ]
 }

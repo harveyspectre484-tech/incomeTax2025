@@ -1,4 +1,5 @@
 {
+  "section_number": "381",
   "legal_units": [
     {
       "id": "381",
@@ -8,8 +9,8 @@
       "section_id": "381",
       "section_number": "381",
       "title": "Board for Advance Rulings.",
-      "text": "(1) The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint. (2) The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.",
-      "context_text": "Section 381 Board for Advance Rulings. (1) The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint. (2) The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.",
+      "text": "",
+      "retrieval_text": "Section 381 Board for Advance Rulings.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "381",
       "title": "Board for Advance Rulings.",
       "text": "The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.",
-      "context_text": "Section 381 Board for Advance Rulings. Section 381(1): The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.",
+      "retrieval_text": "Section 381 Board for Advance Rulings. Section 381(1): The Central Government shall constitute one or more Boards for Advance Rulings, as may be necessary, for giving advance rulings under this Chapter on or after such date as the Central Government may, by notification, appoint.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "381",
       "title": "Board for Advance Rulings.",
       "text": "The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.",
-      "context_text": "Section 381 Board for Advance Rulings. Section 381(2): The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.",
+      "retrieval_text": "Section 381 Board for Advance Rulings. Section 381(2): The Board for Advance Rulings shall consist of two members, each being an officer not below the rank of Chief Commissioner, as may be nominated by the Board.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "381-1",
+      "to_id": "381",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "381",
+      "to_id": "381-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "381-2",
+      "to_id": "381",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "381",
+      "to_id": "381-2",
+      "edge_type": "contains"
     }
   ]
 }

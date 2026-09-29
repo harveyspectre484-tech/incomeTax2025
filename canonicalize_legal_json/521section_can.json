@@ -1,4 +1,5 @@
 {
+  "section_number": "521",
   "legal_units": [
     {
       "id": "521",
@@ -9,7 +10,7 @@
       "section_number": "521",
       "title": "Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply.",
       "text": "The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
-      "context_text": "Section 521 Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply. The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
+      "retrieval_text": "Section 521 Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply. The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,46 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-1958-20",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Probation of Offenders Act",
+      "title_year": "1958",
+      "act_number": "20",
+      "act_year": "1958",
+      "official_citation": "20 of 1958",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Probation of Offenders Act, 1958 (20 of 1958)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "521",
+      "to_id": "ext-india-act-1958-20",
+      "edge_type": "references_external_act",
+      "reference_text": "Probation of Offenders Act, 1958 (20 of 1958)",
+      "target_act_id": "ext-india-act-1958-20",
+      "target_act_title": "Probation of Offenders Act",
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "20",
+      "target_act_year": "1958",
+      "target_act_title_year": "1958",
+      "target_official_citation": "20 of 1958",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "521",
+      "to_id": "401",
+      "edge_type": "references",
+      "reference_text": "section 401"
     }
   ]
 }

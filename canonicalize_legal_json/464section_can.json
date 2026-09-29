@@ -1,4 +1,5 @@
 {
+  "section_number": "464",
   "legal_units": [
     {
       "id": "464",
@@ -8,8 +9,8 @@
       "section_id": "464",
       "section_number": "464",
       "title": "Penalty for failure to furnish statements, etc.",
-      "text": "The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— (a) the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or (b) the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
-      "context_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— (a) the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or (b) the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
+      "text": "The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on—",
+      "retrieval_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "464",
       "title": "Penalty for failure to furnish statements, etc.",
       "text": "the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or",
-      "context_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— Section 464(a): the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or",
+      "retrieval_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— Section 464(a): the research association, university, college or other institution referred to in section 45, if it fails to deliver or furnish the documents as may be prescribed under section 45(4)(a); or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "464",
       "title": "Penalty for failure to furnish statements, etc.",
       "text": "the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
-      "context_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— Section 464(b): the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
+      "retrieval_text": "Section 464 Penalty for failure to furnish statements, etc. The Assessing Officer may impose a penalty which shall not be less than Rs. 10000 but which may extend up to Rs. 100000 on— Section 464(b): the institution or fund, if it fails to deliver or cause to be delivered a statement within the time prescribed under section 354(1)(e), or furnish a certificate prescribed under section 354(1)(g).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,53 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 115.6
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "464-a",
+      "to_id": "464",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "464",
+      "to_id": "464-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "464-b",
+      "to_id": "464",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "464",
+      "to_id": "464-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "464-a",
+      "to_id": "45",
+      "edge_type": "references",
+      "reference_text": "section 45"
+    },
+    {
+      "from_id": "464-a",
+      "to_id": "45-4-a",
+      "edge_type": "references",
+      "reference_text": "section 45(4)(a)"
+    },
+    {
+      "from_id": "464-b",
+      "to_id": "354-1-e",
+      "edge_type": "references",
+      "reference_text": "section 354(1)(e)"
+    },
+    {
+      "from_id": "464-b",
+      "to_id": "354-1-g",
+      "edge_type": "references",
+      "reference_text": "section 354(1)(g)"
     }
   ]
 }

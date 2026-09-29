@@ -1,4 +1,5 @@
 {
+  "section_number": "339",
   "legal_units": [
     {
       "id": "339",
@@ -9,7 +10,7 @@
       "section_number": "339",
       "title": "Corpus donation.",
       "text": "Corpus donation means any donation made with a specific direction by the donor that it shall form part of the corpus of the registered non-profit organisation provided that such donation is invested or deposited in any of the modes permitted under section 350 maintained specifically for such corpus.",
-      "context_text": "Section 339 Corpus donation. Corpus donation means any donation made with a specific direction by the donor that it shall form part of the corpus of the registered non-profit organisation provided that such donation is invested or deposited in any of the modes permitted under section 350 maintained specifically for such corpus.",
+      "retrieval_text": "Section 339 Corpus donation. Corpus donation means any donation made with a specific direction by the donor that it shall form part of the corpus of the registered non-profit organisation provided that such donation is invested or deposited in any of the modes permitted under section 350 maintained specifically for such corpus.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "339",
+      "to_id": "350",
+      "edge_type": "references",
+      "reference_text": "section 350"
     }
   ]
 }

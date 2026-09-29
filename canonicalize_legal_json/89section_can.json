@@ -1,4 +1,5 @@
 {
+  "section_number": "89",
   "legal_units": [
     {
       "id": "89",
@@ -8,8 +9,8 @@
       "section_id": "89",
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
-      "text": "Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— (a) if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and (b) if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
-      "context_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— (a) if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and (b) if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
+      "text": "Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
+      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
       "text": "if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
-      "context_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(a): if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
+      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(a): if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
       "text": "if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
-      "context_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(b): if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
+      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(b): if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 106.05
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "89-a",
+      "to_id": "89",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "89",
+      "to_id": "89-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "89-b",
+      "to_id": "89",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "89",
+      "to_id": "89-b",
+      "edge_type": "contains"
     }
   ]
 }

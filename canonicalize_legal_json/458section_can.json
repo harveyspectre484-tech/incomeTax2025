@@ -1,4 +1,5 @@
 {
+  "section_number": "458",
   "legal_units": [
     {
       "id": "458",
@@ -8,8 +9,8 @@
       "section_id": "458",
       "section_number": "458",
       "title": "Penalty for failure to furnish information or document under section 506.",
-      "text": "If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— (a) 2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern; (b) Rs. 500000, in any other case.",
-      "context_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— (a) 2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern; (b) Rs. 500000, in any other case.",
+      "text": "If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of—",
+      "retrieval_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "458",
       "title": "Penalty for failure to furnish information or document under section 506.",
       "text": "2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern;",
-      "context_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— Section 458(a): 2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern;",
+      "retrieval_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— Section 458(a): 2% of the value of the transaction in respect of which such failure has taken place, if such transaction had the effect of directly or indirectly transferring the right of management or control in relation to the Indian concern;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "458",
       "title": "Penalty for failure to furnish information or document under section 506.",
       "text": "Rs. 500000, in any other case.",
-      "context_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— Section 458(b): Rs. 500000, in any other case.",
+      "retrieval_text": "Section 458 Penalty for failure to furnish information or document under section 506. If any Indian concern, which is required to furnish any information or document under section 506, fails to do so, the prescribed income-tax authority under the said section, may direct that such Indian concern shall pay by way of penalty, a sum of— Section 458(b): Rs. 500000, in any other case.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 128.33
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "458-a",
+      "to_id": "458",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "458",
+      "to_id": "458-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "458-b",
+      "to_id": "458",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "458",
+      "to_id": "458-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "458",
+      "to_id": "506",
+      "edge_type": "references",
+      "reference_text": "section 506"
     }
   ]
 }

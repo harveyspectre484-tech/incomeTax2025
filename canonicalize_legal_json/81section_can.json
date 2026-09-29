@@ -1,4 +1,5 @@
 {
+  "section_number": "81",
   "legal_units": [
     {
       "id": "81",
@@ -8,8 +9,8 @@
       "section_id": "81",
       "section_number": "81",
       "title": "Advance money received.",
-      "text": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— (a) shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition; (b) shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
-      "context_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— (a) shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition; (b) shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
+      "text": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
+      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "81",
       "title": "Advance money received.",
       "text": "shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
-      "context_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(a): shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
+      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(a): shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "81",
       "title": "Advance money received.",
       "text": "shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
-      "context_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(b): shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
+      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(b): shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,94 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 128.33
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-1961-43",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Income-tax Act, 1961 (43 of 1961)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-56-2-ix",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "locator_text": "section 56(2)(ix)",
+      "section": "56",
+      "nested_locators": [
+        "2",
+        "ix"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "81-a",
+      "to_id": "81",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "81",
+      "to_id": "81-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "81-b",
+      "to_id": "81",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "81",
+      "to_id": "81-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "81-b",
+      "to_id": "ext-india-act-1961-43-section-56-2-ix",
+      "edge_type": "references_external",
+      "reference_text": "section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "56",
+      "target_nested_locators": [
+        "2",
+        "ix"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "81-b",
+      "to_id": "92-2-h",
+      "edge_type": "references",
+      "reference_text": "section 92(2)(h)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "145",
   "legal_units": [
     {
       "id": "145",
@@ -8,8 +9,8 @@
       "section_id": "145",
       "section_number": "145",
       "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
-      "text": "If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— there shall be allowed a deduction equal to the whole amount of such profits and gains for five consecutive tax years, beginning with the tax year in which such business commences. (a) generating power; or (b) producing bio-fertilizers, bio-pesticides or other biological agents; or (c) producing bio-gas; or (d) making pellets or briquettes for fuel or organic manure,",
-      "context_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— there shall be allowed a deduction equal to the whole amount of such profits and gains for five consecutive tax years, beginning with the tax year in which such business commences. (a) generating power; or (b) producing bio-fertilizers, bio-pesticides or other biological agents; or (c) producing bio-gas; or (d) making pellets or briquettes for fuel or organic manure,",
+      "text": "If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— there shall be allowed a deduction equal to the whole amount of such profits and gains for five consecutive tax years, beginning with the tax year in which such business commences.",
+      "retrieval_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— there shall be allowed a deduction equal to the whole amount of such profits and gains for five consecutive tax years, beginning with the tax year in which such business commences.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "145",
       "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
       "text": "generating power; or",
-      "context_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(a): generating power; or",
+      "retrieval_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(a): generating power; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "145",
       "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
       "text": "producing bio-fertilizers, bio-pesticides or other biological agents; or",
-      "context_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(b): producing bio-fertilizers, bio-pesticides or other biological agents; or",
+      "retrieval_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(b): producing bio-fertilizers, bio-pesticides or other biological agents; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "145",
       "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
       "text": "producing bio-gas; or",
-      "context_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(c): producing bio-gas; or",
+      "retrieval_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(c): producing bio-gas; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "145",
       "title": "Deduction for businesses engaged in collecting and processing of bio-degradable waste.",
       "text": "making pellets or briquettes for fuel or organic manure,",
-      "context_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(d): making pellets or briquettes for fuel or organic manure,",
+      "retrieval_text": "Section 145 Deduction for businesses engaged in collecting and processing of bio-degradable waste. If the gross total income of an assessee includes any profits and gains derived from the business of collecting and processing or treating of bio- degradable waste for,— Section 145(d): making pellets or briquettes for fuel or organic manure,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,49 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 139.99
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "145-a",
+      "to_id": "145",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "145",
+      "to_id": "145-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "145-b",
+      "to_id": "145",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "145",
+      "to_id": "145-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "145-c",
+      "to_id": "145",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "145",
+      "to_id": "145-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "145-d",
+      "to_id": "145",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "145",
+      "to_id": "145-d",
+      "edge_type": "contains"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "383",
   "legal_units": [
     {
       "id": "383",
@@ -8,8 +9,8 @@
       "section_id": "383",
       "section_number": "383",
       "title": "Application for advance ruling.",
-      "text": "(1) An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought. (2) The application shall be accompanied by a fee, as may be prescribed. (3) An applicant may withdraw an application within thirty days from the date of the application.",
-      "context_text": "Section 383 Application for advance ruling. (1) An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought. (2) The application shall be accompanied by a fee, as may be prescribed. (3) An applicant may withdraw an application within thirty days from the date of the application.",
+      "text": "",
+      "retrieval_text": "Section 383 Application for advance ruling.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
-      "context_text": "Section 383 Application for advance ruling. Section 383(1): An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
+      "retrieval_text": "Section 383 Application for advance ruling. Section 383(1): An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "The application shall be accompanied by a fee, as may be prescribed.",
-      "context_text": "Section 383 Application for advance ruling. Section 383(2): The application shall be accompanied by a fee, as may be prescribed.",
+      "retrieval_text": "Section 383 Application for advance ruling. Section 383(2): The application shall be accompanied by a fee, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "An applicant may withdraw an application within thirty days from the date of the application.",
-      "context_text": "Section 383 Application for advance ruling. Section 383(3): An applicant may withdraw an application within thirty days from the date of the application.",
+      "retrieval_text": "Section 383 Application for advance ruling. Section 383(3): An applicant may withdraw an application within thirty days from the date of the application.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,39 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 124.61
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "383-1",
+      "to_id": "383",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "383",
+      "to_id": "383-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "383-2",
+      "to_id": "383",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "383",
+      "to_id": "383-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "383-3",
+      "to_id": "383",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "383",
+      "to_id": "383-3",
+      "edge_type": "contains"
     }
   ]
 }

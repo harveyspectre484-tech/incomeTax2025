@@ -1,4 +1,5 @@
 {
+  "section_number": "257",
   "legal_units": [
     {
       "id": "257",
@@ -8,8 +9,8 @@
       "section_id": "257",
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
-      "text": "(1) Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023). (2) Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
-      "context_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. (1) Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023). (2) Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
+      "text": "",
+      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
       "text": "Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
-      "context_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(1): Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
+      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(1): Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
       "text": "Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
-      "context_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(2): Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
+      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(2): Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "257-1",
+      "to_id": "257",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "257",
+      "to_id": "257-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "257-2",
+      "to_id": "257",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "257",
+      "to_id": "257-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "257-1",
+      "to_id": "233",
+      "edge_type": "references",
+      "reference_text": "section 233"
+    },
+    {
+      "from_id": "257-2",
+      "to_id": "215",
+      "edge_type": "references",
+      "reference_text": "section 215"
     }
   ]
 }

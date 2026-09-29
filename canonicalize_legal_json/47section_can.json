@@ -1,4 +1,5 @@
 {
+  "section_number": "47",
   "legal_units": [
     {
       "id": "47",
@@ -8,8 +9,8 @@
       "section_id": "47",
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
-      "text": "(1) Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company, (2) If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
-      "context_text": "Section 47 Expenditure on agricultural extension project and skill development project. (1) Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company, (2) If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
+      "text": "",
+      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -27,8 +28,8 @@
       "section_id": "47",
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
-      "text": "Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company,",
-      "context_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company,",
+      "text": "Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it.",
+      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "agricultural extension project by any assessee; or",
-      "context_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company, Section 47(1)(a): agricultural extension project by any assessee; or",
+      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(a): agricultural extension project by any assessee; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "any skill development project by a company,",
-      "context_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. (a) agricultural extension project by any assessee; or (b) any skill development project by a company, Section 47(1)(b): any skill development project by a company,",
+      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(b): any skill development project by a company,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
-      "context_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(2): If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
+      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(2): If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,55 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "47-1",
+      "to_id": "47",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "47",
+      "to_id": "47-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "47-1-a",
+      "to_id": "47-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "47-1",
+      "to_id": "47-1-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "47-1-b",
+      "to_id": "47-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "47-1",
+      "to_id": "47-1-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "47-2",
+      "to_id": "47",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "47",
+      "to_id": "47-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "47-2",
+      "to_id": "47-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

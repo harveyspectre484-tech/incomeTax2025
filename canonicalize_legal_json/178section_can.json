@@ -1,4 +1,5 @@
 {
+  "section_number": "178",
   "legal_units": [
     {
       "id": "178",
@@ -8,8 +9,8 @@
       "section_id": "178",
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
-      "text": "(1) Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter. (2) The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
-      "context_text": "Section 178 Applicability of General Anti-Avoidance Rule. (1) Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter. (2) The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
+      "text": "",
+      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
       "text": "Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
-      "context_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(1): Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
+      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(1): Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
       "text": "The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
-      "context_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(2): The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
+      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(2): The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 139.99
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "178-1",
+      "to_id": "178",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "178",
+      "to_id": "178-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "178-2",
+      "to_id": "178",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "178",
+      "to_id": "178-2",
+      "edge_type": "contains"
     }
   ]
 }

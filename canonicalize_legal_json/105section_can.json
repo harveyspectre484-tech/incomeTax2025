@@ -1,4 +1,5 @@
 {
+  "section_number": "105",
   "legal_units": [
     {
       "id": "105",
@@ -8,8 +9,8 @@
       "section_id": "105",
       "section_number": "105",
       "title": "Unexplained expenditure.",
-      "text": "(1) Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer, (2) Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
-      "context_text": "Section 105 Unexplained expenditure. (1) Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer, (2) Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
+      "text": "",
+      "retrieval_text": "Section 105 Unexplained expenditure.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -27,8 +28,8 @@
       "section_id": "105",
       "section_number": "105",
       "title": "Unexplained expenditure.",
-      "text": "Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer,",
-      "context_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer,",
+      "text": "Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year.",
+      "retrieval_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "105",
       "title": "Unexplained expenditure.",
       "text": "the assessee offers no explanation about the source of such expenditure or part thereof; or",
-      "context_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer, Section 105(1)(a): the assessee offers no explanation about the source of such expenditure or part thereof; or",
+      "retrieval_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. Section 105(1)(a): the assessee offers no explanation about the source of such expenditure or part thereof; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "105",
       "title": "Unexplained expenditure.",
       "text": "the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer,",
-      "context_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. (a) the assessee offers no explanation about the source of such expenditure or part thereof; or (b) the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer, Section 105(1)(b): the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer,",
+      "retrieval_text": "Section 105 Unexplained expenditure. Section 105(1): Where any expenditure has been incurred by the assessee in any tax year, and— then, the amount covered by such expenditure or part thereof, shall be deemed to be the income of the assessee for that tax year. Section 105(1)(b): the explanation offered about the source of such expenditure by the assessee is not satisfactory in the opinion of the Assessing Officer,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "105",
       "title": "Unexplained expenditure.",
       "text": "Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
-      "context_text": "Section 105 Unexplained expenditure. Section 105(2): Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
+      "retrieval_text": "Section 105 Unexplained expenditure. Section 105(2): Irrespective of any other provision of this Act, the amount deemed as income in sub-section (1) shall not be allowed as a deduction under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,55 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 133.1
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "105-1",
+      "to_id": "105",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "105",
+      "to_id": "105-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "105-1-a",
+      "to_id": "105-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "105-1",
+      "to_id": "105-1-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "105-1-b",
+      "to_id": "105-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "105-1",
+      "to_id": "105-1-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "105-2",
+      "to_id": "105",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "105",
+      "to_id": "105-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "105-2",
+      "to_id": "105-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

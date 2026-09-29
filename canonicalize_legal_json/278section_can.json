@@ -1,4 +1,5 @@
 {
+  "section_number": "278",
   "legal_units": [
     {
       "id": "278",
@@ -8,8 +9,8 @@
       "section_id": "278",
       "section_number": "278",
       "title": "Taxability of certain income.",
-      "text": "(1) Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276. (2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved. (3) The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
-      "context_text": "Section 278 Taxability of certain income. (1) Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276. (2) Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved. (3) The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
+      "text": "",
+      "retrieval_text": "Section 278 Taxability of certain income.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
-      "context_text": "Section 278 Taxability of certain income. Section 278(1): Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
+      "retrieval_text": "Section 278 Taxability of certain income. Section 278(1): Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
-      "context_text": "Section 278 Taxability of certain income. Section 278(2): Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
+      "retrieval_text": "Section 278 Taxability of certain income. Section 278(2): Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
-      "context_text": "Section 278 Taxability of certain income. Section 278(3): The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
+      "retrieval_text": "Section 278 Taxability of certain income. Section 278(3): The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,51 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 137.34
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "278-1",
+      "to_id": "278",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "278",
+      "to_id": "278-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "278-2",
+      "to_id": "278",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "278",
+      "to_id": "278-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "278-3",
+      "to_id": "278",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "278",
+      "to_id": "278-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "278-1",
+      "to_id": "276",
+      "edge_type": "references",
+      "reference_text": "section 276"
+    },
+    {
+      "from_id": "278-3",
+      "to_id": "2-49-w",
+      "edge_type": "references",
+      "reference_text": "section 2(49)(w)"
     }
   ]
 }

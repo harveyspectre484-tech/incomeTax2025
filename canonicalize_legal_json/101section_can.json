@@ -1,4 +1,5 @@
 {
+  "section_number": "101",
   "legal_units": [
     {
       "id": "101",
@@ -9,7 +10,7 @@
       "section_number": "101",
       "title": "Total income.",
       "text": "In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
-      "context_text": "Section 101 Total income. In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
+      "retrieval_text": "Section 101 Total income. In computing the total income of an assessee, there shall be included all income on which no income-tax is payable under Chapter XVII-A4.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 111.88
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

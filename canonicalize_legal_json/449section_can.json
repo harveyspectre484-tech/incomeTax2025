@@ -1,4 +1,5 @@
 {
+  "section_number": "449",
   "legal_units": [
     {
       "id": "449",
@@ -9,7 +10,7 @@
       "section_number": "449",
       "title": "Penalty for failure to collect tax at source.",
       "text": "If any person fails to collect the whole or any part of the tax as required under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to collect.",
-      "context_text": "Section 449 Penalty for failure to collect tax at source. If any person fails to collect the whole or any part of the tax as required under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to collect.",
+      "retrieval_text": "Section 449 Penalty for failure to collect tax at source. If any person fails to collect the whole or any part of the tax as required under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to collect.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

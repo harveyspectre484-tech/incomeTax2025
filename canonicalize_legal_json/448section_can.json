@@ -1,4 +1,5 @@
 {
+  "section_number": "448",
   "legal_units": [
     {
       "id": "448",
@@ -8,8 +9,8 @@
       "section_id": "448",
       "section_number": "448",
       "title": "Penalty for failure to deduct tax at source.",
-      "text": "If any person fails to— then, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to deduct or pay or ensure payment of, as aforesaid. (a) deduct the whole or any part of the tax as required under Chapter XIX-B; or (b) pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8),",
-      "context_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— then, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to deduct or pay or ensure payment of, as aforesaid. (a) deduct the whole or any part of the tax as required under Chapter XIX-B; or (b) pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8),",
+      "text": "If any person fails to— then, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to deduct or pay or ensure payment of, as aforesaid.",
+      "retrieval_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— then, the Assessing Officer may impose on him, a penalty equal to the tax which such person failed to deduct or pay or ensure payment of, as aforesaid.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "448",
       "title": "Penalty for failure to deduct tax at source.",
       "text": "deduct the whole or any part of the tax as required under Chapter XIX-B; or",
-      "context_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(a): deduct the whole or any part of the tax as required under Chapter XIX-B; or",
+      "retrieval_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(a): deduct the whole or any part of the tax as required under Chapter XIX-B; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -46,8 +47,8 @@
       "section_id": "448",
       "section_number": "448",
       "title": "Penalty for failure to deduct tax at source.",
-      "text": "pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8),",
-      "context_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8),",
+      "text": "pay or ensure the payment of, the whole or any part of the tax as required by or under—",
+      "retrieval_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "448",
       "title": "Penalty for failure to deduct tax at source.",
       "text": "Note 2 below the Table in section 393(3); or",
-      "context_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8), Section 448(b)(i): Note 2 below the Table in section 393(3); or",
+      "retrieval_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under— Section 448(b)(i): Note 2 below the Table in section 393(3); or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "448",
       "title": "Penalty for failure to deduct tax at source.",
       "text": "Note 6 to section 393(1) (Table: Sl. No. 8),",
-      "context_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under— (i) Note 2 below the Table in section 393(3); or (ii) Note 6 to section 393(1) (Table: Sl. No. 8), Section 448(b)(ii): Note 6 to section 393(1) (Table: Sl. No. 8),",
+      "retrieval_text": "Section 448 Penalty for failure to deduct tax at source. If any person fails to— Section 448(b): pay or ensure the payment of, the whole or any part of the tax as required by or under— Section 448(b)(ii): Note 6 to section 393(1) (Table: Sl. No. 8),",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,61 @@
       "line_start": null,
       "x": 69.33,
       "y_start": 127.26
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "448-a",
+      "to_id": "448",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "448",
+      "to_id": "448-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "448-b",
+      "to_id": "448",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "448",
+      "to_id": "448-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "448-b-i",
+      "to_id": "448-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "448-b",
+      "to_id": "448-b-i",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "448-b-ii",
+      "to_id": "448-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "448-b",
+      "to_id": "448-b-ii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "448-b-i",
+      "to_id": "393-3",
+      "edge_type": "references",
+      "reference_text": "section 393(3)"
+    },
+    {
+      "from_id": "448-b-ii",
+      "to_id": "393-1",
+      "edge_type": "references",
+      "reference_text": "section 393(1)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "450",
   "legal_units": [
     {
       "id": "450",
@@ -9,7 +10,7 @@
       "section_number": "450",
       "title": "Penalty for failure to comply with provisions of section 185.",
       "text": "If a person takes or accepts any loan or deposit or specified sum in contravention of the provisions of section 185, the Assessing Officer may impose on him, a penalty equal to the amount of the loan or deposit or specified sum so taken or accepted.",
-      "context_text": "Section 450 Penalty for failure to comply with provisions of section 185. If a person takes or accepts any loan or deposit or specified sum in contravention of the provisions of section 185, the Assessing Officer may impose on him, a penalty equal to the amount of the loan or deposit or specified sum so taken or accepted.",
+      "retrieval_text": "Section 450 Penalty for failure to comply with provisions of section 185. If a person takes or accepts any loan or deposit or specified sum in contravention of the provisions of section 185, the Assessing Officer may impose on him, a penalty equal to the amount of the loan or deposit or specified sum so taken or accepted.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "450",
+      "to_id": "185",
+      "edge_type": "references",
+      "reference_text": "section 185"
     }
   ]
 }

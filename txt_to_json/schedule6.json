@@ -1,0 +1,602 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "VI",
+      "id": "schedule-VI",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "INCOME NOT TO BE INCLUDED IN TOTAL INCOME OF CERTAIN ELIGIBLE PERSONS IN INTERNATIONAL FINANCIAL SERVICES CENTRE OR HAVING INCOME THEREFROM",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-vi-3",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a tax year of any eligible person, as mentioned in column C of the Table below, the income mentioned in column B of the said Table and the income as mentioned in savings clause shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D of the said Table, shall have the meanings respectively assigned to them in the Notes below the said Table.",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-VI-t1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accrued or arisen to, or received, as a result of transfer of capital asset referred to in section 70(1)(r) where such transfer takes place on a recognised stock exchange located in any International Financial Services Centre."
+            },
+            "eligible_persons": {
+              "text": "Any specified fund."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t1-cond-a",
+                  "text": "Consideration is paid or payable in convertible foreign exchange;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t1-cond-b",
+                  "intro": "Income shall not be included in the total income to the extent such income is attributable to--",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-VI-t1-cond-b-i",
+                      "text": "units held by non-resident (not being the permanent establishment of a non-resident in India); or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-VI-t1-cond-b-ii",
+                      "text": "the investment division of offshore banking unit; and"
+                    }
+                  ]
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VI-t1-cond-c",
+                  "text": "The income exempt shall be computed in such manner as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-VI-t2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accrued or arisen to, or received, as a result of transfer of securities (other than shares in a company resident in India)."
+            },
+            "eligible_persons": {
+              "text": "Any specified fund."
+            },
+            "conditions": {
+              "text": "As specified in clauses (b) and (c) of column D against Sl. No. 1."
+            }
+          },
+          {
+            "sl_no": "3",
+            "id": "schedule-VI-t3",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income from securities issued by a non-resident where such securities are not issued by a permanent establishment of a non-resident in India."
+            },
+            "eligible_persons": {
+              "text": "Any specified fund."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t3-cond-a",
+                  "text": "Such income otherwise does not accrue or arise in India;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t3-cond-b",
+                  "text": "As specified in clauses (b) and (c) of column D against Sl. No. 1."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "4",
+            "id": "schedule-VI-t4",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income from a securitisation trust, which is chargeable under the head \"Profits and gains of business or profession\"."
+            },
+            "eligible_persons": {
+              "text": "Any specified fund."
+            },
+            "conditions": {
+              "text": "As specified in clauses (b) and (c) of column D against Sl. No. 1."
+            }
+          },
+          {
+            "sl_no": "5",
+            "id": "schedule-VI-t5",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income accrued or arisen to, or received as a result of-",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t5-income-a",
+                  "text": "transfer of non-deliverable forward contracts or offshore derivative instruments or over-the-counter derivatives; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t5-income-b",
+                  "text": "distribution of income on offshore derivative instruments or over-the-counter derivatives."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "text": "Non-resident."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t5-cond-a",
+                  "text": "Such contract, instrument or derivative is entered into with an offshore banking unit of an International Financial Services Centre as referred to in section 147 or any Foreign Portfolio Investor being a unit of an International Financial Services Centre; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t5-cond-b",
+                  "text": "it fulfils such conditions, as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "6",
+            "id": "schedule-VI-t6",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of royalty or interest on account of lease of an aircraft or a ship in a tax year."
+            },
+            "eligible_persons": {
+              "text": "Non-resident."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t6-cond-a",
+                  "text": "Such royalty or interest is paid by a unit of an International Financial Services Centre as referred to in section 147; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t6-cond-b",
+                  "text": "such unit has commenced its operations on or before the 31st March, 2030."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "7",
+            "id": "schedule-VI-t7",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income received from--",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t7-income-a",
+                  "text": "portfolio of securities or financial products or funds, managed or administered by any portfolio manager on behalf of the non-resident; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t7-income-b",
+                  "text": "such activity carried out by such person, as may be notified by the Central Government."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "text": "Non-resident."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t7-cond-a",
+                  "text": "Such income is received in an account maintained with an Offshore Banking Unit in any International Financial Services Centre as referred to in section 147; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t7-cond-b",
+                  "text": "the income not to be included in the total income shall be to the extent such income accrues or arises outside India and is not deemed to accrue or arise in India."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "8",
+            "id": "schedule-VI-t8",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of Capital gains arising from the transfer of equity shares of domestic company where such domestic company is a Unit of an International Financial Services Centre as referred to in section 147."
+            },
+            "eligible_persons": {
+              "text": "A non-resident, or a Unit of an International Financial Services Centre as referred to in section 147, engaged primarily in the business of leasing of aircraft or a ship."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t8-cond-a",
+                  "intro": "The domestic company—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-VI-t8-cond-a-i",
+                      "text": "is engaged primarily in the business of leasing of an aircraft or a ship;"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-VI-t8-cond-a-ii",
+                      "text": "has commenced operations on or before the 31st March, 2030; and"
+                    }
+                  ]
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t8-cond-b",
+                  "intro": "exclusion from total income shall be available for capital gains arising from the transfer of equity shares of such domestic company in a tax year falling within—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-VI-t8-cond-b-i",
+                      "text": "ten tax years beginning with the tax year in which the domestic company has commenced operations; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-VI-t8-cond-b-ii",
+                      "text": "ten tax years beginning with the tax year commencing on the 1st April, 2023, where the period referred to in sub-clause (i) ends before the 1st April, 2033."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "9",
+            "id": "schedule-VI-t9",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising to, or received from a specified fund or on transfer of units in a specified fund."
+            },
+            "eligible_persons": {
+              "text": "A unit holder of a specified fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "10",
+            "id": "schedule-VI-t10",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income of the nature of Capital gains, arising or received on account of transfer of share of a company resident in India."
+            },
+            "eligible_persons": {
+              "text": "Any non-resident or a specified fund."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VI-t10-cond-a",
+                  "text": "The Capital gain is on account of transfer of shares by the resultant fund or a specified fund; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VI-t10-cond-b",
+                  "text": "such shares were transferred from the original fund, or from its wholly owned special purpose vehicle, to the resultant fund in relocation, and the capital gains on such shares were not chargeable to tax if that relocation had not taken place; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VI-t10-cond-c",
+                  "text": "income not to be included in the total income shall be to the extent attributable to units held by non-residents (not being a permanent establishment of a non-resident in India) in such manner, as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "11",
+            "id": "schedule-VI-t11",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of dividends from a company being a Unit of an International Financial Services Centre primarily engaged in the business of leasing of an aircraft or a ship."
+            },
+            "eligible_persons": {
+              "text": "A Unit of any International Financial Services Centre."
+            },
+            "conditions": {
+              "text": "Such Unit is primarily engaged in the business of leasing of an aircraft or a ship."
+            }
+          },
+          {
+            "sl_no": "12",
+            "id": "schedule-VI-t12",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income by way of interest payable."
+            },
+            "eligible_persons": {
+              "text": "Non-resident."
+            },
+            "conditions": {
+              "text": "Such interest is payable by a Unit of an International Financial Services Centre in respect of moneys borrowed by it on or after the 1st September, 2019."
+            }
+          }
+        ],
+        "id": "schedule-VI-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-VI-note1",
+          "text_before_clauses": "For the purposes of Sl. Nos. 1 to 4,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-VI-note1-a",
+              "text": "\"convertible foreign exchange\" means foreign exchange which is for the time being treated by the Reserve Bank of India as convertible foreign exchange for the purposes of the Foreign Exchange Management Act, 1999 (42 of 1999) and the rules made thereunder;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-VI-note1-b",
+              "text": "\"investment division of offshore banking unit\" means an investment division of a banking unit of a non-resident located in an International Financial Services Centre as referred to in section 147 and which has commenced its operations on or before the 31st March, 2030;"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-VI-note1-c",
+              "text": "\"manager\" shall have the same meaning as assigned to it in regulation 2(1)(q) of the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-VI-note1-d",
+              "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c);"
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-VI-note1-e",
+              "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956) and shall also include such other securities or instruments as may be notified by the Central Government in this behalf;"
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "schedule-VI-note1-f",
+              "text": "\"securitisation trust\" shall have the meaning assigned to it in section 221(6)(d);"
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "schedule-VI-note1-g",
+              "intro": "\"specified fund\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-VI-note1-g-i",
+                  "intro": "a fund established or incorporated in India in the form of a trust or a company or a limited liability partnership or a body corporate and located in International Financial Services Centres,—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-VI-note1-g-i-A",
+                      "intro": "which has been granted a certificate of registration as a Category III Alternative Investment Fund and is regulated—",
+                      "sub_sub_sub_clauses": [
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "I",
+                          "id": "schedule-VI-note1-g-i-A-I",
+                          "text": "under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+                        },
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "II",
+                          "id": "schedule-VI-note1-g-i-A-II",
+                          "text": "under the International Financial Services Centres Authority (Fund Management) Regulations, 2022 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019); or"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-VI-note1-g-i-B",
+                      "text": "which has been granted a certificate as a retail scheme or an Exchange Traded Fund, and satisfies the conditions laid down for such schemes or funds under the International Financial Services Centres Authority (Fund Management) Regulations, 2022 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019);"
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "C",
+                      "id": "schedule-VI-note1-g-i-C",
+                      "intro": "of which all the units other than the unit held by a sponsor or manager are held by non-residents except,—",
+                      "sub_sub_sub_clauses": [
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "I",
+                          "id": "schedule-VI-note1-g-i-C-I",
+                          "text": "where such non-resident becomes resident under section 6(2) or (3) or (4) or (5) or (6) or (7) in any tax year subsequent to that tax year; and"
+                        },
+                        {
+                          "type": "sub_sub_sub_clause",
+                          "number": "II",
+                          "id": "schedule-VI-note1-g-i-C-II",
+                          "text": "the number of units held by such resident unit holder or holders do not exceed 5% of the total units issued and shall fulfil such other conditions as may be prescribed; or"
+                        }
+                      ],
+                      "footnote_refs": [
+                        "41"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-VI-note1-g-ii",
+                  "intro": "investment division of an offshore banking unit, which has been—",
+                  "sub_sub_clauses": [
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "A",
+                      "id": "schedule-VI-note1-g-ii-A",
+                      "text": "granted a certificate of registration as a Category-I foreign portfolio investor under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and which has commenced its operations on or before the 31st March, 2030; and",
+                      "footnote_refs": [
+                        "42"
+                      ]
+                    },
+                    {
+                      "type": "sub_sub_clause",
+                      "number": "B",
+                      "id": "schedule-VI-note1-g-ii-B",
+                      "text": "fulfils such conditions including maintenance of separate accounts for its investment division, as may be prescribed;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "schedule-VI-note1-h",
+              "text": "\"sponsor\" shall have the same meaning as assigned to it in regulation 2(1)(w) of the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992);"
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-VI-note1-i",
+              "text": "\"trust\" means a trust established under the Indian Trusts Act, 1882 (2 of 1882) or under any other law;"
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "schedule-VI-note1-j",
+              "text": "\"units\" mean beneficial interest of an investor in the fund and shall include shares or partnership interests."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-VI-note2",
+          "text": "For the purposes of Sl. No. 5,— \"Foreign Portfolio Investor\" shall mean a person registered as per the provisions of the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992)."
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-VI-note3",
+          "text_before_clauses": "For the purposes of Sl. Nos. 6, 8 and 11,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-VI-note3-a",
+              "text": "\"aircraft\" means an aircraft or a helicopter, or an engine of an aircraft or a helicopter, or any part thereof;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-VI-note3-b",
+              "text": "\"ship\" means a ship or an ocean vessel, engine of a ship or ocean vessel, or any part thereof."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-VI-note4",
+          "text": "For the purposes of Sl. No. 7,— \"portfolio manager\" shall have the same meaning as assigned to it in regulation 2(1)(z) of the International Financial Services Centres Authority (Capital Market Intermediaries) Regulations, 2021 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019)."
+        },
+        {
+          "type": "note",
+          "number": "5",
+          "id": "schedule-VI-note5",
+          "text_before_clauses": "For the purposes of Sl. No. 9,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-VI-note5-a",
+              "text": "\"specified fund\" shall have the same meaning as assigned to it in Note 1(g);"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-VI-note5-b",
+              "text": "\"unit\" means beneficial interest of an investor in the fund and shall include shares or partnership interests."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "6",
+          "id": "schedule-VI-note6",
+          "text_before_clauses": "For the purposes of Sl. No. 10,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-VI-note6-a",
+              "text": "\"original fund\", \"relocation\" and \"resultant fund\" shall have the meanings respectively assigned to them in section 70(2);"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-VI-note6-b",
+              "text": "\"specified fund\" shall have the meaning assigned to it in Note 1(g)."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "7",
+          "id": "schedule-VI-note7",
+          "text": "For the purposes of Sl. No. 12,— \"Unit\" shall have the same meaning as assigned to it in section 2(zc) of the Special Economic Zones Act, 2005 (28 of 2005)."
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "41",
+      "id": "schedule-VI-footnote41",
+      "text": "Sub. for the following by Act No. 4 of 2026, w.e.f. 1-4-2026 :",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-VI-note1-g-i-C"
+      ],
+      "prior_text": "\"of which all the units are held by non-residents except— (I) the unit held by a sponsor or manager; (II) where any unit holder or holders, being non-resident during the tax year when such unit or units were issued, becomes resident under section 6(2) or (3) or (4) or (5) or (6) or (7) in any tax year subsequent to that year; (III) in case of sub-item (II), aggregate value and the number of units held by such resident unit holder or holders do not exceed 5% of the total units issued and shall fulfil such other conditions as may be prescribed; or\""
+    },
+    {
+      "type": "footnote",
+      "number": "42",
+      "id": "schedule-VI-footnote42",
+      "text": "Sub. for \"2025\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-VI-note1-g-ii-A"
+      ]
+    }
+  ],
+  "orphans": []
+}

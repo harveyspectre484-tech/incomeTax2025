@@ -1,0 +1,120 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "VIII",
+      "id": "schedule-VIII",
+      "reference_text": "[See section 12]",
+      "reference_section": "12",
+      "title": "INCOME NOT TO BE INCLUDED IN THE TOTAL INCOME OF POLITICAL PARTIES AND ELECTORAL TRUSTS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-viii-3",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a tax year of any eligible person, being a political party or an electoral trust, as mentioned in column C of the Table below, the income mentioned in column B of the said Table shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D of the said Table, shall have the meanings respectively assigned to them in the Note below the said Table:",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-VIII-t1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income which is chargeable under the head \"Income from house property\" or \"Income from other sources\" or \"Capital gains\" or any income by way of voluntary contributions received from any person."
+            },
+            "eligible_persons": {
+              "text": "A political party registered under section 29A of the Representation of the People Act, 1951 (43 of 1951)."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VIII-t1-cond-a",
+                  "text": "Such political party keeps and maintains such books of account and other documents as would enable the Assessing Officer to properly deduce its income therefrom;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VIII-t1-cond-b",
+                  "text": "in respect of each such voluntary contribution other than contribution by way of electoral bond in excess of ₹ 20,000, such political party keeps and maintains a record of such contribution and the name and address of the person who has made such contribution;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VIII-t1-cond-c",
+                  "text": "the accounts of such political party are audited by an accountant;"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-VIII-t1-cond-d",
+                  "text": "no donation exceeding ₹ 2,000 is received by such political party otherwise than by an account payee cheque drawn on a bank or an account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as may be prescribed or through electoral bond;"
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-VIII-t1-cond-e",
+                  "text": "the treasurer of such political party or any other person authorised by that political party in this behalf submits a report under section 29C(3) of the Representation of the People Act, 1951 (43 of 1951) for such tax year; and"
+                },
+                {
+                  "marker": "f",
+                  "id": "schedule-VIII-t1-cond-f",
+                  "text": "such political party furnishes a return of income for the tax year as per the provisions of section 263(1)(a)(iii) and 263(2) on or before the due date referred to in section 263(1)(c)."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-VIII-t2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any voluntary contributions received."
+            },
+            "eligible_persons": {
+              "text": "An electoral trust."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VIII-t2-cond-a",
+                  "text": "Such electoral trust distributes to any political party, registered under section 29A of the Representation of the People Act, 1951 (43 of 1951), during the said tax year, 95% of the aggregate donations received by it during the said tax year along with the surplus, if any, brought forward from any earlier tax year; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VIII-t2-cond-b",
+                  "text": "such electoral trust functions as per the rules made by the Central Government."
+                }
+              ]
+            }
+          }
+        ],
+        "id": "schedule-VIII-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": null,
+          "id": "schedule-VIII-note",
+          "caption": "Note",
+          "text": "For the purposes of this Schedule, \"electoral bond\" means a bond referred to in the Explanation to section 31(3) of the Reserve Bank of India Act, 1934 (2 of 1934)."
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [],
+  "orphans": []
+}

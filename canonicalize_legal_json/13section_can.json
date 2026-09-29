@@ -1,4 +1,5 @@
 {
+  "section_number": "13",
   "legal_units": [
     {
       "id": "13",
@@ -8,8 +9,8 @@
       "section_id": "13",
       "section_number": "13",
       "title": "Heads of income.",
-      "text": "Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— (a) Salaries; (b) Income from house property; (c) Profits and gains of business or profession; (d) Capital gains; and (e) Income from other sources.",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— (a) Salaries; (b) Income from house property; (c) Profits and gains of business or profession; (d) Capital gains; and (e) Income from other sources.",
+      "text": "Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:—",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "13",
       "title": "Heads of income.",
       "text": "Salaries;",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(a): Salaries;",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(a): Salaries;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "13",
       "title": "Heads of income.",
       "text": "Income from house property;",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(b): Income from house property;",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(b): Income from house property;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "13",
       "title": "Heads of income.",
       "text": "Profits and gains of business or profession;",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(c): Profits and gains of business or profession;",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(c): Profits and gains of business or profession;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "13",
       "title": "Heads of income.",
       "text": "Capital gains; and",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(d): Capital gains; and",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(d): Capital gains; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -104,7 +105,7 @@
       "section_number": "13",
       "title": "Heads of income.",
       "text": "Income from other sources.",
-      "context_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(e): Income from other sources.",
+      "retrieval_text": "Section 13 Heads of income. Save as otherwise provided in this Act, all incomes shall, for the purposes of charge of income-tax and computation of total income, be classified under the following heads of income:— Section 13(e): Income from other sources.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -113,6 +114,59 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 197.28
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "13-a",
+      "to_id": "13",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "13",
+      "to_id": "13-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "13-b",
+      "to_id": "13",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "13",
+      "to_id": "13-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "13-c",
+      "to_id": "13",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "13",
+      "to_id": "13-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "13-d",
+      "to_id": "13",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "13",
+      "to_id": "13-d",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "13-e",
+      "to_id": "13",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "13",
+      "to_id": "13-e",
+      "edge_type": "contains"
     }
   ]
 }

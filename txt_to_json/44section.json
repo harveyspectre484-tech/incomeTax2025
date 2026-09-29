@@ -20,23 +20,12 @@
           "y_start": 80.59,
           "page_start": 1,
           "page_end": 1,
-          "text": "If an assessee, being an Indian company or a person (other than a company), who is resident in India, incurs any expenditure specified in sub-section",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "2",
-          "id": "44-2",
-          "x": 27.62,
-          "y_start": 93.32,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "—",
+          "text_before_clauses": "If an assessee, being an Indian company or a person (other than a company), who is resident in India, incurs any expenditure specified in sub-section (2)",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
-              "id": "44-2-a",
+              "id": "44-1-a",
               "x": 40.8,
               "y_start": 108.17,
               "page_start": 1,
@@ -47,17 +36,17 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "44-2-b",
+              "id": "44-1-b",
               "x": 40.8,
               "y_start": 118.78,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "after the commencement of its business, in connection with the extension of its undertaking or in connection with its setting up a new unit,",
+              "text_before_sub_clauses": "after the commencement of its business, in connection with the extension of its undertaking or in connection with its setting up a new unit,the assessee shall be allowed a deduction of an amount equal to one-fifth of such expenditure for each of the five successive tax years beginning with—",
               "sub_clauses": [
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "44-2-b-i",
+                  "id": "44-1-b-i",
                   "x": 42.68,
                   "y_start": 144.77,
                   "page_start": 1,
@@ -68,7 +57,7 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "44-2-b-ii",
+                  "id": "44-1-b-ii",
                   "x": 40.26,
                   "y_start": 155.38,
                   "page_start": 1,
@@ -80,7 +69,7 @@
               "text_after_sub_clauses": ""
             }
           ],
-          "text_after_clauses": "the assessee shall be allowed a deduction of an amount equal to one-fifth of such expenditure for each of the five successive tax years beginning with—"
+          "text_after_clauses": ""
         },
         {
           "type": "subsection",

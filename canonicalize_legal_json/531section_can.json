@@ -1,4 +1,5 @@
 {
+  "section_number": "531",
   "legal_units": [
     {
       "id": "531",
@@ -9,7 +10,7 @@
       "section_number": "531",
       "title": "Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961.",
       "text": "Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
-      "context_text": "Section 531 Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961. Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
+      "retrieval_text": "Section 531 Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961. Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,62 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-1961-43",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "A of the Income-tax Act, 1961 (43 of 1961)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-294a",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "locator_text": "section 294A",
+      "section": "294A",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 294A of the Income-tax Act, 1961 (43 of 1961)"
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "531",
+      "to_id": "ext-india-act-1961-43-section-294a",
+      "edge_type": "references_external",
+      "reference_text": "section 294A of the Income-tax Act, 1961 (43 of 1961)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "294A",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

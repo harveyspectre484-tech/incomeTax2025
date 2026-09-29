@@ -1,4 +1,5 @@
 {
+  "section_number": "457",
   "legal_units": [
     {
       "id": "457",
@@ -9,7 +10,7 @@
       "section_number": "457",
       "title": "Penalty for failure to furnish information or document under section 171.",
       "text": "If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
-      "context_text": "Section 457 Penalty for failure to furnish information or document under section 171. If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
+      "retrieval_text": "Section 457 Penalty for failure to furnish information or document under section 171. If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "457",
+      "to_id": "171-2",
+      "edge_type": "references",
+      "reference_text": "section 171(2)"
+    },
+    {
+      "from_id": "457",
+      "to_id": "166",
+      "edge_type": "references",
+      "reference_text": "section 166"
     }
   ]
 }

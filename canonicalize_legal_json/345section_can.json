@@ -1,4 +1,5 @@
 {
+  "section_number": "345",
   "legal_units": [
     {
       "id": "345",
@@ -8,8 +9,8 @@
       "section_id": "345",
       "section_number": "345",
       "title": "Restriction on commercial activities by a registered non-profit organisation.",
-      "text": "A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— (a) such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and (b) separate books of account are maintained for such activities.",
-      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— (a) such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and (b) separate books of account are maintained for such activities.",
+      "text": "A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless—",
+      "retrieval_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "345",
       "title": "Restriction on commercial activities by a registered non-profit organisation.",
       "text": "such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
-      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(a): such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
+      "retrieval_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(a): such commercial activity is incidental to the attainment of the objectives of the registered non-profit organisation; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "345",
       "title": "Restriction on commercial activities by a registered non-profit organisation.",
       "text": "separate books of account are maintained for such activities.",
-      "context_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(b): separate books of account are maintained for such activities.",
+      "retrieval_text": "Section 345 Restriction on commercial activities by a registered non-profit organisation. A registered non-profit organisation (other than a registered non-profit organisation mentioned in section 346) shall not carry out any commercial activity unless— Section 345(b): separate books of account are maintained for such activities.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 118.78
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "345-a",
+      "to_id": "345",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "345",
+      "to_id": "345-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "345-b",
+      "to_id": "345",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "345",
+      "to_id": "345-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "345",
+      "to_id": "346",
+      "edge_type": "references",
+      "reference_text": "section 346"
     }
   ]
 }

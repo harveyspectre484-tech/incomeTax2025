@@ -1,4 +1,5 @@
 {
+  "section_number": "445",
   "legal_units": [
     {
       "id": "445",
@@ -8,8 +9,8 @@
       "section_id": "445",
       "section_number": "445",
       "title": "Benefits to related persons.",
-      "text": "If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— (a) a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and (b) a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
-      "context_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— (a) a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and (b) a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
+      "text": "If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of—",
+      "retrieval_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "445",
       "title": "Benefits to related persons.",
       "text": "a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and",
-      "context_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— Section 445(a): a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and",
+      "retrieval_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— Section 445(a): a sum equal to the aggregate amount of income applied, directly or indirectly, by such person, for the benefit of any related person referred to in section 355(h), if the violation is noticed for the first time during any tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "445",
       "title": "Benefits to related persons.",
       "text": "a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
-      "context_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— Section 445(b): a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
+      "retrieval_text": "Section 445 Benefits to related persons. If during any proceedings under this Act, it is found that a person being a registered non-profit organisation has any specified income which is chargeable to tax as per section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a penalty of— Section 445(b): a sum equal to 200% of the aggregate amount of income of such person applied, directly or indirectly, by that person for the benefit of any person referred to in section 355(h), if the violation is noticed again in any subsequent tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,47 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 128.33
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "445-a",
+      "to_id": "445",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "445",
+      "to_id": "445-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "445-b",
+      "to_id": "445",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "445",
+      "to_id": "445-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "445",
+      "to_id": "337",
+      "edge_type": "references",
+      "reference_text": "section 337"
+    },
+    {
+      "from_id": "445-a",
+      "to_id": "355-h",
+      "edge_type": "references",
+      "reference_text": "section 355(h)"
+    },
+    {
+      "from_id": "445-b",
+      "to_id": "355-h",
+      "edge_type": "references",
+      "reference_text": "section 355(h)"
     }
   ]
 }

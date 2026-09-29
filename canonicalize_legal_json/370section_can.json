@@ -1,4 +1,5 @@
 {
+  "section_number": "370",
   "legal_units": [
     {
       "id": "370",
@@ -9,7 +10,7 @@
       "section_number": "370",
       "title": "Execution for costs awarded by Supreme Court.",
       "text": "The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
-      "context_text": "Section 370 Execution for costs awarded by Supreme Court. The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
+      "retrieval_text": "Section 370 Execution for costs awarded by Supreme Court. The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

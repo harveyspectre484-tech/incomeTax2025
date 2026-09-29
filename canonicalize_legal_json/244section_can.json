@@ -1,4 +1,5 @@
 {
+  "section_number": "244",
   "legal_units": [
     {
       "id": "244",
@@ -8,8 +9,8 @@
       "section_id": "244",
       "section_number": "244",
       "title": "Change of incumbent of an office.",
-      "text": "(1) Whenever, in respect of any proceeding under this Act, an income-tax authority ceases to exercise jurisdiction and is succeeded by another who has and exercises jurisdiction, the income-tax authority so succeeding may continue the proceeding from the stage at which the proceeding was left by his predecessor. (2) Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him.",
-      "context_text": "Section 244 Change of incumbent of an office. (1) Whenever, in respect of any proceeding under this Act, an income-tax authority ceases to exercise jurisdiction and is succeeded by another who has and exercises jurisdiction, the income-tax authority so succeeding may continue the proceeding from the stage at which the proceeding was left by his predecessor. (2) Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him.",
+      "text": "",
+      "retrieval_text": "Section 244 Change of incumbent of an office.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "244",
       "title": "Change of incumbent of an office.",
       "text": "Whenever, in respect of any proceeding under this Act, an income-tax authority ceases to exercise jurisdiction and is succeeded by another who has and exercises jurisdiction, the income-tax authority so succeeding may continue the proceeding from the stage at which the proceeding was left by his predecessor.",
-      "context_text": "Section 244 Change of incumbent of an office. Section 244(1): Whenever, in respect of any proceeding under this Act, an income-tax authority ceases to exercise jurisdiction and is succeeded by another who has and exercises jurisdiction, the income-tax authority so succeeding may continue the proceeding from the stage at which the proceeding was left by his predecessor.",
+      "retrieval_text": "Section 244 Change of incumbent of an office. Section 244(1): Whenever, in respect of any proceeding under this Act, an income-tax authority ceases to exercise jurisdiction and is succeeded by another who has and exercises jurisdiction, the income-tax authority so succeeding may continue the proceeding from the stage at which the proceeding was left by his predecessor.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -46,8 +47,8 @@
       "section_id": "244",
       "section_number": "244",
       "title": "Change of incumbent of an office.",
-      "text": "Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him.",
-      "context_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him.",
+      "text": "Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that––",
+      "retrieval_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that––",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "244",
       "title": "Change of incumbent of an office.",
       "text": "the previous proceeding or any part thereof be reopened; or",
-      "context_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him. Section 244(2)(a): the previous proceeding or any part thereof be reopened; or",
+      "retrieval_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– Section 244(2)(a): the previous proceeding or any part thereof be reopened; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "244",
       "title": "Change of incumbent of an office.",
       "text": "he be reheard before any order of assessment is passed against him.",
-      "context_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– (a) the previous proceeding or any part thereof be reopened; or (b) he be reheard before any order of assessment is passed against him. Section 244(2)(b): he be reheard before any order of assessment is passed against him.",
+      "retrieval_text": "Section 244 Change of incumbent of an office. Section 244(2): Before the proceeding referred to in sub-section (1) is so continued, the assessee concerned may demand that–– Section 244(2)(b): he be reheard before any order of assessment is passed against him.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,55 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 146.89
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "244-1",
+      "to_id": "244",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "244",
+      "to_id": "244-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "244-2",
+      "to_id": "244",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "244",
+      "to_id": "244-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "244-2-a",
+      "to_id": "244-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "244-2",
+      "to_id": "244-2-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "244-2-b",
+      "to_id": "244-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "244-2",
+      "to_id": "244-2-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "244-2",
+      "to_id": "244-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

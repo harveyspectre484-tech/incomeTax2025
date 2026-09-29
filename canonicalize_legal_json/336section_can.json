@@ -1,4 +1,5 @@
 {
+  "section_number": "336",
   "legal_units": [
     {
       "id": "336",
@@ -8,8 +9,8 @@
       "section_id": "336",
       "section_number": "336",
       "title": "Taxable regular income.",
-      "text": "The taxable regular income of a registered non-profit organisation for any tax year shall be— (a) nil, where 85% or more of the regular income of such tax year has been applied as per provisions of section 341 or accumulated under section 342 for charitable or religious purposes, in such tax year as per the provisions of this Part; and (b) in any other case, 85% of the regular income for such tax year as reduced by its application for charitable or religious purposes as per provisions of section 341 or accumulation thereof under section 342 in such tax year as per the provisions of this Part.",
-      "context_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be— (a) nil, where 85% or more of the regular income of such tax year has been applied as per provisions of section 341 or accumulated under section 342 for charitable or religious purposes, in such tax year as per the provisions of this Part; and (b) in any other case, 85% of the regular income for such tax year as reduced by its application for charitable or religious purposes as per provisions of section 341 or accumulation thereof under section 342 in such tax year as per the provisions of this Part.",
+      "text": "The taxable regular income of a registered non-profit organisation for any tax year shall be—",
+      "retrieval_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "336",
       "title": "Taxable regular income.",
       "text": "nil, where 85% or more of the regular income of such tax year has been applied as per provisions of section 341 or accumulated under section 342 for charitable or religious purposes, in such tax year as per the provisions of this Part; and",
-      "context_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be— Section 336(a): nil, where 85% or more of the regular income of such tax year has been applied as per provisions of section 341 or accumulated under section 342 for charitable or religious purposes, in such tax year as per the provisions of this Part; and",
+      "retrieval_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be— Section 336(a): nil, where 85% or more of the regular income of such tax year has been applied as per provisions of section 341 or accumulated under section 342 for charitable or religious purposes, in such tax year as per the provisions of this Part; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "336",
       "title": "Taxable regular income.",
       "text": "in any other case, 85% of the regular income for such tax year as reduced by its application for charitable or religious purposes as per provisions of section 341 or accumulation thereof under section 342 in such tax year as per the provisions of this Part.",
-      "context_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be— Section 336(b): in any other case, 85% of the regular income for such tax year as reduced by its application for charitable or religious purposes as per provisions of section 341 or accumulation thereof under section 342 in such tax year as per the provisions of this Part.",
+      "retrieval_text": "Section 336 Taxable regular income. The taxable regular income of a registered non-profit organisation for any tax year shall be— Section 336(b): in any other case, 85% of the regular income for such tax year as reduced by its application for charitable or religious purposes as per provisions of section 341 or accumulation thereof under section 342 in such tax year as per the provisions of this Part.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,53 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 115.6
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "336-a",
+      "to_id": "336",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "336",
+      "to_id": "336-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "336-b",
+      "to_id": "336",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "336",
+      "to_id": "336-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "336-a",
+      "to_id": "341",
+      "edge_type": "references",
+      "reference_text": "section 341"
+    },
+    {
+      "from_id": "336-a",
+      "to_id": "342",
+      "edge_type": "references",
+      "reference_text": "section 342"
+    },
+    {
+      "from_id": "336-b",
+      "to_id": "341",
+      "edge_type": "references",
+      "reference_text": "section 341"
+    },
+    {
+      "from_id": "336-b",
+      "to_id": "342",
+      "edge_type": "references",
+      "reference_text": "section 342"
     }
   ]
 }

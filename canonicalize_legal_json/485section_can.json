@@ -1,4 +1,5 @@
 {
+  "section_number": "485",
   "legal_units": [
     {
       "id": "485",
@@ -9,7 +10,7 @@
       "section_number": "485",
       "title": "Punishment for second and subsequent offences.",
       "text": "If any person convicted of an offence under section 476, 477, 478(1), 479, 480, 482 or 484 is again convicted of an offence under any of the said",
-      "context_text": "Section 485 Punishment for second and subsequent offences. If any person convicted of an offence under section 476, 477, 478(1), 479, 480, 482 or 484 is again convicted of an offence under any of the said",
+      "retrieval_text": "Section 485 Punishment for second and subsequent offences. If any person convicted of an offence under section 476, 477, 478(1), 479, 480, 482 or 484 is again convicted of an offence under any of the said",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "485",
+      "to_id": "476",
+      "edge_type": "references",
+      "reference_text": "section 476"
     }
   ]
 }

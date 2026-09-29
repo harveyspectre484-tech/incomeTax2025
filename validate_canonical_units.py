@@ -26,15 +26,20 @@ def main() -> None:
     rows: list[dict[str, Any]] = []
     total_errors = 0
     total_warnings = 0
+    total_infos = 0
+    global_unit_ids = load_global_unit_ids(canonical_dir)
+    external_identity_conflicts = load_external_identity_conflicts(canonical_dir)
 
     for raw_path in sorted(raw_dir.glob("*section.json"), key=section_sort_key):
         section_no = section_number_from_name(raw_path.name)
         can_path = canonical_dir / f"{section_no}section_can.json"
-        issues = validate_pair(raw_path, can_path)
+        issues = validate_pair(raw_path, can_path, global_unit_ids, external_identity_conflicts)
         errors = [issue for issue in issues if issue["severity"] == "ERROR"]
         warnings = [issue for issue in issues if issue["severity"] == "WARN"]
+        infos = [issue for issue in issues if issue["severity"] == "INFO"]
         total_errors += len(errors)
         total_warnings += len(warnings)
+        total_infos += len(infos)
         if issues:
             rows.extend(issues)
         else:
@@ -43,6 +48,7 @@ def main() -> None:
                     "section": section_no,
                     "severity": "OK",
                     "code": "ok",
+                    "unit_id": "",
                     "message": "No structural issues found.",
                     "file": str(can_path),
                 }
@@ -50,7 +56,7 @@ def main() -> None:
 
     report_path.parent.mkdir(parents=True, exist_ok=True)
     with report_path.open("w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=["section", "severity", "code", "message", "file"])
+        writer = csv.DictWriter(fh, fieldnames=["section", "severity", "code", "unit_id", "message", "file"])
         writer.writeheader()
         writer.writerows(rows)
 
@@ -62,10 +68,16 @@ def main() -> None:
     print(f"Sections with issues: {issue_count}")
     print(f"Errors: {total_errors}")
     print(f"Warnings: {total_warnings}")
+    print(f"Informational: {total_infos}")
     print(f"Report: {report_path}")
 
 
-def validate_pair(raw_path: Path, can_path: Path) -> list[dict[str, str]]:
+def validate_pair(
+    raw_path: Path,
+    can_path: Path,
+    global_unit_ids: set[str] | None = None,
+    external_identity_conflicts: set[tuple[str, str]] | None = None,
+) -> list[dict[str, str]]:
     section_no = section_number_from_name(raw_path.name)
     issues: list[dict[str, str]] = []
 
@@ -94,6 +106,7 @@ def validate_pair(raw_path: Path, can_path: Path) -> list[dict[str, str]]:
     expected_ids = {item["id"] for item in expected if item["id"]}
     actual_ids = [str(unit.get("id", "")) for unit in units]
     actual_id_set = set(actual_ids)
+    mapped_source_ids = {str(unit.get("source_id")) for unit in units if unit.get("source_id")}
 
     for unit_id, count in Counter(actual_ids).items():
         if count > 1:
@@ -116,7 +129,7 @@ def validate_pair(raw_path: Path, can_path: Path) -> list[dict[str, str]]:
             )
         )
 
-    for required_id in sorted(expected_ids - actual_id_set, key=natural_key):
+    for required_id in sorted(expected_ids - actual_id_set - mapped_source_ids, key=natural_key):
         issues.append(issue(section_no, "ERROR", "missing_expected_unit", f"Missing expected unit id: {required_id}", can_path))
 
     unexpected = sorted(actual_id_set - expected_ids, key=natural_key)
@@ -124,25 +137,75 @@ def validate_pair(raw_path: Path, can_path: Path) -> list[dict[str, str]]:
         unit = next((item for item in units if str(item.get("id")) == unit_id), {})
         if unit.get("generated_from_inline_text"):
             continue
-        if unit.get("unit_type") in {"table", "table_row", "table_cell_item"}:
+        if unit.get("unit_type") in {"table", "table_row", "table_cell_item", "longline", "longline_clause"}:
             continue
         issues.append(issue(section_no, "WARN", "unexpected_unit", f"Unit was not predicted from raw hierarchy: {unit_id}", can_path))
 
     valid_parent_ids = actual_id_set | {None}
+    units_with_children = {unit.get("parent_id") for unit in units if unit.get("parent_id") is not None}
     for unit in units:
         unit_id = str(unit.get("id", ""))
         parent_id = unit.get("parent_id")
         if parent_id not in valid_parent_ids:
             issues.append(issue(section_no, "ERROR", "bad_parent_id", f"{unit_id} has missing parent_id: {parent_id}", can_path))
-        if clean(unit.get("text", "")) == "":
+        if clean(unit.get("text", "")) == "" and unit_id not in units_with_children:
             issues.append(issue(section_no, "ERROR", "empty_text", f"{unit_id} has empty text.", can_path))
-        if clean(unit.get("context_text", "")) == "":
-            issues.append(issue(section_no, "ERROR", "empty_context_text", f"{unit_id} has empty context_text.", can_path))
+        if clean(unit.get("retrieval_text", "")) == "":
+            issues.append(issue(section_no, "ERROR", "empty_retrieval_text", f"{unit_id} has empty retrieval_text.", can_path))
         citation = clean(unit.get("citation", ""))
-        if citation and section_no not in citation:
-            citation_section = citation_section_number(citation)
-            if citation_section and citation_section != str(unit.get("section_number")):
-                issues.append(issue(section_no, "WARN", "citation_mismatch", f"{unit_id} citation may not match section: {citation}", can_path))
+        citation_section = citation_section_number(citation)
+        if citation_section and citation_section != str(unit.get("section_number")):
+            issues.append(issue(section_no, "WARN", "citation_mismatch", f"{unit_id} citation may not match section: {citation}", can_path))
+
+    catalog = global_unit_ids or actual_id_set
+    for edge in canonical.get("graph_edges", []) or []:
+        from_id = str(edge.get("from_id", ""))
+        to_id = str(edge.get("to_id", ""))
+        edge_type = str(edge.get("edge_type", ""))
+        if from_id not in catalog:
+            issues.append(issue(section_no, "ERROR", "bad_edge_source", f"Edge source does not exist: {from_id}", can_path, from_id))
+            continue
+        if edge_type in {"references_external", "references_external_act"}:
+            identity = (normalize_title(edge.get("target_act_title", "")), str(edge.get("target_act_number", "")))
+            if identity in (external_identity_conflicts or set()):
+                issues.append(
+                    issue(
+                        section_no,
+                        "WARN",
+                        "external_act_identity_conflict",
+                        f"External Act identity appears with conflicting enactment years: {edge.get('reference_text', '')}",
+                        can_path,
+                        from_id,
+                    )
+                )
+            else:
+                issues.append(
+                    issue(
+                        section_no,
+                        "INFO",
+                        "external_reference_pending",
+                        f"External target is represented by placeholder '{to_id}'.",
+                        can_path,
+                        from_id,
+                    )
+                )
+            continue
+        if to_id in catalog or is_external_reference(to_id):
+            continue
+        if edge_type == "references":
+            reference_text = clean(edge.get("reference_text", ""))
+            issues.append(
+                issue(
+                    section_no,
+                    "INFO",
+                    "unresolved_reference",
+                    f"Cross-reference text '{reference_text}' targets '{to_id}' (not in catalog).",
+                    can_path,
+                    from_id,
+                )
+            )
+        else:
+            issues.append(issue(section_no, "ERROR", "bad_edge_target", f"{edge_type} edge targets missing unit: {to_id}", can_path, from_id))
 
     raw_tables = find_tables(raw)
     actual_tables = [unit for unit in units if unit.get("unit_type") == "table"]
@@ -225,11 +288,19 @@ def find_tables(value: Any) -> list[dict[str, Any]]:
     return tables
 
 
-def issue(section: str, severity: str, code: str, message: str, file_path: Path) -> dict[str, str]:
+def issue(
+    section: str,
+    severity: str,
+    code: str,
+    message: str,
+    file_path: Path,
+    unit_id: str = "",
+) -> dict[str, str]:
     return {
         "section": section,
         "severity": severity,
         "code": code,
+        "unit_id": unit_id,
         "message": message,
         "file": str(file_path),
     }
@@ -237,6 +308,41 @@ def issue(section: str, severity: str, code: str, message: str, file_path: Path)
 
 def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_global_unit_ids(canonical_dir: Path) -> set[str]:
+    ids: set[str] = set()
+    for path in canonical_dir.glob("*section_can.json"):
+        try:
+            data = load_json(path)
+        except Exception:
+            continue
+        ids.update(str(unit.get("id")) for unit in data.get("legal_units", []) if unit.get("id"))
+        ids.update(str(node.get("id")) for node in data.get("external_nodes", []) if node.get("id"))
+    return ids
+
+
+def load_external_identity_conflicts(canonical_dir: Path) -> set[tuple[str, str]]:
+    years_by_identity: defaultdict[tuple[str, str], set[str]] = defaultdict(set)
+    for path in canonical_dir.glob("*section_can.json"):
+        try:
+            data = load_json(path)
+        except Exception:
+            continue
+        for node in data.get("external_nodes", []) or []:
+            if node.get("node_type") != "external_act_placeholder":
+                continue
+            identity = (normalize_title(node.get("act_title", "")), str(node.get("act_number", "")))
+            years_by_identity[identity].add(str(node.get("act_year", "")))
+    return {identity for identity, years in years_by_identity.items() if len(years) > 1}
+
+
+def normalize_title(value: Any) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", str(value).lower()).strip()
+
+
+def is_external_reference(target_id: str) -> bool:
+    return target_id.startswith("schedule-") or "-act-" in target_id.lower() or target_id.lower().endswith("-act")
 
 
 def section_number_from_name(name: str) -> str:

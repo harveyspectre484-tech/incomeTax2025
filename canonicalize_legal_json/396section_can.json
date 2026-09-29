@@ -1,4 +1,5 @@
 {
+  "section_number": "396",
   "legal_units": [
     {
       "id": "396",
@@ -8,8 +9,8 @@
       "section_id": "396",
       "section_number": "396",
       "title": "Tax deducted is income received.",
-      "text": "The following sums shall be deemed as income received for the purposes of computing the income of an assessee— (a) sums deducted under this Chapter; and (b) income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).",
-      "context_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee— (a) sums deducted under this Chapter; and (b) income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).",
+      "text": "The following sums shall be deemed as income received for the purposes of computing the income of an assessee—",
+      "retrieval_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "396",
       "title": "Tax deducted is income received.",
       "text": "sums deducted under this Chapter; and",
-      "context_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee— Section 396(a): sums deducted under this Chapter; and",
+      "retrieval_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee— Section 396(a): sums deducted under this Chapter; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "396",
       "title": "Tax deducted is income received.",
       "text": "income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).",
-      "context_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee— Section 396(b): income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).",
+      "retrieval_text": "Section 396 Tax deducted is income received. The following sums shall be deemed as income received for the purposes of computing the income of an assessee— Section 396(b): income-tax paid outside India by way of deduction in respect of which an assessee is allowed a credit against the tax payable under this Act, except tax paid under section 392(2)(a) and tax deducted as per section 393(3) (Table: Sl. No. 5).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 106.05
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "396-a",
+      "to_id": "396",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "396",
+      "to_id": "396-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "396-b",
+      "to_id": "396",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "396",
+      "to_id": "396-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "396-b",
+      "to_id": "392-2-a",
+      "edge_type": "references",
+      "reference_text": "section 392(2)(a)"
+    },
+    {
+      "from_id": "396-b",
+      "to_id": "393-3",
+      "edge_type": "references",
+      "reference_text": "section 393(3)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "350",
   "legal_units": [
     {
       "id": "350",
@@ -8,8 +9,8 @@
       "section_id": "350",
       "section_number": "350",
       "title": "Permitted modes of investment.",
-      "text": "(1) The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI . (2) The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
-      "context_text": "Section 350 Permitted modes of investment. (1) The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI . (2) The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
+      "text": "",
+      "retrieval_text": "Section 350 Permitted modes of investment.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "350",
       "title": "Permitted modes of investment.",
       "text": "The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
-      "context_text": "Section 350 Permitted modes of investment. Section 350(1): The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
+      "retrieval_text": "Section 350 Permitted modes of investment. Section 350(1): The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "350",
       "title": "Permitted modes of investment.",
       "text": "The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
-      "context_text": "Section 350 Permitted modes of investment. Section 350(2): The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
+      "retrieval_text": "Section 350 Permitted modes of investment. Section 350(2): The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 96.5
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "350-1",
+      "to_id": "350",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "350",
+      "to_id": "350-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "350-2",
+      "to_id": "350",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "350",
+      "to_id": "350-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "350-1",
+      "to_id": "schedule-16",
+      "edge_type": "references",
+      "reference_text": "Schedule XVI"
+    },
+    {
+      "from_id": "350-2",
+      "to_id": "schedule-16",
+      "edge_type": "references",
+      "reference_text": "Schedule XVI"
     }
   ]
 }

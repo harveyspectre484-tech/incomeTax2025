@@ -623,13 +623,25 @@
                                     "line_start": 63,
                                     "page_start": 1,
                                     "page_end": 1,
-                                    "text": "an investment fund specified in section 224(10)(a) which has invested such securities in accordance with the provisions of the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) or under the International Financial Services Centres Authority Act, 2019 (50 of 2019); (c) any unit linked insurance policy to which exemption under Schedule II (Table: Sl. No. 2) does not apply, but does not include—",
+                                    "text": "an investment fund specified in section 224(10)(a) which has invested such securities in accordance with the provisions of the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) or under the International Financial Services Centres Authority Act, 2019 (50 of 2019);",
                                     "children": []
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "number": "c",
+                            "id": "2-22-c",
+                            "indent": 0,
+                            "line_start": 61,
+                            "page_start": 1,
+                            "page_end": 1,
+                            "text_before_sub_clauses": "any unit linked insurance policy to which exemption under Schedule II (Table: Sl. No. 2) does not apply,but does not include—",
+                            "sub_clauses": [
                                 {
                                     "type": "sub_clause",
                                     "number": "i",
-                                    "id": "2-22-b-i",
+                                    "id": "2-22-c-i",
                                     "indent": 0,
                                     "line_start": 66,
                                     "page_start": 1,
@@ -640,7 +652,7 @@
                                 {
                                     "type": "sub_clause",
                                     "number": "ii",
-                                    "id": "2-22-b-ii",
+                                    "id": "2-22-c-ii",
                                     "indent": 0,
                                     "line_start": 67,
                                     "page_start": 1,
@@ -651,7 +663,7 @@
                                 {
                                     "type": "sub_clause",
                                     "number": "iii",
-                                    "id": "2-22-b-iii",
+                                    "id": "2-22-c-iii",
                                     "indent": 0,
                                     "line_start": 68,
                                     "page_start": 1,

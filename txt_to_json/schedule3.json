@@ -1,0 +1,1444 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "III",
+      "id": "schedule-III",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "INCOME NOT TO BE INCLUDED IN TOTAL INCOME OF ELIGIBLE PERSONS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-iii-7",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "In computing the total income of a tax year of any eligible person mentioned in column C of the Table below, the income mentioned in column B of the said Table shall not be included, subject to the conditions mentioned in column D of the said Table, and the expressions used in columns B to D therein shall have the meanings respectively assigned to them in the Notes below the said Table:",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Income not to be included in total income",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-III-t1",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any sum received by a member from Hindu undivided family."
+            },
+            "eligible_persons": {
+              "text": "An individual who is a member of a Hindu undivided family."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t1-cond-a",
+                  "text": "Such sum is not covered under the provisions of section 99(3) and (4); and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t1-cond-b",
+                  "intro": "such sum has been paid out of—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-III-t1-cond-b-i",
+                      "text": "the income of the family; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-III-t1-cond-b-ii",
+                      "text": "the income of the estate belonging to the family, in the case of any impartible estate."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-III-t2",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any sum received by a partner towards his share in the total income of the firm."
+            },
+            "eligible_persons": {
+              "text": "A person who is a partner of a firm separately assessed as such."
+            },
+            "conditions": {
+              "text": "The sum received as share in profit is as per the profit-sharing ratio provided in the partnership deed."
+            }
+          },
+          {
+            "sl_no": "3",
+            "id": "schedule-III-t3",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any amount received or receivable from the Central Government or a State Government or a local authority by way of compensation on account of any disaster."
+            },
+            "eligible_persons": {
+              "text": "Any individual or his legal heir."
+            },
+            "conditions": {
+              "text": "No deduction of this amount was allowed earlier under this Act on account of any loss or damage caused by such disaster to such individual or his legal heir."
+            }
+          },
+          {
+            "sl_no": "4",
+            "id": "schedule-III-t4",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any payment from the National Pension System Trust under the pension scheme referred to in section 124."
+            },
+            "eligible_persons": {
+              "items": [
+                {
+                  "marker": "i",
+                  "id": "schedule-III-t4-person-i",
+                  "text": "Any employee; or"
+                },
+                {
+                  "marker": "ii",
+                  "id": "schedule-III-t4-person-ii",
+                  "text": "an assessee, being the guardian or parent of a minor."
+                }
+              ]
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t4-cond-a",
+                  "text": "Such payment is on partial withdrawal made out of his account or the account of the minor, as the case may be, as per the terms and conditions specified under the Pension Fund Regulatory and Development Authority Act, 2013 (23 of 2013) and the regulations made thereunder; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t4-cond-b",
+                  "text": "exclusion shall not exceed 25% of the amount of contributions made by him."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "5",
+            "id": "schedule-III-t5",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Daily allowance received."
+            },
+            "eligible_persons": {
+              "text": "Any person by reason of his membership of Parliament or of any State Legislature or of any Committee thereof."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "6",
+            "id": "schedule-III-t6",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any allowance received."
+            },
+            "eligible_persons": {
+              "text": "Any person by reason of his membership of Parliament under the Members of Parliament (Constituency Allowance) Rules, 1986 made under the Salary, Allowances and Pension of Members of Parliament Act, 1954 (30 of 1954)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "7",
+            "id": "schedule-III-t7",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any constituency allowance received."
+            },
+            "eligible_persons": {
+              "text": "Any person by reason of his membership of any State Legislature under any State Act or rules made thereunder."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "8",
+            "id": "schedule-III-t8",
+            "income_not_to_be_included_in_total_income": {
+              "text": "The value of any travel concession or assistance."
+            },
+            "eligible_persons": {
+              "text": "Any individual."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t8-cond-a",
+                  "intro": "Such sum is received by, or due to, such individual—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-III-t8-cond-a-i",
+                      "text": "from his employer for himself and his family, in connection with his proceeding on leave to any place in India;"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-III-t8-cond-a-ii",
+                      "text": "from his employer or former employer for himself and his family, in connection with his proceeding to any place in India after retirement from service or after the termination of his service;"
+                    }
+                  ]
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t8-cond-b",
+                  "text": "such sum is subject to such conditions as may be prescribed (including conditions as to number of journeys and the amount which shall be exempt per head);"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t8-cond-c",
+                  "text": "the conditions in clause (b) shall have regard to the travel concession or assistance granted to the employees of the Central Government; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-III-t8-cond-d",
+                  "text": "the sum not included in the total income shall in no case exceed the amount of expenses actually incurred for the purpose of such travel."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "9",
+            "id": "schedule-III-t9",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any allowances or perquisites paid or allowed as such outside India by the Government."
+            },
+            "eligible_persons": {
+              "text": "A citizen of India."
+            },
+            "conditions": {
+              "text": "Such sum is paid or allowed for rendering service outside India."
+            }
+          },
+          {
+            "sl_no": "10",
+            "id": "schedule-III-t10",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Income in the nature of a perquisite."
+            },
+            "eligible_persons": {
+              "text": "An employee, being an individual."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t10-cond-a",
+                  "text": "Such perquisite is not provided for by way of monetary payment, within the meaning of section 17(1); and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t10-cond-b",
+                  "text": "the tax on such income actually paid by his employer, at the option of the employer, on behalf of such employee."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "11",
+            "id": "schedule-III-t11",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any special allowance from employer."
+            },
+            "eligible_persons": {
+              "text": "Any assessee."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t11-cond-a",
+                  "text": "Such allowance is specifically granted to meet expenditure actually incurred on payment of rent (by whatever name called) in respect of residential accommodation occupied by the assessee;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t11-cond-b",
+                  "text": "such allowance is to such extent as may be prescribed having regard to the area or place in which such accommodation is situated and other relevant considerations;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t11-cond-c",
+                  "text": "the residential accommodation occupied by the assessee is not owned by him; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-III-t11-cond-d",
+                  "text": "the assessee has actually incurred expenditure on payment of rent (by whatever name called) in respect of the residential accommodation occupied by him."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "12",
+            "id": "schedule-III-t12",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any special allowance or benefit to the extent to which such expenses are actually incurred for that purpose."
+            },
+            "eligible_persons": {
+              "text": "Any assessee."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t12-cond-a",
+                  "text": "Such allowance or benefit is not in the nature of a perquisite within the meaning of section 17(1); and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t12-cond-b",
+                  "text": "such allowance or benefit is specifically granted to meet expenses wholly, necessarily and exclusively incurred in the performance of the duties of an office or employment of profit, as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "13",
+            "id": "schedule-III-t13",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any allowance."
+            },
+            "eligible_persons": {
+              "text": "Any assessee."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t13-cond-a",
+                  "intro": "Such allowance is granted to the assessee,—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-III-t13-cond-a-i",
+                      "text": "to meet his personal expenses at the place where the duties of his office or place of employment of profit are ordinarily performed by him or at the place where he ordinarily resides; or"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-III-t13-cond-a-ii",
+                      "text": "to compensate him for the increased cost of living,"
+                    }
+                  ],
+                  "text_after_items": "to the extent as may be prescribed; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t13-cond-b",
+                  "text": "any allowance to remunerate or compensate for performing duties of a special nature relating to office or employment shall not be excluded from total income unless such allowance is related to the place of his posting or residence."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "14",
+            "id": "schedule-III-t14",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Pension received."
+            },
+            "eligible_persons": {
+              "text": "An individual who has been in the service of the Central Government or State Government and has been awarded \"ParamVir Chakra\" or \"Maha Vir Chakra\" or \"Vir Chakra\" or such other gallantry award as the Central Government may, by notification, specify in this behalf."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "15",
+            "id": "schedule-III-t15",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Family pension received."
+            },
+            "eligible_persons": {
+              "text": "Any member of the family of an individual referred against serial number 14."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "16",
+            "id": "schedule-III-t16",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Family pension received."
+            },
+            "eligible_persons": {
+              "text": "Widow or children or nominated heirs of a member of the armed forces (including paramilitary forces) of the Union."
+            },
+            "conditions": {
+              "text": "The death of such member has occurred in the course of operational duties in such circumstances and subject to such conditions, as may be prescribed."
+            }
+          },
+          {
+            "sl_no": "17",
+            "id": "schedule-III-t17",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income includible in the total income under section 99(1)(c)."
+            },
+            "eligible_persons": {
+              "text": "In case of an individual referred to in that sub-section."
+            },
+            "conditions": {
+              "text": "Exclusion of such income from the total income is to the extent such income does not exceed ₹ 1,500 in respect of each minor child whose income is so includible."
+            }
+          },
+          {
+            "sl_no": "18",
+            "id": "schedule-III-t18",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income chargeable under the head \"Capital gains\" arising from the transfer of agricultural land."
+            },
+            "eligible_persons": {
+              "text": "An individual or a Hindu undivided family."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t18-cond-a",
+                  "text": "Such land is situated in any area referred to in section 2(22)(iii);"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t18-cond-b",
+                  "text": "such land, during the period of two years immediately preceding the date of transfer, was being used for agricultural purposes by such Hindu undivided family or individual or a parent of his;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t18-cond-c",
+                  "text": "such transfer is by way of compulsory acquisition under any law, or a transfer, the consideration for which is determined or approved by the Central Government or the Reserve Bank of India; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-III-t18-cond-d",
+                  "text": "such income has arisen from the compensation or consideration for such transfer received by such assessee on or after the 1st April, 2004."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "19",
+            "id": "schedule-III-t19",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income which accrues or arises—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t19-income-a",
+                  "text": "from any source in the areas or States mentioned in column C; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t19-income-b",
+                  "text": "by way of dividend or interest on securities."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "intro": "A member of a Scheduled Tribe,—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t19-person-a",
+                  "text": "as defined in article 366(25) of the Constitution; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t19-person-b",
+                  "text": "residing in any area specified in Part I or II of the Table appended to paragraph 20 of the Sixth Schedule to the Constitution or in the States of Arunachal Pradesh, Manipur, Mizoram, Nagaland and Tripura or in the areas covered by notification No. TAD/R/35/50/ 109, dated the 23rd February, 1951, issued by the Governor of Assam under the proviso to the said paragraph 20(3) [as it stood immediately before the commencement of the North-Eastern Areas (Reorganisation) Act, 1971 (18 of 1971) or in the Union territory of Ladakh]."
+                }
+              ]
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "20",
+            "id": "schedule-III-t20",
+            "income_not_to_be_included_in_total_income": {
+              "intro": "Any income which accrues or arises-",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t20-income-a",
+                  "text": "from any source in the State of Sikkim; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t20-income-b",
+                  "text": "by way of dividend or interest on securities."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "text": "An individual, being a Sikkimese."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "21",
+            "id": "schedule-III-t21",
+            "income_not_to_be_included_in_total_income": {
+              "text": "The amount of any subsidy received from or through the concerned Board under a scheme."
+            },
+            "eligible_persons": {
+              "text": "An assessee who carries on the business of growing and manufacturing tea, rubber, coffee, cardamom or such other commodity in India as may be notified by the Central Government."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t21-cond-a",
+                  "text": "Such scheme is for replantation or replacement of tea bushes, rubber plants, coffee plants, cardamom plants or plants for the growing of such other commodity or for rejuvenation or consolidation of areas used for cultivation of tea, rubber, coffee, cardamom or such other commodity;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t21-cond-b",
+                  "text": "such scheme is notified by the Central Government; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t21-cond-c",
+                  "text": "the assessee furnishes to the Assessing Officer, along with his return of income for the tax year concerned or within such further time as the Assessing Officer may allow, a certificate from the concerned Board, as to the amount of such subsidy paid to the assessee during the tax year."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "22",
+            "id": "schedule-III-t22",
+            "income_not_to_be_included_in_total_income": {
+              "text": "The income which is chargeable under the head \"Income from house property\", \"Capital gains\" or \"Income from other sources\" or from a trade or business."
+            },
+            "eligible_persons": {
+              "text": "Any local authority."
+            },
+            "conditions": {
+              "intro": "Income from trade or business is eligible for exclusion from total income if such income accrues or arises from the supply of—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t22-cond-a",
+                  "text": "a commodity or service (not being water or electricity) within its own jurisdictional area; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t22-cond-b",
+                  "text": "water or electricity within or outside its own jurisdictional area."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "23",
+            "id": "schedule-III-t23",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income of a research association."
+            },
+            "eligible_persons": {
+              "text": "A research association for the time being approved for the purpose of section 45(3)(a)."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t23-cond-a",
+                  "text": "Applies its income or accumulates it for application, wholly and exclusively to the objects for which it is established;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t23-cond-b",
+                  "text": "invests its funds received in the forms or modes specified in section 350;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t23-cond-c",
+                  "text": "satisfies such conditions as may be prescribed; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-III-t23-cond-d",
+                  "text": "the procedure for withdrawal of approval granted shall be in such manner as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "24",
+            "id": "schedule-III-t24",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income (other than income chargeable under the head \"Income from house property\" or any income received for rendering any specific services or income by way of interest or dividends derived from its investments)."
+            },
+            "eligible_persons": {
+              "text": "An association or institution established in India having as its object the control, supervision, regulation or encouragement of the profession of, law, medicine, accountancy, engineering or architecture or such other profession as the Central Government may, by notification specify in this behalf."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t24-cond-a",
+                  "text": "The association or institution applies its income, or accumulates it for application, solely to the objects for which it is established;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t24-cond-b",
+                  "text": "the association or institution is for the time being approved by the Central Government by general or special order; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t24-cond-c",
+                  "text": "the procedure for withdrawal of approval granted shall be in such manner, as may be prescribed."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "25",
+            "id": "schedule-III-t25",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income attributable to the business of production, sale, or marketing, of khadi or products of village industries."
+            },
+            "eligible_persons": {
+              "text": "An institution constituted as a public charitable trust or registered under the Societies Registration Act, 1860 (21 of 1860), or under any other law corresponding to that Act in force in any part of India."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t25-cond-a",
+                  "text": "Such institution exists solely for the development of khadi or village industries or both, and not for the purposes of profit;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t25-cond-b",
+                  "text": "such institution applies its income, or accumulates it for application, solely for the development of khadi or village industries, or both;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t25-cond-c",
+                  "text": "such institution is approved for such purpose by the Khadi and Village Industries Commission for a period not exceeding three tax years at any one time; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-III-t25-cond-d",
+                  "text": "the procedure for withdrawal of approval granted shall be in such manner as may be prescribed"
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "26",
+            "id": "schedule-III-t26",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income from the activity of securitisation."
+            },
+            "eligible_persons": {
+              "text": "A securitisation trust."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "27",
+            "id": "schedule-III-t27",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income, by way of contributions received from recognised stock exchanges and the members thereof."
+            },
+            "eligible_persons": {
+              "text": "Any Investor Protection Fund set up by recognised stock exchanges in India, either jointly or separately."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t27-cond-a",
+                  "text": "Such fund is notified by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t27-cond-b",
+                  "text": "where any amount standing to the credit of the Fund and not charged to income-tax during any tax year is shared, either wholly or in part, with a recognised stock exchange, the whole of the amount so shared shall be deemed to be the income of the tax year in which such amount is so shared and shall accordingly be chargeable to income-tax."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "28",
+            "id": "schedule-III-t28",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income, by way of contributions received from commodity exchanges and the members thereof."
+            },
+            "eligible_persons": {
+              "text": "Any Investor Protection Fund set up by commodity exchanges in India, either jointly or separately."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t28-cond-a",
+                  "text": "Such fund is notified by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t28-cond-b",
+                  "text": "where any amount standing to the credit of the said Fund and not charged to income-tax during any tax year is shared, either wholly or in part, with a commodity exchange, the whole of the amount so shared shall be deemed to be the income of the tax year in which such amount is so shared and shall accordingly be chargeable to income-tax."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "29",
+            "id": "schedule-III-t29",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income, by way of contributions received from a depository."
+            },
+            "eligible_persons": {
+              "text": "Any Investor Protection Fund set up as per the regulations by a depository."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t29-cond-a",
+                  "text": "Such fund is notified by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t29-cond-b",
+                  "text": "where any amount standing to the credit of the Fund and not charged to income-tax during any tax year is shared, either wholly or in part with a depository, the whole of the amount so shared shall be deemed to be the income of the tax year in which such amount is so shared and shall, accordingly, be chargeable to income-tax."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "30",
+            "id": "schedule-III-t30",
+            "income_not_to_be_included_in_total_income": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t30-income-a",
+                  "text": "Any income by way of contribution received from specified persons;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t30-income-b",
+                  "text": "any income by way of penalties imposed by the recognised clearing corporation and credited to the Core Settlement Guarantee Fund;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t30-income-c",
+                  "text": "any income from investment made by the Fund."
+                }
+              ]
+            },
+            "eligible_persons": {
+              "text": "Any Core Settlement Guarantee Fund, set up by a recognised clearing corporation."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t30-cond-a",
+                  "text": "Such fund is notified by the Central Government; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t30-cond-b",
+                  "text": "where any amount standing to the credit of the Fund and not charged to income-tax during any tax year is shared, either wholly or in part with the specified person, the whole of the amount so shared shall be deemed to be the income of the tax year in which such amount is so shared and shall, accordingly, be chargeable to income-tax."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "31",
+            "id": "schedule-III-t31",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income chargeable under the heads \"Income from house property\" and \"Income from other sources\"."
+            },
+            "eligible_persons": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t31-person-a",
+                  "text": "A registered union within the meaning of the Trade Unions Act, 1926 (16 of 1926), formed primarily for the purpose of regulating the relations between workmen and employers or between workmen and workmen; or"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t31-person-b",
+                  "text": "an association of registered unions referred to in clause (a)."
+                }
+              ]
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "32",
+            "id": "schedule-III-t32",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any interest on securities, and any capital gains of the fund arising from the sale, exchange or transfer of such securities."
+            },
+            "eligible_persons": {
+              "text": "Provident Fund to which the Provident Funds Act, 1925 (19 of 1925) applies."
+            },
+            "conditions": {
+              "text": "Such securities are held by, or are the property of such Provident Fund."
+            }
+          },
+          {
+            "sl_no": "33",
+            "id": "schedule-III-t33",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income of the nature and to the extent, arising from the international sporting event held in India."
+            },
+            "eligible_persons": {
+              "text": "Any person notified by the Central Government."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t33-cond-a",
+                  "intro": "Such international sporting event—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-III-t33-cond-a-i",
+                      "text": "is approved by the international body regulating the international sport relating to such event;"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-III-t33-cond-a-ii",
+                      "text": "has participation by more than two countries; and"
+                    },
+                    {
+                      "marker": "iii",
+                      "id": "schedule-III-t33-cond-a-iii",
+                      "text": "is notified by the Central Government for the purposes of this clause; and"
+                    }
+                  ]
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t33-cond-b",
+                  "text": "nature and extent of such income is notified by the Central Government."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "34",
+            "id": "schedule-III-t34",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income, of the nature and to the extent, which the Central Government may notify in this behalf."
+            },
+            "eligible_persons": {
+              "text": "A body or authority which has been established or constituted or appointed under a treaty or an agreement entered into by the Central Government with two or more countries or a convention signed by the Central Government."
+            },
+            "conditions": {
+              "intro": "Such body or authority—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t34-cond-a",
+                  "text": "is established or constituted or appointed not for the purposes of profit; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t34-cond-b",
+                  "text": "is notified by the Central Government."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "35",
+            "id": "schedule-III-t35",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any amount received as a loan, either in lump sum or in instalment, in a transaction of reverse mortgage referred to in section 70(1)(zh)."
+            },
+            "eligible_persons": {
+              "text": "Any individual."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "36",
+            "id": "schedule-III-t36",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income of the nature and to the extent which the Central Government may, by notification, specify in this behalf."
+            },
+            "eligible_persons": {
+              "text": "A body or authority or Board or Trust or Commission (by whatever name called), or a class thereof, other than those covered under Schedule VII (Table: Sl. No. 42)."
+            },
+            "conditions": {
+              "intro": "Such body or authority or Board or Trust or Commission-",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t36-cond-a",
+                  "text": "has been established or constituted by or under a Central Act, State or Provincial Act, or constituted by the Central Government or a State Government, with the object of regulating or administering any activity for the benefit of the general public;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t36-cond-b",
+                  "text": "is not engaged in any commercial activity; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t36-cond-c",
+                  "text": "is notified by the Central Government."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "37",
+            "id": "schedule-III-t37",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income accruing or arising as a result of arrangement for replenishment of crude oil stored in its storage facility in pursuance of the directions of the Central Government in this behalf."
+            },
+            "eligible_persons": {
+              "text": "Indian Strategic Petroleum Reserves Limited, being a wholly owned subsidiary of the Oil Industry Development Board under the Ministry of Petroleum and Natural Gas."
+            },
+            "conditions": {
+              "text": "It shall not apply to an arrangement, if the crude oil is not replenished in the storage facility within three years from the end of the tax year in which the crude oil was removed from the storage facility for the first time."
+            }
+          },
+          {
+            "sl_no": "38",
+            "id": "schedule-III-t38",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any gratuity computed as per the provisions of section 19(1)(Table: Sl. No. 3.C) to (Table: Sl. No. 6.C)."
+            },
+            "eligible_persons": {
+              "text": "Any widow, children or dependants on death of an employee."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "38A",
+            "id": "schedule-III-t38A",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Disability Pension received (including service element and disability element)."
+            },
+            "eligible_persons": {
+              "text": "An individual who has been a member of the armed forces (including paramilitary forces) of the Union."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t38A-cond-a",
+                  "text": "The individual has been invalided out of service in the armed forces on account of bodily disability attributable to, or aggravated by such service; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t38A-cond-b",
+                  "text": "the individual has not retired on superannuation or otherwise."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "37"
+            ]
+          },
+          {
+            "sl_no": "38B",
+            "id": "schedule-III-t38B",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any interest on compensation amount awarded by Motor Accident Claims Tribunal."
+            },
+            "eligible_persons": {
+              "text": "An individual or his legal heir."
+            },
+            "conditions": {
+              "text": "Such interest is received under the Motor Vehicles Act, 1988 (59 of 1988)."
+            },
+            "footnote_refs": [
+              "37"
+            ]
+          },
+          {
+            "sl_no": "38C",
+            "id": "schedule-III-t38C",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income in respect of any award or agreement made on account of compulsory acquisition of any land."
+            },
+            "eligible_persons": {
+              "text": "An individual or a Hindu undivided family."
+            },
+            "conditions": {
+              "text": "Such award or agreement is made under the provisions of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (30 of 2013), except under section 46 of the said Act."
+            },
+            "footnote_refs": [
+              "37"
+            ]
+          },
+          {
+            "sl_no": "38D",
+            "id": "schedule-III-t38D",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income chargeable under the head \"Capital gains\" arising from the transfer of specified capital asset."
+            },
+            "eligible_persons": {
+              "text": "An individual or a Hindu undivided family."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-III-t38D-cond-a",
+                  "text": "Such eligible person was the owner of such specified capital asset as on the 2nd June, 2014;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-III-t38D-cond-b",
+                  "text": "such specified capital asset is transferred under the Land Pooling Scheme covered under the Andhra Pradesh Capital City Land Pooling Scheme (Formulation and Implementation) Rules, 2015 made under the provisions of the Andhra Pradesh Capital Region Development Authority Act, 2014 (Andhra Pradesh Act 11 of 2014) and the rules, regulations and Schemes made under the said Act; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-III-t38D-cond-c",
+                  "text": "such eligible person was handed over possession of reconstituted plot or land on or before the 31st March, 2031."
+                }
+              ]
+            },
+            "footnote_refs": [
+              "37"
+            ]
+          },
+          {
+            "sl_no": "39",
+            "id": "schedule-III-t39",
+            "income_not_to_be_included_in_total_income": {
+              "text": "Any income falling under section 10(15)(iic) or (15)(iv)(i) or (19A) or (40) of the Income-tax Act, 1961(43 of 1961), shall be subject to the conditions as provided therein."
+            },
+            "eligible_persons": {
+              "text": ""
+            },
+            "conditions": {
+              "text": ""
+            }
+          }
+        ],
+        "id": "schedule-III-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-III-note1",
+          "text": "For the purposes of Sl. No. 3, the expression \"disaster\" shall have the same meaning as assigned to it in section 2(d) of the Disaster Management Act, 2005 (53 of 2005)."
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-III-note2",
+          "text_before_clauses": "For the purposes of Sl. Nos. 8 and 15, the expression \"family\" in relation to an individual, means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-III-note2-i",
+              "text": "the spouse and children of the individual; and"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "schedule-III-note2-ii",
+              "text": "the parents, brothers and sisters of the individual or any of them, wholly or mainly dependent on the individual."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-III-note3",
+          "text": "For the purposes of Sl. No. 18, the expression \"compensation or consideration\" includes the compensation or consideration enhanced or further enhanced by any court, Tribunal or other authority."
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-III-note4",
+          "text_before_clauses": "For the purposes of Sl. No. 20, the expression \"Sikkimese\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-III-note4-i",
+              "text": "an individual, whose name is recorded in the register maintained under the Sikkim Subjects Regulation, 1961 read with the Sikkim Subject Rules, 1961 (herein referred to as the \"Register of Sikkim Subjects\"), immediately before the 26th April, 1975;"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "schedule-III-note4-ii",
+              "text": "an individual, whose name is included in the Register of Sikkim Subjects by virtue of the Government of India Order No. 26030/36/90-I.C.I., dated the 7th August, 1990 and Order of even number dated the 8th April, 1991;"
+            },
+            {
+              "type": "clause",
+              "number": "iii",
+              "id": "schedule-III-note4-iii",
+              "text": "any other individual, whose name does not appear in the Register of Sikkim Subjects, but it is established beyond doubt that the name of the father or husband or paternal grand-father or brother from the same father of such individual has been recorded in that register;"
+            },
+            {
+              "type": "clause",
+              "number": "iv",
+              "id": "schedule-III-note4-iv",
+              "text": "any other individual, whose name does not appear in the Register of Sikkim Subjects but it is established that such individual was domiciled in Sikkim on or before the 26th April, 1975; or"
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "schedule-III-note4-v",
+              "text": "any other individual, who was not domiciled in Sikkim on or before the 26th April, 1975, but it is established beyond doubt that the father or husband or paternal grand-father or brother from the same father of such individual was domiciled in Sikkim on or before the 26th April, 1975."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "5",
+          "id": "schedule-III-note5",
+          "text_before_clauses": "For the purposes of Sl. No. 21, the expression \"concerned Board\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-III-note5-i",
+              "text": "in relation to tea, the Tea Board shall mean the Tea Board established under section 4 of the Tea Act, 1953 (29 of 1953);"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "schedule-III-note5-ii",
+              "text": "in relation to rubber, the Rubber Board constituted under section 4 of the Rubber Act, 1947 (24 of 1947);"
+            },
+            {
+              "type": "clause",
+              "number": "iii",
+              "id": "schedule-III-note5-iii",
+              "text": "in relation to coffee, the Coffee Board constituted under section 4 of the Coffee Act, 1942 (7 of 1942);"
+            },
+            {
+              "type": "clause",
+              "number": "iv",
+              "id": "schedule-III-note5-iv",
+              "text": "in relation to cardamom, the Spices Board constituted under section 3 of the Spices Board Act, 1986 (10 of 1986);"
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "schedule-III-note5-v",
+              "text": "in relation to any other commodity, any Board or other authority established under any law for the time being in force which the Central Government may, by notification, specify in this behalf."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "6",
+          "id": "schedule-III-note6",
+          "text_before_clauses": "For the purposes of Sl. No. 22, the expression \"local authority\" means—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-III-note6-i",
+              "text": "Panchayat as referred to in article 243(d) of the Constitution; or"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "schedule-III-note6-ii",
+              "text": "Municipality as referred to in article 243P(e) of the Constitution; or"
+            },
+            {
+              "type": "clause",
+              "number": "iii",
+              "id": "schedule-III-note6-iii",
+              "text": "Municipal Committee and District Board, legally entitled to, or entrusted by the Government with, the control or management of a Municipal or local fund; or"
+            },
+            {
+              "type": "clause",
+              "number": "iv",
+              "id": "schedule-III-note6-iv",
+              "text": "Cantonment Board constituted under section 3 of the Cantonments Act, 2006 (4 of 2006)."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "7",
+          "id": "schedule-III-note7",
+          "text_before_clauses": "For the purposes of Sl. No. 25,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note7-a",
+              "text": "\"Khadi and Village Industries Commission\" means the Khadi and Village Industries Commission established under the Khadi and Village Industries Commission Act, 1956 (61 of 1956); and"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note7-b",
+              "text": "\"khadi\" and \"village industries\" shall have the same meanings as respectively assigned to them in that Act."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "8",
+          "id": "schedule-III-note8",
+          "text_before_clauses": "For the purposes of Sl. No. 26,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note8-a",
+              "intro": "\"securitisation\" shall have the same meaning as assigned to it,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-III-note8-a-i",
+                  "text": "in regulation 2(1)(r) of the Securities and Exchange Board of India (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and the Securities Contracts (Regulation) Act, 1956 (42 of 1956); or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-III-note8-a-ii",
+                  "text": "in section 2(1)(z) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002); or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-III-note8-a-iii",
+                  "text": "under the guidelines on securitisation of standard assets issued by the Reserve Bank of India;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note8-b",
+              "text": "\"securitisation trust\" shall have the meaning assigned to it in section 221(6)(d)."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "9",
+          "id": "schedule-III-note9",
+          "text": "For the purposes of Sl. No. 28,— \"commodity exchange\" shall mean a registered association as defined in section 2(jj) of the Forward Contracts (Regulation) Act, 1952 (74 of 1952)."
+        },
+        {
+          "type": "note",
+          "number": "10",
+          "id": "schedule-III-note10",
+          "text_before_clauses": "For the purposes of Sl. No. 29,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note10-a",
+              "text": "\"depository\" shall have the same meaning as assigned to it in section 2(1)(e) of the Depositories Act, 1996 (22 of 1996);"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note10-b",
+              "text": "\"regulations\" shall mean the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and the Depositories Act, 1996 (22 of 1996)."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "11",
+          "id": "schedule-III-note11",
+          "text_before_clauses": "For the purposes of Sl. No. 30,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note11-a",
+              "intro": "\"recognised clearing corporation\" shall have the same meaning as assigned to it in—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-III-note11-a-i",
+                  "text": "regulation 2(1)(p) of the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2018 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992) and the Securities Contracts (Regulation) Act, 1956 (42 of 1956); or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-III-note11-a-ii",
+                  "text": "regulation 2(1)(n) of the International Financial Services Centres Authority (Market Infrastructure Institutions) Regulations, 2021 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note11-b",
+              "intro": "\"regulations\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-III-note11-b-i",
+                  "text": "the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2018 made under the Securities Contracts (Regulation) Act, 1956 (42 of 1956); or"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-III-note11-b-ii",
+                  "text": "the International Financial Services Centres Authority (Market Infrastructure Institutions) Regulations, 2021 made under the International Financial Services Centres Authority Act, 2019 (50 of 2019);"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-III-note11-c",
+              "intro": "\"specified person\" means—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-III-note11-c-i",
+                  "text": "any recognised clearing corporation which establishes and maintains the Core Settlement Guarantee Fund;"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-III-note11-c-ii",
+                  "text": "any recognised stock exchange, being a shareholder in such recognised clearing corporation, or a contributor to the Core Settlement Guarantee Fund; and"
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-III-note11-c-iii",
+                  "text": "any clearing member contributing to the Core Settlement Guarantee Fund."
+                }
+              ]
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "12",
+          "id": "schedule-III-note12",
+          "text_before_clauses": "For the purposes of Sl. No. 38A,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note12-a",
+              "text": "the provisions as mentioned against the said serial number shall apply on or after such date as may be notified by the Central Government in this behalf; and"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note12-b",
+              "text": "pending such notification, the entire disability pension, that is, disability element and service element of a disabled officer of the Indian armed forces shall be exempt from income-tax."
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "38"
+          ]
+        },
+        {
+          "type": "note",
+          "number": "13",
+          "id": "schedule-III-note13",
+          "text_before_clauses": "For the purposes of Sl. No. 38D, \"specified capital asset\" means —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-III-note13-a",
+              "text": "the land or building or both owned by the assessee as on the 2nd June, 2014 and which has been transferred under the Scheme; or"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-III-note13-b",
+              "text": "the land pooling ownership certificate issued under the Scheme to the assessee in respect of land or building or both referred to in clause (a); or"
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-III-note13-c",
+              "text": "the reconstituted plot or land, as the case may be, received by the assessee in lieu of land or building or both referred to in clause (a) in accordance with the Scheme, if such plot or land, as the case may be, so received is transferred within two years from the end of the financial year in which the possession of such plot or land was handed over to him."
+            }
+          ],
+          "text_after_clauses": "",
+          "footnote_refs": [
+            "38"
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "37",
+      "id": "schedule-III-footnote37",
+      "text": "Sl. Nos. 38A to 38D inserted by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "applies_to": [
+        "schedule-III-t38A",
+        "schedule-III-t38B",
+        "schedule-III-t38C",
+        "schedule-III-t38D"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "38",
+      "id": "schedule-III-footnote38",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "applies_to": [
+        "schedule-III-note12",
+        "schedule-III-note13"
+      ]
+    }
+  ],
+  "orphans": []
+}

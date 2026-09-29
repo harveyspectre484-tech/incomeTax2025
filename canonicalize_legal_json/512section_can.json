@@ -1,4 +1,5 @@
 {
+  "section_number": "512",
   "legal_units": [
     {
       "id": "512",
@@ -8,8 +9,8 @@
       "section_id": "512",
       "section_number": "512",
       "title": "Publication of information respecting assessees in certain cases.",
-      "text": "(1) If the Central Government is of the opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may publish such names and particulars in such manner as it thinks fit. (2) No publication under this section shall be made for any penalty imposed under this Act, until the time for filing an appeal under section 356 or 357 has expired and no appeal has been filed, or if an appeal is filed, it has been disposed of. (3) The names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published under sub-section (1), if, in the opinion of the Central Government, the circumstances of the case justify it.",
-      "context_text": "Section 512 Publication of information respecting assessees in certain cases. (1) If the Central Government is of the opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may publish such names and particulars in such manner as it thinks fit. (2) No publication under this section shall be made for any penalty imposed under this Act, until the time for filing an appeal under section 356 or 357 has expired and no appeal has been filed, or if an appeal is filed, it has been disposed of. (3) The names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published under sub-section (1), if, in the opinion of the Central Government, the circumstances of the case justify it.",
+      "text": "",
+      "retrieval_text": "Section 512 Publication of information respecting assessees in certain cases.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "512",
       "title": "Publication of information respecting assessees in certain cases.",
       "text": "If the Central Government is of the opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may publish such names and particulars in such manner as it thinks fit.",
-      "context_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(1): If the Central Government is of the opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may publish such names and particulars in such manner as it thinks fit.",
+      "retrieval_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(1): If the Central Government is of the opinion that it is necessary or expedient in the public interest to publish the names of any assessees and any other particulars relating to any proceedings or prosecutions under this Act in respect of such assessees, it may publish such names and particulars in such manner as it thinks fit.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "512",
       "title": "Publication of information respecting assessees in certain cases.",
       "text": "No publication under this section shall be made for any penalty imposed under this Act, until the time for filing an appeal under section 356 or 357 has expired and no appeal has been filed, or if an appeal is filed, it has been disposed of.",
-      "context_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(2): No publication under this section shall be made for any penalty imposed under this Act, until the time for filing an appeal under section 356 or 357 has expired and no appeal has been filed, or if an appeal is filed, it has been disposed of.",
+      "retrieval_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(2): No publication under this section shall be made for any penalty imposed under this Act, until the time for filing an appeal under section 356 or 357 has expired and no appeal has been filed, or if an appeal is filed, it has been disposed of.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "512",
       "title": "Publication of information respecting assessees in certain cases.",
       "text": "The names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published under sub-section (1), if, in the opinion of the Central Government, the circumstances of the case justify it.",
-      "context_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(3): The names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published under sub-section (1), if, in the opinion of the Central Government, the circumstances of the case justify it.",
+      "retrieval_text": "Section 512 Publication of information respecting assessees in certain cases. Section 512(3): The names of the partners of the firm, directors, managing agents, secretaries and treasurers, or managers of the company, or the members of the association, as the case may be, may also be published under sub-section (1), if, in the opinion of the Central Government, the circumstances of the case justify it.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,51 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "512-1",
+      "to_id": "512",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "512",
+      "to_id": "512-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "512-2",
+      "to_id": "512",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "512",
+      "to_id": "512-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "512-3",
+      "to_id": "512",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "512",
+      "to_id": "512-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "512-2",
+      "to_id": "356",
+      "edge_type": "references",
+      "reference_text": "section 356"
+    },
+    {
+      "from_id": "512-3",
+      "to_id": "512-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

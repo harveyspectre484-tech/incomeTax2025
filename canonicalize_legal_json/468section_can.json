@@ -1,4 +1,5 @@
 {
+  "section_number": "468",
   "legal_units": [
     {
       "id": "468",
@@ -8,8 +9,8 @@
       "section_id": "468",
       "section_number": "468",
       "title": "Penalty for failure to comply with the provisions of section 397.",
-      "text": "(1) If a person fails to comply with the provisions of section 397, the Assessing Officer may impose a penalty of Rs. 10000 on him. (2) If a person, required to quote his Tax Deduction and Collection Account Number in challans, certificates, statements or other documents referred to in section 397(1)(b), quotes a number which is false, knowing or believing it to be false or not true, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
-      "context_text": "Section 468 Penalty for failure to comply with the provisions of section 397. (1) If a person fails to comply with the provisions of section 397, the Assessing Officer may impose a penalty of Rs. 10000 on him. (2) If a person, required to quote his Tax Deduction and Collection Account Number in challans, certificates, statements or other documents referred to in section 397(1)(b), quotes a number which is false, knowing or believing it to be false or not true, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
+      "text": "",
+      "retrieval_text": "Section 468 Penalty for failure to comply with the provisions of section 397.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "468",
       "title": "Penalty for failure to comply with the provisions of section 397.",
       "text": "If a person fails to comply with the provisions of section 397, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
-      "context_text": "Section 468 Penalty for failure to comply with the provisions of section 397. Section 468(1): If a person fails to comply with the provisions of section 397, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
+      "retrieval_text": "Section 468 Penalty for failure to comply with the provisions of section 397. Section 468(1): If a person fails to comply with the provisions of section 397, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "468",
       "title": "Penalty for failure to comply with the provisions of section 397.",
       "text": "If a person, required to quote his Tax Deduction and Collection Account Number in challans, certificates, statements or other documents referred to in section 397(1)(b), quotes a number which is false, knowing or believing it to be false or not true, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
-      "context_text": "Section 468 Penalty for failure to comply with the provisions of section 397. Section 468(2): If a person, required to quote his Tax Deduction and Collection Account Number in challans, certificates, statements or other documents referred to in section 397(1)(b), quotes a number which is false, knowing or believing it to be false or not true, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
+      "retrieval_text": "Section 468 Penalty for failure to comply with the provisions of section 397. Section 468(2): If a person, required to quote his Tax Deduction and Collection Account Number in challans, certificates, statements or other documents referred to in section 397(1)(b), quotes a number which is false, knowing or believing it to be false or not true, the Assessing Officer may impose a penalty of Rs. 10000 on him.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 96.5
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "468-1",
+      "to_id": "468",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "468",
+      "to_id": "468-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "468-2",
+      "to_id": "468",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "468",
+      "to_id": "468-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "468-1",
+      "to_id": "397",
+      "edge_type": "references",
+      "reference_text": "section 397"
+    },
+    {
+      "from_id": "468-2",
+      "to_id": "397-1-b",
+      "edge_type": "references",
+      "reference_text": "section 397(1)(b)"
     }
   ]
 }

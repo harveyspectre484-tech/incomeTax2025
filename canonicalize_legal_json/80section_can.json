@@ -1,4 +1,5 @@
 {
+  "section_number": "80",
   "legal_units": [
     {
       "id": "80",
@@ -9,7 +10,7 @@
       "section_number": "80",
       "title": "Fair market value deemed to be full value of consideration in certain cases.",
       "text": "If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
-      "context_text": "Section 80 Fair market value deemed to be full value of consideration in certain cases. If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
+      "retrieval_text": "Section 80 Fair market value deemed to be full value of consideration in certain cases. If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

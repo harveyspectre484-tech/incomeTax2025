@@ -1,4 +1,5 @@
 {
+  "section_number": "75",
   "legal_units": [
     {
       "id": "75",
@@ -9,7 +10,7 @@
       "section_number": "75",
       "title": "Special provision for cost of acquisition in case of depreciable asset.",
       "text": "If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
-      "context_text": "Section 75 Special provision for cost of acquisition in case of depreciable asset. If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
+      "retrieval_text": "Section 75 Special provision for cost of acquisition in case of depreciable asset. If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "75",
+      "to_id": "33-2",
+      "edge_type": "references",
+      "reference_text": "section 33(2)"
+    },
+    {
+      "from_id": "75",
+      "to_id": "41",
+      "edge_type": "references",
+      "reference_text": "section 41"
     }
   ]
 }

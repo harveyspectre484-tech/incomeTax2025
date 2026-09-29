@@ -1,4 +1,5 @@
 {
+  "section_number": "406",
   "legal_units": [
     {
       "id": "406",
@@ -8,8 +9,8 @@
       "section_id": "406",
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
-      "text": "(1) Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408. (2) A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly. (3) For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
-      "context_text": "Section 406 Payment of advance tax by assessee on his own accord. (1) Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408. (2) A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly. (3) For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
+      "text": "",
+      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
-      "context_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(1): Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
+      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(1): Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
-      "context_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(2): A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
+      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(2): A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
-      "context_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(3): For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
+      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(3): For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,63 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 162.8
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "406-1",
+      "to_id": "406",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "406",
+      "to_id": "406-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "406-2",
+      "to_id": "406",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "406",
+      "to_id": "406-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "406-3",
+      "to_id": "406",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "406",
+      "to_id": "406-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "406-1",
+      "to_id": "404",
+      "edge_type": "references",
+      "reference_text": "section 404"
+    },
+    {
+      "from_id": "406-1",
+      "to_id": "405",
+      "edge_type": "references",
+      "reference_text": "section 405"
+    },
+    {
+      "from_id": "406-1",
+      "to_id": "408",
+      "edge_type": "references",
+      "reference_text": "section 408"
+    },
+    {
+      "from_id": "406-2",
+      "to_id": "406-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "191",
   "legal_units": [
     {
       "id": "191",
@@ -9,7 +10,7 @@
       "section_number": "191",
       "title": "Tax on accumulated balance of recognised provident fund.",
       "text": "Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
-      "context_text": "Section 191 Tax on accumulated balance of recognised provident fund. Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
+      "retrieval_text": "Section 191 Tax on accumulated balance of recognised provident fund. Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "191",
+      "to_id": "schedule-11",
+      "edge_type": "references",
+      "reference_text": "Schedule XI"
     }
   ]
 }

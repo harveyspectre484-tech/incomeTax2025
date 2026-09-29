@@ -1,4 +1,5 @@
 {
+  "section_number": "216",
   "legal_units": [
     {
       "id": "216",
@@ -8,8 +9,8 @@
       "section_id": "216",
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
-      "text": "It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— (a) his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and (b) the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
-      "context_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— (a) his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and (b) the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
+      "text": "It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
+      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
       "text": "his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
-      "context_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(a): his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
+      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(a): his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
       "text": "the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
-      "context_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(b): the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
+      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(b): the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 106.05
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "216-a",
+      "to_id": "216",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "216",
+      "to_id": "216-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "216-b",
+      "to_id": "216",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "216",
+      "to_id": "216-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "216",
+      "to_id": "263-1",
+      "edge_type": "references",
+      "reference_text": "section 263(1)"
     }
   ]
 }

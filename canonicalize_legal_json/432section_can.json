@@ -1,4 +1,5 @@
 {
+  "section_number": "432",
   "legal_units": [
     {
       "id": "432",
@@ -8,8 +9,8 @@
       "section_id": "432",
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
-      "text": "(1) Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income. (2) Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
-      "context_text": "Section 432 Person entitled to claim refund in certain special cases. (1) Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income. (2) Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
+      "text": "",
+      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
       "text": "Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
-      "context_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(1): Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
+      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(1): Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
       "text": "Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
-      "context_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(2): Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
+      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(2): Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "432-1",
+      "to_id": "432",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "432",
+      "to_id": "432-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "432-2",
+      "to_id": "432",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "432",
+      "to_id": "432-2",
+      "edge_type": "contains"
     }
   ]
 }

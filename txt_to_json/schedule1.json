@@ -1,0 +1,476 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "I",
+      "id": "schedule-I",
+      "reference_text": "[See section 9(12)]",
+      "reference_section": "9(12)",
+      "title": "CONDITIONS FOR CERTAIN ACTIVITIES NOT TO CONSTITUTE BUSINESS CONNECTION IN INDIA",
+      "x": null,
+      "y_start": null,
+      "page_start": 590,
+      "page_end": 592,
+      "text_before_paragraphs": "",
+      "paragraphs": [
+        {
+          "type": "paragraph",
+          "number": "1",
+          "id": "schedule-I-1",
+          "title": "",
+          "x": null,
+          "y_start": null,
+          "page_start": 590,
+          "page_end": 592,
+          "text_before_subparagraphs": "",
+          "subparagraphs": [
+            {
+              "type": "subparagraph",
+              "number": "1",
+              "id": "schedule-I-1-1",
+              "x": null,
+              "y_start": null,
+              "page_start": 590,
+              "page_end": 591,
+              "text_before_clauses": "The eligible investment fund referred to in section 9(12), means a fund established or incorporated or registered outside India, which collects funds from its members for investing it for their benefit and fulfils the following conditions:––",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-I-1-1-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund is not a person resident in India;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-I-1-1-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund is––",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-I-1-1-b-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 590,
+                      "page_end": 590,
+                      "text": "a resident of a country or a specified territory with which an agreement referred to in section 159(1) or (2) has been entered into; or"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-I-1-1-b-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 590,
+                      "page_end": 590,
+                      "text": "established or incorporated or registered in a country or a specified territory as notified in this behalf;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-I-1-1-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the aggregate participation or investment in the fund, directly, by persons resident in India does not exceed 5% of the corpus of the fund as on the 1st April and the 1st October of the tax year, subject to the conditions that—",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-I-1-1-c-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 590,
+                      "page_end": 590,
+                      "text": "for the purposes of calculation of such aggregate participation or investment in the fund, any contribution made by the eligible fund manager during the first three years of operation of the fund, not exceeding twenty-five crore rupees, shall not be taken into account;"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-I-1-1-c-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 590,
+                      "page_end": 590,
+                      "text": "where the aforesaid aggregate participation or investment in the fund exceeds 5% on the 1st April or the 1st October of the tax year, the condition mentioned in this clause shall be deemed to be satisfied, if it is satisfied within four months of the 1st April or the 1st October of such tax year;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-I-1-1-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund and its activities are subject to applicable investor protection regulations in the country or specified territory where such fund is established or incorporated or is a resident;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "e",
+                  "id": "schedule-I-1-1-e",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund has a minimum of twenty-five members who are, directly or indirectly, not connected persons;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "f",
+                  "id": "schedule-I-1-1-f",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "any member of the fund along with connected persons shall not have any participation interest, directly or indirectly, in the fund exceeding 10%;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "g",
+                  "id": "schedule-I-1-1-g",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the aggregate participation interest, directly or indirectly, of ten or less members along with their connected persons in the fund, shall be less than 50%;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "h",
+                  "id": "schedule-I-1-1-h",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund shall not invest more than 25% of its corpus in any entity;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "i",
+                  "id": "schedule-I-1-1-i",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 590,
+                  "text": "the fund shall not make any investment in its associate entity;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "j",
+                  "id": "schedule-I-1-1-j",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 590,
+                  "page_end": 591,
+                  "text": "the monthly average of the corpus of the fund shall not be less than one hundred crore rupees subject to the following:––",
+                  "children": [
+                    {
+                      "type": "sub-clause",
+                      "number": "i",
+                      "id": "schedule-I-1-1-j-i",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 590,
+                      "page_end": 591,
+                      "text": "if the fund has been established or incorporated in the tax year, then corpus of fund shall not be less than one hundred crore rupees at the end of twelve months from the last day of the month of its establishment or incorporation; and"
+                    },
+                    {
+                      "type": "sub-clause",
+                      "number": "ii",
+                      "id": "schedule-I-1-1-j-ii",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": 591,
+                      "page_end": 591,
+                      "text": "this clause shall not apply to a fund which has been wound up in the tax year;"
+                    }
+                  ]
+                },
+                {
+                  "type": "clause",
+                  "number": "k",
+                  "id": "schedule-I-1-1-k",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the fund shall not carry on or control and manage, directly or indirectly, any business in India;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "l",
+                  "id": "schedule-I-1-1-l",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the fund is neither engaged in any activity which constitutes a business connection in India nor has any person acting on its behalf whose activities constitute a business connection in India other than the activities undertaken by the eligible fund manager on its behalf;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "m",
+                  "id": "schedule-I-1-1-m",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the remuneration paid by the fund to an eligible fund manager in respect of fund management activity undertaken by him on its behalf is not less than the amount calculated in such manner, as may be prescribed.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "2",
+              "id": "schedule-I-1-2",
+              "x": null,
+              "y_start": null,
+              "page_start": 591,
+              "page_end": 591,
+              "text_before_clauses": "The conditions specified in paragraph (1)(e), (f) and (g) shall not apply, in case of—",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-I-1-2-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "an investment fund set up by the Government or the Central Bank of a foreign State or a sovereign fund; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-I-1-2-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "such other fund as the Central Government may, by notification, specify in this behalf, subject to conditions, if any.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "3",
+              "id": "schedule-I-1-3",
+              "x": null,
+              "y_start": null,
+              "page_start": 591,
+              "page_end": 591,
+              "text_before_clauses": "The eligible fund manager, referred to in section 9(12), in respect of an eligible investment fund, means any person who is engaged in the activity of fund management and fulfils the following conditions:––",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-I-1-3-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the person is not an employee of the eligible investment fund or a connected person of the fund;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-I-1-3-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the person is registered as a fund manager or an investment advisor in accordance with the regulations as specified;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-I-1-3-c",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the person is acting in the ordinary course of his business as a fund manager;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "d",
+                  "id": "schedule-I-1-3-d",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 591,
+                  "page_end": 591,
+                  "text": "the person along with his connected persons shall not be entitled, directly or indirectly, to more than 20% of the profits accruing or arising to the eligible investment fund from the transactions carried out by the fund through the fund manager.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "4",
+              "id": "schedule-I-1-4",
+              "x": null,
+              "y_start": null,
+              "page_start": 591,
+              "page_end": 591,
+              "text_before_clauses": "Every eligible investment fund shall, in respect of its activities in a tax year, furnish within ninety days from the end of the tax year, a statement in the prescribed form to the prescribed income-tax authority containing information relating to the fulfilment of the conditions specified in this Schedule, and also provide such other relevant information or documents, as may be prescribed.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "5",
+              "id": "schedule-I-1-5",
+              "x": null,
+              "y_start": null,
+              "page_start": 591,
+              "page_end": 591,
+              "text_before_clauses": "The provisions of this Schedule shall apply as per such guidelines and in such manner as the Board may prescribe in this behalf.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "6",
+              "id": "schedule-I-1-6",
+              "x": null,
+              "y_start": null,
+              "page_start": 591,
+              "page_end": 592,
+              "text_before_clauses": "The Central Government may, by notification, specify that any one or more of the conditions specified in sub-paragraph (1) or (3) shall not apply or shall apply with such modifications, as specified in case of an eligible investment fund and its eligible fund manager, if––",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "i",
+                  "id": "schedule-I-1-6-i",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 592,
+                  "page_end": 592,
+                  "text": "the eligible fund manager is located in an International Financial Services Centre; and",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "ii",
+                  "id": "schedule-I-1-6-ii",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": 592,
+                  "page_end": 592,
+                  "text": "has commenced its operations on or before the 31st March, 2030.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_subparagraphs": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "2",
+          "id": "schedule-I-2",
+          "title": "",
+          "x": null,
+          "y_start": null,
+          "page_start": 592,
+          "page_end": 592,
+          "text_before_clauses": "In this Schedule,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-I-2-a",
+              "x": null,
+              "y_start": null,
+              "page_start": 592,
+              "page_end": 592,
+              "text": "“associate” means an entity in which a director or a trustee or a partner or a member or a fund manager of the investment fund, or a director or a trustee or a partner or a member of the fund manager of such fund, holds, either individually or collectively, share or interest, being more than 15% of its share capital or interest, as the case may be;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-I-2-b",
+              "x": null,
+              "y_start": null,
+              "page_start": 592,
+              "page_end": 592,
+              "text": "“connected person” shall have the meaning assigned to it in section 184(5);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-I-2-c",
+              "x": null,
+              "y_start": null,
+              "page_start": 592,
+              "page_end": 592,
+              "text": "“corpus” means the total amount of funds raised for the purpose of investment by the eligible investment fund as on a particular date;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-I-2-d",
+              "x": null,
+              "y_start": null,
+              "page_start": 592,
+              "page_end": 592,
+              "text": "“entity” means any entity in which an eligible investment fund makes an investment; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-I-2-e",
+              "x": null,
+              "y_start": null,
+              "page_start": 592,
+              "page_end": 592,
+              "text": "“specified regulations” means the Securities and Exchange Board of India (Portfolio Managers) Regulations, 2020 or the Securities and Exchange Board of India (Investment Advisers) Regulations, 2013, or such other regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992), which may be notified in this regard.",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_paragraphs": ""
+    }
+  ],
+  "sections": [],
+  "footnotes": [],
+  "orphans": []
+}

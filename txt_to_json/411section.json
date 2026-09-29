@@ -76,14 +76,38 @@
               "y_start": 193.04,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "any such notice of demand shall have the effect as specified in section 3 of the Taxation Laws (Continuation and Validation of Recovery Proceedings) Act, 1964 (11 of 1964).",
+              "text": "any such notice of demand shall have the effect as specified in section 3 of the Taxation Laws (Continuation and Validation of Recovery Proceedings) Act, 1964 (11 of 1964).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "sub_section",
+          "number": "3",
+          "id": "411-3",
+          "x": 27.62,
+          "y_start": 155.38,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "411-3-a",
+              "x": 30.4,
+              "y_start": 182.43,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_clauses": "If the amount specified in any notice of demand under section 289 is not paid within the period specified under sub-section (1),",
               "sub_clauses": [
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "411-2-b-i",
-                  "x": 42.68,
-                  "y_start": 229.11,
+                  "id": "411-3-a-i",
+                  "x": 71.75,
+                  "y_start": 443.93,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "the assessee shall be liable to pay simple interest at 1% for every month or part of a month comprised in the period; and",
@@ -92,12 +116,12 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "411-2-b-ii",
-                  "x": 40.26,
-                  "y_start": 239.72,
+                  "id": "411-3-a-ii",
+                  "x": 42.68,
+                  "y_start": 229.11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "such period shall commence from the day immediately following the end of the period mentioned in sub-section (1) and end with the day on which the amount is paid.",
+                  "text": "such period shall commence from the day immediately following the end of the period mentioned in sub-section (1) and end with the day on which the amount is paid",
                   "children": []
                 }
               ],
@@ -106,19 +130,19 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "411-2-b",
-              "x": 27.62,
-              "y_start": 260.93,
+              "id": "411-3-b",
+              "x": 42.68,
+              "y_start": 229.11,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "No interest shall be charged under this sub-section in respect of any demand raised on account of penalty levied under section 439,—",
+              "text_before_sub_clauses": "No interest shall be charged under this sub-section in respect of any demand raised on account of penalty levied under section 439,",
               "sub_clauses": [
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "411-2-b-i",
-                  "x": 42.68,
-                  "y_start": 275.25,
+                  "id": "411-3-b-i",
+                  "x": 71.75,
+                  "y_start": 443.93,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "up to the date of passing of the order under section 359;",
@@ -127,19 +151,18 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "411-2-b-ii",
-                  "x": 40.26,
-                  "y_start": 285.86,
+                  "id": "411-3-b-ii",
+                  "x": 42.68,
+                  "y_start": 229.11,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "up to the date of passing of the order under section 363, where the assessment or reassessment has been made in pursuance to directions issued by the Dispute Resolution Panel under section 275.]",
+                  "text": "up to the date of passing of the order under section 363, where the assessment or reassessment has been made in pursuance to directions issued by the Dispute Resolution Panel under section 275.",
                   "children": []
                 }
               ],
-              "text_after_sub_clauses": ""
+              "text_after_sub_clauses": " "
             }
-          ],
-          "text_after_clauses": ""
+          ]
         },
         {
           "type": "subsection",

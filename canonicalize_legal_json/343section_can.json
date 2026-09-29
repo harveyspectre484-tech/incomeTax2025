@@ -1,4 +1,5 @@
 {
+  "section_number": "343",
   "legal_units": [
     {
       "id": "343",
@@ -8,8 +9,8 @@
       "section_id": "343",
       "section_number": "343",
       "title": "Deemed accumulated income.",
-      "text": "(1) The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350. (2) The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
-      "context_text": "Section 343 Deemed accumulated income. (1) The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350. (2) The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
+      "text": "",
+      "retrieval_text": "Section 343 Deemed accumulated income.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "343",
       "title": "Deemed accumulated income.",
       "text": "The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
-      "context_text": "Section 343 Deemed accumulated income. Section 343(1): The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
+      "retrieval_text": "Section 343 Deemed accumulated income. Section 343(1): The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "343",
       "title": "Deemed accumulated income.",
       "text": "The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
-      "context_text": "Section 343 Deemed accumulated income. Section 343(2): The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
+      "retrieval_text": "Section 343 Deemed accumulated income. Section 343(2): The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,53 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 121.96
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "343-1",
+      "to_id": "343",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "343",
+      "to_id": "343-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "343-2",
+      "to_id": "343",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "343",
+      "to_id": "343-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "343-1",
+      "to_id": "341",
+      "edge_type": "references",
+      "reference_text": "section 341"
+    },
+    {
+      "from_id": "343-1",
+      "to_id": "342",
+      "edge_type": "references",
+      "reference_text": "section 342"
+    },
+    {
+      "from_id": "343-1",
+      "to_id": "350",
+      "edge_type": "references",
+      "reference_text": "section 350"
+    },
+    {
+      "from_id": "343-2",
+      "to_id": "342",
+      "edge_type": "references",
+      "reference_text": "section 342"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "4",
   "legal_units": [
     {
       "id": "4",
@@ -8,8 +9,8 @@
       "section_id": "4",
       "section_number": "4",
       "title": "Charge of Income-tax.",
-      "text": "(1) Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act. (2) The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act. (3) Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act. (4) If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly. (5) For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
-      "context_text": "Section 4 Charge of Income-tax. (1) Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act. (2) The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act. (3) Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act. (4) If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly. (5) For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
+      "text": "",
+      "retrieval_text": "Section 4 Charge of Income-tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "4",
       "title": "Charge of Income-tax.",
       "text": "Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act.",
-      "context_text": "Section 4 Charge of Income-tax. Section 4(1): Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act.",
+      "retrieval_text": "Section 4 Charge of Income-tax. Section 4(1): Where any Central Act enacts that income-tax shall be charged for any tax year at any rate or rates, income-tax for such tax year shall be charged at that rate or those rates in accordance with and subject to the provisions of this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "4",
       "title": "Charge of Income-tax.",
       "text": "The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.",
-      "context_text": "Section 4 Charge of Income-tax. Section 4(2): The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.",
+      "retrieval_text": "Section 4 Charge of Income-tax. Section 4(2): The charge of income-tax under sub-section (1) shall be on the total income of the tax year of every person as per the provisions of this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "4",
       "title": "Charge of Income-tax.",
       "text": "Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act.",
-      "context_text": "Section 4 Charge of Income-tax. Section 4(3): Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act.",
+      "retrieval_text": "Section 4 Charge of Income-tax. Section 4(3): Income-tax shall also include any additional income-tax, by whatever name called, levied under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "4",
       "title": "Charge of Income-tax.",
       "text": "If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly.",
-      "context_text": "Section 4 Charge of Income-tax. Section 4(4): If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly.",
+      "retrieval_text": "Section 4 Charge of Income-tax. Section 4(4): If this Act provides that income-tax is to be charged in respect of income of a period other than the tax year, it shall be charged accordingly.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -104,7 +105,7 @@
       "section_number": "4",
       "title": "Charge of Income-tax.",
       "text": "For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
-      "context_text": "Section 4 Charge of Income-tax. Section 4(5): For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
+      "retrieval_text": "Section 4 Charge of Income-tax. Section 4(5): For the income chargeable under this section, income-tax shall be deducted or collected at source or paid in advance as provided under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -113,6 +114,65 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 186.67
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "4-1",
+      "to_id": "4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "4",
+      "to_id": "4-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "4-2",
+      "to_id": "4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "4",
+      "to_id": "4-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "4-3",
+      "to_id": "4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "4",
+      "to_id": "4-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "4-4",
+      "to_id": "4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "4",
+      "to_id": "4-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "4-5",
+      "to_id": "4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "4",
+      "to_id": "4-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "4-2",
+      "to_id": "4-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

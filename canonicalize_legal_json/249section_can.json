@@ -1,4 +1,5 @@
 {
+  "section_number": "249",
   "legal_units": [
     {
       "id": "249",
@@ -9,7 +10,7 @@
       "section_number": "249",
       "title": "Reasons not to be disclosed.",
       "text": "The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
-      "context_text": "Section 249 Reasons not to be disclosed. The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
+      "retrieval_text": "Section 249 Reasons not to be disclosed. The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "249",
+      "to_id": "247",
+      "edge_type": "references",
+      "reference_text": "section 247"
     }
   ]
 }

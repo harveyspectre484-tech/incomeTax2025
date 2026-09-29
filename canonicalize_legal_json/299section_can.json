@@ -1,4 +1,5 @@
 {
+  "section_number": "299",
   "legal_units": [
     {
       "id": "299",
@@ -8,8 +9,8 @@
       "section_id": "299",
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
-      "text": "(1) The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director. (2) The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
-      "context_text": "Section 299 Authority competent to make assessment of block period. (1) The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director. (2) The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
+      "text": "",
+      "retrieval_text": "Section 299 Authority competent to make assessment of block period.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
       "text": "The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
-      "context_text": "Section 299 Authority competent to make assessment of block period. Section 299(1): The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
+      "retrieval_text": "Section 299 Authority competent to make assessment of block period. Section 299(1): The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
       "text": "The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
-      "context_text": "Section 299 Authority competent to make assessment of block period. Section 299(2): The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
+      "retrieval_text": "Section 299 Authority competent to make assessment of block period. Section 299(2): The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "299-1",
+      "to_id": "299",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "299",
+      "to_id": "299-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "299-2",
+      "to_id": "299",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "299",
+      "to_id": "299-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "299-2",
+      "to_id": "299-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "182",
   "legal_units": [
     {
       "id": "182",
@@ -8,8 +9,8 @@
       "section_id": "182",
       "section_number": "182",
       "title": "Treatment of connected person and accommodating party.",
-      "text": "In this Chapter, in determining whether a tax benefit exists,— (a) the parties who are connected persons in relation to each other may be treated as one and the same person; (b) any accommodating party may be disregarded; (c) the accommodating party and any other party may be treated as one and the same person; (d) the arrangement may be considered or looked through by disregarding any corporate structure.",
-      "context_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— (a) the parties who are connected persons in relation to each other may be treated as one and the same person; (b) any accommodating party may be disregarded; (c) the accommodating party and any other party may be treated as one and the same person; (d) the arrangement may be considered or looked through by disregarding any corporate structure.",
+      "text": "In this Chapter, in determining whether a tax benefit exists,—",
+      "retrieval_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "182",
       "title": "Treatment of connected person and accommodating party.",
       "text": "the parties who are connected persons in relation to each other may be treated as one and the same person;",
-      "context_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(a): the parties who are connected persons in relation to each other may be treated as one and the same person;",
+      "retrieval_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(a): the parties who are connected persons in relation to each other may be treated as one and the same person;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "182",
       "title": "Treatment of connected person and accommodating party.",
       "text": "any accommodating party may be disregarded;",
-      "context_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(b): any accommodating party may be disregarded;",
+      "retrieval_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(b): any accommodating party may be disregarded;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "182",
       "title": "Treatment of connected person and accommodating party.",
       "text": "the accommodating party and any other party may be treated as one and the same person;",
-      "context_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(c): the accommodating party and any other party may be treated as one and the same person;",
+      "retrieval_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(c): the accommodating party and any other party may be treated as one and the same person;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -85,7 +86,7 @@
       "section_number": "182",
       "title": "Treatment of connected person and accommodating party.",
       "text": "the arrangement may be considered or looked through by disregarding any corporate structure.",
-      "context_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(d): the arrangement may be considered or looked through by disregarding any corporate structure.",
+      "retrieval_text": "Section 182 Treatment of connected person and accommodating party. In this Chapter, in determining whether a tax benefit exists,— Section 182(d): the arrangement may be considered or looked through by disregarding any corporate structure.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -94,6 +95,49 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 127.26
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "182-a",
+      "to_id": "182",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "182",
+      "to_id": "182-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "182-b",
+      "to_id": "182",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "182",
+      "to_id": "182-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "182-c",
+      "to_id": "182",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "182",
+      "to_id": "182-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "182-d",
+      "to_id": "182",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "182",
+      "to_id": "182-d",
+      "edge_type": "contains"
     }
   ]
 }

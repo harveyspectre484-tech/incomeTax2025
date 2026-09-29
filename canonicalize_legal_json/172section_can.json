@@ -1,4 +1,5 @@
 {
+  "section_number": "172",
   "legal_units": [
     {
       "id": "172",
@@ -9,7 +10,7 @@
       "section_number": "172",
       "title": "Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction.",
       "text": "Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
-      "context_text": "Section 172 Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction. Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
+      "retrieval_text": "Section 172 Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction. Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

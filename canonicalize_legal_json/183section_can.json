@@ -1,4 +1,5 @@
 {
+  "section_number": "183",
   "legal_units": [
     {
       "id": "183",
@@ -8,8 +9,8 @@
       "section_id": "183",
       "section_number": "183",
       "title": "Application of this Chapter.",
-      "text": "The provisions of this Chapter shall apply— (a) in addition to, or in lieu of, any other basis for determination of tax liability; (b) as per such guidelines and subject to such conditions, as may be prescribed.",
-      "context_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply— (a) in addition to, or in lieu of, any other basis for determination of tax liability; (b) as per such guidelines and subject to such conditions, as may be prescribed.",
+      "text": "The provisions of this Chapter shall apply—",
+      "retrieval_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "183",
       "title": "Application of this Chapter.",
       "text": "in addition to, or in lieu of, any other basis for determination of tax liability;",
-      "context_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply— Section 183(a): in addition to, or in lieu of, any other basis for determination of tax liability;",
+      "retrieval_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply— Section 183(a): in addition to, or in lieu of, any other basis for determination of tax liability;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "183",
       "title": "Application of this Chapter.",
       "text": "as per such guidelines and subject to such conditions, as may be prescribed.",
-      "context_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply— Section 183(b): as per such guidelines and subject to such conditions, as may be prescribed.",
+      "retrieval_text": "Section 183 Application of this Chapter. The provisions of this Chapter shall apply— Section 183(b): as per such guidelines and subject to such conditions, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 106.05
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "183-a",
+      "to_id": "183",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "183",
+      "to_id": "183-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "183-b",
+      "to_id": "183",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "183",
+      "to_id": "183-b",
+      "edge_type": "contains"
     }
   ]
 }

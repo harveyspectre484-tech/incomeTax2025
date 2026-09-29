@@ -1,4 +1,5 @@
 {
+  "section_number": "520",
   "legal_units": [
     {
       "id": "520",
@@ -9,7 +10,7 @@
       "section_number": "520",
       "title": "Cognizance of offences.",
       "text": "No court inferior to that of a Judicial Magistrate of the first class shall try any offence under this Act.",
-      "context_text": "Section 520 Cognizance of offences. No court inferior to that of a Judicial Magistrate of the first class shall try any offence under this Act.",
+      "retrieval_text": "Section 520 Cognizance of offences. No court inferior to that of a Judicial Magistrate of the first class shall try any offence under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

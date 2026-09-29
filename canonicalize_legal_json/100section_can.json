@@ -1,4 +1,5 @@
 {
+  "section_number": "100",
   "legal_units": [
     {
       "id": "100",
@@ -8,8 +9,8 @@
       "section_id": "100",
       "section_number": "100",
       "title": "Liability of person in respect of income included in income of another person.",
-      "text": "Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— (a) such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf; (b) where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and (c) the provisions of Chapter XIX-D shall apply accordingly.",
-      "context_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— (a) such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf; (b) where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and (c) the provisions of Chapter XIX-D shall apply accordingly.",
+      "text": "Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—",
+      "retrieval_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "100",
       "title": "Liability of person in respect of income included in income of another person.",
       "text": "such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf;",
-      "context_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(a): such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf;",
+      "retrieval_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(a): such person, in whose name such asset stands, or who is a member of the firm, shall be liable to pay, that portion of the tax levied on the assessee which is attributable to the income so included, upon service of notice of demand by the Assessing Officer in this behalf;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "100",
       "title": "Liability of person in respect of income included in income of another person.",
       "text": "where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and",
-      "context_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(b): where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and",
+      "retrieval_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(b): where any such asset is held jointly by more than one person, they shall be jointly and severally liable to pay such tax; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "100",
       "title": "Liability of person in respect of income included in income of another person.",
       "text": "the provisions of Chapter XIX-D shall apply accordingly.",
-      "context_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(c): the provisions of Chapter XIX-D shall apply accordingly.",
+      "retrieval_text": "Section 100 Liability of person in respect of income included in income of another person. Where, income of a person, other than the assessee, arising from any asset, or income from membership of a firm, is included in the total income of the assessee under this Chapter or under section 25(a), then, irrespective of anything to the contrary contained in any other law in force,— Section 100(c): the provisions of Chapter XIX-D shall apply accordingly.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,45 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 138.93
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "100-a",
+      "to_id": "100",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "100",
+      "to_id": "100-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "100-b",
+      "to_id": "100",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "100",
+      "to_id": "100-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "100-c",
+      "to_id": "100",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "100",
+      "to_id": "100-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "100",
+      "to_id": "25-a",
+      "edge_type": "references",
+      "reference_text": "section 25(a)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "494",
   "legal_units": [
     {
       "id": "494",
@@ -8,8 +9,8 @@
       "section_id": "494",
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
-      "text": "(1) A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be (2) No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
-      "context_text": "Section 494 Disclosure of particulars by public servants. (1) A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be (2) No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
+      "text": "",
+      "retrieval_text": "Section 494 Disclosure of particulars by public servants.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
       "text": "A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
-      "context_text": "Section 494 Disclosure of particulars by public servants. Section 494(1): A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
+      "retrieval_text": "Section 494 Disclosure of particulars by public servants. Section 494(1): A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
       "text": "No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
-      "context_text": "Section 494 Disclosure of particulars by public servants. Section 494(2): No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
+      "retrieval_text": "Section 494 Disclosure of particulars by public servants. Section 494(2): No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "494-1",
+      "to_id": "494",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "494",
+      "to_id": "494-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "494-2",
+      "to_id": "494",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "494",
+      "to_id": "494-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "494-1",
+      "to_id": "258-3",
+      "edge_type": "references",
+      "reference_text": "section 258(3)"
     }
   ]
 }

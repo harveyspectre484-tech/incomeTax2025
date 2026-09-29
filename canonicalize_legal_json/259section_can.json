@@ -1,4 +1,5 @@
 {
+  "section_number": "259",
   "legal_units": [
     {
       "id": "259",
@@ -8,8 +9,8 @@
       "section_id": "259",
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
-      "text": "(1) For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice. (2) The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260. (3) For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
-      "context_text": "Section 259 Power to call for information by prescribed income-tax authority. (1) For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice. (2) The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260. (3) For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
+      "text": "",
+      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
-      "context_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(1): For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
+      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(1): For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
-      "context_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(2): The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
+      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(2): The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
-      "context_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(3): For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
+      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(3): For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,51 @@
       "line_start": 8,
       "x": null,
       "y_start": null
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "259-1",
+      "to_id": "259",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "259",
+      "to_id": "259-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "259-2",
+      "to_id": "259",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "259",
+      "to_id": "259-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "259-3",
+      "to_id": "259",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "259",
+      "to_id": "259-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "259-2",
+      "to_id": "260",
+      "edge_type": "references",
+      "reference_text": "section 260"
+    },
+    {
+      "from_id": "259-3",
+      "to_id": "253",
+      "edge_type": "references",
+      "reference_text": "section 253"
     }
   ]
 }

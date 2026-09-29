@@ -1,4 +1,5 @@
 {
+  "section_number": "385",
   "legal_units": [
     {
       "id": "385",
@@ -9,7 +10,7 @@
       "section_number": "385",
       "title": "Appellate authority not to proceed in certain cases.",
       "text": "No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
-      "context_text": "Section 385 Appellate authority not to proceed in certain cases. No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
+      "retrieval_text": "Section 385 Appellate authority not to proceed in certain cases. No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "385",
+      "to_id": "383-1",
+      "edge_type": "references",
+      "reference_text": "section 383(1)"
     }
   ]
 }

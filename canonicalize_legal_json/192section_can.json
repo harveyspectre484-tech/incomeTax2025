@@ -1,4 +1,5 @@
 {
+  "section_number": "192",
   "legal_units": [
     {
       "id": "192",
@@ -8,8 +9,8 @@
       "section_id": "192",
       "section_number": "192",
       "title": "Tax in case of block assessment of search cases.",
-      "text": "(1) Irrespective of anything contained in any other provisions of this Act, the total undisclosed income of the block period, determined under section 294 shall be chargeable to tax at the rate of 60%. (2) The tax chargeable under sub-section (1) shall be increased by a surcharge, if any, levied by any Central Act.",
-      "context_text": "Section 192 Tax in case of block assessment of search cases. (1) Irrespective of anything contained in any other provisions of this Act, the total undisclosed income of the block period, determined under section 294 shall be chargeable to tax at the rate of 60%. (2) The tax chargeable under sub-section (1) shall be increased by a surcharge, if any, levied by any Central Act.",
+      "text": "",
+      "retrieval_text": "Section 192 Tax in case of block assessment of search cases.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "192",
       "title": "Tax in case of block assessment of search cases.",
       "text": "Irrespective of anything contained in any other provisions of this Act, the total undisclosed income of the block period, determined under section 294 shall be chargeable to tax at the rate of 60%.",
-      "context_text": "Section 192 Tax in case of block assessment of search cases. Section 192(1): Irrespective of anything contained in any other provisions of this Act, the total undisclosed income of the block period, determined under section 294 shall be chargeable to tax at the rate of 60%.",
+      "retrieval_text": "Section 192 Tax in case of block assessment of search cases. Section 192(1): Irrespective of anything contained in any other provisions of this Act, the total undisclosed income of the block period, determined under section 294 shall be chargeable to tax at the rate of 60%.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "192",
       "title": "Tax in case of block assessment of search cases.",
       "text": "The tax chargeable under sub-section (1) shall be increased by a surcharge, if any, levied by any Central Act.",
-      "context_text": "Section 192 Tax in case of block assessment of search cases. Section 192(2): The tax chargeable under sub-section (1) shall be increased by a surcharge, if any, levied by any Central Act.",
+      "retrieval_text": "Section 192 Tax in case of block assessment of search cases. Section 192(2): The tax chargeable under sub-section (1) shall be increased by a surcharge, if any, levied by any Central Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.23
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "192-1",
+      "to_id": "192",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "192",
+      "to_id": "192-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "192-2",
+      "to_id": "192",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "192",
+      "to_id": "192-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "192-1",
+      "to_id": "294",
+      "edge_type": "references",
+      "reference_text": "section 294"
+    },
+    {
+      "from_id": "192-2",
+      "to_id": "192-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

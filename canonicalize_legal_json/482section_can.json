@@ -1,4 +1,5 @@
 {
+  "section_number": "482",
   "legal_units": [
     {
       "id": "482",
@@ -8,8 +9,8 @@
       "section_id": "482",
       "section_number": "482",
       "title": "False statement in verification, etc.",
-      "text": "If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or (b) with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the statement or account had been accepted as true, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or (c) with fine, in any other case.]",
-      "context_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or (b) with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the statement or account had been accepted as true, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or (c) with fine, in any other case.]",
+      "text": "If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or",
+      "retrieval_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "482",
       "title": "False statement in verification, etc.",
       "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the statement or account had been accepted as true, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
-      "context_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or Section 482(b): with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the statement or account had been accepted as true, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+      "retrieval_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or Section 482(b): with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of tax, which would have been evaded if the statement or account had been accepted as true, exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "482",
       "title": "False statement in verification, etc.",
       "text": "with fine, in any other case.]",
-      "context_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or Section 482(c): with fine, in any other case.]",
+      "retrieval_text": "Section 482 False statement in verification, etc. If a person makes a statement in any verification under this Act or under any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable,— statement or account had been accepted as true, exceeds fifty lakh rupees; or Section 482(c): with fine, in any other case.]",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 41.27,
       "y_start": 148.48
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "482-b",
+      "to_id": "482",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "482",
+      "to_id": "482-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "482-c",
+      "to_id": "482",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "482",
+      "to_id": "482-c",
+      "edge_type": "contains"
     }
   ]
 }

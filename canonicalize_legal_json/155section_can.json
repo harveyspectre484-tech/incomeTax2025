@@ -1,4 +1,5 @@
 {
+  "section_number": "155",
   "legal_units": [
     {
       "id": "155",
@@ -8,8 +9,8 @@
       "section_id": "155",
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
-      "text": "(1) In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein. (2) The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
-      "context_text": "Section 155 Rebate to be allowed in computing income-tax. (1) In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein. (2) The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
+      "text": "",
+      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
       "text": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
-      "context_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(1): In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
+      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(1): In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
       "text": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
-      "context_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(2): The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
+      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(2): The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,41 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 155.91
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "155-1",
+      "to_id": "155",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "155",
+      "to_id": "155-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "155-2",
+      "to_id": "155",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "155",
+      "to_id": "155-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "155-1",
+      "to_id": "156",
+      "edge_type": "references",
+      "reference_text": "section 156"
+    },
+    {
+      "from_id": "155-2",
+      "to_id": "156",
+      "edge_type": "references",
+      "reference_text": "section 156"
     }
   ]
 }

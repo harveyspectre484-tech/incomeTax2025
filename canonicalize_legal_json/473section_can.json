@@ -1,4 +1,5 @@
 {
+  "section_number": "473",
   "legal_units": [
     {
       "id": "473",
@@ -9,7 +10,7 @@
       "section_number": "473",
       "title": "^1^8[Contravention of order made during search action.]",
       "text": "­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
-      "context_text": "Section 473 ^1^8[Contravention of order made during search action.] ­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
+      "retrieval_text": "Section 473 ^1^8[Contravention of order made during search action.] ­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 109.43
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "473",
+      "to_id": "247-4",
+      "edge_type": "references",
+      "reference_text": "section 247(4)"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "section_number": "95",
   "legal_units": [
     {
       "id": "95",
@@ -9,7 +10,7 @@
       "section_number": "95",
       "title": "",
       "text": "The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
-      "context_text": "Section 95 The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
+      "retrieval_text": "Section 95 The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,21 @@
       "line_start": 4,
       "x": null,
       "y_start": null
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "95",
+      "to_id": "38-1",
+      "edge_type": "references",
+      "reference_text": "section 38(1)"
+    },
+    {
+      "from_id": "95",
+      "to_id": "92",
+      "edge_type": "references",
+      "reference_text": "section 92"
     }
   ]
 }

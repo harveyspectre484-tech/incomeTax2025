@@ -1,4 +1,5 @@
 {
+  "section_number": "103",
   "legal_units": [
     {
       "id": "103",
@@ -8,8 +9,8 @@
       "section_id": "103",
       "section_number": "103",
       "title": "Unexplained investment.",
-      "text": "Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year. (a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or (b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
-      "context_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year. (a) the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or (b) the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
+      "text": "Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
+      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "103",
       "title": "Unexplained investment.",
       "text": "the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
-      "context_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(a): the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
+      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(a): the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "103",
       "title": "Unexplained investment.",
       "text": "the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
-      "context_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(b): the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
+      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(b): the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 131.51
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "103-a",
+      "to_id": "103",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "103",
+      "to_id": "103-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "103-b",
+      "to_id": "103",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "103",
+      "to_id": "103-b",
+      "edge_type": "contains"
     }
   ]
 }

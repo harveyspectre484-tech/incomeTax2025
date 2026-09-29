@@ -1,4 +1,5 @@
 {
+  "section_number": "516",
   "legal_units": [
     {
       "id": "516",
@@ -8,8 +9,8 @@
       "section_id": "516",
       "section_number": "516",
       "title": "Rounding off of amount of total income, or amount payable or refundable.",
-      "text": "The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— and the amount so rounded off shall be deemed to be the total income of the assessee or the amount payable or refundable, as the case may be, under this Act. (a) such amount shall be increased to the next higher amount which is a multiple of ten, if the last figure in that amount is five or more; or (b) such amount shall be reduced to the next lower amount which is a multiple of ten, if the last figure is less than five,",
-      "context_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— and the amount so rounded off shall be deemed to be the total income of the assessee or the amount payable or refundable, as the case may be, under this Act. (a) such amount shall be increased to the next higher amount which is a multiple of ten, if the last figure in that amount is five or more; or (b) such amount shall be reduced to the next lower amount which is a multiple of ten, if the last figure is less than five,",
+      "text": "The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— and the amount so rounded off shall be deemed to be the total income of the assessee or the amount payable or refundable, as the case may be, under this Act.",
+      "retrieval_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— and the amount so rounded off shall be deemed to be the total income of the assessee or the amount payable or refundable, as the case may be, under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "516",
       "title": "Rounding off of amount of total income, or amount payable or refundable.",
       "text": "such amount shall be increased to the next higher amount which is a multiple of ten, if the last figure in that amount is five or more; or",
-      "context_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— Section 516(a): such amount shall be increased to the next higher amount which is a multiple of ten, if the last figure in that amount is five or more; or",
+      "retrieval_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— Section 516(a): such amount shall be increased to the next higher amount which is a multiple of ten, if the last figure in that amount is five or more; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "516",
       "title": "Rounding off of amount of total income, or amount payable or refundable.",
       "text": "such amount shall be reduced to the next lower amount which is a multiple of ten, if the last figure is less than five,",
-      "context_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— Section 516(b): such amount shall be reduced to the next lower amount which is a multiple of ten, if the last figure is less than five,",
+      "retrieval_text": "Section 516 Rounding off of amount of total income, or amount payable or refundable. The amount of total income computed or any amount payable or refundable under this Act, shall be rounded off to the nearest multiple of Rs. 10 ignoring any part of a rupee consisting of paise and thereafter if such amount is not a multiple of ten, then— Section 516(b): such amount shall be reduced to the next lower amount which is a multiple of ten, if the last figure is less than five,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,29 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 118.78
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "516-a",
+      "to_id": "516",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "516",
+      "to_id": "516-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "516-b",
+      "to_id": "516",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "516",
+      "to_id": "516-b",
+      "edge_type": "contains"
     }
   ]
 }

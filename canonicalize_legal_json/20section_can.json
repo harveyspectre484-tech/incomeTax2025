@@ -1,4 +1,5 @@
 {
+  "section_number": "20",
   "legal_units": [
     {
       "id": "20",
@@ -8,8 +9,8 @@
       "section_id": "20",
       "section_number": "20",
       "title": "Income from house property.",
-      "text": "(1) The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\". (2) The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.",
-      "context_text": "Section 20 Income from house property. (1) The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\". (2) The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.",
+      "text": "",
+      "retrieval_text": "Section 20 Income from house property.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "20",
       "title": "Income from house property.",
       "text": "The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".",
-      "context_text": "Section 20 Income from house property. Section 20(1): The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".",
+      "retrieval_text": "Section 20 Income from house property. Section 20(1): The annual value of property consisting of any buildings or lands appurtenant thereto, owned by the assessee shall be chargeable to income-tax under the head \"Income from house property\".",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "20",
       "title": "Income from house property.",
       "text": "The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.",
-      "context_text": "Section 20 Income from house property. Section 20(2): The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.",
+      "retrieval_text": "Section 20 Income from house property. Section 20(2): The provisions of sub-section (1) shall not apply to such portions of the property, as the assessee may occupy for his business or profession, the profits of which are chargeable to income-tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -56,6 +57,35 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 124.61
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "20-1",
+      "to_id": "20",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "20",
+      "to_id": "20-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "20-2",
+      "to_id": "20",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "20",
+      "to_id": "20-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "20-2",
+      "to_id": "20-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

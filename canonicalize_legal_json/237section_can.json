@@ -1,4 +1,5 @@
 {
+  "section_number": "237",
   "legal_units": [
     {
       "id": "237",
@@ -8,8 +9,8 @@
       "section_id": "237",
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
-      "text": "(1) The Central Government may appoint such persons as it thinks fit to be income-tax authorities. (2) The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner. (3) Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
-      "context_text": "Section 237 Appointment of income-tax authorities. (1) The Central Government may appoint such persons as it thinks fit to be income-tax authorities. (2) The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner. (3) Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
+      "text": "",
+      "retrieval_text": "Section 237 Appointment of income-tax authorities.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
-      "context_text": "Section 237 Appointment of income-tax authorities. Section 237(1): The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
+      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(1): The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
-      "context_text": "Section 237 Appointment of income-tax authorities. Section 237(2): The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
+      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(2): The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
-      "context_text": "Section 237 Appointment of income-tax authorities. Section 237(3): Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
+      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(3): Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,39 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "237-1",
+      "to_id": "237",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "237",
+      "to_id": "237-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "237-2",
+      "to_id": "237",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "237",
+      "to_id": "237-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "237-3",
+      "to_id": "237",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "237",
+      "to_id": "237-3",
+      "edge_type": "contains"
     }
   ]
 }

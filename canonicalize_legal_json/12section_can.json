@@ -1,4 +1,5 @@
 {
+  "section_number": "12",
   "legal_units": [
     {
       "id": "12",
@@ -8,8 +9,8 @@
       "section_id": "12",
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
-      "text": "(1) In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein. (2) Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year. (3) The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
-      "context_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. (1) In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein. (2) Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year. (3) The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
+      "text": "",
+      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
-      "context_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(1): In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
+      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(1): In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
-      "context_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(2): Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
+      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(2): Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
-      "context_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(3): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
+      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(3): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,57 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 152.73
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "12-1",
+      "to_id": "12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "12",
+      "to_id": "12-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "12-2",
+      "to_id": "12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "12",
+      "to_id": "12-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "12-3",
+      "to_id": "12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "12",
+      "to_id": "12-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "12-1",
+      "to_id": "schedule-8",
+      "edge_type": "references",
+      "reference_text": "Schedule VIII"
+    },
+    {
+      "from_id": "12-2",
+      "to_id": "schedule-8",
+      "edge_type": "references",
+      "reference_text": "Schedule VIII"
+    },
+    {
+      "from_id": "12-3",
+      "to_id": "schedule-8",
+      "edge_type": "references",
+      "reference_text": "Schedule VIII"
     }
   ]
 }

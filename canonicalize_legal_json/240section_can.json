@@ -1,4 +1,5 @@
 {
+  "section_number": "240",
   "legal_units": [
     {
       "id": "240",
@@ -9,7 +10,7 @@
       "section_number": "240",
       "title": "Taxpayer's Charter.",
       "text": "The Board shall adopt and declare a Taxpayer's Charter and issue such orders, instructions, directions or guidelines to other income-tax authorities as it considers fit for the administration of such Charter.",
-      "context_text": "Section 240 Taxpayer's Charter. The Board shall adopt and declare a Taxpayer's Charter and issue such orders, instructions, directions or guidelines to other income-tax authorities as it considers fit for the administration of such Charter.",
+      "retrieval_text": "Section 240 Taxpayer's Charter. The Board shall adopt and declare a Taxpayer's Charter and issue such orders, instructions, directions or guidelines to other income-tax authorities as it considers fit for the administration of such Charter.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -19,5 +20,7 @@
       "x": 27.62,
       "y_start": 80.59
     }
-  ]
+  ],
+  "external_nodes": [],
+  "graph_edges": []
 }

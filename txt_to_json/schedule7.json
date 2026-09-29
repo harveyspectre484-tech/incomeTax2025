@@ -1,0 +1,778 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "VII",
+      "id": "schedule-VII",
+      "reference_text": "[See section 11]",
+      "reference_section": "11",
+      "title": "PERSONS EXEMPT FROM TAX",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-vii-4",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_table": "Any eligible person, mentioned in column B of the Table below, shall not be liable to pay income-tax on the total income for any tax year, subject to the conditions mentioned in column C of the said Table, and the expression used in columns B and C of the said Table, shall have the meanings respectively assigned to them in the Notes below the said Table:",
+      "table": {
+        "type": "table",
+        "caption": "TABLE",
+        "columns": [
+          "Sl. No.",
+          "Eligible persons",
+          "Conditions"
+        ],
+        "column_labels": [
+          "A",
+          "B",
+          "C"
+        ],
+        "rows": [
+          {
+            "sl_no": "1",
+            "id": "schedule-VII-t1",
+            "eligible_persons": {
+              "text": "Any regimental Fund or Non-public Fund established by the armed forces of the Union."
+            },
+            "conditions": {
+              "text": "Such Fund is for the welfare of the past and present members of the armed forces or their dependants."
+            }
+          },
+          {
+            "sl_no": "2",
+            "id": "schedule-VII-t2",
+            "eligible_persons": {
+              "text": "Any fund established for such purposes as may be notified by the Board for the welfare of employees or their dependants and such employees are members of such fund."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t2-cond-a",
+                  "intro": "Such fund—",
+                  "items": [
+                    {
+                      "marker": "i",
+                      "id": "schedule-VII-t2-cond-a-i",
+                      "text": "applies its income or accumulates it for application, wholly and exclusively to the objects for which it is established; and"
+                    },
+                    {
+                      "marker": "ii",
+                      "id": "schedule-VII-t2-cond-a-ii",
+                      "text": "invests its funds and contributions and other sums received by it in the forms or modes specified in section 350;"
+                    }
+                  ]
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t2-cond-b",
+                  "text": "such fund is approved by the Principal Commissioner or Commissioner in such manner as may be prescribed; and such approval shall at any one time have effect for such tax year or years not exceeding three tax years as specified in the order of approval."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "3",
+            "id": "schedule-VII-t3",
+            "eligible_persons": {
+              "text": "Any fund, by whatever name called, set up by the Life Insurance Corporation of India on or after the 1st August, 1996 or any other insurer under a pension scheme."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t3-cond-a",
+                  "text": "The contribution is made to such pension scheme by any person for the purpose of receiving pension from such fund; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t3-cond-b",
+                  "text": "such scheme is approved by the Controller of Insurance or the Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999)."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "4",
+            "id": "schedule-VII-t4",
+            "eligible_persons": {
+              "text": "An authority (whether known as the Khadi and Village Industries Board or by any other name)."
+            },
+            "conditions": {
+              "text": "Such authority is established in a State by or under a State Act or Provincial Act for the development of khadi or village industries in the State."
+            }
+          },
+          {
+            "sl_no": "5",
+            "id": "schedule-VII-t5",
+            "eligible_persons": {
+              "text": "Any body or authority (whether or not a body corporate or corporation sole) established, constituted or appointed by or under any Central Act or State Act or Provincial Act."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t5-cond-a",
+                  "text": "Such body or authority provides for the administration of any one or more of public religious or charitable trusts or endowments (including, temples, gurudwaras, wakfs, churches, synagogues, agiaries or a mutt or other places of public religious worship) or societies for religious or charitable purposes, registered under the Societies Registration Act, 1860 (21 of 1860), or any other law; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t5-cond-b",
+                  "text": "exclusion from total income as provided herein shall not be available to any trust, endowment or society being administered by such body or authority."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "6",
+            "id": "schedule-VII-t6",
+            "eligible_persons": {
+              "text": "SAARC Fund for Regional Projects set up by Colombo Declaration issued on the 21st December, 1991 by the Heads of State or Government of the Member Countries of South Asian Association for Regional Cooperation established on the 8th December, 1985 by the Charter of the South Asian Association for Regional Cooperation."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "7",
+            "id": "schedule-VII-t7",
+            "eligible_persons": {
+              "text": "Insurance Regulatory and Development Authority established under section 3(1) of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "8",
+            "id": "schedule-VII-t8",
+            "eligible_persons": {
+              "text": "Central Electricity Regulatory Commission constituted under section 76(1) of the Electricity Act, 2003 (36 of 2003)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "9",
+            "id": "schedule-VII-t9",
+            "eligible_persons": {
+              "text": "Prasar Bharati (Broadcasting Corporation of India) established section 3(1) of the Prasar Bharati (Broadcasting Corporation of India) Act, 1990 (25 of 1990)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "10",
+            "id": "schedule-VII-t10",
+            "eligible_persons": {
+              "text": "The Prime Minister's National Relief Fund or the Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund (PM CARES FUND)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "11",
+            "id": "schedule-VII-t11",
+            "eligible_persons": {
+              "text": "The Prime Minister's Fund (Promotion of Folk Art)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "12",
+            "id": "schedule-VII-t12",
+            "eligible_persons": {
+              "text": "The Prime Minister's Aid to Students Fund."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "13",
+            "id": "schedule-VII-t13",
+            "eligible_persons": {
+              "text": "The National Foundation for Communal Harmony."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "14",
+            "id": "schedule-VII-t14",
+            "eligible_persons": {
+              "text": "The Swachh Bharat Kosh, set up by the Central Government."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "15",
+            "id": "schedule-VII-t15",
+            "eligible_persons": {
+              "text": "The Clean Ganga Fund set up by the Central Government."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "16",
+            "id": "schedule-VII-t16",
+            "eligible_persons": {
+              "text": "The Chief Minister's Relief Fund or the Lieutenant Governor's Relief Fund in respect of any State or Union territory as referred to in section 133(1)(a)(xv)."
+            },
+            "conditions": {
+              "text": "Nil"
+            }
+          },
+          {
+            "sl_no": "17",
+            "id": "schedule-VII-t17",
+            "eligible_persons": {
+              "text": "Any University or other educational institution wholly or substantially financed by the Government."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t17-cond-a",
+                  "text": "It exists solely for educational purposes and not for purposes of profit; and"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t17-cond-b",
+                  "text": "if the Government grant to such University or other educational institution exceeds such percentage of the total receipts including any donations, as may be prescribed, of such University or other educational institution, it shall be considered as being substantially financed by the Government during the relevant tax year."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "18",
+            "id": "schedule-VII-t18",
+            "eligible_persons": {
+              "text": "Any hospital or other institution wholly or substantially financed by the Government."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t18-cond-a",
+                  "text": "It is for the reception and treatment of persons suffering from illness or mental defectiveness, or for the reception and treatment of persons during convalescence or of persons requiring medical attention or rehabilitation;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t18-cond-b",
+                  "text": "it exists solely for philanthropic purposes and not for the purposes of profit; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VII-t18-cond-c",
+                  "text": "if the Government grant to such hospital or other institution exceeds such percentage of the total receipts including any donations, as may be prescribed, of such hospital or other institution, it shall be considered as being substantially financed by the Government during the relevant tax year."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "19",
+            "id": "schedule-VII-t19",
+            "eligible_persons": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t19-person-a",
+                  "text": "Any University or other educational institution;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t19-person-b",
+                  "text": "any hospital or other institution."
+                }
+              ]
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t19-cond-a",
+                  "text": "Such University or other educational institution exists solely for educational purposes and not for the purposes of profit;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t19-cond-b",
+                  "text": "such hospital or other institution is for the reception and treatment of persons suffering from illness or mental defectiveness, or for the reception and treatment of persons during convalescence or of persons requiring medical attention or rehabilitation;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VII-t19-cond-c",
+                  "text": "such hospital or other institution exists solely for philanthropic purposes and not for the purposes of profit; and"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-VII-t19-cond-d",
+                  "text": "the aggregate of annual receipts of such University or Universities or educational institution or institutions, and hospital or hospitals or institution or institutions, does not exceed five crore rupees;"
+                },
+                {
+                  "marker": "e",
+                  "id": "schedule-VII-t19-cond-e",
+                  "text": "where such University or other educational institution or such hospital or other institution receives any anonymous donation defined under section 355(a), the provisions of section 337 (Table: Sl. No. 1) in respect of specified income shall apply mutatis mutandis as they apply in the case of a registered non-profit organisation and such anonymous donations shall be excluded from the income on which no tax is payable."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "20",
+            "id": "schedule-VII-t20",
+            "eligible_persons": {
+              "text": "A Mutual Fund registered under the Securities and Exchange Board of India Act, 1992 (15 of 1992) or regulations made thereunder."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "21",
+            "id": "schedule-VII-t21",
+            "eligible_persons": {
+              "text": "Any Mutual Fund set up by a public sector bank or a public financial institution or authorised by the Reserve Bank of India."
+            },
+            "conditions": {
+              "text": "Such conditions as the Central Government may, by notification, specify."
+            }
+          },
+          {
+            "sl_no": "22",
+            "id": "schedule-VII-t22",
+            "eligible_persons": {
+              "text": "A recognised provident fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "23",
+            "id": "schedule-VII-t23",
+            "eligible_persons": {
+              "text": "An approved superannuation fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "24",
+            "id": "schedule-VII-t24",
+            "eligible_persons": {
+              "text": "An approved gratuity fund."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "25",
+            "id": "schedule-VII-t25",
+            "eligible_persons": {
+              "text": "Deposit-linked Insurance Fund established under section 3G of the Coal Mines Provident Funds and Miscellaneous Provisions Act, 1948 (46 of 1948)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "26",
+            "id": "schedule-VII-t26",
+            "eligible_persons": {
+              "text": "Deposit-linked Insurance Fund established under section 6C of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "27",
+            "id": "schedule-VII-t27",
+            "eligible_persons": {
+              "text": "Employees' State Insurance Fund set up under the provisions of the Employees' State Insurance Act, 1948 (34 of 1948)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "28",
+            "id": "schedule-VII-t28",
+            "eligible_persons": {
+              "text": "An agricultural produce market committee or board constituted under any law."
+            },
+            "conditions": {
+              "text": "Such committee or board is constituted for the purpose of regulating the marketing of agricultural produce."
+            }
+          },
+          {
+            "sl_no": "29",
+            "id": "schedule-VII-t29",
+            "eligible_persons": {
+              "text": "A corporation established by a Central Act or State Act or Provincial Act or of any other body, institution or association (being a body, institution or association wholly financed by the Government)."
+            },
+            "conditions": {
+              "text": "Such corporation or other body or institution or association has been established or formed for promoting the interests of the members of the Scheduled Castes or the Scheduled Tribes or backward classes, or of any two, or all of them."
+            }
+          },
+          {
+            "sl_no": "30",
+            "id": "schedule-VII-t30",
+            "eligible_persons": {
+              "text": "A corporation established by the Central Government or any State Government for promoting the interests of the members of a minority community."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "31",
+            "id": "schedule-VII-t31",
+            "eligible_persons": {
+              "text": "Any corporation established by a Central Act or State Act or Provincial Act for the welfare and economic upliftment of ex-servicemen being the citizens of India."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "32",
+            "id": "schedule-VII-t32",
+            "eligible_persons": {
+              "text": "Any co-operative society formed for promoting the interests of the members of either the Scheduled Castes or Scheduled Tribes, or both."
+            },
+            "conditions": {
+              "text": "Membership of such co-operative society shall consist of only other co-operative societies formed for similar purposes and the finances of the society are provided by the Government and such other societies."
+            }
+          },
+          {
+            "sl_no": "33",
+            "id": "schedule-VII-t33",
+            "eligible_persons": {
+              "text": "Coffee Board constituted under section 4 of the Coffee Act, 1942 (7 of 1942)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "34",
+            "id": "schedule-VII-t34",
+            "eligible_persons": {
+              "text": "Rubber Board constituted under section 4(1) of the Rubber Board Act, 1947 (24 of 1947)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "35",
+            "id": "schedule-VII-t35",
+            "eligible_persons": {
+              "text": "Tea Board established under section 4 of the Tea Act, 1953 (29 of 1953)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "36",
+            "id": "schedule-VII-t36",
+            "eligible_persons": {
+              "text": "Tobacco Board constituted under the Tobacco Board Act, 1975 (4 of 1975)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "37",
+            "id": "schedule-VII-t37",
+            "eligible_persons": {
+              "text": "Marine Products Export Development Authority established under section 4 of the Marine Products Export Development Authority Act, 1972 (13 of 1972)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "38",
+            "id": "schedule-VII-t38",
+            "eligible_persons": {
+              "text": "Agricultural and Processed Food Products Export Development Authority established under section 4 of the Agricultural and Processed Food Products Export Development Act, 1985 (2 of 1986)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "39",
+            "id": "schedule-VII-t39",
+            "eligible_persons": {
+              "text": "Spices Board constituted under section 3(1) of the Spices Board Act, 1986 (10 of 1986)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "40",
+            "id": "schedule-VII-t40",
+            "eligible_persons": {
+              "text": "Coir Board established under section 4 of the Coir Industry Act, 1953 (45 of 1953)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "41",
+            "id": "schedule-VII-t41",
+            "eligible_persons": {
+              "text": "New Pension System Trust established on the 27th February, 2008 under the provisions of the Indian Trusts Act, 1882 (2 of 1882)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "42",
+            "id": "schedule-VII-t42",
+            "eligible_persons": {
+              "intro": "Any body or authority or Board or Trust or Commission, not being a company, which has been established or constituted by or under a Central Act or State Act with one or more of the following purposes,—",
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t42-person-a",
+                  "text": "dealing with and satisfying the need for housing accommodation;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t42-person-b",
+                  "text": "planning, development or improvement of cities, towns and villages;"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VII-t42-person-c",
+                  "text": "regulating, or regulating and developing, any activity for the benefit of the general public; or"
+                },
+                {
+                  "marker": "d",
+                  "id": "schedule-VII-t42-person-d",
+                  "text": "regulating any matter, for the benefit of the general public, arising out of the object for which it has been created."
+                }
+              ]
+            },
+            "conditions": {
+              "text": "Such body or authority or Board or Trust or Commission is notified by the Central Government."
+            }
+          },
+          {
+            "sl_no": "43",
+            "id": "schedule-VII-t43",
+            "eligible_persons": {
+              "text": "National Credit Guarantee Trustee Company Limited, being a company established and wholly financed by the Central Government for the purposes of operating credit guarantee funds established and wholly financed by the Central Government."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "44",
+            "id": "schedule-VII-t44",
+            "eligible_persons": {
+              "text": "A credit guarantee fund established and wholly financed by the Central Government and managed by the National Credit Guarantee Trustee Company Limited."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "45",
+            "id": "schedule-VII-t45",
+            "eligible_persons": {
+              "text": "Credit Guarantee Fund Trust for Micro and Small Enterprises, being a trust created by the Central Government and the Small Industries Development Bank of India established under section 3(1) of the Small Industries Development Bank of India Act, 1989 (39 of 1989)."
+            },
+            "conditions": {
+              "text": "Nil."
+            }
+          },
+          {
+            "sl_no": "46",
+            "id": "schedule-VII-t46",
+            "eligible_persons": {
+              "text": "An infrastructure debt fund."
+            },
+            "conditions": {
+              "text": "Such fund is set up as per the guidelines issued by the Central Government, by notification."
+            }
+          },
+          {
+            "sl_no": "47",
+            "id": "schedule-VII-t47",
+            "eligible_persons": {
+              "text": "An institution established for financing the infrastructure and development set up under an Act of Parliament."
+            },
+            "conditions": {
+              "text": "Such exclusion from total income is for ten consecutive tax years, beginning from the tax year in which such institution is set up and such institution is notified by the Central Government."
+            }
+          },
+          {
+            "sl_no": "48",
+            "id": "schedule-VII-t48",
+            "eligible_persons": {
+              "text": "A developmental financing institution, licensed by the Reserve Bank of India under an Act of Parliament referred to against serial number 47."
+            },
+            "conditions": {
+              "items": [
+                {
+                  "marker": "a",
+                  "id": "schedule-VII-t48-cond-a",
+                  "text": "Such institution is notified by the Central Government;"
+                },
+                {
+                  "marker": "b",
+                  "id": "schedule-VII-t48-cond-b",
+                  "text": "exclusion of such income from the total income is for five consecutive tax years beginning from the tax year in which the developmental financing institution is set up; and"
+                },
+                {
+                  "marker": "c",
+                  "id": "schedule-VII-t48-cond-c",
+                  "text": "the Central Government may, by notification extend the period of exclusion for a further period, not exceeding five more consecutive tax years, subject to fulfilment of such conditions as specified in the said notification."
+                }
+              ]
+            }
+          },
+          {
+            "sl_no": "49",
+            "id": "schedule-VII-t49",
+            "eligible_persons": {
+              "text": "New Development Bank."
+            },
+            "conditions": {
+              "text": "Such exemption shall be subject to furnishing of information in such form and manner, as may be prescribed."
+            },
+            "footnote_refs": [
+              "43"
+            ]
+          }
+        ],
+        "id": "schedule-VII-table"
+      },
+      "text_after_table": "",
+      "notes": [
+        {
+          "type": "note",
+          "number": "1",
+          "id": "schedule-VII-note1",
+          "text": "For the purposes of Sl. No. 3, the expression \"Controller of Insurance\" shall have the same meaning as assigned to it in section 2(5B) of the Insurance Act, 1938 (4 of 1938)."
+        },
+        {
+          "type": "note",
+          "number": "2",
+          "id": "schedule-VII-note2",
+          "text": "For the purposes of Sl. No. 4, the expression \"khadi\" and \"village industries\" shall have the meanings respectively assigned to them in the Khadi and Village Industries Commission Act, 1956 (61 of 1956)."
+        },
+        {
+          "type": "note",
+          "number": "3",
+          "id": "schedule-VII-note3",
+          "text": "For the purposes of Sl. No. 21, the expression \"public financial institution\" shall have the same meaning as assigned to it in section 2(72) of the Companies Act, 2013 (18 of 2013)."
+        },
+        {
+          "type": "note",
+          "number": "4",
+          "id": "schedule-VII-note4",
+          "text_before_clauses": "For the purposes of Sl. No. 29,—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-VII-note4-a",
+              "text": "\"Scheduled Castes\" and \"Scheduled Tribes\" shall have the meanings respectively assigned to them in article 366(24) or (25) of the Constitution;"
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-VII-note4-b",
+              "text": "\"backward classes\" means such classes of citizens, other than the Scheduled Castes and the Scheduled Tribes, as may be notified by the Central Government or any State Government."
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "note",
+          "number": "5",
+          "id": "schedule-VII-note5",
+          "text": "For the purposes of Sl. No. 30, the expression \"minority community\" means a community notified as such by the Central Government."
+        },
+        {
+          "type": "note",
+          "number": "6",
+          "id": "schedule-VII-note6",
+          "text_before_clauses": "For the purposes of Sl. No. 31, the expression \"ex-servicemen\" means persons—",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-VII-note6-i",
+              "text": "who have served in any rank, whether as combatant or non-combatant;"
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "schedule-VII-note6-ii",
+              "text": "in the armed forces of the Union or armed forces of the Indian States before the commencement of the Constitution (but excluding the Assam Rifles, Defence Security Corps, General Reserve Engineering Force, Lok Sahayak Sena, Jammu and Kashmir Militia and Territorial Army);"
+            },
+            {
+              "type": "clause",
+              "number": "iii",
+              "id": "schedule-VII-note6-iii",
+              "text": "for a continuous period of not less than six months after attestation;"
+            },
+            {
+              "type": "clause",
+              "number": "iv",
+              "id": "schedule-VII-note6-iv",
+              "text": "who have been released, otherwise than by way of dismissal or discharge on account of misconduct or inefficiency; and"
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "schedule-VII-note6-v",
+              "text": "includes their wife, children, father, mother, minor brother, widowed daughter and widowed sister, wholly dependent upon such ex-servicemen, immediately before their death or incapacitation, in case of deceased or incapacitated ex-servicemen."
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "43",
+      "id": "schedule-VII-footnote43",
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "effective_from": "2026-04-01",
+      "applies_to": [
+        "schedule-VII-t49"
+      ]
+    }
+  ],
+  "orphans": []
+}

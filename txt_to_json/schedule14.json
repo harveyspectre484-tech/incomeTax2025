@@ -1,0 +1,395 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "XIV",
+      "id": "schedule-XIV",
+      "reference_text": "[See section 55]",
+      "reference_section": "55",
+      "title": "INSURANCE BUSINESS",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-xiv-3",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_parts": "",
+      "parts": [
+        {
+          "type": "part",
+          "number": "A",
+          "id": "schedule-XIV-A",
+          "title": "Life insurance business",
+          "heading_text": "A.—Life insurance business",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "1",
+              "id": "schedule-XIV-A-1",
+              "title": "Profits of life insurance business to be computed separately.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "If a person is engaged in life insurance business during the tax year, the profits and gains of such business shall be computed separately from profits and gains of any other business.",
+              "clauses": [],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "2",
+              "id": "schedule-XIV-A-2",
+              "title": "Computation of profits of life insurance business.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XIV-A-2-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The profits and gains life insurance business shall be the annual average of the surplus after adjusting the surplus or deficit disclosed by the actuarial valuation made as per the Insurance Act, 1938 (4 of 1938) for the last inter-valuation period ending before the commencement of tax year, so as to exclude from it any surplus or deficit from any earlier inter-valuation period.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XIV-A-2-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "Any expenditure which is inadmissible under section 34 in computing the profits and gains of a business, shall be added to such profits and gains of life insurance business.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "3",
+              "id": "schedule-XIV-A-3",
+              "title": "Adjustment of tax paid by deduction at source.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_clauses": "When an assessment of the life insurance business profits is made based on the annual average of a surplus disclosed by a valuation for an inter-valuation period exceeding twelve months, then, in computing the income-tax, payable for that year credit shall--",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XIV-A-3-a",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "not be given as per section 390 for the income-tax paid in the preceding tax year;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XIV-A-3-b",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text": "be given for the annual average of the income-tax paid by deduction at source from interest on securities or otherwise during such period.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        },
+        {
+          "type": "part",
+          "number": "B",
+          "id": "schedule-XIV-B",
+          "title": "Other insurance business",
+          "heading_text": "B.—Other insurance business",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "4",
+              "id": "schedule-XIV-B-4",
+              "title": "Computation of profits and gains of other insurance business.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XIV-B-4-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The profits and gains of any insurance business other than life insurance shall be the profit before tax and appropriations as disclosed in the profit and loss account prepared as per the Insurance Act, 1938 (4 of 1938) or the rules made thereunder or the Insurance Regulatory and Development Authority Act, 1999 (4 of 1999) or the regulations made subject to the following adjustments:--",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XIV-B-4-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "subject to the other provision of this paragraph, any expenditure or allowance including any amount debited to profit and loss account either by way of a provision for any tax, dividend, reserve, or any other provision as may be prescribed, which is inadmissible under sections 28 to 54 shall be added back;",
+                      "children": [],
+                      "footnote_refs": [
+                        "51"
+                      ],
+                      "amendments": [
+                        {
+                          "footnote_ref": "51",
+                          "type": "substitution",
+                          "text": "this paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XIV-B-4-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "any gain or loss from realisation of investments shall be added or deducted, as the case may be, if not already credited or debited to the profit and loss account;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "c",
+                      "id": "schedule-XIV-B-4-1-c",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "any provision for diminution in investment value debited to the profit and loss account, shall be added back; and",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "d",
+                      "id": "schedule-XIV-B-4-1-d",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "such amount carried over to a reserve for unexpired risks as may be prescribed shall be allowed as a deduction.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XIV-B-4-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The amount payable under section 37, which is added under sub-paragraph (1)(a) shall be allowed as deduction in the tax year in which it is actually paid.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "3",
+                  "id": "schedule-XIV-B-4-3",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The amount not deductible under sub-clause (i) or (ii) of section 35(b), which is added under sub-paragraph (1)(a), shall be allowed subsequently as a deduction in a tax year in accordance with the provisions of the said sub-clause, as the case may be.",
+                  "clauses": [],
+                  "text_after_clauses": "",
+                  "footnote_refs": [
+                    "52"
+                  ],
+                  "amendment_status": "inserted"
+                }
+              ],
+              "text_after_subparagraphs": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        },
+        {
+          "type": "part",
+          "number": "C",
+          "id": "schedule-XIV-C",
+          "title": "Other provisions",
+          "heading_text": "C.—Other provisions",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_paragraphs": "",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "number": "5",
+              "id": "schedule-XIV-C-5",
+              "title": "Profits and gains of non-resident person.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XIV-C-5-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "The profits and gains of a person non-resident in India who is engaged in the insurance business through its branches in India may, in the absence of more reliable data, be deemed to be that proportion of his global income which corresponds to the proportion which his premium income derived from India bears to his total premium income.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XIV-C-5-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "In this paragraph, the global income in relation to life insurance business of a person not resident in India shall be computed as per this Act for computing the profits and gains of life Insurance business carried on in India.",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            },
+            {
+              "type": "paragraph",
+              "number": "6",
+              "id": "schedule-XIV-C-6",
+              "title": "Interpretation.",
+              "x": null,
+              "y_start": null,
+              "page_start": null,
+              "page_end": null,
+              "text_before_subparagraphs": "",
+              "subparagraphs": [
+                {
+                  "type": "subparagraph",
+                  "number": "1",
+                  "id": "schedule-XIV-C-6-1",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "For the purposes of this schedule,--",
+                  "clauses": [
+                    {
+                      "type": "clause",
+                      "number": "a",
+                      "id": "schedule-XIV-C-6-1-a",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "\"investments\" include securities, stocks and shares;",
+                      "children": []
+                    },
+                    {
+                      "type": "clause",
+                      "number": "b",
+                      "id": "schedule-XIV-C-6-1-b",
+                      "x": null,
+                      "y_start": null,
+                      "page_start": null,
+                      "page_end": null,
+                      "text": "\"life insurance business\" means life insurance business as defined in section 2(11) of the Insurance Act, 1938 (4 of 1938).",
+                      "children": []
+                    }
+                  ],
+                  "text_after_clauses": ""
+                },
+                {
+                  "type": "subparagraph",
+                  "number": "2",
+                  "id": "schedule-XIV-C-6-2",
+                  "x": null,
+                  "y_start": null,
+                  "page_start": null,
+                  "page_end": null,
+                  "text_before_clauses": "References to the Insurance Act, 1938 (4 of 1938) in this Schedule regarding the Life Insurance Corporation of India shall be treated as references to that Act or section 43 of the Life Insurance Corporation Act, 1956 (31 of 1956).",
+                  "clauses": [],
+                  "text_after_clauses": ""
+                }
+              ],
+              "text_after_subparagraphs": ""
+            }
+          ],
+          "text_after_paragraphs": ""
+        }
+      ],
+      "text_after_parts": ""
+    }
+  ],
+  "sections": [],
+  "footnotes": [
+    {
+      "type": "footnote",
+      "number": "51",
+      "id": "schedule-XIV-footnote-51",
+      "source_number_text": "51..",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Sub. for \"this rule\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "related_node_ids": [
+        "schedule-XIV-B-4-1-a"
+      ]
+    },
+    {
+      "type": "footnote",
+      "number": "52",
+      "id": "schedule-XIV-footnote-52",
+      "source_number_text": "52.",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+      "related_node_ids": [
+        "schedule-XIV-B-4-3"
+      ]
+    }
+  ],
+  "orphans": []
+}

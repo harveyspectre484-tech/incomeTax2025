@@ -1,4 +1,5 @@
 {
+  "section_number": "107",
   "legal_units": [
     {
       "id": "107",
@@ -9,7 +10,7 @@
       "section_number": "107",
       "title": "Charge of tax.",
       "text": "Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
-      "context_text": "Section 107 Charge of tax. Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
+      "retrieval_text": "Section 107 Charge of tax. Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -18,6 +19,15 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "107",
+      "to_id": "195",
+      "edge_type": "references",
+      "reference_text": "section 195"
     }
   ]
 }

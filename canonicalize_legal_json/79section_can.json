@@ -1,4 +1,5 @@
 {
+  "section_number": "79",
   "legal_units": [
     {
       "id": "79",
@@ -8,8 +9,8 @@
       "section_id": "79",
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
-      "text": "(1) If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72. (2) The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed. (3) For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
-      "context_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. (1) If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72. (2) The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed. (3) For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
+      "text": "",
+      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -28,7 +29,7 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
-      "context_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(1): If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
+      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(1): If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -47,7 +48,7 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
-      "context_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(2): The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
+      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(2): The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,7 +67,7 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
-      "context_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(3): For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
+      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(3): For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -75,6 +76,51 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 150.07
+    }
+  ],
+  "external_nodes": [],
+  "graph_edges": [
+    {
+      "from_id": "79-1",
+      "to_id": "79",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "79",
+      "to_id": "79-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "79-2",
+      "to_id": "79",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "79",
+      "to_id": "79-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "79-3",
+      "to_id": "79",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "79",
+      "to_id": "79-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "79-1",
+      "to_id": "72",
+      "edge_type": "references",
+      "reference_text": "section 72"
+    },
+    {
+      "from_id": "79-2",
+      "to_id": "79-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }
