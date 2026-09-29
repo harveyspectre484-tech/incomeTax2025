@@ -32,31 +32,51 @@
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "42-2-a",
-              "x": 69.87,
-              "y_start": 201.52,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "towards the whole or part of the cost of asset; or",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "42-2-b",
-              "x": 69.87,
-              "y_start": 212.13,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset; C = liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
+          "formula": " A = B - C",
+          "where_block": {
+            "type": "where_block",
+            "id": "42-2-where",
+            "x": 40.26,
+            "y_start": 173.41,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "where,—",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "42-2-where-A",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A =  variation in liability;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "42-2-where-B",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B =  payment expressed in Indian currency at the time when it is made—(a) towards the whole or part of the cost of asset; or (b) towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "42-2-where-C",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C =   liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
+                "children": []
+              }
+            ]
+          }
         },
         {
           "type": "subsection",

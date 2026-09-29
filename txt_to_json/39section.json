@@ -131,8 +131,51 @@
           "page_start": 1,
           "page_end": 1,
           "text_before_clauses": "In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received.",
-          "clauses": [],
-          "text_after_clauses": ""
+          "formula": " A × (B / C)",
+          "where_block": {
+            "type": "where_block",
+            "id": "39-3-where",
+            "x": 40.26,
+            "y_start": 173.41,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "where,—",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "39-3-where-A",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A =  total amount of subsidy, grant or reimbursement not directly relatable to the asset;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "39-3-where-B",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = cost of the asset acquired for which actual cost is to be determined;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "39-3-where-C",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received",
+                "children": []
+              }
+            ]
+          }
         },
         {
           "type": "subsection",

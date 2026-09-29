@@ -52,11 +52,67 @@
               "y_start": 173.41,
               "page_start": 1,
               "page_end": 1,
-              "text": "for successor co-operative bank or converted banking company:— A = the amount of deduction allowable to the predecessor co-operative bank, if the business reorganisation had not taken place; B = the number of days comprised in the period beginning with the 1st day of the tax year and ending on the day immediately preceding the date of business reorganisation; and C = the total number of days in the tax year in which the business reorganisation has taken place. D = the number of days comprised in the period beginning with the date of business reorganisation and ending on the last day of the tax year.",
+              "text": "for successor co-operative bank or converted banking company:—",
               "children": []
             }
           ],
-          "text_after_sub_clauses": "where,—"
+          "where_block": {
+            "type": "where_block",
+            "id": "64-2-where",
+            "x": 40.26,
+            "y_start": 173.41,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "64-2-where-A",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = the amount of deduction allowable to the predecessor co-operative bank, if the business reorganisation had not taken place;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "64-2-where-B",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = the number of days comprised in the period beginning with the 1st day of the tax year and ending on the day immediately preceding the date of business reorganisation; and",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "64-2-where-C",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C = the total number of days in the tax year in which the business reorganisation has taken place.",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "D",
+                "id": "64-2-where-D",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "D = the number of days comprised in the period beginning with the date of business reorganisation and ending on the last day of the tax year.",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          },
+          "text_after_sub_clauses": ""
         },
         {
           "type": "subsection",

@@ -75,7 +75,21 @@
           "y_start": 177.12,
           "page_start": 1,
           "page_end": 1,
-          "text": "\"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021); 1985 (82 of 1985);]",
+          "text": "\"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021);",
+          "children": []
+        },
+        {
+          "type": "clause",
+          "number": "fa",
+          "id": "235-fa",
+          "x": 42.68,
+          "y_start": 177.12,
+          "page_start": 1,
+          "page_end": 1,
+          "footnote_refs": [
+            "42"
+          ],
+          "text": "\"Inland Waterways Authority of India\" shall have the same meaning as assigned to it in section 3 of the Inland Waterways Authority of India Act,1985 (82 of 1985);]",
           "children": []
         },
         {
@@ -140,48 +154,60 @@
               "y_start": 260.93,
               "page_start": 1,
               "page_end": 1,
-              "text_before_items": "the main object of the company is to carry on the business of operating ships,",
-              "items": [
-                {
-                  "type": "item",
-                  "number": "A",
-                  "id": "235-h-iv-A",
-                  "x": 68.93,
-                  "y_start": 282.15,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the place where the board of directors of the company or its executive directors, make their decisions; or",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "B",
-                  "id": "235-h-iv-B",
-                  "x": 68.93,
-                  "y_start": 292.76,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
-                  "children": []
-                }
-              ],
-              "text_after_items": ""
-            },
-            {
-              "type": "sub_clause",
-              "number": "i",
-              "id": "235-h-i",
-              "x": 42.68,
-              "y_start": 312.91,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "\"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
+              "text": "the main object of the company is to carry on the business of operating ships,",
               "children": []
-            },
+            }
+          ],
+          "explanation_block": {
+            "type": "explanation_block",
+            "id": "235-h-explanation",
+            "x": 68.93,
+            "y_start": 282.15,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "and for the purposes of sub-clause (ii), \"place of effective management of the company\" means—",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "235-h-explanation-A",
+                "x": 68.93,
+                "y_start": 282.15,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "the place where the board of directors of the company or its executive directors, make their decisions; or",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "235-h-explanation-B",
+                "x": 68.93,
+                "y_start": 292.76,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          },
+          "text_after_sub_clauses": ""
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "235-i",
+          "x": 42.68,
+          "y_start": 312.91,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
+          "sub_clauses": [
             {
               "type": "sub_clause",
               "number": "i",
-              "id": "235-h-i",
+              "id": "235-i-i",
               "x": 71.75,
               "y_start": 323.52,
               "page_start": 1,
@@ -192,7 +218,7 @@
             {
               "type": "sub_clause",
               "number": "ii",
-              "id": "235-h-ii",
+              "id": "235-i-ii",
               "x": 69.33,
               "y_start": 334.13,
               "page_start": 1,
@@ -203,95 +229,105 @@
             {
               "type": "sub_clause",
               "number": "iii",
-              "id": "235-h-iii",
+              "id": "235-i-iii",
               "x": 66.91,
               "y_start": 363.84,
               "page_start": 1,
               "page_end": 1,
-              "text_before_items": "a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
-              "items": [
-                {
-                  "type": "item",
-                  "number": "A",
-                  "id": "235-h-iii-A",
-                  "x": 68.93,
-                  "y_start": 385.05,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "B",
-                  "id": "235-h-iii-B",
-                  "x": 68.93,
-                  "y_start": 405.21,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "fishing vessels;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "C",
-                  "id": "235-h-iii-C",
-                  "x": 68.46,
-                  "y_start": 415.82,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "factory ships;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "D",
-                  "id": "235-h-iii-D",
-                  "x": 67.98,
-                  "y_start": 426.43,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "pleasure crafts;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "E",
-                  "id": "235-h-iii-E",
-                  "x": 68.93,
-                  "y_start": 437.03,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "harbour and river ferries;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "F",
-                  "id": "235-h-iii-F",
-                  "x": 68.93,
-                  "y_start": 447.64,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "offshore installations; and",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "G",
-                  "id": "235-h-iii-G",
-                  "x": 67.98,
-                  "y_start": 458.25,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
-                  "children": []
-                }
-              ],
-              "text_after_items": ""
+              "text": "a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
+              "children": []
             }
           ],
-          "text_after_sub_clauses": "and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include—"
+          "exclusion_block": {
+            "type": "exclusion_block",
+            "id": "235-i-exclusions",
+            "x": 68.93,
+            "y_start": 385.05,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "but does not include—",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "235-i-exclusions-A",
+                "x": 68.93,
+                "y_start": 385.05,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "235-i-exclusions-B",
+                "x": 68.93,
+                "y_start": 405.21,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "fishing vessels;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "235-i-exclusions-C",
+                "x": 68.46,
+                "y_start": 415.82,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "factory ships;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "D",
+                "id": "235-i-exclusions-D",
+                "x": 67.98,
+                "y_start": 426.43,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "pleasure crafts;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "E",
+                "id": "235-i-exclusions-E",
+                "x": 68.93,
+                "y_start": 437.03,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "harbour and river ferries;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "F",
+                "id": "235-i-exclusions-F",
+                "x": 68.93,
+                "y_start": 447.64,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "offshore installations; and",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "G",
+                "id": "235-i-exclusions-G",
+                "x": 67.98,
+                "y_start": 458.25,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          },
+          "text_after_sub_clauses": ""
         },
         {
           "type": "clause",
@@ -369,7 +405,10 @@
       "number": "42",
       "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
       "page_start": 1,
-      "page_end": 1
+      "page_end": 1,
+      "referenced_by": [
+        "235-fa"
+      ]
     }
   ],
   "orphans": []

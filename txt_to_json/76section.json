@@ -66,8 +66,64 @@
           "y_start": 145.83,
           "page_start": 1,
           "page_end": 1,
-          "text": "For the purposes of sub-section (1), the short-term capital gains shall be computed as per the following formula:— X = A – B – C, where,— X = short-term capital gains; A = full value of consideration received or accruing as a result of the transfer or redemption or maturity of the debenture or unit or bond; B = the cost of acquisition of the debenture or unit or bond; and C = the expenditure incurred wholly and exclusively in connection with such transfer or redemption or maturity.",
-          "children": []
+          "text": "For the purposes of sub-section (1), the short-term capital gains shall be computed as per the following formula:— X = A – B – C",
+          "children": [],
+          "where_block": {
+            "type": "where_block",
+            "id": "76-3-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "X",
+                "id": "76-3-where-X",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "X = short-term capital gains;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "A",
+                "id": "76-3-where-A",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = full value of consideration received or accruing as a result of the transfer or redemption or maturity of the debenture or unit or bond;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "76-3-where-B",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = the cost of acquisition of the debenture or unit or bond; and",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "76-3-where-C",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C = the expenditure incurred wholly and exclusively in connection with such transfer or redemption or maturity.",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

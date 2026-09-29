@@ -32,8 +32,52 @@
           "y_start": 380.0,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N where,— TI = the tonnage income of each qualifying ship; DTI = the daily tonnage income of each qualifying ship; N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+          "text_before_clauses": "For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N",
           "clauses": [],
+          "where_block": {
+            "type": "where_block",
+            "id": "227-2-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "TI",
+                "id": "76-3-where-TI",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "TI =  the tonnage income of each qualifying ship;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "DTI",
+                "id": "76-3-where-DTI",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "DTI = the daily tonnage income of each qualifying ship;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "N",
+                "id": "76-3-where-N",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+                "children": []
+              }
+            ]
+          },
           "text_after_clauses": ""
         },
         {

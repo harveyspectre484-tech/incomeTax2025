@@ -125,8 +125,7 @@
                 "sl_no": "11",
                 "description_of_the_capital_asset": "Capital asset being a unit or units in the segregated portfolio.",
                 "cost_of_acquisition": {
-                  "text_before_items": "Computed as per the following formula:—",
-                  "note": "The equation itself did not survive text extraction from the source PDF (likely rendered as an image/special layout there); only the variable definitions below are available in this markdown.",
+                  "text_before_items": "Computed as per the following formula:— X= ( A × B )/ C",
                   "variables": [
                     {
                       "symbol": "X",
@@ -161,8 +160,7 @@
                 "sl_no": "14",
                 "description_of_the_capital_asset": "Shares in the resulting company as a result of demerger.",
                 "cost_of_acquisition": {
-                  "text_before_items": "Computed as per the following formula:—",
-                  "note": "The equation itself did not survive text extraction from the source PDF (likely rendered as an image/special layout there); only the variable definitions below are available in this markdown.",
+                  "text_before_items": "Computed as per the following formula:— X= (A × B )/ C",
                   "variables": [
                     {
                       "symbol": "X",

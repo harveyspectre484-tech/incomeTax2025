@@ -213,8 +213,64 @@
               "line_start": 23,
               "page_start": 1,
               "page_end": 1,
-              "text": "If under-reported income arises out of determination of deemed total income as per section 206(1) and (2), the amount of total under-reported income (A – B) + (C – D) where,— A = the total income assessed as per the provisions other than the provisions contained in section 206 (herein referred to as \"general provisions\"); B = the total income that would have been chargeable had the total income assessed as per the general provisions been reduced by the amount of underreported income; C = the total income assessed as per section 206; D = the total income that would have been chargeable had the total income assessed as per section 206 been reduced by the amount of under-reported income.",
-              "children": []
+              "text": "If under-reported income arises out of determination of deemed total income as per section 206(1) and (2), the amount of total under-reported income (A – B) + (C – D) ",
+              "formula": "(A – B) + (C – D)",
+              "where_block": {
+                "type": "where_block",
+                "id": "439-4-where",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "A",
+                    "id": "424-5-where-A",
+                    "x": 27.62,
+                    "y_start": 95.44,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "A =the total income assessed as per the provisions other than the provisions contained in section 206 (herein referred to as “/general provisions/”)",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "B",
+                    "id": "439-4-where-B",
+                    "x": 27.62,
+                    "y_start": 95.44,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "B = the total income that would have been chargeable had the total income assessed as per the general provisions been reduced by the amount of under-reported income;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "C",
+                    "id": "439-4-where-C",
+                    "x": 27.62,
+                    "y_start": 95.44,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "C =the total income assessed as per section 206;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "D",
+                    "id": "439-4-where-D",
+                    "x": 27.62,
+                    "y_start": 95.44,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "D =the total income that would have been chargeable had the total income assessed as per section 206 been reduced by the amount of under-reported income",
+                    "children": []
+                  }
+                ],
+                "text_after_items": ""
+              }
             },
             {
               "type": "subsection",

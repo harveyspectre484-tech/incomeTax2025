@@ -31,8 +31,75 @@
           "y_start": 143.71,
           "page_start": 1,
           "page_end": 1,
-          "text": "The written down value of the block of assets, being ships or inland vessels, as the case may be, as on the first day of the first tax year, shall be divided in the ratio of the book written down value of the qualifying ships (herein referred to as the qualifying assets) and the book written down value of the non- qualifying ships (herein referred to as the other assets), as per the following formula:— where,— D = the written down value of the block of qualifying assets as on the first day of the tax year; E = the written down value of the block of other assets as on the first day of the tax year; A = the written down value of the existing block of assets, being ships or inland vessel, as the case may be, as on the first day of the tax year; B = the aggregate of book written down value of qualifying assets as on the last day of the preceding tax year; and C = the aggregate of the book written down value of other assets as on the last day of the preceding tax year.",
-          "children": []
+          "text": " The written down value of the block of assets, being ships or inland vessels, as the case may be, as on the first day of the first tax year, shall be divided in the ratio of the book written down value of the qualifying ships (herein referred to as the qualifying assets) and the book written down value of the non-qualifying ships (herein referred to as the other assets), as per the following formula:— D= A x B/(B + C) , E = A x C/(B + C)",
+          "children": [],
+          "where_block": {
+            "type": "where_block",
+            "id": "229-2-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "D",
+                "id": "229-2-where-D",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "D = the written down value of the block of qualifying assets as on the first day of the tax year;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "E",
+                "id": "229-2-where-E",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "E = the written down value of the block of other assets as on the first day of the tax year;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "A",
+                "id": "229-2-where-A",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = the written down value of the existing block of assets, being ships or inland vessel, as the case may be, as on the first day of the tax year;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "229-2-where-B",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = the aggregate of book written down value of qualifying assets as on the last day of the preceding tax year; and",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "229-2-where-C",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C =  the aggregate of the book written down value of other assets as on the last day of the preceding tax year",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",
@@ -63,8 +130,64 @@
               "y_start": 353.23,
               "page_start": 1,
               "page_end": 1,
-              "text": "qualifying assets begins to be used for purposes other than the tonnage tax business, an appropriate portion of the written down value allocable to such asset shall be reduced from the written down value of that block and shall be added to the block of other assets as per the following formula:— where,— A = the appropriate portion of the written down value allocable to the asset which begins to be used for purposes other than the tonnage tax business; B = the written down value of block of qualifying assets as on the first day of the tax year; C = the book written down value of qualifying asset which begins to be used for purpose other than the tonnage tax business; and D = the aggregate of book written down value of all the assets forming the block of qualifying assets;",
-              "children": []
+              "text": "qualifying assets begins to be used for purposes other than the tonnage tax business, an appropriate portion of the written down value allocable to such asset shall be reduced from the written down value of that block and shall be added to the block of other assets as per the following formula:— A = B x (C/D) ;",
+              "children": [],
+              "where_block": {
+                "type": "where_block",
+                "id": "229-4-a-where",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "A",
+                    "id": "229-4-a-where-A",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "A = the appropriate portion of the written down value allocable to the asset which begins to be used for purposes other than the tonnage tax business;;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "B",
+                    "id": "229-4-a-where-B",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "B = the written down value of block of qualifying assets as on the first day of the tax year",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "C",
+                    "id": "229-4-a-where-C",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "C = the book written down value of qualifying asset which begins to be used for purpose other than the tonnage tax business; and",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "D",
+                    "id": "229-4-a-where-D",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "D =  the aggregate of book written down value of all the assets forming the block of qualifying assets;",
+                    "children": []
+                  }
+                ],
+                "text_after_items": ""
+              }
             },
             {
               "type": "clause",
@@ -74,8 +197,64 @@
               "y_start": 484.77,
               "page_start": 1,
               "page_end": 1,
-              "text": "other assets, begins to be used for tonnage tax business, an appropriate portion of the written down value allocable to such asset shall be reduced from the written down value of the block of other assets and shall be added to the block of qualifying asset as per the following formula:— where,— E = the appropriate proportion of the written down value allocable to the asset which begins to be used for purposes of tonnage tax business; F = the written down value of block of other assets as on the first day of the tax year; G = book written down value of the other asset which begins to be used for tonnage tax business; and I = the aggregate of book written down value of all the assets forming the block of other assets.",
-              "children": []
+              "text": "other assets, begins to be used for tonnage tax business, an appropriate portion of the written down value allocable to such asset shall be reduced from the written down value of the block of other assets and shall be added to the block of qualifying asset as per the following formula:— E = F x (G/I) where,— E = the appropriate proportion of the written down value allocable to the asset which begins to be used for purposes of tonnage tax business; F = the written down value of block of other assets as on the first day of the tax year; G = book written down value of the other asset which begins to be used for tonnage tax business; and I = the aggregate of book written down value of all the assets forming the block of other assets.",
+              "children": [],
+              "where_block": {
+                "type": "where_block",
+                "id": "229-4-b-where",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "E",
+                    "id": "229-4-b-where-E",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "E = the appropriate proportion of the written down value allocable to the asset which begins to be used for purposes of tonnage tax business;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "F",
+                    "id": "229-4-b-where-F",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "F = the written down value of block of other assets as on the first day of the tax year",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "G",
+                    "id": "229-4-b-where-G",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "G =  book written down value of the other asset which begins to be used for tonnage tax business; and",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "I",
+                    "id": "229-4-b-where-I",
+                    "x": 27.62,
+                    "y_start": 145.83,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "I = the aggregate of book written down value of all the assets forming the block of other assets;",
+                    "children": []
+                  }
+                ],
+                "text_after_items": ""
+              }
             }
           ],
           "text_after_clauses": ""

@@ -21,7 +21,51 @@
           "number": "2",
           "id": "352-2",
           "text_before_formula": "The accreted income referred to in sub-section (1) shall be computed using the following formula:—",
-          "formula": "A = B - C, where,— A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed."
+          "formula": "A = B - C",
+          "where_block": {
+            "type": "where_block",
+            "id": "352-2-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "352-2-where-A",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A= Accreted income;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "352-2-where-B",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B= Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; ",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "352-2-where-C",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C= Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
+                "children": []
+              }
+            ]
+          }
         },
         {
           "type": "subsection",
@@ -38,8 +82,7 @@
             "type": "table",
             "caption": "TABLE",
             "columns": [
-              "Sl. No.",
-              "Case (A)",
+              "Sl. No.(A)",
               "Case (B)(i)",
               "Case (B)(ii)",
               "Specified date (C)",
@@ -48,23 +91,21 @@
             "rows": [
               {
                 "sl_no": "1",
-                "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
-                "case_b_i": "The specified person has preferred an appeal against the order of cancellation.",
-                "case_b_ii": "",
+                "case_b_i": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+                "case_b_ii": "The specified person has preferred an appeal against the order of cancellation.",
                 "specified_date": "The date of the order cancelling the registration.",
                 "due_date": "Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person."
               },
               {
                 "sl_no": "2",
-                "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
-                "case_b_i": "The specified person has not preferred an appeal against such order of cancellation.",
-                "case_b_ii": "",
+                "case_b_i": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+                "case_b_ii": "The specified person has not preferred an appeal against such order of cancellation.",
                 "specified_date": "The date of the order cancelling the registration.",
                 "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
               },
               {
                 "sl_no": "3",
-                "case_a": {
+                "case_b_i": {
                   "intro": "",
                   "items": [
                     {
@@ -79,14 +120,13 @@
                     }
                   ]
                 },
-                "case_b_i": "The specified person has not applied for fresh registration under any specified provision in such tax year.",
-                "case_b_ii": "",
+                "case_b_ii": "The specified person has not applied for fresh registration under any specified provision in such tax year.",
                 "specified_date": "The date of adoption or modification of any object.",
                 "due_date": "The end of such tax year."
               },
               {
                 "sl_no": "4",
-                "case_a": {
+                "case_b_i": {
                   "items": [
                     {
                       "marker": "a",
@@ -100,14 +140,13 @@
                     }
                   ]
                 },
-                "case_b_i": "The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.",
-                "case_b_ii": "",
+                "case_b_ii": "The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.",
                 "specified_date": "The date of adoption or modification of any object.",
                 "due_date": "The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person."
               },
               {
                 "sl_no": "5",
-                "case_a": {
+                "case_b_i": {
                   "items": [
                     {
                       "marker": "a",
@@ -121,14 +160,13 @@
                     }
                   ]
                 },
-                "case_b_i": "The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.",
-                "case_b_ii": "",
+                "case_b_ii": "The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.",
                 "specified_date": "The date of adoption or modification of any object.",
                 "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
               },
               {
                 "sl_no": "6",
-                "case_a": {
+                "case_b_i": {
                   "intro": "The specified person fails to make an application as per the provisions of—",
                   "items": [
                     {
@@ -148,31 +186,46 @@
                     }
                   ]
                 },
-                "case_b_i": "The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.",
-                "case_b_ii": "",
+                "case_b_ii": "The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.",
                 "specified_date": "The last date for making an application for registration.",
                 "due_date": "The end of such tax year."
               },
               {
                 "sl_no": "7",
-                "case_a": "Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.",
-                "case_b_i": "",
+                "case_b_i": "Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.",
                 "case_b_ii": "",
                 "specified_date": "The date of such conversion.",
                 "due_date": "The end of such tax year."
               },
               {
                 "sl_no": "8",
-                "case_a": "The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.",
-                "case_b_i": "",
+                "case_b_i": {
+                  "intro": "The specified person has merged with any other-",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "352-4-t8-a",
+                      "text": "entity other than a registered non-profit organisation; or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "352-4-t8-b",
+                      "text": "registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or"
+                    },
+                    {
+                      "marker": "c",
+                      "id": "352-4-t8-c",
+                      "text": "registered non-profit organisation that does not have same or similar objects."
+                    }
+                  ]
+                },
                 "case_b_ii": "",
                 "specified_date": "The date of merger.",
                 "due_date": "The date of merger."
               },
               {
                 "sl_no": "9",
-                "case_a": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
-                "case_b_i": "",
+                "case_b_i": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
                 "case_b_ii": "",
                 "specified_date": "The date of dissolution.",
                 "due_date": "The date on which such period of twelve months expires."
@@ -191,7 +244,49 @@
           "number": "6",
           "id": "352-6",
           "text_before_formula": "Where the specified person, or the principal officer or trustee of such specified person, fails to pay the whole or any part of the tax on the accreted income within the time allowed under sub-section (4), such specified person, principal officer or trustee shall be liable to pay simple interest, computed as per the following formula:—",
-          "formula": "I = 1% of (T x P), where,— I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof."
+          "formula": "I = 1% of (T x P)",
+          "where_block": {
+            "type": "where_block",
+            "id": "352-6-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "I",
+                "id": "352-6-where-I",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "I = interest;"
+              },
+              {
+                "type": "item",
+                "number": "T",
+                "id": "352-6-where-T",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "T = tax on accreted income"
+              },
+              {
+                "type": "item",
+                "number": "P",
+                "id": "352-6-where-P",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof."
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

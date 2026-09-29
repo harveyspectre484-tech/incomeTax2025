@@ -77,8 +77,53 @@
           "y_start": 205.77,
           "page_start": 1,
           "page_end": 1,
-          "text": "If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
-          "children": []
+          "text": "If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
+          "children": [],
+          "where_block": {
+            "type": "where_block",
+            "id": "304-4-where",
+            "x": 27.62,
+            "y_start": 145.83,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "304-4-where-A",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A= the chargeable part of the income of the trust;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "304-4-where-B",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B= the whole income of the trust; and",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "304-4-where-C",
+                "x": 27.62,
+                "y_start": 145.83,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C= the income receivable by the beneficiary from the trust.",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

@@ -20,56 +20,101 @@
           "y_start": 80.59,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "405-1-a",
-              "x": 69.87,
-              "y_start": 189.85,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "405-1-b",
-              "x": 69.87,
-              "y_start": 210.01,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_sub_clauses": "",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "405-1-b-i",
-                  "x": 69.87,
-                  "y_start": 210.01,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the person responsible for deducting tax has paid or credited such income after deduction of tax; or",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "ii",
-                  "id": "405-1-b-ii",
-                  "x": 81.03,
-                  "y_start": 220.62,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the person responsible for collecting tax has received or debited such income after collection of tax.",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
-            }
-          ],
-          "text_after_clauses": ""
+          "text": "The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C",
+          "formula": " A = B - C",
+          "where_block": {
+            "type": "where_block",
+            "id": "405-1-where",
+            "x": 27.62,
+            "y_start": 80.59,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "405-1-where-A",
+                "x": 27.62,
+                "y_start": 80.59,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = the amount of advance tax payable in a financial year;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "405-1-where-B",
+                "x": 27.62,
+                "y_start": 80.59,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "405-1-where-C",
+                "x": 27.62,
+                "y_start": 80.59,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_clauses": "C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
+                "clauses": [
+                  {
+                    "type": "clause",
+                    "number": "a",
+                    "id": "405-1-where-C-a",
+                    "x": 69.87,
+                    "y_start": 189.85,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
+                    "children": []
+                  },
+                  {
+                    "type": "clause",
+                    "number": "b",
+                    "id": "405-1-where-C-b",
+                    "x": 69.87,
+                    "y_start": 210.01,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text_before_sub_clauses": "",
+                    "sub_clauses": [
+                      {
+                        "type": "sub_clause",
+                        "number": "i",
+                        "id": "405-1-where-C-b-i",
+                        "x": 69.87,
+                        "y_start": 210.01,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text": "the person responsible for deducting tax has paid or credited such income after deduction of tax; or",
+                        "children": []
+                      },
+                      {
+                        "type": "sub_clause",
+                        "number": "ii",
+                        "id": "405-1-where-C-b-ii",
+                        "x": 81.03,
+                        "y_start": 220.62,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text": "the person responsible for collecting tax has received or debited such income after collection of tax.",
+                        "children": []
+                      }
+                    ],
+                    "text_after_sub_clauses": ""
+                  }
+                ],
+                "text_after_clauses": ""
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

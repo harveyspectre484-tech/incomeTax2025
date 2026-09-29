@@ -228,8 +228,53 @@
           "y_start": 422.18,
           "page_start": 1,
           "page_end": 1,
-          "text": "Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C where,— A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation; B = tax on total income determined on the basis of reassessment or recomputation; C = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
-          "children": []
+          "text": "Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C",
+          "formula": "A = B – C",
+          "where_block": {
+            "type": "where_block",
+            "id": "424-5-where",
+            "x": 27.62,
+            "y_start": 95.44,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "424-5-where-A",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "424-5-where-B",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = tax on total income determined on the basis of reassessment or recomputation;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "424-5-where-C",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "c = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

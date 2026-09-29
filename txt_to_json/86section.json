@@ -41,32 +41,30 @@
               "y_start": 106.05,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "within one year before, or two years after, the date of such transfer, purchased, or has within three years after that date constructed, one residential house in India (new asset),",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "86-1-b-i",
-                  "x": 42.68,
-                  "y_start": 141.59,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "if the net consideration is more than the cost of the new asset, so much of the capital gains as bears to the whole of the capital gains, the same proportion as the cost of the new asset bears to the net consideration, shall not be charged under section 67; or",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "ii",
-                  "id": "86-1-b-ii",
-                  "x": 40.26,
-                  "y_start": 161.74,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "if the net consideration is equal to or less than the cost of the new asset, no capital gains shall be charged under section 67.",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
+              "text": "within one year before, or two years after, the date of such transfer, purchased, or has within three years after that date constructed, one residential house in India (new asset),",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "86-1-i",
+              "x": 42.68,
+              "y_start": 141.59,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the net consideration is more than the cost of the new asset, so much of the capital gains as bears to the whole of the capital gains, the same proportion as the cost of the new asset bears to the net consideration, shall not be charged under section 67; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "ii",
+              "id": "86-1-ii",
+              "x": 40.26,
+              "y_start": 161.74,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the net consideration is equal to or less than the cost of the new asset, no capital gains shall be charged under section 67.",
+              "children": []
             }
           ],
           "text_after_clauses": "then, the capital gains shall be dealt with as follows:—"
@@ -146,8 +144,42 @@
               "y_start": 298.59,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount determined as per the following formula shall be charged under section 67 as income of the tax year in which three years from the date of the transfer of the original asset expires:— X – Y, where,— X = the capital gains not charged under section 67 as per sub-section (1). Y = the capital gains that would not have been charged under section 67, if the cost of the new asset had been taken to be the amount actually utilised for purchase or construction of the new asset;",
-              "children": []
+              "text": "the amount determined as per the following formula shall be charged under section 67 as income of the tax year in which three years from the date of the transfer of the original asset expires:— X – Y",
+              "children": [],
+              "where_block": {
+                "type": "where_block",
+                "id": "86-4-a-where",
+                "x": 40.8,
+                "y_start": 298.59,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "X",
+                    "id": "86-4-a-where-X",
+                    "x": 40.8,
+                    "y_start": 298.59,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "X = the capital gains not charged under section 67 as per sub-section (1).",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "Y",
+                    "id": "86-4-a-where-Y",
+                    "x": 40.8,
+                    "y_start": 298.59,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "Y = the capital gains that would not have been charged under section 67, if the cost of the new asset had been taken to be the amount actually utilised for purchase or construction of the new asset;",
+                    "children": []
+                  }
+                ],
+                "text_after_items": ""
+              }
             },
             {
               "type": "clause",

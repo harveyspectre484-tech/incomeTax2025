@@ -218,7 +218,50 @@
               "text_after_sub_clauses": "where,— A = proceeds of the transfer (so far as they consist of capital sums); B = total amount of expenditure incurred in connection with the business or to obtain interest therein; C = amount of expenditure incurred remaining unallowed."
             }
           ],
-          "text_after_clauses": ""
+          "where_block": {
+            "type": "where_block",
+            "id": "54-5-where",
+            "x": 40.26,
+            "y_start": 173.41,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "where,—",
+            "items": [
+              {
+                "type": "item",
+                "number": "A",
+                "id": "54-5-where-A",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A =  proceeds of the transfer (so far as they consist of capital sums); ",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "B",
+                "id": "54-5-where-B",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "B = total amount of expenditure incurred in connection with the business or to obtain interest therein; ",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "C",
+                "id": "54-5-where-C",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "C = amount of expenditure incurred remaining unallowed.",
+                "children": []
+              }
+            ]
+          }
         },
         {
           "type": "subsection",

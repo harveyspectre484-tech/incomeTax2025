@@ -20,9 +20,53 @@
           "y_start": 95.44,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T where,— I = the interest payable; A = the amount of tax on which interest is payable, as specified in sub-section (2); T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
-          "clauses": [],
-          "text_after_clauses": ""
+          "text": "Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T",
+          "formula": "I = 1% × A × T",
+          "where_block": {
+            "type": "where_block",
+            "id": "423-1-where",
+            "x": 27.62,
+            "y_start": 95.44,
+            "page_start": 1,
+            "page_end": 1,
+            "text_before_items": "",
+            "items": [
+              {
+                "type": "item",
+                "number": "I",
+                "id": "423-1-where-I",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "I = the interest payable;",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "A",
+                "id": "423-1-where-A",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "A = the amount of tax on which interest is payable, as specified in sub-section (2);",
+                "children": []
+              },
+              {
+                "type": "item",
+                "number": "T",
+                "id": "423-1-where-T",
+                "x": 27.62,
+                "y_start": 95.44,
+                "page_start": 1,
+                "page_end": 1,
+                "text": "T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
+                "children": []
+              }
+            ],
+            "text_after_items": ""
+          }
         },
         {
           "type": "subsection",

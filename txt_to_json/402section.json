@@ -1473,15 +1473,57 @@
                   "y_start": 480.0,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or any sum referred to in section 393(1) [Table: Sl. No. 6(iii)"
+                  "text": "its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or any sum referred to in section 393(1) [Table: Sl. No. 6(iii)",
+                  "exclusion_block": {
+                    "type": "exclusion_block",
+                    "id": "402-47-e-ii-exclusions",
+                    "x": 68.93,
+                    "y_start": 385.05,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text_before_items": "but does not include—",
+                    "items": [
+                      {
+                        "type": "item",
+                        "number": "A",
+                        "id": "402-47-e-ii-exclusions-A",
+                        "x": 68.93,
+                        "y_start": 385.05,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text": "manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or",
+                        "children": []
+                      },
+                      {
+                        "type": "item",
+                        "number": "B",
+                        "id": "402-47-e-ii-exclusions-B",
+                        "x": 68.93,
+                        "y_start": 405.21,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text": "any sum referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+                        "children": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "clause",
+                  "number": "f",
+                  "id": "402-47-f",
+                  "x": 40.8,
+                  "y_start": 395.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "Any amount referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+                  "children": []
                 }
               ]
             }
-          ],
-          "text_after_clauses": ""
+          ]
         }
-      ],
-      "text_after_subsections": ""
+      ]
     }
   ],
   "footnotes": [
