@@ -108,7 +108,8 @@ section,severity,code,unit_id,message,file
 26,INFO,external_reference_pending,26-2-k-ii,External target is represented by placeholder 'ext-india-act-1961-43-section-35ad'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/26section_can.json
 27,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/27section_can.json
 28,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/28section_can.json
-29,INFO,unresolved_reference,29-1-d,Cross-reference text 'section 263(1)' targets '263-1' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/29section_can.json
+29,INFO,unresolved_reference,29-1-e,Cross-reference text 'section 2(49)(o)' targets '2-49-o' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/29section_can.json
+29,INFO,unresolved_reference,29-1-e,Cross-reference text 'section 263(1)' targets '263-1' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/29section_can.json
 29,INFO,external_reference_pending,29-3,External target is represented by placeholder 'ext-india-act-1860-21'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/29section_can.json
 30,INFO,external_reference_pending,30-c-i,External target is represented by placeholder 'ext-india-act-1972-57-section-9'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/30section_can.json
 30,INFO,external_reference_pending,30-c-ii,External target is represented by placeholder 'ext-india-act-1999-41-section-3-1'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/30section_can.json
@@ -275,7 +276,6 @@ section,severity,code,unit_id,message,file
 92,INFO,external_reference_pending,92-2-c,External target is represented by placeholder 'ext-india-act-1948-34'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/92section_can.json
 93,WARN,unexpected_unit,,Unit was not predicted from raw hierarchy: 93-1-b-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
 93,INFO,unresolved_reference,93-1,Cross-reference text 'section 2(h)' targets '2-h' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
-93,INFO,unresolved_reference,93-1-b,Cross-reference text 'section 29(1)(e)' targets '29-1-e' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
 93,INFO,unresolved_reference,93-1-f,Cross-reference text 'section 92(2)(i)' targets '92-2-i' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
 93,WARN,external_act_identity_conflict,93-1-b-2,"External Act identity appears with conflicting enactment years: section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/93section_can.json
 94,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/94section_can.json

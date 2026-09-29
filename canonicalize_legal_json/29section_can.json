@@ -142,8 +142,27 @@
       "section_id": "29",
       "section_number": "29",
       "title": "Deductions related to employee welfare.",
-      "text": "irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year; account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.]",
-      "retrieval_text": "Section 29 Deductions related to employee welfare. Section 29(1): The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: — Section 29(1)(d): irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year; account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.]",
+      "text": "irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year",
+      "retrieval_text": "Section 29 Deductions related to employee welfare. Section 29(1): The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: — Section 29(1)(d): irrespective of anything contained in sub-section (2), any provision made for the purpose of making contribution towards approved gratuity fund or for the purpose of payment of any gratuity that has become payable during the tax year",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 208.95
+    },
+    {
+      "id": "29-1-e",
+      "citation": "Section 29(1)(e)",
+      "unit_type": "clause",
+      "parent_id": "29-1",
+      "section_id": "29",
+      "section_number": "29",
+      "title": "Deductions related to employee welfare.",
+      "text": "the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.",
+      "retrieval_text": "Section 29 Deductions related to employee welfare. Section 29(1): The following sums, in the case of an assessee being an employer, shall be allowed as deduction in computing income chargeable under section 26: — Section 29(1)(e): the amount of contribution received from an employee to which the provisions of section 2(49)(o) apply, if it is credited by the assessee to the account of the employee in the relevant fund or funds, on or before the due date of filing of return of income under section 263(1) for the tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -320,6 +339,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "29-1-e",
+      "to_id": "29-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "29-1",
+      "to_id": "29-1-e",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "29-2",
       "to_id": "29",
       "edge_type": "parent"
@@ -373,15 +402,21 @@
     },
     {
       "from_id": "29-1-d",
-      "to_id": "263-1",
-      "edge_type": "references",
-      "reference_text": "section 263(1)"
-    },
-    {
-      "from_id": "29-1-d",
       "to_id": "29-2",
       "edge_type": "references",
       "reference_text": "sub-section (2)"
+    },
+    {
+      "from_id": "29-1-e",
+      "to_id": "2-49-o",
+      "edge_type": "references",
+      "reference_text": "section 2(49)(o)"
+    },
+    {
+      "from_id": "29-1-e",
+      "to_id": "263-1",
+      "edge_type": "references",
+      "reference_text": "section 263(1)"
     },
     {
       "from_id": "29-2-a",
