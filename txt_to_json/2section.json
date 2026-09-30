@@ -636,279 +636,306 @@
                             "line_start": 61,
                             "page_start": 1,
                             "page_end": 1,
-                            "text_before_sub_clauses": "any unit linked insurance policy to which exemption under Schedule II (Table: Sl. No. 2) does not apply,but does not include—",
-                            "sub_clauses": [
-                                {
-                                    "type": "sub_clause",
-                                    "number": "i",
-                                    "id": "2-22-c-i",
-                                    "indent": 0,
-                                    "line_start": 66,
-                                    "page_start": 1,
-                                    "page_end": 1,
-                                    "text": "any stock-in-trade, other than the securities referred to in sub-clause (b), consumable stores or raw materials held for business or profession;",
-                                    "children": []
-                                },
-                                {
-                                    "type": "sub_clause",
-                                    "number": "ii",
-                                    "id": "2-22-c-ii",
-                                    "indent": 0,
-                                    "line_start": 67,
-                                    "page_start": 1,
-                                    "page_end": 1,
-                                    "text": "personal effects;",
-                                    "children": []
-                                },
-                                {
-                                    "type": "sub_clause",
-                                    "number": "iii",
-                                    "id": "2-22-c-iii",
-                                    "indent": 0,
-                                    "line_start": 68,
-                                    "page_start": 1,
-                                    "page_end": 1,
-                                    "text_before_items": "agricultural land in India, not being a land situated—",
-                                    "items": [
-                                        {
-                                            "type": "item",
-                                            "number": "A",
-                                            "id": "2-22-c-iii-A",
-                                            "indent": 0,
-                                            "line_start": 69,
+                            "text": "any unit linked insurance policy to which exemption under Schedule II (Table: Sl. No. 2) does not apply,but does not include—",
+                            "children": []
+                        }
+                    ],
+                    "text_after_clauses": "",
+                    "exclusion_block": {
+                        "type": "exclusion_block",
+                        "id": "2-22-exclusions",
+                        "indent": 0,
+                        "line_start": 66,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text_before_items": "but does not include—",
+                        "items": [
+                            {
+                                "type": "item",
+                                "number": "i",
+                                "id": "2-22-exclusions-i",
+                                "indent": 0,
+                                "line_start": 66,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "any stock-in-trade, other than the securities referred to in sub-clause (b), consumable stores or raw materials held for business or profession;",
+                                "children": []
+                            },
+                            {
+                                "type": "item",
+                                "number": "ii",
+                                "id": "2-22-exclusions-ii",
+                                "indent": 0,
+                                "line_start": 67,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "personal effects;",
+                                "children": []
+                            },
+                            {
+                                "type": "item",
+                                "number": "iii",
+                                "id": "2-22-exclusions-iii",
+                                "indent": 0,
+                                "line_start": 68,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text_before_sub_items": "agricultural land in India, not being a land situated—",
+                                "sub_items": [
+                                    {
+                                        "type": "sub_item",
+                                        "number": "A",
+                                        "id": "2-22-exclusions-iii-A",
+                                        "indent": 0,
+                                        "line_start": 69,
+                                        "page_start": 1,
+                                        "page_end": 1,
+                                        "text": "in any area comprised within the jurisdiction of a municipality (whether known as a municipality, municipal corporation, notified area committee, town area committee, town committee, or by any other name) or a cantonment board and which has a population of not less than ten thousand; or",
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "sub_item",
+                                        "number": "B",
+                                        "id": "2-22-exclusions-iii-B",
+                                        "indent": 0,
+                                        "line_start": 70,
+                                        "page_start": 1,
+                                        "page_end": 1,
+                                        "text": "in any area within the distance as specified in column C of the following Table, measured aerially from the local limits of any municipality or cantonment board referred to in item (A) and having population as referred to in column B of the said Table:—",
+                                        "children": [],
+                                        "table": {
+                                            "type": "table",
+                                            "table_id": "2-22-exclusions-iii-B-table-1",
+                                            "title": "TABLE",
+                                            "format": "borderless",
                                             "page_start": 1,
                                             "page_end": 1,
-                                            "text": "in any area comprised within the jurisdiction of a municipality (whether known as a municipality, municipal corporation, notified area committee, town area committee, town committee, or by any other name) or a cantonment board and which has a population of not less than ten thousand; or",
+                                            "line_start": 75,
+                                            "line_end": 92,
+                                            "columns": [
+                                                "Sl. No.",
+                                                "Population of municipality or cantonment board",
+                                                "Distance"
+                                            ],
+                                            "rows": [
+                                                {
+                                                    "item_no": 1,
+                                                    "column_A": "1",
+                                                    "column_B": "More than 10000 and upto 100000.",
+                                                    "column_C": "Two kilometres.",
+                                                    "raw_text": "More than 10000 and upto 100000. Two kilometres."
+                                                },
+                                                {
+                                                    "item_no": 2,
+                                                    "column_A": "2",
+                                                    "column_B": "More than 100000 and upto 1000000.",
+                                                    "column_C": "Six kilometres.",
+                                                    "raw_text": "More than 100000 and upto 1000000. Six kilometres."
+                                                },
+                                                {
+                                                    "item_no": 3,
+                                                    "column_A": "3",
+                                                    "column_B": "More than 1000000.",
+                                                    "column_C": "Eight kilometres;",
+                                                    "raw_text": "More than 1000000. Eight kilometres;"
+                                                }
+                                            ]
+                                        },
+                                        "linearized_text": "Sub-item (B): in any area within the distance as specified in column C of the following Table, measured aerially from the local limits of any municipality or cantonment board referred to in item (A) and having population as referred to in column B of the said Table:— Table rows: 1. More than 10000 and upto 100000. Two kilometres.; 2. More than 100000 and upto 1000000. Six kilometres.; 3. More than 1000000. Eight kilometres",
+                                        "source": {
+                                            "act": "Income-tax Act",
+                                            "rule": "2-22-exclusions-iii-B",
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "line_start": 75
+                                        }
+                                    }
+                                ],
+                                "text_after_sub_items": ""
+                            },
+                            {
+                                "type": "item",
+                                "number": "iv",
+                                "id": "2-22-exclusions-iv",
+                                "indent": 0,
+                                "line_start": 93,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "Gold Deposit Bonds issued under the Gold Deposit Scheme, 1999 or deposit certificates issued under the Gold Monetisation Scheme, 2015 as may be notified by the Central Government,",
+                                "children": []
+                            }
+                        ],
+                        "text_after_items": ""
+                    },
+                    "where_block": {
+                        "type": "where_block",
+                        "id": "2-22-where",
+                        "indent": 0,
+                        "line_start": 94,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text_before_items": "",
+                        "items": [
+                            {
+                                "type": "item",
+                                "number": "A",
+                                "id": "2-22-where-A",
+                                "indent": 0,
+                                "line_start": 94,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "\"Foreign Institutional Investor\" shall have the meaning assigned to it in section 210(6)(a);",
+                                "children": []
+                            },
+                            {
+                                "type": "item",
+                                "number": "B",
+                                "id": "2-22-where-B",
+                                "indent": 0,
+                                "line_start": 94,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "\"personal effects\" means any movable property (including wearing apparel and furniture) held for personal use by the assessee or any family member dependent on him,",
+                                "children": [],
+                                "exclusion_block": {
+                                    "type": "exclusion_block",
+                                    "id": "2-22-where-B-exclusions",
+                                    "indent": 0,
+                                    "line_start": 94,
+                                    "page_start": 1,
+                                    "page_end": 1,
+                                    "text_before_items": "but excludes—",
+                                    "items": [
+                                        {
+                                            "type": "sub_item",
+                                            "number": "I",
+                                            "id": "2-22-where-B-I",
+                                            "indent": 0,
+                                            "line_start": 94,
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "text_before_clauses": "jewellery, which includes—",
+                                            "clauses": [
+                                                {
+                                                    "type": "clause",
+                                                    "number": "a",
+                                                    "id": "2-22-where-B-I-a",
+                                                    "indent": 0,
+                                                    "line_start": 94,
+                                                    "page_start": 1,
+                                                    "page_end": 1,
+                                                    "text": "ornaments made of gold, silver, platinum, or any other precious metal or any alloy of such precious metals, with or without precious or semi-precious stones, and whether or not worked or sewn into any wearing apparel; or",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "type": "clause",
+                                                    "number": "b",
+                                                    "id": "2-22-where-B-I-b",
+                                                    "indent": 0,
+                                                    "line_start": 94,
+                                                    "page_start": 1,
+                                                    "page_end": 1,
+                                                    "text": "precious or semi-precious stones, whether or not set in any furniture, utensil or other article or worked or sewn into any wearing apparel; or",
+                                                    "children": []
+                                                }
+                                            ],
+                                            "text_after_clauses": ""
+                                        },
+                                        {
+                                            "type": "sub_item",
+                                            "number": "II",
+                                            "id": "2-22-where-B-II",
+                                            "indent": 0,
+                                            "line_start": 94,
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "text": "archaeological collections; or",
                                             "children": []
                                         },
                                         {
-                                            "type": "item",
-                                            "number": "B",
-                                            "id": "2-22-c-iii-B",
+                                            "type": "sub_item",
+                                            "number": "III",
+                                            "id": "2-22-where-B-III",
                                             "indent": 0,
-                                            "line_start": 70,
+                                            "line_start": 94,
                                             "page_start": 1,
                                             "page_end": 1,
-                                            "text": "in any area within the distance as specified in column C of the following Table, measured aerially from the local limits of any municipality or cantonment board referred to in item (A) and having population as referred to in column B of the said Table:—",
-                                            "children": [],
-                                            "table": {
-                                                "type": "table",
-                                                "table_id": "2-22-c-iii-B-table-1",
-                                                "title": "TABLE",
-                                                "format": "borderless",
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "line_start": 75,
-                                                "line_end": 92,
-                                                "columns": [
-                                                    "Sl. No.",
-                                                    "Population of municipality or cantonment board",
-                                                    "Distance"
-                                                ],
-                                                "rows": [
-                                                    {
-                                                        "column_A": "1",
-                                                        "column_B": "More than 10000 and upto 100000.",
-                                                        "column_C": "Two kilometres."
-                                                    },
-                                                    {
-                                                        "column_A": "2",
-                                                        "column_B": "More than 100000 and upto 1000000.",
-                                                        "column_C": "Six kilometres."
-                                                    },
-                                                    {
-                                                        "column_A": "3",
-                                                        "column_B": "More than 1000000.",
-                                                        "column_C": "Eight kilometres."
-                                                    }
-                                                ]
-                                            },
-                                            "linearized_text": "Item (B): in any area within the distance as specified in column C of the following Table, measured aerially from the local limits of any municipality or cantonment board referred to in item (A) and having population as referred to in column B of the said Table:— Table rows: 1. More than 10000 and upto 100000. Two kilometres.; 2. More than 100000 and upto 1000000. Six kilometres.; 3. More than 1000000. Eight kilometres.",
-                                            "source": {
-                                                "act": "Income-tax Act",
-                                                "rule": "2-22-c-iii-B",
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "line_start": 75
-                                            }
+                                            "text": "drawings; or",
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "sub_item",
+                                            "number": "IV",
+                                            "id": "2-22-where-B-IV",
+                                            "indent": 0,
+                                            "line_start": 94,
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "text": "paintings; or",
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "sub_item",
+                                            "number": "V",
+                                            "id": "2-22-where-B-V",
+                                            "indent": 0,
+                                            "line_start": 94,
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "text": "sculptures; or",
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "sub_item",
+                                            "number": "VI",
+                                            "id": "2-22-where-B-VI",
+                                            "indent": 0,
+                                            "line_start": 94,
+                                            "page_start": 1,
+                                            "page_end": 1,
+                                            "text": "any work of art;",
+                                            "children": []
                                         }
                                     ],
                                     "text_after_items": ""
-                                },
-                                {
-                                    "type": "sub_clause",
-                                    "number": "iv",
-                                    "id": "2-22-c-iv",
-                                    "indent": 0,
-                                    "line_start": 93,
-                                    "page_start": 1,
-                                    "page_end": 1,
-                                    "text": "Gold Deposit Bonds issued under the Gold Deposit Scheme, 1999 or deposit certificates issued under the Gold Monetisation Scheme, 2015 as may be notified by the Central Government,",
-                                    "where_block": {
-                                        "type": "where_block",
-                                        "id": "2-22-where",
-                                        "indent": 0,
-                                        "line_start": 94,
-                                        "page_start": 1,
-                                        "page_end": 1,
-                                        "text_before_items": "",
-                                        "items": [
-                                            {
-                                                "type": "item",
-                                                "number": "A",
-                                                "id": "2-22-where-A",
-                                                "indent": 0,
-                                                "line_start": 94,
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "text": "\"Foreign Institutional Investor\" shall have the meaning assigned to it in section 210(6)(a);",
-                                                "children": []
-                                            },
-                                            {
-                                                "type": "item",
-                                                "number": "B",
-                                                "id": "2-22-where-B",
-                                                "indent": 0,
-                                                "line_start": 94,
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "text_before_sub_items": "\"personal effects\" means any movable property (including wearing apparel and furniture) held for personal use by the assessee or any family member dependent on him, but excludes—",
-                                                "sub_items": [
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "I",
-                                                        "id": "2-22-where-B-I",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text_before_sub_clauses": "jewellery, which includes—",
-                                                        "sub_clauses": [
-                                                            {
-                                                                "type": "sub_clause",
-                                                                "number": "a",
-                                                                "id": "2-22-where-B-I-a",
-                                                                "indent": 0,
-                                                                "line_start": 94,
-                                                                "page_start": 1,
-                                                                "page_end": 1,
-                                                                "text": "ornaments made of gold, silver, platinum, or any other precious metal or any alloy of such precious metals, with or without precious or semi-precious stones, and whether or not worked or sewn into any wearing apparel; or",
-                                                                "children": []
-                                                            },
-                                                            {
-                                                                "type": "sub_clause",
-                                                                "number": "b",
-                                                                "id": "2-22-where-B-I-b",
-                                                                "indent": 0,
-                                                                "line_start": 94,
-                                                                "page_start": 1,
-                                                                "page_end": 1,
-                                                                "text": "precious or semi-precious stones, whether or not set in any furniture, utensil or other article or worked or sewn into any wearing apparel; or",
-                                                                "children": []
-                                                            }
-                                                        ],
-                                                        "text_after_sub_clauses": ""
-                                                    },
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "II",
-                                                        "id": "2-22-where-B-II",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text": "archaeological collections; or",
-                                                        "children": []
-                                                    },
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "III",
-                                                        "id": "2-22-where-B-III",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text": "drawings; or",
-                                                        "children": []
-                                                    },
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "IV",
-                                                        "id": "2-22-where-B-IV",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text": "paintings; or",
-                                                        "children": []
-                                                    },
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "V",
-                                                        "id": "2-22-where-B-V",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text": "sculptures; or",
-                                                        "children": []
-                                                    },
-                                                    {
-                                                        "type": "sub_item",
-                                                        "number": "VI",
-                                                        "id": "2-22-where-B-VI",
-                                                        "indent": 0,
-                                                        "line_start": 94,
-                                                        "page_start": 1,
-                                                        "page_end": 1,
-                                                        "text": "any work of art;",
-                                                        "children": []
-                                                    }
-                                                ],
-                                                "text_after_sub_items": ""
-                                            },
-                                            {
-                                                "type": "item",
-                                                "number": "C",
-                                                "id": "2-22-where-C",
-                                                "indent": 0,
-                                                "line_start": 94,
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "text": "\"population\" shall mean the population according to the last preceding census of which the relevant figures have been published before the first day of the tax year;",
-                                                "children": []
-                                            },
-                                            {
-                                                "type": "item",
-                                                "number": "D",
-                                                "id": "2-22-where-D",
-                                                "indent": 0,
-                                                "line_start": 94,
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "text": "\"property\" includes any rights in or in relation to an Indian company, including rights of management or control or any other rights; and",
-                                                "children": []
-                                            },
-                                            {
-                                                "type": "item",
-                                                "number": "E",
-                                                "id": "2-22-where-E",
-                                                "indent": 0,
-                                                "line_start": 94,
-                                                "page_start": 1,
-                                                "page_end": 1,
-                                                "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
-                                                "children": []
-                                            }
-                                        ],
-                                        "text_after_items": ""
-                                    }
                                 }
-                            ],
-                            "text_after_sub_clauses": ""
-                        }
-                    ],
-                    "text_after_clauses": ""
+                            },
+                            {
+                                "type": "item",
+                                "number": "C",
+                                "id": "2-22-where-C",
+                                "indent": 0,
+                                "line_start": 94,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "\"population\" shall mean the population according to the last preceding census of which the relevant figures have been published before the first day of the tax year;",
+                                "children": []
+                            },
+                            {
+                                "type": "item",
+                                "number": "D",
+                                "id": "2-22-where-D",
+                                "indent": 0,
+                                "line_start": 94,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "\"property\" includes any rights in or in relation to an Indian company, including rights of management or control or any other rights; and",
+                                "children": []
+                            },
+                            {
+                                "type": "item",
+                                "number": "E",
+                                "id": "2-22-where-E",
+                                "indent": 0,
+                                "line_start": 94,
+                                "page_start": 1,
+                                "page_end": 1,
+                                "text": "\"securities\" shall have the same meaning as assigned to it in section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);",
+                                "children": []
+                            }
+                        ],
+                        "text_after_items": ""
+                    }
                 },
                 {
                     "type": "subsection",

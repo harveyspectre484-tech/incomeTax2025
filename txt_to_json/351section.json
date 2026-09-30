@@ -142,58 +142,58 @@
               "y_start": 259.87,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "a registered non-profit organisation has been selected as per the risk management strategy formulated by the Board for any tax year,",
-              "sub_clauses": [
+              "text_before_sub_clauses": "a registered non-profit organisation has been selected as per the risk management strategy formulated by the Board for any tax year,"
+            }
+          ],
+          "text_before_items": "the Principal Commissioner or Commissioner shall—",
+          "items": [
+            {
+              "type": "item",
+              "number": "i",
+              "id": "351-2-i",
+              "x": 42.68,
+              "y_start": 286.39,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "call for such documents or information from the registered non-profit organisation, or make such inquiry as he thinks necessary in order to satisfy himself about the occurrence of any specified violation;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "ii",
+              "id": "351-2-ii",
+              "x": 40.26,
+              "y_start": 306.55,
+              "page_start": 1,
+              "page_end": 1,
+              "text_before_sub_items": "pass an order in writing,—",
+              "sub_items": [
                 {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "351-2-c-i",
-                  "x": 42.68,
-                  "y_start": 286.39,
+                  "type": "sub_item",
+                  "number": "A",
+                  "id": "351-2-ii-A",
+                  "x": 68.93,
+                  "y_start": 317.16,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "call for such documents or information from the registered non-profit organisation, or make such inquiry as he thinks necessary in order to satisfy himself about the occurrence of any specified violation;",
+                  "text": "either cancelling the registration of such registered non-profit organisation, after affording a reasonable opportunity of being heard, for such tax year and all subsequent tax years, if he is satisfied that one or more specified violations have taken place; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_item",
+                  "number": "B",
+                  "id": "351-2-ii-B",
+                  "x": 68.93,
+                  "y_start": 337.31,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "not cancelling the registration of such registered non-profit organisation, if he is not satisfied about the occurrence of any specified violation; and",
                   "children": []
                 },
                 {
                   "type": "sub_clause",
-                  "number": "ii",
-                  "id": "351-2-c-ii",
-                  "x": 40.26,
-                  "y_start": 306.55,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text_before_items": "pass an order in writing,—",
-                  "items": [
-                    {
-                      "type": "item",
-                      "number": "A",
-                      "id": "351-2-c-ii-A",
-                      "x": 68.93,
-                      "y_start": 317.16,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text": "either cancelling the registration of such registered non-profit organisation, after affording a reasonable opportunity of being heard, for such tax year and all subsequent tax years, if he is satisfied that one or more specified violations have taken place; or",
-                      "children": []
-                    },
-                    {
-                      "type": "item",
-                      "number": "B",
-                      "id": "351-2-c-ii-B",
-                      "x": 68.93,
-                      "y_start": 337.31,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text": "not cancelling the registration of such registered non-profit organisation, if he is not satisfied about the occurrence of any specified violation; and",
-                      "children": []
-                    }
-                  ],
-                  "text_after_items": ""
-                },
-                {
-                  "type": "sub_clause",
                   "number": "iii",
-                  "id": "351-2-c-iii",
+                  "id": "351-2-iii",
                   "x": 37.84,
                   "y_start": 357.47,
                   "page_start": 1,
@@ -201,11 +201,9 @@
                   "text": "forward a copy of the order passed under clause (ii) to the Assessing Officer and such registered non-profit organisation.",
                   "children": []
                 }
-              ],
-              "text_after_sub_clauses": ""
+              ]
             }
-          ],
-          "text_after_clauses": "the Principal Commissioner or Commissioner shall—"
+          ]
         },
         {
           "type": "subsection",

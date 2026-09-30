@@ -292,21 +292,18 @@
           "y_start": 388.23,
           "page_start": 1,
           "page_end": 1,
-          "text_before_sub_clauses": "\"electronic record\" shall have the same meaning as provided in section 2(1)(t) of the Information Technology Act, 2000 (21 of 2000);",
-          "sub_clauses": [
-            {
-              "type": "sub_clause",
-              "number": "i",
-              "id": "261-h-i",
-              "x": 42.68,
-              "y_start": 398.84,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "\"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containing figures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
-              "children": []
-            }
-          ],
-          "text_after_sub_clauses": ""
+          "text": "\"electronic record\" shall have the same meaning as provided in section 2(1)(t) of the Information Technology Act, 2000 (21 of 2000);"
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "261-i",
+          "x": 40.8,
+          "y_start": 398.84,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "\"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containingfigures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
+          "children": []
         },
         {
           "type": "clause",

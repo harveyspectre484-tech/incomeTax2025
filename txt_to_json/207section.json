@@ -156,17 +156,28 @@
           "clauses": [
             {
               "type": "clause",
+              "number": "a",
+              "id": "207-3-a",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "in respect of copyright in any book to an Indian concern; or",
+              "children": []
+            },
+            {
+              "type": "clause",
               "number": "b",
               "id": "207-3-b",
               "x": 40.8,
               "y_start": 395.0,
               "page_start": 1,
               "page_end": 1,
-              "text": "in respect of any computer software to a person resident in India, then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section.",
+              "text": "in respect of any computer software to a person resident in India,",
               "children": []
             }
           ],
-          "text_after_clauses": ""
+          "text_after_clauses": "then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section"
         },
         {
           "type": "subsection",

@@ -1,556 +1,13 @@
 {
-  "chapters": [
-    {
-      "type": "chapter",
-      "number": "XXI",
-      "title": "",
-      "x": 269.34,
-      "y_start": 65.2,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_children": "PENALTIES",
-      "children": [
-        {
-          "type": "section",
-          "number": "439",
-          "id": "439",
-          "title": "Penalty for under-reporting and misreporting of income.",
-          "x": 27.62,
-          "y_start": 111.88,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_subsections": "",
-          "subsections": [
-            {
-              "type": "subsection",
-              "number": "1",
-              "id": "439-1",
-              "x": 27.62,
-              "y_start": 111.88,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "The Competent Authority may, during the course of any proceedings under this Act, impose penalty on any person who has under-reported his income and such penalty shall be payable in addition to tax, if any.",
-              "children": []
-            },
-            {
-              "type": "subsection",
-              "number": "2",
-              "id": "439-2",
-              "x": 27.62,
-              "y_start": 139.99,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "A person shall be deemed to have under-reported his income, if—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "439-2-a",
-                  "x": 40.8,
-                  "y_start": 154.85,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the income assessed is greater than the income determined in the return processed under section 270(1)(a);",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "439-2-b",
-                  "x": 40.8,
-                  "y_start": 165.46,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the income assessed is greater than the maximum amount not chargeable to tax, where no return of income has been furnished or where return has been furnished for the first time under section 280;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "c",
-                  "id": "439-2-c",
-                  "x": 41.27,
-                  "y_start": 185.61,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the income reassessed is greater than the income assessed or reassessed immediately before such reassessment;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "d",
-                  "id": "439-2-d",
-                  "x": 40.8,
-                  "y_start": 196.22,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of deemed total income assessed or reassessed as per section 206(1) and (2), is greater than the deemed total income determined in the return processed under section 270(1)(a);",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "e",
-                  "id": "439-2-e",
-                  "x": 41.27,
-                  "y_start": 216.38,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of deemed total income assessed as per section 206(1) and (2), is greater than the maximum amount not chargeable to tax, where no return of income has been furnished or where return has been furnished for the first time under section 280;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "f",
-                  "id": "439-2-f",
-                  "x": 42.68,
-                  "y_start": 236.53,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of deemed total income reassessed as per section 206(1) and (2), is greater than the deemed total income assessed or reassessed under the said sections immediately before such reassessment;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "g",
-                  "id": "439-2-g",
-                  "x": 40.8,
-                  "y_start": 256.69,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the income assessed or reassessed has the effect of reducing the loss or converting such loss into income.",
-                  "children": []
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "3",
-              "id": "439-3",
-              "x": 27.62,
-              "y_start": 268.36,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The amount of under-reported income shall be,—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "439-3-a",
-                  "x": 40.8,
-                  "y_start": 282.68,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text_before_sub_clauses": "if income has been assessed for the first time,—",
-                  "sub_clauses": [
-                    {
-                      "type": "sub_clause",
-                      "number": "i",
-                      "id": "439-3-a-i",
-                      "x": 71.75,
-                      "y_start": 293.29,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text": "where return has been furnished, the difference between the amount of income assessed and the amount of income determined under section 270(1)(a);",
-                      "children": []
-                    },
-                    {
-                      "type": "sub_clause",
-                      "number": "ii",
-                      "id": "439-3-a-ii",
-                      "x": 69.33,
-                      "y_start": 313.44,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text_before_items": "where no return of income has been furnished or where return has been furnished for the first time under section 280,—",
-                      "items": [
-                        {
-                          "type": "item",
-                          "number": "A",
-                          "id": "439-3-a-ii-A",
-                          "x": 99.0,
-                          "y_start": 324.05,
-                          "page_start": 1,
-                          "page_end": 1,
-                          "text": "the amount of income assessed, in the case of a company, firm or local authority; and",
-                          "children": []
-                        },
-                        {
-                          "type": "item",
-                          "number": "B",
-                          "id": "439-3-a-ii-B",
-                          "x": 99.0,
-                          "y_start": 334.66,
-                          "page_start": 1,
-                          "page_end": 1,
-                          "text": "the difference between the amount of income assessed and the maximum amount not chargeable to tax, in a case not covered in item (A);",
-                          "children": []
-                        }
-                      ],
-                      "text_after_items": ""
-                    }
-                  ],
-                  "text_after_sub_clauses": ""
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "439-3-b",
-                  "x": 40.8,
-                  "y_start": 354.82,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in any other case, the difference between the amount of income reassessed or recomputed and the amount of income assessed, reassessed or recomputed in a preceding order.",
-                  "children": []
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "4",
-              "id": "439-4",
-              "x": 27.62,
-              "y_start": 376.04,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "If under-reported income arises out of determination of deemed total income as per section 206(1) and (2), the amount of total under-reported income shall be determined as under— (A – B) + (C – D) where,— A = the total income assessed as per the provisions other than the provisions contained in section 206 (herein referred to as \"general provisions\"); B = the total income that would have been chargeable had the total income assessed as per the general provisions been reduced by the amount of under- reported income; C = the total income assessed as per section 206; D = the total income that would have been chargeable had the total income assessed as per section 206 been reduced by the amount of under-reported income.",
-              "children": []
-            },
-            {
-              "type": "subsection",
-              "number": "5",
-              "id": "439-5",
-              "x": 27.62,
-              "y_start": 496.97,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "439-5-a",
-                  "x": 27.62,
-                  "y_start": 496.97,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "If the amount of under-reported income on any issue is considered both under section 206(1) and (2) and under general provisions, such amount shall not be reduced from total income assessed while determining the amount under D referred to in sub-section (4);",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "439-5-b",
-                  "x": 27.62,
-                  "y_start": 525.09,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "in a case where an assessment or reassessment has the effect of reducing the loss declared in the return or converting that loss into income, the amount of under-reported income shall be the difference between the loss claimed and the income or loss, assessed or reassessed.",
-                  "children": []
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "6",
-              "id": "439-6",
-              "x": 27.62,
-              "y_start": 553.73,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "Subject to sub-section (8), where the source of any receipt, deposit or investment in any tax year is claimed to be an amount added to income or deducted while computing loss, in the assessment of such person in any year prior to the tax year in which such receipt, deposit or investment appears (herein referred to as the preceding year) and no penalty was levied for such preceding year, then, the under-reported income shall include such amount as is sufficient to cover such receipt, deposit or investment.",
-              "children": []
-            },
-            {
-              "type": "subsection",
-              "number": "7",
-              "id": "439-7",
-              "x": 27.62,
-              "y_start": 607.3,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The amount referred to in sub-section (6) shall be deemed to be income under-reported for the preceding year in the following order:—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "439-7-a",
-                  "x": 40.8,
-                  "y_start": 621.62,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the preceding year immediately before the year in which the receipt, deposit or investment appears, being the first preceding year; and",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "439-7-b",
-                  "x": 40.8,
-                  "y_start": 632.23,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "where the amount added or deducted in the first preceding year is not sufficient to cover the receipt, deposit or investment, the year immediately preceding the first preceding year and so on.",
-                  "children": []
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "8",
-              "id": "439-8",
-              "x": 27.62,
-              "y_start": 653.45,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The under-reported income, for the purposes of this section, shall not include the following:—",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "a",
-                  "id": "439-8-a",
-                  "x": 40.8,
-                  "y_start": 668.3,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of income in respect of which the assessee offers an explanation and the Competent Authority, is satisfied that the explanation is bona fide and the assessee has disclosed all the material facts to substantiate the explanation offered;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "b",
-                  "id": "439-8-b",
-                  "x": 40.8,
-                  "y_start": 688.46,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of under-reported income determined on the basis of an estimate, if the accounts are correct and complete to the satisfaction of the Competent Authority, but the method employed is such that the income cannot properly be deduced therefrom;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "c",
-                  "id": "439-8-c",
-                  "x": 41.27,
-                  "y_start": 708.61,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of under-reported income determined on the basis of an estimate, if the assessee has, on his own, estimated a lower amount of addition or disallowance on the same issue, has included such amount in the computation of his income and has disclosed all the facts material to the addition or disallowance; and",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "d",
-                  "id": "439-8-d",
-                  "x": 40.8,
-                  "y_start": 738.32,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the amount of under-reported income represented by any addition made in conformity with the arm's length price determined by the Transfer Pricing Officer, where the assessee had maintained such information and documents as may be prescribed under section 171, declared the international transaction under Chapter X, and, disclosed all the material facts relating to the transaction.",
-                  "children": []
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "9",
-              "id": "439-9",
-              "x": 27.62,
-              "y_start": 769.08,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_clauses": "The penalty referred to in sub-section (1) shall be 50% of the tax payable on under-reported income.",
-              "clauses": [
-                {
-                  "type": "clause",
-                  "number": "n",
-                  "id": "439-9-n",
-                  "x": 40.8,
-                  "y_start": 64.14,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "any amount of loss under the head capital gains, whether related to a long-term capital asset or a short term capital asset, referred to in section 74 of the repealed Income-tax Act, brought forward from the tax year beginning before the 1st April, 2026 had the Income-tax Act, 1961 (43 of 1961) not been repealed, shall be carried forward and set off, in accordance with the manner provided in the repealed Income-tax Act, against the income under the head \"Capital gains\" computed under this Act for any tax year beginning on or after the 1st April, 2026 upto eight financial years immediately succeeding the financial year in which such loss was first computed under the repealed Income-tax Act;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "o",
-                  "id": "439-9-o",
-                  "x": 40.8,
-                  "y_start": 112.94,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "any set off of loss or allowance for depreciation made in any tax year beginning before the 1st April, 2026 in the hands of the amalgamated company, successor company or the successor limited liability partnership, in accordance with the provisions of section 72A of the repealed Income- tax Act, shall be deemed to be the income of the amalgamated company, successor company or the successor limited liability partnership, as the case may be, chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "p",
-                  "id": "439-9-p",
-                  "x": 40.8,
-                  "y_start": 152.19,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "any set off of accumulated loss or unabsorbed depreciation allowed in any tax year beginning before the 1st April, 2026 to the successor co- operative bank, in accordance with the provisions of section 72AB of the repealed Income-tax Act, shall be deemed to be the income of the successor co-operative bank chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "q",
-                  "id": "439-9-q",
-                  "x": 40.8,
-                  "y_start": 191.45,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text_before_items": "any amount of profits or gains arising out of transfer of capital asset not charged under the head \"capital gains\" by virtue of the provisions contained in section 47(iv), (v), (xiii), (xiiib) or (xiv) of the repealed Income-tax Act in any tax year beginning before the 1st April, 2026 shall be deemed to be the income chargeable under the head \"Capital gains\" under this Act, for the tax year––",
-                  "items": [
-                    {
-                      "type": "item",
-                      "number": "A",
-                      "id": "439-9-q-A",
-                      "x": 68.93,
-                      "y_start": 221.15,
-                      "page_start": 2,
-                      "page_end": 2,
-                      "text": "in which the transfer took place if any of the conditions laid down in section 47A(1)(i) or (ii) of the repealed Income-tax Act are satisfied; or",
-                      "children": []
-                    },
-                    {
-                      "type": "item",
-                      "number": "B",
-                      "id": "439-9-q-B",
-                      "x": 68.93,
-                      "y_start": 241.31,
-                      "page_start": 2,
-                      "page_end": 2,
-                      "text": "in which any of the conditions laid down in section 47(xiii), (xiiib) or (xiv) of the repealed Income-tax Act are not complied with,",
-                      "children": []
-                    }
-                  ],
-                  "text_after_items": "as the case may be;"
-                },
-                {
-                  "type": "clause",
-                  "number": "r",
-                  "id": "439-9-r",
-                  "x": 41.74,
-                  "y_start": 262.52,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "where any allowance or part thereof, under section 32(2) or 35(4) of the repealed Income-tax Act, is to be carried forward to tax year beginning on the 1st April, 2026, had the Income-tax Act, 1961 (43 of 1961) not been repealed, then, the allowance or part thereof shall be added to the amount of capital allowances referred to corresponding provisions of this Act for the tax year beginning on the 1st April, 2026 and deemed to be part of that allowance, or if there is no such allowance for that tax year, be deemed to be allowance for that tax year;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "s",
-                  "id": "439-9-s",
-                  "x": 41.74,
-                  "y_start": 301.78,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "the deduction referred to in sections 35ABA, 35ABB, 35D, 35DD, 35DDA, 35E or the first proviso to section 36(1)(ix) of the repealed Income-tax Act, shall, on fulfilment of the conditions mentioned in the said provisions, continue to be allowed under this Act for tax year beginning on or after the 1st April, 2026 had the Income-tax Act, 1961 not been repealed and such deduction shall be added to the amount of deferred revenue expenditure allowance referred to corresponding provisions of this Act for the tax year beginning on or after the 1st April, 2026 and deemed to be part of that allowance, or if there is no such allowance for a tax year, be deemed to be that allowance for that tax year;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "t",
-                  "id": "439-9-t",
-                  "x": 42.68,
-                  "y_start": 350.57,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "credit balance in the provision for bad and doubtful debts account made under section 36(1)(viia) of the repealed Income-tax Act standing on the last day of the tax year beginning on 1st April, 2025 shall be added to the amount credited to the provision for bad and doubtful debts accounts referred to in the corresponding provisions of this Act for the tax year beginning on the 1st April, 2026 and deemed to be part of amount credited to the provision for bad and doubtful debts accounts, or if there is no such amount credited for that tax year, be deemed to be amount credited for that tax year;",
-                  "children": []
-                },
-                {
-                  "type": "clause",
-                  "number": "u",
-                  "id": "439-9-u",
-                  "x": 40.8,
-                  "y_start": 399.37,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text_before_sub_clauses": "any scheme which has been notified under the provisions of the repealed Income-tax Act with a view to eliminating the interface with the assessee or any other person, the said scheme shall be deemed to have been made—",
-                  "sub_clauses": [
-                    {
-                      "type": "sub_clause",
-                      "number": "i",
-                      "id": "439-9-u-i",
-                      "x": 71.75,
-                      "y_start": 419.53,
-                      "page_start": 2,
-                      "page_end": 2,
-                      "text": "under the corresponding provisions of this Act; or",
-                      "children": []
-                    },
-                    {
-                      "type": "sub_clause",
-                      "number": "ii",
-                      "id": "439-9-u-ii",
-                      "x": 69.33,
-                      "y_start": 430.14,
-                      "page_start": 2,
-                      "page_end": 2,
-                      "text": "under section 532 where there is no such corresponding provision,",
-                      "children": []
-                    },
-                    {
-                      "type": "sub_clause",
-                      "number": "v",
-                      "id": "439-9-u-v",
-                      "x": 41.27,
-                      "y_start": 451.36,
-                      "page_start": 2,
-                      "page_end": 2,
-                      "text": "where a search has been initiated under section 132 or requisition is made under section 132A prior to the commencement of this Act, the provisions of repealed Income-tax Act, shall continue to apply to any proceedings connected in respect of such search or requisition, as the case may be, as if this Act has not been enacted.",
-                      "children": []
-                    }
-                  ],
-                  "text_after_sub_clauses": "and shall continue in force accordingly; and"
-                }
-              ],
-              "text_after_clauses": ""
-            },
-            {
-              "type": "subsection",
-              "number": "3",
-              "id": "439-3",
-              "x": 27.62,
-              "y_start": 482.12,
-              "page_start": 2,
-              "page_end": 2,
-              "text": "Where any reference is made in this Act to any tax year commencing on the 1st April, 2025 or to any earlier tax year, the same shall be construed as a reference to the corresponding previous year under the repealed Income-tax Act.",
-              "children": []
-            },
-            {
-              "type": "subsection",
-              "number": "4",
-              "id": "439-4",
-              "x": 27.62,
-              "y_start": 510.23,
-              "page_start": 2,
-              "page_end": 2,
-              "text": "Without prejudice to the provisions of sub-section (2), the provisions of section 6 of the General Clauses Act, 1897 (10 of 1897) shall apply with regard to the effect of repeal.",
-              "children": []
-            }
-          ],
-          "text_after_subsections": ""
-        }
-      ],
-      "text_after_children": ""
-    }
-  ],
+  "chapters": [],
   "sections": [
     {
       "type": "section",
-      "number": "439",
-      "id": "439",
-      "title": "Penalty for under-reporting and misreporting of income.",
+      "number": "536",
+      "id": "536",
+      "title": "Repeal and savings.",
       "x": 27.62,
-      "y_start": 111.88,
+      "y_start": 80.59,
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "",
@@ -558,408 +15,382 @@
         {
           "type": "subsection",
           "number": "1",
-          "id": "439-1",
+          "id": "536-1",
           "x": 27.62,
-          "y_start": 111.88,
+          "y_start": 1311.35,
           "page_start": 1,
           "page_end": 1,
-          "text": "The Competent Authority may, during the course of any proceedings under this Act, impose penalty on any person who has under-reported his income and such penalty shall be payable in addition to tax, if any.",
+          "text": "The Income-tax Act, 1961 (43 of 1961) is hereby repealed.",
           "children": []
         },
         {
           "type": "subsection",
           "number": "2",
-          "id": "439-2",
+          "id": "536-2",
           "x": 27.62,
-          "y_start": 139.99,
+          "y_start": 1321.96,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "A person shall be deemed to have under-reported his income, if—",
+          "footnote_refs": [
+            "33"
+          ],
+          "text_before_clauses": "Irrespective of the repeal of the Income-tax Act, 1961 (43 of 1961) (herein referred to as the repealed Income-tax Act), and subject to sub-section (4)—",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
-              "id": "439-2-a",
+              "id": "536-2-a",
               "x": 40.8,
-              "y_start": 154.85,
+              "y_start": 80.59,
               "page_start": 1,
               "page_end": 1,
-              "text": "the income assessed is greater than the income determined in the return processed under section 270(1)(a);",
+              "text": "nothing shall affect the previous operation of the repealed Income-tax Act and orders or anything duly done or suffered thereunder; or",
               "children": []
             },
             {
               "type": "clause",
               "number": "b",
-              "id": "439-2-b",
+              "id": "536-2-b",
               "x": 40.8,
-              "y_start": 165.46,
+              "y_start": 101.81,
               "page_start": 1,
               "page_end": 1,
-              "text": "the income assessed is greater than the maximum amount not chargeable to tax, where no return of income has been furnished or where return has been furnished for the first time under section 280;",
+              "text": "nothing shall affect any right, privilege, obligation or liability acquired, accrued or incurred under the repealed Income-tax Act or orders under such repealed Act;",
               "children": []
             },
             {
               "type": "clause",
               "number": "c",
-              "id": "439-2-c",
-              "x": 41.27,
-              "y_start": 185.61,
+              "id": "536-2-c",
+              "x": 40.8,
+              "y_start": 123.03,
               "page_start": 1,
               "page_end": 1,
-              "text": "the income reassessed is greater than the income assessed or reassessed immediately before such reassessment;",
+              "text": "the provisions of the repealed Income-tax Act shall continue to apply to any proceeding pending on the date of commencement of this Act and to any proceedings initiated on or after the 1st April, 2026 (including notices, assessment, reassessment, recomputation, rectification, penalty, reference, revision and appeals) in respect of any tax year beginning before the 1st April, 2026 and such proceedings shall be carried out as per the procedure specified in the repealed Income-tax Act;",
               "children": []
             },
             {
               "type": "clause",
               "number": "d",
-              "id": "439-2-d",
+              "id": "536-2-d",
               "x": 40.8,
-              "y_start": 196.22,
+              "y_start": 176.08,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount of deemed total income assessed or reassessed as per section 206(1) and (2), is greater than the deemed total income determined in the return processed under section 270(1)(a);",
+              "text": "any proceeding for the imposition of a penalty in respect of any tax year beginning before the 1st April, 2026, may be initiated and any such penalty may be imposed under the repealed Income-tax Act, as if this Act had not been enacted;",
               "children": []
             },
             {
               "type": "clause",
               "number": "e",
-              "id": "439-2-e",
-              "x": 41.27,
-              "y_start": 216.38,
+              "id": "536-2-e",
+              "x": 40.8,
+              "y_start": 207.91,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount of deemed total income assessed as per section 206(1) and (2), is greater than the maximum amount not chargeable to tax, where no return of income has been furnished or where return has been furnished for the first time under section 280;",
+              "text": "any proceeding pending on the commencement of this Act before any income-tax authority or any other authority constituted under the repealed Income-tax Act, Appellate Tribunal, or any court, by way of application, appeal, reference or revision or by any other means, shall be continued and disposed of as if this Act had not been enacted;",
               "children": []
             },
             {
               "type": "clause",
               "number": "f",
-              "id": "439-2-f",
-              "x": 42.68,
-              "y_start": 236.53,
+              "id": "536-2-f",
+              "x": 40.8,
+              "y_start": 250.35,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount of deemed total income reassessed as per section 206(1) and (2), is greater than the deemed total income assessed or reassessed under the said sections immediately before such reassessment;",
+              "text": "any election or declaration made, or option exercised, by an assessee under any provision of the repealed Income-tax Act and in force immediately before the commencement of this Act shall be deemed to have been an election or declaration made, or option exercised, under the corresponding provision of this Act;",
               "children": []
             },
             {
               "type": "clause",
               "number": "g",
-              "id": "439-2-g",
+              "id": "536-2-g",
               "x": 40.8,
-              "y_start": 256.69,
+              "y_start": 335.23,
               "page_start": 1,
               "page_end": 1,
-              "text": "the income assessed or reassessed has the effect of reducing the loss or converting such loss into income.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "439-3",
-          "x": 27.62,
-          "y_start": 268.36,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The amount of under-reported income shall be,—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "439-3-a",
-              "x": 40.8,
-              "y_start": 282.68,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_sub_clauses": "if income has been assessed for the first time,—",
+              "footnote_refs": [
+                "34"
+              ],
+              "text_before_sub_clauses": "where in respect of any proceeding relating to any tax year beginning before the 1st April, 2026,—",
               "sub_clauses": [
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "439-3-a-i",
+                  "id": "536-2-g-i",
                   "x": 71.75,
-                  "y_start": 293.29,
+                  "y_start": 282.18,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "where return has been furnished, the difference between the amount of income assessed and the amount of income determined under section 270(1)(a);",
+                  "text": "a refund falls due on or after such date; or",
                   "children": []
                 },
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "439-3-a-ii",
-                  "x": 69.33,
-                  "y_start": 313.44,
+                  "id": "536-2-g-ii",
+                  "x": 71.75,
+                  "y_start": 292.79,
                   "page_start": 1,
                   "page_end": 1,
-                  "text_before_items": "where no return of income has been furnished or where return has been furnished for the first time under section 280,—",
-                  "items": [
-                    {
-                      "type": "item",
-                      "number": "A",
-                      "id": "439-3-a-ii-A",
-                      "x": 99.0,
-                      "y_start": 324.05,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text": "the amount of income assessed, in the case of a company, firm or local authority; and",
-                      "children": []
-                    },
-                    {
-                      "type": "item",
-                      "number": "B",
-                      "id": "439-3-a-ii-B",
-                      "x": 99.0,
-                      "y_start": 334.66,
-                      "page_start": 1,
-                      "page_end": 1,
-                      "text": "the difference between the amount of income assessed and the maximum amount not chargeable to tax, in a case not covered in item (A);",
-                      "children": []
-                    }
-                  ],
-                  "text_after_items": ""
+                  "text": "default is made on or after such date, in the payment of any sum due under such proceeding,",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": "",
+              "text_before_items": "the provisions of the repealed Income-tax Act, relating to the interest payable by the Central Government on refunds or the interest payable by the assessee for default, shall apply for the period on or after such date, subject to the effect that—",
+              "items": [
+                {
+                  "type": "item",
+                  "number": "A",
+                  "id": "536-2-g-A",
+                  "x": 68.93,
+                  "y_start": 303.4,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the rate of interest on refund or on the default, as the case may be, as provided in the repealed Income-tax Act has been substituted with the rate as provided in the corresponding provisions of this Act; and",
+                  "children": []
+                },
+                {
+                  "type": "item",
+                  "number": "B",
+                  "id": "536-2-g-B",
+                  "x": 68.93,
+                  "y_start": 324.62,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "such substitution shall apply from the date on which such rate has been modified under this Act;",
+                  "children": []
+                }
+              ],
+              "text_after_items": ""
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "536-2-h",
+              "x": 40.8,
+              "y_start": 377.67,
+              "page_start": 1,
+              "page_end": 1,
+              "footnote_refs": [
+                "35"
+              ],
+              "text_before_sub_clauses": "where any sum has been allowed as a deduction or has not been included in the total income of any person, either on account of fulfilment of certain conditions or for any other reason, for any tax year beginning before the 1st April, 2026, and such sum was required to be included in the total income of any subsequent tax year including beginning on or after the 1st April, 2026 under the repealed Income-tax Act, if it had not been so repealed, on account of violation of such conditions or for any other reason, then such sum shall be––",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "536-2-h-i",
+                  "x": 71.75,
+                  "y_start": 345.84,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "deemed to be the income of such subsequent tax year; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "536-2-h-ii",
+                  "x": 71.75,
+                  "y_start": 356.45,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "included in the total income of the said person under the same head of income as it would have been included under the repealed Income-tax Act;",
+                  "children": []
                 }
               ],
               "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
-              "number": "b",
-              "id": "439-3-b",
+              "number": "i",
+              "id": "536-2-i",
               "x": 40.8,
-              "y_start": 354.82,
+              "y_start": 441.33,
               "page_start": 1,
               "page_end": 1,
-              "text": "in any other case, the difference between the amount of income reassessed or recomputed and the amount of income assessed, reassessed or recomputed in a preceding order.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "4",
-          "id": "439-4",
-          "x": 27.62,
-          "y_start": 376.04,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "If under-reported income arises out of determination of deemed total income as per section 206(1) and (2), the amount of total under-reported income shall be determined as under— (A – B) + (C – D) where,— A = the total income assessed as per the provisions other than the provisions contained in section 206 (herein referred to as \"general provisions\"); B = the total income that would have been chargeable had the total income assessed as per the general provisions been reduced by the amount of under- reported income; C = the total income assessed as per section 206; D = the total income that would have been chargeable had the total income assessed as per section 206 been reduced by the amount of under-reported income.",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "5",
-          "id": "439-5",
-          "x": 27.62,
-          "y_start": 496.97,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "439-5-a",
-              "x": 27.62,
-              "y_start": 496.97,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "If the amount of under-reported income on any issue is considered both under section 206(1) and (2) and under general provisions, such amount shall not be reduced from total income assessed while determining the amount under D referred to in sub-section (4);",
+              "text": "any sum payable under the repealed Income-tax Act may be recovered under this Act without prejudice to any action already taken for the recovery of such sum under repealed Income-tax Act;",
               "children": []
             },
             {
               "type": "clause",
-              "number": "b",
-              "id": "439-5-b",
-              "x": 27.62,
-              "y_start": 525.09,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "in a case where an assessment or reassessment has the effect of reducing the loss declared in the return or converting that loss into income, the amount of under-reported income shall be the difference between the loss claimed and the income or loss, assessed or reassessed.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "6",
-          "id": "439-6",
-          "x": 27.62,
-          "y_start": 553.73,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "Subject to sub-section (8), where the source of any receipt, deposit or investment in any tax year is claimed to be an amount added to income or deducted while computing loss, in the assessment of such person in any year prior to the tax year in which such receipt, deposit or investment appears (herein referred to as the preceding year) and no penalty was levied for such preceding year, then, the under-reported income shall include such amount as is sufficient to cover such receipt, deposit or investment.",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "7",
-          "id": "439-7",
-          "x": 27.62,
-          "y_start": 607.3,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The amount referred to in sub-section (6) shall be deemed to be income under-reported for the preceding year in the following order:—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "439-7-a",
+              "number": "j",
+              "id": "536-2-j",
               "x": 40.8,
-              "y_start": 621.62,
+              "y_start": 462.55,
               "page_start": 1,
               "page_end": 1,
-              "text": "the preceding year immediately before the year in which the receipt, deposit or investment appears, being the first preceding year; and",
+              "text": "any agreement entered into, appointment made, approval given, recognition granted, circular, direction, instruction, notification, order or rule or any scheme framed therein issued under any provision of the repealed Income-tax Act shall, so far as it is not inconsistent with the corresponding provisions of this Act, be deemed to have been entered into, made, granted, given or issued under the corresponding provision of this Act and shall continue in force accordingly;",
               "children": []
             },
             {
               "type": "clause",
-              "number": "b",
-              "id": "439-7-b",
+              "number": "k",
+              "id": "536-2-k",
               "x": 40.8,
-              "y_start": 632.23,
+              "y_start": 515.6,
               "page_start": 1,
               "page_end": 1,
-              "text": "where the amount added or deducted in the first preceding year is not sufficient to cover the receipt, deposit or investment, the year immediately preceding the first preceding year and so on.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "8",
-          "id": "439-8",
-          "x": 27.62,
-          "y_start": 653.45,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The under-reported income, for the purposes of this section, shall not include the following:—",
-          "clauses": [
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "439-8-a",
-              "x": 40.8,
-              "y_start": 668.3,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the amount of income in respect of which the assessee offers an explanation and the Competent Authority, is satisfied that the explanation is bona fide and the assessee has disclosed all the material facts to substantiate the explanation offered;",
+              "text": "where the period provided for any application, appeal, reference or revision under the repealed Income-tax Act had expired on or before the commencement of this Act, nothing in this Act shall be construed as enabling any such application, appeal, reference or revision to be made under this Act by reason only of the fact that a longer period therefor is prescribed or provision is made for extension of time in suitable cases by the appropriate authority;",
               "children": []
             },
             {
               "type": "clause",
-              "number": "b",
-              "id": "439-8-b",
+              "number": "l",
+              "id": "536-2-l",
               "x": 40.8,
-              "y_start": 688.46,
+              "y_start": 632.31,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount of under-reported income determined on the basis of an estimate, if the accounts are correct and complete to the satisfaction of the Competent Authority, but the method employed is such that the income cannot properly be deduced therefrom;",
-              "children": []
+              "text_before_sub_clauses": "any amount of credit, in respect of tax paid, allowable to be carried forward in the case of an assessee, under the provisions of section 115JAA or 115JD of the repealed Income-tax Act for the tax year beginning before the 1st April, 2026, had the Income-tax Act, 1961 (43 of 1961) not been repealed,—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "536-2-l-i",
+                  "x": 71.75,
+                  "y_start": 568.65,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "footnote_refs": [
+                    "36"
+                  ],
+                  "text": "shall be deemed to be the amount eligible for credit under corresponding provisions or section 206(3) or (4) of this Act, as the case may be in the case of said assessee; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "536-2-l-ii",
+                  "x": 71.75,
+                  "y_start": 589.87,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "footnote_refs": [
+                    "36"
+                  ],
+                  "text": "credit for the tax paid under the repealed Income-tax Act shall be allowed under this Act for the period for which it would have been allowed under the repealed Income-tax Act if the assessee otherwise continues to satisfy the conditions as specified in the corresponding provisions or section 206(3) or (4) of this Act, as the case may be in such tax years;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
             },
             {
               "type": "clause",
-              "number": "c",
-              "id": "439-8-c",
-              "x": 41.27,
-              "y_start": 708.61,
+              "number": "m",
+              "id": "536-2-m",
+              "x": 40.8,
+              "y_start": 664.14,
               "page_start": 1,
               "page_end": 1,
-              "text": "the amount of under-reported income determined on the basis of an estimate, if the assessee has, on his own, estimated a lower amount of addition or disallowance on the same issue, has included such amount in the computation of his income and has disclosed all the facts material to the addition or disallowance; and",
+              "text": "any amount of loss under the source or head of income specified in column B of the Table given below and referred to in the section of the repealed Income-tax Act specified in column C of the said Table, brought forward for the tax year beginning before the 1st April, 2026 had the Income-tax Act, 1961 (43 of 1961) not been repealed, shall be set off and carried forward against the income computed under this Act, in the manner provided in the respective section of the repealed Income-tax Act specified in column C of the said table, for the tax years beginning on or after the 1st April, 2026:",
+              "table": {
+                "type": "table",
+                "id": "536-2-m-table",
+                "x": 40.8,
+                "y_start": 727.8,
+                "page_start": 1,
+                "page_end": 1,
+                "columns": [
+                  "Sl. No.",
+                  "Source or head of income under the repealed Income-tax Act",
+                  "Section of the repealed Income-tax Act"
+                ],
+                "rows": [
+                  {
+                    "sl_no": "1",
+                    "source_or_head_of_income_under_the_repealed_income_tax_act": "Income from house property.",
+                    "section_of_the_repealed_income_tax_act": "71B."
+                  },
+                  {
+                    "sl_no": "2",
+                    "source_or_head_of_income_under_the_repealed_income_tax_act": "Profits and gains of business or profession.",
+                    "section_of_the_repealed_income_tax_act": "72."
+                  },
+                  {
+                    "sl_no": "3",
+                    "source_or_head_of_income_under_the_repealed_income_tax_act": "Speculation business.",
+                    "section_of_the_repealed_income_tax_act": "73."
+                  },
+                  {
+                    "sl_no": "4",
+                    "source_or_head_of_income_under_the_repealed_income_tax_act": "Specified Business.",
+                    "section_of_the_repealed_income_tax_act": "73A."
+                  },
+                  {
+                    "sl_no": "5",
+                    "source_or_head_of_income_under_the_repealed_income_tax_act": "Activity of owning and maintaining race horses.",
+                    "section_of_the_repealed_income_tax_act": "74A."
+                  }
+                ]
+              },
               "children": []
             },
-            {
-              "type": "clause",
-              "number": "d",
-              "id": "439-8-d",
-              "x": 40.8,
-              "y_start": 738.32,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the amount of under-reported income represented by any addition made in conformity with the arm's length price determined by the Transfer Pricing Officer, where the assessee had maintained such information and documents as may be prescribed under section 171, declared the international transaction under Chapter X, and, disclosed all the material facts relating to the transaction.",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "9",
-          "id": "439-9",
-          "x": 27.62,
-          "y_start": 769.08,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "The penalty referred to in sub-section (1) shall be 50% of the tax payable on under-reported income.",
-          "clauses": [
             {
               "type": "clause",
               "number": "n",
-              "id": "439-9-n",
+              "id": "536-2-n",
               "x": 40.8,
-              "y_start": 64.14,
-              "page_start": 2,
-              "page_end": 2,
+              "y_start": 738.41,
+              "page_start": 1,
+              "page_end": 1,
               "text": "any amount of loss under the head capital gains, whether related to a long-term capital asset or a short term capital asset, referred to in section 74 of the repealed Income-tax Act, brought forward from the tax year beginning before the 1st April, 2026 had the Income-tax Act, 1961 (43 of 1961) not been repealed, shall be carried forward and set off, in accordance with the manner provided in the repealed Income-tax Act, against the income under the head \"Capital gains\" computed under this Act for any tax year beginning on or after the 1st April, 2026 upto eight financial years immediately succeeding the financial year in which such loss was first computed under the repealed Income-tax Act;",
               "children": []
             },
             {
               "type": "clause",
               "number": "o",
-              "id": "439-9-o",
+              "id": "536-2-o",
               "x": 40.8,
-              "y_start": 112.94,
-              "page_start": 2,
-              "page_end": 2,
-              "text": "any set off of loss or allowance for depreciation made in any tax year beginning before the 1st April, 2026 in the hands of the amalgamated company, successor company or the successor limited liability partnership, in accordance with the provisions of section 72A of the repealed Income- tax Act, shall be deemed to be the income of the amalgamated company, successor company or the successor limited liability partnership, as the case may be, chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
+              "y_start": 812.68,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any set off of loss or allowance for depreciation made in any tax year beginning before the 1st April, 2026 in the hands of the amalgamated company, successor company or the successor limited liability partnership, in accordance with the provisions of section 72A of the repealed Income-tax Act, shall be deemed to be the income of the amalgamated company, successor company or the successor limited liability partnership, as the case may be, chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
               "children": []
             },
             {
               "type": "clause",
               "number": "p",
-              "id": "439-9-p",
+              "id": "536-2-p",
               "x": 40.8,
-              "y_start": 152.19,
-              "page_start": 2,
-              "page_end": 2,
-              "text": "any set off of accumulated loss or unabsorbed depreciation allowed in any tax year beginning before the 1st April, 2026 to the successor co- operative bank, in accordance with the provisions of section 72AB of the repealed Income-tax Act, shall be deemed to be the income of the successor co-operative bank chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
+              "y_start": 876.34,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any set off of accumulated loss or unabsorbed depreciation allowed in any tax year beginning before the 1st April, 2026 to the successor co-operative bank, in accordance with the provisions of section 72AB of the repealed Income-tax Act, shall be deemed to be the income of the successor co-operative bank chargeable to tax under this Act for the year in which any of the conditions specified in that section are not complied with;",
               "children": []
             },
             {
               "type": "clause",
               "number": "q",
-              "id": "439-9-q",
+              "id": "536-2-q",
               "x": 40.8,
-              "y_start": 191.45,
-              "page_start": 2,
-              "page_end": 2,
+              "y_start": 971.83,
+              "page_start": 1,
+              "page_end": 1,
               "text_before_items": "any amount of profits or gains arising out of transfer of capital asset not charged under the head \"capital gains\" by virtue of the provisions contained in section 47(iv), (v), (xiii), (xiiib) or (xiv) of the repealed Income-tax Act in any tax year beginning before the 1st April, 2026 shall be deemed to be the income chargeable under the head \"Capital gains\" under this Act, for the tax year––",
               "items": [
                 {
                   "type": "item",
                   "number": "A",
-                  "id": "439-9-q-A",
+                  "id": "536-2-q-A",
                   "x": 68.93,
-                  "y_start": 221.15,
-                  "page_start": 2,
-                  "page_end": 2,
+                  "y_start": 929.39,
+                  "page_start": 1,
+                  "page_end": 1,
                   "text": "in which the transfer took place if any of the conditions laid down in section 47A(1)(i) or (ii) of the repealed Income-tax Act are satisfied; or",
                   "children": []
                 },
                 {
                   "type": "item",
                   "number": "B",
-                  "id": "439-9-q-B",
+                  "id": "536-2-q-B",
                   "x": 68.93,
-                  "y_start": 241.31,
-                  "page_start": 2,
-                  "page_end": 2,
+                  "y_start": 950.61,
+                  "page_start": 1,
+                  "page_end": 1,
                   "text": "in which any of the conditions laid down in section 47(xiii), (xiiib) or (xiv) of the repealed Income-tax Act are not complied with,",
                   "children": []
                 }
@@ -969,81 +400,81 @@
             {
               "type": "clause",
               "number": "r",
-              "id": "439-9-r",
-              "x": 41.74,
-              "y_start": 262.52,
-              "page_start": 2,
-              "page_end": 2,
+              "id": "536-2-r",
+              "x": 40.8,
+              "y_start": 1014.27,
+              "page_start": 1,
+              "page_end": 1,
               "text": "where any allowance or part thereof, under section 32(2) or 35(4) of the repealed Income-tax Act, is to be carried forward to tax year beginning on the 1st April, 2026, had the Income-tax Act, 1961 (43 of 1961) not been repealed, then, the allowance or part thereof shall be added to the amount of capital allowances referred to corresponding provisions of this Act for the tax year beginning on the 1st April, 2026 and deemed to be part of that allowance, or if there is no such allowance for that tax year, be deemed to be allowance for that tax year;",
               "children": []
             },
             {
               "type": "clause",
               "number": "s",
-              "id": "439-9-s",
-              "x": 41.74,
-              "y_start": 301.78,
-              "page_start": 2,
-              "page_end": 2,
+              "id": "536-2-s",
+              "x": 40.8,
+              "y_start": 1077.93,
+              "page_start": 1,
+              "page_end": 1,
               "text": "the deduction referred to in sections 35ABA, 35ABB, 35D, 35DD, 35DDA, 35E or the first proviso to section 36(1)(ix) of the repealed Income-tax Act, shall, on fulfilment of the conditions mentioned in the said provisions, continue to be allowed under this Act for tax year beginning on or after the 1st April, 2026 had the Income-tax Act, 1961 not been repealed and such deduction shall be added to the amount of deferred revenue expenditure allowance referred to corresponding provisions of this Act for the tax year beginning on or after the 1st April, 2026 and deemed to be part of that allowance, or if there is no such allowance for a tax year, be deemed to be that allowance for that tax year;",
               "children": []
             },
             {
               "type": "clause",
               "number": "t",
-              "id": "439-9-t",
-              "x": 42.68,
-              "y_start": 350.57,
-              "page_start": 2,
-              "page_end": 2,
+              "id": "536-2-t",
+              "x": 40.8,
+              "y_start": 1152.2,
+              "page_start": 1,
+              "page_end": 1,
               "text": "credit balance in the provision for bad and doubtful debts account made under section 36(1)(viia) of the repealed Income-tax Act standing on the last day of the tax year beginning on 1st April, 2025 shall be added to the amount credited to the provision for bad and doubtful debts accounts referred to in the corresponding provisions of this Act for the tax year beginning on the 1st April, 2026 and deemed to be part of amount credited to the provision for bad and doubtful debts accounts, or if there is no such amount credited for that tax year, be deemed to be amount credited for that tax year;",
               "children": []
             },
             {
               "type": "clause",
               "number": "u",
-              "id": "439-9-u",
+              "id": "536-2-u",
               "x": 40.8,
-              "y_start": 399.37,
-              "page_start": 2,
-              "page_end": 2,
+              "y_start": 1237.08,
+              "page_start": 1,
+              "page_end": 1,
               "text_before_sub_clauses": "any scheme which has been notified under the provisions of the repealed Income-tax Act with a view to eliminating the interface with the assessee or any other person, the said scheme shall be deemed to have been made—",
               "sub_clauses": [
                 {
                   "type": "sub_clause",
                   "number": "i",
-                  "id": "439-9-u-i",
+                  "id": "536-2-u-i",
                   "x": 71.75,
-                  "y_start": 419.53,
-                  "page_start": 2,
-                  "page_end": 2,
+                  "y_start": 1215.86,
+                  "page_start": 1,
+                  "page_end": 1,
                   "text": "under the corresponding provisions of this Act; or",
                   "children": []
                 },
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "439-9-u-ii",
-                  "x": 69.33,
-                  "y_start": 430.14,
-                  "page_start": 2,
-                  "page_end": 2,
+                  "id": "536-2-u-ii",
+                  "x": 71.75,
+                  "y_start": 1226.47,
+                  "page_start": 1,
+                  "page_end": 1,
                   "text": "under section 532 where there is no such corresponding provision,",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "v",
-                  "id": "439-9-u-v",
-                  "x": 41.27,
-                  "y_start": 451.36,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "where a search has been initiated under section 132 or requisition is made under section 132A prior to the commencement of this Act, the provisions of repealed Income-tax Act, shall continue to apply to any proceedings connected in respect of such search or requisition, as the case may be, as if this Act has not been enacted.",
                   "children": []
                 }
               ],
               "text_after_sub_clauses": "and shall continue in force accordingly; and"
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "536-2-v",
+              "x": 40.8,
+              "y_start": 1268.91,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where a search has been initiated under section 132 or requisition is made under section 132A prior to the commencement of this Act, the provisions of repealed Income-tax Act, shall continue to apply to any proceedings connected in respect of such search or requisition, as the case may be, as if this Act has not been enacted.",
+              "children": []
             }
           ],
           "text_after_clauses": ""
@@ -1051,22 +482,22 @@
         {
           "type": "subsection",
           "number": "3",
-          "id": "439-3",
+          "id": "536-3",
           "x": 27.62,
-          "y_start": 482.12,
-          "page_start": 2,
-          "page_end": 2,
+          "y_start": 1343.18,
+          "page_start": 1,
+          "page_end": 1,
           "text": "Where any reference is made in this Act to any tax year commencing on the 1st April, 2025 or to any earlier tax year, the same shall be construed as a reference to the corresponding previous year under the repealed Income-tax Act.",
           "children": []
         },
         {
           "type": "subsection",
           "number": "4",
-          "id": "439-4",
+          "id": "536-4",
           "x": 27.62,
-          "y_start": 510.23,
-          "page_start": 2,
-          "page_end": 2,
+          "y_start": 1375.01,
+          "page_start": 1,
+          "page_end": 1,
           "text": "Without prejudice to the provisions of sub-section (2), the provisions of section 6 of the General Clauses Act, 1897 (10 of 1897) shall apply with regard to the effect of repeal.",
           "children": []
         }
@@ -1079,29 +510,42 @@
       "type": "footnote",
       "number": "33",
       "text": "Sub. for \"sub-section (3)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
-      "page_start": 2,
-      "page_end": 2
+      "page_start": 1,
+      "page_end": 1,
+      "referenced_by": [
+        "536-2"
+      ]
     },
     {
       "type": "footnote",
       "number": "34",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (g) read as under : \"(g) where in respect of any proceeding relating to any tax year beginning before the 1st April, 2026,— (i) a refund falls due after commencement of this Act; or (ii) default is made after such commencement in the payment of any sum due under such proceeding, the provisions of this Act, relating to interest payable by the Central Government on refunds and interest payable by the assessee for default, shall apply for the period after the commencement of this Act;\"",
-      "page_start": 2,
-      "page_end": 2
+      "page_start": 1,
+      "page_end": 1,
+      "referenced_by": [
+        "536-2-g"
+      ]
     },
     {
       "type": "footnote",
       "number": "35",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (h) read as under : \"(h) where any deduction has been allowed or any amount has not been included in the total income of any person, subject to fulfilment of certain conditions for any tax year beginning before the 1st April, 2026, and in case of violation of such conditions in any tax year beginning on or after 1st April, 2026, any sum (on account of deduction earlier allowed or amount not included) was required to be included in the total income of such subsequent tax year under the repealed Income-tax Act if it had not been so repealed, then such sum shall be— (i) deemed to be the income of the tax year in which the violation takes place; and (ii) included in the total income of the said person under the same head of income as it would have been included under the repealed Income-tax Act;\"",
-      "page_start": 2,
-      "page_end": 2
+      "page_start": 1,
+      "page_end": 1,
+      "referenced_by": [
+        "536-2-h"
+      ]
     },
     {
       "type": "footnote",
       "number": "36",
       "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to their substitution, sub-clauses (i) and (ii) read as under : \"(i) shall be deemed to be the amount eligible for credit under corresponding provision of this Act in the case of said assessee; and (ii) credit for the tax paid under the repealed Income-tax Act shall be allowed under this Act for the period for which it would have been allowed under the repealed Income-tax Act if the assessee otherwise continues to satisfy the conditions as specified in the corresponding provisions of this Act in such tax years;\"",
-      "page_start": 2,
-      "page_end": 3
+      "page_start": 1,
+      "page_end": 1,
+      "referenced_by": [
+        "536-2-l-i",
+        "536-2-l-ii"
+      ]
     }
   ],
   "orphans": []

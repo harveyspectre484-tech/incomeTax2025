@@ -42,34 +42,91 @@
               "page_start": 1,
               "page_end": 1,
               "text_before_sub_clauses": "within six months after the date of such transfer, he has invested the whole or any part of the net consideration in any specified asset (herein referred to as new asset),",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "215-1-b-i",
-                  "x": 42.68,
-                  "y_start": 141.59,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "ii",
-                  "id": "215-1-b-ii",
-                  "x": 40.26,
-                  "y_start": 161.74,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— C A = B × D Where, A = the capital gains not to be charged under section 67; B = whole of the capital gain; C = cost of acquisition of the new asset; D = net consideration in respect of the original asset.",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
+              "sub_clauses": []
             }
           ],
-          "text_after_clauses": "then the capital gains shall be dealt with in the following manner:—"
+          "text_after_clauses": "",
+          "text_before_items": "then the capital gains shall be dealt with in the following manner:—",
+          "items": [
+            {
+              "type": "item",
+              "number": "i",
+              "id": "215-1-i",
+              "x": 42.68,
+              "y_start": 141.59,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;",
+              "children": []
+            },
+            {
+              "type": "sub_clause",
+              "number": "ii",
+              "id": "215-1-ii",
+              "x": 40.26,
+              "y_start": 161.74,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D",
+              "formula": "A = B * (C/D)",
+              "where_block": {
+                "type": "where_block",
+                "id": "215-1-ii-where",
+                "x": 40.26,
+                "y_start": 161.74,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "A",
+                    "id": "215-1-ii-where-A",
+                    "x": 40.26,
+                    "y_start": 161.74,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "A = the capital gains not to be charged under section 67;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "B",
+                    "id": "215-1-ii-where-B",
+                    "x": 40.26,
+                    "y_start": 161.74,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "B = whole of the capital gain;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "C",
+                    "id": "215-1-ii-where-C",
+                    "x": 40.26,
+                    "y_start": 161.74,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "C = cost of acquisition of the new asset;",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "D",
+                    "id": "215-1-ii-where-D",
+                    "x": 40.26,
+                    "y_start": 161.74,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "D = net consideration in respect of the original asset.",
+                    "children": []
+                  }
+                ]
+              }
+            }
+          ],
+          "text_after_items": ""
         },
         {
           "type": "subsection",

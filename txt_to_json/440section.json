@@ -10,54 +10,64 @@
       "y_start": 78.67,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "^8^a[(1) An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "440-a",
-          "x": 41.27,
-          "y_start": 108.17,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "the tax and interest payable as per the order of assessment under section 270(10) or reassessment under section 279, has been paid within the period specified in the notice of demand;",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "440-b",
-          "x": 40.8,
-          "y_start": 128.33,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "where penalty has been levied under the circumstances referred to in section 439(11)(a) to (f), additional income-tax amounting to 100% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty;",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "c",
-          "id": "440-c",
-          "x": 41.27,
-          "y_start": 148.48,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "where penalty has been levied under the circumstances referred to in section 439(11)(g), additional income-tax amounting to 120% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty; and",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "d",
-          "id": "440-d",
-          "x": 40.8,
-          "y_start": 168.64,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "no appeal has been filed against the order of assessment or reassessment and levy of penalty referred to in clauses (a), (b) and (c).",
-          "children": []
-        }
-      ],
+      "text_before_sections": "^8^a[(1) An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––",
       "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "440-1",
+          "x": 27.62,
+          "y_start": 180.31,
+          "page_start": 1,
+          "page_end": 1,
+          "text": " An assessee may make an application to the Assessing Officer to grant waiver of penalty levied under section 439 and immunity from initiation of proceedings under section 478 or 479 on fulfilment of the following conditions: ––",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "440-a",
+              "x": 41.27,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the tax and interest payable as per the order of assessment under section 270(10) or reassessment under section 279, has been paid within the period specified in the notice of demand;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "440-b",
+              "x": 40.8,
+              "y_start": 128.33,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where penalty has been levied under the circumstances referred to in section 439(11)(a) to (f), additional income-tax amounting to 100% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "440-c",
+              "x": 41.27,
+              "y_start": 148.48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "where penalty has been levied under the circumstances referred to in section 439(11)(g), additional income-tax amounting to 120% of the amount of tax payable on under-reported income has been paid within the period specified in the notice of demand, in lieu of such penalty; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "440-d",
+              "x": 40.8,
+              "y_start": 168.64,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "no appeal has been filed against the order of assessment or reassessment and levy of penalty referred to in clauses (a), (b) and (c).",
+              "children": []
+            }
+          ]
+        },
         {
           "type": "subsection",
           "number": "2",

@@ -10,43 +10,52 @@
       "y_start": 78.67,
       "page_start": 1,
       "page_end": 1,
-      "text_before_subsections": "^2^4[(1) If a person wilfully attempts in any manner to evade any tax, penalty or interest chargeable or imposable, or under-reports his income, under this Act, he shall be punishable—",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "478-a",
-          "x": 41.27,
-          "y_start": 108.17,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount sought to be evaded or tax on under-reported income exceeds fifty lakh rupees; or",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "478-b",
-          "x": 40.8,
-          "y_start": 128.33,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount sought to be evaded or tax on under-reported income exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "c",
-          "id": "478-c",
-          "x": 41.27,
-          "y_start": 148.48,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "with fine, in any other case.",
-          "children": []
-        }
-      ],
       "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "478-1",
+          "x": 27.62,
+          "y_start": 160.15,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "If a person wilfully attempts in any manner to evade payment of any tax, penalty or interest under this Act, he shall be punishable —",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "478-a",
+              "x": 41.27,
+              "y_start": 108.17,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount sought to be evaded or tax on under-reported income exceeds fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "478-b",
+              "x": 40.8,
+              "y_start": 128.33,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount sought to be evaded or tax on under-reported income exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "478-c",
+              "x": 41.27,
+              "y_start": 148.48,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "with fine, in any other case.",
+              "children": []
+            }
+          ]
+        },
         {
           "type": "subsection",
           "number": "2",

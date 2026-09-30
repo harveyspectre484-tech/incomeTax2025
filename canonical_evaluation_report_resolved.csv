@@ -504,12 +504,12 @@ section,severity,code,unit_id,message,file
 206,INFO,unresolved_reference,206-5-n-ii,Cross-reference text 'clause (m)' targets '206-5-m' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/206section_can.json
 206,INFO,unresolved_reference,206-5-o-i,Cross-reference text 'clause (m)' targets '206-5-m' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/206section_can.json
 206,INFO,unresolved_reference,206-5-o-ii,Cross-reference text 'clause (m)' targets '206-5-m' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/206section_can.json
-207,INFO,unresolved_reference,207-3-b,Cross-reference text 'clause (a)' targets '207-3-a' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/207section_can.json
+207,INFO,unresolved_reference,207-3-b,"Cross-reference text 'clause (a)' targets '207-3-a' (not in catalog). refer to section 207-2 ",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/207section_can.json
 208,INFO,external_reference_pending,208-3-a-ii,External target is represented by placeholder 'ext-india-act-1992-15'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/208section_can.json
 208,INFO,external_reference_pending,208-3-b,External target is represented by placeholder 'ext-india-act-2013-18-section-2-72'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/208section_can.json
 209,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/209section_can.json
 210,INFO,external_reference_pending,210-3,External target is represented by placeholder 'ext-india-act-1992-15'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
-210,INFO,unresolved_reference,210-3,Cross-reference text 'clause (g)' targets '210-3-g' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
+210,INFO,unresolved_reference,210-3,"Cross-reference text 'clause (g)' targets '210-3-g' (not in catalog).refer to  clause (g)(ii) of Note 1 of the Table in Schedule VI as a Category-I portfolio investor under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
 210,INFO,external_reference_pending,210-6-c,External target is represented by placeholder 'ext-india-act-1956-42-section-2-h'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/210section_can.json
 211,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/211section_can.json
 212,INFO,external_reference_pending,212-e-ii,External target is represented by placeholder 'ext-india-act-2013-18'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/212section_can.json
@@ -523,8 +523,8 @@ section,severity,code,unit_id,message,file
 217,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/217section_can.json
 218,ERROR,missing_expected_unit,,Missing expected unit id: 218-table,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/218section_can.json
 218,ERROR,missing_table_units,,"Expected at least 1 table units, found 0.",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/218section_can.json
-219,INFO,unresolved_reference,219-3-c,Cross-reference text 'sub-section (8)' targets '219-8' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/219section_can.json
-220,INFO,unresolved_reference,220-3-c,Cross-reference text 'sub-section (8)' targets '220-8' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/220section_can.json
+219,INFO,unresolved_reference,219-3-c,Cross-reference text 'sub-section (8)' targets '219-8' (not in catalog).refer to section 287(8),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/219section_can.json
+220,INFO,unresolved_reference,220-3-c,Cross-reference text 'sub-section (8)' targets '220-8' (not in catalog).refer to section 287(8),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/220section_can.json
 221,WARN,unexpected_unit,,Unit was not predicted from raw hierarchy: 221-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/221section_can.json
 221,INFO,external_reference_pending,221-6-c,External target is represented by placeholder 'ext-india-act-1992-15'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/221section_can.json
 221,INFO,external_reference_pending,221-6-c,External target is represented by placeholder 'ext-india-act-1956-42'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/221section_can.json
@@ -552,8 +552,8 @@ section,severity,code,unit_id,message,file
 231,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/231section_can.json
 232,WARN,unexpected_unit,,Unit was not predicted from raw hierarchy: 232-1-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
 232,INFO,external_reference_pending,232-13,External target is represented by placeholder 'ext-india-act-2021-24'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
-232,INFO,unresolved_reference,232-13,Cross-reference text 'sub-section (12)' targets '232-12' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
-232,INFO,unresolved_reference,232-14,Cross-reference text 'sub-section (12)' targets '232-12' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
+232,INFO,unresolved_reference,232-13,Cross-reference text 'sub-section (12)' targets '232-12' (not in catalog).refer to section 232(12),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
+232,INFO,unresolved_reference,232-14,Cross-reference text 'sub-section (12)' targets '232-12' (not in catalog).refer to section 232(12),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/232section_can.json
 233,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/233section_can.json
 234,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/234section_can.json
 235,INFO,external_reference_pending,235-c,External target is represented by placeholder 'ext-india-act-1958-44-section-7-1'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/235section_can.json
@@ -588,7 +588,7 @@ section,severity,code,unit_id,message,file
 248,INFO,external_reference_pending,248-1-a,External target is represented by placeholder 'ext-india-act-1961-43-section-142-1'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
 248,INFO,external_reference_pending,248-1-b,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
 248,INFO,external_reference_pending,248-1-c,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
-248,INFO,unresolved_reference,248-2,Cross-reference text 'clause (a)' targets '248-2-a' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
+248,INFO,unresolved_reference,248-2,Cross-reference text 'clause (a)' targets '248-2-a' (not in catalog).refer to a 248(1)clause (a) or (b) or (c),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/248section_can.json
 249,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/249section_can.json
 250,INFO,external_reference_pending,250-1-a,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/250section_can.json
 250,INFO,external_reference_pending,250-1-a,External target is represented by placeholder 'ext-india-act-2015-22'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/250section_can.json
@@ -649,8 +649,8 @@ section,severity,code,unit_id,message,file
 288,INFO,external_reference_pending,288-1-table-row-2,External target is represented by placeholder 'ext-india-act-1961-43-section-245d-4'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
 288,INFO,external_reference_pending,288-1-table-row-2-conditions-iii-3,External target is represented by placeholder 'ext-india-act-1961-43-section-245d-4'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
 288,INFO,external_reference_pending,288-1-table-row-10,External target is represented by placeholder 'ext-india-act-1970-39'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
-288,INFO,unresolved_reference,288-1-table-row-10,Cross-reference text 'section 2(1)(b)' targets '2-1-b' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
-288,INFO,unresolved_reference,288-1-table-row-10,Cross-reference text 'section 2(1)(i)' targets '2-1-i' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,INFO,unresolved_reference,288-1-table-row-10,"Cross-reference text 'section 2(1)(b)' targets '2-1-b' (not in catalog).refer to section  2(1)(b), or the High Court under section 2(1)(i), of the Patents Act, 1970 (39 of 1970)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
+288,INFO,unresolved_reference,288-1-table-row-10,"Cross-reference text 'section 2(1)(i)' targets '2-1-i' (not in catalog).refer to section  2(1)(b), or the High Court under section 2(1)(i), of the Patents Act, 1970 (39 of 1970)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/288section_can.json
 289,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/289section_can.json
 290,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/290section_can.json
 291,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/291section_can.json
@@ -659,7 +659,7 @@ section,severity,code,unit_id,message,file
 293,INFO,external_reference_pending,293-2-b,External target is represented by placeholder 'ext-india-act-1961-43-section-139'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
 293,INFO,external_reference_pending,293-2-b,External target is represented by placeholder 'ext-india-act-1961-43-section-142-1'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
 293,INFO,external_reference_pending,293-2-d,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
-293,INFO,unresolved_reference,293-2-d,Cross-reference text 'section 115A(5)' targets '115A-5' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
+293,INFO,unresolved_reference,293-2-d,"Cross-reference text 'section 115A(5)' targets '115A-5' (not in catalog).refer to section section 115A(5) or section 115G or 194P(1) of the Income-tax Act, 1961 (43 of 1961",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
 293,INFO,unresolved_reference,293-2-d,Cross-reference text 'section 115G' targets '115G' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/293section_can.json
 294,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/294section_can.json
 295,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/295section_can.json
@@ -668,8 +668,8 @@ section,severity,code,unit_id,message,file
 296,INFO,unresolved_reference,296-7-g,Cross-reference text 'section 351(2)(ii)' targets '351-2-ii' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/296section_can.json
 296,INFO,unresolved_reference,296-8,Cross-reference text 'sub-section (1)' targets '296-1' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/296section_can.json
 297,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/297section_can.json
-298,INFO,unresolved_reference,298-1-a,Cross-reference text 'clause (c)' targets '298-1-c' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/298section_can.json
-298,INFO,unresolved_reference,298-1-b,Cross-reference text 'clause (c)' targets '298-1-c' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/298section_can.json
+298,INFO,unresolved_reference,298-1-a,Cross-reference text 'clause (c)' targets '298-1-c' (not in catalog).refer to  section 294(1)(c)),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/298section_can.json
+298,INFO,unresolved_reference,298-1-b,Cross-reference text 'clause (c)' targets '298-1-c' (not in catalog).refer to  section 294(1)(c),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/298section_can.json
 299,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/299section_can.json
 300,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/300section_can.json
 301,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/301section_can.json
@@ -739,10 +739,10 @@ section,severity,code,unit_id,message,file
 352,INFO,external_reference_pending,352-4-table-row-6,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
 352,INFO,external_reference_pending,352-4-table-row-6,External target is represented by placeholder 'ext-india-act-1961-43-section-12-1-ac'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
 352,INFO,external_reference_pending,352-4-table-row-6-case_b_i-a-1,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
-352,INFO,unresolved_reference,352-4-table-row-6-case_b_i-a-1,Cross-reference text 'clause (i)' targets '352-4-i' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,INFO,unresolved_reference,352-4-table-row-6-case_b_i-a-1,"Cross-reference text 'clause (i)' targets '352-4-i' (not in catalog).refer to sub-clause (i) or (ii) or (iii) of the first proviso to section 10 (23C) of the Income-tax Act, 1961 (43 of 1961); ",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
 352,INFO,external_reference_pending,352-4-table-row-6-case_b_i-b-2,External target is represented by placeholder 'ext-india-act-1961-43-section-12-1-ac'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
-352,INFO,unresolved_reference,352-4-table-row-6-case_b_i-b-2,Cross-reference text 'clause (i)' targets '352-4-i' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
-352,INFO,unresolved_reference,352-8,Cross-reference text 'clause (b)' targets '352-8-b' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,INFO,unresolved_reference,352-4-table-row-6-case_b_i-b-2,"Cross-reference text 'clause (i)' targets '352-4-i' (not in catalog).sub-clause (i) or (ii) or (iii) of the first proviso to section 10 (23C) of the Income-tax Act, 1961 (43 of 1961); ",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
+352,INFO,unresolved_reference,352-8,Cross-reference text 'clause (b)' targets '352-8-b' (not in catalog).refer to  352(7)(b),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/352section_can.json
 353,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/353section_can.json
 354,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/354section_can.json
 355,WARN,unexpected_unit,,Unit was not predicted from raw hierarchy: 355-h-i-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
@@ -761,12 +761,12 @@ section,severity,code,unit_id,message,file
 355,INFO,external_reference_pending,355-k-ii,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c-vi'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
 355,INFO,external_reference_pending,355-k-ii,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c-via'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
 355,INFO,external_reference_pending,355-k-ii,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
-355,INFO,unresolved_reference,355-k-ii,Cross-reference text 'section 12A(2)' targets '12A-2' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,INFO,unresolved_reference,355-k-ii,"Cross-reference text 'section 12A(2)' targets '12A-2' (not in catalog).refer to  Income-tax Act, 1961 (43 of 1961)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
 355,INFO,external_reference_pending,355-k-iii,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
-355,INFO,unresolved_reference,355-k-iii,Cross-reference text 'section 12A(2)' targets '12A-2' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
-355,INFO,unresolved_reference,355-k-iii,Cross-reference text 'section 10(23C)' targets '10-23C' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,INFO,unresolved_reference,355-k-iii,"Cross-reference text 'section 12A(2)' targets '12A-2' (not in catalog).refer to  Income-tax Act, 1961 (43 of 1961)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,INFO,unresolved_reference,355-k-iii,"Cross-reference text 'section 10(23C)' targets '10-23C' (not in catalog).refer to  Income-tax Act, 1961 (43 of 1961)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
 355,INFO,external_reference_pending,355-m,External target is represented by placeholder 'ext-india-act-1961-43-section-10-23c'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
-355,INFO,unresolved_reference,355-m,Cross-reference text 'section 12A' targets '12A' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
+355,INFO,unresolved_reference,355-m,"Cross-reference text 'section 12A' targets '12A' (not in catalog).refer to  Income-tax Act, 1961 (43 of 1961)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/355section_can.json
 356,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/356section_can.json
 357,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/357section_can.json
 358,INFO,unresolved_reference,358-4,Cross-reference text 'section 440(1)' targets '440-1' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/358section_can.json
@@ -834,7 +834,7 @@ section,severity,code,unit_id,message,file
 393,INFO,external_reference_pending,393-4-table-row-7,External target is represented by placeholder 'ext-india-act-1964-companies-profits-surtax-act'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
 393,INFO,external_reference_pending,393-4-table-row-7,External target is represented by placeholder 'ext-india-act-1974-interest-tax-act'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
 393,INFO,external_reference_pending,393-4-table-row-7-condition-a-1,External target is represented by placeholder 'ext-india-act-1956-31'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
-393,INFO,unresolved_reference,393-4-table-row-7-condition-b-2,Cross-reference text 'clause (iii)' targets '393-4-iii' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
+393,INFO,unresolved_reference,393-4-table-row-7-condition-b-2,Cross-reference text 'clause (iii)' targets '393-4-iii' (not in catalog). not know,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
 393,INFO,external_reference_pending,393-4-table-row-7-condition-c-3,External target is represented by placeholder 'ext-india-act-1961-43'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
 393,INFO,external_reference_pending,393-4-table-row-7-condition-c-3,External target is represented by placeholder 'ext-india-act-1953-estate-duty-act'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
 393,INFO,external_reference_pending,393-4-table-row-7-condition-c-3,External target is represented by placeholder 'ext-india-act-1957-27'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/393section_can.json
@@ -902,10 +902,10 @@ section,severity,code,unit_id,message,file
 422,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/422section_can.json
 423,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/423section_can.json
 424,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/424section_can.json
-425,INFO,unresolved_reference,425-6,Cross-reference text 'clause (e)' targets '425-6-e' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/425section_can.json
+425,INFO,unresolved_reference,425-6,Cross-reference text 'clause (e)' targets '425-6-e' (not in catalog).refer to section 2-40-e,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/425section_can.json
 426,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/426section_can.json
 427,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/427section_can.json
-428,INFO,unresolved_reference,428-a,Cross-reference text 'sub-section (1)' targets '428-1' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/428section_can.json
+428,INFO,unresolved_reference,428-a,Cross-reference text 'sub-section (1)' targets '428-1' (not in catalog).refer to 263-1,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/428section_can.json
 429,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/429section_can.json
 430,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/430section_can.json
 431,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/431section_can.json
@@ -941,7 +941,7 @@ section,severity,code,unit_id,message,file
 456,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/456section_can.json
 457,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/457section_can.json
 458,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/458section_can.json
-459,INFO,unresolved_reference,459-2,Cross-reference text 'sub-section (7)' targets '459-7' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/459section_can.json
+459,INFO,unresolved_reference,459-2,Cross-reference text 'sub-section (7)' targets '459-7' (not in catalog).refer to section 511(7),/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/459section_can.json
 460,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/460section_can.json
 461,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/461section_can.json
 462,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/462section_can.json
@@ -980,7 +980,7 @@ section,severity,code,unit_id,message,file
 495,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/495section_can.json
 496,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/496section_can.json
 497,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/497section_can.json
-498,INFO,unresolved_reference,498-4,Cross-reference text 'section 2(1)(v)' targets '2-1-v' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/498section_can.json
+498,INFO,unresolved_reference,498-4,"Cross-reference text 'section 2(1)(v)' targets '2-1-v' (not in catalog).refer to  section 2(1)(v) of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/498section_can.json
 499,OK,ok,,No structural issues found.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/499section_can.json
 500,WARN,unexpected_unit,,Unit was not predicted from raw hierarchy: 500-4-2,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/500section_can.json
 500,INFO,external_reference_pending,500-10-b,External target is represented by placeholder 'ext-india-act-1934-2-section-45-1'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/500section_can.json
@@ -995,7 +995,7 @@ section,severity,code,unit_id,message,file
 508,INFO,external_reference_pending,508-1-e,External target is represented by placeholder 'ext-india-act-1988-59'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
 508,INFO,external_reference_pending,508-1-f,External target is represented by placeholder 'ext-india-act-2023-43-section-2-a'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
 508,INFO,external_reference_pending,508-1-g,External target is represented by placeholder 'ext-india-act-2013-30'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
-508,INFO,unresolved_reference,508-1-g,Cross-reference text 'section 3(g)' targets '3-g' (not in catalog).,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
+508,INFO,unresolved_reference,508-1-g,"Cross-reference text 'section 3(g)' targets '3-g' (not in catalog).refer to section 3(g) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (30 of 2013)",/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
 508,INFO,external_reference_pending,508-1-h,External target is represented by placeholder 'ext-india-act-1956-42-section-2-f'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
 508,INFO,external_reference_pending,508-1-h-i,External target is represented by placeholder 'ext-india-act-1934-2-section-3'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json
 508,INFO,external_reference_pending,508-1-j,External target is represented by placeholder 'ext-india-act-1996-22-section-2-1-e'.,/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/508section_can.json

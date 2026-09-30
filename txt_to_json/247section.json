@@ -1,185 +1,377 @@
 {
-  "chapters": [],
-  "sections": [
+  "id": "247",
+  "type": "section",
+  "number": "247",
+  "title": "Search and seizure",
+  "page_start": 1,
+  "page_end": 1,
+  "subsection": [
     {
-      "type": "section",
-      "number": "247",
-      "id": "247",
-      "title": "Income Tax Act, 2025",
-      "indent": 0,
-      "line_start": 4,
-      "page_start": 1,
-      "page_end": 1,
-      "text_before_subsections": "",
-      "subsections": [
+      "id": "247-1",
+      "type": "subsection",
+      "number": "1",
+      "text_before_clauses": "Where the competent authority, in consequence of information in his possession, has reason to believe that specified circumstances relating to non-production of books, documents or electronic information, or undisclosed income or property exist, the approving authority may authorise an authorised officer to exercise specified search and seizure powers.",
+      "clause": [
         {
-          "type": "subsection",
-          "number": "1",
-          "id": "247-1",
-          "indent": 0,
-          "line_start": 4,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "Where the competent authority, in consequence of information in his possession, has reason to believe that— &nbsp;&nbsp;&nbsp;(i) any person to whom a summons under section 131(1) or a notice under section 142(1) of the Income-tax Act, 1961 (43 of 1961) or summons under section 246(1) or a notice under section 268(1) of this Act,–– &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) was issued to produce, or cause to be produced, any books of account or other documents, or any information in electronic form or on a computer system, has omitted or failed to produce, or cause to be produced, such books of account or other documents or such information as required by such summons or notice; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) has been issued or might be issued, will not, or would not, produce or cause to be produced, any books of account or other documents, or any information in electronic form or on a computer system which will be useful for, or relevant to, any proceedings under the Income-tax Act, 1961 (43 of 1961) or this Act; or &nbsp;&nbsp;&nbsp;(ii) any person is in possession of any asset or information in relation to any asset and such asset represents either wholly or partly, income or property which has not been, or would not be, disclosed, for the purposes of the Income-tax Act, 1961 (43 of 1961) or the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (22 of 2015) or this Act (hereinafter referred to as the undisclosed income or property), then the approving authority may authorise any Joint Director or Joint Commissioner or Assistant Director or Assistant Commissioner or Income-tax Officer, or any Joint Director or Joint Commissioner, so authorised, may authorise any Assistant Director or Assistant Commissioner or Income-tax Officer (the officer so authorised in all cases being herein referred to as the authorised officer) to–– &nbsp;&nbsp;&nbsp;(i) enter and search any building, place, vessel, vehicle, aircraft where he has reason to suspect that such assets, books of account or other documents, or such information in electronic form or on a computer system are kept; &nbsp;&nbsp;&nbsp;(ii) require any person, who is found to be in possession or control of any books of account or other documents maintained in the form of electronic record or any information in electronic form or on a computer system, to afford the authorised officer with such reasonable technical and other assistance (including access code, by whatever name called) as may be necessary to enable the authorised officer to inspect such books of account or other documents or such information; &nbsp;&nbsp;&nbsp;(iii) break open the lock of any door, box, locker, safe, almirah, or other receptacle or override the access code to any computer system for exercising the powers conferred by clause (i) where the keys thereof are, or the access to such building, place, etc., or the access code to such computer system, as the case may be, is not available; &nbsp;&nbsp;&nbsp;(iv) search any person who has got out of, or is about to get into, or is in, the building, place, vessel, vehicle or aircraft, if the authorised officer has reason to suspect that such person has secreted about his person any such books of account, other documents, any information in electronic form, or a computer system or asset; &nbsp;&nbsp;&nbsp;(v) place marks of identification on any books of account or other documents, or make or cause to be made extracts or copies therefrom and also from computer system; &nbsp;&nbsp;&nbsp;(vi) make a note or an inventory of any such asset, and stock-in-trade of the business, found as a result of such search; &nbsp;&nbsp;&nbsp;(vii) seize any such books of account, other documents, computer systems or asset (other than stock-in-trade of the business), found as a result of such search.",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "2",
-          "id": "247-2",
-          "indent": 0,
-          "line_start": 30,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "If any building, place, vessel, vehicle or aircraft referred to in sub-section (1)(i) is within the area of jurisdiction of any Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, but such income-tax authority has no jurisdiction over the person referred to in sub-section (1)(a) or (b), then, irrespective of the fact that he has no jurisdiction, it shall be competent for such income-tax authority to exercise the powers under sub-section (1), where he has reason to believe that any delay in getting the authorisation from the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner having jurisdiction over such person may be prejudicial to the interests of the revenue.",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "247-3",
-          "indent": 0,
-          "line_start": 32,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "If any Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, in consequence of information in his possession, has reason to suspect that any books of account, other documents, or any information in electronic form or on a computer system, or asset in respect of which an officer has been authorised by the competent authority to take action under sub-sections (1)(i) to (vii) are or is kept in any building, place, vessel, vehicle or aircraft not mentioned in the authorisation under sub-section (1), then such Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner may, irrespective of anything contained in section 241, authorise the said officer to take action under any of the sub-sections (1)(i) to (vii) in respect of such building, place, vessel, vehicle or aircraft.",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "4",
-          "id": "247-4",
-          "indent": 0,
-          "line_start": 34,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "",
-          "clauses": [
+          "id": "247-1-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_sub_clauses": "Any person to whom the specified summons or notice has been or may be issued—",
+          "sub_clause": [
             {
-              "type": "clause",
-              "number": "a",
-              "id": "247-4-a",
-              "indent": 0,
-              "line_start": 34,
-              "page_start": 1,
-              "page_end": 1,
-              "text_before_sub_clauses": "",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "247-4-a-i",
-                  "indent": 0,
-                  "line_start": 34,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "The authorised officer may serve an order on the owner or the person, who is in immediate possession or control of any valuable article or thing, other than stock-in-trade of the business, not to remove, part with or otherwise deal with it, except with the previous permission of such authorised officer, where it is not possible or practicable to take physical possession of such valuable article or thing and remove it to a safe place due to its volume, weight, or other physical characteristics or due to its being of a dangerous nature; and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) such action of the authorised officer shall be deemed to be seizure of such valuable article or thing under sub-section (1)(vii); &nbsp;&nbsp;&nbsp;(b) (i) the authorised officer may, where it is not practicable to seize any books of account, other documents, asset, bank locker, bank account, or computer system, for reasons other than mentioned under clause (a), serve an order on the owner or the person who is in immediate possession or control thereof, not to remove, part with or otherwise deal with it except with the previous permission of such officer, and such authorised officer may also take such steps as may be necessary for ensuring compliance with this clause; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) such order shall not remain in force for a period exceeding sixty days from the date of the order; and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) serving of such order shall not be deemed to be seizure of such books of account, other documents, asset, bank locker, bank account or computer system under sub-section (1)(vii).",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
+              "id": "247-1-a-I",
+              "type": "sub_clause",
+              "number": "I",
+              "text_before_children": "Has omitted or failed to produce books of account, documents, electronic information or information on a computer system as required by the summons or notice.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-a-II",
+              "type": "sub_clause",
+              "number": "II",
+              "text_before_children": "Will not or would not produce books, documents or electronic information useful for or relevant to proceedings under the Income-tax Act, 1961 or this Act.",
+              "children": [],
+              "text_after_children": ""
+            }
+          ]
+        },
+        {
+          "id": "247-1-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_sub_clauses": "Any person is in possession of an asset or information relating to an asset representing wholly or partly income or property which has not been, or would not be, disclosed for the purposes of the specified tax laws.",
+          "sub_clause": [
+            {
+              "id": "247-1-b-i",
+              "type": "sub_clause",
+              "number": "i",
+              "text_before_children": "Enter and search any building, place, vessel, vehicle or aircraft where specified assets, books, documents or electronic information are suspected to be kept.",
+              "children": []
+            },
+            {
+              "id": "247-1-ii",
+              "type": "sub_clause",
+              "number": "ii",
+              "text_before_children": "Require a person controlling electronic books, records, information or a computer system to provide reasonable technical and other assistance, including access codes.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-iii",
+              "type": "sub_clause",
+              "number": "iii",
+              "text_before_children": "Break open locks or override computer-system access codes where necessary for exercising the search powers and access is unavailable.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-iv",
+              "type": "sub_clause",
+              "number": "iv",
+              "text_before_children": "Search a person suspected of concealing books, documents, electronic information, a computer system or an asset.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-v",
+              "type": "sub_clause",
+              "number": "v",
+              "text_before_children": "Place identification marks on books or documents and make or cause extracts or copies to be made, including from computer systems.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-vi",
+              "type": "sub_clause",
+              "number": "vi",
+              "text_before_children": "Make a note or inventory of assets and business stock-in-trade found during the search.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-1-vii",
+              "type": "sub_clause",
+              "number": "vii",
+              "text_before_children": "Seize books, documents, computer systems or assets found during the search, other than stock-in-trade of the business.",
+              "children": [],
+              "text_after_children": ""
+            }
+          ]
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-2",
+      "type": "subsection",
+      "number": "2",
+      "text_before_children": "An income-tax authority having territorial jurisdiction over a place but not jurisdiction over the person may exercise powers under sub-section (1) where delay in obtaining authorisation from the authority having jurisdiction over that person may prejudice the interests of revenue.",
+      "children": [],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-3",
+      "type": "subsection",
+      "number": "3",
+      "text_before_children": "Where specified books, documents, electronic information, computer systems or assets are suspected to be kept at a location not mentioned in the original authorisation, the specified income-tax authority may authorise the officer to exercise the powers under sub-section (1)(i) to (vii) at that location.",
+      "children": [],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-4",
+      "type": "subsection",
+      "number": "4",
+      "text_before_children": "",
+      "clause": [
+        {
+          "id": "247-4-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "",
+          "sub_clause": [
+            {
+              "id": "247-4-a-i",
+              "type": "sub_clause",
+              "number": "i",
+              "text_before_children": "Where physical possession of a valuable article or thing, other than stock-in-trade, is not possible or practicable because of its volume, weight, physical characteristics or dangerous nature, the authorised officer may order the person controlling it not to remove, part with or otherwise deal with it without prior permission.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-4-a-ii",
+              "type": "sub_clause",
+              "number": "ii",
+              "text_before_children": "Such action by the authorised officer shall be deemed to be seizure of the valuable article or thing under sub-section (1)(vii).",
+              "children": [],
+              "text_after_children": ""
             }
           ],
-          "text_after_clauses": ""
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "5",
-          "id": "247-5",
-          "indent": 0,
-          "line_start": 44,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The authorised officer may requisition the services of,— &nbsp;&nbsp;&nbsp;(a) any police officer or any officer of the Central Government, or of both; or &nbsp;&nbsp;&nbsp;(b) any person or entity as may be approved by the Principal Chief Commissioner or the Chief Commissioner or the Principal Director General or the Director General, in accordance with such procedure as may be prescribed, in this regard, to assist him for all or any of the purposes specified in sub-sections (1) and (3), and it shall be the duty of every such officer or person or entity to comply with such requisition.",
-          "children": []
+          "id": "247-4-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "",
+          "sub_clause": [
+            {
+              "id": "247-4-b-i",
+              "type": "sub_clause",
+              "number": "i",
+              "text_before_children": "Where seizure of books, documents, assets, bank lockers, bank accounts or computer systems is not practicable for reasons other than those in clause (a), the authorised officer may restrict the owner or person controlling them from removing or dealing with them without permission and may take steps to ensure compliance.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-4-b-ii",
+              "type": "sub_clause",
+              "number": "ii",
+              "text_before_children": "Such order shall not remain in force for more than sixty days from the date of the order.",
+              "children": [],
+              "text_after_children": ""
+            },
+            {
+              "id": "247-4-b-iii",
+              "type": "sub_clause",
+              "number": "iii",
+              "text_before_children": "Serving such an order shall not be deemed to constitute seizure under sub-section (1)(vii).",
+              "children": [],
+              "text_after_children": ""
+            }
+          ],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-5",
+      "type": "subsection",
+      "number": "5",
+      "text_before_children": "The authorised officer may requisition specified services to assist with the purposes specified in sub-sections (1) and (3).",
+      "clause": [
+        {
+          "id": "247-5-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "Any police officer or officer of the Central Government, or both.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "6",
-          "id": "247-6",
-          "indent": 0,
-          "line_start": 52,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The authorised officer may, during the course of any search or seizure, examine on oath any person who is found to be in possession or control of any books of account or other documents, or asset, or any information in electronic form or on a computer system or having access to such computer system or any other person who is present in the premises or is being searched, and–– &nbsp;&nbsp;&nbsp;(a) any statement made by such person, during such examination may thereafter be used in evidence in any proceeding under the Income-tax Act, 1961 (43 of 1961) or this Act; and &nbsp;&nbsp;&nbsp;(b) the examination of any such person may not be merely in respect of any books of account or other documents, or any information in electronic form or on a computer system, or assets found as a result of the search, but also in respect of all matters relevant for the purposes of any investigation connected with any proceeding under the Income-tax Act, 1961 (43 of 1961) or this Act.",
-          "children": []
+          "id": "247-5-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "Any approved person or entity in accordance with the prescribed procedure.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": "Every such officer, person or entity shall comply with the requisition."
+    },
+    {
+      "id": "247-6",
+      "type": "subsection",
+      "number": "6",
+      "text_before_children": "During a search or seizure, the authorised officer may examine on oath persons possessing or controlling specified books, documents, assets or electronic information, persons having access to computer systems, or other persons present at the premises.",
+      "clause": [
+        {
+          "id": "247-6-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "Statements made during such examination may subsequently be used as evidence in proceedings under the Income-tax Act, 1961 or this Act.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "7",
-          "id": "247-7",
-          "indent": 0,
-          "line_start": 58,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "Where any person is found to be in possession or control of any books of account or other documents, or asset, or any information in electronic form or on a computer system, or having access to such computer system in the course of a search, it may be presumed— &nbsp;&nbsp;&nbsp;(a) that such books of account or other documents, or such information or asset or computer system belong or belongs to such person; &nbsp;&nbsp;&nbsp;(b) that the contents of such books of account or other documents, or such information or computer system are true; &nbsp;&nbsp;&nbsp;(c) that the signature and every other part of such books of account or other documents which purport to be in the handwriting of any particular person or which may reasonably be assumed to have been signed by, or to be in the handwriting of, any particular person, are in the handwriting of that person; &nbsp;&nbsp;&nbsp;(d) in the case of such document stamped, executed or attested, that it was duly stamped and executed or attested by the person by whom it purports to have been so executed or attested; and &nbsp;&nbsp;&nbsp;(e) that exchange of such information in electronic form, or on such computer system purported to be exchanged between any parties, is exchanged between the parties thereto.",
-          "children": []
+          "id": "247-6-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "The examination may extend beyond material found during the search to all matters relevant to an investigation connected with proceedings under the specified Acts.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-7",
+      "type": "subsection",
+      "number": "7",
+      "text_before_children": "Where a person is found during a search to possess or control books, documents, assets, electronic information or a computer system, or to have access to such computer system, specified presumptions may be made.",
+      "clause": [
+        {
+          "id": "247-7-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "The books, documents, information, asset or computer system may be presumed to belong to that person.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "8",
-          "id": "247-8",
-          "indent": 0,
-          "line_start": 70,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The authorised officer may, by order in writing, provisionally attach any property belonging to the assessee, during the course of the search or seizure, or within a period of sixty days from the date of execution of the last of the authorisations for the search and such provisional attachment shall–– &nbsp;&nbsp;&nbsp;(a) be made, if the authorised officer is satisfied, after recording the reasons in writing, that it is necessary to do so in the interest of the revenue, with the prior approval of Principal Director General or Director General or the Principal Director or Director; and &nbsp;&nbsp;&nbsp;(b) be valid for six months from the end of the month in which the order of provisional attachment is made, and the rules in this behalf made under section 413 shall, mutatis mutandis, apply to such provisional attachment.",
-          "children": []
+          "id": "247-7-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "The contents of the books, documents, electronic information or computer system may be presumed to be true.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "9",
-          "id": "247-9",
-          "indent": 0,
-          "line_start": 76,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The authorised officer may, during the course of the search or seizure, or within sixty days from the date on which the last of the authorisations for search was executed, make a reference to a Valuation Officer, or any person registered as a valuer under section 514, or any person or entity registered by or under any law in force, as may be approved by the Principal Chief Commissioner or the Chief Commissioner or the Principal Director General or the Director General, in accordance with the procedure as may be prescribed in this regard, requiring him to— &nbsp;&nbsp;&nbsp;(a) estimate the fair market value of the property in the manner, as may be prescribed; and &nbsp;&nbsp;&nbsp;(b) submit a report of the estimate to the authorised officer or the Assessing Officer, within sixty days from the date of receipt of such reference.",
-          "children": []
+          "id": "247-7-c",
+          "type": "clause",
+          "number": "c",
+          "text_before_children": "Signatures and handwriting appearing in books or documents may be presumed to be those of the persons they purport or reasonably appear to belong to.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "10",
-          "id": "247-10",
-          "indent": 0,
-          "line_start": 82,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The provisions of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) relating to searches and seizure shall apply, so far as may be, to search and seizure under this section.",
-          "children": []
+          "id": "247-7-d",
+          "type": "clause",
+          "number": "d",
+          "text_before_children": "A stamped, executed or attested document may be presumed to have been duly stamped, executed or attested by the person by whom it purports to have been done.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "11",
-          "id": "247-11",
-          "indent": 0,
-          "line_start": 84,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "The Board may make rules in relation to any search or seizure under this section including providing for the procedure to be followed by the authorised officer— &nbsp;&nbsp;&nbsp;(a) for obtaining ingress into any building, place, vessel, vehicle or aircraft to be searched where free ingress thereto is not available; and &nbsp;&nbsp;&nbsp;(b) for ensuring safe custody of any books of account or other documents, or asset, or any information in electronic form or on a computer system, or computer system seized.",
-          "children": []
+          "id": "247-7-e",
+          "type": "clause",
+          "number": "e",
+          "text_before_children": "Electronic information purportedly exchanged between parties may be presumed to have been exchanged between those parties.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-8",
+      "type": "subsection",
+      "number": "8",
+      "text_before_children": "The authorised officer may provisionally attach property belonging to the assessee during the search or seizure or within sixty days from execution of the last search authorisation.",
+      "clause": [
+        {
+          "id": "247-8-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "The attachment may be made where the authorised officer records reasons that it is necessary in the interest of revenue and obtains the prescribed prior approval.",
+          "children": [],
+          "text_after_children": ""
         },
         {
-          "type": "subsection",
-          "number": "12",
-          "id": "247-12",
-          "indent": 0,
-          "line_start": 90,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "For the purposes of this section, the word \"proceeding\" means any proceeding in respect of any year, whether under the Income-tax Act, 1961 (43 of 1961), or this Act, which may be pending on the date on which a search is authorised under this section or which may have been completed on or before such date and includes also all proceedings under this Act which may be commenced after such date in respect of any year. --- Source: Section 247, Income Tax Act, 2025 (Chapter XIV — Search, Seizure and Requisition), Government of India.",
+          "id": "247-8-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "The provisional attachment shall remain valid for six months from the end of the month in which the order is made, with the applicable rules applying mutatis mutandis.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-9",
+      "type": "subsection",
+      "number": "9",
+      "text_before_children": "During a search or seizure, or within sixty days from execution of the last search authorisation, the authorised officer may refer property for valuation to a Valuation Officer or another specified approved valuer, requiring that person to—",
+      "clause": [
+        {
+          "id": "247-9-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "Estimate the fair market value of the property in the prescribed manner.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-9-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "Submit the valuation report to the authorised officer or Assessing Officer within sixty days from receipt of the reference.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ],
+      "text_after_children": ""
+    },
+    {
+      "id": "247-10",
+      "type": "subsection",
+      "number": "10",
+      "text": "The provisions of the Bharatiya Nagarik Suraksha Sanhita, 2023 relating to searches and seizure shall, so far as applicable, apply to searches and seizures under this section."
+    },
+    {
+      "id": "247-11",
+      "type": "subsection",
+      "number": "11",
+      "text_before_clauses": "The Board may make rules relating to search or seizure under this section, including procedures to be followed by the authorised officer—",
+      "clause": [
+        {
+          "id": "247-11-a",
+          "type": "clause",
+          "number": "a",
+          "text_before_children": "For obtaining ingress into a building, place, vessel, vehicle or aircraft to be searched where free ingress is unavailable.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-11-b",
+          "type": "clause",
+          "number": "b",
+          "text_before_children": "For ensuring safe custody of seized books, documents, assets, electronic information or computer systems.",
           "children": []
         }
       ],
-      "text_after_subsections": ""
+      "text_after_clauses": ""
+    },
+    {
+      "id": "247-12",
+      "type": "subsection",
+      "number": "12",
+      "text_before_children": "For this section, proceeding means a proceeding relating to any year under the Income-tax Act, 1961 or this Act that is pending when the search is authorised, was completed on or before that date, or may subsequently be commenced under this Act for any year.",
+      "children": [],
+      "text_after_children": ""
     }
   ],
-  "footnotes": [],
-  "orphans": [
-    {
-      "page": 1,
-      "line": 3,
-      "text": "Search and Seizure"
-    }
-  ]
+  "text_after_children": ""
 }

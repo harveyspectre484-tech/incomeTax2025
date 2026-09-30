@@ -913,7 +913,38 @@
                     {
                       "marker": "b",
                       "id": "393-4-t7-cond-b",
-                      "text": "interest income credited or paid— (i) by a co-operative society other than a co-operative bank, to a member thereof; or (ii) by a co-operative society to any other co-operative society; or (iii) in respect of deposits with a primary agricultural credit society or a primary credit society or a co-operative land mortgage bank or a co-operative land development bank; or (iv) in respect of deposits (other than time deposits made on or after the 1st July, 1995) with a co-operative society, other than a co-operative society or bank referred to in sub-clause (iii), engaged in the business of banking, except when— (A) the total sales, gross receipts or turnover of the co-operative society exceed fifty crore rupees during the tax year immediately preceding the tax year in which such interest is credited or paid and; (B) the amount or aggregate of amounts of interest credited or paid exceeds the threshold limit mentioned in section 393(1) (Table: Sl. No. 5(ii)D); and"
+                      "text": "interest income credited or paid—",
+                      "items": [
+                        {
+                          "marker": "(i)",
+                          "text": "by a co-operative society other than a co-operative bank, to a member thereof; or"
+                        },
+                        {
+                          "marker": "(ii)",
+                          "text": "by a co-operative society to any other co-operative society; or"
+                        },
+                        {
+                          "marker": "(iii)",
+                          "text": "in respect of deposits with a primary agricultural credit society or a primary credit society or a co-operative land mortgage bank or a co-operative land development bank; or"
+                        },
+                        {
+                          "marker": "(iv)",
+                          "text": "in respect of deposits (other than time deposits made on or after the 1st July, 1995) with a co-operative society, other than a co-operative society or bank referred to in sub-clause (iii), engaged in the business of banking,"
+                        }
+                      ],
+                      "exception": {
+                        "intro": "except when--",
+                        "items": [
+                          {
+                            "marker": "A",
+                            "text": "where the total sales, gross receipts or turnover of the co-operative society exceed fifty crore rupees during the tax year immediately preceding the tax year in which such interest is credited or paid; and"
+                          },
+                          {
+                            "marker": "B",
+                            "text": "the amount or aggregate of amounts of interest credited or paid exceeds the threshold limit mentioned in section 393(1) (Table: Sl. No. 5(ii)D"
+                          }
+                        ]
+                      }
                     },
                     {
                       "marker": "c",
