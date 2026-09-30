@@ -34,18 +34,12 @@
             "rows": [
               {
                 "sl_no": "1",
-                "nature_of_sum": {
-                  "text": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law."
-                },
-                "amount_of_deduction": {
-                  "text": "Entire amount."
-                }
+                "nature_of_sum": "Sum paid by the assessee as a tax on employment as per article 276(2) of the Constitution, leviable by or under any law.",
+                "amount_of_deduction": "Entire amount."
               },
               {
                 "sl_no": "2",
-                "nature_of_sum": {
-                  "text": "Standard deduction."
-                },
+                "nature_of_sum": "Standard deduction.",
                 "amount_of_deduction": {
                   "items": [
                     {
@@ -63,53 +57,39 @@
               },
               {
                 "sl_no": "3",
-                "nature_of_sum": {
-                  "text": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g)."
-                },
-                "amount_of_deduction": {
-                  "text": "Entire amount."
-                }
+                "nature_of_sum": "Death-cum-retirement gratuity received as referred to in sub-section (2)(g).",
+                "amount_of_deduction": "Entire amount."
               },
               {
                 "sl_no": "4",
-                "nature_of_sum": {
-                  "text": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services."
-                },
-                "amount_of_deduction": {
-                  "text": "Entire amount."
-                }
+                "nature_of_sum": "Payment of retiring gratuity received under the Pension Code or Regulations applicable to the members of the defence services.",
+                "amount_of_deduction": "Entire amount."
               },
               {
                 "sl_no": "5",
-                "nature_of_sum": {
-                  "text": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972)."
-                },
-                "amount_of_deduction": {
-                  "text": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act."
-                }
+                "nature_of_sum": "Gratuity received under the Payment of Gratuity Act, 1972 (39 of 1972).",
+                "amount_of_deduction": "Amount received, as restricted to the amount calculated as per the provisions of section 4(2) and (3) of the said Act."
               },
               {
                 "sl_no": "6",
-                "nature_of_sum": {
-                  "intro": "Any other gratuity received by an employee—",
-                  "items": [
-                    {
-                      "marker": "i",
-                      "id": "19-1-t6-nat-i",
-                      "text": "on his retirement; or"
-                    },
-                    {
-                      "marker": "ii",
-                      "id": "19-1-t6-nat-ii",
-                      "text": "on his becoming incapacitated before such retirement; or"
-                    },
-                    {
-                      "marker": "iii",
-                      "id": "19-1-t6-nat-iii",
-                      "text": "on termination of his employment."
-                    }
-                  ]
-                },
+                "nature_of_sum": "Any other gratuity received by an employee—",
+                "items": [
+                  {
+                    "marker": "i",
+                    "id": "19-1-t6-nat-i",
+                    "text": "on his retirement; or"
+                  },
+                  {
+                    "marker": "ii",
+                    "id": "19-1-t6-nat-ii",
+                    "text": "on his becoming incapacitated before such retirement; or"
+                  },
+                  {
+                    "marker": "iii",
+                    "id": "19-1-t6-nat-iii",
+                    "text": "on termination of his employment."
+                  }
+                ],
                 "amount_of_deduction": {
                   "intro": "Amount being minimum of—",
                   "items": [
@@ -127,7 +107,40 @@
                       "marker": "c",
                       "id": "19-1-t6-amt-c",
                       "text": "half month's salary for each completed year of service, calculated as under:—",
-                      "formula": "A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
+                      "formula": "Amount = 0.5(A*B)",
+                      "where_block": {
+                        "type": "where_block",
+                        "id": "19-6-where",
+                        "x": 40.26,
+                        "y_start": 173.41,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text_before_items": "where,—",
+                        "items": [
+                          {
+                            "type": "item",
+                            "number": "A",
+                            "id": "19-6-where-A",
+                            "x": 40.26,
+                            "y_start": 173.41,
+                            "page_start": 1,
+                            "page_end": 1,
+                            "text": "A =  average  salary  for  ten  months  immediately  preceding  the month when any such event occurs;",
+                            "children": []
+                          },
+                          {
+                            "type": "item",
+                            "number": "B",
+                            "id": "19-6-where-B",
+                            "x": 40.26,
+                            "y_start": 173.41,
+                            "page_start": 1,
+                            "page_end": 1,
+                            "text": "B = number of such completed years.",
+                            "children": []
+                          }
+                        ]
+                      }
                     }
                   ]
                 }
@@ -326,7 +339,39 @@
                       "marker": "b",
                       "id": "19-1-t14-amt-b",
                       "text": "amount \"A\",",
-                      "formula": "A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;"
+                      "where_block": {
+                        "type": "where_block",
+                        "id": "19-14-where",
+                        "x": 40.26,
+                        "y_start": 173.41,
+                        "page_start": 1,
+                        "page_end": 1,
+                        "text_before_items": "where, —",
+                        "items": [
+                          {
+                            "type": "item",
+                            "number": "A",
+                            "id": "19-1-14-b-where-A",
+                            "x": 40.26,
+                            "y_start": 173.41,
+                            "page_start": 1,
+                            "page_end": 1,
+                            "text": "A = 10 x B",
+                            "children": []
+                          },
+                          {
+                            "type": "item",
+                            "number": "B",
+                            "id": "19-1-14-b-where-B",
+                            "x": 40.26,
+                            "y_start": 173.41,
+                            "page_start": 1,
+                            "page_end": 1,
+                            "text": "B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise",
+                            "children": []
+                          }
+                        ]
+                      }
                     },
                     {
                       "marker": "c",
@@ -354,8 +399,40 @@
               "type": "clause",
               "number": "a",
               "id": "19-2-a",
-              "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed—",
-              "formula": "A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;"
+              "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B",
+              "formula": "A - B, ",
+              "where_block": {
+                "type": "where_block",
+                "id": "19-2-a-where",
+                "x": 40.26,
+                "y_start": 173.41,
+                "page_start": 1,
+                "page_end": 1,
+                "text_before_items": "where, —",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "A",
+                    "id": "19-2-a-where-A",
+                    "x": 40.26,
+                    "y_start": 173.41,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "A = the limit specified by the Central Government, by notification; and",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "B",
+                    "id": "19-2-a-where-B",
+                    "x": 40.26,
+                    "y_start": 173.41,
+                    "page_start": 1,
+                    "page_end": 1,
+                    "text": "B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;"
+                  }
+                ]
+              }
             },
             {
               "type": "clause",
@@ -440,7 +517,28 @@
               "number": "f",
               "id": "19-2-f",
               "text": "in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed—",
-              "formula": "A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;"
+              "formula": "A - B, ",
+              "where_block": {
+                "type": "where_block",
+                "id": "19-2-f-where",
+                "text_before_items": "where,— ",
+                "items": [
+                  {
+                    "type": "item",
+                    "number": "A",
+                    "id": "19-2-f-where-A",
+                    "text": "A = the limit specified by the Central Government, by notification; and",
+                    "children": []
+                  },
+                  {
+                    "type": "item",
+                    "number": "B",
+                    "id": "19-2-f-where-B",
+                    "text": "B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
+                    "children": []
+                  }
+                ]
+              }
             },
             {
               "type": "clause",

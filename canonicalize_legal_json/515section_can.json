@@ -1089,6 +1089,28 @@
       ]
     },
     {
+      "id": "ext-india-act-1949-38-section-6-1",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1949-38",
+      "jurisdiction": "India",
+      "act_title": "Chartered Accountants Act",
+      "title_year": "1949",
+      "act_number": "38",
+      "act_year": "1949",
+      "official_citation": "38 of 1949",
+      "identity_basis": "official_citation",
+      "locator_text": "section 6(1)",
+      "section": "6",
+      "nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 6(1) of that Act"
+      ]
+    },
+    {
       "id": "ext-india-act-2013-18",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -1124,6 +1146,52 @@
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
         "section 141(3) of the Companies Act, 2013 (18 of 2013)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-271-1-ii",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "locator_text": "section 271(1)(ii)",
+      "section": "271",
+      "nested_locators": [
+        "1",
+        "ii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 271(1)(ii) or 272A(1)(d) of the Income-tax Act, 1961 (43 of 1961)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-272a-1-d",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "locator_text": "section 272A(1)(d)",
+      "section": "272A",
+      "nested_locators": [
+        "1",
+        "d"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 271(1)(ii) or 272A(1)(d) of the Income-tax Act, 1961 (43 of 1961)"
       ]
     },
     {
@@ -1774,9 +1842,21 @@
     },
     {
       "from_id": "515-3-b",
-      "to_id": "6-1",
-      "edge_type": "references",
-      "reference_text": "section 6(1)"
+      "to_id": "ext-india-act-1949-38-section-6-1",
+      "edge_type": "references_external",
+      "reference_text": "section 6(1) of that Act",
+      "target_act_id": "ext-india-act-1949-38",
+      "target_act_title": "Chartered Accountants Act",
+      "target_section": "6",
+      "target_nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "38",
+      "target_act_year": "1949",
+      "target_act_title_year": "1949",
+      "target_official_citation": "38 of 1949",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "515-3-b",
@@ -1822,11 +1902,16 @@
     },
     {
       "from_id": "515-4-b",
-      "to_id": "ext-india-act-1961-43",
-      "edge_type": "references_external_act",
-      "reference_text": "Income-tax Act, 1961 (43 of 1961)",
+      "to_id": "ext-india-act-1961-43-section-271-1-ii",
+      "edge_type": "references_external",
+      "reference_text": "section 271(1)(ii) or 272A(1)(d) of the Income-tax Act, 1961 (43 of 1961)",
       "target_act_id": "ext-india-act-1961-43",
       "target_act_title": "Income-tax Act",
+      "target_section": "271",
+      "target_nested_locators": [
+        "1",
+        "ii"
+      ],
       "resolution_status": "external_act_not_ingested",
       "target_act_number": "43",
       "target_act_year": "1961",
@@ -1836,9 +1921,22 @@
     },
     {
       "from_id": "515-4-b",
-      "to_id": "271-1-ii",
-      "edge_type": "references",
-      "reference_text": "section 271(1)(ii)"
+      "to_id": "ext-india-act-1961-43-section-272a-1-d",
+      "edge_type": "references_external",
+      "reference_text": "section 271(1)(ii) or 272A(1)(d) of the Income-tax Act, 1961 (43 of 1961)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "272A",
+      "target_nested_locators": [
+        "1",
+        "d"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "515-4-b",

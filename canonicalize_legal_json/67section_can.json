@@ -408,8 +408,8 @@
       "section_id": "67",
       "section_number": "67",
       "title": "Capital gains.",
-      "text": "In sub-section (7), \"beneficial owner\", \"depository\"and \"security\" shall have the same meanings as respectively assigned to them in section 2(1)(a), (e) and",
-      "retrieval_text": "Section 67 Capital gains. Section 67(8): In sub-section (7), \"beneficial owner\", \"depository\"and \"security\" shall have the same meanings as respectively assigned to them in section 2(1)(a), (e) and",
+      "text": "In sub-section (7), \"beneficial owner\", \"depository\"and \"security\" shall have the same meanings as respectively assigned to them in section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996).",
+      "retrieval_text": "Section 67 Capital gains. Section 67(8): In sub-section (7), \"beneficial owner\", \"depository\"and \"security\" shall have the same meanings as respectively assigned to them in section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -418,25 +418,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 486.36
-    },
-    {
-      "id": "67-8-l",
-      "citation": "Section 67(8)(l)",
-      "unit_type": "clause",
-      "parent_id": "67-8",
-      "section_id": "67",
-      "section_number": "67",
-      "title": "Capital gains.",
-      "text": "of the Depositories Act, 1996 (22 of 1996).",
-      "retrieval_text": "Section 67 Capital gains. Section 67(8): In sub-section (7), \"beneficial owner\", \"depository\"and \"security\" shall have the same meanings as respectively assigned to them in section 2(1)(a), (e) and Section 67(8)(l): of the Depositories Act, 1996 (22 of 1996).",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 499.09
     },
     {
       "id": "67-9",
@@ -1163,6 +1144,75 @@
       ]
     },
     {
+      "id": "ext-india-act-1996-22-section-2-1-a",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1996-22",
+      "jurisdiction": "India",
+      "act_title": "Depositories Act",
+      "title_year": "1996",
+      "act_number": "22",
+      "act_year": "1996",
+      "official_citation": "22 of 1996",
+      "identity_basis": "official_citation",
+      "locator_text": "section 2(1)(a)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "a"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1996-22-section-2-1-e",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1996-22",
+      "jurisdiction": "India",
+      "act_title": "Depositories Act",
+      "title_year": "1996",
+      "act_number": "22",
+      "act_year": "1996",
+      "official_citation": "22 of 1996",
+      "identity_basis": "official_citation",
+      "locator_text": "section 2(1)(e)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "e"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1996-22-section-2-1-l",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1996-22",
+      "jurisdiction": "India",
+      "act_title": "Depositories Act",
+      "title_year": "1996",
+      "act_number": "22",
+      "act_year": "1996",
+      "official_citation": "22 of 1996",
+      "identity_basis": "official_citation",
+      "locator_text": "section 2(1)(l)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "l"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)"
+      ]
+    },
+    {
       "id": "ext-india-act-1961-43",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -1410,16 +1460,6 @@
     {
       "from_id": "67",
       "to_id": "67-8",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "67-8-l",
-      "to_id": "67-8",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "67-8",
-      "to_id": "67-8-l",
       "edge_type": "contains"
     },
     {
@@ -1866,29 +1906,66 @@
     },
     {
       "from_id": "67-8",
-      "to_id": "2-1-a",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(a)"
-    },
-    {
-      "from_id": "67-8",
-      "to_id": "67-7",
-      "edge_type": "references",
-      "reference_text": "sub-section (7)"
-    },
-    {
-      "from_id": "67-8-l",
-      "to_id": "ext-india-act-1996-22",
-      "edge_type": "references_external_act",
-      "reference_text": "Depositories Act, 1996 (22 of 1996)",
+      "to_id": "ext-india-act-1996-22-section-2-1-a",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)",
       "target_act_id": "ext-india-act-1996-22",
       "target_act_title": "Depositories Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "a"
+      ],
       "resolution_status": "external_act_not_ingested",
       "target_act_number": "22",
       "target_act_year": "1996",
       "target_act_title_year": "1996",
       "target_official_citation": "22 of 1996",
       "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "67-8",
+      "to_id": "ext-india-act-1996-22-section-2-1-e",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)",
+      "target_act_id": "ext-india-act-1996-22",
+      "target_act_title": "Depositories Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "e"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "22",
+      "target_act_year": "1996",
+      "target_act_title_year": "1996",
+      "target_official_citation": "22 of 1996",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "67-8",
+      "to_id": "ext-india-act-1996-22-section-2-1-l",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(a), (e) and (l) of the Depositories Act, 1996 (22 of 1996)",
+      "target_act_id": "ext-india-act-1996-22",
+      "target_act_title": "Depositories Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "l"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "22",
+      "target_act_year": "1996",
+      "target_act_title_year": "1996",
+      "target_official_citation": "22 of 1996",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "67-8",
+      "to_id": "67-7",
+      "edge_type": "references",
+      "reference_text": "sub-section (7)"
     },
     {
       "from_id": "67-9-b",

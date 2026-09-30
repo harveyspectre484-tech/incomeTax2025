@@ -47,8 +47,8 @@
       "section_id": "227",
       "section_number": "227",
       "title": "Computation of tonnage income.",
-      "text": "For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N where,— TI = the tonnage income of each qualifying ship; DTI = the daily tonnage income of each qualifying ship; N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
-      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N where,— TI = the tonnage income of each qualifying ship; DTI = the daily tonnage income of each qualifying ship; N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+      "text": "For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N",
+      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -57,6 +57,85 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 380.0
+    },
+    {
+      "id": "227-2-where",
+      "citation": "Section 227(2), Where block",
+      "unit_type": "where_block",
+      "parent_id": "227-2",
+      "section_id": "227",
+      "section_number": "227",
+      "title": "Computation of tonnage income.",
+      "text": "",
+      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N Section 227(2), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "227-2-where-TI",
+      "citation": "Section 227(2), Where block, Item (TI)",
+      "unit_type": "item",
+      "parent_id": "227-2-where",
+      "section_id": "227",
+      "section_number": "227",
+      "title": "Computation of tonnage income.",
+      "text": "TI = the tonnage income of each qualifying ship;",
+      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N Section 227(2), Where block: Section 227(2), Where block, Item (TI): TI = the tonnage income of each qualifying ship;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83,
+      "source_id": "76-3-where-TI"
+    },
+    {
+      "id": "227-2-where-DTI",
+      "citation": "Section 227(2), Where block, Item (DTI)",
+      "unit_type": "item",
+      "parent_id": "227-2-where",
+      "section_id": "227",
+      "section_number": "227",
+      "title": "Computation of tonnage income.",
+      "text": "DTI = the daily tonnage income of each qualifying ship;",
+      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N Section 227(2), Where block: Section 227(2), Where block, Item (DTI): DTI = the daily tonnage income of each qualifying ship;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83,
+      "source_id": "76-3-where-DTI"
+    },
+    {
+      "id": "227-2-where-N",
+      "citation": "Section 227(2), Where block, Item (N)",
+      "unit_type": "item",
+      "parent_id": "227-2-where",
+      "section_id": "227",
+      "section_number": "227",
+      "title": "Computation of tonnage income.",
+      "text": "N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+      "retrieval_text": "Section 227 Computation of tonnage income. Section 227(2): For the purposes of sub-section (1), the tonnage income of each qualifying ship shall be computed as per the following formula:— TI = DTI × N Section 227(2), Where block: Section 227(2), Where block, Item (N): N = the number of days in the tax year or in part of the tax year in case the ship is operated by the company as a qualifying ship for only part of the tax year.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83,
+      "source_id": "76-3-where-N"
     },
     {
       "id": "227-3",
@@ -539,6 +618,46 @@
       ]
     },
     {
+      "id": "ext-india-act-1958-44-section-406",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1958-44",
+      "jurisdiction": "India",
+      "act_title": "Merchant Shipping Act",
+      "title_year": "1958",
+      "act_number": "44",
+      "act_year": "1958",
+      "official_citation": "44 of 1958",
+      "identity_basis": "official_citation",
+      "locator_text": "section 406",
+      "section": "406",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1958-44-section-407",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1958-44",
+      "jurisdiction": "India",
+      "act_title": "Merchant Shipping Act",
+      "title_year": "1958",
+      "act_number": "44",
+      "act_year": "1958",
+      "official_citation": "44 of 1958",
+      "identity_basis": "official_citation",
+      "locator_text": "section 407",
+      "section": "407",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958)"
+      ]
+    },
+    {
       "id": "ext-india-act-2021-24",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -574,6 +693,46 @@
     {
       "from_id": "227",
       "to_id": "227-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "227-2-where",
+      "to_id": "227-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "227-2",
+      "to_id": "227-2-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "227-2-where-TI",
+      "to_id": "227-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "227-2-where",
+      "to_id": "227-2-where-TI",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "227-2-where-DTI",
+      "to_id": "227-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "227-2-where",
+      "to_id": "227-2-where-DTI",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "227-2-where-N",
+      "to_id": "227-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "227-2-where",
+      "to_id": "227-2-where-N",
       "edge_type": "contains"
     },
     {
@@ -832,11 +991,13 @@
     },
     {
       "from_id": "227-9-b-ii",
-      "to_id": "ext-india-act-1958-44",
-      "edge_type": "references_external_act",
-      "reference_text": "Merchant Shipping Act, 1958 (44 of 1958)",
+      "to_id": "ext-india-act-1958-44-section-406",
+      "edge_type": "references_external",
+      "reference_text": "section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958)",
       "target_act_id": "ext-india-act-1958-44",
       "target_act_title": "Merchant Shipping Act",
+      "target_section": "406",
+      "target_nested_locators": [],
       "resolution_status": "external_act_not_ingested",
       "target_act_number": "44",
       "target_act_year": "1958",
@@ -846,9 +1007,19 @@
     },
     {
       "from_id": "227-9-b-ii",
-      "to_id": "406",
-      "edge_type": "references",
-      "reference_text": "section 406"
+      "to_id": "ext-india-act-1958-44-section-407",
+      "edge_type": "references_external",
+      "reference_text": "section 406 or 407 of the Merchant Shipping Act, 1958 (44 of 1958)",
+      "target_act_id": "ext-india-act-1958-44",
+      "target_act_title": "Merchant Shipping Act",
+      "target_section": "407",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1958",
+      "target_act_title_year": "1958",
+      "target_official_citation": "44 of 1958",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "227-9-b-iii",

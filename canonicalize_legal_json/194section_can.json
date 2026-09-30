@@ -1328,12 +1328,6 @@
       "reference_text": "section 263(1)"
     },
     {
-      "from_id": "194-1-b-table-row-2",
-      "to_id": "194-1-b",
-      "edge_type": "references",
-      "reference_text": "clause (b)"
-    },
-    {
       "from_id": "194-1-b-table-row-2-conditions-b-2",
       "to_id": "263-1",
       "edge_type": "references",

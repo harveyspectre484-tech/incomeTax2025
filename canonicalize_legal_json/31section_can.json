@@ -867,12 +867,6 @@
       "reference_text": "section 26"
     },
     {
-      "from_id": "31-1-table-row-1",
-      "to_id": "31-1-a",
-      "edge_type": "references",
-      "reference_text": "clause (a)"
-    },
-    {
       "from_id": "31-2",
       "to_id": "26",
       "edge_type": "references",

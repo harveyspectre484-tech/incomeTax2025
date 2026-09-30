@@ -235,8 +235,8 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "Nature Of Sum: Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapacitated before such retirement; or (iii) on termination of his employment.; Amount Of Deduction: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Nature Of Sum: Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapacitated before such retirement; or (iii) on termination of his employment.; Amount Of Deduction: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.",
+      "text": "Nature Of Sum: Any other gratuity received by an employee—; Items: on his retirement; or on his becoming incapacitated before such retirement; or on termination of his employment.; Amount Of Deduction: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: Amount = 0.5(A*B)",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Nature Of Sum: Any other gratuity received by an employee—; Items: on his retirement; or on his becoming incapacitated before such retirement; or on termination of his employment.; Amount Of Deduction: Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: Amount = 0.5(A*B)",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -247,20 +247,21 @@
       "y_start": null,
       "row_number": "6",
       "columns": {
-        "nature_of_sum": "Any other gratuity received by an employee— (i) on his retirement; or (ii) on his becoming incapacitated before such retirement; or (iii) on termination of his employment.",
-        "amount_of_deduction": "Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years."
+        "nature_of_sum": "Any other gratuity received by an employee—",
+        "items": "on his retirement; or on his becoming incapacitated before such retirement; or on termination of his employment.",
+        "amount_of_deduction": "Amount being minimum of— (a) actual gratuity received; (b) amount specified by the Central Government, by notification, having regard to the limit applicable in this behalf to the employees of the Central Government; and (c) half month's salary for each completed year of service, calculated as under:— Formula: Amount = 0.5(A*B)"
       }
     },
     {
-      "id": "19-1-table-row-6-nature_of_sum-i-1",
-      "citation": "Section 19(1) Table, Sl. No. 6, Column Nature Of Sum, item (i)",
+      "id": "19-1-table-row-6-items-i-1",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Items, item (i)",
       "unit_type": "table_cell_item",
       "parent_id": "19-1-table-row-6",
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
       "text": "on his retirement; or",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Nature Of Sum, item (i): on his retirement; or",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Items, item (i): on his retirement; or",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -269,20 +270,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "nature_of_sum",
-      "column_label": "Nature Of Sum",
+      "column": "items",
+      "column_label": "Items",
       "source_id": "19-1-t6-nat-i"
     },
     {
-      "id": "19-1-table-row-6-nature_of_sum-ii-2",
-      "citation": "Section 19(1) Table, Sl. No. 6, Column Nature Of Sum, item (ii)",
+      "id": "19-1-table-row-6-items-ii-2",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Items, item (ii)",
       "unit_type": "table_cell_item",
       "parent_id": "19-1-table-row-6",
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
       "text": "on his becoming incapacitated before such retirement; or",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Nature Of Sum, item (ii): on his becoming incapacitated before such retirement; or",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Items, item (ii): on his becoming incapacitated before such retirement; or",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -291,20 +292,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "nature_of_sum",
-      "column_label": "Nature Of Sum",
+      "column": "items",
+      "column_label": "Items",
       "source_id": "19-1-t6-nat-ii"
     },
     {
-      "id": "19-1-table-row-6-nature_of_sum-iii-3",
-      "citation": "Section 19(1) Table, Sl. No. 6, Column Nature Of Sum, item (iii)",
+      "id": "19-1-table-row-6-items-iii-3",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Items, item (iii)",
       "unit_type": "table_cell_item",
       "parent_id": "19-1-table-row-6",
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
       "text": "on termination of his employment.",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Nature Of Sum, item (iii): on termination of his employment.",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Items, item (iii): on termination of his employment.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -313,8 +314,8 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "nature_of_sum",
-      "column_label": "Nature Of Sum",
+      "column": "items",
+      "column_label": "Items",
       "source_id": "19-1-t6-nat-iii"
     },
     {
@@ -369,8 +370,8 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "half month's salary for each completed year of service, calculated as under:— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Amount Of Deduction, item (c): half month's salary for each completed year of service, calculated as under:— A = average salary for ten months immediately preceding the month when any such event occurs; B = number of such completed years.",
+      "text": "half month's salary for each completed year of service, calculated as under:— Amount = 0.5(A*B)",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Amount Of Deduction, item (c): half month's salary for each completed year of service, calculated as under:— Amount = 0.5(A*B)",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -382,6 +383,63 @@
       "column": "amount_of_deduction",
       "column_label": "Amount Of Deduction",
       "source_id": "19-1-t6-amt-c"
+    },
+    {
+      "id": "19-6-where",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block",
+      "unit_type": "where_block",
+      "parent_id": "19-1-table-row-6-amount_of_deduction-c-3",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "where,—",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Amount Of Deduction, item (c): half month's salary for each completed year of service, calculated as under:— Amount = 0.5(A*B) Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block: where,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-6-where-A",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "19-6-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "A = average salary for ten months immediately preceding the month when any such event occurs;",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Amount Of Deduction, item (c): half month's salary for each completed year of service, calculated as under:— Amount = 0.5(A*B) Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block: where,— Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block, Item (A): A = average salary for ten months immediately preceding the month when any such event occurs;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-6-where-B",
+      "citation": "Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "19-6-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "B = number of such completed years.",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 6 Column Amount Of Deduction, item (c): half month's salary for each completed year of service, calculated as under:— Amount = 0.5(A*B) Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block: where,— Section 19(1) Table, Sl. No. 6, Column Amount Of Deduction, item (c), Where block, Item (B): B = number of such completed years.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
       "id": "19-1-table-row-7",
@@ -999,8 +1057,8 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "Nature Of Sum: Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.; Amount Of Deduction: Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", Formula: A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Nature Of Sum: Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.; Amount Of Deduction: Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", Formula: A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.",
+      "text": "Nature Of Sum: Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.; Amount Of Deduction: Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Nature Of Sum: Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.; Amount Of Deduction: Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -1012,7 +1070,7 @@
       "row_number": "14",
       "columns": {
         "nature_of_sum": "Payment of the nature referred against serial number 13 received by an employee who is not a Central Government or State Government employee.",
-        "amount_of_deduction": "Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", Formula: A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise; (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received."
+        "amount_of_deduction": "Amount being minimum of— (a) the cash equivalent of the leave salary in respect of the period of earned leave at his credit at the time of his retirement, whether on superannuation or otherwise (entitlement of earned leave shall not exceed thirty days for every year of actual service); (b) amount \"A\", (c) amount as the Central Government may, by notification, specify in this behalf having regard to the limit applicable in this behalf to the employees of that Government; and (d) actual payment received."
       }
     },
     {
@@ -1045,8 +1103,8 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "amount \"A\", A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Column Amount Of Deduction, item (b): amount \"A\", A = 10 x B; B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise;",
+      "text": "amount \"A\",",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Column Amount Of Deduction, item (b): amount \"A\",",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -1058,6 +1116,63 @@
       "column": "amount_of_deduction",
       "column_label": "Amount Of Deduction",
       "source_id": "19-1-t14-amt-b"
+    },
+    {
+      "id": "19-14-where",
+      "citation": "Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block",
+      "unit_type": "where_block",
+      "parent_id": "19-1-table-row-14-amount_of_deduction-b-2",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "where, —",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Column Amount Of Deduction, item (b): amount \"A\", Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block: where, —",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-1-14-b-where-A",
+      "citation": "Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "19-14-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "A = 10 x B",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Column Amount Of Deduction, item (b): amount \"A\", Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block: where, — Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block, Item (A): A = 10 x B",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-1-14-b-where-B",
+      "citation": "Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "19-14-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(1): The income chargeable under the head \"Salaries\" shall be computed after making the deductions in respect of sums of the nature mentioned in column B of the following Table, not exceeding the amount as mentioned in column C thereof:— Table columns: Sl. No.; Nature of sum; Amount of deduction Section 19(1) Table, Sl. No. 14 Column Amount Of Deduction, item (b): amount \"A\", Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block: where, — Section 19(1) Table, Sl. No. 14, Column Amount Of Deduction, item (b), Where block, Item (B): B = average monthly salary for the ten months immediately preceding his retirement whether on superannuation or otherwise",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
       "id": "19-1-table-row-14-amount_of_deduction-c-3",
@@ -1130,8 +1245,8 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(a): in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;",
+      "text": "in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B A - B,",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(a): in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B A - B,",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -1140,6 +1255,63 @@
       "line_start": null,
       "x": null,
       "y_start": null
+    },
+    {
+      "id": "19-2-a-where",
+      "citation": "Section 19(2)(a), Where block",
+      "unit_type": "where_block",
+      "parent_id": "19-2-a",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "where, —",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(a): in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B A - B, Section 19(2)(a), Where block: where, —",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-2-a-where-A",
+      "citation": "Section 19(2)(a), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "19-2-a-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "A = the limit specified by the Central Government, by notification; and",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(a): in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B A - B, Section 19(2)(a), Where block: where, — Section 19(2)(a), Where block, Item (A): A = the limit specified by the Central Government, by notification; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "19-2-a-where-B",
+      "citation": "Section 19(2)(a), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "19-2-a-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(a): in respect of the entries against serial number 6 thereof, if gratuity or gratuities was or were received from one or more than one employer in the same tax year (whether or not any gratuity or gratuities was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B A - B, Section 19(2)(a), Where block: where, — Section 19(2)(a), Where block, Item (B): B = the aggregate amount of gratuity or gratuities which was or were received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from the total income of any such tax year or years;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
       "id": "19-2-b",
@@ -1320,8 +1492,65 @@
       "section_id": "19",
       "section_number": "19",
       "title": "Deductions from salaries.",
-      "text": "in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
-      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(f): in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, where,— A = the limit specified by the Central Government, by notification; and B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
+      "text": "in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B,",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(f): in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B,",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "19-2-f-where",
+      "citation": "Section 19(2)(f), Where block",
+      "unit_type": "where_block",
+      "parent_id": "19-2-f",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "where,—",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(f): in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, Section 19(2)(f), Where block: where,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "19-2-f-where-A",
+      "citation": "Section 19(2)(f), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "19-2-f-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "A = the limit specified by the Central Government, by notification; and",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(f): in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, Section 19(2)(f), Where block: where,— Section 19(2)(f), Where block, Item (A): A = the limit specified by the Central Government, by notification; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "19-2-f-where-B",
+      "citation": "Section 19(2)(f), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "19-2-f-where",
+      "section_id": "19",
+      "section_number": "19",
+      "title": "Deductions from salaries.",
+      "text": "B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
+      "retrieval_text": "Section 19 Deductions from salaries. Section 19(2): For the purposes of the Table referred to in sub-section (1),— Section 19(2)(f): in respect of the entries against serial number 14 thereof, if any payment on account of cash equivalent of leave salary is received from one or more than one employer in the same tax year (whether or not any such payment or payments was or were received in any earlier tax year), the aggregate amount of deduction shall not exceed— A - B, Section 19(2)(f), Where block: where,— Section 19(2)(f), Where block, Item (B): B = the aggregate amount of payment or payments which was received in any one or more earlier tax years and allowed as an exemption or a deduction (whether whole or part) from total income of any such tax year or years;",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER IV - COMPUTATION OF TOTAL INCOME",
       "jurisdiction": "India",
@@ -1830,33 +2059,33 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "19-1-table-row-6-nature_of_sum-i-1",
+      "from_id": "19-1-table-row-6-items-i-1",
       "to_id": "19-1-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "19-1-table-row-6",
-      "to_id": "19-1-table-row-6-nature_of_sum-i-1",
+      "to_id": "19-1-table-row-6-items-i-1",
       "edge_type": "contains"
     },
     {
-      "from_id": "19-1-table-row-6-nature_of_sum-ii-2",
+      "from_id": "19-1-table-row-6-items-ii-2",
       "to_id": "19-1-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "19-1-table-row-6",
-      "to_id": "19-1-table-row-6-nature_of_sum-ii-2",
+      "to_id": "19-1-table-row-6-items-ii-2",
       "edge_type": "contains"
     },
     {
-      "from_id": "19-1-table-row-6-nature_of_sum-iii-3",
+      "from_id": "19-1-table-row-6-items-iii-3",
       "to_id": "19-1-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "19-1-table-row-6",
-      "to_id": "19-1-table-row-6-nature_of_sum-iii-3",
+      "to_id": "19-1-table-row-6-items-iii-3",
       "edge_type": "contains"
     },
     {
@@ -1887,6 +2116,36 @@
     {
       "from_id": "19-1-table-row-6",
       "to_id": "19-1-table-row-6-amount_of_deduction-c-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-6-where",
+      "to_id": "19-1-table-row-6-amount_of_deduction-c-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-1-table-row-6-amount_of_deduction-c-3",
+      "to_id": "19-6-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-6-where-A",
+      "to_id": "19-6-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-6-where",
+      "to_id": "19-6-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-6-where-B",
+      "to_id": "19-6-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-6-where",
+      "to_id": "19-6-where-B",
       "edge_type": "contains"
     },
     {
@@ -2190,6 +2449,36 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "19-14-where",
+      "to_id": "19-1-table-row-14-amount_of_deduction-b-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-1-table-row-14-amount_of_deduction-b-2",
+      "to_id": "19-14-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-1-14-b-where-A",
+      "to_id": "19-14-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-14-where",
+      "to_id": "19-1-14-b-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-1-14-b-where-B",
+      "to_id": "19-14-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-14-where",
+      "to_id": "19-1-14-b-where-B",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "19-1-table-row-14-amount_of_deduction-c-3",
       "to_id": "19-1-table-row-14",
       "edge_type": "parent"
@@ -2227,6 +2516,36 @@
     {
       "from_id": "19-2",
       "to_id": "19-2-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-a-where",
+      "to_id": "19-2-a",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-a",
+      "to_id": "19-2-a-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-a-where-A",
+      "to_id": "19-2-a-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-a-where",
+      "to_id": "19-2-a-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-a-where-B",
+      "to_id": "19-2-a-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-a-where",
+      "to_id": "19-2-a-where-B",
       "edge_type": "contains"
     },
     {
@@ -2327,6 +2646,36 @@
     {
       "from_id": "19-2",
       "to_id": "19-2-f",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-f-where",
+      "to_id": "19-2-f",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-f",
+      "to_id": "19-2-f-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-f-where-A",
+      "to_id": "19-2-f-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-f-where",
+      "to_id": "19-2-f-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "19-2-f-where-B",
+      "to_id": "19-2-f-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "19-2-f-where",
+      "to_id": "19-2-f-where-B",
       "edge_type": "contains"
     },
     {

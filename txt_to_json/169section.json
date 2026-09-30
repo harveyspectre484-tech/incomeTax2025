@@ -11,31 +11,41 @@
       "page_start": 1,
       "page_end": 1,
       "text_before_subsections": "23[(1) Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—",
-      "clauses": [
-        {
-          "type": "clause",
-          "number": "a",
-          "id": "169-a",
-          "indent": 0,
-          "line_start": 5,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "furnish a return or a modified return in accordance with and limited to the agreement; and",
-          "children": []
-        },
-        {
-          "type": "clause",
-          "number": "b",
-          "id": "169-b",
-          "indent": 0,
-          "line_start": 6,
-          "page_start": 1,
-          "page_end": 1,
-          "text": "the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
-          "children": []
-        }
-      ],
       "subsections": [
+        {
+          "type": "subsection",
+          "number": "1",
+          "id": "169-1",
+          "indent": 0,
+          "line_start": 8,
+          "page_start": 1,
+          "page_end": 1,
+          "text": "Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—",
+          "clause": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "169-a",
+              "indent": 0,
+              "line_start": 5,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "furnish a return or a modified return in accordance with and limited to the agreement; and",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "169-b",
+              "indent": 0,
+              "line_start": 6,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
+              "children": []
+            }
+          ]
+        },
         {
           "type": "subsection",
           "number": "2",

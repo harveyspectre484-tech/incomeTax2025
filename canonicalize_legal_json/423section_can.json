@@ -28,8 +28,84 @@
       "section_id": "423",
       "section_number": "423",
       "title": "Interest for defaults in furnishing return of income.",
-      "text": "Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T where,— I = the interest payable; A = the amount of tax on which interest is payable, as specified in sub-section (2); T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
-      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T where,— I = the interest payable; A = the amount of tax on which interest is payable, as specified in sub-section (2); T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
+      "text": "Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T",
+      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "423-1-where",
+      "citation": "Section 423(1), Where block",
+      "unit_type": "where_block",
+      "parent_id": "423-1",
+      "section_id": "423",
+      "section_number": "423",
+      "title": "Interest for defaults in furnishing return of income.",
+      "text": "",
+      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T Section 423(1), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "423-1-where-I",
+      "citation": "Section 423(1), Where block, Item (I)",
+      "unit_type": "item",
+      "parent_id": "423-1-where",
+      "section_id": "423",
+      "section_number": "423",
+      "title": "Interest for defaults in furnishing return of income.",
+      "text": "I = the interest payable;",
+      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T Section 423(1), Where block: Section 423(1), Where block, Item (I): I = the interest payable;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "423-1-where-A",
+      "citation": "Section 423(1), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "423-1-where",
+      "section_id": "423",
+      "section_number": "423",
+      "title": "Interest for defaults in furnishing return of income.",
+      "text": "A = the amount of tax on which interest is payable, as specified in sub-section (2);",
+      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T Section 423(1), Where block: Section 423(1), Where block, Item (A): A = the amount of tax on which interest is payable, as specified in sub-section (2);",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "423-1-where-T",
+      "citation": "Section 423(1), Where block, Item (T)",
+      "unit_type": "item",
+      "parent_id": "423-1-where",
+      "section_id": "423",
+      "section_number": "423",
+      "title": "Interest for defaults in furnishing return of income.",
+      "text": "T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
+      "retrieval_text": "Section 423 Interest for defaults in furnishing return of income. Section 423(1): Where the return of income for any tax year is furnished after the due date or is not furnished, the assessee shall be liable to pay simple interest as per the following formula:— I= 1% × A × T I = 1% × A × T Section 423(1), Where block: Section 423(1), Where block, Item (T): T = number of months comprised in the period commencing on the date immediately following the starting date and ending on the end date, both specified in sub-section (2).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -638,6 +714,46 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "423-1-where",
+      "to_id": "423-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "423-1",
+      "to_id": "423-1-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "423-1-where-I",
+      "to_id": "423-1-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "423-1-where",
+      "to_id": "423-1-where-I",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "423-1-where-A",
+      "to_id": "423-1-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "423-1-where",
+      "to_id": "423-1-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "423-1-where-T",
+      "to_id": "423-1-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "423-1-where",
+      "to_id": "423-1-where-T",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "423-2",
       "to_id": "423",
       "edge_type": "parent"
@@ -918,7 +1034,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "423-1",
+      "from_id": "423-1-where-A",
+      "to_id": "423-2",
+      "edge_type": "references",
+      "reference_text": "sub-section (2)"
+    },
+    {
+      "from_id": "423-1-where-T",
       "to_id": "423-2",
       "edge_type": "references",
       "reference_text": "sub-section (2)"

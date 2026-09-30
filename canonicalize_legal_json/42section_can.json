@@ -47,8 +47,8 @@
       "section_id": "42",
       "section_number": "42",
       "title": "Capitalising impact of foreign exchange fluctuation.",
-      "text": "For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made—",
-      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made—",
+      "text": "For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C",
+      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -59,42 +59,80 @@
       "y_start": 121.96
     },
     {
-      "id": "42-2-a",
-      "citation": "Section 42(2)(a)",
-      "unit_type": "clause",
+      "id": "42-2-where",
+      "citation": "Section 42(2), Where block",
+      "unit_type": "where_block",
       "parent_id": "42-2",
       "section_id": "42",
       "section_number": "42",
       "title": "Capitalising impact of foreign exchange fluctuation.",
-      "text": "towards the whole or part of the cost of asset; or",
-      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— Section 42(2)(a): towards the whole or part of the cost of asset; or",
+      "text": "where,—",
+      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C Section 42(2), Where block: where,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
-      "x": 69.87,
-      "y_start": 201.52
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
-      "id": "42-2-b",
-      "citation": "Section 42(2)(b)",
-      "unit_type": "clause",
-      "parent_id": "42-2",
+      "id": "42-2-where-A",
+      "citation": "Section 42(2), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "42-2-where",
       "section_id": "42",
       "section_number": "42",
       "title": "Capitalising impact of foreign exchange fluctuation.",
-      "text": "towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset; C = liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
-      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— Section 42(2)(b): towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset; C = liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
+      "text": "A = variation in liability;",
+      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C Section 42(2), Where block: where,— Section 42(2), Where block, Item (A): A = variation in liability;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
-      "x": 69.87,
-      "y_start": 212.13
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "42-2-where-B",
+      "citation": "Section 42(2), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "42-2-where",
+      "section_id": "42",
+      "section_number": "42",
+      "title": "Capitalising impact of foreign exchange fluctuation.",
+      "text": "B = payment expressed in Indian currency at the time when it is made—(a) towards the whole or part of the cost of asset; or (b) towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset;",
+      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C Section 42(2), Where block: where,— Section 42(2), Where block, Item (B): B = payment expressed in Indian currency at the time when it is made—(a) towards the whole or part of the cost of asset; or (b) towards repayment of the whole or part of the moneys borrowed, directly or indirectly, along with interest in foreign currency, specifically for acquiring such asset;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "42-2-where-C",
+      "citation": "Section 42(2), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "42-2-where",
+      "section_id": "42",
+      "section_number": "42",
+      "title": "Capitalising impact of foreign exchange fluctuation.",
+      "text": "C = liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
+      "retrieval_text": "Section 42 Capitalising impact of foreign exchange fluctuation. Section 42(2): For this section, the liability shall exclude any part met directly or indirectly by any other person or authority and the \"variation in liability\" shall be computed as— A = B – C where,— A = variation in liability; B = payment expressed in Indian currency at the time when it is made— A = B - C Section 42(2), Where block: where,— Section 42(2), Where block, Item (C): C = liability, corresponding to the amount referred in B, in Indian currency at the time of acquisition of such asset.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
       "id": "42-3",
@@ -252,23 +290,43 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "42-2-a",
+      "from_id": "42-2-where",
       "to_id": "42-2",
       "edge_type": "parent"
     },
     {
       "from_id": "42-2",
-      "to_id": "42-2-a",
+      "to_id": "42-2-where",
       "edge_type": "contains"
     },
     {
-      "from_id": "42-2-b",
-      "to_id": "42-2",
+      "from_id": "42-2-where-A",
+      "to_id": "42-2-where",
       "edge_type": "parent"
     },
     {
-      "from_id": "42-2",
-      "to_id": "42-2-b",
+      "from_id": "42-2-where",
+      "to_id": "42-2-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "42-2-where-B",
+      "to_id": "42-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "42-2-where",
+      "to_id": "42-2-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "42-2-where-C",
+      "to_id": "42-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "42-2-where",
+      "to_id": "42-2-where-C",
       "edge_type": "contains"
     },
     {

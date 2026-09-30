@@ -28,8 +28,8 @@
       "section_id": "405",
       "section_number": "405",
       "title": "Computation of advance tax.",
-      "text": "The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
-      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
+      "text": "The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -40,15 +40,91 @@
       "y_start": 80.59
     },
     {
-      "id": "405-1-a",
-      "citation": "Section 405(1)(a)",
-      "unit_type": "clause",
+      "id": "405-1-where",
+      "citation": "Section 405(1), Where block",
+      "unit_type": "where_block",
       "parent_id": "405-1",
       "section_id": "405",
       "section_number": "405",
       "title": "Computation of advance tax.",
+      "text": "",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 80.59
+    },
+    {
+      "id": "405-1-where-A",
+      "citation": "Section 405(1), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "405-1-where",
+      "section_id": "405",
+      "section_number": "405",
+      "title": "Computation of advance tax.",
+      "text": "A = the amount of advance tax payable in a financial year;",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (A): A = the amount of advance tax payable in a financial year;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 80.59
+    },
+    {
+      "id": "405-1-where-B",
+      "citation": "Section 405(1), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "405-1-where",
+      "section_id": "405",
+      "section_number": "405",
+      "title": "Computation of advance tax.",
+      "text": "B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407;",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (B): B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 80.59
+    },
+    {
+      "id": "405-1-where-C",
+      "citation": "Section 405(1), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "405-1-where",
+      "section_id": "405",
+      "section_number": "405",
+      "title": "Computation of advance tax.",
+      "text": "C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (C): C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 80.59
+    },
+    {
+      "id": "405-1-where-C-a",
+      "citation": "Section 405(1), Where block, Item (C), Clause (a)",
+      "unit_type": "clause",
+      "parent_id": "405-1-where-C",
+      "section_id": "405",
+      "section_number": "405",
+      "title": "Computation of advance tax.",
       "text": "such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
-      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1)(a): such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (C): C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1), Where block, Item (C), Clause (a): such income is computed before allowing any deduction admissible under this Act and has been taken into account in computing the specified sum; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -59,15 +135,15 @@
       "y_start": 189.85
     },
     {
-      "id": "405-1-b",
-      "citation": "Section 405(1)(b)",
+      "id": "405-1-where-C-b",
+      "citation": "Section 405(1), Where block, Item (C), Clause (b)",
       "unit_type": "clause",
-      "parent_id": "405-1",
+      "parent_id": "405-1-where-C",
       "section_id": "405",
       "section_number": "405",
       "title": "Computation of advance tax.",
       "text": "",
-      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1)(b):",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (C): C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1), Where block, Item (C), Clause (b):",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -78,15 +154,15 @@
       "y_start": 210.01
     },
     {
-      "id": "405-1-b-i",
-      "citation": "Section 405(1)(b)(i)",
+      "id": "405-1-where-C-b-i",
+      "citation": "Section 405(1), Where block, Item (C), Clause (b), Sub-clause (i)",
       "unit_type": "sub_clause",
-      "parent_id": "405-1-b",
+      "parent_id": "405-1-where-C-b",
       "section_id": "405",
       "section_number": "405",
       "title": "Computation of advance tax.",
       "text": "the person responsible for deducting tax has paid or credited such income after deduction of tax; or",
-      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1)(b): Section 405(1)(b)(i): the person responsible for deducting tax has paid or credited such income after deduction of tax; or",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (C): C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1), Where block, Item (C), Clause (b): Section 405(1), Where block, Item (C), Clause (b), Sub-clause (i): the person responsible for deducting tax has paid or credited such income after deduction of tax; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -97,15 +173,15 @@
       "y_start": 210.01
     },
     {
-      "id": "405-1-b-ii",
-      "citation": "Section 405(1)(b)(ii)",
+      "id": "405-1-where-C-b-ii",
+      "citation": "Section 405(1), Where block, Item (C), Clause (b), Sub-clause (ii)",
       "unit_type": "sub_clause",
-      "parent_id": "405-1-b",
+      "parent_id": "405-1-where-C-b",
       "section_id": "405",
       "section_number": "405",
       "title": "Computation of advance tax.",
       "text": "the person responsible for collecting tax has received or debited such income after collection of tax.",
-      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C where,— A = the amount of advance tax payable in a financial year; B = income-tax on the specified sum calculated at the rates in force in the financial year, where \"specified sum\" shall have the meaning assigned to it in section 406 or 407; C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1)(b): Section 405(1)(b)(ii): the person responsible for collecting tax has received or debited such income after collection of tax.",
+      "retrieval_text": "Section 405 Computation of advance tax. Section 405(1): The amount of advance tax payable by an assessee under section 404, on his own accord under section 406, or in pursuance of an order of an Assessing Officer under section 407, in the financial year shall, subject to the provisions of sub-section (2), be computed as under— A = B – C A = B - C Section 405(1), Where block: Section 405(1), Where block, Item (C): C = amount of income-tax which would be deductible or collectible at source during the said financial year under any provision of this Act from any income subject to the following:— Section 405(1), Where block, Item (C), Clause (b): Section 405(1), Where block, Item (C), Clause (b), Sub-clause (ii): the person responsible for collecting tax has received or debited such income after collection of tax.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -186,43 +262,83 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "405-1-a",
+      "from_id": "405-1-where",
       "to_id": "405-1",
       "edge_type": "parent"
     },
     {
       "from_id": "405-1",
-      "to_id": "405-1-a",
+      "to_id": "405-1-where",
       "edge_type": "contains"
     },
     {
-      "from_id": "405-1-b",
-      "to_id": "405-1",
+      "from_id": "405-1-where-A",
+      "to_id": "405-1-where",
       "edge_type": "parent"
     },
     {
-      "from_id": "405-1",
-      "to_id": "405-1-b",
+      "from_id": "405-1-where",
+      "to_id": "405-1-where-A",
       "edge_type": "contains"
     },
     {
-      "from_id": "405-1-b-i",
-      "to_id": "405-1-b",
+      "from_id": "405-1-where-B",
+      "to_id": "405-1-where",
       "edge_type": "parent"
     },
     {
-      "from_id": "405-1-b",
-      "to_id": "405-1-b-i",
+      "from_id": "405-1-where",
+      "to_id": "405-1-where-B",
       "edge_type": "contains"
     },
     {
-      "from_id": "405-1-b-ii",
-      "to_id": "405-1-b",
+      "from_id": "405-1-where-C",
+      "to_id": "405-1-where",
       "edge_type": "parent"
     },
     {
-      "from_id": "405-1-b",
-      "to_id": "405-1-b-ii",
+      "from_id": "405-1-where",
+      "to_id": "405-1-where-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "405-1-where-C-a",
+      "to_id": "405-1-where-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "405-1-where-C",
+      "to_id": "405-1-where-C-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "405-1-where-C-b",
+      "to_id": "405-1-where-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "405-1-where-C",
+      "to_id": "405-1-where-C-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "405-1-where-C-b-i",
+      "to_id": "405-1-where-C-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "405-1-where-C-b",
+      "to_id": "405-1-where-C-b-i",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "405-1-where-C-b-ii",
+      "to_id": "405-1-where-C-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "405-1-where-C-b",
+      "to_id": "405-1-where-C-b-ii",
       "edge_type": "contains"
     },
     {
@@ -278,6 +394,12 @@
       "to_id": "405-2",
       "edge_type": "references",
       "reference_text": "sub-section (2)"
+    },
+    {
+      "from_id": "405-1-where-B",
+      "to_id": "406",
+      "edge_type": "references",
+      "reference_text": "section 406"
     },
     {
       "from_id": "405-2-a",

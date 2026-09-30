@@ -14,11 +14,11 @@
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 27.62,
-      "y_start": 80.59
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1",
@@ -28,16 +28,35 @@
       "section_id": "93",
       "section_number": "93",
       "title": "Deductions.",
-      "text": "The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to",
+      "text": "The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:—",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 27.62,
-      "y_start": 80.59
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "93-1-a",
+      "citation": "Section 93(1)(a)",
+      "unit_type": "clause",
+      "parent_id": "93-1",
+      "section_id": "93",
+      "section_number": "93",
+      "title": "Deductions.",
+      "text": "for interest on securities, any reasonable sum paid as commission or remuneration to a banker or any other person for the purpose of realising such interest on behalf of the assessee;",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(a): for interest on securities, any reasonable sum paid as commission or remuneration to a banker or any other person for the purpose of realising such interest on behalf of the assessee;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-b",
@@ -48,15 +67,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "for income of the nature referred to in section 92(2)(c), so far as may be, an amount as per section 29(1)(e);",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(b): for income of the nature referred to in section 92(2)(c), so far as may be, an amount as per section 29(1)(e);",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(b): for income of the nature referred to in section 92(2)(c), so far as may be, an amount as per section 29(1)(e);",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 40.8,
-      "y_start": 115.6
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-c",
@@ -67,15 +86,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "for income of the nature referred to in section 92(2)(f) and (g), so far as may be, an amount as per section 28(1)(a), (b), (d), section 33, and subject to the provisions of section 28(2);",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(c): for income of the nature referred to in section 92(2)(f) and (g), so far as may be, an amount as per section 28(1)(a), (b), (d), section 33, and subject to the provisions of section 28(2);",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(c): for income of the nature referred to in section 92(2)(f) and (g), so far as may be, an amount as per section 28(1)(a), (b), (d), section 33, and subject to the provisions of section 28(2);",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 41.27,
-      "y_start": 126.2
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-d",
@@ -86,15 +105,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),—",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),—",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 40.8,
-      "y_start": 146.36
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-d-i",
@@ -105,15 +124,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "an amount equal to one-third of such income or Rs. 25000, whichever is less, where income-tax is computed under section 202(1); and",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),— Section 93(1)(d)(i): an amount equal to one-third of such income or Rs. 25000, whichever is less, where income-tax is computed under section 202(1); and",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),— Section 93(1)(d)(i): an amount equal to one-third of such income or Rs. 25000, whichever is less, where income-tax is computed under section 202(1); and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 71.75,
-      "y_start": 166.52
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-d-ii",
@@ -124,15 +143,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "an amount equal to one-third of such income or Rs. 15000, whichever is less, in any other case;",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),— Section 93(1)(d)(ii): an amount equal to one-third of such income or Rs. 15000, whichever is less, in any other case;",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(d): for income in the nature of family pension (a regular monthly amount payable by the employer to a family member of an employee upon the death of such employee),— Section 93(1)(d)(ii): an amount equal to one-third of such income or Rs. 15000, whichever is less, in any other case;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 69.33,
-      "y_start": 177.12
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-e",
@@ -143,15 +162,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "any other expenditure (not being in the nature of capital expenditure) laid out or expended wholly and exclusively for making or earning such income;",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(e): any other expenditure (not being in the nature of capital expenditure) laid out or expended wholly and exclusively for making or earning such income;",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(e): any other expenditure (not being in the nature of capital expenditure) laid out or expended wholly and exclusively for making or earning such income;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 41.27,
-      "y_start": 187.73
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-f",
@@ -162,15 +181,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "for income of the nature referred to in section 92(2)(i), an amount equal to 50% of such income and no other deduction shall be allowed under this section;",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(f): for income of the nature referred to in section 92(2)(i), an amount equal to 50% of such income and no other deduction shall be allowed under this section;",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(f): for income of the nature referred to in section 92(2)(i), an amount equal to 50% of such income and no other deduction shall be allowed under this section;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 42.68,
-      "y_start": 207.89
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-g",
@@ -181,15 +200,15 @@
       "section_number": "93",
       "title": "Deductions.",
       "text": "for income in the nature of commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3), the entire amount;",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(g): for income in the nature of commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3), the entire amount;",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(g): for income in the nature of commutation of pension received from a fund as specified in Schedule VII (Table: Sl. No. 3), the entire amount;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 40.8,
-      "y_start": 228.05
+      "x": null,
+      "y_start": null
     },
     {
       "id": "93-1-h",
@@ -199,54 +218,35 @@
       "section_id": "93",
       "section_number": "93",
       "title": "Deductions.",
-      "text": "for income in the nature of gratuity as referred in section 19(2)(g), received on the death of the employee, the entire amount. a banker or any other person for the purpose of realising such dividend or interest on behalf of the assessee;\" \"(2) In respect of—",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(h): for income in the nature of gratuity as referred in section 19(2)(g), received on the death of the employee, the entire amount. a banker or any other person for the purpose of realising such dividend or interest on behalf of the assessee;\" \"(2) In respect of—",
+      "text": "for income in the nature of gratuity as referred in section 19(2)(g), received on the death of the employee, the entire amount.",
+      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— Section 93(1)(h): for income in the nature of gratuity as referred in section 19(2)(g), received on the death of the employee, the entire amount.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 40.8,
-      "y_start": 238.65
+      "x": null,
+      "y_start": null
     },
     {
-      "id": "93-1-a",
-      "citation": "Section 93(1)(a)",
-      "unit_type": "clause",
-      "parent_id": "93-1",
+      "id": "93-2",
+      "citation": "Section 93(2)",
+      "unit_type": "subsection",
+      "parent_id": "93",
       "section_id": "93",
       "section_number": "93",
       "title": "Deductions.",
-      "text": "dividend income of the nature referred to in section 2(40)(f), no deduction shall be allowed;",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(a): dividend income of the nature referred to in section 2(40)(f), no deduction shall be allowed;",
+      "text": "Irrespective of anything contained in sub-section (1), in respect of any dividend income or income from units of a Mutual Fund specified under Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002), no deduction shall be allowed.",
+      "retrieval_text": "Section 93 Deductions. Section 93(2): Irrespective of anything contained in sub-section (1), in respect of any dividend income or income from units of a Mutual Fund specified under Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002), no deduction shall be allowed.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
+      "page_start": null,
+      "page_end": null,
       "line_start": null,
-      "x": 69.87,
-      "y_start": 417.41
-    },
-    {
-      "id": "93-1-b-2",
-      "citation": "Section 93(1)(b)",
-      "unit_type": "clause",
-      "parent_id": "93-1",
-      "section_id": "93",
-      "section_number": "93",
-      "title": "Deductions.",
-      "text": "any other dividend income [other than in clause (a)], or income from units of a Mutual Fund specified under Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002), only deduction allowed shall be interest expense which, for any tax year, shall be limited to 20% of such income (included in the total income for that year, without deduction under this section).\"",
-      "retrieval_text": "Section 93 Deductions. Section 93(1): The income chargeable under the head \"Income from other sources\" shall be computed after making the following deductions:— interest on behalf of the assessee;] Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of \"(a) for dividends [excluding those referred to in section 2(40)(f)] or interest on securities, any reasonable sum paid as commission or remuneration to Section 93(1)(b): any other dividend income [other than in clause (a)], or income from units of a Mutual Fund specified under Schedule VII (Table: Sl. No. 20 or 21) or income from units of a specified company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002), only deduction allowed shall be interest expense which, for any tax year, shall be limited to 20% of such income (included in the total income for that year, without deduction under this section).\"",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 69.87,
-      "y_start": 428.02
+      "x": null,
+      "y_start": null
     }
   ],
   "external_nodes": [
@@ -298,6 +298,16 @@
     {
       "from_id": "93",
       "to_id": "93-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "93-1-a",
+      "to_id": "93-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "93-1",
+      "to_id": "93-1-a",
       "edge_type": "contains"
     },
     {
@@ -391,42 +401,14 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "93-1-a",
-      "to_id": "93-1",
+      "from_id": "93-2",
+      "to_id": "93",
       "edge_type": "parent"
     },
     {
-      "from_id": "93-1",
-      "to_id": "93-1-a",
+      "from_id": "93",
+      "to_id": "93-2",
       "edge_type": "contains"
-    },
-    {
-      "from_id": "93-1-b-2",
-      "to_id": "93-1",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "93-1",
-      "to_id": "93-1-b-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "93-1",
-      "to_id": "2-h",
-      "edge_type": "references",
-      "reference_text": "section 2(h)"
-    },
-    {
-      "from_id": "93-1",
-      "to_id": "2-40-f",
-      "edge_type": "references",
-      "reference_text": "section 2(40)(f)"
-    },
-    {
-      "from_id": "93-1",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
     },
     {
       "from_id": "93-1-b",
@@ -489,13 +471,7 @@
       "reference_text": "section 19(2)(g)"
     },
     {
-      "from_id": "93-1-a",
-      "to_id": "2-40-f",
-      "edge_type": "references",
-      "reference_text": "section 2(40)(f)"
-    },
-    {
-      "from_id": "93-1-b-2",
+      "from_id": "93-2",
       "to_id": "ext-india-act-2002-58-section-2-h",
       "edge_type": "references_external",
       "reference_text": "section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002)",
@@ -513,13 +489,13 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "93-1-b-2",
-      "to_id": "93-1-a",
+      "from_id": "93-2",
+      "to_id": "93-1",
       "edge_type": "references",
-      "reference_text": "clause (a)"
+      "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "93-1-b-2",
+      "from_id": "93-2",
       "to_id": "schedule-7",
       "edge_type": "references",
       "reference_text": "Schedule VII"

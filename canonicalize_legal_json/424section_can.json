@@ -370,8 +370,8 @@
       "section_id": "424",
       "section_number": "424",
       "title": "Interest for defaults in payment of advance tax.",
-      "text": "Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C where,— A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation; B = tax on total income determined on the basis of reassessment or recomputation; C = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
-      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C where,— A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation; B = tax on total income determined on the basis of reassessment or recomputation; C = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
+      "text": "Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C",
+      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -380,6 +380,82 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 422.18
+    },
+    {
+      "id": "424-5-where",
+      "citation": "Section 424(5), Where block",
+      "unit_type": "where_block",
+      "parent_id": "424-5",
+      "section_id": "424",
+      "section_number": "424",
+      "title": "Interest for defaults in payment of advance tax.",
+      "text": "",
+      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C Section 424(5), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "424-5-where-A",
+      "citation": "Section 424(5), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "424-5-where",
+      "section_id": "424",
+      "section_number": "424",
+      "title": "Interest for defaults in payment of advance tax.",
+      "text": "A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation",
+      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C Section 424(5), Where block: Section 424(5), Where block, Item (A): A = the increased amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year as a result of reassessment or recomputation",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "424-5-where-B",
+      "citation": "Section 424(5), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "424-5-where",
+      "section_id": "424",
+      "section_number": "424",
+      "title": "Interest for defaults in payment of advance tax.",
+      "text": "B = tax on total income determined on the basis of reassessment or recomputation;",
+      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C Section 424(5), Where block: Section 424(5), Where block, Item (B): B = tax on total income determined on the basis of reassessment or recomputation;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
+    },
+    {
+      "id": "424-5-where-C",
+      "citation": "Section 424(5), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "424-5-where",
+      "section_id": "424",
+      "section_number": "424",
+      "title": "Interest for defaults in payment of advance tax.",
+      "text": "c = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
+      "retrieval_text": "Section 424 Interest for defaults in payment of advance tax. Section 424(5): Where as a result of an order of reassessment or recomputation under section 279, the amount on which interest was payable in respect of shortfall in payment of advance tax for any tax year under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of 1% for every month or part of a month comprised in the period commencing on the 1st April immediately following such tax year and ending on the date of the reassessment or recomputation on such amount determined as per formula below:— A = B – C A = B – C Section 424(5), Where block: Section 424(5), Where block, Item (C): c = tax on total income determined under section 270(1) or regular assessment as referred to in sub-section (1).",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 95.44
     },
     {
       "id": "424-6",
@@ -632,6 +708,46 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "424-5-where",
+      "to_id": "424-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "424-5",
+      "to_id": "424-5-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "424-5-where-A",
+      "to_id": "424-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "424-5-where",
+      "to_id": "424-5-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "424-5-where-B",
+      "to_id": "424-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "424-5-where",
+      "to_id": "424-5-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "424-5-where-C",
+      "to_id": "424-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "424-5-where",
+      "to_id": "424-5-where-C",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "424-6",
       "to_id": "424",
       "edge_type": "parent"
@@ -777,12 +893,18 @@
     },
     {
       "from_id": "424-5",
+      "to_id": "424-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
+    },
+    {
+      "from_id": "424-5-where-C",
       "to_id": "270-1",
       "edge_type": "references",
       "reference_text": "section 270(1)"
     },
     {
-      "from_id": "424-5",
+      "from_id": "424-5-where-C",
       "to_id": "424-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"

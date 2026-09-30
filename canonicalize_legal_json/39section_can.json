@@ -218,8 +218,8 @@
       "section_id": "39",
       "section_number": "39",
       "title": "Computation of actual cost.",
-      "text": "In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received.",
-      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received.",
+      "text": "In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C)",
+      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C)",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -228,6 +228,82 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 380.0
+    },
+    {
+      "id": "39-3-where",
+      "citation": "Section 39(3), Where block",
+      "unit_type": "where_block",
+      "parent_id": "39-3",
+      "section_id": "39",
+      "section_number": "39",
+      "title": "Computation of actual cost.",
+      "text": "where,—",
+      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C) Section 39(3), Where block: where,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "39-3-where-A",
+      "citation": "Section 39(3), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "39-3-where",
+      "section_id": "39",
+      "section_number": "39",
+      "title": "Computation of actual cost.",
+      "text": "A = total amount of subsidy, grant or reimbursement not directly relatable to the asset;",
+      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C) Section 39(3), Where block: where,— Section 39(3), Where block, Item (A): A = total amount of subsidy, grant or reimbursement not directly relatable to the asset;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "39-3-where-B",
+      "citation": "Section 39(3), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "39-3-where",
+      "section_id": "39",
+      "section_number": "39",
+      "title": "Computation of actual cost.",
+      "text": "B = cost of the asset acquired for which actual cost is to be determined;",
+      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C) Section 39(3), Where block: where,— Section 39(3), Where block, Item (B): B = cost of the asset acquired for which actual cost is to be determined;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "39-3-where-C",
+      "citation": "Section 39(3), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "39-3-where",
+      "section_id": "39",
+      "section_number": "39",
+      "title": "Computation of actual cost.",
+      "text": "C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received",
+      "retrieval_text": "Section 39 Computation of actual cost. Section 39(3): In a case where the subsidy, grant or reimbursement referred to in sub-section (1)(d) is not directly relatable to the asset acquired, the amount of reduction under sub-section (1)(d) shall be determined as under:— where,— A = total amount of subsidy, grant or reimbursement not directly relatable to the asset; B = cost of the asset acquired for which actual cost is to be determined; C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received. A × (B / C) Section 39(3), Where block: where,— Section 39(3), Where block, Item (C): C = cost of all the assets in respect of or in reference to which the subsidy or grant or reimbursement is so received",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
     },
     {
       "id": "39-4",
@@ -1408,6 +1484,46 @@
     {
       "from_id": "39",
       "to_id": "39-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "39-3-where",
+      "to_id": "39-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "39-3",
+      "to_id": "39-3-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "39-3-where-A",
+      "to_id": "39-3-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "39-3-where",
+      "to_id": "39-3-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "39-3-where-B",
+      "to_id": "39-3-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "39-3-where",
+      "to_id": "39-3-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "39-3-where-C",
+      "to_id": "39-3-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "39-3-where",
+      "to_id": "39-3-where-C",
       "edge_type": "contains"
     },
     {

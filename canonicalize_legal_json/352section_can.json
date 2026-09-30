@@ -47,8 +47,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "A = B - C, where,— A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C, where,— A = Accreted income; B = Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed; C = Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
+      "text": "A = B - C",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -57,6 +57,82 @@
       "line_start": null,
       "x": null,
       "y_start": null
+    },
+    {
+      "id": "352-2-where",
+      "citation": "Section 352(2), Where block",
+      "unit_type": "where_block",
+      "parent_id": "352-2",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C Section 352(2), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-2-where-A",
+      "citation": "Section 352(2), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "352-2-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "A= Accreted income;",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C Section 352(2), Where block: Section 352(2), Where block, Item (A): A= Accreted income;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-2-where-B",
+      "citation": "Section 352(2), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "352-2-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "B= Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed;",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C Section 352(2), Where block: Section 352(2), Where block, Item (B): B= Aggregate fair market value of the total assets of the specified person, as on the date specified, in column C of the Table in sub-section (4), computed in accordance with such method of valuation, as may be prescribed;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-2-where-C",
+      "citation": "Section 352(2), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "352-2-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "C= Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(2): A = B - C Section 352(2), Where block: Section 352(2), Where block, Item (C): C= Total liability of such specified person, as on the date specified in column C of the said Table, computed in accordance with such method of valuation, as may be prescribed.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
     },
     {
       "id": "352-3",
@@ -104,8 +180,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D)",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D)",
+      "text": "Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D)",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D)",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -115,8 +191,7 @@
       "x": null,
       "y_start": null,
       "columns": [
-        "Sl. No.",
-        "Case (A)",
+        "Sl. No.(A)",
         "Case (B)(i)",
         "Case (B)(ii)",
         "Specified date (C)",
@@ -131,8 +206,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B I: The specified person has preferred an appeal against the order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 1 Case A: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B I: The specified person has preferred an appeal against the order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person.",
+      "text": "Case B I: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B Ii: The specified person has preferred an appeal against the order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 1 Case B I: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B Ii: The specified person has preferred an appeal against the order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -143,9 +218,8 @@
       "y_start": null,
       "row_number": "1",
       "columns": {
-        "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
-        "case_b_i": "The specified person has preferred an appeal against the order of cancellation.",
-        "case_b_ii": "",
+        "case_b_i": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+        "case_b_ii": "The specified person has preferred an appeal against the order of cancellation.",
         "specified_date": "The date of the order cancelling the registration.",
         "due_date": "Date of receipt of the order in any appeal, confirming the cancellation of the registration, by the specified person."
       }
@@ -158,8 +232,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B I: The specified person has not preferred an appeal against such order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 2 Case A: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B I: The specified person has not preferred an appeal against such order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
+      "text": "Case B I: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B Ii: The specified person has not preferred an appeal against such order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 2 Case B I: The registration granted to the specified person under any specified provision has been cancelled or withdrawn.; Case B Ii: The specified person has not preferred an appeal against such order of cancellation.; Specified Date: The date of the order cancelling the registration.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -170,9 +244,8 @@
       "y_start": null,
       "row_number": "2",
       "columns": {
-        "case_a": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
-        "case_b_i": "The specified person has not preferred an appeal against such order of cancellation.",
-        "case_b_ii": "",
+        "case_b_i": "The registration granted to the specified person under any specified provision has been cancelled or withdrawn.",
+        "case_b_ii": "The specified person has not preferred an appeal against such order of cancellation.",
         "specified_date": "The date of the order cancelling the registration.",
         "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
       }
@@ -185,8 +258,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has not applied for fresh registration under any specified provision in such tax year.; Specified Date: The date of adoption or modification of any object.; Due Date: The end of such tax year.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has not applied for fresh registration under any specified provision in such tax year.; Specified Date: The date of adoption or modification of any object.; Due Date: The end of such tax year.",
+      "text": "Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has not applied for fresh registration under any specified provision in such tax year.; Specified Date: The date of adoption or modification of any object.; Due Date: The end of such tax year.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has not applied for fresh registration under any specified provision in such tax year.; Specified Date: The date of adoption or modification of any object.; Due Date: The end of such tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -197,23 +270,22 @@
       "y_start": null,
       "row_number": "3",
       "columns": {
-        "case_a": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
-        "case_b_i": "The specified person has not applied for fresh registration under any specified provision in such tax year.",
-        "case_b_ii": "",
+        "case_b_i": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
+        "case_b_ii": "The specified person has not applied for fresh registration under any specified provision in such tax year.",
         "specified_date": "The date of adoption or modification of any object.",
         "due_date": "The end of such tax year."
       }
     },
     {
-      "id": "352-4-table-row-3-case_a-a-1",
-      "citation": "Section 352(4) Table, Sl. No. 3, Column Case A, item (a)",
+      "id": "352-4-table-row-3-case_b_i-a-1",
+      "citation": "Section 352(4) Table, Sl. No. 3, Column Case B I, item (a)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-3",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Column Case A, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Column Case B I, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -222,20 +294,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t3-a"
     },
     {
-      "id": "352-4-table-row-3-case_a-b-2",
-      "citation": "Section 352(4) Table, Sl. No. 3, Column Case A, item (b)",
+      "id": "352-4-table-row-3-case_b_i-b-2",
+      "citation": "Section 352(4) Table, Sl. No. 3, Column Case B I, item (b)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-3",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "such modified objects do not conform to the conditions of registration.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Column Case A, item (b): such modified objects do not conform to the conditions of registration.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 3 Column Case B I, item (b): such modified objects do not conform to the conditions of registration.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -244,8 +316,8 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t3-b"
     },
     {
@@ -256,8 +328,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person.",
+      "text": "Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -268,23 +340,22 @@
       "y_start": null,
       "row_number": "4",
       "columns": {
-        "case_a": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
-        "case_b_i": "The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.",
-        "case_b_ii": "",
+        "case_b_i": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
+        "case_b_ii": "The specified person has applied for fresh registration under any specified provision in such tax year and where such application has been rejected and appeal has been preferred against such order of rejection.",
         "specified_date": "The date of adoption or modification of any object.",
         "due_date": "The date of receipt of the order in any appeal, confirming the cancellation of the registration by the specified person."
       }
     },
     {
-      "id": "352-4-table-row-4-case_a-a-1",
-      "citation": "Section 352(4) Table, Sl. No. 4, Column Case A, item (a)",
+      "id": "352-4-table-row-4-case_b_i-a-1",
+      "citation": "Section 352(4) Table, Sl. No. 4, Column Case B I, item (a)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-4",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Column Case A, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Column Case B I, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -293,20 +364,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t4-a"
     },
     {
-      "id": "352-4-table-row-4-case_a-b-2",
-      "citation": "Section 352(4) Table, Sl. No. 4, Column Case A, item (b)",
+      "id": "352-4-table-row-4-case_b_i-b-2",
+      "citation": "Section 352(4) Table, Sl. No. 4, Column Case B I, item (b)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-4",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "such modified objects do not conform to the conditions of registration.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Column Case A, item (b): such modified objects do not conform to the conditions of registration.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 4 Column Case B I, item (b): such modified objects do not conform to the conditions of registration.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -315,8 +386,8 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t4-b"
     },
     {
@@ -327,8 +398,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Case A: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B I: The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
+      "text": "Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Case B I: (a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.; Case B Ii: The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.; Specified Date: The date of adoption or modification of any object.; Due Date: The date on which the period for filing appeal under section 362 against the order cancelling the registration expires.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -339,23 +410,22 @@
       "y_start": null,
       "row_number": "5",
       "columns": {
-        "case_a": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
-        "case_b_i": "The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.",
-        "case_b_ii": "",
+        "case_b_i": "(a) The specified person has adopted or undertaken modification of its objects during any tax year; and (b) such modified objects do not conform to the conditions of registration.",
+        "case_b_ii": "The specified person has applied for fresh registration under any specified provision in the said tax year and where such application has been rejected and no appeal has been preferred against such order of rejection.",
         "specified_date": "The date of adoption or modification of any object.",
         "due_date": "The date on which the period for filing appeal under section 362 against the order cancelling the registration expires."
       }
     },
     {
-      "id": "352-4-table-row-5-case_a-a-1",
-      "citation": "Section 352(4) Table, Sl. No. 5, Column Case A, item (a)",
+      "id": "352-4-table-row-5-case_b_i-a-1",
+      "citation": "Section 352(4) Table, Sl. No. 5, Column Case B I, item (a)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-5",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "The specified person has adopted or undertaken modification of its objects during any tax year; and",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Column Case A, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Column Case B I, item (a): The specified person has adopted or undertaken modification of its objects during any tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -364,20 +434,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t5-a"
     },
     {
-      "id": "352-4-table-row-5-case_a-b-2",
-      "citation": "Section 352(4) Table, Sl. No. 5, Column Case A, item (b)",
+      "id": "352-4-table-row-5-case_b_i-b-2",
+      "citation": "Section 352(4) Table, Sl. No. 5, Column Case B I, item (b)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-5",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "such modified objects do not conform to the conditions of registration.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Column Case A, item (b): such modified objects do not conform to the conditions of registration.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 5 Column Case B I, item (b): such modified objects do not conform to the conditions of registration.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -386,8 +456,8 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t5-b"
     },
     {
@@ -398,8 +468,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).; Case B I: The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.; Specified Date: The last date for making an application for registration.; Due Date: The end of such tax year.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Case A: The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).; Case B I: The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.; Specified Date: The last date for making an application for registration.; Due Date: The end of such tax year.",
+      "text": "Case B I: The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).; Case B Ii: The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.; Specified Date: The last date for making an application for registration.; Due Date: The end of such tax year.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Case B I: The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).; Case B Ii: The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.; Specified Date: The last date for making an application for registration.; Due Date: The end of such tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -410,23 +480,22 @@
       "y_start": null,
       "row_number": "6",
       "columns": {
-        "case_a": "The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).",
-        "case_b_i": "The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.",
-        "case_b_ii": "",
+        "case_b_i": "The specified person fails to make an application as per the provisions of— (a) sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or (b) sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or (c) as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).",
+        "case_b_ii": "The period specified in the respective clause or sub-clauses or Table, as the case may be, expires in the tax year in which the said application is to be made.",
         "specified_date": "The last date for making an application for registration.",
         "due_date": "The end of such tax year."
       }
     },
     {
-      "id": "352-4-table-row-6-case_a-a-1",
-      "citation": "Section 352(4) Table, Sl. No. 6, Column Case A, item (a)",
+      "id": "352-4-table-row-6-case_b_i-a-1",
+      "citation": "Section 352(4) Table, Sl. No. 6, Column Case B I, item (a)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-6",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case A, item (a): sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case B I, item (a): sub-clause (i) or (ii) or (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961 (43 of 1961); or",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -435,20 +504,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t6-a"
     },
     {
-      "id": "352-4-table-row-6-case_a-b-2",
-      "citation": "Section 352(4) Table, Sl. No. 6, Column Case A, item (b)",
+      "id": "352-4-table-row-6-case_b_i-b-2",
+      "citation": "Section 352(4) Table, Sl. No. 6, Column Case B I, item (b)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-6",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case A, item (b): sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case B I, item (b): sub-clause (i) or (ii) or (iii) of section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961); or",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -457,20 +526,20 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t6-b"
     },
     {
-      "id": "352-4-table-row-6-case_a-c-3",
-      "citation": "Section 352(4) Table, Sl. No. 6, Column Case A, item (c)",
+      "id": "352-4-table-row-6-case_b_i-c-3",
+      "citation": "Section 352(4) Table, Sl. No. 6, Column Case B I, item (c)",
       "unit_type": "table_cell_item",
       "parent_id": "352-4-table-row-6",
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
       "text": "as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case A, item (c): as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 6 Column Case B I, item (c): as specified in section 332(3) (Table: Sl. No. 3, 4, 5 or 7).",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -479,8 +548,8 @@
       "line_start": null,
       "x": null,
       "y_start": null,
-      "column": "case_a",
-      "column_label": "Case A",
+      "column": "case_b_i",
+      "column_label": "Case B I",
       "source_id": "352-4-t6-c"
     },
     {
@@ -491,8 +560,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.; Specified Date: The date of such conversion.; Due Date: The end of such tax year.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 7 Case A: Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.; Specified Date: The date of such conversion.; Due Date: The end of such tax year.",
+      "text": "Case B I: Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.; Specified Date: The date of such conversion.; Due Date: The end of such tax year.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 7 Case B I: Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.; Specified Date: The date of such conversion.; Due Date: The end of such tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -503,8 +572,7 @@
       "y_start": null,
       "row_number": "7",
       "columns": {
-        "case_a": "Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.",
-        "case_b_i": "",
+        "case_b_i": "Where a specified person converts itself into a form which is not eligible for grant of registration during any tax year.",
         "case_b_ii": "",
         "specified_date": "The date of such conversion.",
         "due_date": "The end of such tax year."
@@ -518,8 +586,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.; Specified Date: The date of merger.; Due Date: The date of merger.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 8 Case A: The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.; Specified Date: The date of merger.; Due Date: The date of merger.",
+      "text": "Case B I: The specified person has merged with any other- (a) entity other than a registered non-profit organisation; or (b) registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or (c) registered non-profit organisation that does not have same or similar objects.; Specified Date: The date of merger.; Due Date: The date of merger.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 8 Case B I: The specified person has merged with any other- (a) entity other than a registered non-profit organisation; or (b) registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or (c) registered non-profit organisation that does not have same or similar objects.; Specified Date: The date of merger.; Due Date: The date of merger.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -530,12 +598,77 @@
       "y_start": null,
       "row_number": "8",
       "columns": {
-        "case_a": "The specified person has merged with any other entity other than a registered non-profit organisation having the same or similar objects and the said merger does not fulfil such conditions, as may be prescribed.",
-        "case_b_i": "",
+        "case_b_i": "The specified person has merged with any other- (a) entity other than a registered non-profit organisation; or (b) registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or (c) registered non-profit organisation that does not have same or similar objects.",
         "case_b_ii": "",
         "specified_date": "The date of merger.",
         "due_date": "The date of merger."
       }
+    },
+    {
+      "id": "352-4-table-row-8-case_b_i-a-1",
+      "citation": "Section 352(4) Table, Sl. No. 8, Column Case B I, item (a)",
+      "unit_type": "table_cell_item",
+      "parent_id": "352-4-table-row-8",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "entity other than a registered non-profit organisation; or",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 8 Column Case B I, item (a): entity other than a registered non-profit organisation; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "column": "case_b_i",
+      "column_label": "Case B I",
+      "source_id": "352-4-t8-a"
+    },
+    {
+      "id": "352-4-table-row-8-case_b_i-b-2",
+      "citation": "Section 352(4) Table, Sl. No. 8, Column Case B I, item (b)",
+      "unit_type": "table_cell_item",
+      "parent_id": "352-4-table-row-8",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 8 Column Case B I, item (b): registered non-profit organisation having objects same or similar to it but the said merger does not fulfil such conditions, as may be prescribed; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "column": "case_b_i",
+      "column_label": "Case B I",
+      "source_id": "352-4-t8-b"
+    },
+    {
+      "id": "352-4-table-row-8-case_b_i-c-3",
+      "citation": "Section 352(4) Table, Sl. No. 8, Column Case B I, item (c)",
+      "unit_type": "table_cell_item",
+      "parent_id": "352-4-table-row-8",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "registered non-profit organisation that does not have same or similar objects.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 8 Column Case B I, item (c): registered non-profit organisation that does not have same or similar objects.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "column": "case_b_i",
+      "column_label": "Case B I",
+      "source_id": "352-4-t8-c"
     },
     {
       "id": "352-4-table-row-9",
@@ -545,8 +678,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "Case A: The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.; Specified Date: The date of dissolution.; Due Date: The date on which such period of twelve months expires.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.; Case (A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 9 Case A: The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.; Specified Date: The date of dissolution.; Due Date: The date on which such period of twelve months expires.",
+      "text": "Case B I: The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.; Specified Date: The date of dissolution.; Due Date: The date on which such period of twelve months expires.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(4): The specified person and the principal officer or trustee of such specified person shall be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from the due date specified in column D of the Table below. Table columns: Sl. No.(A); Case (B)(i); Case (B)(ii); Specified date (C); Due date for payment of tax on accreted income (D) Section 352(4) Table, Sl. No. 9 Case B I: The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.; Specified Date: The date of dissolution.; Due Date: The date on which such period of twelve months expires.",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -557,8 +690,7 @@
       "y_start": null,
       "row_number": "9",
       "columns": {
-        "case_a": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
-        "case_b_i": "",
+        "case_b_i": "The specified person has failed to transfer upon dissolution, all its assets to any other registered non-profit organisation within twelve months from the end of the month in which the dissolution takes place.",
         "case_b_ii": "",
         "specified_date": "The date of dissolution.",
         "due_date": "The date on which such period of twelve months expires."
@@ -591,8 +723,8 @@
       "section_id": "352",
       "section_number": "352",
       "title": "Tax on accreted income.",
-      "text": "I = 1% of (T x P), where,— I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.",
-      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P), where,— I = interest; T = tax on accreted income; and P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.",
+      "text": "I = 1% of (T x P)",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P)",
       "act": "Income-tax Act, 2025",
       "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
       "jurisdiction": "India",
@@ -601,6 +733,82 @@
       "line_start": null,
       "x": null,
       "y_start": null
+    },
+    {
+      "id": "352-6-where",
+      "citation": "Section 352(6), Where block",
+      "unit_type": "where_block",
+      "parent_id": "352-6",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P) Section 352(6), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-6-where-I",
+      "citation": "Section 352(6), Where block, Item (I)",
+      "unit_type": "item",
+      "parent_id": "352-6-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "I = interest;",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P) Section 352(6), Where block: Section 352(6), Where block, Item (I): I = interest;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-6-where-T",
+      "citation": "Section 352(6), Where block, Item (T)",
+      "unit_type": "item",
+      "parent_id": "352-6-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "T = tax on accreted income",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P) Section 352(6), Where block: Section 352(6), Where block, Item (T): T = tax on accreted income",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "352-6-where-P",
+      "citation": "Section 352(6), Where block, Item (P)",
+      "unit_type": "item",
+      "parent_id": "352-6-where",
+      "section_id": "352",
+      "section_number": "352",
+      "title": "Tax on accreted income.",
+      "text": "P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.",
+      "retrieval_text": "Section 352 Tax on accreted income. Section 352(6): I = 1% of (T x P) Section 352(6), Where block: Section 352(6), Where block, Item (P): P = number of months beginning on the date immediately after the last date on which such tax was payable and ending with the date on which the tax is actually paid including part thereof.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "CHAPTER XVII - Special provisions relating to certain persons",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
     },
     {
       "id": "352-7",
@@ -764,6 +972,46 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "352-2-where",
+      "to_id": "352-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-2",
+      "to_id": "352-2-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-2-where-A",
+      "to_id": "352-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-2-where",
+      "to_id": "352-2-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-2-where-B",
+      "to_id": "352-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-2-where",
+      "to_id": "352-2-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-2-where-C",
+      "to_id": "352-2-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-2-where",
+      "to_id": "352-2-where-C",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "352-3",
       "to_id": "352",
       "edge_type": "parent"
@@ -824,23 +1072,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-3-case_a-a-1",
+      "from_id": "352-4-table-row-3-case_b_i-a-1",
       "to_id": "352-4-table-row-3",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-3",
-      "to_id": "352-4-table-row-3-case_a-a-1",
+      "to_id": "352-4-table-row-3-case_b_i-a-1",
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-3-case_a-b-2",
+      "from_id": "352-4-table-row-3-case_b_i-b-2",
       "to_id": "352-4-table-row-3",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-3",
-      "to_id": "352-4-table-row-3-case_a-b-2",
+      "to_id": "352-4-table-row-3-case_b_i-b-2",
       "edge_type": "contains"
     },
     {
@@ -854,23 +1102,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-4-case_a-a-1",
+      "from_id": "352-4-table-row-4-case_b_i-a-1",
       "to_id": "352-4-table-row-4",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-4",
-      "to_id": "352-4-table-row-4-case_a-a-1",
+      "to_id": "352-4-table-row-4-case_b_i-a-1",
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-4-case_a-b-2",
+      "from_id": "352-4-table-row-4-case_b_i-b-2",
       "to_id": "352-4-table-row-4",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-4",
-      "to_id": "352-4-table-row-4-case_a-b-2",
+      "to_id": "352-4-table-row-4-case_b_i-b-2",
       "edge_type": "contains"
     },
     {
@@ -884,23 +1132,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-5-case_a-a-1",
+      "from_id": "352-4-table-row-5-case_b_i-a-1",
       "to_id": "352-4-table-row-5",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-5",
-      "to_id": "352-4-table-row-5-case_a-a-1",
+      "to_id": "352-4-table-row-5-case_b_i-a-1",
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-5-case_a-b-2",
+      "from_id": "352-4-table-row-5-case_b_i-b-2",
       "to_id": "352-4-table-row-5",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-5",
-      "to_id": "352-4-table-row-5-case_a-b-2",
+      "to_id": "352-4-table-row-5-case_b_i-b-2",
       "edge_type": "contains"
     },
     {
@@ -914,33 +1162,33 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-a-1",
+      "from_id": "352-4-table-row-6-case_b_i-a-1",
       "to_id": "352-4-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-6",
-      "to_id": "352-4-table-row-6-case_a-a-1",
+      "to_id": "352-4-table-row-6-case_b_i-a-1",
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-b-2",
+      "from_id": "352-4-table-row-6-case_b_i-b-2",
       "to_id": "352-4-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-6",
-      "to_id": "352-4-table-row-6-case_a-b-2",
+      "to_id": "352-4-table-row-6-case_b_i-b-2",
       "edge_type": "contains"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-c-3",
+      "from_id": "352-4-table-row-6-case_b_i-c-3",
       "to_id": "352-4-table-row-6",
       "edge_type": "parent"
     },
     {
       "from_id": "352-4-table-row-6",
-      "to_id": "352-4-table-row-6-case_a-c-3",
+      "to_id": "352-4-table-row-6-case_b_i-c-3",
       "edge_type": "contains"
     },
     {
@@ -961,6 +1209,36 @@
     {
       "from_id": "352-4-table",
       "to_id": "352-4-table-row-8",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-4-table-row-8-case_b_i-a-1",
+      "to_id": "352-4-table-row-8",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-4-table-row-8",
+      "to_id": "352-4-table-row-8-case_b_i-a-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-4-table-row-8-case_b_i-b-2",
+      "to_id": "352-4-table-row-8",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-4-table-row-8",
+      "to_id": "352-4-table-row-8-case_b_i-b-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-4-table-row-8-case_b_i-c-3",
+      "to_id": "352-4-table-row-8",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-4-table-row-8",
+      "to_id": "352-4-table-row-8-case_b_i-c-3",
       "edge_type": "contains"
     },
     {
@@ -991,6 +1269,46 @@
     {
       "from_id": "352",
       "to_id": "352-6",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-6-where",
+      "to_id": "352-6",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-6",
+      "to_id": "352-6-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-6-where-I",
+      "to_id": "352-6-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-6-where",
+      "to_id": "352-6-where-I",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-6-where-T",
+      "to_id": "352-6-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-6-where",
+      "to_id": "352-6-where-T",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "352-6-where-P",
+      "to_id": "352-6-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "352-6-where",
+      "to_id": "352-6-where-P",
       "edge_type": "contains"
     },
     {
@@ -1040,7 +1358,7 @@
       "reference_text": "sub-section (4)"
     },
     {
-      "from_id": "352-2",
+      "from_id": "352-2-where-B",
       "to_id": "352-4",
       "edge_type": "references",
       "reference_text": "sub-section (4)"
@@ -1107,13 +1425,7 @@
       "reference_text": "section 332(3)"
     },
     {
-      "from_id": "352-4-table-row-6",
-      "to_id": "352-4-i",
-      "edge_type": "references",
-      "reference_text": "clause (i)"
-    },
-    {
-      "from_id": "352-4-table-row-6-case_a-a-1",
+      "from_id": "352-4-table-row-6-case_b_i-a-1",
       "to_id": "ext-india-act-1961-43-section-10-23c",
       "edge_type": "references_external",
       "reference_text": "section 10(23C) of the Income-tax Act, 1961 (43 of 1961)",
@@ -1131,13 +1443,13 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-a-1",
+      "from_id": "352-4-table-row-6-case_b_i-a-1",
       "to_id": "352-4-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-b-2",
+      "from_id": "352-4-table-row-6-case_b_i-b-2",
       "to_id": "ext-india-act-1961-43-section-12-1-ac",
       "edge_type": "references_external",
       "reference_text": "section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961)",
@@ -1156,13 +1468,13 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-b-2",
+      "from_id": "352-4-table-row-6-case_b_i-b-2",
       "to_id": "352-4-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
-      "from_id": "352-4-table-row-6-case_a-c-3",
+      "from_id": "352-4-table-row-6-case_b_i-c-3",
       "to_id": "332-3",
       "edge_type": "references",
       "reference_text": "section 332(3)"

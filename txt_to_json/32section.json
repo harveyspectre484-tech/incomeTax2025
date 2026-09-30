@@ -406,56 +406,54 @@
           "y_start": 637.54,
           "page_start": 1,
           "page_end": 1,
-          "text_before_sub_clauses": "marked to market loss or other expected loss as computed as per the income computation and disclosure standards notified under section 276(2);",
-          "sub_clauses": [
+          "text": "marked to market loss or other expected loss as computed as per the income computation and disclosure standards notified under section 276(2);",
+          "sub_clauses": []
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "32-i",
+          "x": 43.59,
+          "y_start": 650.27,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_items": "any expenditure bona fide incurred by a company for the purpose of promoting family planning amongst its employees, subject to the following conditions:—",
+          "items": [
             {
-              "type": "sub_clause",
-              "number": "i",
-              "id": "32-h-i",
-              "x": 43.59,
-              "y_start": 650.27,
+              "type": "item",
+              "number": "A",
+              "id": "32-i-A",
+              "x": 69.13,
+              "y_start": 670.42,
               "page_start": 1,
               "page_end": 1,
-              "text_before_items": "any expenditure bona fide incurred by a company for the purpose of promoting family planning amongst its employees, subject to the following conditions:—",
-              "items": [
-                {
-                  "type": "item",
-                  "number": "A",
-                  "id": "32-h-i-A",
-                  "x": 69.13,
-                  "y_start": 670.42,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "if such expenditure or any part of it is of capital nature, one-fifth of it shall be deducted for the tax year in which it was incurred and the balance shall be deducted in equal instalments for each of the four immediately succeeding tax years;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "B",
-                  "id": "32-h-i-B",
-                  "x": 69.13,
-                  "y_start": 690.58,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the provisions of sections 33(11) and 112(3) shall apply to deduction under this clause as they apply in relation to deductions allowable in respect of depreciation;",
-                  "children": []
-                },
-                {
-                  "type": "item",
-                  "number": "C",
-                  "id": "32-h-i-C",
-                  "x": 68.66,
-                  "y_start": 710.73,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "the provisions of sections 38(1)(c), 39(4) (Table: Sl. No. 9), 45(6) and (10), shall apply to an asset representing capital expenditure for promoting family planning, to the extent they apply to an asset representing capital expenditure on scientific research;",
-                  "children": []
-                }
-              ],
-              "text_after_items": ""
+              "text": "if such expenditure or any part of it is of capital nature, one-fifth of it shall be deducted for the tax year in which it was incurred and the balance shall be deducted in equal instalments for each of the four immediately succeeding tax years;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "B",
+              "id": "32-i-B",
+              "x": 69.13,
+              "y_start": 690.58,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of sections 33(11) and 112(3) shall apply to deduction under this clause as they apply in relation to deductions allowable in respect of depreciation;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "C",
+              "id": "32-i-C",
+              "x": 68.66,
+              "y_start": 710.73,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "the provisions of sections 38(1)(c), 39(4) (Table: Sl. No. 9), 45(6) and (10), shall apply to an asset representing capital expenditure for promoting family planning, to the extent they apply to an asset representing capital expenditure on scientific research;",
+              "children": []
             }
           ],
-          "text_after_sub_clauses": ""
+          "text_after_items": ""
         },
         {
           "type": "clause",

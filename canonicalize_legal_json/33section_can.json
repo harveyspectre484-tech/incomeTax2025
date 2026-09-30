@@ -1066,6 +1066,50 @@
       "source_mentions": [
         "section 5(c) of the Banking Regulation Act, 1949 (10 of 1949)"
       ]
+    },
+    {
+      "id": "ext-india-act-1949-10-section-45-15",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1949-10",
+      "jurisdiction": "India",
+      "act_title": "Banking Regulation Act",
+      "title_year": "1949",
+      "act_number": "10",
+      "act_year": "1949",
+      "official_citation": "10 of 1949",
+      "identity_basis": "official_citation",
+      "locator_text": "section 45(15)",
+      "section": "45",
+      "nested_locators": [
+        "15"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 45(15) of the said Act"
+      ]
+    },
+    {
+      "id": "ext-india-act-1949-10-section-45-7",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1949-10",
+      "jurisdiction": "India",
+      "act_title": "Banking Regulation Act",
+      "title_year": "1949",
+      "act_number": "10",
+      "act_year": "1949",
+      "official_citation": "10 of 1949",
+      "identity_basis": "official_citation",
+      "locator_text": "section 45(7)",
+      "section": "45",
+      "nested_locators": [
+        "7"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 45(7) of that Act"
+      ]
     }
   ],
   "graph_edges": [
@@ -1679,15 +1723,39 @@
     },
     {
       "from_id": "33-12-c",
-      "to_id": "45-15",
-      "edge_type": "references",
-      "reference_text": "section 45(15)"
+      "to_id": "ext-india-act-1949-10-section-45-15",
+      "edge_type": "references_external",
+      "reference_text": "section 45(15) of the said Act",
+      "target_act_id": "ext-india-act-1949-10",
+      "target_act_title": "Banking Regulation Act",
+      "target_section": "45",
+      "target_nested_locators": [
+        "15"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "10",
+      "target_act_year": "1949",
+      "target_act_title_year": "1949",
+      "target_official_citation": "10 of 1949",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "33-12-c",
-      "to_id": "45-7",
-      "edge_type": "references",
-      "reference_text": "section 45(7)"
+      "to_id": "ext-india-act-1949-10-section-45-7",
+      "edge_type": "references_external",
+      "reference_text": "section 45(7) of that Act",
+      "target_act_id": "ext-india-act-1949-10",
+      "target_act_title": "Banking Regulation Act",
+      "target_section": "45",
+      "target_nested_locators": [
+        "7"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "10",
+      "target_act_year": "1949",
+      "target_act_title_year": "1949",
+      "target_official_citation": "10 of 1949",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "33-12-d",

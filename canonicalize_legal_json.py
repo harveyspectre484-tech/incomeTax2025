@@ -17,6 +17,10 @@ DIRECT_TEXT_KEYS = (
     "text_after_sub_clauses",
     "text_before_items",
     "text_after_items",
+    "text_before_sub_items",
+    "text_after_sub_items",
+    "text_before_conditions",
+    "text_after_conditions",
     "text_before_table",
     "text_after_table",
     "intro",
@@ -28,10 +32,24 @@ CHILD_LIST_KEYS = (
     "clauses",
     "sub_clauses",
     "items",
+    "sub_items",
+    "conditions",
     "children",
 )
 
-STRUCTURAL_KEYS = set(DIRECT_TEXT_KEYS + CHILD_LIST_KEYS + ("table",))
+BLOCK_KEYS = (
+    "where_block",
+    "exclusion_block",
+    "explanation_block",
+)
+
+BLOCK_LABELS = {
+    "where_block": "Where block",
+    "exclusion_block": "Exclusion block",
+    "explanation_block": "Explanation block",
+}
+
+STRUCTURAL_KEYS = set(DIRECT_TEXT_KEYS + CHILD_LIST_KEYS + BLOCK_KEYS + ("table",))
 
 
 @dataclass
@@ -45,12 +63,16 @@ class Canonicalizer:
     external_nodes: list[dict[str, Any]] = field(default_factory=list)
     external_nodes_by_id: dict[str, dict[str, Any]] = field(default_factory=dict)
     external_act_registry: dict[tuple[str, str], dict[str, str]] = field(default_factory=dict)
+    reference_aliases: dict[str, str] = field(default_factory=dict)
+    reference_scan_text_by_unit_id: dict[str, str] = field(default_factory=dict)
 
     def convert(self, raw: dict[str, Any]) -> dict[str, Any]:
         if not self.external_act_registry:
             self.external_act_registry = discover_external_act_registry([raw])
+        if not self.reference_aliases:
+            self.reference_aliases = discover_reference_aliases([raw])
         section_numbers: list[str] = []
-        for section in raw.get("sections", []):
+        for section in iter_source_sections(raw):
             section_numbers.append(str(section.get("number", "")))
             self.add_section(section)
         self.add_reference_edges()
@@ -85,6 +107,18 @@ class Canonicalizer:
             title=title,
             text=section_text,
             context_text=section_context,
+            act=act,
+            chapter=chapter,
+        )
+
+        self.add_attached_blocks(
+            source=section,
+            parent_id=section_id,
+            parent_citation=section_citation,
+            section_id=section_id,
+            section_number=section_number,
+            title=title,
+            ancestor_context=section_context,
             act=act,
             chapter=chapter,
         )
@@ -169,6 +203,18 @@ class Canonicalizer:
             chapter=chapter,
         )
 
+        self.add_attached_blocks(
+            source=node,
+            parent_id=unit_id,
+            parent_citation=citation,
+            section_id=section_id,
+            section_number=section_number,
+            title=title,
+            ancestor_context=context_text,
+            act=act,
+            chapter=chapter,
+        )
+
         if inline_split:
             self.add_inline_clause_units(
                 source=node,
@@ -200,6 +246,8 @@ class Canonicalizer:
             ("clauses", "clause"),
             ("sub_clauses", "sub_clause"),
             ("items", "item"),
+            ("sub_items", "sub_item"),
+            ("conditions", "condition"),
             ("children", "item"),
         ]
         for child_key, child_type in child_specs:
@@ -236,6 +284,146 @@ class Canonicalizer:
                 act=act,
                 chapter=chapter,
             )
+
+    def add_attached_blocks(
+        self,
+        source: dict[str, Any],
+        parent_id: str,
+        parent_citation: str,
+        section_id: str,
+        section_number: str,
+        title: str,
+        ancestor_context: str,
+        act: str,
+        chapter: str,
+    ) -> None:
+        for block_key in BLOCK_KEYS:
+            block = source.get(block_key)
+            if not isinstance(block, dict):
+                continue
+            block_type = normalize_type(block.get("type") or block_key)
+            block_label = BLOCK_LABELS.get(block_type, humanize_key(block_type))
+            block_id = str(block.get("id") or f"{parent_id}-{slug(block_type)}")
+            block_citation = f"{parent_citation}, {block_label}"
+            block_text = render_node_own_text(block)
+            block_context = join_text(ancestor_context, f"{block_citation}: {block_text}")
+
+            self.add_unit(
+                source=block,
+                unit_id=block_id,
+                citation=block_citation,
+                unit_type=block_type,
+                parent_id=parent_id,
+                section_id=section_id,
+                section_number=section_number,
+                title=title,
+                text=block_text,
+                context_text=block_context,
+                act=act,
+                chapter=chapter,
+            )
+
+            for child_key, child_type in (
+                ("clauses", "clause"),
+                ("sub_clauses", "sub_clause"),
+                ("items", "item"),
+                ("sub_items", "sub_item"),
+                ("conditions", "condition"),
+                ("children", "item"),
+            ):
+                for child in block.get(child_key, []) or []:
+                    if isinstance(child, dict):
+                        self.add_block_child(
+                            node=child,
+                            fallback_type=child_type,
+                            parent_id=block_id,
+                            parent_citation=block_citation,
+                            section_id=section_id,
+                            section_number=section_number,
+                            title=title,
+                            ancestor_context=block_context,
+                            act=act,
+                            chapter=chapter,
+                        )
+
+    def add_block_child(
+        self,
+        node: dict[str, Any],
+        fallback_type: str,
+        parent_id: str,
+        parent_citation: str,
+        section_id: str,
+        section_number: str,
+        title: str,
+        ancestor_context: str,
+        act: str,
+        chapter: str,
+    ) -> None:
+        unit_type = normalize_type(node.get("type") or fallback_type)
+        marker = node.get("number") or node.get("marker") or node.get("letter") or node.get("numeral")
+        marker_text = str(marker) if marker is not None else "item"
+        source_id = str(node.get("id") or "")
+        derived_id = f"{parent_id}-{slug(marker_text)}"
+        unit_id = source_id if source_id.startswith(f"{section_number}-") else derived_id
+        label = {
+            "clause": "Clause",
+            "sub_clause": "Sub-clause",
+            "item": "Item",
+        }.get(unit_type, humanize_key(unit_type))
+        citation = f"{parent_citation}, {label} ({marker_text})"
+        text = render_node_own_text(node)
+        context_text = join_text(ancestor_context, f"{citation}: {text}")
+
+        self.add_unit(
+            source=node,
+            unit_id=unit_id,
+            citation=citation,
+            unit_type=unit_type,
+            parent_id=parent_id,
+            section_id=section_id,
+            section_number=section_number,
+            title=title,
+            text=text,
+            context_text=context_text,
+            act=act,
+            chapter=chapter,
+            extra={"source_id": source_id} if source_id and source_id != unit_id else None,
+        )
+
+        self.add_attached_blocks(
+            source=node,
+            parent_id=unit_id,
+            parent_citation=citation,
+            section_id=section_id,
+            section_number=section_number,
+            title=title,
+            ancestor_context=context_text,
+            act=act,
+            chapter=chapter,
+        )
+
+        for child_key, child_type in (
+            ("clauses", "clause"),
+            ("sub_clauses", "sub_clause"),
+            ("items", "item"),
+            ("sub_items", "sub_item"),
+            ("conditions", "condition"),
+            ("children", "item"),
+        ):
+            for child in node.get(child_key, []) or []:
+                if isinstance(child, dict):
+                    self.add_block_child(
+                        node=child,
+                        fallback_type=child_type,
+                        parent_id=unit_id,
+                        parent_citation=citation,
+                        section_id=section_id,
+                        section_number=section_number,
+                        title=title,
+                        ancestor_context=context_text,
+                        act=act,
+                        chapter=chapter,
+                    )
 
     def add_longline(
         self,
@@ -405,12 +593,25 @@ class Canonicalizer:
         act: str,
         chapter: str,
     ) -> None:
+        if isinstance(cell, list):
+            cell = {"items": cell}
         if not isinstance(cell, dict):
             return
         if not has_nested_legal_items(cell):
             return
 
         column_label = humanize_key(column_key)
+        self.add_attached_blocks(
+            source=cell,
+            parent_id=row_id,
+            parent_citation=f"{row_citation}, Column {column_label}",
+            section_id=section_id,
+            section_number=section_number,
+            title=title,
+            ancestor_context=ancestor_context,
+            act=act,
+            chapter=chapter,
+        )
         for seq, item in enumerate(iter_nested_items(cell), start=1):
             marker = item.get("marker") or item.get("letter") or item.get("number") or item.get("numeral") or seq
             item_id = f"{row_id}-{slug(column_key)}-{slug(str(marker))}-{seq}"
@@ -441,6 +642,17 @@ class Canonicalizer:
                     "source_id": item.get("id"),
                 },
                 already_unique=True,
+            )
+            self.add_attached_blocks(
+                source=item,
+                parent_id=item_id,
+                parent_citation=item_citation,
+                section_id=section_id,
+                section_number=section_number,
+                title=title,
+                ancestor_context=item_context,
+                act=act,
+                chapter=chapter,
             )
 
     def add_inline_clause_units(
@@ -521,6 +733,7 @@ class Canonicalizer:
         if extra:
             unit.update(extra)
         self.units.append(unit)
+        self.reference_scan_text_by_unit_id[final_id] = render_reference_scan_text(source, text)
         if parent_id is not None:
             self.add_edge(final_id, str(parent_id), "parent")
             self.add_edge(str(parent_id), final_id, "contains")
@@ -560,7 +773,7 @@ class Canonicalizer:
         units_by_id = {str(unit["id"]): unit for unit in self.units}
         for unit in self.units:
             source_id = str(unit["id"])
-            text = clean(unit.get("text", ""))
+            text = clean(self.reference_scan_text_by_unit_id.get(source_id, unit.get("text", "")))
             if not text:
                 continue
             references, external_nodes = extract_references(
@@ -568,6 +781,7 @@ class Canonicalizer:
                 text,
                 units_by_id,
                 self.external_act_registry,
+                self.reference_aliases,
             )
             for external_node in external_nodes:
                 self.add_external_node(external_node)
@@ -589,6 +803,33 @@ class Canonicalizer:
             counter += 1
         self.seen_ids.add(candidate)
         return candidate
+
+
+def iter_source_sections(raw: dict[str, Any]):
+    seen: set[str] = set()
+    for section in raw.get("sections", []) or []:
+        if not isinstance(section, dict):
+            continue
+        identity = str(section.get("id") or section.get("number") or id(section))
+        seen.add(identity)
+        yield section
+
+    for chapter in raw.get("chapters", []) or []:
+        if not isinstance(chapter, dict):
+            continue
+        for section in chapter.get("sections", []) or []:
+            if not isinstance(section, dict):
+                continue
+            identity = str(section.get("id") or section.get("number") or id(section))
+            if identity in seen:
+                continue
+            seen.add(identity)
+            if section.get("chapter"):
+                yield section
+            else:
+                section_with_chapter = dict(section)
+                section_with_chapter["chapter"] = chapter.get("number") or chapter.get("title", "")
+                yield section_with_chapter
 
 
 def detect_misnested_longline(node: dict[str, Any]) -> dict[str, Any] | None:
@@ -647,6 +888,26 @@ def render_node_own_text(node: dict[str, Any], exclude_keys: set[str] | None = N
     return join_text(*parts)
 
 
+def render_reference_scan_text(source: dict[str, Any], fallback_text: str) -> str:
+    """Repair an Act title split into a false word-labelled item by source parsing."""
+    before = clean(source.get("text_before_clauses", ""))
+    if not before:
+        return clean(fallback_text)
+    continuation = next(
+        (
+            clean(item.get("text", ""))
+            for item in source.get("items", []) or []
+            if isinstance(item, dict)
+            and clean(item.get("text", "")).lower().startswith("act,")
+            and len(clean(item.get("number") or item.get("marker") or "")) > 1
+        ),
+        "",
+    )
+    if not continuation:
+        return clean(fallback_text)
+    return join_text(before, continuation, source.get("text_after_clauses", ""))
+
+
 ACT_TITLE_TOKEN = r"(?:[A-Z][A-Za-z0-9&'’.-]*|of|and|the|for|to|with|in|on|or|tax|\([^)]{1,120}\))"
 EXTERNAL_ACT_PATTERN = re.compile(
     rf"(?P<title>(?!Act\b)[A-Z][A-Za-z0-9&'’.-]*(?:\s+{ACT_TITLE_TOKEN})*\s+Act),?\s*"
@@ -666,11 +927,13 @@ def extract_references(
     text: str,
     units_by_id: dict[str, dict[str, Any]],
     external_act_registry: dict[tuple[str, str], dict[str, str]],
+    reference_aliases: dict[str, str],
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     references: list[dict[str, Any]] = []
     external_nodes: list[dict[str, Any]] = []
     seen: set[tuple[str, str, str]] = set()
     consumed_spans: list[tuple[int, int]] = []
+    external_act_mentions: list[dict[str, Any]] = []
 
     def add(target_id: str, reference_text: str, edge_type: str = "references", **metadata: Any) -> None:
         key = (target_id, clean(reference_text).lower(), edge_type)
@@ -684,6 +947,51 @@ def extract_references(
                 "reference_text": clean(reference_text),
                 **metadata,
             }
+        )
+
+    def add_external_provision(
+        act: dict[str, Any],
+        section: str,
+        nested: list[str],
+        reference_text: str,
+    ) -> None:
+        locator_parts = [section, *nested]
+        provision_id = f"{act['act_id']}-section-" + "-".join(slug(part).lower() for part in locator_parts)
+        locator_text = f"section {section}" + "".join(f"({part})" for part in nested)
+        external_nodes.append(
+            {
+                "id": provision_id,
+                "node_type": "external_provision_placeholder",
+                "parent_id": act["act_id"],
+                "jurisdiction": "India",
+                "act_title": act["act_title"],
+                "title_year": act["title_year"],
+                "act_number": act["act_number"],
+                "act_year": act["act_year"],
+                "official_citation": act["official_citation"],
+                "identity_basis": act["identity_basis"],
+                "locator_text": locator_text,
+                "section": section,
+                "nested_locators": nested,
+                "resolution_status": act["resolution_status"],
+                "title_year_differs_from_enactment_year": act["year_difference"],
+                "source_mentions": [clean(reference_text)],
+            }
+        )
+        add(
+            provision_id,
+            reference_text,
+            "references_external",
+            target_act_id=act["act_id"],
+            target_act_title=act["act_title"],
+            target_section=section,
+            target_nested_locators=nested,
+            resolution_status=act["resolution_status"],
+            target_act_number=act["act_number"],
+            target_act_year=act["act_year"],
+            target_act_title_year=act["title_year"],
+            target_official_citation=act["official_citation"],
+            target_identity_basis=act["identity_basis"],
         )
 
     for act_match in EXTERNAL_ACT_PATTERN.finditer(text):
@@ -715,6 +1023,20 @@ def extract_references(
         year_difference = bool(act_year and title_year != act_year)
         resolution_status = "external_act_not_ingested"
         act_reference_text = clean(act_match.group(0))
+        act = {
+            "act_id": act_id,
+            "act_title": act_title,
+            "title_year": title_year,
+            "act_number": act_number,
+            "act_year": act_year,
+            "official_citation": official_citation,
+            "identity_basis": identity_basis,
+            "resolution_status": resolution_status,
+            "year_difference": year_difference,
+            "match_start": act_match.start(),
+            "match_end": act_match.end(),
+        }
+        external_act_mentions.append(act)
         external_nodes.append(
             {
                 "id": act_id,
@@ -742,62 +1064,50 @@ def extract_references(
             if leading_clause:
                 nested.append(leading_clause)
             section = locator_match.group("section")
-            locator_parts = [section, *nested]
-            provision_id = f"{act_id}-section-" + "-".join(slug(part).lower() for part in locator_parts)
             reference_start = prefix_start + locator_match.start("full")
             reference_text = text[reference_start : act_match.end()]
             consumed_spans.append((reference_start, act_match.end()))
-            locator_text = f"section {section}" + "".join(f"({part})" for part in nested)
-            external_nodes.append(
-                {
-                    "id": provision_id,
-                    "node_type": "external_provision_placeholder",
-                    "parent_id": act_id,
-                    "jurisdiction": "India",
-                    "act_title": act_title,
-                    "title_year": title_year,
-                    "act_number": act_number,
-                    "act_year": act_year,
-                    "official_citation": official_citation,
-                    "identity_basis": identity_basis,
-                    "locator_text": locator_text,
-                    "section": section,
-                    "nested_locators": nested,
-                    "resolution_status": resolution_status,
-                    "title_year_differs_from_enactment_year": year_difference,
-                    "source_mentions": [clean(reference_text)],
-                }
-            )
-            add(
-                provision_id,
-                reference_text,
-                "references_external",
-                target_act_id=act_id,
-                target_act_title=act_title,
-                target_section=section,
-                target_nested_locators=nested,
-                resolution_status=resolution_status,
-                target_act_number=act_number,
-                target_act_year=act_year,
-                target_act_title_year=title_year,
-                target_official_citation=official_citation,
-                target_identity_basis=identity_basis,
-            )
+            add_external_provision(act, section, nested, reference_text)
         else:
-            consumed_spans.append(act_match.span())
-            add(
-                act_id,
-                act_reference_text,
-                "references_external_act",
-                target_act_id=act_id,
-                target_act_title=act_title,
-                resolution_status=resolution_status,
-                target_act_number=act_number,
-                target_act_year=act_year,
-                target_act_title_year=title_year,
-                target_official_citation=official_citation,
-                target_identity_basis=identity_basis,
-            )
+            compound = find_compound_external_locators(prefix)
+            if compound:
+                compound_start, locators = compound
+                reference_start = prefix_start + compound_start
+                reference_text = text[reference_start : act_match.end()]
+                consumed_spans.append((reference_start, act_match.end()))
+                for section, nested in locators:
+                    add_external_provision(act, section, nested, reference_text)
+            else:
+                consumed_spans.append(act_match.span())
+                add(
+                    act_id,
+                    act_reference_text,
+                    "references_external_act",
+                    target_act_id=act_id,
+                    target_act_title=act_title,
+                    resolution_status=resolution_status,
+                    target_act_number=act_number,
+                    target_act_year=act_year,
+                    target_act_title_year=title_year,
+                    target_official_citation=official_citation,
+                    target_identity_basis=identity_basis,
+                )
+
+    for match in re.finditer(
+        r"\bsection\s+(\d+[A-Z-]*)(?P<nested>(?:\([a-z0-9]+\)){0,4})\s+of\s+"
+        r"(?:the\s+)?(?:said|that)\s+Act\b",
+        text,
+        flags=re.IGNORECASE,
+    ):
+        if overlaps_any(match.span(), consumed_spans):
+            continue
+        preceding_acts = [act for act in external_act_mentions if act["match_start"] < match.start()]
+        if not preceding_acts:
+            continue
+        act = max(preceding_acts, key=lambda item: item["match_start"])
+        nested = re.findall(r"\(([a-z0-9]+)\)", match.group("nested"), flags=re.IGNORECASE)
+        add_external_provision(act, match.group(1), nested, match.group(0))
+        consumed_spans.append(match.span())
 
     for match in re.finditer(
         r"\bsection\s+(\d+[A-Z-]*)(?:\(([a-z0-9]+)\))?(?:\(([a-z0-9]+)\))?",
@@ -807,7 +1117,8 @@ def extract_references(
         if overlaps_any(match.span(), consumed_spans):
             continue
         parts = [match.group(1), match.group(2), match.group(3)]
-        add("-".join(part for part in parts if part), match.group(0))
+        target_id = "-".join(part for part in parts if part)
+        add(reference_aliases.get(target_id, target_id), match.group(0))
 
     section_number = str(source_unit.get("section_number", ""))
     for match in re.finditer(
@@ -826,8 +1137,9 @@ def extract_references(
         if overlaps_any(match.span(), consumed_spans):
             continue
         marker = match.group(1).lower()
-        target_id = resolve_relative_clause(source_unit, marker, units_by_id)
-        add(target_id, match.group(0))
+        target_id = resolve_contextual_clause(source_unit, marker, text, match, units_by_id)
+        if target_id:
+            add(target_id, match.group(0))
 
     for match in re.finditer(r"\bSchedule\s+([IVXLCDM]+|\d+)\b", text, flags=re.IGNORECASE):
         if overlaps_any(match.span(), consumed_spans):
@@ -837,6 +1149,62 @@ def extract_references(
         add(f"schedule-{schedule_number}", match.group(0))
 
     return references, external_nodes
+
+
+def find_compound_external_locators(prefix: str) -> tuple[int, list[tuple[str, list[str]]]] | None:
+    """Parse locators that share one trailing external Act name."""
+    candidates = list(
+        re.finditer(
+            r"(?<!-)\bsection\s+(?P<body>[^.;:]{1,180}?)\s+of\s+(?:the\s+)?$",
+            prefix,
+            flags=re.IGNORECASE,
+        )
+    )
+    if not candidates:
+        return None
+
+    candidate = candidates[-1]
+    body = candidate.group("body")
+    token_pattern = re.compile(
+        r"\d+[A-Z-]*(?:\([a-z0-9]+\)){0,4}|\([a-z0-9]+\)",
+        flags=re.IGNORECASE,
+    )
+    tokens = list(token_pattern.finditer(body))
+    if len(tokens) < 2 or tokens[0].start() != 0:
+        return None
+
+    cursor = 0
+    for token in tokens:
+        gap = body[cursor : token.start()]
+        if cursor and not re.fullmatch(r"\s*(?:,|and|or|and/or)?\s*", gap, flags=re.IGNORECASE):
+            return None
+        cursor = token.end()
+    if body[cursor:].strip():
+        return None
+
+    locators: list[tuple[str, list[str]]] = []
+    current_section = ""
+    current_nested: list[str] = []
+    for token_match in tokens:
+        token = token_match.group(0)
+        if token.startswith("("):
+            if not current_section:
+                return None
+            marker = token[1:-1]
+            current_nested = [*current_nested[:-1], marker]
+        else:
+            locator = re.fullmatch(
+                r"(?P<section>\d+[A-Z-]*)(?P<nested>(?:\([a-z0-9]+\)){0,4})",
+                token,
+                flags=re.IGNORECASE,
+            )
+            if not locator:
+                return None
+            current_section = locator.group("section")
+            current_nested = re.findall(r"\(([a-z0-9]+)\)", locator.group("nested"), flags=re.IGNORECASE)
+        locators.append((current_section, list(current_nested)))
+
+    return candidate.start(), locators
 
 
 def overlaps_any(span: tuple[int, int], consumed_spans: list[tuple[int, int]]) -> bool:
@@ -876,6 +1244,42 @@ def discover_external_act_registry(raw_documents: list[dict[str, Any]]) -> dict[
         act_number, act_year = next(iter(official_ids))
         registry[key] = {"act_number": act_number, "act_year": act_year}
     return registry
+
+
+def discover_reference_aliases(raw_documents: list[dict[str, Any]]) -> dict[str, str]:
+    """Map statutory shorthand such as section 70(zd) to section 70(1)(zd)."""
+    aliases: dict[str, str] = {}
+    ambiguous: set[str] = set()
+    for raw in raw_documents:
+        for section in iter_source_sections(raw):
+            section_number = str(section.get("number", ""))
+            subsection_one = next(
+                (
+                    subsection
+                    for subsection in section.get("subsections", []) or []
+                    if str(subsection.get("number", "")) == "1"
+                ),
+                None,
+            )
+            if not subsection_one:
+                continue
+            for child_key in ("clauses", "items", "children"):
+                for child in subsection_one.get(child_key, []) or []:
+                    if not isinstance(child, dict):
+                        continue
+                    marker = child.get("number") or child.get("marker") or child.get("letter")
+                    child_id = child.get("id")
+                    if marker is None or not child_id:
+                        continue
+                    alias = f"{section_number}-{marker}"
+                    target = str(child_id)
+                    if alias in aliases and aliases[alias] != target:
+                        ambiguous.add(alias)
+                    else:
+                        aliases[alias] = target
+    for alias in ambiguous:
+        aliases.pop(alias, None)
+    return aliases
 
 
 def iter_string_values(value: Any):
@@ -918,6 +1322,25 @@ def resolve_relative_clause(
     section_id = str(source_unit.get("section_id") or source_unit.get("section_number", ""))
     parent_by_id = {unit_id: unit.get("parent_id") for unit_id, unit in units_by_id.items()}
 
+    if source_unit.get("unit_type") == "table_cell_item":
+        source_sequence = table_item_sequence(source_id)
+        sibling_candidates: list[tuple[int, str]] = []
+        for unit_id, unit in units_by_id.items():
+            if unit.get("unit_type") != "table_cell_item":
+                continue
+            if unit.get("parent_id") != source_unit.get("parent_id"):
+                continue
+            if unit.get("column") != source_unit.get("column"):
+                continue
+            match = re.search(rf"-{re.escape(marker)}-(\d+)$", unit_id, flags=re.IGNORECASE)
+            if not match:
+                continue
+            sequence = int(match.group(1))
+            if source_sequence is None or sequence < source_sequence:
+                sibling_candidates.append((sequence, unit_id))
+        if sibling_candidates:
+            return max(sibling_candidates)[1]
+
     ancestor_ids: list[str] = []
     current_id: str | None = source_id
     while current_id and current_id not in ancestor_ids:
@@ -951,6 +1374,44 @@ def resolve_relative_clause(
     if len(candidates) == 1:
         return candidates[0]
     return direct_id
+
+
+def resolve_contextual_clause(
+    source_unit: dict[str, Any],
+    marker: str,
+    text: str,
+    match: re.Match[str],
+    units_by_id: dict[str, dict[str, Any]],
+) -> str | None:
+    if source_unit.get("unit_type") == "table_row" and any(
+        unit.get("unit_type") == "table_cell_item" and unit.get("parent_id") == source_unit.get("id")
+        for unit in units_by_id.values()
+    ):
+        return None
+
+    following = text[match.end() : match.end() + 60]
+    explicit_subsection = re.match(
+        r"\s+of\s+(?:sub-?section)\s+\((\d+[a-z]*)\)",
+        following,
+        flags=re.IGNORECASE,
+    )
+    section_number = str(source_unit.get("section_number", ""))
+    if explicit_subsection:
+        return f"{section_number}-{explicit_subsection.group(1)}-{marker}"
+
+    if re.match(r"\s+thereof\b", following, flags=re.IGNORECASE):
+        prior_subsections = list(
+            re.finditer(r"\bsub-?section\s+\((\d+[a-z]*)\)", text[: match.start()], flags=re.IGNORECASE)
+        )
+        if prior_subsections:
+            return f"{section_number}-{prior_subsections[-1].group(1)}-{marker}"
+
+    return resolve_relative_clause(source_unit, marker, units_by_id)
+
+
+def table_item_sequence(unit_id: str) -> int | None:
+    match = re.search(r"-(\d+)$", unit_id)
+    return int(match.group(1)) if match else None
 
 
 def is_descendant_of(unit_id: str, ancestor_id: str, parent_by_id: dict[str, Any]) -> bool:
@@ -1027,13 +1488,20 @@ def iter_nested_items(cell: dict[str, Any]) -> list[dict[str, Any]]:
 
 
 def has_nested_legal_items(cell: dict[str, Any]) -> bool:
-    return any(isinstance(cell.get(key), list) and cell.get(key) for key in CHILD_LIST_KEYS) or bool(cell.get("formula"))
+    return (
+        any(isinstance(cell.get(key), list) and cell.get(key) for key in CHILD_LIST_KEYS)
+        or any(isinstance(cell.get(key), dict) for key in BLOCK_KEYS)
+        or bool(cell.get("formula"))
+    )
 
 
 def has_explicit_children(node: dict[str, Any]) -> bool:
     if isinstance(node.get("table"), dict):
         return True
-    return any(isinstance(node.get(key), list) and bool(node.get(key)) for key in CHILD_LIST_KEYS)
+    return (
+        any(isinstance(node.get(key), list) and bool(node.get(key)) for key in CHILD_LIST_KEYS)
+        or any(isinstance(node.get(key), dict) for key in BLOCK_KEYS)
+    )
 
 
 def split_inline_lettered_clauses(text: str) -> tuple[str, list[tuple[str, str]]] | None:
@@ -1123,11 +1591,13 @@ def main() -> None:
         input_files = sorted(input_path.glob("*section.json"), key=path_section_sort_key)
         raw_documents = [json.loads(raw_path.read_text(encoding="utf-8")) for raw_path in input_files]
         external_act_registry = discover_external_act_registry(raw_documents)
+        reference_aliases = discover_reference_aliases(raw_documents)
         for raw_path, raw in zip(input_files, raw_documents):
             result = Canonicalizer(
                 act_name=args.act_name,
                 jurisdiction=args.jurisdiction,
                 external_act_registry=external_act_registry,
+                reference_aliases=reference_aliases,
             ).convert(raw)
             # Preserve one output per source file. A mismatched section number
             # must be exposed by validation, not overwrite another section.

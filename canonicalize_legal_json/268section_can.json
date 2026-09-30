@@ -573,6 +573,28 @@
       "source_mentions": [
         "section 2(1)(b) of the Cost and Works Accountants Act, 1959 (23 of 1959)"
       ]
+    },
+    {
+      "id": "ext-india-act-1959-23-section-6-1",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1959-23",
+      "jurisdiction": "India",
+      "act_title": "Cost and Works Accountants Act",
+      "title_year": "1959",
+      "act_number": "23",
+      "act_year": "1959",
+      "official_citation": "23 of 1959",
+      "identity_basis": "official_citation",
+      "locator_text": "section 6(1)",
+      "section": "6",
+      "nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 6(1) of the said Act"
+      ]
     }
   ],
   "graph_edges": [
@@ -969,9 +991,21 @@
     },
     {
       "from_id": "268-13",
-      "to_id": "6-1",
-      "edge_type": "references",
-      "reference_text": "section 6(1)"
+      "to_id": "ext-india-act-1959-23-section-6-1",
+      "edge_type": "references_external",
+      "reference_text": "section 6(1) of the said Act",
+      "target_act_id": "ext-india-act-1959-23",
+      "target_act_title": "Cost and Works Accountants Act",
+      "target_section": "6",
+      "target_nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "23",
+      "target_act_year": "1959",
+      "target_act_title_year": "1959",
+      "target_official_citation": "23 of 1959",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

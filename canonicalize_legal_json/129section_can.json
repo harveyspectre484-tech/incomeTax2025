@@ -251,6 +251,29 @@
       ]
     },
     {
+      "id": "ext-india-act-1961-43-section-80g-2-a",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "official_citation",
+      "locator_text": "section 80G(2)(a)",
+      "section": "80G",
+      "nested_locators": [
+        "2",
+        "a"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 80G(2)(a) of the said Act"
+      ]
+    },
+    {
       "id": "ext-india-act-1949-10",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -264,6 +287,26 @@
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
         "Banking Regulation Act, 1949 (10 of 1949)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1949-10-section-51",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1949-10",
+      "jurisdiction": "India",
+      "act_title": "Banking Regulation Act",
+      "title_year": "1949",
+      "act_number": "10",
+      "act_year": "1949",
+      "official_citation": "10 of 1949",
+      "identity_basis": "official_citation",
+      "locator_text": "section 51",
+      "section": "51",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 51 of that Act"
       ]
     }
   ],
@@ -394,9 +437,22 @@
     },
     {
       "from_id": "129-3-a",
-      "to_id": "80G-2-a",
-      "edge_type": "references",
-      "reference_text": "section 80G(2)(a)"
+      "to_id": "ext-india-act-1961-43-section-80g-2-a",
+      "edge_type": "references_external",
+      "reference_text": "section 80G(2)(a) of the said Act",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "80G",
+      "target_nested_locators": [
+        "2",
+        "a"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "129-3-b",
@@ -414,9 +470,19 @@
     },
     {
       "from_id": "129-3-b",
-      "to_id": "51",
-      "edge_type": "references",
-      "reference_text": "section 51"
+      "to_id": "ext-india-act-1949-10-section-51",
+      "edge_type": "references_external",
+      "reference_text": "section 51 of that Act",
+      "target_act_id": "ext-india-act-1949-10",
+      "target_act_title": "Banking Regulation Act",
+      "target_section": "51",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "10",
+      "target_act_year": "1949",
+      "target_act_title_year": "1949",
+      "target_official_citation": "10 of 1949",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

@@ -493,6 +493,7 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
+        "section 242 of the said Act",
         "section 242 of the Companies Act, 2013 (18 of 2013)"
       ]
     },
@@ -770,9 +771,19 @@
     },
     {
       "from_id": "119-4-d-i",
-      "to_id": "242",
-      "edge_type": "references",
-      "reference_text": "section 242"
+      "to_id": "ext-india-act-2013-18-section-242",
+      "edge_type": "references_external",
+      "reference_text": "section 242 of the said Act",
+      "target_act_id": "ext-india-act-2013-18",
+      "target_act_title": "Companies Act",
+      "target_section": "242",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "18",
+      "target_act_year": "2013",
+      "target_act_title_year": "2013",
+      "target_official_citation": "18 of 2013",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "119-4-d-ii",

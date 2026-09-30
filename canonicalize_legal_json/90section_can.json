@@ -1068,6 +1068,44 @@
       ]
     },
     {
+      "id": "ext-india-act-1956-42",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Securities Contracts Act",
+      "title_year": "1956",
+      "act_number": "42",
+      "act_year": "1956",
+      "official_citation": "42 of 1956",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Securities Contracts Act, 1956 (42 of 1956)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1956-42-section-2-h",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1956-42",
+      "jurisdiction": "India",
+      "act_title": "Securities Contracts Act",
+      "title_year": "1956",
+      "act_number": "42",
+      "act_year": "1956",
+      "official_citation": "42 of 1956",
+      "identity_basis": "official_citation",
+      "locator_text": "section 2(h)",
+      "section": "2",
+      "nested_locators": [
+        "h"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(h) of the Securities Contracts Act, 1956 (42 of 1956)"
+      ]
+    },
+    {
       "id": "ext-india-act-1992-15",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -1685,9 +1723,21 @@
     },
     {
       "from_id": "90-5",
-      "to_id": "2-h",
-      "edge_type": "references",
-      "reference_text": "section 2(h)"
+      "to_id": "ext-india-act-1956-42-section-2-h",
+      "edge_type": "references_external",
+      "reference_text": "section 2(h) of the Securities Contracts Act, 1956 (42 of 1956)",
+      "target_act_id": "ext-india-act-1956-42",
+      "target_act_title": "Securities Contracts Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "h"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "42",
+      "target_act_year": "1956",
+      "target_act_title_year": "1956",
+      "target_official_citation": "42 of 1956",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "90-5",

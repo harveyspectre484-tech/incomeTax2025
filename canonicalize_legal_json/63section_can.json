@@ -544,18 +544,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "63-1-table-row-1",
-      "to_id": "63-1-table-row-1-conditions_for_getting_books_of_account_audited-b-2",
-      "edge_type": "references",
-      "reference_text": "clause (b)"
-    },
-    {
-      "from_id": "63-1-table-row-1",
-      "to_id": "63-1-table-row-1-conditions_for_getting_books_of_account_audited-a-1",
-      "edge_type": "references",
-      "reference_text": "clause (a)"
-    },
-    {
       "from_id": "63-1-table-row-1-conditions_for_getting_books_of_account_audited-a-1",
       "to_id": "63-1-table-row-1-conditions_for_getting_books_of_account_audited-b-2",
       "edge_type": "references",

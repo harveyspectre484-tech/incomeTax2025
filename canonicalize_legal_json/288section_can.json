@@ -1721,12 +1721,6 @@
       "reference_text": "section 67(12)(b)"
     },
     {
-      "from_id": "288-1-table-row-9",
-      "to_id": "288-1-b",
-      "edge_type": "references",
-      "reference_text": "clause (b)"
-    },
-    {
       "from_id": "288-1-table-row-9-conditions-i-1",
       "to_id": "67-12-a",
       "edge_type": "references",

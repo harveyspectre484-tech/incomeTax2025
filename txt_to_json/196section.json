@@ -41,35 +41,37 @@
               "y_start": 134.16,
               "page_start": 1,
               "page_end": 1,
-              "text_before_sub_clauses": "the transaction of sale of such equity share or unit is chargeable to securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004), then,",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "196-1-b-i",
-                  "x": 42.68,
-                  "y_start": 169.7,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "income-tax calculated on such short-term capital gains at the rate of 20%;",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "ii",
-                  "id": "196-1-b-ii",
-                  "x": 40.26,
-                  "y_start": 180.31,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
+              "text": "the transaction of sale of such equity share or unit is chargeable to securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004), then,",
+              "children": []
             }
           ],
-          "text_after_clauses": "the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of—"
+          "text_after_clauses": "",
+          "text_before_items": "the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of—",
+          "items": [
+            {
+              "type": "item",
+              "number": "i",
+              "id": "196-1-i",
+              "x": 42.68,
+              "y_start": 169.7,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax calculated on such short-term capital gains at the rate of 20%;",
+              "children": []
+            },
+            {
+              "type": "item",
+              "number": "ii",
+              "id": "196-1-ii",
+              "x": 40.26,
+              "y_start": 180.31,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
+              "children": []
+            }
+          ],
+          "text_after_items": ""
         },
         {
           "type": "subsection",

@@ -443,8 +443,8 @@
       "section_id": "73",
       "section_number": "73",
       "title": "Cost with reference to certain modes of acquisition.",
-      "text": "Description Of The Capital Asset: Capital asset being a unit or units in the segregated portfolio.; Cost Of Acquisition: Computed as per the following formula:—",
-      "retrieval_text": "Section 73 Cost with reference to certain modes of acquisition. Section 73(1): In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table. Table columns: Sl. No.; Description of the capital asset; Cost of acquisition Section 73(1) Table, Sl. No. 11 Description Of The Capital Asset: Capital asset being a unit or units in the segregated portfolio.; Cost Of Acquisition: Computed as per the following formula:—",
+      "text": "Description Of The Capital Asset: Capital asset being a unit or units in the segregated portfolio.; Cost Of Acquisition: Computed as per the following formula:— X= ( A × B )/ C",
+      "retrieval_text": "Section 73 Cost with reference to certain modes of acquisition. Section 73(1): In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table. Table columns: Sl. No.; Description of the capital asset; Cost of acquisition Section 73(1) Table, Sl. No. 11 Description Of The Capital Asset: Capital asset being a unit or units in the segregated portfolio.; Cost Of Acquisition: Computed as per the following formula:— X= ( A × B )/ C",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -456,7 +456,7 @@
       "row_number": "11",
       "columns": {
         "description_of_the_capital_asset": "Capital asset being a unit or units in the segregated portfolio.",
-        "cost_of_acquisition": "Computed as per the following formula:—"
+        "cost_of_acquisition": "Computed as per the following formula:— X= ( A × B )/ C"
       }
     },
     {
@@ -515,8 +515,8 @@
       "section_id": "73",
       "section_number": "73",
       "title": "Cost with reference to certain modes of acquisition.",
-      "text": "Description Of The Capital Asset: Shares in the resulting company as a result of demerger.; Cost Of Acquisition: Computed as per the following formula:—",
-      "retrieval_text": "Section 73 Cost with reference to certain modes of acquisition. Section 73(1): In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table. Table columns: Sl. No.; Description of the capital asset; Cost of acquisition Section 73(1) Table, Sl. No. 14 Description Of The Capital Asset: Shares in the resulting company as a result of demerger.; Cost Of Acquisition: Computed as per the following formula:—",
+      "text": "Description Of The Capital Asset: Shares in the resulting company as a result of demerger.; Cost Of Acquisition: Computed as per the following formula:— X= (A × B )/ C",
+      "retrieval_text": "Section 73 Cost with reference to certain modes of acquisition. Section 73(1): In the case of a capital asset specified in column B of the Table below, the cost of acquisition of the asset shall be deemed to be the cost as mentioned in column C of the said Table. Table columns: Sl. No.; Description of the capital asset; Cost of acquisition Section 73(1) Table, Sl. No. 14 Description Of The Capital Asset: Shares in the resulting company as a result of demerger.; Cost Of Acquisition: Computed as per the following formula:— X= (A × B )/ C",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -528,7 +528,7 @@
       "row_number": "14",
       "columns": {
         "description_of_the_capital_asset": "Shares in the resulting company as a result of demerger.",
-        "cost_of_acquisition": "Computed as per the following formula:—"
+        "cost_of_acquisition": "Computed as per the following formula:— X= (A × B )/ C"
       }
     },
     {

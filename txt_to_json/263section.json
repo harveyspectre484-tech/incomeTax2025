@@ -1,0 +1,1089 @@
+{
+    "chapters": [],
+    "sections": [
+        {
+            "type": "section",
+            "number": "263",
+            "id": "263",
+            "title": "Return of income.",
+            "indent": 0,
+            "line_start": null,
+            "page_start": null,
+            "page_end": null,
+            "text_before_subsections": "",
+            "subsections": [
+                {
+                    "type": "subsection",
+                    "number": "1",
+                    "id": "263-1",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-1-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "Every person as mentioned below shall, for a tax year, on or before the due date, furnish a return of his income or the income of any other person in respect of which he is assessable during the said tax year:—",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-1-a-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a company;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-1-a-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a firm;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-1-a-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a person other than a company or a firm, if his total income or the total income of any other person in respect of which he is assessable under this Act during the tax year, without giving effect to the provisions of Chapter XVII-B or provisions of Schedule VIII (Table: Sl. No. 1) or deductions allowable under section 82 or 83 or 84 or 85 or 86 or 87 or 88 of Chapter IV-E or Chapter VIII, as the case may be, exceeded the maximum amount which is not chargeable to income-tax;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iv",
+                                    "id": "263-1-a-iv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a specified entity, if its total income without giving effect to the provisions of section 11 exceeds the maximum amount which is not chargeable to income-tax;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "v",
+                                    "id": "263-1-a-v",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a University, college or other institution as referred to in section 45(3)(a);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vi",
+                                    "id": "263-1-a-vi",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a business trust;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vii",
+                                    "id": "263-1-a-vii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "an investment fund as referred to in section 224;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "viii",
+                                    "id": "263-1-a-viii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a person who has sustained a loss in the tax year under the head \"Profits and gains of business or profession\" or under the head \"Capital gains\" and who intends to claim that such loss, or any part thereof, is to be carried forward as per this Act;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ix",
+                                    "id": "263-1-a-ix",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text_before_items": "a person, who is a resident, other than not ordinarily resident, and who at any time during the tax year,––",
+                                    "items": [
+                                        {
+                                            "type": "item",
+                                            "number": "A",
+                                            "id": "263-1-a-ix-A",
+                                            "indent": 0,
+                                            "line_start": null,
+                                            "page_start": null,
+                                            "page_end": null,
+                                            "text": "holds, as a beneficial owner or otherwise, any asset (including any financial interest in an entity) located outside India, or has signing authority in any account located outside India; or",
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "item",
+                                            "number": "B",
+                                            "id": "263-1-a-ix-B",
+                                            "indent": 0,
+                                            "line_start": null,
+                                            "page_start": null,
+                                            "page_end": null,
+                                            "text": "is a beneficiary of any asset (including any financial interest in an entity) located outside India, except where any income arising from such asset is includible in the income of person referred to in item (A);",
+                                            "children": []
+                                        }
+                                    ],
+                                    "text_after_items": ""
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "x",
+                                    "id": "263-1-a-x",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a person, other than a company or firm, who during the tax year, fulfils such conditions as may be prescribed;",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-1-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "the persons referred in clauses (a)(i), (a)(ii), (a)(v), (a)(vi), (a)(vii) and (a)(ix) shall furnish return on or before the due date regardless of income or loss;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "c",
+                            "id": "263-1-c",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "footnote_refs": [
+                                "44"
+                            ],
+                            "text": "for the purposes of this section, \"due date\" in respect of the persons mentioned in column B of the Table below, subject to conditions as mentioned in column C of the said Table, shall be the due date of the financial year succeeding the relevant tax year as mentioned in column D thereof:",
+                            "children": [],
+                            "table": {
+                                "type": "table",
+                                "table_id": "263-1-c-table-1",
+                                "title": "TABLE",
+                                "format": null,
+                                "page_start": null,
+                                "page_end": null,
+                                "line_start": null,
+                                "line_end": null,
+                                "columns": [
+                                    "Sl. No.",
+                                    "Person",
+                                    "Conditions",
+                                    "Due date"
+                                ],
+                                "rows": [
+                                    {
+                                        "column_A": "1",
+                                        "column_B": "Assessee, including the partners of the firm or the spouse of such partner (if section 10 applies to such spouse).",
+                                        "column_C": "Where the provisions of section 172 apply.",
+                                        "column_D": "30th November."
+                                    },
+                                    {
+                                        "column_A": "2",
+                                        "column_B": "(i) Company; (ii) Assessee (other than a company) whose accounts are required to be audited under this Act or under any other law in force; (iii) partner of a firm whose accounts are required to be audited under this Act or under any other law in force; or the spouse of such partner (if section 10 applies to such spouse).",
+                                        "column_C": "Where the provisions of section 172 do not apply.",
+                                        "column_D": "31st October."
+                                    },
+                                    {
+                                        "column_A": "3",
+                                        "column_B": "(i) Assessee having income from profits and gains of business or profession whose accounts are not required to be audited under this Act or under any other law in force; (ii) partner of a firm whose accounts are not required to be audited under this Act or under any other law in force or the spouse of such partner (if section 10 applies to such spouse).",
+                                        "column_C": "Where the provisions of section 172 do not apply.",
+                                        "column_D": "31st August."
+                                    },
+                                    {
+                                        "column_A": "4",
+                                        "column_B": "Any other assessee.",
+                                        "column_C": "",
+                                        "column_D": "31st July."
+                                    }
+                                ]
+                            },
+                            "linearized_text": "Clause (c): for the purposes of this section, \"due date\" in respect of the persons mentioned in column B of the Table below, subject to conditions as mentioned in column C of the said Table, shall be the due date of the financial year succeeding the relevant tax year as mentioned in column D thereof: Table rows: 1. Assessee, including the partners of the firm or the spouse of such partner (if section 10 applies to such spouse). Where the provisions of section 172 apply. 30th November.; 2. (i) Company; (ii) Assessee (other than a company) whose accounts are required to be audited under this Act or under any other law in force; (iii) partner of a firm whose accounts are required to be audited under this Act or under any other law in force; or the spouse of such partner (if section 10 applies to such spouse). Where the provisions of section 172 do not apply. 31st October.; 3. (i) Assessee having income from profits and gains of business or profession whose accounts are not required to be audited under this Act or under any other law in force; (ii) partner of a firm whose accounts are not required to be audited under this Act or under any other law in force or the spouse of such partner (if section 10 applies to such spouse). Where the provisions of section 172 do not apply. 31st August.; 4. Any other assessee. 31st July.",
+                            "source": {
+                                "act": "Income-tax Act",
+                                "rule": "263-1-c",
+                                "page_start": null,
+                                "page_end": null,
+                                "line_start": null
+                            }
+                        }
+                    ],
+                    "text_after_clauses": ""
+                },
+                {
+                    "type": "subsection",
+                    "number": "2",
+                    "id": "263-2",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-2-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "The Board may prescribe form for furnishing return of income, manner of its verification and such other particulars including––",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-2-a-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the class or classes of persons who shall be required to furnish the return in electronic form or otherwise;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-2-a-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the form and the manner in which the return may be furnished, whether in electronic form or otherwise;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-2-a-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the documents, statements, receipts, certificates, audited reports or any other documents which may not be furnished along with the return in electronic form but shall be produced before the Assessing Officer on demand;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iv",
+                                    "id": "263-2-a-iv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the computer resource or the electronic record to which the return in electronic form may be transmitted;",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-2-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "the particulars prescribed under clause (a) may also include––",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-2-b-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "income exempt from tax;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-2-b-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "assets of the prescribed nature and value held by the assessee as a beneficial owner or otherwise or in which he is a beneficiary;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-2-b-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "bank account and credit card held by the assessee;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iv",
+                                    "id": "263-2-b-iv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "expenditure exceeding the prescribed limit incurred by the assessee under prescribed heads;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "v",
+                                    "id": "263-2-b-v",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "such other outgoings as may be prescribed;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vi",
+                                    "id": "263-2-b-vi",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the report of any audit referred to in section 63 or a copy thereof;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vii",
+                                    "id": "263-2-b-vii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the particulars of the location and style of the principal place of the business or profession and all the branches thereof;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "viii",
+                                    "id": "263-2-b-viii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the names and addresses of the partners, if any, in the business or profession;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ix",
+                                    "id": "263-2-b-ix",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the names of the other members of the association of person or the body of individuals and the extent of the share of the assessee and the shares of all such members in the profits of the business or profession and any branches thereof.",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        }
+                    ],
+                    "text_after_clauses": ""
+                },
+                {
+                    "type": "subsection",
+                    "number": "3",
+                    "id": "263-3",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text": "The Central Government may, by notification, exempt any class or classes of persons, from the obligation to file a return of income under this section, subject to the conditions specified therein.",
+                    "children": []
+                },
+                {
+                    "type": "subsection",
+                    "number": "4",
+                    "id": "263-4",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text": "Any person who has not furnished a return within the time allowed to him under sub-section (1), may furnish the return for any tax year at any time within nine months from the end of the relevant tax year, or before the completion of the assessment, whichever is earlier.",
+                    "children": []
+                },
+                {
+                    "type": "subsection",
+                    "number": "5",
+                    "id": "263-5",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "footnote_refs": [
+                        "45"
+                    ],
+                    "text": "If any person, having furnished a return under sub-section (1) or (4), discovers any omission or any wrong statement therein, he may, subject to the provisions of section 428(b), furnish a revised return at any time within twelve months from the end of the relevant tax year, or before the completion of the assessment, whichever is earlier.",
+                    "children": []
+                },
+                {
+                    "type": "subsection",
+                    "number": "6",
+                    "id": "263-6",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-6-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "Any person, whether or not he has furnished a return under sub-section (1) or (4) or (5) for a tax year, may furnish an updated return of his income or the income of any other person in respect of which he is assessable under this Act, at any time within forty-eight months from the end of the financial year succeeding the relevant tax year;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-6-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "footnote_refs": [
+                                "46"
+                            ],
+                            "text_before_sub_clauses": "",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-6-b-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the provisions of clause (a) shall continue to apply for a tax year if any person has sustained a loss in the said tax year and has furnished a return of loss within the due date specified under sub-section (1) and the updated return is a return of income or such updated return has the effect of reducing the loss;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-6-b-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the provisions of clause (a) shall also apply where an updated return is furnished by a person for the relevant tax year in pursuance of a notice issued under section 280 within such period as specified in the said notice and in such a case, the assessee shall be precluded from filing return in pursuance of the said notice in any other manner;",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        },
+                        {
+                            "type": "clause",
+                            "number": "c",
+                            "id": "263-6-c",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "the provisions of clause (a) shall not apply for a tax year for any person, if––",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-6-c-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "footnote_refs": [
+                                        "47"
+                                    ],
+                                    "text": "the updated return is a return of loss for the said tax year except in a case referred to in sub-section (6)(b)(i); or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-6-c-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the updated return has the effect of decreasing the total tax liability determined on the basis of return furnished under sub-section (1) or (4) or (5) for the said tax year; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-6-c-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the updated return results in refund where no refund was due or increases the refund due on the basis of return furnished under sub-section (1) or (4) or (5) for the said tax year; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iv",
+                                    "id": "263-6-c-iv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "an updated return has already been furnished for the said tax year; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "v",
+                                    "id": "263-6-c-v",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "footnote_refs": [
+                                        "47"
+                                    ],
+                                    "text": "any proceeding for assessment or reassessment or recomputation or revision of income under this Act is pending or has been completed for the said tax year except in a case referred to in sub-section (6)(b)(ii); or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vi",
+                                    "id": "263-6-c-vi",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "the Assessing Officer is in the possession of information in respect of such person for the said tax year regarding violation of specified laws and the same has been communicated to him prior to the date of furnishing of updated return; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vii",
+                                    "id": "263-6-c-vii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "information for the said tax year has been received under an agreement referred to in section 90 or 90A of Income-tax Act, 1961 (43 of 1961) or section 159 of this Act in respect of such person and the same has been communicated to him, prior to the date of furnishing of updated return; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "viii",
+                                    "id": "263-6-c-viii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "any prosecution proceedings under the Chapter XXII have been initiated for the said tax year in respect of such person, prior to the date of furnishing of updated return; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ix",
+                                    "id": "263-6-c-ix",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "thirty-six months have expired from the end of the financial year succeeding the relevant tax year, and any notice to show-cause under section 281 has been issued in his case, except where an order has been passed under section 281(3) determining that it is not a fit case to issue notice under section 280; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "x",
+                                    "id": "263-6-c-x",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "he is such person or belongs to such class of persons, as may be notified by the Board in this regard;",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        },
+                        {
+                            "type": "clause",
+                            "number": "d",
+                            "id": "263-6-d",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "a person shall also not be eligible to furnish an updated return of income, where—",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-6-d-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a search has been initiated under section 247 or books of account or other documents or any assets are requisitioned under section 248 in the case of that person; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-6-d-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a survey has been conducted under section 253, other than sub-section (4) of the said section, in the case of that person; or",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-6-d-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "a notice has been issued under section 294 in pursuance to the provisions of section 295, to that person,",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": "for the tax year in which such search is initiated or survey is conducted or requisition is made and any tax year preceding such tax year;"
+                        },
+                        {
+                            "type": "clause",
+                            "number": "e",
+                            "id": "263-6-e",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "footnote_refs": [
+                                "48"
+                            ],
+                            "text": "if a person has furnished a return of income under clause (a) for a tax year, and as a result the loss or any part thereof carried forward under Chapter VII or unabsorbed depreciation carried forward under section 33(3)(b) or tax credit carried forward under section 206(2)(e) to (h) and 206(3) and (4) is to be reduced for any subsequent tax year, then, an updated return shall be furnished for each such subsequent tax year.",
+                            "children": []
+                        }
+                    ],
+                    "text_after_clauses": ""
+                },
+                {
+                    "type": "subsection",
+                    "number": "7",
+                    "id": "263-7",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "A return of income furnished under this section, shall be treated as defective if it is not in conformity with all the conditions as may be prescribed and shall be dealt with in the following manner:––",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-7-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "where the Assessing Officer considers that the return of income furnished by the assessee is defective, he may intimate the defect to the assessee and give him an opportunity to rectify the defect within fifteen days from the date of such intimation or within a further period as may be allowed on an application made by the assessee in this behalf;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-7-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "if the defect is not rectified within the period allowed under clause (a), then the return shall be treated as an invalid return and the provisions of this Act shall apply as if the assessee had failed to furnish the return;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "c",
+                            "id": "263-7-c",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "where the assessee rectifies the defect after the expiry of the period allowed under clause (a), but before the assessment is made, the Assessing Officer may condone the delay and treat the return as a valid return.",
+                            "children": []
+                        }
+                    ],
+                    "text_after_clauses": ""
+                },
+                {
+                    "type": "subsection",
+                    "number": "8",
+                    "id": "263-8",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-8-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "The provisions of this section shall also apply to a return of income which is furnished in pursuance of an order passed under section 239(3)(b);",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-8-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "the provisions of this section shall not apply to a specified senior citizen, as referred to in section 402(39), for the relevant tax year in which tax has been deducted at source under section 393(1) [Table: Sl. No. 8(iii)].",
+                            "children": []
+                        }
+                    ],
+                    "text_after_clauses": ""
+                },
+                {
+                    "type": "subsection",
+                    "number": "9",
+                    "id": "263-9",
+                    "indent": 0,
+                    "line_start": null,
+                    "page_start": null,
+                    "page_end": null,
+                    "text_before_clauses": "For the purposes of this section,––",
+                    "clauses": [
+                        {
+                            "type": "clause",
+                            "number": "a",
+                            "id": "263-9-a",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "\"beneficial owner\", in respect of an asset means an individual who has provided, directly or indirectly, consideration for the asset for the immediate or future benefit, direct or indirect, of himself or any other person;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "b",
+                            "id": "263-9-b",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "\"beneficiary\", in respect of an asset means an individual who derives benefit from the asset during the tax year and the consideration for such asset has been provided by any person other than such beneficiary;",
+                            "children": []
+                        },
+                        {
+                            "type": "clause",
+                            "number": "c",
+                            "id": "263-9-c",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text_before_sub_clauses": "\"specified entity\" means––",
+                            "sub_clauses": [
+                                {
+                                    "type": "sub_clause",
+                                    "number": "i",
+                                    "id": "263-9-c-i",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "research association referred to in Schedule III (Table: Sl. No. 23);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ii",
+                                    "id": "263-9-c-ii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "association or institution referred to in Schedule III (Table: Sl. No. 24);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iii",
+                                    "id": "263-9-c-iii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "person referred to in Schedule VII (Table: Sl. No. 2);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "iv",
+                                    "id": "263-9-c-iv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "institution referred to in Schedule III (Table: Sl. No. 25);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "v",
+                                    "id": "263-9-c-v",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "any University or other educational institution or any hospital or other medical institution referred to in Schedule VII (Table: Sl. Nos. 17, 18 and 19);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vi",
+                                    "id": "263-9-c-vi",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "Mutual Fund referred to in Schedule VII (Table: Sl. Nos. 20 and 21);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "vii",
+                                    "id": "263-9-c-vii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "securitisation trust referred to in Schedule III (Table: Sl. No. 26);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "viii",
+                                    "id": "263-9-c-viii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "Investor Protection Fund referred to in Schedule III (Table: Sl. Nos. 28 and 29);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "ix",
+                                    "id": "263-9-c-ix",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "Core Settlement Guarantee Fund referred to in Schedule III (Table: Sl. No. 30);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "x",
+                                    "id": "263-9-c-x",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "venture capital company or venture capital fund referred to in Schedule V (Table: Sl. No. 6);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "xi",
+                                    "id": "263-9-c-xi",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "trade union or association referred to in Schedule III (Table: Sl. No. 31);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "xii",
+                                    "id": "263-9-c-xii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "Board or Authority referred to in Schedule VII (Table: Sl. Nos. 33 to 40);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "xiii",
+                                    "id": "263-9-c-xiii",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "Body or Authority or Board or Trust or Commission (by whatever name called) referred to in Schedule III (Table: Sl. No. 36);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "sub_clause",
+                                    "number": "xiv",
+                                    "id": "263-9-c-xiv",
+                                    "indent": 0,
+                                    "line_start": null,
+                                    "page_start": null,
+                                    "page_end": null,
+                                    "text": "infrastructure debt fund referred to in Schedule VII (Table: Sl. No. 46);",
+                                    "children": []
+                                }
+                            ],
+                            "text_after_sub_clauses": ""
+                        },
+                        {
+                            "type": "clause",
+                            "number": "d",
+                            "id": "263-9-d",
+                            "indent": 0,
+                            "line_start": null,
+                            "page_start": null,
+                            "page_end": null,
+                            "text": "\"specified laws\" shall refer to the Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976 (13 of 1976), or the Prohibition of Benami Property Transactions Act, 1988 (45 of 1988), or the Prevention of Money-laundering Act, 2002 (15 of 2003), or the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (22 of 2015).",
+                            "children": []
+                        }
+                    ],
+                    "text_after_clauses": ""
+                }
+            ],
+            "text_after_subsections": ""
+        }
+    ],
+    "footnotes": [
+        {
+            "type": "footnote",
+            "number": "44",
+            "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (c) read as under : \"(c) for the purposes of this section, \"due date\" means the date of the financial year succeeding the relevant tax year as mentioned in the corresponding entry of column C of the Table below in respect of the persons mentioned in column B of the said Table: TABLE Sl. No. A B C | 1. Assessee, including the partners of the firm or the spouse of such partner (if section 10 applies to such spouse), who is required to be furnished a report referred to in section 172. | 30th November. | 2. Company (in cases other than those mentioned in Sl. No. 1). | 31st October. | 3. Person (other than a company) whose accounts are required to be audited under this Act or under any other law in force (in cases other than those mentioned in Sl. No. 1). | 31st October. | 4. Partner of a firm whose accounts are required to be audited under this Act or under any other law in force; or the spouse of such partner (if section 10 applies to such spouse) (in cases other than those mentioned in Sl. No. 1). | 31st October. | 5. Any other assessee. | 31st July.\"",
+            "page_start": null,
+            "page_end": null,
+            "referenced_by": [
+                "263-1-c"
+            ]
+        },
+        {
+            "type": "footnote",
+            "number": "45",
+            "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, sub-section (5) read as under : \"(5) If any person, having furnished a return under sub-section (1) or sub-section (4), discovers any omission or any wrong statement therein, he may furnish a revised return at any time within nine months from the end of the relevant tax year, or before the completion of the assessment, whichever is earlier.\"",
+            "page_start": null,
+            "page_end": null,
+            "referenced_by": [
+                "263-5"
+            ]
+        },
+        {
+            "type": "footnote",
+            "number": "46",
+            "text": "Sub. by Act No. 4 of 2026, w.e.f. 1-4-2026. Prior to its substitution, clause (b) read as under : \"(b) the provisions of clause (a) shall continue to apply for a tax year if any person has sustained a loss in the said tax year and has furnished a return of loss within the due date specified under sub-section (1) and the updated return is a return of income;\"",
+            "page_start": null,
+            "page_end": null,
+            "referenced_by": [
+                "263-6-b"
+            ]
+        },
+        {
+            "type": "footnote",
+            "number": "47",
+            "text": "Ins. by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+            "page_start": null,
+            "page_end": null,
+            "referenced_by": [
+                "263-6-c-i",
+                "263-6-c-v"
+            ]
+        },
+        {
+            "type": "footnote",
+            "number": "48",
+            "text": "Sub. for \"206(1)(m) to (p) and 206(2)(e) to (h)\" by Act No. 4 of 2026, w.e.f. 1-4-2026.",
+            "page_start": null,
+            "page_end": null,
+            "referenced_by": [
+                "263-6-e"
+            ]
+        }
+    ],
+    "orphans": [],
+    "footnote_reference_map": {
+        "44": [
+            "263-1-c"
+        ],
+        "45": [
+            "263-5"
+        ],
+        "46": [
+            "263-6-b"
+        ],
+        "47": [
+            "263-6-c-i",
+            "263-6-c-v"
+        ],
+        "48": [
+            "263-6-e"
+        ]
+    }
+}

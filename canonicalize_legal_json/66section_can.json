@@ -1731,6 +1731,26 @@
       ]
     },
     {
+      "id": "ext-india-act-1949-10-section-51",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1949-10",
+      "jurisdiction": "India",
+      "act_title": "Banking Regulation Act",
+      "title_year": "1949",
+      "act_number": "10",
+      "act_year": "1949",
+      "official_citation": "10 of 1949",
+      "identity_basis": "official_citation",
+      "locator_text": "section 51",
+      "section": "51",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 51 of that Act"
+      ]
+    },
+    {
       "id": "ext-india-act-2013-17",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -1939,6 +1959,45 @@
       ]
     },
     {
+      "id": "ext-india-act-1956-42",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Securities Contracts Act",
+      "title_year": "1956",
+      "act_number": "42",
+      "act_year": "1956",
+      "official_citation": "42 of 1956",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Securities Contracts Act, 1956 (42 of 1956)",
+        "Securities Contracts (Regulation) Act, 1956 (42 of 1956)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1956-42-section-2-ac",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1956-42",
+      "jurisdiction": "India",
+      "act_title": "Securities Contracts Act",
+      "title_year": "1956",
+      "act_number": "42",
+      "act_year": "1956",
+      "official_citation": "42 of 1956",
+      "identity_basis": "official_citation",
+      "locator_text": "section 2(ac)",
+      "section": "2",
+      "nested_locators": [
+        "ac"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(ac) of the Securities Contracts Act, 1956 (42 of 1956)"
+      ]
+    },
+    {
       "id": "ext-india-act-1992-15",
       "node_type": "external_act_placeholder",
       "jurisdiction": "India",
@@ -1972,22 +2031,6 @@
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
         "section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992)"
-      ]
-    },
-    {
-      "id": "ext-india-act-1956-42",
-      "node_type": "external_act_placeholder",
-      "jurisdiction": "India",
-      "act_title": "Securities Contracts (Regulation) Act",
-      "title_year": "1956",
-      "act_number": "42",
-      "act_year": "1956",
-      "official_citation": "42 of 1956",
-      "identity_basis": "official_citation",
-      "resolution_status": "external_act_not_ingested",
-      "title_year_differs_from_enactment_year": false,
-      "source_mentions": [
-        "Securities Contracts (Regulation) Act, 1956 (42 of 1956)"
       ]
     },
     {
@@ -2994,9 +3037,19 @@
     },
     {
       "from_id": "66-2",
-      "to_id": "51",
-      "edge_type": "references",
-      "reference_text": "section 51"
+      "to_id": "ext-india-act-1949-10-section-51",
+      "edge_type": "references_external",
+      "reference_text": "section 51 of that Act",
+      "target_act_id": "ext-india-act-1949-10",
+      "target_act_title": "Banking Regulation Act",
+      "target_section": "51",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "10",
+      "target_act_year": "1949",
+      "target_act_title_year": "1949",
+      "target_official_citation": "10 of 1949",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "66-3",
@@ -3239,9 +3292,35 @@
     },
     {
       "from_id": "66-33",
-      "to_id": "2-ac",
-      "edge_type": "references",
-      "reference_text": "section 2(ac)"
+      "to_id": "ext-india-act-1956-42-section-2-ac",
+      "edge_type": "references_external",
+      "reference_text": "section 2(ac) of the Securities Contracts Act, 1956 (42 of 1956)",
+      "target_act_id": "ext-india-act-1956-42",
+      "target_act_title": "Securities Contracts Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "ac"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "42",
+      "target_act_year": "1956",
+      "target_act_title_year": "1956",
+      "target_official_citation": "42 of 1956",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "66-33",
+      "to_id": "ext-india-act-2013-17",
+      "edge_type": "references_external_act",
+      "reference_text": "Chapter VII of the Finance Act, 2013 (17 of 2013)",
+      "target_act_id": "ext-india-act-2013-17",
+      "target_act_title": "Finance Act",
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "17",
+      "target_act_year": "2013",
+      "target_act_title_year": "2013",
+      "target_official_citation": "17 of 2013",
+      "target_identity_basis": "official_citation"
     },
     {
       "from_id": "66-33-a-i",

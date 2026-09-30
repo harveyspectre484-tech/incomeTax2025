@@ -249,15 +249,15 @@
       "y_start": 323.52
     },
     {
-      "id": "92-2-h-i-2",
-      "citation": "Section 92(2)(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "92-2-h",
+      "id": "92-2-i",
+      "citation": "Section 92(2)(i)",
+      "unit_type": "clause",
+      "parent_id": "92-2",
       "section_id": "92",
       "section_number": "92",
       "title": "Income from other sources.",
       "text": "any income by way of interest received on compensation or on enhanced compensation referred to in section 278(1);",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(h): any sum of money received as an advance or otherwise during negotiations for the transfer of a capital asset, if— Section 92(2)(h)(i): any income by way of interest received on compensation or on enhanced compensation referred to in section 278(1);",
+      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(i): any income by way of interest received on compensation or on enhanced compensation referred to in section 278(1);",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -1510,13 +1510,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "92-2-h-i-2",
-      "to_id": "92-2-h",
+      "from_id": "92-2-i",
+      "to_id": "92-2",
       "edge_type": "parent"
     },
     {
-      "from_id": "92-2-h",
-      "to_id": "92-2-h-i-2",
+      "from_id": "92-2",
+      "to_id": "92-2-i",
       "edge_type": "contains"
     },
     {
@@ -2132,7 +2132,7 @@
       "reference_text": "Schedule II"
     },
     {
-      "from_id": "92-2-h-i-2",
+      "from_id": "92-2-i",
       "to_id": "278-1",
       "edge_type": "references",
       "reference_text": "section 278(1)"

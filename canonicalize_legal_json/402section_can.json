@@ -2647,6 +2647,82 @@
       "line_start": null,
       "x": 55.0,
       "y_start": 480.0
+    },
+    {
+      "id": "402-47-e-ii-exclusions",
+      "citation": "Section 402(47)(e)(ii), Exclusion block",
+      "unit_type": "exclusion_block",
+      "parent_id": "402-47-e-ii",
+      "section_id": "402",
+      "section_number": "402",
+      "title": "Interpretation.",
+      "text": "but does not include—",
+      "retrieval_text": "Section 402 Interpretation. Section 402(47): \"work\" shall include— Section 402(47)(e): manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from— Section 402(47)(e)(ii): its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or any sum referred to in section 393(1) [Table: Sl. No. 6(iii) Section 402(47)(e)(ii), Exclusion block: but does not include—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 385.05
+    },
+    {
+      "id": "402-47-e-ii-exclusions-A",
+      "citation": "Section 402(47)(e)(ii), Exclusion block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "402-47-e-ii-exclusions",
+      "section_id": "402",
+      "section_number": "402",
+      "title": "Interpretation.",
+      "text": "manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or",
+      "retrieval_text": "Section 402 Interpretation. Section 402(47): \"work\" shall include— Section 402(47)(e): manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from— Section 402(47)(e)(ii): its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or any sum referred to in section 393(1) [Table: Sl. No. 6(iii) Section 402(47)(e)(ii), Exclusion block: but does not include— Section 402(47)(e)(ii), Exclusion block, Item (A): manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 385.05
+    },
+    {
+      "id": "402-47-e-ii-exclusions-B",
+      "citation": "Section 402(47)(e)(ii), Exclusion block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "402-47-e-ii-exclusions",
+      "section_id": "402",
+      "section_number": "402",
+      "title": "Interpretation.",
+      "text": "any sum referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+      "retrieval_text": "Section 402 Interpretation. Section 402(47): \"work\" shall include— Section 402(47)(e): manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from— Section 402(47)(e)(ii): its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3), but does not include manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or any sum referred to in section 393(1) [Table: Sl. No. 6(iii) Section 402(47)(e)(ii), Exclusion block: but does not include— Section 402(47)(e)(ii), Exclusion block, Item (B): any sum referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 405.21
+    },
+    {
+      "id": "402-47-f",
+      "citation": "Section 402(47)(e)(f)",
+      "unit_type": "clause",
+      "parent_id": "402-47-e",
+      "section_id": "402",
+      "section_number": "402",
+      "title": "Interpretation.",
+      "text": "Any amount referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+      "retrieval_text": "Section 402 Interpretation. Section 402(47): \"work\" shall include— Section 402(47)(e): manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from— Section 402(47)(e)(f): Any amount referred to in section 393(1) [Table: Sl. No. 6(iii)]",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 395.0
     }
   ],
   "external_nodes": [
@@ -4305,6 +4381,46 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "402-47-e-ii-exclusions",
+      "to_id": "402-47-e-ii",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "402-47-e-ii",
+      "to_id": "402-47-e-ii-exclusions",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "402-47-e-ii-exclusions-A",
+      "to_id": "402-47-e-ii-exclusions",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "402-47-e-ii-exclusions",
+      "to_id": "402-47-e-ii-exclusions-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "402-47-e-ii-exclusions-B",
+      "to_id": "402-47-e-ii-exclusions",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "402-47-e-ii-exclusions",
+      "to_id": "402-47-e-ii-exclusions-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "402-47-f",
+      "to_id": "402-47-e",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "402-47-e",
+      "to_id": "402-47-f",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "402-1",
       "to_id": "ext-india-act-2002-58-section-2-a",
       "edge_type": "references_external",
@@ -4724,6 +4840,18 @@
     },
     {
       "from_id": "402-47-e-ii",
+      "to_id": "393-1",
+      "edge_type": "references",
+      "reference_text": "section 393(1)"
+    },
+    {
+      "from_id": "402-47-e-ii-exclusions-B",
+      "to_id": "393-1",
+      "edge_type": "references",
+      "reference_text": "section 393(1)"
+    },
+    {
+      "from_id": "402-47-f",
       "to_id": "393-1",
       "edge_type": "references",
       "reference_text": "section 393(1)"

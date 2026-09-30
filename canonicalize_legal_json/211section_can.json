@@ -585,18 +585,6 @@
       "reference_text": "section 194(1)"
     },
     {
-      "from_id": "211-1-c-table-row-1",
-      "to_id": "211-1-a",
-      "edge_type": "references",
-      "reference_text": "clause (a)"
-    },
-    {
-      "from_id": "211-1-c-table-row-2",
-      "to_id": "211-1-a",
-      "edge_type": "references",
-      "reference_text": "clause (a)"
-    },
-    {
       "from_id": "211-2",
       "to_id": "211-1",
       "edge_type": "references",

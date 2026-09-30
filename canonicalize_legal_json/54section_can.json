@@ -268,6 +268,82 @@
       "y_start": 291.7
     },
     {
+      "id": "54-5-where",
+      "citation": "Section 54(5), Where block",
+      "unit_type": "where_block",
+      "parent_id": "54-5",
+      "section_id": "54",
+      "section_number": "54",
+      "title": "Business of prospecting for mineral oils.",
+      "text": "where,—",
+      "retrieval_text": "Section 54 Business of prospecting for mineral oils. Section 54(5): Where the business or any interest therein as referred to in sub-section (1) is wholly or partly transferred as per the provisions of the agreement, the profit shall be charged to tax or deduction shall be allowed in the following manner:— Section 54(5), Where block: where,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "54-5-where-A",
+      "citation": "Section 54(5), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "54-5-where",
+      "section_id": "54",
+      "section_number": "54",
+      "title": "Business of prospecting for mineral oils.",
+      "text": "A = proceeds of the transfer (so far as they consist of capital sums);",
+      "retrieval_text": "Section 54 Business of prospecting for mineral oils. Section 54(5): Where the business or any interest therein as referred to in sub-section (1) is wholly or partly transferred as per the provisions of the agreement, the profit shall be charged to tax or deduction shall be allowed in the following manner:— Section 54(5), Where block: where,— Section 54(5), Where block, Item (A): A = proceeds of the transfer (so far as they consist of capital sums);",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "54-5-where-B",
+      "citation": "Section 54(5), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "54-5-where",
+      "section_id": "54",
+      "section_number": "54",
+      "title": "Business of prospecting for mineral oils.",
+      "text": "B = total amount of expenditure incurred in connection with the business or to obtain interest therein;",
+      "retrieval_text": "Section 54 Business of prospecting for mineral oils. Section 54(5): Where the business or any interest therein as referred to in sub-section (1) is wholly or partly transferred as per the provisions of the agreement, the profit shall be charged to tax or deduction shall be allowed in the following manner:— Section 54(5), Where block: where,— Section 54(5), Where block, Item (B): B = total amount of expenditure incurred in connection with the business or to obtain interest therein;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
+      "id": "54-5-where-C",
+      "citation": "Section 54(5), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "54-5-where",
+      "section_id": "54",
+      "section_number": "54",
+      "title": "Business of prospecting for mineral oils.",
+      "text": "C = amount of expenditure incurred remaining unallowed.",
+      "retrieval_text": "Section 54 Business of prospecting for mineral oils. Section 54(5): Where the business or any interest therein as referred to in sub-section (1) is wholly or partly transferred as per the provisions of the agreement, the profit shall be charged to tax or deduction shall be allowed in the following manner:— Section 54(5), Where block: where,— Section 54(5), Where block, Item (C): C = amount of expenditure incurred remaining unallowed.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 173.41
+    },
+    {
       "id": "54-5-a",
       "citation": "Section 54(5)(a)",
       "unit_type": "clause",
@@ -569,6 +645,46 @@
     {
       "from_id": "54",
       "to_id": "54-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "54-5-where",
+      "to_id": "54-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "54-5",
+      "to_id": "54-5-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "54-5-where-A",
+      "to_id": "54-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "54-5-where",
+      "to_id": "54-5-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "54-5-where-B",
+      "to_id": "54-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "54-5-where",
+      "to_id": "54-5-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "54-5-where-C",
+      "to_id": "54-5-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "54-5-where",
+      "to_id": "54-5-where-C",
       "edge_type": "contains"
     },
     {

@@ -141,20 +141,19 @@
                   "page_end": 1,
                   "text": "the negotiations do not result in transfer of such capital asset;",
                   "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "92-2-h-i",
-                  "x": 42.68,
-                  "y_start": 334.13,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any income by way of interest received on compensation or on enhanced compensation referred to in section 278(1);",
-                  "children": []
                 }
-              ],
-              "text_after_sub_clauses": ""
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "92-2-i",
+              "x": 42.68,
+              "y_start": 334.13,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any income by way of interest received on compensation or on enhanced compensation referred to in section 278(1);",
+              "children": []
             },
             {
               "type": "clause",

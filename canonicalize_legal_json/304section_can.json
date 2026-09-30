@@ -123,8 +123,8 @@
       "section_id": "304",
       "section_number": "304",
       "title": "Liability of representative assessee.",
-      "text": "If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
+      "text": "If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
+      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -133,6 +133,82 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 205.77
+    },
+    {
+      "id": "304-4-where",
+      "citation": "Section 304(4), Where block",
+      "unit_type": "where_block",
+      "parent_id": "304-4",
+      "section_id": "304",
+      "section_number": "304",
+      "title": "Liability of representative assessee.",
+      "text": "",
+      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "304-4-where-A",
+      "citation": "Section 304(4), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "304-4-where",
+      "section_id": "304",
+      "section_number": "304",
+      "title": "Liability of representative assessee.",
+      "text": "A= the chargeable part of the income of the trust;",
+      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (A): A= the chargeable part of the income of the trust;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "304-4-where-B",
+      "citation": "Section 304(4), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "304-4-where",
+      "section_id": "304",
+      "section_number": "304",
+      "title": "Liability of representative assessee.",
+      "text": "B= the whole income of the trust; and",
+      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (B): B= the whole income of the trust; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
+    },
+    {
+      "id": "304-4-where-C",
+      "citation": "Section 304(4), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "304-4-where",
+      "section_id": "304",
+      "section_number": "304",
+      "title": "Liability of representative assessee.",
+      "text": "C= the income receivable by the beneficiary from the trust.",
+      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (C): C= the income receivable by the beneficiary from the trust.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 145.83
     },
     {
       "id": "304-5",
@@ -214,6 +290,46 @@
     {
       "from_id": "304",
       "to_id": "304-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "304-4-where",
+      "to_id": "304-4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "304-4",
+      "to_id": "304-4-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "304-4-where-A",
+      "to_id": "304-4-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "304-4-where",
+      "to_id": "304-4-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "304-4-where-B",
+      "to_id": "304-4-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "304-4-where",
+      "to_id": "304-4-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "304-4-where-C",
+      "to_id": "304-4-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "304-4-where",
+      "to_id": "304-4-where-C",
       "edge_type": "contains"
     },
     {

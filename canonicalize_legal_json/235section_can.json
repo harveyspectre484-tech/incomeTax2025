@@ -123,8 +123,27 @@
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
-      "text": "\"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021); 1985 (82 of 1985);]",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(f): \"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021); 1985 (82 of 1985);]",
+      "text": "\"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021);",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(f): \"inland vessel\" shall have the meaning assigned to it in section 3(q) of the Inland Vessels Act, 2021 (24 of 2021);",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 42.68,
+      "y_start": 177.12
+    },
+    {
+      "id": "235-fa",
+      "citation": "Section 235(fa)",
+      "unit_type": "clause",
+      "parent_id": "235",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "\"Inland Waterways Authority of India\" shall have the same meaning as assigned to it in section 3 of the Inland Waterways Authority of India Act,1985 (82 of 1985);]",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(fa): \"Inland Waterways Authority of India\" shall have the same meaning as assigned to it in section 3 of the Inland Waterways Authority of India Act,1985 (82 of 1985);]",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -161,8 +180,8 @@
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
-      "text": "\"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include—",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include—",
+      "text": "\"qualifying company\" means a company, if—",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -173,6 +192,63 @@
       "y_start": 218.5
     },
     {
+      "id": "235-h-explanation",
+      "citation": "Section 235(h), Explanation block",
+      "unit_type": "explanation_block",
+      "parent_id": "235-h",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "and for the purposes of sub-clause (ii), \"place of effective management of the company\" means—",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h), Explanation block: and for the purposes of sub-clause (ii), \"place of effective management of the company\" means—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 282.15
+    },
+    {
+      "id": "235-h-explanation-A",
+      "citation": "Section 235(h), Explanation block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "235-h-explanation",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "the place where the board of directors of the company or its executive directors, make their decisions; or",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h), Explanation block: and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— Section 235(h), Explanation block, Item (A): the place where the board of directors of the company or its executive directors, make their decisions; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 282.15
+    },
+    {
+      "id": "235-h-explanation-B",
+      "citation": "Section 235(h), Explanation block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "235-h-explanation",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h), Explanation block: and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— Section 235(h), Explanation block, Item (B): in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 292.76
+    },
+    {
       "id": "235-h-i",
       "citation": "Section 235(h)(i)",
       "unit_type": "sub_clause",
@@ -181,7 +257,7 @@
       "section_number": "235",
       "title": "Interpretation.",
       "text": "it is an Indian company;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(i): it is an Indian company;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h)(i): it is an Indian company;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -200,7 +276,7 @@
       "section_number": "235",
       "title": "Interpretation.",
       "text": "the place of effective management of the company is in India;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(ii): the place of effective management of the company is in India;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h)(ii): the place of effective management of the company is in India;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -219,7 +295,7 @@
       "section_number": "235",
       "title": "Interpretation.",
       "text": "it owns at least one qualifying ship; and",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): it owns at least one qualifying ship; and",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h)(iii): it owns at least one qualifying ship; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -238,7 +314,7 @@
       "section_number": "235",
       "title": "Interpretation.",
       "text": "the main object of the company is to carry on the business of operating ships,",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iv): the main object of the company is to carry on the business of operating ships,",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— Section 235(h)(iv): the main object of the company is to carry on the business of operating ships,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -249,53 +325,15 @@
       "y_start": 260.93
     },
     {
-      "id": "235-h-iv-A",
-      "citation": "Section 235(h)(iv)(A)",
-      "unit_type": "item",
-      "parent_id": "235-h-iv",
-      "section_id": "235",
-      "section_number": "235",
-      "title": "Interpretation.",
-      "text": "the place where the board of directors of the company or its executive directors, make their decisions; or",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iv): the main object of the company is to carry on the business of operating ships, Section 235(h)(iv)(A): the place where the board of directors of the company or its executive directors, make their decisions; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 68.93,
-      "y_start": 282.15
-    },
-    {
-      "id": "235-h-iv-B",
-      "citation": "Section 235(h)(iv)(B)",
-      "unit_type": "item",
-      "parent_id": "235-h-iv",
-      "section_id": "235",
-      "section_number": "235",
-      "title": "Interpretation.",
-      "text": "in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iv): the main object of the company is to carry on the business of operating ships, Section 235(h)(iv)(B): in a case where the board of directors routinely approve the commercial and strategic decisions made by the executive directors or officers of the company, the place where such executive directors or officers of the company perform their functions;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 68.93,
-      "y_start": 292.76
-    },
-    {
-      "id": "235-h-i-2",
-      "citation": "Section 235(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "235-h",
+      "id": "235-i",
+      "citation": "Section 235(i)",
+      "unit_type": "clause",
+      "parent_id": "235",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "\"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -306,72 +344,15 @@
       "y_start": 312.91
     },
     {
-      "id": "235-h-i-3",
-      "citation": "Section 235(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "235-h",
+      "id": "235-i-exclusions",
+      "citation": "Section 235(i), Exclusion block",
+      "unit_type": "exclusion_block",
+      "parent_id": "235-i",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
-      "text": "it is a seagoing ship or vessel or inland vessel, as the case may be, of fifteen net tonnage or more;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(i): it is a seagoing ship or vessel or inland vessel, as the case may be, of fifteen net tonnage or more;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 71.75,
-      "y_start": 323.52
-    },
-    {
-      "id": "235-h-ii-2",
-      "citation": "Section 235(h)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "235-h",
-      "section_id": "235",
-      "section_number": "235",
-      "title": "Interpretation.",
-      "text": "it is a ship registered under the Merchant Shipping Act, 1958 (44 of 1958), or a ship registered outside India in respect of which a licence has been issued by the Director-General of Shipping under section 406 or 407 of said Act or an inland vessel registered under the Inland Vessels Act, 2021 (24 of 2021), as the case may be; and",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(ii): it is a ship registered under the Merchant Shipping Act, 1958 (44 of 1958), or a ship registered outside India in respect of which a licence has been issued by the Director-General of Shipping under section 406 or 407 of said Act or an inland vessel registered under the Inland Vessels Act, 2021 (24 of 2021), as the case may be; and",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 69.33,
-      "y_start": 334.13
-    },
-    {
-      "id": "235-h-iii-2",
-      "citation": "Section 235(h)(iii)",
-      "unit_type": "sub_clause",
-      "parent_id": "235-h",
-      "section_id": "235",
-      "section_number": "235",
-      "title": "Interpretation.",
-      "text": "a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 66.91,
-      "y_start": 363.84
-    },
-    {
-      "id": "235-h-iii-A",
-      "citation": "Section 235(h)(iii)(A)",
-      "unit_type": "item",
-      "parent_id": "235-h-iii",
-      "section_id": "235",
-      "section_number": "235",
-      "title": "Interpretation.",
-      "text": "a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(A): a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
+      "text": "but does not include—",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -382,15 +363,34 @@
       "y_start": 385.05
     },
     {
-      "id": "235-h-iii-B",
-      "citation": "Section 235(h)(iii)(B)",
+      "id": "235-i-exclusions-A",
+      "citation": "Section 235(i), Exclusion block, Item (A)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (A): a seagoing ship or vessel or inland vessel, as the case may be, if the main purpose for which it is used is the provision of goods or services of a kind normally provided on land;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 68.93,
+      "y_start": 385.05
+    },
+    {
+      "id": "235-i-exclusions-B",
+      "citation": "Section 235(i), Exclusion block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "fishing vessels;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(B): fishing vessels;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (B): fishing vessels;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -401,15 +401,15 @@
       "y_start": 405.21
     },
     {
-      "id": "235-h-iii-C",
-      "citation": "Section 235(h)(iii)(C)",
+      "id": "235-i-exclusions-C",
+      "citation": "Section 235(i), Exclusion block, Item (C)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "factory ships;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(C): factory ships;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (C): factory ships;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -420,15 +420,15 @@
       "y_start": 415.82
     },
     {
-      "id": "235-h-iii-D",
-      "citation": "Section 235(h)(iii)(D)",
+      "id": "235-i-exclusions-D",
+      "citation": "Section 235(i), Exclusion block, Item (D)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "pleasure crafts;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(D): pleasure crafts;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (D): pleasure crafts;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -439,15 +439,15 @@
       "y_start": 426.43
     },
     {
-      "id": "235-h-iii-E",
-      "citation": "Section 235(h)(iii)(E)",
+      "id": "235-i-exclusions-E",
+      "citation": "Section 235(i), Exclusion block, Item (E)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "harbour and river ferries;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(E): harbour and river ferries;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (E): harbour and river ferries;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -458,15 +458,15 @@
       "y_start": 437.03
     },
     {
-      "id": "235-h-iii-F",
-      "citation": "Section 235(h)(iii)(F)",
+      "id": "235-i-exclusions-F",
+      "citation": "Section 235(i), Exclusion block, Item (F)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "offshore installations; and",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(F): offshore installations; and",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (F): offshore installations; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -477,15 +477,15 @@
       "y_start": 447.64
     },
     {
-      "id": "235-h-iii-G",
-      "citation": "Section 235(h)(iii)(G)",
+      "id": "235-i-exclusions-G",
+      "citation": "Section 235(i), Exclusion block, Item (G)",
       "unit_type": "item",
-      "parent_id": "235-h-iii",
+      "parent_id": "235-i-exclusions",
       "section_id": "235",
       "section_number": "235",
       "title": "Interpretation.",
       "text": "a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
-      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(h): \"qualifying company\" means a company, if— and for the purposes of sub-clause (ii), \"place of effective management of the company\" means— but does not include— Section 235(h)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force, Section 235(h)(iii)(G): a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i), Exclusion block: but does not include— Section 235(i), Exclusion block, Item (G): a qualifying ship which is used as a fishing vessel for more than thirty days during a tax year;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -494,6 +494,63 @@
       "line_start": null,
       "x": 67.98,
       "y_start": 458.25
+    },
+    {
+      "id": "235-i-i",
+      "citation": "Section 235(i)(i)",
+      "unit_type": "sub_clause",
+      "parent_id": "235-i",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "it is a seagoing ship or vessel or inland vessel, as the case may be, of fifteen net tonnage or more;",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i)(i): it is a seagoing ship or vessel or inland vessel, as the case may be, of fifteen net tonnage or more;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 71.75,
+      "y_start": 323.52
+    },
+    {
+      "id": "235-i-ii",
+      "citation": "Section 235(i)(ii)",
+      "unit_type": "sub_clause",
+      "parent_id": "235-i",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "it is a ship registered under the Merchant Shipping Act, 1958 (44 of 1958), or a ship registered outside India in respect of which a licence has been issued by the Director-General of Shipping under section 406 or 407 of said Act or an inland vessel registered under the Inland Vessels Act, 2021 (24 of 2021), as the case may be; and",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i)(ii): it is a ship registered under the Merchant Shipping Act, 1958 (44 of 1958), or a ship registered outside India in respect of which a licence has been issued by the Director-General of Shipping under section 406 or 407 of said Act or an inland vessel registered under the Inland Vessels Act, 2021 (24 of 2021), as the case may be; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 69.33,
+      "y_start": 334.13
+    },
+    {
+      "id": "235-i-iii",
+      "citation": "Section 235(i)(iii)",
+      "unit_type": "sub_clause",
+      "parent_id": "235-i",
+      "section_id": "235",
+      "section_number": "235",
+      "title": "Interpretation.",
+      "text": "a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
+      "retrieval_text": "Section 235 Interpretation. For the purposes of this Part,— Section 235(i): \"qualifying ship\" means a ship or inland vessel, as the case may be, if— Section 235(i)(iii): a valid certificate in respect of such ship or inland vessel, as the case may be, indicating its net tonnage is in force,",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 66.91,
+      "y_start": 363.84
     },
     {
       "id": "235-j",
@@ -708,6 +765,42 @@
       "source_mentions": [
         "section 3(q) of the Inland Vessels Act, 2021 (24 of 2021)"
       ]
+    },
+    {
+      "id": "ext-india-act-1985-82",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Inland Waterways Authority of India Act",
+      "title_year": "1985",
+      "act_number": "82",
+      "act_year": "1985",
+      "official_citation": "82 of 1985",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Inland Waterways Authority of India Act,1985 (82 of 1985)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1985-82-section-3",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1985-82",
+      "jurisdiction": "India",
+      "act_title": "Inland Waterways Authority of India Act",
+      "title_year": "1985",
+      "act_number": "82",
+      "act_year": "1985",
+      "official_citation": "82 of 1985",
+      "identity_basis": "official_citation",
+      "locator_text": "section 3",
+      "section": "3",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 3 of the Inland Waterways Authority of India Act,1985 (82 of 1985)"
+      ]
     }
   ],
   "graph_edges": [
@@ -772,6 +865,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "235-fa",
+      "to_id": "235",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "235",
+      "to_id": "235-fa",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "235-g",
       "to_id": "235",
       "edge_type": "parent"
@@ -789,6 +892,36 @@
     {
       "from_id": "235",
       "to_id": "235-h",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "235-h-explanation",
+      "to_id": "235-h",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "235-h",
+      "to_id": "235-h-explanation",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "235-h-explanation-A",
+      "to_id": "235-h-explanation",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "235-h-explanation",
+      "to_id": "235-h-explanation-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "235-h-explanation-B",
+      "to_id": "235-h-explanation",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "235-h-explanation",
+      "to_id": "235-h-explanation-B",
       "edge_type": "contains"
     },
     {
@@ -832,133 +965,123 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iv-A",
-      "to_id": "235-h-iv",
+      "from_id": "235-i",
+      "to_id": "235",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iv",
-      "to_id": "235-h-iv-A",
+      "from_id": "235",
+      "to_id": "235-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iv-B",
-      "to_id": "235-h-iv",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iv",
-      "to_id": "235-h-iv-B",
+      "from_id": "235-i",
+      "to_id": "235-i-exclusions",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-i-2",
-      "to_id": "235-h",
+      "from_id": "235-i-exclusions-A",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h",
-      "to_id": "235-h-i-2",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-A",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-i-3",
-      "to_id": "235-h",
+      "from_id": "235-i-exclusions-B",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h",
-      "to_id": "235-h-i-3",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-B",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-ii-2",
-      "to_id": "235-h",
+      "from_id": "235-i-exclusions-C",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h",
-      "to_id": "235-h-ii-2",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-C",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-2",
-      "to_id": "235-h",
+      "from_id": "235-i-exclusions-D",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h",
-      "to_id": "235-h-iii-2",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-D",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-A",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-exclusions-E",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-A",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-E",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-B",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-exclusions-F",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-B",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-F",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-C",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-exclusions-G",
+      "to_id": "235-i-exclusions",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-C",
+      "from_id": "235-i-exclusions",
+      "to_id": "235-i-exclusions-G",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-D",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-i",
+      "to_id": "235-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-D",
+      "from_id": "235-i",
+      "to_id": "235-i-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-E",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-ii",
+      "to_id": "235-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-E",
+      "from_id": "235-i",
+      "to_id": "235-i-ii",
       "edge_type": "contains"
     },
     {
-      "from_id": "235-h-iii-F",
-      "to_id": "235-h-iii",
+      "from_id": "235-i-iii",
+      "to_id": "235-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-F",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "235-h-iii-G",
-      "to_id": "235-h-iii",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "235-h-iii",
-      "to_id": "235-h-iii-G",
+      "from_id": "235-i",
+      "to_id": "235-i-iii",
       "edge_type": "contains"
     },
     {
@@ -1076,13 +1199,29 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "235-h",
+      "from_id": "235-fa",
+      "to_id": "ext-india-act-1985-82-section-3",
+      "edge_type": "references_external",
+      "reference_text": "section 3 of the Inland Waterways Authority of India Act,1985 (82 of 1985)",
+      "target_act_id": "ext-india-act-1985-82",
+      "target_act_title": "Inland Waterways Authority of India Act",
+      "target_section": "3",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "82",
+      "target_act_year": "1985",
+      "target_act_title_year": "1985",
+      "target_official_citation": "82 of 1985",
+      "target_identity_basis": "official_citation"
+    },
+    {
+      "from_id": "235-h-explanation",
       "to_id": "235-h-ii",
       "edge_type": "references",
       "reference_text": "clause (ii)"
     },
     {
-      "from_id": "235-h-ii-2",
+      "from_id": "235-i-ii",
       "to_id": "ext-india-act-1958-44",
       "edge_type": "references_external_act",
       "reference_text": "Merchant Shipping Act, 1958 (44 of 1958)",
@@ -1096,7 +1235,7 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "235-h-ii-2",
+      "from_id": "235-i-ii",
       "to_id": "ext-india-act-2021-24",
       "edge_type": "references_external_act",
       "reference_text": "Inland Vessels Act, 2021 (24 of 2021)",
@@ -1110,7 +1249,7 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "235-h-ii-2",
+      "from_id": "235-i-ii",
       "to_id": "406",
       "edge_type": "references",
       "reference_text": "section 406"

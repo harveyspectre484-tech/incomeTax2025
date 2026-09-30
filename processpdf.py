@@ -60,53 +60,53 @@ list2 = list(range(2,535))
 
 # list3 = list(set(list2) - set(list1))
 
-# for num in list2:
-#     input = fr"/Users/avikalchauhan/incometax2025anti/incomeTax2025/txt_to_json/{num}section.json"
+for num in list2:
+    input = fr"/Users/avikalchauhan/incometax2025anti/incomeTax2025/txt_to_json/{num}section.json"
 
-#     output = fr"/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/{num}section_can.json"
+    output = fr"/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json/{num}section_can.json"
 
-#     subprocess.run(["python",r"/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json.py",input,  output]) 
+    subprocess.run(["python",r"/Users/avikalchauhan/incometax2025anti/incomeTax2025/canonicalize_legal_json.py",input,  output]) 
 
 # import subprocess
 
-import csv
-import subprocess
-import sys
-from pathlib import Path
+# import csv
+# import subprocess
+# import sys
+# from pathlib import Path
 
-base = Path(r"C:\Users\10459\Desktop\rag\incomeTax2025")
-find_py = base / "find.py"
-out_dir = base / "find"
-out_dir.mkdir(exist_ok=True)
+# base = Path(r"C:\Users\10459\Desktop\rag\incomeTax2025")
+# find_py = base / "find.py"
+# out_dir = base / "find"
+# out_dir.mkdir(exist_ok=True)
 
-kept = []      # sections that have at least one match
-empty = []     # sections with no match (CSV removed)
+# kept = []      # sections that have at least one match
+# empty = []     # sections with no match (CSV removed)
 
-for num in range(2, 535):
-    input_file = base / "txtformatnew" / f"{num}income_tax_raw.txt"
-    output_file = out_dir / f"{num}section.csv"
+# for num in range(2, 535):
+#     input_file = base / "txtformatnew" / f"{num}income_tax_raw.txt"
+#     output_file = out_dir / f"{num}section.csv"
 
-    if not input_file.exists():
-        print(f"skip {num}: {input_file.name} not found")
-        continue
+#     if not input_file.exists():
+#         print(f"skip {num}: {input_file.name} not found")
+#         continue
 
-    subprocess.run(
-        [sys.executable, str(find_py), str(input_file), "-o", str(output_file)],
-        check=True,
-    )
+#     subprocess.run(
+#         [sys.executable, str(find_py), str(input_file), "-o", str(output_file)],
+#         check=True,
+#     )
 
-    # count data rows (everything after the header)
-    with open(output_file, newline="", encoding="utf-8-sig") as fh:
-        rows = list(csv.reader(fh))
-    data_rows = len(rows) - 1
+#     # count data rows (everything after the header)
+#     with open(output_file, newline="", encoding="utf-8-sig") as fh:
+#         rows = list(csv.reader(fh))
+#     data_rows = len(rows) - 1
 
-    if data_rows > 0:
-        kept.append((num, data_rows))
-    else:
-        output_file.unlink()          # no rows -> don't keep the CSV
-        empty.append(num)
+#     if data_rows > 0:
+#         kept.append((num, data_rows))
+#     else:
+#         output_file.unlink()          # no rows -> don't keep the CSV
+#         empty.append(num)
 
-print(f"\nCSV kept for {len(kept)} section(s):")
-for num, n in kept:
-    print(f"  {num}section.csv  ({n} match(es))")
-print(f"\nNo match (CSV removed) for {len(empty)} section(s)")
+# print(f"\nCSV kept for {len(kept)} section(s):")
+# for num, n in kept:
+#     print(f"  {num}section.csv  ({n} match(es))")
+# print(f"\nNo match (CSV removed) for {len(empty)} section(s)")

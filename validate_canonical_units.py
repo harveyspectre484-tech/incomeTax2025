@@ -9,7 +9,16 @@ from pathlib import Path
 from typing import Any
 
 
-CHILD_KEYS = ("subsections", "clauses", "sub_clauses", "items", "children")
+CHILD_KEYS = (
+    "subsections",
+    "clauses",
+    "sub_clauses",
+    "items",
+    "sub_items",
+    "conditions",
+    "children",
+)
+BLOCK_KEYS = ("where_block", "exclusion_block", "explanation_block")
 
 
 def main() -> None:
@@ -135,6 +144,8 @@ def validate_pair(
     unexpected = sorted(actual_id_set - expected_ids, key=natural_key)
     for unit_id in unexpected:
         unit = next((item for item in units if str(item.get("id")) == unit_id), {})
+        if str(unit.get("source_id") or "") in expected_ids:
+            continue
         if unit.get("generated_from_inline_text"):
             continue
         if unit.get("unit_type") in {"table", "table_row", "table_cell_item", "longline", "longline_clause"}:
@@ -156,6 +167,19 @@ def validate_pair(
         citation_section = citation_section_number(citation)
         if citation_section and citation_section != str(unit.get("section_number")):
             issues.append(issue(section_no, "WARN", "citation_mismatch", f"{unit_id} citation may not match section: {citation}", can_path))
+        source_id = str(unit.get("source_id") or "")
+        source_prefix = re.match(r"^(\d+)(?:-|$)", source_id)
+        if source_prefix and source_prefix.group(1) != section_no:
+            issues.append(
+                issue(
+                    section_no,
+                    "WARN",
+                    "source_id_section_mismatch",
+                    f"{unit_id} was derived from source_id '{source_id}', which belongs to another section prefix.",
+                    can_path,
+                    unit_id,
+                )
+            )
 
     catalog = global_unit_ids or actual_id_set
     for edge in canonical.get("graph_edges", []) or []:
@@ -237,11 +261,33 @@ def validate_pair(
 
 def expected_units(raw: dict[str, Any]) -> list[dict[str, str]]:
     expected: list[dict[str, str]] = []
-    for section in raw.get("sections", []) or []:
+    for section in iter_source_sections(raw):
         section_id = str(section.get("id") or section.get("number"))
         expected.append({"id": section_id, "unit_type": "section"})
         walk_children(section, expected)
     return expected
+
+
+def iter_source_sections(raw: dict[str, Any]):
+    seen: set[str] = set()
+    for section in raw.get("sections", []) or []:
+        if not isinstance(section, dict):
+            continue
+        identity = str(section.get("id") or section.get("number") or id(section))
+        seen.add(identity)
+        yield section
+
+    for chapter in raw.get("chapters", []) or []:
+        if not isinstance(chapter, dict):
+            continue
+        for section in chapter.get("sections", []) or []:
+            if not isinstance(section, dict):
+                continue
+            identity = str(section.get("id") or section.get("number") or id(section))
+            if identity in seen:
+                continue
+            seen.add(identity)
+            yield section
 
 
 def walk_children(node: dict[str, Any], expected: list[dict[str, str]]) -> None:
@@ -253,6 +299,14 @@ def walk_children(node: dict[str, Any], expected: list[dict[str, str]]) -> None:
             if child_id:
                 expected.append({"id": str(child_id), "unit_type": str(child.get("type", ""))})
             walk_children(child, expected)
+    for block_key in BLOCK_KEYS:
+        block = node.get(block_key)
+        if not isinstance(block, dict):
+            continue
+        block_id = block.get("id")
+        if block_id:
+            expected.append({"id": str(block_id), "unit_type": str(block.get("type") or block_key)})
+        walk_children(block, expected)
     table = node.get("table")
     if isinstance(table, dict):
         table_id = table.get("id")
@@ -273,6 +327,10 @@ def collect_table_cell_ids(value: Any, expected: list[dict[str, str]]) -> None:
         for key in CHILD_KEYS:
             for child in value.get(key, []) or []:
                 collect_table_cell_ids(child, expected)
+        for block_key in BLOCK_KEYS:
+            block = value.get(block_key)
+            if isinstance(block, dict):
+                collect_table_cell_ids(block, expected)
 
 
 def find_tables(value: Any) -> list[dict[str, Any]]:

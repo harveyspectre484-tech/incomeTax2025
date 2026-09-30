@@ -82,7 +82,7 @@
                   "y_start": 480.0,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "in case of any other company, at a rate of 28[14%]."
+                  "text": "in case of any other company, at a rate of 14%."
                 }
               ]
             },
@@ -94,8 +94,8 @@
               "y_start": 430.0,
               "page_start": 1,
               "page_end": 1,
-              "text": "For the purposes of this section, \"book profit\" means the profit as shown in the statement of profit and loss for the relevant tax year prepared as per clause (f), as increased by—",
-              "children": [
+              "text_before_sub_clause": "For the purposes of this section, \"book profit\" means the profit as shown in the statement of profit and loss for the relevant tax year prepared as per clause (f), as increased by—",
+              "sub-clause": [
                 {
                   "type": "sub-clause",
                   "number": "i",
@@ -254,9 +254,10 @@
                   "y_start": 480.0,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "loss brought forward (excluding depreciation) or unabsorbed depreciation, whichever is less, as per books of account, except, where either of such amount is nil, in case of a company other than the company referred to in clause (d)(vi) and (vii), and as further adjusted by the amounts referred to in clause (d)."
+                  "text": "loss brought forward (excluding depreciation) or unabsorbed depreciation, whichever is less, as per books of account, except, where either of such amount is nil, in case of a company other than the company referred to in clause (d)(vi) and (vii),"
                 }
-              ]
+              ],
+              "text_after_sub_clause": "and as further adjusted by the amounts referred to in clause (d)."
             },
             {
               "type": "clause",
