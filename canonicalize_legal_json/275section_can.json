@@ -142,8 +142,8 @@
       "section_id": "275",
       "section_number": "275",
       "title": "Reference to Dispute Resolution Panel.",
-      "text": "The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,—",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,—",
+      "text": "The Assessing Officer shall complete the assessment on the basis of the draft order, if—",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -162,7 +162,7 @@
       "section_number": "275",
       "title": "Reference to Dispute Resolution Panel.",
       "text": "the assessee intimates to the Assessing Officer the acceptance of the variation; or",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,— Section 275(3)(a): the assessee intimates to the Assessing Officer the acceptance of the variation; or",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— Section 275(3)(a): the assessee intimates to the Assessing Officer the acceptance of the variation; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -181,7 +181,7 @@
       "section_number": "275",
       "title": "Reference to Dispute Resolution Panel.",
       "text": "no objection is received within the period specified in sub-section (2).",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,— Section 275(3)(b): no objection is received within the period specified in sub-section (2).",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— Section 275(3)(b): no objection is received within the period specified in sub-section (2).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -192,15 +192,34 @@
       "y_start": 204.71
     },
     {
-      "id": "275-3-b-i",
-      "citation": "Section 275(3)(b)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "275-3-b",
+      "id": "275-4",
+      "citation": "Section 275(4)",
+      "unit_type": "subsection",
+      "parent_id": "275",
       "section_id": "275",
       "section_number": "275",
       "title": "Reference to Dispute Resolution Panel.",
-      "text": "the acceptance is received; or",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,— Section 275(3)(b): no objection is received within the period specified in sub-section (2). Section 275(3)(b)(i): the acceptance is received; or",
+      "text": "",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(4):",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": null
+    },
+    {
+      "id": "275-4-a",
+      "citation": "Section 275(4)(a)",
+      "unit_type": "sub_clause",
+      "parent_id": "275-4",
+      "section_id": "275",
+      "section_number": "275",
+      "title": "Reference to Dispute Resolution Panel.",
+      "text": "The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(4): Section 275(4)(a): The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -211,34 +230,15 @@
       "y_start": 243.96
     },
     {
-      "id": "275-3-b-ii",
-      "citation": "Section 275(3)(b)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "275-3-b",
-      "section_id": "275",
-      "section_number": "275",
-      "title": "Reference to Dispute Resolution Panel.",
-      "text": "the period of filing of objections under sub-section (2) expires.",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,— Section 275(3)(b): no objection is received within the period specified in sub-section (2). Section 275(3)(b)(ii): the period of filing of objections under sub-section (2) expires.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.26,
-      "y_start": 254.57
-    },
-    {
-      "id": "275-3-b-2",
-      "citation": "Section 275(3)(b)",
+      "id": "275-4-b",
+      "citation": "Section 275(4)(b)",
       "unit_type": "clause",
-      "parent_id": "275-3",
+      "parent_id": "275-4",
       "section_id": "275",
       "section_number": "275",
       "title": "Reference to Dispute Resolution Panel.",
-      "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be",
-      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(3): The Assessing Officer shall complete the assessment on the basis of the draft order, if— from the end of the month in which,— Section 275(3)(b): Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be",
+      "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be governed by the provisions of this sub-section.]",
+      "retrieval_text": "Section 275 Reference to Dispute Resolution Panel. Section 275(4): Section 275(4)(b): Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be governed by the provisions of this sub-section.]",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -741,33 +741,33 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "275-3-b-i",
-      "to_id": "275-3-b",
+      "from_id": "275-4",
+      "to_id": "275",
       "edge_type": "parent"
     },
     {
-      "from_id": "275-3-b",
-      "to_id": "275-3-b-i",
+      "from_id": "275",
+      "to_id": "275-4",
       "edge_type": "contains"
     },
     {
-      "from_id": "275-3-b-ii",
-      "to_id": "275-3-b",
+      "from_id": "275-4-a",
+      "to_id": "275-4",
       "edge_type": "parent"
     },
     {
-      "from_id": "275-3-b",
-      "to_id": "275-3-b-ii",
+      "from_id": "275-4",
+      "to_id": "275-4-a",
       "edge_type": "contains"
     },
     {
-      "from_id": "275-3-b-2",
-      "to_id": "275-3",
+      "from_id": "275-4-b",
+      "to_id": "275-4",
       "edge_type": "parent"
     },
     {
-      "from_id": "275-3",
-      "to_id": "275-3-b-2",
+      "from_id": "275-4",
+      "to_id": "275-4-b",
       "edge_type": "contains"
     },
     {
@@ -987,25 +987,31 @@
       "reference_text": "sub-section (2)"
     },
     {
-      "from_id": "275-3-b-ii",
-      "to_id": "275-2",
-      "edge_type": "references",
-      "reference_text": "sub-section (2)"
-    },
-    {
-      "from_id": "275-3-b-2",
+      "from_id": "275-4-a",
       "to_id": "286",
       "edge_type": "references",
       "reference_text": "section 286"
     },
     {
-      "from_id": "275-3-b-2",
+      "from_id": "275-4-a",
+      "to_id": "275-3",
+      "edge_type": "references",
+      "reference_text": "sub-section (3)"
+    },
+    {
+      "from_id": "275-4-b",
+      "to_id": "286",
+      "edge_type": "references",
+      "reference_text": "section 286"
+    },
+    {
+      "from_id": "275-4-b",
       "to_id": "275-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "275-3-b-2",
+      "from_id": "275-4-b",
       "to_id": "275-3",
       "edge_type": "references",
       "reference_text": "sub-section (3)"

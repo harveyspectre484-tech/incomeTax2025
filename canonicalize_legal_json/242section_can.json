@@ -28,8 +28,8 @@
       "section_id": "242",
       "section_number": "242",
       "title": "Jurisdiction of Assessing Officers.",
-      "text": "Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or",
-      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(1): Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or",
+      "text": "Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or (3), he shall have jurisdiction within the limits of such area,—",
+      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(1): Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or (3), he shall have jurisdiction within the limits of such area,—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -40,34 +40,15 @@
       "y_start": 80.59
     },
     {
-      "id": "242-3",
-      "citation": "Section 242(3)",
-      "unit_type": "subsection",
-      "parent_id": "242",
-      "section_id": "242",
-      "section_number": "242",
-      "title": "Jurisdiction of Assessing Officers.",
-      "text": ", he shall have jurisdiction within the limits of such area,—",
-      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(3): , he shall have jurisdiction within the limits of such area,—",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 93.32
-    },
-    {
-      "id": "242-3-a",
-      "citation": "Section 242(3)(a)",
+      "id": "242-1-a",
+      "citation": "Section 242(1)(a)",
       "unit_type": "clause",
-      "parent_id": "242-3",
+      "parent_id": "242-1",
       "section_id": "242",
       "section_number": "242",
       "title": "Jurisdiction of Assessing Officers.",
       "text": "in respect of any person carrying on a business or profession, if the place at which he carries on his business or profession is situated within the area, or where his business or profession is carried on in more places than one, if the principal place of his business or profession is situated within the area; and",
-      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(3): , he shall have jurisdiction within the limits of such area,— Section 242(3)(a): in respect of any person carrying on a business or profession, if the place at which he carries on his business or profession is situated within the area, or where his business or profession is carried on in more places than one, if the principal place of his business or profession is situated within the area; and",
+      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(1): Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or (3), he shall have jurisdiction within the limits of such area,— Section 242(1)(a): in respect of any person carrying on a business or profession, if the place at which he carries on his business or profession is situated within the area, or where his business or profession is carried on in more places than one, if the principal place of his business or profession is situated within the area; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -78,15 +59,15 @@
       "y_start": 108.17
     },
     {
-      "id": "242-3-b",
-      "citation": "Section 242(3)(b)",
+      "id": "242-1-b",
+      "citation": "Section 242(1)(b)",
       "unit_type": "clause",
-      "parent_id": "242-3",
+      "parent_id": "242-1",
       "section_id": "242",
       "section_number": "242",
       "title": "Jurisdiction of Assessing Officers.",
       "text": "in respect of any other person residing within the area.",
-      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(3): , he shall have jurisdiction within the limits of such area,— Section 242(3)(b): in respect of any other person residing within the area.",
+      "retrieval_text": "Section 242 Jurisdiction of Assessing Officers. Section 242(1): Where an Assessing Officer has been vested with jurisdiction over any area by virtue of any direction or order issued under section 241(1) or (2) or (3), he shall have jurisdiction within the limits of such area,— Section 242(1)(b): in respect of any other person residing within the area.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -116,7 +97,7 @@
       "y_start": 149.54
     },
     {
-      "id": "242-3-2",
+      "id": "242-3",
       "citation": "Section 242(3)",
       "unit_type": "subsection",
       "parent_id": "242",
@@ -135,7 +116,7 @@
       "y_start": 177.66
     },
     {
-      "id": "242-3-a-2",
+      "id": "242-3-a",
       "citation": "Section 242(3)(a)",
       "unit_type": "clause",
       "parent_id": "242-3",
@@ -154,7 +135,7 @@
       "y_start": 204.71
     },
     {
-      "id": "242-3-b-2",
+      "id": "242-3-b",
       "citation": "Section 242(3)(b)",
       "unit_type": "clause",
       "parent_id": "242-3",
@@ -300,6 +281,36 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "242-1-a",
+      "to_id": "242-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "242-1",
+      "to_id": "242-1-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "242-1-b",
+      "to_id": "242-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "242-1",
+      "to_id": "242-1-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "242-2",
+      "to_id": "242",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "242",
+      "to_id": "242-2",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "242-3",
       "to_id": "242",
       "edge_type": "parent"
@@ -327,46 +338,6 @@
     {
       "from_id": "242-3",
       "to_id": "242-3-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "242-2",
-      "to_id": "242",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "242",
-      "to_id": "242-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "242-3-2",
-      "to_id": "242",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "242",
-      "to_id": "242-3-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "242-3-a-2",
-      "to_id": "242-3",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "242-3",
-      "to_id": "242-3-a-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "242-3-b-2",
-      "to_id": "242-3",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "242-3",
-      "to_id": "242-3-b-2",
       "edge_type": "contains"
     },
     {

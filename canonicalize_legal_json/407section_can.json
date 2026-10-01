@@ -199,8 +199,8 @@
       "section_id": "407",
       "section_number": "407",
       "title": "Payment of advance tax by assessee in pursuance of order of Assessing Officer.",
-      "text": "In sub-section (4), \"specified sum\" means the total income declared in the return of income or computed in regular assessment mentioned in sub-section",
-      "retrieval_text": "Section 407 Payment of advance tax by assessee in pursuance of order of Assessing Officer. Section 407(6): In sub-section (4), \"specified sum\" means the total income declared in the return of income or computed in regular assessment mentioned in sub-section",
+      "text": "In sub-section (4), \"specified sum\" means the total income declared in the return of income or computed in regular assessment mentioned in sub-section(4)(a) and (b), respectively.",
+      "retrieval_text": "Section 407 Payment of advance tax by assessee in pursuance of order of Assessing Officer. Section 407(6): In sub-section (4), \"specified sum\" means the total income declared in the return of income or computed in regular assessment mentioned in sub-section(4)(a) and (b), respectively.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -209,44 +209,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 292.76
-    },
-    {
-      "id": "407-4-2",
-      "citation": "Section 407(4)",
-      "unit_type": "subsection",
-      "parent_id": "407",
-      "section_id": "407",
-      "section_number": "407",
-      "title": "Payment of advance tax by assessee in pursuance of order of Assessing Officer.",
-      "text": "",
-      "retrieval_text": "Section 407 Payment of advance tax by assessee in pursuance of order of Assessing Officer. Section 407(4):",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 305.49
-    },
-    {
-      "id": "407-4-a-2",
-      "citation": "Section 407(4)(a)",
-      "unit_type": "clause",
-      "parent_id": "407-4",
-      "section_id": "407",
-      "section_number": "407",
-      "title": "Payment of advance tax by assessee in pursuance of order of Assessing Officer.",
-      "text": "and (b), respectively.",
-      "retrieval_text": "Section 407 Payment of advance tax by assessee in pursuance of order of Assessing Officer. Section 407(4): Section 407(4)(a): and (b), respectively.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 305.49
     },
     {
       "id": "407-7",
@@ -406,26 +368,6 @@
     {
       "from_id": "407",
       "to_id": "407-6",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "407-4-2",
-      "to_id": "407",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "407",
-      "to_id": "407-4-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "407-4-a-2",
-      "to_id": "407-4",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "407-4",
-      "to_id": "407-4-a-2",
       "edge_type": "contains"
     },
     {

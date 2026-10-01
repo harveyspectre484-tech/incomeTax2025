@@ -142,8 +142,8 @@
       "section_id": "524",
       "section_number": "524",
       "title": "Presumption as to assets, books of account, etc.",
-      "text": "Where any books of account, other documents or assets have been delivered to the requisitioning officer as per section 248, then, the provisions of sub- section (1) shall apply as if such books of account, other documents or assets, which had been taken into custody from the person referred to in sub-section",
-      "retrieval_text": "Section 524 Presumption as to assets, books of account, etc. Section 524(2): Where any books of account, other documents or assets have been delivered to the requisitioning officer as per section 248, then, the provisions of sub- section (1) shall apply as if such books of account, other documents or assets, which had been taken into custody from the person referred to in sub-section",
+      "text": "Where any books of account, other documents or assets have been delivered to the requisitioning officer as per section 248, then, the provisions of sub- section (1) shall apply as if such books of account, other documents or assets, which had been taken into custody from the person referred to in sub-section (1)(a) or (b) or (c) of the said section, had been found in the possession or control of that person in the course of a search under section 247.",
+      "retrieval_text": "Section 524 Presumption as to assets, books of account, etc. Section 524(2): Where any books of account, other documents or assets have been delivered to the requisitioning officer as per section 248, then, the provisions of sub- section (1) shall apply as if such books of account, other documents or assets, which had been taken into custody from the person referred to in sub-section (1)(a) or (b) or (c) of the said section, had been found in the possession or control of that person in the course of a search under section 247.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -152,44 +152,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 235.47
-    },
-    {
-      "id": "524-1-2",
-      "citation": "Section 524(1)",
-      "unit_type": "subsection",
-      "parent_id": "524",
-      "section_id": "524",
-      "section_number": "524",
-      "title": "Presumption as to assets, books of account, etc.",
-      "text": "",
-      "retrieval_text": "Section 524 Presumption as to assets, books of account, etc. Section 524(1):",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 260.93
-    },
-    {
-      "id": "524-1-a-2",
-      "citation": "Section 524(1)(a)",
-      "unit_type": "clause",
-      "parent_id": "524-1",
-      "section_id": "524",
-      "section_number": "524",
-      "title": "Presumption as to assets, books of account, etc.",
-      "text": "or (b) or (c) of the said section, had been found in the possession or control of that person in the course of a search under section 247.",
-      "retrieval_text": "Section 524 Presumption as to assets, books of account, etc. Section 524(1): Section 524(1)(a): or (b) or (c) of the said section, had been found in the possession or control of that person in the course of a search under section 247.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 260.93
     }
   ],
   "external_nodes": [],
@@ -265,26 +227,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "524-1-2",
-      "to_id": "524",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "524",
-      "to_id": "524-1-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "524-1-a-2",
-      "to_id": "524-1",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "524-1",
-      "to_id": "524-1-a-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "524-1",
       "to_id": "261-g",
       "edge_type": "references",
@@ -315,10 +257,16 @@
       "reference_text": "section 248"
     },
     {
-      "from_id": "524-1-a-2",
+      "from_id": "524-2",
       "to_id": "247",
       "edge_type": "references",
       "reference_text": "section 247"
+    },
+    {
+      "from_id": "524-2",
+      "to_id": "524-1-a",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)(a)"
     }
   ]
 }

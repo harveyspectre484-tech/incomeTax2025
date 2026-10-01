@@ -420,15 +420,15 @@
       "y_start": 380.81
     },
     {
-      "id": "26-2-h-i-2",
-      "citation": "Section 26(2)(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "26-2-h",
+      "id": "26-2-i",
+      "citation": "Section 26(2)(i)",
+      "unit_type": "clause",
+      "parent_id": "26-2",
       "section_id": "26",
       "section_number": "26",
       "title": "Income under head \"Profits and gains of business or profession\".",
       "text": "any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy;",
-      "retrieval_text": "Section 26 Income under head \"Profits and gains of business or profession\". Section 26(2): The income under sub-section (1) shall include— Section 26(2)(h): any sum, received or receivable, in cash or in kind— Section 26(2)(h)(i): any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy;",
+      "retrieval_text": "Section 26 Income under head \"Profits and gains of business or profession\". Section 26(2): The income under sub-section (1) shall include— Section 26(2)(i): any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -803,13 +803,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "26-2-h-i-2",
-      "to_id": "26-2-h",
+      "from_id": "26-2-i",
+      "to_id": "26-2",
       "edge_type": "parent"
     },
     {
-      "from_id": "26-2-h",
-      "to_id": "26-2-h-i-2",
+      "from_id": "26-2",
+      "to_id": "26-2-i",
       "edge_type": "contains"
     },
     {

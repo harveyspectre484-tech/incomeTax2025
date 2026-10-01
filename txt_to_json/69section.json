@@ -120,7 +120,7 @@
               "page_start": 1,
               "page_end": 1,
               "text": "in any other case, \"promoter\" means,––",
-              "children": [
+              "sub_clauses": [
                 {
                   "type": "sub-clause",
                   "number": "i",
@@ -130,6 +130,16 @@
                   "page_start": 1,
                   "page_end": 1,
                   "text": "a \"promoter\" as defined in section 2(69) of the Companies Act, 2013 (18 of 2013); or"
+                },
+                {
+                  "type": "sub-clause",
+                  "number": "ii",
+                  "id": "69-3-b-ii",
+                  "x": 55.0,
+                  "y_start": 465.0,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "a person who holds, directly or indirectly, more than 10% of the shareholding in the company;"
                 }
               ]
             },
@@ -141,33 +151,9 @@
               "y_start": 430.0,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).]",
-              "children": [
-                {
-                  "type": "sub-clause",
-                  "number": "ii",
-                  "id": "69-3-c-ii",
-                  "x": 55.0,
-                  "y_start": 465.0,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "a person who holds, directly or indirectly, more than 10% of the shareholding in the company;"
-                }
-              ]
+              "text": "\"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).]"
             }
           ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "69-3",
-          "x": 27.62,
-          "y_start": 380.0,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "For the purposes of this section, \"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).'",
-          "clauses": [],
           "text_after_clauses": ""
         }
       ],

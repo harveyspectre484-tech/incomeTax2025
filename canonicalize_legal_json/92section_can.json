@@ -294,8 +294,8 @@
       "section_id": "92",
       "section_number": "92",
       "title": "Income from other sources.",
-      "text": "any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A), where— A = aggregate of the sum distributed by the business trust with respect to such unit, during the tax year or during any earlier tax year or years, to such unit holder, who holds such unit on the date of distribution of sum or to any other unit holder who held such unit at any time prior to the date of such distribution, which is—",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(k): any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A), where— A = aggregate of the sum distributed by the business trust with respect to such unit, during the tax year or during any earlier tax year or years, to such unit holder, who holds such unit on the date of distribution of sum or to any other unit holder who held such unit at any time prior to the date of such distribution, which is—",
+      "text": "any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A),",
+      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(k): any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A),",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -306,44 +306,6 @@
       "y_start": 364.9
     },
     {
-      "id": "92-2-a-2",
-      "citation": "Section 92(2)(a)",
-      "unit_type": "clause",
-      "parent_id": "92-2",
-      "section_id": "92",
-      "section_number": "92",
-      "title": "Income from other sources.",
-      "text": "not in the nature of income referred to in Schedule V (Table: Sl. No. 3 or 4); and",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(a): not in the nature of income referred to in Schedule V (Table: Sl. No. 3 or 4); and",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 130.02,
-      "y_start": 425.36
-    },
-    {
-      "id": "92-2-b-2",
-      "citation": "Section 92(2)(b)",
-      "unit_type": "clause",
-      "parent_id": "92-2",
-      "section_id": "92",
-      "section_number": "92",
-      "title": "Income from other sources.",
-      "text": "not chargeable to tax under section 223(2); B = amount at which such unit was issued by the business trust; and C = amount charged to tax under this clause in any earlier tax year;",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(b): not chargeable to tax under section 223(2); B = amount at which such unit was issued by the business trust; and C = amount charged to tax under this clause in any earlier tax year;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 130.02,
-      "y_start": 435.97
-    },
-    {
       "id": "92-2-l",
       "citation": "Section 92(2)(l)",
       "unit_type": "clause",
@@ -351,8 +313,8 @@
       "section_id": "92",
       "section_number": "92",
       "title": "Income from other sources.",
-      "text": "where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than—",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(l): where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than—",
+      "text": "where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than— and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed;",
+      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(l): where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than— and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -363,15 +325,15 @@
       "y_start": 467.8
     },
     {
-      "id": "92-2-a-3",
-      "citation": "Section 92(2)(a)",
-      "unit_type": "clause",
-      "parent_id": "92-2",
+      "id": "92-2-l-a",
+      "citation": "Section 92(2)(l)(a)",
+      "unit_type": "sub_clause",
+      "parent_id": "92-2-l",
       "section_id": "92",
       "section_number": "92",
       "title": "Income from other sources.",
       "text": "sums received under a unit linked insurance policy; or",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(a): sums received under a unit linked insurance policy; or",
+      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(l): where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than— and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed; Section 92(2)(l)(a): sums received under a unit linked insurance policy; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -382,15 +344,15 @@
       "y_start": 478.41
     },
     {
-      "id": "92-2-b-3",
-      "citation": "Section 92(2)(b)",
-      "unit_type": "clause",
-      "parent_id": "92-2",
+      "id": "92-2-l-b",
+      "citation": "Section 92(2)(l)(b)",
+      "unit_type": "sub_clause",
+      "parent_id": "92-2-l",
       "section_id": "92",
       "section_number": "92",
       "title": "Income from other sources.",
-      "text": "income referred to in clause (d), and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed;",
-      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(b): income referred to in clause (d), and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed;",
+      "text": "income referred to in clause (d),",
+      "retrieval_text": "Section 92 Income from other sources. Section 92(2): In particular, and without prejudice to the generality of the provisions of sub-section (1), the following incomes shall be chargeable to income-tax under the head \"Income from other sources\":— Section 92(2)(l): where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than— and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed; Section 92(2)(l)(b): income referred to in clause (d),",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -1540,26 +1502,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "92-2-a-2",
-      "to_id": "92-2",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "92-2",
-      "to_id": "92-2-a-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "92-2-b-2",
-      "to_id": "92-2",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "92-2",
-      "to_id": "92-2-b-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "92-2-l",
       "to_id": "92-2",
       "edge_type": "parent"
@@ -1570,23 +1512,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "92-2-a-3",
-      "to_id": "92-2",
+      "from_id": "92-2-l-a",
+      "to_id": "92-2-l",
       "edge_type": "parent"
     },
     {
-      "from_id": "92-2",
-      "to_id": "92-2-a-3",
+      "from_id": "92-2-l",
+      "to_id": "92-2-l-a",
       "edge_type": "contains"
     },
     {
-      "from_id": "92-2-b-3",
-      "to_id": "92-2",
+      "from_id": "92-2-l-b",
+      "to_id": "92-2-l",
       "edge_type": "parent"
     },
     {
-      "from_id": "92-2",
-      "to_id": "92-2-b-3",
+      "from_id": "92-2-l",
+      "to_id": "92-2-l-b",
       "edge_type": "contains"
     },
     {
@@ -2138,28 +2080,16 @@
       "reference_text": "section 278(1)"
     },
     {
-      "from_id": "92-2-a-2",
-      "to_id": "schedule-5",
-      "edge_type": "references",
-      "reference_text": "Schedule V"
-    },
-    {
-      "from_id": "92-2-b-2",
-      "to_id": "223-2",
-      "edge_type": "references",
-      "reference_text": "section 223(2)"
-    },
-    {
-      "from_id": "92-2-b-3",
-      "to_id": "92-2-d",
-      "edge_type": "references",
-      "reference_text": "clause (d)"
-    },
-    {
-      "from_id": "92-2-b-3",
+      "from_id": "92-2-l",
       "to_id": "schedule-2",
       "edge_type": "references",
       "reference_text": "Schedule II"
+    },
+    {
+      "from_id": "92-2-l-b",
+      "to_id": "92-2-d",
+      "edge_type": "references",
+      "reference_text": "clause (d)"
     },
     {
       "from_id": "92-3",

@@ -211,25 +211,6 @@
       "y_start": 344.21
     },
     {
-      "id": "376-4-a-2",
-      "citation": "Section 376(4)(a)",
-      "unit_type": "clause",
-      "parent_id": "376-4",
-      "section_id": "376",
-      "section_number": "376",
-      "title": "Procedure where an identical question of law is pending before High Courts or Supreme Court.",
-      "text": ".",
-      "retrieval_text": "Section 376 Procedure where an identical question of law is pending before High Courts or Supreme Court. Section 376(4): The Principal Commissioner or Commissioner shall direct the Assessing Officer— Section 376(4)(a): .",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 55.2,
-      "y_start": 353.76
-    },
-    {
       "id": "376-5",
       "citation": "Section 376(5)",
       "unit_type": "subsection",
@@ -466,16 +447,6 @@
     {
       "from_id": "376-4",
       "to_id": "376-4-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "376-4-a-2",
-      "to_id": "376-4",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "376-4",
-      "to_id": "376-4-a-2",
       "edge_type": "contains"
     },
     {

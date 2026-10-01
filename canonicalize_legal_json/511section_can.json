@@ -952,15 +952,15 @@
       "y_start": 256.16
     },
     {
-      "id": "511-10-h-i-2",
-      "citation": "Section 511(10)(h)(i)",
+      "id": "511-10-i",
+      "citation": "Section 511(10)(i)",
       "unit_type": "sub_clause",
-      "parent_id": "511-10-h",
+      "parent_id": "511-10",
       "section_id": "511",
       "section_number": "511",
       "title": "Furnishing of report in respect of international group.",
       "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
-      "retrieval_text": "Section 511 Furnishing of report in respect of international group. Section 511(10): For the purposes this section,— Section 511(10)(h): \"parent entity\" means a constituent entity, of an international group holding, directly or indirectly, an interest in one or more of the other constituent entities of the international group, such that— and, there is no other constituent entity of such group which, due to ownership of any interest, directly or indirectly, in the first mentioned constituent entity, is required to prepare a consolidated financial statement, under the circumstances referred to in sub-clause (i) or (ii), that includes the separate financial statement of the first mentioned constituent entity; Section 511(10)(h)(i): \"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
+      "retrieval_text": "Section 511 Furnishing of report in respect of international group. Section 511(10): For the purposes this section,— Section 511(10)(i): \"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -1559,13 +1559,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "511-10-h-i-2",
-      "to_id": "511-10-h",
+      "from_id": "511-10-i",
+      "to_id": "511-10",
       "edge_type": "parent"
     },
     {
-      "from_id": "511-10-h",
-      "to_id": "511-10-h-i-2",
+      "from_id": "511-10",
+      "to_id": "511-10-i",
       "edge_type": "contains"
     },
     {
@@ -1668,18 +1668,18 @@
     },
     {
       "from_id": "511-10-d-iii",
-      "to_id": "511-10-d-i",
+      "to_id": "511-10-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
       "from_id": "511-10-h",
-      "to_id": "511-10-h-i",
+      "to_id": "511-10-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
-      "from_id": "511-10-h-i-2",
+      "from_id": "511-10-i",
       "to_id": "173-c",
       "edge_type": "references",
       "reference_text": "section 173(c)"

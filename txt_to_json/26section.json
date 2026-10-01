@@ -248,20 +248,19 @@
                   "page_end": 1,
                   "text": "under an agreement for not sharing any know-how, patent, copyright, trade-mark, licence, franchise or any other business or commercial right of similar nature, or information or technique likely to assist in the manufacture or processing of goods or provision for services;",
                   "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "26-2-h-i",
-                  "x": 43.59,
-                  "y_start": 400.97,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy;",
-                  "children": []
                 }
-              ],
-              "text_after_sub_clauses": ""
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "26-2-i",
+              "x": 43.59,
+              "y_start": 400.97,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy;",
+              "children": []
             },
             {
               "type": "clause",

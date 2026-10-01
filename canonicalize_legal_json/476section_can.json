@@ -78,63 +78,6 @@
       "y_start": 106.05
     },
     {
-      "id": "476-b-i",
-      "citation": "Section 476(1)(b)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "476-b",
-      "section_id": "476",
-      "section_number": "476",
-      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
-      "text": "with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of such tax exceeds fifty lakh rupees; or",
-      "retrieval_text": "Section 476 Failure to pay tax to credit of Central Government under Chapter XIX-B. Section 476(1): If a person fails to— Section 476(1)(b): pay tax or ensure payment of tax to the credit of the Central Government in respect of–– Section 476(1)(b)(i): with simple imprisonment for a term up to two years, or with fine, or with both, where the amount of such tax exceeds fifty lakh rupees; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 42.68,
-      "y_start": 172.35
-    },
-    {
-      "id": "476-b-ii",
-      "citation": "Section 476(1)(b)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "476-b",
-      "section_id": "476",
-      "section_number": "476",
-      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
-      "text": "with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of such tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
-      "retrieval_text": "Section 476 Failure to pay tax to credit of Central Government under Chapter XIX-B. Section 476(1): If a person fails to— Section 476(1)(b): pay tax or ensure payment of tax to the credit of the Central Government in respect of–– Section 476(1)(b)(ii): with simple imprisonment for a term up to six months, or with fine, or with both, where the amount of such tax exceeds ten lakh rupees but does not exceed fifty lakh rupees; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.26,
-      "y_start": 182.96
-    },
-    {
-      "id": "476-b-iii",
-      "citation": "Section 476(1)(b)(iii)",
-      "unit_type": "sub_clause",
-      "parent_id": "476-b",
-      "section_id": "476",
-      "section_number": "476",
-      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
-      "text": "with fine, in any other case.]",
-      "retrieval_text": "Section 476 Failure to pay tax to credit of Central Government under Chapter XIX-B. Section 476(1): If a person fails to— Section 476(1)(b): pay tax or ensure payment of tax to the credit of the Central Government in respect of–– Section 476(1)(b)(iii): with fine, in any other case.]",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 37.84,
-      "y_start": 203.12
-    },
-    {
       "id": "476-b-A",
       "citation": "Section 476(1)(b)(A)",
       "unit_type": "item",
@@ -171,6 +114,25 @@
       "line_start": null,
       "x": 68.46,
       "y_start": 136.81
+    },
+    {
+      "id": "476-1-2",
+      "citation": "Section 476(1)",
+      "unit_type": "clause",
+      "parent_id": "476-1",
+      "section_id": "476",
+      "section_number": "476",
+      "title": "Failure to pay tax to credit of Central Government under Chapter XIX-B.",
+      "text": "",
+      "retrieval_text": "Section 476 Failure to pay tax to credit of Central Government under Chapter XIX-B. Section 476(1): If a person fails to— Section 476(1):",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null
     },
     {
       "id": "476-2",
@@ -225,36 +187,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "476-b-i",
-      "to_id": "476-b",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "476-b",
-      "to_id": "476-b-i",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "476-b-ii",
-      "to_id": "476-b",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "476-b",
-      "to_id": "476-b-ii",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "476-b-iii",
-      "to_id": "476-b",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "476-b",
-      "to_id": "476-b-iii",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "476-b-A",
       "to_id": "476-b",
       "edge_type": "parent"
@@ -272,6 +204,16 @@
     {
       "from_id": "476-b",
       "to_id": "476-b-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "476-1-2",
+      "to_id": "476-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "476-1",
+      "to_id": "476-1-2",
       "edge_type": "contains"
     },
     {

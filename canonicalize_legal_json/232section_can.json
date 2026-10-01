@@ -370,8 +370,8 @@
       "section_id": "232",
       "section_number": "232",
       "title": "Certain conditions for applicability of tonnage tax scheme.",
-      "text": "Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section",
-      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(9): Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section",
+      "text": "Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section(1), is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.",
+      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(9): Irrespective of anything contained in any other provision of this Part, where the amount credited to the Tonnage Tax Reserve Account as per sub-section(1), is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -380,25 +380,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 511.29
-    },
-    {
-      "id": "232-1-2",
-      "citation": "Section 232(1)",
-      "unit_type": "subsection",
-      "parent_id": "232",
-      "section_id": "232",
-      "section_number": "232",
-      "title": "Certain conditions for applicability of tonnage tax scheme.",
-      "text": "is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.",
-      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(1): is less than the minimum amount required to be credited under sub-section (1), an amount which bears the same proportion to the total relevant shipping income, as the shortfall in credit to the reserves bears to the minimum reserve required to be credited under sub-section (1), shall not be taxable under the tonnage tax scheme and shall be taxable under the other provisions of this Act.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 524.02
     },
     {
       "id": "232-10",
@@ -915,16 +896,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "232-1-2",
-      "to_id": "232",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "232",
-      "to_id": "232-1-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "232-10",
       "to_id": "232",
       "edge_type": "parent"
@@ -1193,7 +1164,7 @@
       "reference_text": "sub-section (7)"
     },
     {
-      "from_id": "232-1-2",
+      "from_id": "232-9",
       "to_id": "232-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"

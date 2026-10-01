@@ -66,8 +66,8 @@
       "section_id": "221",
       "section_number": "221",
       "title": "Tax on income from securitisation trusts.",
-      "text": "The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section",
-      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(3): The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section",
+      "text": "The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section(1), shall be deemed to have been credited to the account of the said person—",
+      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(3): The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section(1), shall be deemed to have been credited to the account of the said person—",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -78,34 +78,15 @@
       "y_start": 165.46
     },
     {
-      "id": "221-1-2",
-      "citation": "Section 221(1)",
-      "unit_type": "subsection",
-      "parent_id": "221",
-      "section_id": "221",
-      "section_number": "221",
-      "title": "Tax on income from securitisation trusts.",
-      "text": ", shall be deemed to have been credited to the account of the said person—",
-      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(1): , shall be deemed to have been credited to the account of the said person—",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 178.19
-    },
-    {
-      "id": "221-1-a",
-      "citation": "Section 221(1)(a)",
+      "id": "221-3-a",
+      "citation": "Section 221(3)(a)",
       "unit_type": "clause",
-      "parent_id": "221-1",
+      "parent_id": "221-3",
       "section_id": "221",
       "section_number": "221",
       "title": "Tax on income from securitisation trusts.",
       "text": "on the last day of the tax year; and",
-      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(1): , shall be deemed to have been credited to the account of the said person— Section 221(1)(a): on the last day of the tax year; and",
+      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(3): The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section(1), shall be deemed to have been credited to the account of the said person— Section 221(3)(a): on the last day of the tax year; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -116,15 +97,15 @@
       "y_start": 193.04
     },
     {
-      "id": "221-1-b",
-      "citation": "Section 221(1)(b)",
+      "id": "221-3-b",
+      "citation": "Section 221(3)(b)",
       "unit_type": "clause",
-      "parent_id": "221-1",
+      "parent_id": "221-3",
       "section_id": "221",
       "section_number": "221",
       "title": "Tax on income from securitisation trusts.",
       "text": "in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
-      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(1): , shall be deemed to have been credited to the account of the said person— Section 221(1)(b): in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
+      "retrieval_text": "Section 221 Tax on income from securitisation trusts. Section 221(3): The income accruing or arising to, or received by, the securitisation trust during a tax year, if not paid or credited to the person referred to in sub-section(1), shall be deemed to have been credited to the account of the said person— Section 221(3)(b): in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -449,33 +430,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "221-1-2",
-      "to_id": "221",
+      "from_id": "221-3-a",
+      "to_id": "221-3",
       "edge_type": "parent"
     },
     {
-      "from_id": "221",
-      "to_id": "221-1-2",
+      "from_id": "221-3",
+      "to_id": "221-3-a",
       "edge_type": "contains"
     },
     {
-      "from_id": "221-1-a",
-      "to_id": "221-1",
+      "from_id": "221-3-b",
+      "to_id": "221-3",
       "edge_type": "parent"
     },
     {
-      "from_id": "221-1",
-      "to_id": "221-1-a",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "221-1-b",
-      "to_id": "221-1",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "221-1",
-      "to_id": "221-1-b",
+      "from_id": "221-3",
+      "to_id": "221-3-b",
       "edge_type": "contains"
     },
     {

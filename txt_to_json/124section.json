@@ -99,25 +99,14 @@
           "line_start": 13,
           "page_start": 1,
           "page_end": 1,
-          "text": "Any amount standing to the credit of the assessee or a minor, in his account or the account of a minor, as the case may be, referred to in sub-sections (1),",
-          "children": []
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "124-3",
-          "indent": 0,
-          "line_start": 14,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "and (4) and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year,—",
+          "text": "Any amount standing to the credit of the assessee or a minor, in his account or the account of a minor, as the case may be, referred to in sub-sections (1),(3) and (4) and paragraph 1(y) of Schedule XV, in respect of which a deduction has been allowed together with the amount accrued thereon, received by the assessee or his nominee, in whole or in part, in any tax year,",
           "clauses": [
             {
               "type": "clause",
               "number": "a",
-              "id": "124-3-a",
+              "id": "124-6-a",
               "indent": 0,
-              "line_start": 15,
+              "line_start": 16,
               "page_start": 1,
               "page_end": 1,
               "text": "on account of closure or his opting out of the pension scheme referred to in sub-sections (1) and (3); or",
@@ -126,16 +115,15 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "124-3-b",
+              "id": "124-6-b",
               "indent": 0,
               "line_start": 16,
               "page_start": 1,
               "page_end": 1,
-              "text": "as pension received from the annuity plan purchased or taken on such closure or opting out, the whole of the amount referred to in clause (a) or (b) shall be deemed to be the income of the individual or his nominee, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year.",
-              "children": []
+              "text": "as pension received from the annuity plan purchased or taken on such closure or opting out,"
             }
           ],
-          "text_after_clauses": ""
+          "text_after_clauses": "the whole of the amount referred to in clause (a) or (b) shall be deemed to be the income of the individual or his nominee, in the tax year in which such amount is received, and shall accordingly be charged to tax as income of that tax year."
         },
         {
           "type": "subsection",

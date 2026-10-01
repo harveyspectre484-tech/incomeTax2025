@@ -332,8 +332,8 @@
       "section_id": "165",
       "section_number": "165",
       "title": "Determination of arm's length price.",
-      "text": "the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and",
-      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(4): The Assessing Officer, during the course of any proceeding for the assessment of income, may proceed to determine the arm's length price in relation to an international transaction or specified domestic transaction as per sub-sections (1), (2) and (3) if, on the basis of material or information or document in his possession, he is of the opinion that— Section 165(4)(a): the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and",
+      "text": "the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and (3) or",
+      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(4): The Assessing Officer, during the course of any proceeding for the assessment of income, may proceed to determine the arm's length price in relation to an international transaction or specified domestic transaction as per sub-sections (1), (2) and (3) if, on the basis of material or information or document in his possession, he is of the opinion that— Section 165(4)(a): the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and (3) or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -344,34 +344,15 @@
       "y_start": 336.25
     },
     {
-      "id": "165-3-2",
-      "citation": "Section 165(3)",
-      "unit_type": "subsection",
-      "parent_id": "165",
-      "section_id": "165",
-      "section_number": "165",
-      "title": "Determination of arm's length price.",
-      "text": "; or",
-      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(3): ; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 55.2,
-      "y_start": 345.8
-    },
-    {
-      "id": "165-3-b-2",
-      "citation": "Section 165(3)(b)",
+      "id": "165-4-b",
+      "citation": "Section 165(4)(b)",
       "unit_type": "clause",
-      "parent_id": "165-3",
+      "parent_id": "165-4",
       "section_id": "165",
       "section_number": "165",
       "title": "Determination of arm's length price.",
       "text": "any information and document relating to an international transaction or specified domestic transaction has not been kept and maintained by the assessee as per section 171(1); or",
-      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(3): ; or Section 165(3)(b): any information and document relating to an international transaction or specified domestic transaction has not been kept and maintained by the assessee as per section 171(1); or",
+      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(4): The Assessing Officer, during the course of any proceeding for the assessment of income, may proceed to determine the arm's length price in relation to an international transaction or specified domestic transaction as per sub-sections (1), (2) and (3) if, on the basis of material or information or document in his possession, he is of the opinion that— Section 165(4)(b): any information and document relating to an international transaction or specified domestic transaction has not been kept and maintained by the assessee as per section 171(1); or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -382,15 +363,15 @@
       "y_start": 356.41
     },
     {
-      "id": "165-3-c",
-      "citation": "Section 165(3)(c)",
+      "id": "165-4-c",
+      "citation": "Section 165(4)(c)",
       "unit_type": "clause",
-      "parent_id": "165-3",
+      "parent_id": "165-4",
       "section_id": "165",
       "section_number": "165",
       "title": "Determination of arm's length price.",
       "text": "the information or data used in determination of the arm's length price by the assessee is not reliable or correct; or",
-      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(3): ; or Section 165(3)(c): the information or data used in determination of the arm's length price by the assessee is not reliable or correct; or",
+      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(4): The Assessing Officer, during the course of any proceeding for the assessment of income, may proceed to determine the arm's length price in relation to an international transaction or specified domestic transaction as per sub-sections (1), (2) and (3) if, on the basis of material or information or document in his possession, he is of the opinion that— Section 165(4)(c): the information or data used in determination of the arm's length price by the assessee is not reliable or correct; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -401,15 +382,15 @@
       "y_start": 376.57
     },
     {
-      "id": "165-3-d",
-      "citation": "Section 165(3)(d)",
+      "id": "165-4-d",
+      "citation": "Section 165(4)(d)",
       "unit_type": "clause",
-      "parent_id": "165-3",
+      "parent_id": "165-4",
       "section_id": "165",
       "section_number": "165",
       "title": "Determination of arm's length price.",
       "text": "the assessee has failed to furnish, within the specified time, any information or document which he was required to furnish by a notice issued under section 171(2) and (3).",
-      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(3): ; or Section 165(3)(d): the assessee has failed to furnish, within the specified time, any information or document which he was required to furnish by a notice issued under section 171(2) and (3).",
+      "retrieval_text": "Section 165 Determination of arm's length price. Section 165(4): The Assessing Officer, during the course of any proceeding for the assessment of income, may proceed to determine the arm's length price in relation to an international transaction or specified domestic transaction as per sub-sections (1), (2) and (3) if, on the basis of material or information or document in his possession, he is of the opinion that— Section 165(4)(d): the assessee has failed to furnish, within the specified time, any information or document which he was required to furnish by a notice issued under section 171(2) and (3).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -669,43 +650,33 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "165-3-2",
-      "to_id": "165",
+      "from_id": "165-4-b",
+      "to_id": "165-4",
       "edge_type": "parent"
     },
     {
-      "from_id": "165",
-      "to_id": "165-3-2",
+      "from_id": "165-4",
+      "to_id": "165-4-b",
       "edge_type": "contains"
     },
     {
-      "from_id": "165-3-b-2",
-      "to_id": "165-3",
+      "from_id": "165-4-c",
+      "to_id": "165-4",
       "edge_type": "parent"
     },
     {
-      "from_id": "165-3",
-      "to_id": "165-3-b-2",
+      "from_id": "165-4",
+      "to_id": "165-4-c",
       "edge_type": "contains"
     },
     {
-      "from_id": "165-3-c",
-      "to_id": "165-3",
+      "from_id": "165-4-d",
+      "to_id": "165-4",
       "edge_type": "parent"
     },
     {
-      "from_id": "165-3",
-      "to_id": "165-3-c",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "165-3-d",
-      "to_id": "165-3",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "165-3",
-      "to_id": "165-3-d",
+      "from_id": "165-4",
+      "to_id": "165-4-d",
       "edge_type": "contains"
     },
     {
@@ -755,13 +726,13 @@
       "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "165-3-b-2",
+      "from_id": "165-4-b",
       "to_id": "171-1",
       "edge_type": "references",
       "reference_text": "section 171(1)"
     },
     {
-      "from_id": "165-3-d",
+      "from_id": "165-4-d",
       "to_id": "171-2",
       "edge_type": "references",
       "reference_text": "section 171(2)"

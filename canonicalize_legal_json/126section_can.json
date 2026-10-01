@@ -256,8 +256,8 @@
       "section_id": "126",
       "section_number": "126",
       "title": "Deduction in respect of health insurance premia.",
-      "text": "For the purposes of this section, where the amount is paid on account of medical expenditure incurred on the health of a senior citizen under sub-section",
-      "retrieval_text": "Section 126 Deduction in respect of health insurance premia. Section 126(7): For the purposes of this section, where the amount is paid on account of medical expenditure incurred on the health of a senior citizen under sub-section",
+      "text": "For the purposes of this section, where the amount is paid on account of medical expenditure incurred on the health of a senior citizen under sub-section (2)(c) or (d) or (5)(b), deduction shall be allowed, if no amount has been paid to effect or to keep in force the health insurance of such person.",
+      "retrieval_text": "Section 126 Deduction in respect of health insurance premia. Section 126(7): For the purposes of this section, where the amount is paid on account of medical expenditure incurred on the health of a senior citizen under sub-section (2)(c) or (d) or (5)(b), deduction shall be allowed, if no amount has been paid to effect or to keep in force the health insurance of such person.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -266,44 +266,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 317.16
-    },
-    {
-      "id": "126-2-2",
-      "citation": "Section 126(2)",
-      "unit_type": "subsection",
-      "parent_id": "126",
-      "section_id": "126",
-      "section_number": "126",
-      "title": "Deduction in respect of health insurance premia.",
-      "text": "",
-      "retrieval_text": "Section 126 Deduction in respect of health insurance premia. Section 126(2):",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 329.89
-    },
-    {
-      "id": "126-2-c-2",
-      "citation": "Section 126(2)(c)",
-      "unit_type": "clause",
-      "parent_id": "126-2",
-      "section_id": "126",
-      "section_number": "126",
-      "title": "Deduction in respect of health insurance premia.",
-      "text": "or (d) or (5)(b), deduction shall be allowed, if no amount has been paid to effect or to keep in force the health insurance of such person.",
-      "retrieval_text": "Section 126 Deduction in respect of health insurance premia. Section 126(2): Section 126(2)(c): or (d) or (5)(b), deduction shall be allowed, if no amount has been paid to effect or to keep in force the health insurance of such person.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 329.89
     },
     {
       "id": "126-8",
@@ -761,26 +723,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "126-2-2",
-      "to_id": "126",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "126",
-      "to_id": "126-2-2",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "126-2-c-2",
-      "to_id": "126-2",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "126-2",
-      "to_id": "126-2-c-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "126-8",
       "to_id": "126",
       "edge_type": "parent"
@@ -963,6 +905,12 @@
       "to_id": "126-5-a",
       "edge_type": "references",
       "reference_text": "sub-section (5)(a)"
+    },
+    {
+      "from_id": "126-7",
+      "to_id": "126-2-c",
+      "edge_type": "references",
+      "reference_text": "sub-section (2)(c)"
     },
     {
       "from_id": "126-8",

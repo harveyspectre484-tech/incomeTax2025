@@ -287,15 +287,34 @@
       "y_start": 325.11
     },
     {
-      "id": "355-h-i-2",
-      "citation": "Section 355(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "id": "355-i",
+      "citation": "Section 355(i)",
+      "unit_type": "clause",
+      "parent_id": "355",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "\"relative\", in relation to an individual, means—",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(i): \"relative\", in relation to an individual, means—",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 251.91
+    },
+    {
+      "id": "355-i-i",
+      "citation": "Section 355(i)(i)",
+      "unit_type": "sub_clause",
+      "parent_id": "355-i",
+      "section_id": "355",
+      "section_number": "355",
+      "title": "Interpretation.",
+      "text": "spouse of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(i): spouse of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -306,34 +325,15 @@
       "y_start": 335.72
     },
     {
-      "id": "355-h-i-3",
-      "citation": "Section 355(h)(i)",
+      "id": "355-i-ii",
+      "citation": "Section 355(i)(ii)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
-      "section_id": "355",
-      "section_number": "355",
-      "title": "Interpretation.",
-      "text": "spouse of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(i): spouse of the individual;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 71.75,
-      "y_start": 346.33
-    },
-    {
-      "id": "355-h-ii-2",
-      "citation": "Section 355(h)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "brother or sister of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(ii): brother or sister of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(ii): brother or sister of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -344,15 +344,15 @@
       "y_start": 356.94
     },
     {
-      "id": "355-h-iii-2",
-      "citation": "Section 355(h)(iii)",
+      "id": "355-i-iii",
+      "citation": "Section 355(i)(iii)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "brother or sister of the spouse of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(iii): brother or sister of the spouse of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(iii): brother or sister of the spouse of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -363,15 +363,15 @@
       "y_start": 367.55
     },
     {
-      "id": "355-h-iv-2",
-      "citation": "Section 355(h)(iv)",
+      "id": "355-i-iv",
+      "citation": "Section 355(i)(iv)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "any lineal ascendant (maternal or paternal) or descendant of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(iv): any lineal ascendant (maternal or paternal) or descendant of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(iv): any lineal ascendant (maternal or paternal) or descendant of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -382,15 +382,15 @@
       "y_start": 378.16
     },
     {
-      "id": "355-h-v-2",
-      "citation": "Section 355(h)(v)",
+      "id": "355-i-v",
+      "citation": "Section 355(i)(v)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "any lineal ascendant (maternal or paternal) or descendant of the spouse of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(v): any lineal ascendant (maternal or paternal) or descendant of the spouse of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(v): any lineal ascendant (maternal or paternal) or descendant of the spouse of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -401,15 +401,15 @@
       "y_start": 388.77
     },
     {
-      "id": "355-h-vi-2",
-      "citation": "Section 355(h)(vi)",
+      "id": "355-i-vi",
+      "citation": "Section 355(i)(vi)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "spouse of a person referred to in sub-clause (ii), (iii), (iv) or (v);",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(vi): spouse of a person referred to in sub-clause (ii), (iii), (iv) or (v);",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(vi): spouse of a person referred to in sub-clause (ii), (iii), (iv) or (v);",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -420,15 +420,15 @@
       "y_start": 399.37
     },
     {
-      "id": "355-h-vii",
-      "citation": "Section 355(h)(vii)",
+      "id": "355-i-vii",
+      "citation": "Section 355(i)(vii)",
       "unit_type": "sub_clause",
-      "parent_id": "355-h",
+      "parent_id": "355-i",
       "section_id": "355",
       "section_number": "355",
       "title": "Interpretation.",
       "text": "any lineal descendant of a brother or sister of either the individual or of the spouse of the individual;",
-      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(h): \"related person\" means any of the following persons:— Section 355(h)(vii): any lineal descendant of a brother or sister of either the individual or of the spouse of the individual;",
+      "retrieval_text": "Section 355 Interpretation. For the purposes of this Part,— Section 355(i): \"relative\", in relation to an individual, means— Section 355(i)(vii): any lineal descendant of a brother or sister of either the individual or of the spouse of the individual;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -1095,83 +1095,83 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-i-2",
-      "to_id": "355-h",
+      "from_id": "355-i",
+      "to_id": "355",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-i-2",
+      "from_id": "355",
+      "to_id": "355-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-i-3",
-      "to_id": "355-h",
+      "from_id": "355-i-i",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-i-3",
+      "from_id": "355-i",
+      "to_id": "355-i-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-ii-2",
-      "to_id": "355-h",
+      "from_id": "355-i-ii",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-ii-2",
+      "from_id": "355-i",
+      "to_id": "355-i-ii",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-iii-2",
-      "to_id": "355-h",
+      "from_id": "355-i-iii",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-iii-2",
+      "from_id": "355-i",
+      "to_id": "355-i-iii",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-iv-2",
-      "to_id": "355-h",
+      "from_id": "355-i-iv",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-iv-2",
+      "from_id": "355-i",
+      "to_id": "355-i-iv",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-v-2",
-      "to_id": "355-h",
+      "from_id": "355-i-v",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-v-2",
+      "from_id": "355-i",
+      "to_id": "355-i-v",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-vi-2",
-      "to_id": "355-h",
+      "from_id": "355-i-vi",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-vi-2",
+      "from_id": "355-i",
+      "to_id": "355-i-vi",
       "edge_type": "contains"
     },
     {
-      "from_id": "355-h-vii",
-      "to_id": "355-h",
+      "from_id": "355-i-vii",
+      "to_id": "355-i",
       "edge_type": "parent"
     },
     {
-      "from_id": "355-h",
-      "to_id": "355-h-vii",
+      "from_id": "355-i",
+      "to_id": "355-i-vii",
       "edge_type": "contains"
     },
     {
@@ -1402,19 +1402,19 @@
     },
     {
       "from_id": "355-h-v",
-      "to_id": "355-h-i",
+      "to_id": "355-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
       "from_id": "355-h-vi",
-      "to_id": "355-h-i",
+      "to_id": "355-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
     {
-      "from_id": "355-h-vi-2",
-      "to_id": "355-h-ii",
+      "from_id": "355-i-vi",
+      "to_id": "355-i-ii",
       "edge_type": "references",
       "reference_text": "clause (ii)"
     },

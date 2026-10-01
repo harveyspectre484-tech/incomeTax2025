@@ -382,15 +382,15 @@
       "y_start": 313.98
     },
     {
-      "id": "17-1-h-2",
-      "citation": "Section 17(1)(h)",
+      "id": "17-1-i",
+      "citation": "Section 17(1)",
       "unit_type": "clause",
       "parent_id": "17-1",
       "section_id": "17",
       "section_number": "17",
       "title": "Perquisite.",
       "text": "the annual accretion by way of interest, dividend or any other amount of similar nature during the tax year to the balance at the credit of the fund or scheme referred to in clause (h), computed in such manner, as may be prescribed (to the extent it relates to the contribution referred to in the said clause in any tax year).",
-      "retrieval_text": "Section 17 Perquisite. Section 17(1): For the purposes of this Part, \"perquisite\" includes— Section 17(1)(h): the annual accretion by way of interest, dividend or any other amount of similar nature during the tax year to the balance at the credit of the fund or scheme referred to in clause (h), computed in such manner, as may be prescribed (to the extent it relates to the contribution referred to in the said clause in any tax year).",
+      "retrieval_text": "Section 17 Perquisite. Section 17(1): For the purposes of this Part, \"perquisite\" includes— Section 17(1): the annual accretion by way of interest, dividend or any other amount of similar nature during the tax year to the balance at the credit of the fund or scheme referred to in clause (h), computed in such manner, as may be prescribed (to the extent it relates to the contribution referred to in the said clause in any tax year).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -1275,13 +1275,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "17-1-h-2",
+      "from_id": "17-1-i",
       "to_id": "17-1",
       "edge_type": "parent"
     },
     {
       "from_id": "17-1",
-      "to_id": "17-1-h-2",
+      "to_id": "17-1-i",
       "edge_type": "contains"
     },
     {
@@ -1566,7 +1566,7 @@
     },
     {
       "from_id": "17-1-c-ii",
-      "to_id": "17-1-c-i",
+      "to_id": "17-1-i",
       "edge_type": "references",
       "reference_text": "clause (i)"
     },
@@ -1609,7 +1609,7 @@
       "reference_text": "section 124(1)"
     },
     {
-      "from_id": "17-1-h-2",
+      "from_id": "17-1-i",
       "to_id": "17-1-h",
       "edge_type": "references",
       "reference_text": "clause (h)"

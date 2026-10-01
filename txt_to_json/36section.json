@@ -89,7 +89,7 @@
               "page_start": 1,
               "page_end": 1,
               "text": "\"specified person\" shall mean the following,—",
-              "children": [
+              "sub-clauses": [
                 {
                   "type": "sub-clause",
                   "number": "i",
@@ -168,12 +168,77 @@
                   "y_start": 480.0,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "any person carrying on a business or profession, where assessee, being—"
-                },
+                  "text": "any person carrying on a business or profession, where assessee, being—",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "36-3-a-iv-A",
+                      "x": 55.0,
+                      "y_start": 465.0,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": " an individual or his relative; or"
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "36-3-a-iv-B",
+                      "x": 55.0,
+                      "y_start": 480.0,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a company, its directors or their relatives; or"
+                    },
+                    {
+                      "type": "item",
+                      "number": "C",
+                      "id": "36-3-a-iv-C",
+                      "x": 55.0,
+                      "y_start": 465.0,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a firm, its partners or their relatives; or"
+                    },
+                    {
+                      "type": "item",
+                      "number": "D",
+                      "id": "36-3-a-iv-D",
+                      "x": 55.0,
+                      "y_start": 480.0,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "an association of persons or Hindu undivided family, members thereof or their relatives;or"
+                    },
+                    {
+                      "type": "item",
+                      "number": "E",
+                      "id": "36-3-a-iv-E",
+                      "x": 55.0,
+                      "y_start": 465.0,
+                      "page_start": 1,
+                      "page_end": 1,
+                      "text": "a Hindu undivided family, its members or their relatives,"
+                    }
+                  ],
+                  "text_after_item": "has substantial interest in the business or profession of such person;"
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "36-3-b",
+              "x": 40.8,
+              "y_start": 395.0,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "a person is deemed to have \"substantial interest in the business or profession\" if—",
+              "sub-clause": [
                 {
                   "type": "sub-clause",
                   "number": "i",
-                  "id": "36-3-a-i",
+                  "id": "36-3-b-i",
                   "x": 55.0,
                   "y_start": 465.0,
                   "page_start": 1,
@@ -183,7 +248,7 @@
                 {
                   "type": "sub-clause",
                   "number": "ii",
-                  "id": "36-3-a-ii",
+                  "id": "36-3-b-ii",
                   "x": 55.0,
                   "y_start": 480.0,
                   "page_start": 1,

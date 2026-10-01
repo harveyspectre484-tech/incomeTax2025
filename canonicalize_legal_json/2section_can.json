@@ -971,7 +971,7 @@
       "y_start": null
     },
     {
-      "id": "2-22-where",
+      "id": "2-22-2",
       "citation": "Section 2(22), Where block",
       "unit_type": "where_block",
       "parent_id": "2-22",
@@ -990,10 +990,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-A",
+      "id": "2-22-A",
       "citation": "Section 2(22), Where block, Item (A)",
       "unit_type": "item",
-      "parent_id": "2-22-where",
+      "parent_id": "2-22",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1009,10 +1009,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B",
+      "id": "2-22-B",
       "citation": "Section 2(22), Where block, Item (B)",
       "unit_type": "item",
-      "parent_id": "2-22-where",
+      "parent_id": "2-22",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1028,10 +1028,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-exclusions",
+      "id": "2-22-B-2",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block",
       "unit_type": "exclusion_block",
-      "parent_id": "2-22-where-B",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1047,10 +1047,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-I",
+      "id": "2-22-B-I",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (I)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1066,10 +1066,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-I-a",
+      "id": "2-22-B-I-a",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (I), Clause (a)",
       "unit_type": "clause",
-      "parent_id": "2-22-where-B-I",
+      "parent_id": "2-22-B-I",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1085,10 +1085,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-I-b",
+      "id": "2-22-B-I-b",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (I), Clause (b)",
       "unit_type": "clause",
-      "parent_id": "2-22-where-B-I",
+      "parent_id": "2-22-B-I",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1104,10 +1104,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-II",
+      "id": "2-22-B-II",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (II)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1123,10 +1123,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-III",
+      "id": "2-22-B-III",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (III)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1142,10 +1142,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-IV",
+      "id": "2-22-B-IV",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (IV)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1161,10 +1161,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-V",
+      "id": "2-22-B-V",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (V)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1180,10 +1180,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-B-VI",
+      "id": "2-22-B-VI",
       "citation": "Section 2(22), Where block, Item (B), Exclusion block, Sub Item (VI)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-where-B-exclusions",
+      "parent_id": "2-22-B",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1199,10 +1199,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-C",
+      "id": "2-22-C",
       "citation": "Section 2(22), Where block, Item (C)",
       "unit_type": "item",
-      "parent_id": "2-22-where",
+      "parent_id": "2-22",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1218,10 +1218,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-D",
+      "id": "2-22-D",
       "citation": "Section 2(22), Where block, Item (D)",
       "unit_type": "item",
-      "parent_id": "2-22-where",
+      "parent_id": "2-22",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1237,10 +1237,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-where-E",
+      "id": "2-22-E",
       "citation": "Section 2(22), Where block, Item (E)",
       "unit_type": "item",
-      "parent_id": "2-22-where",
+      "parent_id": "2-22",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1275,7 +1275,7 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-i",
+      "id": "2-22-i",
       "citation": "Section 2(22), Exclusion block, Item (i)",
       "unit_type": "item",
       "parent_id": "2-22-exclusions",
@@ -1294,7 +1294,7 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-ii",
+      "id": "2-22-ii",
       "citation": "Section 2(22), Exclusion block, Item (ii)",
       "unit_type": "item",
       "parent_id": "2-22-exclusions",
@@ -1313,7 +1313,7 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-iii",
+      "id": "2-22-iii",
       "citation": "Section 2(22), Exclusion block, Item (iii)",
       "unit_type": "item",
       "parent_id": "2-22-exclusions",
@@ -1332,10 +1332,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-iii-A",
+      "id": "2-22-iii-A",
       "citation": "Section 2(22), Exclusion block, Item (iii), Sub Item (A)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-exclusions-iii",
+      "parent_id": "2-22-iii",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1351,10 +1351,10 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-iii-B",
+      "id": "2-22-iii-B",
       "citation": "Section 2(22), Exclusion block, Item (iii), Sub Item (B)",
       "unit_type": "sub_item",
-      "parent_id": "2-22-exclusions-iii",
+      "parent_id": "2-22-iii",
       "section_id": "2",
       "section_number": "2",
       "title": "Definitions.",
@@ -1370,7 +1370,7 @@
       "y_start": null
     },
     {
-      "id": "2-22-exclusions-iv",
+      "id": "2-22-iv",
       "citation": "Section 2(22), Exclusion block, Item (iv)",
       "unit_type": "item",
       "parent_id": "2-22-exclusions",
@@ -8510,153 +8510,153 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where",
+      "from_id": "2-22-2",
       "to_id": "2-22",
       "edge_type": "parent"
     },
     {
       "from_id": "2-22",
-      "to_id": "2-22-where",
+      "to_id": "2-22-2",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-A",
-      "to_id": "2-22-where",
+      "from_id": "2-22-A",
+      "to_id": "2-22",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where",
-      "to_id": "2-22-where-A",
+      "from_id": "2-22",
+      "to_id": "2-22-A",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B",
-      "to_id": "2-22-where",
+      "from_id": "2-22-B",
+      "to_id": "2-22",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where",
-      "to_id": "2-22-where-B",
+      "from_id": "2-22",
+      "to_id": "2-22-B",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B",
+      "from_id": "2-22-B-2",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-2",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-I",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-I",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-I",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-I",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-I-a",
-      "to_id": "2-22-where-B-I",
+      "from_id": "2-22-B-I-a",
+      "to_id": "2-22-B-I",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-I",
-      "to_id": "2-22-where-B-I-a",
+      "from_id": "2-22-B-I",
+      "to_id": "2-22-B-I-a",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-I-b",
-      "to_id": "2-22-where-B-I",
+      "from_id": "2-22-B-I-b",
+      "to_id": "2-22-B-I",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-I",
-      "to_id": "2-22-where-B-I-b",
+      "from_id": "2-22-B-I",
+      "to_id": "2-22-B-I-b",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-II",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-II",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-II",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-II",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-III",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-III",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-III",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-III",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-IV",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-IV",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-IV",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-IV",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-V",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-V",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-V",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-V",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-B-VI",
-      "to_id": "2-22-where-B-exclusions",
+      "from_id": "2-22-B-VI",
+      "to_id": "2-22-B",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where-B-exclusions",
-      "to_id": "2-22-where-B-VI",
+      "from_id": "2-22-B",
+      "to_id": "2-22-B-VI",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-C",
-      "to_id": "2-22-where",
+      "from_id": "2-22-C",
+      "to_id": "2-22",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where",
-      "to_id": "2-22-where-C",
+      "from_id": "2-22",
+      "to_id": "2-22-C",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-D",
-      "to_id": "2-22-where",
+      "from_id": "2-22-D",
+      "to_id": "2-22",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where",
-      "to_id": "2-22-where-D",
+      "from_id": "2-22",
+      "to_id": "2-22-D",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-where-E",
-      "to_id": "2-22-where",
+      "from_id": "2-22-E",
+      "to_id": "2-22",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-where",
-      "to_id": "2-22-where-E",
+      "from_id": "2-22",
+      "to_id": "2-22-E",
       "edge_type": "contains"
     },
     {
@@ -8670,63 +8670,63 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-i",
+      "from_id": "2-22-i",
       "to_id": "2-22-exclusions",
       "edge_type": "parent"
     },
     {
       "from_id": "2-22-exclusions",
-      "to_id": "2-22-exclusions-i",
+      "to_id": "2-22-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-ii",
+      "from_id": "2-22-ii",
       "to_id": "2-22-exclusions",
       "edge_type": "parent"
     },
     {
       "from_id": "2-22-exclusions",
-      "to_id": "2-22-exclusions-ii",
+      "to_id": "2-22-ii",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-iii",
+      "from_id": "2-22-iii",
       "to_id": "2-22-exclusions",
       "edge_type": "parent"
     },
     {
       "from_id": "2-22-exclusions",
-      "to_id": "2-22-exclusions-iii",
+      "to_id": "2-22-iii",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-iii-A",
-      "to_id": "2-22-exclusions-iii",
+      "from_id": "2-22-iii-A",
+      "to_id": "2-22-iii",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-exclusions-iii",
-      "to_id": "2-22-exclusions-iii-A",
+      "from_id": "2-22-iii",
+      "to_id": "2-22-iii-A",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-iii-B",
-      "to_id": "2-22-exclusions-iii",
+      "from_id": "2-22-iii-B",
+      "to_id": "2-22-iii",
       "edge_type": "parent"
     },
     {
-      "from_id": "2-22-exclusions-iii",
-      "to_id": "2-22-exclusions-iii-B",
+      "from_id": "2-22-iii",
+      "to_id": "2-22-iii-B",
       "edge_type": "contains"
     },
     {
-      "from_id": "2-22-exclusions-iv",
+      "from_id": "2-22-iv",
       "to_id": "2-22-exclusions",
       "edge_type": "parent"
     },
     {
       "from_id": "2-22-exclusions",
-      "to_id": "2-22-exclusions-iv",
+      "to_id": "2-22-iv",
       "edge_type": "contains"
     },
     {
@@ -11804,13 +11804,13 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "2-22-where-A",
+      "from_id": "2-22-A",
       "to_id": "210-6-a",
       "edge_type": "references",
       "reference_text": "section 210(6)(a)"
     },
     {
-      "from_id": "2-22-where-E",
+      "from_id": "2-22-E",
       "to_id": "ext-india-act-1956-42-section-2-h",
       "edge_type": "references_external",
       "reference_text": "section 2(h) of the Securities Contracts (Regulation) Act, 1956 (42 of 1956)",
@@ -11828,7 +11828,7 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "2-22-exclusions-i",
+      "from_id": "2-22-i",
       "to_id": "2-22-b",
       "edge_type": "references",
       "reference_text": "clause (b)"

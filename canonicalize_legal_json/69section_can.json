@@ -248,6 +248,25 @@
       "y_start": 465.0
     },
     {
+      "id": "69-3-b-ii",
+      "citation": "Section 69(3)(b)(ii)",
+      "unit_type": "sub_clause",
+      "parent_id": "69-3-b",
+      "section_id": "69",
+      "section_number": "69",
+      "title": "Capital gains on purchase by company of its own shares or other specified securities.",
+      "text": "a person who holds, directly or indirectly, more than 10% of the shareholding in the company;",
+      "retrieval_text": "Section 69 Capital gains on purchase by company of its own shares or other specified securities. Section 69(3): For the purposes of this section,— Section 69(3)(b): in any other case, \"promoter\" means,–– Section 69(3)(b)(ii): a person who holds, directly or indirectly, more than 10% of the shareholding in the company;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 55.0,
+      "y_start": 465.0
+    },
+    {
       "id": "69-3-c",
       "citation": "Section 69(3)(c)",
       "unit_type": "clause",
@@ -265,44 +284,6 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 430.0
-    },
-    {
-      "id": "69-3-c-ii",
-      "citation": "Section 69(3)(c)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "69-3-c",
-      "section_id": "69",
-      "section_number": "69",
-      "title": "Capital gains on purchase by company of its own shares or other specified securities.",
-      "text": "a person who holds, directly or indirectly, more than 10% of the shareholding in the company;",
-      "retrieval_text": "Section 69 Capital gains on purchase by company of its own shares or other specified securities. Section 69(3): For the purposes of this section,— Section 69(3)(c): \"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).] Section 69(3)(c)(ii): a person who holds, directly or indirectly, more than 10% of the shareholding in the company;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 55.0,
-      "y_start": 465.0
-    },
-    {
-      "id": "69-3-2",
-      "citation": "Section 69(3)",
-      "unit_type": "subsection",
-      "parent_id": "69",
-      "section_id": "69",
-      "section_number": "69",
-      "title": "Capital gains on purchase by company of its own shares or other specified securities.",
-      "text": "For the purposes of this section, \"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).'",
-      "retrieval_text": "Section 69 Capital gains on purchase by company of its own shares or other specified securities. Section 69(3): For the purposes of this section, \"specified securities\" shall have the same meaning as assigned to it in Explanation 1 to section 68 of the Companies Act, 2013 (18 of 2013).'",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 380.0
     }
   ],
   "external_nodes": [
@@ -493,6 +474,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "69-3-b-ii",
+      "to_id": "69-3-b",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "69-3-b",
+      "to_id": "69-3-b-ii",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "69-3-c",
       "to_id": "69-3",
       "edge_type": "parent"
@@ -500,26 +491,6 @@
     {
       "from_id": "69-3",
       "to_id": "69-3-c",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "69-3-c-ii",
-      "to_id": "69-3-c",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "69-3-c",
-      "to_id": "69-3-c-ii",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "69-3-2",
-      "to_id": "69",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "69",
-      "to_id": "69-3-2",
       "edge_type": "contains"
     },
     {
@@ -602,22 +573,6 @@
     },
     {
       "from_id": "69-3-c",
-      "to_id": "ext-india-act-2013-18-section-68",
-      "edge_type": "references_external",
-      "reference_text": "section 68 of the Companies Act, 2013 (18 of 2013)",
-      "target_act_id": "ext-india-act-2013-18",
-      "target_act_title": "Companies Act",
-      "target_section": "68",
-      "target_nested_locators": [],
-      "resolution_status": "external_act_not_ingested",
-      "target_act_number": "18",
-      "target_act_year": "2013",
-      "target_act_title_year": "2013",
-      "target_official_citation": "18 of 2013",
-      "target_identity_basis": "official_citation"
-    },
-    {
-      "from_id": "69-3-2",
       "to_id": "ext-india-act-2013-18-section-68",
       "edge_type": "references_external",
       "reference_text": "section 68 of the Companies Act, 2013 (18 of 2013)",

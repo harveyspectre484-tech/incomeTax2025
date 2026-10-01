@@ -199,8 +199,8 @@
       "section_id": "51",
       "section_number": "51",
       "title": "Amortisation of expenditure for prospecting certain minerals.",
-      "text": "such amount as is sufficient to reduce to nil the income (as computed before making the deduction under this section) of that tax year arising from the commercial exploitation [whether or not such commercial exploitation is as a result of the operations or development referred to in sub-sections",
-      "retrieval_text": "Section 51 Amortisation of expenditure for prospecting certain minerals. Section 51(5): The deduction to be allowed under sub-section (1) for any relevant tax year shall be— Section 51(5)(b): such amount as is sufficient to reduce to nil the income (as computed before making the deduction under this section) of that tax year arising from the commercial exploitation [whether or not such commercial exploitation is as a result of the operations or development referred to in sub-sections",
+      "text": "such amount as is sufficient to reduce to nil the income (as computed before making the deduction under this section) of that tax year arising from the commercial exploitation [whether or not such commercial exploitation is as a result of the operations or development referred to in sub-sections(2) and (3)] of any mine or other natural deposit of the mineral or any one or more of the minerals in a group of associated minerals under this section in respect of which the expenditure was incurred,",
+      "retrieval_text": "Section 51 Amortisation of expenditure for prospecting certain minerals. Section 51(5): The deduction to be allowed under sub-section (1) for any relevant tax year shall be— Section 51(5)(b): such amount as is sufficient to reduce to nil the income (as computed before making the deduction under this section) of that tax year arising from the commercial exploitation [whether or not such commercial exploitation is as a result of the operations or development referred to in sub-sections(2) and (3)] of any mine or other natural deposit of the mineral or any one or more of the minerals in a group of associated minerals under this section in respect of which the expenditure was incurred,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -209,25 +209,6 @@
       "line_start": null,
       "x": 40.8,
       "y_start": 317.69
-    },
-    {
-      "id": "51-2-2",
-      "citation": "Section 51(2)",
-      "unit_type": "subsection",
-      "parent_id": "51",
-      "section_id": "51",
-      "section_number": "51",
-      "title": "Amortisation of expenditure for prospecting certain minerals.",
-      "text": "and (3)] of any mine or other natural deposit of the mineral or any one or more of the minerals in a group of associated minerals under this section in respect of which the expenditure was incurred,",
-      "retrieval_text": "Section 51 Amortisation of expenditure for prospecting certain minerals. Section 51(2): and (3)] of any mine or other natural deposit of the mineral or any one or more of the minerals in a group of associated minerals under this section in respect of which the expenditure was incurred,",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 55.2,
-      "y_start": 336.78
     },
     {
       "id": "51-6",
@@ -558,16 +539,6 @@
     {
       "from_id": "51-5",
       "to_id": "51-5-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "51-2-2",
-      "to_id": "51",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "51",
-      "to_id": "51-2-2",
       "edge_type": "contains"
     },
     {

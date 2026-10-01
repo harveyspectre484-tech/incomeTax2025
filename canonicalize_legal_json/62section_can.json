@@ -28,8 +28,8 @@
       "section_id": "62",
       "section_number": "62",
       "title": "Maintenance of books of account.",
-      "text": "",
-      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1):",
+      "text": "shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act.",
+      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1): shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -48,7 +48,7 @@
       "section_number": "62",
       "title": "Maintenance of books of account.",
       "text": "Any person carrying on specified profession; or",
-      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1): Section 62(1)(a): Any person carrying on specified profession; or",
+      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1): shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act. Section 62(1)(a): Any person carrying on specified profession; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -66,8 +66,8 @@
       "section_id": "62",
       "section_number": "62",
       "title": "Maintenance of books of account.",
-      "text": "any person carrying on, business; or any profession [not being a profession referred to in clause (a)] and satisfying the conditions referred to in sub-section",
-      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1): Section 62(1)(b): any person carrying on, business; or any profession [not being a profession referred to in clause (a)] and satisfying the conditions referred to in sub-section",
+      "text": "any person carrying on, business; or any profession [not being a profession referred to in clause (a)] and satisfying the conditions referred to in sub-section(2)",
+      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(1): shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act. Section 62(1)(b): any person carrying on, business; or any profession [not being a profession referred to in clause (a)] and satisfying the conditions referred to in sub-section(2)",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -79,25 +79,6 @@
     },
     {
       "id": "62-2",
-      "citation": "Section 62(2)",
-      "unit_type": "subsection",
-      "parent_id": "62",
-      "section_id": "62",
-      "section_number": "62",
-      "title": "Maintenance of books of account.",
-      "text": ", shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act.",
-      "retrieval_text": "Section 62 Maintenance of books of account. Section 62(2): , shall keep and maintain such books of account and other documents to enable the Assessing Officer to compute his total income under this Act.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": null,
-      "y_start": 109.23
-    },
-    {
-      "id": "62-2-2",
       "citation": "Section 62(2)",
       "unit_type": "subsection",
       "parent_id": "62",
@@ -387,16 +368,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "62-2-2",
-      "to_id": "62",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "62",
-      "to_id": "62-2-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "62-2-a",
       "to_id": "62-2",
       "edge_type": "parent"
@@ -523,7 +494,7 @@
       "reference_text": "clause (a)"
     },
     {
-      "from_id": "62-2-2",
+      "from_id": "62-2",
       "to_id": "62-1-b",
       "edge_type": "references",
       "reference_text": "sub-section (1)(b)"

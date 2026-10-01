@@ -294,8 +294,8 @@
       "section_id": "224",
       "section_number": "224",
       "title": "Tax on income of investment fund and its unit holders.",
-      "text": "The income accruing or arising to, or received by, the investment fund, during a tax year, if not paid or credited to the person referred to in sub-section",
-      "retrieval_text": "Section 224 Tax on income of investment fund and its unit holders. Section 224(7): The income accruing or arising to, or received by, the investment fund, during a tax year, if not paid or credited to the person referred to in sub-section",
+      "text": "The income accruing or arising to, or received by, the investment fund, during a tax year, if not paid or credited to the person referred to in sub-section(1), shall subject to the provisions of sub-section (2), be deemed to have been credited to the account of the said person on the last day of the tax year in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
+      "retrieval_text": "Section 224 Tax on income of investment fund and its unit holders. Section 224(7): The income accruing or arising to, or received by, the investment fund, during a tax year, if not paid or credited to the person referred to in sub-section(1), shall subject to the provisions of sub-section (2), be deemed to have been credited to the account of the said person on the last day of the tax year in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -304,25 +304,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 389.3
-    },
-    {
-      "id": "224-1-2",
-      "citation": "Section 224(1)",
-      "unit_type": "subsection",
-      "parent_id": "224",
-      "section_id": "224",
-      "section_number": "224",
-      "title": "Tax on income of investment fund and its unit holders.",
-      "text": ", shall subject to the provisions of sub-section (2), be deemed to have been credited to the account of the said person on the last day of the tax year in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
-      "retrieval_text": "Section 224 Tax on income of investment fund and its unit holders. Section 224(1): , shall subject to the provisions of sub-section (2), be deemed to have been credited to the account of the said person on the last day of the tax year in the same proportion in which such person would have been entitled to receive the income had it been paid in the tax year.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 402.03
     },
     {
       "id": "224-8",
@@ -679,16 +660,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "224-1-2",
-      "to_id": "224",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "224",
-      "to_id": "224-1-2",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "224-8",
       "to_id": "224",
       "edge_type": "parent"
@@ -817,7 +788,7 @@
       "reference_text": "sub-section (2)"
     },
     {
-      "from_id": "224-1-2",
+      "from_id": "224-7",
       "to_id": "224-2",
       "edge_type": "references",
       "reference_text": "sub-section (2)"

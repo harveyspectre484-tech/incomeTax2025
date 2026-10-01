@@ -256,8 +256,8 @@
       "section_id": "500",
       "section_number": "500",
       "title": "Provisional attachment to protect revenue in certain cases.",
-      "text": "The Assessing Officer shall, in the interests of revenue, invoke the bank guarantee, if the assessee fails to renew the guarantee referred to in sub-section",
-      "retrieval_text": "Section 500 Provisional attachment to protect revenue in certain cases. Section 500(9): The Assessing Officer shall, in the interests of revenue, invoke the bank guarantee, if the assessee fails to renew the guarantee referred to in sub-section",
+      "text": "The Assessing Officer shall, in the interests of revenue, invoke the bank guarantee, if the assessee fails to renew the guarantee referred to in sub-section(4)or (5), or fails to furnish a new guarantee from a scheduled bank for an equal amount, before fifteen days of its expiry.",
+      "retrieval_text": "Section 500 Provisional attachment to protect revenue in certain cases. Section 500(9): The Assessing Officer shall, in the interests of revenue, invoke the bank guarantee, if the assessee fails to renew the guarantee referred to in sub-section(4)or (5), or fails to furnish a new guarantee from a scheduled bank for an equal amount, before fifteen days of its expiry.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -266,25 +266,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 374.44
-    },
-    {
-      "id": "500-4-2",
-      "citation": "Section 500(4)",
-      "unit_type": "subsection",
-      "parent_id": "500",
-      "section_id": "500",
-      "section_number": "500",
-      "title": "Provisional attachment to protect revenue in certain cases.",
-      "text": "or (5), or fails to furnish a new guarantee from a scheduled bank for an equal amount, before fifteen days of its expiry.",
-      "retrieval_text": "Section 500 Provisional attachment to protect revenue in certain cases. Section 500(4): or (5), or fails to furnish a new guarantee from a scheduled bank for an equal amount, before fifteen days of its expiry.",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 27.62,
-      "y_start": 387.17
     },
     {
       "id": "500-10",
@@ -551,16 +532,6 @@
     {
       "from_id": "500",
       "to_id": "500-9",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "500-4-2",
-      "to_id": "500",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "500",
-      "to_id": "500-4-2",
       "edge_type": "contains"
     },
     {

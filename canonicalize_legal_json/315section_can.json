@@ -218,8 +218,8 @@
       "section_id": "315",
       "section_number": "315",
       "title": "Assessment after partition of Hindu undivided family.",
-      "text": "a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section",
-      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(8): Irrespective of anything contained in the foregoing provisions of this section, where a partial partition has taken place after the 31st December, 1978, among the members of a Hindu undivided family hitherto assessed as undivided,— Section 315(8)(a): a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section",
+      "text": "a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section(3)that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;",
+      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(8): Irrespective of anything contained in the foregoing provisions of this section, where a partial partition has taken place after the 31st December, 1978, among the members of a Hindu undivided family hitherto assessed as undivided,— Section 315(8)(a): a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section(3)that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -230,34 +230,15 @@
       "y_start": 403.09
     },
     {
-      "id": "315-3-2",
-      "citation": "Section 315(3)",
-      "unit_type": "subsection",
-      "parent_id": "315",
-      "section_id": "315",
-      "section_number": "315",
-      "title": "Assessment after partition of Hindu undivided family.",
-      "text": "that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;",
-      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(3): that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 55.2,
-      "y_start": 412.63
-    },
-    {
-      "id": "315-3-b",
-      "citation": "Section 315(3)(b)",
+      "id": "315-8-b",
+      "citation": "Section 315(8)(b)",
       "unit_type": "clause",
-      "parent_id": "315-3",
+      "parent_id": "315-8",
       "section_id": "315",
       "section_number": "315",
       "title": "Assessment after partition of Hindu undivided family.",
       "text": "such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place; and",
-      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(3): that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void; Section 315(3)(b): such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place; and",
+      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(8): Irrespective of anything contained in the foregoing provisions of this section, where a partial partition has taken place after the 31st December, 1978, among the members of a Hindu undivided family hitherto assessed as undivided,— Section 315(8)(b): such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place; and",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -268,15 +249,15 @@
       "y_start": 423.24
     },
     {
-      "id": "315-3-c",
-      "citation": "Section 315(3)(c)",
+      "id": "315-8-c",
+      "citation": "Section 315(8)(c)",
       "unit_type": "clause",
-      "parent_id": "315-3",
+      "parent_id": "315-8",
       "section_id": "315",
       "section_number": "315",
       "title": "Assessment after partition of Hindu undivided family.",
       "text": "each member or group of members of such family immediately before such partial partition and the family shall be jointly and severally liable for any tax, penalty, interest, fine or other sum payable under this Act by the family in respect of any period, whether before or after such partial partition.",
-      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(3): that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void; Section 315(3)(c): each member or group of members of such family immediately before such partial partition and the family shall be jointly and severally liable for any tax, penalty, interest, fine or other sum payable under this Act by the family in respect of any period, whether before or after such partial partition.",
+      "retrieval_text": "Section 315 Assessment after partition of Hindu undivided family. Section 315(8): Irrespective of anything contained in the foregoing provisions of this section, where a partial partition has taken place after the 31st December, 1978, among the members of a Hindu undivided family hitherto assessed as undivided,— Section 315(8)(c): each member or group of members of such family immediately before such partial partition and the family shall be jointly and severally liable for any tax, penalty, interest, fine or other sum payable under this Act by the family in respect of any period, whether before or after such partial partition.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -514,33 +495,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "315-3-2",
-      "to_id": "315",
+      "from_id": "315-8-b",
+      "to_id": "315-8",
       "edge_type": "parent"
     },
     {
-      "from_id": "315",
-      "to_id": "315-3-2",
+      "from_id": "315-8",
+      "to_id": "315-8-b",
       "edge_type": "contains"
     },
     {
-      "from_id": "315-3-b",
-      "to_id": "315-3",
+      "from_id": "315-8-c",
+      "to_id": "315-8",
       "edge_type": "parent"
     },
     {
-      "from_id": "315-3",
-      "to_id": "315-3-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "315-3-c",
-      "to_id": "315-3",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "315-3",
-      "to_id": "315-3-c",
+      "from_id": "315-8",
+      "to_id": "315-8-c",
       "edge_type": "contains"
     },
     {
@@ -634,7 +605,7 @@
       "reference_text": "sub-section (2)"
     },
     {
-      "from_id": "315-3-2",
+      "from_id": "315-8-a",
       "to_id": "315-3",
       "edge_type": "references",
       "reference_text": "sub-section (3)"
