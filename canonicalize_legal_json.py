@@ -17,6 +17,8 @@ DIRECT_TEXT_KEYS = (
     "text_after_sub_clauses",
     "text_before_items",
     "text_after_items",
+    "text_before_children",
+    "text_after_children",
     "text_before_sub_items",
     "text_after_sub_items",
     "text_before_conditions",
@@ -29,9 +31,13 @@ DIRECT_TEXT_KEYS = (
 
 CHILD_LIST_KEYS = (
     "subsections",
+    "subsection",
     "clauses",
+    "clause",
     "sub_clauses",
+    "sub_clause",
     "items",
+    "item",
     "sub_items",
     "conditions",
     "children",
@@ -64,6 +70,7 @@ class Canonicalizer:
     external_nodes_by_id: dict[str, dict[str, Any]] = field(default_factory=dict)
     external_act_registry: dict[tuple[str, str], dict[str, str]] = field(default_factory=dict)
     reference_aliases: dict[str, str] = field(default_factory=dict)
+    reference_overrides: dict[tuple[str, str], dict[str, Any]] = field(default_factory=dict)
     reference_scan_text_by_unit_id: dict[str, str] = field(default_factory=dict)
 
     def convert(self, raw: dict[str, Any]) -> dict[str, Any]:
@@ -137,34 +144,36 @@ class Canonicalizer:
                 chapter=chapter,
             )
 
-        for subsection in section.get("subsections", []):
-            self.add_provision_node(
-                node=subsection,
-                unit_type="subsection",
-                parent_id=section_id,
-                section_id=section_id,
-                section_number=section_number,
-                title=title,
-                citation_parts=[section_number, subsection.get("number")],
-                ancestor_context=join_text(section_citation, title),
-                act=act,
-                chapter=chapter,
-            )
+        for subsection_key in ("subsections", "subsection"):
+            for subsection in section.get(subsection_key, []) or []:
+                self.add_provision_node(
+                    node=subsection,
+                    unit_type="subsection",
+                    parent_id=section_id,
+                    section_id=section_id,
+                    section_number=section_number,
+                    title=title,
+                    citation_parts=[section_number, subsection.get("number")],
+                    ancestor_context=join_text(section_citation, title),
+                    act=act,
+                    chapter=chapter,
+                )
 
-        for clause in section.get("clauses", []) or []:
-            clause_number = clause.get("number") or clause.get("marker") or clause.get("letter") or clause.get("numeral")
-            self.add_provision_node(
-                node=clause,
-                unit_type=clause.get("type") or "clause",
-                parent_id=section_id,
-                section_id=section_id,
-                section_number=section_number,
-                title=title,
-                citation_parts=[section_number, clause_number],
-                ancestor_context=join_text(section_citation, title, section.get("text_before_clauses", "")),
-                act=act,
-                chapter=chapter,
-            )
+        for clause_key in ("clauses", "clause"):
+            for clause in section.get(clause_key, []) or []:
+                clause_number = clause.get("number") or clause.get("marker") or clause.get("letter") or clause.get("numeral")
+                self.add_provision_node(
+                    node=clause,
+                    unit_type=clause.get("type") or "clause",
+                    parent_id=section_id,
+                    section_id=section_id,
+                    section_number=section_number,
+                    title=title,
+                    citation_parts=[section_number, clause_number],
+                    ancestor_context=join_text(section_citation, title, section.get("text_before_clauses", "")),
+                    act=act,
+                    chapter=chapter,
+                )
 
     def add_provision_node(
         self,
@@ -244,8 +253,11 @@ class Canonicalizer:
 
         child_specs = [
             ("clauses", "clause"),
+            ("clause", "clause"),
             ("sub_clauses", "sub_clause"),
+            ("sub_clause", "sub_clause"),
             ("items", "item"),
+            ("item", "item"),
             ("sub_items", "sub_item"),
             ("conditions", "condition"),
             ("children", "item"),
@@ -325,8 +337,11 @@ class Canonicalizer:
 
             for child_key, child_type in (
                 ("clauses", "clause"),
+                ("clause", "clause"),
                 ("sub_clauses", "sub_clause"),
+                ("sub_clause", "sub_clause"),
                 ("items", "item"),
+                ("item", "item"),
                 ("sub_items", "sub_item"),
                 ("conditions", "condition"),
                 ("children", "item"),
@@ -404,8 +419,11 @@ class Canonicalizer:
 
         for child_key, child_type in (
             ("clauses", "clause"),
+            ("clause", "clause"),
             ("sub_clauses", "sub_clause"),
+            ("sub_clause", "sub_clause"),
             ("items", "item"),
+            ("item", "item"),
             ("sub_items", "sub_item"),
             ("conditions", "condition"),
             ("children", "item"),
@@ -783,6 +801,12 @@ class Canonicalizer:
                 self.external_act_registry,
                 self.reference_aliases,
             )
+            references, override_nodes = apply_reference_overrides(
+                source_id,
+                references,
+                self.reference_overrides,
+            )
+            external_nodes.extend(override_nodes)
             for external_node in external_nodes:
                 self.add_external_node(external_node)
             for reference in references:
@@ -807,6 +831,11 @@ class Canonicalizer:
 
 def iter_source_sections(raw: dict[str, Any]):
     seen: set[str] = set()
+    if normalize_type(str(raw.get("type", ""))) == "section" and raw.get("number") is not None:
+        identity = str(raw.get("id") or raw.get("number"))
+        seen.add(identity)
+        yield raw
+
     for section in raw.get("sections", []) or []:
         if not isinstance(section, dict):
             continue
@@ -834,13 +863,13 @@ def iter_source_sections(raw: dict[str, Any]):
 
 def detect_misnested_longline(node: dict[str, Any]) -> dict[str, Any] | None:
     """Detect Roman-numbered longline items attached to the final lettered clause."""
-    clauses = node.get("clauses", []) or []
+    clauses = [*(node.get("clauses", []) or []), *(node.get("clause", []) or [])]
     tail_text = clean(node.get("text_after_clauses", ""))
     if not clauses or not tail_text:
         return None
 
     owner = clauses[-1]
-    items = owner.get("sub_clauses", []) or []
+    items = [*(owner.get("sub_clauses", []) or []), *(owner.get("sub_clause", []) or [])]
     if len(items) < 2:
         return None
 
@@ -1151,6 +1180,153 @@ def extract_references(
     return references, external_nodes
 
 
+def apply_reference_overrides(
+    source_unit_id: str,
+    references: list[dict[str, Any]],
+    overrides: dict[tuple[str, str], dict[str, Any]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    if not overrides:
+        return references, []
+
+    resolved: list[dict[str, Any]] = []
+    external_nodes: list[dict[str, Any]] = []
+    applied: set[tuple[str, str]] = set()
+    for reference in references:
+        key = (source_unit_id, normalize_reference_key(reference.get("reference_text", "")))
+        override = overrides.get(key)
+        if not override:
+            resolved.append(reference)
+            continue
+        if key in applied:
+            continue
+        applied.add(key)
+        for target in override.get("targets", []):
+            materialized, nodes = materialize_override_target(override, target)
+            resolved.append(materialized)
+            external_nodes.extend(nodes)
+    return resolved, external_nodes
+
+
+def materialize_override_target(
+    override: dict[str, Any],
+    target: dict[str, Any],
+) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    reference_text = clean(target.get("reference_text") or override.get("reference_text", ""))
+    common = {
+        "resolution_basis": "human_override",
+        "override_source": override.get("override_source", "reference_section.rtf"),
+        "override_note": override.get("note", ""),
+    }
+    kind = target.get("kind", "internal")
+    if kind in {"internal", "schedule"}:
+        return (
+            {
+                "to_id": str(target["target_id"]),
+                "edge_type": "references",
+                "reference_text": reference_text,
+                **common,
+            },
+            [],
+        )
+
+    instrument = target["instrument"]
+    instrument_id = str(instrument["id"])
+    section = str(target.get("section", ""))
+    nested = [str(value) for value in target.get("nested", [])]
+    qualifier = [str(value) for value in target.get("qualifier", [])]
+    locator_parts = [section, *nested, *qualifier]
+    target_id = str(
+        target.get("target_id")
+        or f"{instrument_id}-section-" + "-".join(slug(value).lower() for value in locator_parts if value)
+    )
+    identity_basis = instrument.get("identity_basis", "human_override")
+    resolution_status = "external_act_not_ingested"
+    act_node = {
+        "id": instrument_id,
+        "node_type": instrument.get("node_type", "external_act_placeholder"),
+        "jurisdiction": instrument.get("jurisdiction", "India"),
+        "act_title": instrument["title"],
+        "title_year": instrument.get("title_year"),
+        "act_number": instrument.get("act_number"),
+        "act_year": instrument.get("act_year"),
+        "official_citation": instrument.get("official_citation"),
+        "identity_basis": identity_basis,
+        "resolution_status": resolution_status,
+        "title_year_differs_from_enactment_year": False,
+        "source_mentions": [reference_text],
+    }
+    provision_node = {
+        "id": target_id,
+        "node_type": "external_provision_placeholder",
+        "parent_id": instrument_id,
+        "jurisdiction": instrument.get("jurisdiction", "India"),
+        "act_title": instrument["title"],
+        "title_year": instrument.get("title_year"),
+        "act_number": instrument.get("act_number"),
+        "act_year": instrument.get("act_year"),
+        "official_citation": instrument.get("official_citation"),
+        "identity_basis": identity_basis,
+        "locator_text": target.get("locator_text") or reference_text,
+        "section": section or None,
+        "nested_locators": [*nested, *qualifier],
+        "resolution_status": resolution_status,
+        "title_year_differs_from_enactment_year": False,
+        "source_mentions": [reference_text],
+    }
+    edge = {
+        "to_id": target_id,
+        "edge_type": "references_external",
+        "reference_text": reference_text,
+        "target_act_id": instrument_id,
+        "target_act_title": instrument["title"],
+        "target_section": section or None,
+        "target_nested_locators": [*nested, *qualifier],
+        "resolution_status": resolution_status,
+        "target_act_number": instrument.get("act_number"),
+        "target_act_year": instrument.get("act_year"),
+        "target_act_title_year": instrument.get("title_year"),
+        "target_official_citation": instrument.get("official_citation"),
+        "target_identity_basis": identity_basis,
+        **common,
+    }
+    return edge, [act_node, provision_node]
+
+
+def normalize_reference_key(value: Any) -> str:
+    return clean(value).lower()
+
+
+def load_reference_overrides(path: Path | None) -> dict[tuple[str, str], dict[str, Any]]:
+    if path is None or not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    instruments = data.get("external_instruments", {})
+    loaded: dict[tuple[str, str], dict[str, Any]] = {}
+    for raw_override in data.get("overrides", []) or []:
+        source_unit_id = str(raw_override["source_unit_id"])
+        reference_text = clean(raw_override["reference_text"])
+        targets: list[dict[str, Any]] = []
+        for raw_target in raw_override.get("targets", []) or []:
+            target = dict(raw_target)
+            instrument_key = target.pop("instrument_key", None)
+            if instrument_key:
+                if instrument_key not in instruments:
+                    raise ValueError(f"Unknown external instrument in reference overrides: {instrument_key}")
+                target["instrument"] = instruments[instrument_key]
+                target.setdefault("kind", "external")
+            targets.append(target)
+        key = (source_unit_id, normalize_reference_key(reference_text))
+        if key in loaded:
+            raise ValueError(f"Duplicate reference override for {source_unit_id}: {reference_text}")
+        loaded[key] = {
+            **raw_override,
+            "reference_text": reference_text,
+            "targets": targets,
+            "override_source": data.get("source", path.name),
+        }
+    return loaded
+
+
 def find_compound_external_locators(prefix: str) -> tuple[int, list[tuple[str, list[str]]]] | None:
     """Parse locators that share one trailing external Act name."""
     candidates = list(
@@ -1256,14 +1432,17 @@ def discover_reference_aliases(raw_documents: list[dict[str, Any]]) -> dict[str,
             subsection_one = next(
                 (
                     subsection
-                    for subsection in section.get("subsections", []) or []
+                    for subsection in [
+                        *(section.get("subsections", []) or []),
+                        *(section.get("subsection", []) or []),
+                    ]
                     if str(subsection.get("number", "")) == "1"
                 ),
                 None,
             )
             if not subsection_one:
                 continue
-            for child_key in ("clauses", "items", "children"):
+            for child_key in ("clauses", "clause", "items", "item", "children"):
                 for child in subsection_one.get(child_key, []) or []:
                     if not isinstance(child, dict):
                         continue
@@ -1581,10 +1760,16 @@ def main() -> None:
     parser.add_argument("output_json", help="Output JSON file, or output directory for directory input")
     parser.add_argument("--act-name", default="Income-tax Act, 2025")
     parser.add_argument("--jurisdiction", default="India")
+    parser.add_argument(
+        "--reference-overrides",
+        help="Reviewed reference override JSON. Defaults to reference_overrides.json beside the input directory.",
+    )
     args = parser.parse_args()
 
     input_path = Path(args.input_json)
     output_path = Path(args.output_json)
+    override_path = Path(args.reference_overrides) if args.reference_overrides else default_override_path(input_path)
+    reference_overrides = load_reference_overrides(override_path)
 
     if input_path.is_dir():
         output_path.mkdir(parents=True, exist_ok=True)
@@ -1598,6 +1783,7 @@ def main() -> None:
                 jurisdiction=args.jurisdiction,
                 external_act_registry=external_act_registry,
                 reference_aliases=reference_aliases,
+                reference_overrides=reference_overrides,
             ).convert(raw)
             # Preserve one output per source file. A mismatched section number
             # must be exposed by validation, not overwrite another section.
@@ -1608,10 +1794,20 @@ def main() -> None:
         return
 
     raw = json.loads(input_path.read_text(encoding="utf-8"))
-    result = Canonicalizer(act_name=args.act_name, jurisdiction=args.jurisdiction).convert(raw)
+    result = Canonicalizer(
+        act_name=args.act_name,
+        jurisdiction=args.jurisdiction,
+        reference_overrides=reference_overrides,
+    ).convert(raw)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {len(result['legal_units'])} canonical units to {output_path}")
+
+
+def default_override_path(input_path: Path) -> Path | None:
+    project_dir = input_path.parent if input_path.is_dir() else input_path.parent.parent
+    candidate = project_dir / "reference_overrides.json"
+    return candidate if candidate.exists() else None
 
 
 def section_number_from_path(path: Path) -> str:

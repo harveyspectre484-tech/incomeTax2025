@@ -304,9 +304,12 @@
     },
     {
       "from_id": "459-2",
-      "to_id": "459-7",
+      "to_id": "511-7",
       "edge_type": "references",
-      "reference_text": "sub-section (7)"
+      "reference_text": "sub-section (7)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-section (7) of section 511."
     },
     {
       "from_id": "459-3",

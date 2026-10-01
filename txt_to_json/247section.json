@@ -16,13 +16,13 @@
           "id": "247-1-a",
           "type": "clause",
           "number": "a",
-          "text_before_sub_clauses": "Any person to whom the specified summons or notice has been or may be issued—",
+          "text_before_sub_clauses": "any person to whom a summons under section 131(1) or a notice under section 142(1) of the Income-tax Act, 1961 (43 of 1961) or summons under section 246(1) or a notice under section 268(1) of this Act,––",
           "sub_clause": [
             {
               "id": "247-1-a-I",
               "type": "sub_clause",
               "number": "I",
-              "text_before_children": "Has omitted or failed to produce books of account, documents, electronic information or information on a computer system as required by the summons or notice.",
+              "text_before_children": "was issued to produce, or cause to be produced, any books of account or other documents, or any information in electronic form or on a computer system, has omitted or failed to produce, or cause to be produced, such books of account or other documents or such information as required by such summons or notice; or",
               "children": [],
               "text_after_children": ""
             },
@@ -30,7 +30,7 @@
               "id": "247-1-a-II",
               "type": "sub_clause",
               "number": "II",
-              "text_before_children": "Will not or would not produce books, documents or electronic information useful for or relevant to proceedings under the Income-tax Act, 1961 or this Act.",
+              "text_before_children": "has been issued or might be issued, will not, or would not, produce or cause to be produced, any books of account or other documents, or any information in electronic form or on a computer system which will be useful for, or relevant to, any proceedings under the Income-tax Act, 1961 (43 of 1961) or this Act; or",
               "children": [],
               "text_after_children": ""
             }
@@ -40,67 +40,68 @@
           "id": "247-1-b",
           "type": "clause",
           "number": "b",
-          "text_before_sub_clauses": "Any person is in possession of an asset or information relating to an asset representing wholly or partly income or property which has not been, or would not be, disclosed for the purposes of the specified tax laws.",
-          "sub_clause": [
-            {
-              "id": "247-1-b-i",
-              "type": "sub_clause",
-              "number": "i",
-              "text_before_children": "Enter and search any building, place, vessel, vehicle or aircraft where specified assets, books, documents or electronic information are suspected to be kept.",
-              "children": []
-            },
-            {
-              "id": "247-1-ii",
-              "type": "sub_clause",
-              "number": "ii",
-              "text_before_children": "Require a person controlling electronic books, records, information or a computer system to provide reasonable technical and other assistance, including access codes.",
-              "children": [],
-              "text_after_children": ""
-            },
-            {
-              "id": "247-1-iii",
-              "type": "sub_clause",
-              "number": "iii",
-              "text_before_children": "Break open locks or override computer-system access codes where necessary for exercising the search powers and access is unavailable.",
-              "children": [],
-              "text_after_children": ""
-            },
-            {
-              "id": "247-1-iv",
-              "type": "sub_clause",
-              "number": "iv",
-              "text_before_children": "Search a person suspected of concealing books, documents, electronic information, a computer system or an asset.",
-              "children": [],
-              "text_after_children": ""
-            },
-            {
-              "id": "247-1-v",
-              "type": "sub_clause",
-              "number": "v",
-              "text_before_children": "Place identification marks on books or documents and make or cause extracts or copies to be made, including from computer systems.",
-              "children": [],
-              "text_after_children": ""
-            },
-            {
-              "id": "247-1-vi",
-              "type": "sub_clause",
-              "number": "vi",
-              "text_before_children": "Make a note or inventory of assets and business stock-in-trade found during the search.",
-              "children": [],
-              "text_after_children": ""
-            },
-            {
-              "id": "247-1-vii",
-              "type": "sub_clause",
-              "number": "vii",
-              "text_before_children": "Seize books, documents, computer systems or assets found during the search, other than stock-in-trade of the business.",
-              "children": [],
-              "text_after_children": ""
-            }
-          ]
+          "text_before_sub_clauses": "any person is in possession of any asset or information in relation to any asset and such asset represents either wholly or partly, income or property which has not been, or would not be, disclosed, for the purposes of the Income-tax Act, 1961 (43 of 1961) or the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (22 of 2015) or this Act (hereinafter referred to as the undisclosed income or property),",
+          "sub_clause": []
         }
       ],
-      "text_after_children": ""
+      "text_after_clauses": "then the approving authority may authorise any Joint Director or Joint Commissioner or Assistant Director or Assistant Commissioner or Income-tax Officer, or any Joint Director or Joint Commissioner, so authorised, may authorise any Assistant Director or Assistant Commissioner or Income-tax Officer, (the officer so authorised in all cases being herein referred to as the authorised officer) to—",
+      "operative_clauses": [
+        {
+          "id": "247-1-i",
+          "type": "sub_clause",
+          "number": "i",
+          "text_before_children": "Enter and search any building, place, vessel, vehicle or aircraft where specified assets, books, documents or electronic information are suspected to be kept.",
+          "children": []
+        },
+        {
+          "id": "247-1-ii",
+          "type": "sub_clause",
+          "number": "ii",
+          "text_before_children": "Require a person controlling electronic books, records, information or a computer system to provide reasonable technical and other assistance, including access codes.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-1-iii",
+          "type": "sub_clause",
+          "number": "iii",
+          "text_before_children": "Break open locks or override computer-system access codes where necessary for exercising the search powers and access is unavailable.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-1-iv",
+          "type": "sub_clause",
+          "number": "iv",
+          "text_before_children": "Search a person suspected of concealing books, documents, electronic information, a computer system or an asset.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-1-v",
+          "type": "sub_clause",
+          "number": "v",
+          "text_before_children": "Place identification marks on books or documents and make or cause extracts or copies to be made, including from computer systems.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-1-vi",
+          "type": "sub_clause",
+          "number": "vi",
+          "text_before_children": "Make a note or inventory of assets and business stock-in-trade found during the search.",
+          "children": [],
+          "text_after_children": ""
+        },
+        {
+          "id": "247-1-vii",
+          "type": "sub_clause",
+          "number": "vii",
+          "text_before_children": "Seize books, documents, computer systems or assets found during the search, other than stock-in-trade of the business.",
+          "children": [],
+          "text_after_children": ""
+        }
+      ]
     },
     {
       "id": "247-2",

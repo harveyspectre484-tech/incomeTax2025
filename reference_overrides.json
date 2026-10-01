@@ -1,0 +1,298 @@
+{
+  "source": "reference_section.rtf",
+  "external_instruments": {
+    "ifsca_payment_services_2024": {
+      "id": "ext-india-regulation-2024-ifsca-payment-services-regulations",
+      "title": "International Financial Services Authority (Payment Services) Regulations",
+      "title_year": "2024",
+      "act_number": null,
+      "act_year": "2024",
+      "official_citation": null,
+      "node_type": "external_regulation_placeholder"
+    },
+    "national_trust_1999": {
+      "id": "ext-india-act-1999-44",
+      "title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999"
+    },
+    "income_tax_1961": {
+      "id": "ext-india-act-1961-43",
+      "title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961"
+    },
+    "patents_1970": {
+      "id": "ext-india-act-1970-39",
+      "title": "Patents Act",
+      "title_year": "1970",
+      "act_number": "39",
+      "act_year": "1970",
+      "official_citation": "39 of 1970"
+    },
+    "bnss_2023": {
+      "id": "ext-india-act-2023-46",
+      "title": "Bharatiya Nagarik Suraksha Sanhita",
+      "title_year": "2023",
+      "act_number": "46",
+      "act_year": "2023",
+      "official_citation": "46 of 2023"
+    },
+    "land_acquisition_2013": {
+      "id": "ext-india-act-2013-30",
+      "title": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act",
+      "title_year": "2013",
+      "act_number": "30",
+      "act_year": "2013",
+      "official_citation": "30 of 2013"
+    }
+  },
+  "overrides": [
+    {
+      "source_unit_id": "2-40-where-E-II",
+      "reference_text": "clause (m)",
+      "note": "Clause (m) of sub-regulation (1) of regulation 2 of the IFSCA Payment Services Regulations, 2024.",
+      "targets": [
+        {
+          "instrument_key": "ifsca_payment_services_2024",
+          "section": "regulation-2",
+          "nested": ["1", "m"]
+        }
+      ]
+    },
+    {
+      "source_unit_id": "124-2",
+      "reference_text": "clause (b)",
+      "note": "Clause (b) of sub-section (1).",
+      "targets": [{"kind": "internal", "target_id": "124-1-b"}]
+    },
+    {
+      "source_unit_id": "127-9-e",
+      "reference_text": "section 2(a)",
+      "note": "National Trust Act definitions listed in the source sentence.",
+      "targets": [
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["a"]},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["c"], "reference_text": "section 2(c)"},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["h"], "reference_text": "section 2(h)"},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["j"], "reference_text": "section 2(j)"},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["o"], "reference_text": "section 2(o)"}
+      ]
+    },
+    {
+      "source_unit_id": "127-9-f",
+      "reference_text": "section 2(j)",
+      "note": "Section 2(j) of the National Trust Act, 1999.",
+      "targets": [{"instrument_key": "national_trust_1999", "section": "2", "nested": ["j"]}]
+    },
+    {
+      "source_unit_id": "127-9-g-ii",
+      "reference_text": "section 2(o)",
+      "note": "Section 2(o) of the National Trust Act, 1999.",
+      "targets": [{"instrument_key": "national_trust_1999", "section": "2", "nested": ["o"]}]
+    },
+    {
+      "source_unit_id": "162-2-b",
+      "reference_text": "section 80-IA(8)",
+      "note": "Sections 80-IA(8) and (10) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["8"]},
+        {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["10"], "reference_text": "section 80-IA(10)"}
+      ]
+    },
+    {
+      "source_unit_id": "164-d",
+      "reference_text": "section 80-",
+      "note": "OCR-spaced reference to sections 80-IA(8) and (10) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["8"], "reference_text": "section 80-IA(8)"},
+        {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["10"], "reference_text": "section 80-IA(10)"}
+      ]
+    },
+    {
+      "source_unit_id": "194-2-f",
+      "reference_text": "section 2(1)(j)",
+      "note": "Section 2(1)(j) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "j"]}]
+    },
+    {
+      "source_unit_id": "194-2-i",
+      "reference_text": "section 2(1)(m)",
+      "note": "Section 2(1)(m) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "m"]}]
+    },
+    {
+      "source_unit_id": "194-2-j",
+      "reference_text": "section 2(1)(o)",
+      "note": "Section 2(1)(o) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "o"]}]
+    },
+    {
+      "source_unit_id": "194-2-m",
+      "reference_text": "section 2(1)(y)",
+      "note": "Section 2(1)(y) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "y"]}]
+    },
+    {
+      "source_unit_id": "210-3",
+      "reference_text": "clause (g)",
+      "note": "Clause (g)(ii) of Note 1 of the Table in Schedule VI.",
+      "targets": [{"kind": "schedule", "target_id": "schedule-6-note-1-clause-g-ii"}]
+    },
+    {
+      "source_unit_id": "219-3-c",
+      "reference_text": "sub-section (8)",
+      "note": "Sub-section (8) of section 287.",
+      "targets": [{"kind": "internal", "target_id": "287-8"}]
+    },
+    {
+      "source_unit_id": "220-3-c",
+      "reference_text": "sub-section (8)",
+      "note": "Sub-section (8) of section 287.",
+      "targets": [{"kind": "internal", "target_id": "287-8"}]
+    },
+    {
+      "source_unit_id": "248-2",
+      "reference_text": "clause (a)",
+      "note": "Clauses (a), (b), and (c) of sub-section (1).",
+      "targets": [
+        {"kind": "internal", "target_id": "248-1-a"},
+        {"kind": "internal", "target_id": "248-1-b", "reference_text": "clause (b)"},
+        {"kind": "internal", "target_id": "248-1-c", "reference_text": "clause (c)"}
+      ]
+    },
+    {
+      "source_unit_id": "288-1-table-row-10",
+      "reference_text": "section 2(1)(b)",
+      "note": "Section 2(1)(b) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "b"]}]
+    },
+    {
+      "source_unit_id": "288-1-table-row-10",
+      "reference_text": "section 2(1)(i)",
+      "note": "Section 2(1)(i) of the Patents Act, 1970.",
+      "targets": [{"instrument_key": "patents_1970", "section": "2", "nested": ["1", "i"]}]
+    },
+    {
+      "source_unit_id": "293-2-d",
+      "reference_text": "section 115A(5)",
+      "note": "Section 115A(5) of the Income-tax Act, 1961.",
+      "targets": [{"instrument_key": "income_tax_1961", "section": "115A", "nested": ["5"]}]
+    },
+    {
+      "source_unit_id": "293-2-d",
+      "reference_text": "section 115G",
+      "note": "Sections 115G and 194P(1) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "115G", "nested": []},
+        {"instrument_key": "income_tax_1961", "section": "194P", "nested": ["1"], "reference_text": "section 194P(1)"}
+      ]
+    },
+    {
+      "source_unit_id": "298-1-a",
+      "reference_text": "clause (c)",
+      "note": "Clause (c) of section 294(1).",
+      "targets": [{"kind": "internal", "target_id": "294-1-c"}]
+    },
+    {
+      "source_unit_id": "298-1-b",
+      "reference_text": "clause (c)",
+      "note": "Clause (c) of section 294(1).",
+      "targets": [{"kind": "internal", "target_id": "294-1-c"}]
+    },
+    {
+      "source_unit_id": "351-3",
+      "reference_text": "clause (i)",
+      "note": "Clause (i) of the previously referenced sub-section (2).",
+      "targets": [{"kind": "internal", "target_id": "351-2-i"}]
+    },
+    {
+      "source_unit_id": "352-4-table-row-6-case_b_i-a-1",
+      "reference_text": "clause (i)",
+      "note": "Sub-clauses (i), (ii), and (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "10", "nested": ["23C"], "qualifier": ["first-proviso", "i"]},
+        {"instrument_key": "income_tax_1961", "section": "10", "nested": ["23C"], "qualifier": ["first-proviso", "ii"], "reference_text": "sub-clause (ii)"},
+        {"instrument_key": "income_tax_1961", "section": "10", "nested": ["23C"], "qualifier": ["first-proviso", "iii"], "reference_text": "sub-clause (iii)"}
+      ]
+    },
+    {
+      "source_unit_id": "352-4-table-row-6-case_b_i-b-2",
+      "reference_text": "clause (i)",
+      "note": "Sub-clauses (i), (ii), and (iii) of section 12(1)(ac) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "12", "nested": ["1", "ac", "i"]},
+        {"instrument_key": "income_tax_1961", "section": "12", "nested": ["1", "ac", "ii"], "reference_text": "sub-clause (ii)"},
+        {"instrument_key": "income_tax_1961", "section": "12", "nested": ["1", "ac", "iii"], "reference_text": "sub-clause (iii)"}
+      ]
+    },
+    {
+      "source_unit_id": "352-8",
+      "reference_text": "clause (b)",
+      "note": "Clause (b) of sub-section (7).",
+      "targets": [{"kind": "internal", "target_id": "352-7-b"}]
+    },
+    {
+      "source_unit_id": "355-k-ii",
+      "reference_text": "section 12A(2)",
+      "note": "Section 12A(2) of the Income-tax Act, 1961.",
+      "targets": [{"instrument_key": "income_tax_1961", "section": "12A", "nested": ["2"]}]
+    },
+    {
+      "source_unit_id": "355-k-iii",
+      "reference_text": "section 12A(2)",
+      "note": "Section 12A(2) of the Income-tax Act, 1961.",
+      "targets": [{"instrument_key": "income_tax_1961", "section": "12A", "nested": ["2"]}]
+    },
+    {
+      "source_unit_id": "355-k-iii",
+      "reference_text": "section 10(23C)",
+      "note": "Section 10(23C) of the Income-tax Act, 1961.",
+      "targets": [{"instrument_key": "income_tax_1961", "section": "10", "nested": ["23C"]}]
+    },
+    {
+      "source_unit_id": "355-m",
+      "reference_text": "section 12A",
+      "note": "Sections 12A, 12AA, 12AB, and 10(23C) of the Income-tax Act, 1961.",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "12A", "nested": []},
+        {"instrument_key": "income_tax_1961", "section": "12AA", "nested": [], "reference_text": "section 12AA"},
+        {"instrument_key": "income_tax_1961", "section": "12AB", "nested": [], "reference_text": "section 12AB"},
+        {"instrument_key": "income_tax_1961", "section": "10", "nested": ["23C"], "reference_text": "section 10(23C)"}
+      ]
+    },
+    {
+      "source_unit_id": "425-6",
+      "reference_text": "clause (e)",
+      "note": "Sub-clause (e) of section 2(40).",
+      "targets": [{"kind": "internal", "target_id": "2-40-e"}]
+    },
+    {
+      "source_unit_id": "428-a",
+      "reference_text": "sub-section (1)",
+      "note": "Sub-section (1) of section 263.",
+      "targets": [{"kind": "internal", "target_id": "263-1"}]
+    },
+    {
+      "source_unit_id": "459-2",
+      "reference_text": "sub-section (7)",
+      "note": "Sub-section (7) of section 511.",
+      "targets": [{"kind": "internal", "target_id": "511-7"}]
+    },
+    {
+      "source_unit_id": "498-4",
+      "reference_text": "section 2(1)(v)",
+      "note": "Section 2(1)(v) of the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "targets": [{"instrument_key": "bnss_2023", "section": "2", "nested": ["1", "v"]}]
+    },
+    {
+      "source_unit_id": "508-1-g",
+      "reference_text": "section 3(g)",
+      "note": "Section 3(g) of the 2013 land acquisition Act.",
+      "targets": [{"instrument_key": "land_acquisition_2013", "section": "3", "nested": ["g"]}]
+    }
+  ]
+}

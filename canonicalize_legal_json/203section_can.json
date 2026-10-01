@@ -199,8 +199,8 @@
       "section_id": "203",
       "section_number": "203",
       "title": "Tax on income of certain resident co-operative societies.",
-      "text": "Once the option under this section has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year. shall be modified to the extent that the deduction under section 149(2)(d)(ii) shall be available to such assessee as does not exceed the amount of dividend",
-      "retrieval_text": "Section 203 Tax on income of certain resident co-operative societies. Section 203(6): Once the option under this section has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year. shall be modified to the extent that the deduction under section 149(2)(d)(ii) shall be available to such assessee as does not exceed the amount of dividend",
+      "text": "Once the option under this section has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year.",
+      "retrieval_text": "Section 203 Tax on income of certain resident co-operative societies. Section 203(6): Once the option under this section has been exercised for any tax year, it shall not be subsequently withdrawn for the same or any other tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -209,6 +209,25 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 312.38
+    },
+    {
+      "id": "203-7",
+      "citation": "Section 203(7)",
+      "unit_type": "subsection",
+      "parent_id": "203",
+      "section_id": "203",
+      "section_number": "203",
+      "title": "Tax on income of certain resident co-operative societies.",
+      "text": "In case of an assessee, being a co-operative society, which has exercised option under sub-section (5), the requirements contained in sub-section (1) shall be modified to the extent that the deduction under section 149(2)(d)(ii) shall be available to such assessee as does not exceed the amount of dividend distributed by it to its members at least one month before the due date for filing the return of income under section 263(1).",
+      "retrieval_text": "Section 203 Tax on income of certain resident co-operative societies. Section 203(7): In case of an assessee, being a co-operative society, which has exercised option under sub-section (5), the requirements contained in sub-section (1) shall be modified to the extent that the deduction under section 149(2)(d)(ii) shall be available to such assessee as does not exceed the amount of dividend distributed by it to its members at least one month before the due date for filing the return of income under section 263(1).",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 340.49
     }
   ],
   "external_nodes": [],
@@ -314,6 +333,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "203-7",
+      "to_id": "203",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "203",
+      "to_id": "203-7",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "203-1",
       "to_id": "204",
       "edge_type": "references",
@@ -380,10 +409,28 @@
       "reference_text": "section 263(1)"
     },
     {
-      "from_id": "203-6",
+      "from_id": "203-7",
       "to_id": "149-2-d",
       "edge_type": "references",
       "reference_text": "section 149(2)(d)"
+    },
+    {
+      "from_id": "203-7",
+      "to_id": "263-1",
+      "edge_type": "references",
+      "reference_text": "section 263(1)"
+    },
+    {
+      "from_id": "203-7",
+      "to_id": "203-5",
+      "edge_type": "references",
+      "reference_text": "sub-section (5)"
+    },
+    {
+      "from_id": "203-7",
+      "to_id": "203-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
     }
   ]
 }

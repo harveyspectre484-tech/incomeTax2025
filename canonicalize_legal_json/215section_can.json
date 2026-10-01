@@ -78,15 +78,15 @@
       "y_start": 106.05
     },
     {
-      "id": "215-1-b-i",
-      "citation": "Section 215(1)(b)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "215-1-b",
+      "id": "215-1-i",
+      "citation": "Section 215(1)(i)",
+      "unit_type": "item",
+      "parent_id": "215-1",
       "section_id": "215",
       "section_number": "215",
       "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
       "text": "if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;",
-      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(b): within six months after the date of such transfer, he has invested the whole or any part of the net consideration in any specified asset (herein referred to as new asset), Section 215(1)(b)(i): if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(i): if the cost of the new asset is not less than the net consideration in respect of the original asset, the whole of such capital gain shall not be charged under section 67;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -97,15 +97,110 @@
       "y_start": 141.59
     },
     {
-      "id": "215-1-b-ii",
-      "citation": "Section 215(1)(b)(ii)",
+      "id": "215-1-ii",
+      "citation": "Section 215(1)(ii)",
       "unit_type": "sub_clause",
-      "parent_id": "215-1-b",
+      "parent_id": "215-1",
       "section_id": "215",
       "section_number": "215",
       "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
-      "text": "if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— C A = B × D Where, A = the capital gains not to be charged under section 67; B = whole of the capital gain; C = cost of acquisition of the new asset; D = net consideration in respect of the original asset.",
-      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(b): within six months after the date of such transfer, he has invested the whole or any part of the net consideration in any specified asset (herein referred to as new asset), Section 215(1)(b)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— C A = B × D Where, A = the capital gains not to be charged under section 67; B = whole of the capital gain; C = cost of acquisition of the new asset; D = net consideration in respect of the original asset.",
+      "text": "if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D)",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D)",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 161.74
+    },
+    {
+      "id": "215-1-ii-where",
+      "citation": "Section 215(1)(ii), Where block",
+      "unit_type": "where_block",
+      "parent_id": "215-1-ii",
+      "section_id": "215",
+      "section_number": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "text": "",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D) Section 215(1)(ii), Where block:",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 161.74
+    },
+    {
+      "id": "215-1-ii-where-A",
+      "citation": "Section 215(1)(ii), Where block, Item (A)",
+      "unit_type": "item",
+      "parent_id": "215-1-ii-where",
+      "section_id": "215",
+      "section_number": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "text": "A = the capital gains not to be charged under section 67;",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D) Section 215(1)(ii), Where block: Section 215(1)(ii), Where block, Item (A): A = the capital gains not to be charged under section 67;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 161.74
+    },
+    {
+      "id": "215-1-ii-where-B",
+      "citation": "Section 215(1)(ii), Where block, Item (B)",
+      "unit_type": "item",
+      "parent_id": "215-1-ii-where",
+      "section_id": "215",
+      "section_number": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "text": "B = whole of the capital gain;",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D) Section 215(1)(ii), Where block: Section 215(1)(ii), Where block, Item (B): B = whole of the capital gain;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 161.74
+    },
+    {
+      "id": "215-1-ii-where-C",
+      "citation": "Section 215(1)(ii), Where block, Item (C)",
+      "unit_type": "item",
+      "parent_id": "215-1-ii-where",
+      "section_id": "215",
+      "section_number": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "text": "C = cost of acquisition of the new asset;",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D) Section 215(1)(ii), Where block: Section 215(1)(ii), Where block, Item (C): C = cost of acquisition of the new asset;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 161.74
+    },
+    {
+      "id": "215-1-ii-where-D",
+      "citation": "Section 215(1)(ii), Where block, Item (D)",
+      "unit_type": "item",
+      "parent_id": "215-1-ii-where",
+      "section_id": "215",
+      "section_number": "215",
+      "title": "Capital gains on transfer of foreign exchange assets not to be charged in certain cases.",
+      "text": "D = net consideration in respect of the original asset.",
+      "retrieval_text": "Section 215 Capital gains on transfer of foreign exchange assets not to be charged in certain cases. Section 215(1): Where, in case of an assessee, being a non-resident Indian,— then the capital gains shall be dealt with in the following manner:— Section 215(1)(ii): if the cost of the new asset is less than the net consideration in respect of the original asset, then the capital gain computed by the following formula shall not be charged under section 67:— A = B × C / D A = B * (C/D) Section 215(1)(ii), Where block: Section 215(1)(ii), Where block, Item (D): D = net consideration in respect of the original asset.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -225,23 +320,73 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "215-1-b-i",
-      "to_id": "215-1-b",
+      "from_id": "215-1-i",
+      "to_id": "215-1",
       "edge_type": "parent"
     },
     {
-      "from_id": "215-1-b",
-      "to_id": "215-1-b-i",
+      "from_id": "215-1",
+      "to_id": "215-1-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "215-1-b-ii",
-      "to_id": "215-1-b",
+      "from_id": "215-1-ii",
+      "to_id": "215-1",
       "edge_type": "parent"
     },
     {
-      "from_id": "215-1-b",
-      "to_id": "215-1-b-ii",
+      "from_id": "215-1",
+      "to_id": "215-1-ii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "215-1-ii-where",
+      "to_id": "215-1-ii",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "215-1-ii",
+      "to_id": "215-1-ii-where",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "215-1-ii-where-A",
+      "to_id": "215-1-ii-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "215-1-ii-where",
+      "to_id": "215-1-ii-where-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "215-1-ii-where-B",
+      "to_id": "215-1-ii-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "215-1-ii-where",
+      "to_id": "215-1-ii-where-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "215-1-ii-where-C",
+      "to_id": "215-1-ii-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "215-1-ii-where",
+      "to_id": "215-1-ii-where-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "215-1-ii-where-D",
+      "to_id": "215-1-ii-where",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "215-1-ii-where",
+      "to_id": "215-1-ii-where-D",
       "edge_type": "contains"
     },
     {
@@ -285,13 +430,19 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "215-1-b-i",
+      "from_id": "215-1-i",
       "to_id": "67",
       "edge_type": "references",
       "reference_text": "section 67"
     },
     {
-      "from_id": "215-1-b-ii",
+      "from_id": "215-1-ii",
+      "to_id": "67",
+      "edge_type": "references",
+      "reference_text": "section 67"
+    },
+    {
+      "from_id": "215-1-ii-where-A",
       "to_id": "67",
       "edge_type": "references",
       "reference_text": "section 67"

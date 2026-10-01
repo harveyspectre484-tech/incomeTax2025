@@ -496,22 +496,22 @@
       "y_start": 388.23
     },
     {
-      "id": "261-h-i",
-      "citation": "Section 261(h)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "261-h",
+      "id": "261-i",
+      "citation": "Section 261(i)",
+      "unit_type": "clause",
+      "parent_id": "261",
       "section_id": "261",
       "section_number": "261",
       "title": "Interpretation.",
-      "text": "\"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containing figures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
-      "retrieval_text": "Section 261 Interpretation. For the purposes of this Part,— Section 261(h): \"electronic record\" shall have the same meaning as provided in section 2(1)(t) of the Information Technology Act, 2000 (21 of 2000); Section 261(h)(i): \"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containing figures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
+      "text": "\"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containingfigures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
+      "retrieval_text": "Section 261 Interpretation. For the purposes of this Part,— Section 261(i): \"material seized or requisitioned\" means books of account or other documents or computer systems, and extracts seized from a person during the course of search under section 247 or requisitioned under section 248, and includes seizure of backup taken from any specialised programs like tally software, excel sheets, word files and all electronic records including data and information in electronic form or on the computer system, containingfigures and any other relevant noting, and shall be construed to mean as books of account maintained by the said person;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
-      "x": 42.68,
+      "x": 40.8,
       "y_start": 398.84
     },
     {
@@ -983,13 +983,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "261-h-i",
-      "to_id": "261-h",
+      "from_id": "261-i",
+      "to_id": "261",
       "edge_type": "parent"
     },
     {
-      "from_id": "261-h",
-      "to_id": "261-h-i",
+      "from_id": "261",
+      "to_id": "261-i",
       "edge_type": "contains"
     },
     {
@@ -1117,13 +1117,13 @@
       "target_identity_basis": "official_citation"
     },
     {
-      "from_id": "261-h-i",
+      "from_id": "261-i",
       "to_id": "247",
       "edge_type": "references",
       "reference_text": "section 247"
     },
     {
-      "from_id": "261-h-i",
+      "from_id": "261-i",
       "to_id": "248",
       "edge_type": "references",
       "reference_text": "section 248"

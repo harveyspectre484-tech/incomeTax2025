@@ -570,20 +570,20 @@
                   "page_end": 2,
                   "text": "it would have been required to prepare a consolidated financial statement had the equity shares of any of the enterprises were listed on a stock exchange,",
                   "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "511-10-h-i",
-                  "x": 42.68,
-                  "y_start": 306.02,
-                  "page_start": 2,
-                  "page_end": 2,
-                  "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
-                  "children": []
                 }
               ],
               "text_after_sub_clauses": "and, there is no other constituent entity of such group which, due to ownership of any interest, directly or indirectly, in the first mentioned constituent entity, is required to prepare a consolidated financial statement, under the circumstances referred to in sub-clause (i) or (ii), that includes the separate financial statement of the first mentioned constituent entity;"
+            },
+            {
+              "type": "sub_clause",
+              "number": "i",
+              "id": "511-10-i",
+              "x": 42.68,
+              "y_start": 306.02,
+              "page_start": 2,
+              "page_end": 2,
+              "text": "\"permanent establishment\" shall have the meaning assigned to it in section 173(c);",
+              "children": []
             },
             {
               "type": "clause",

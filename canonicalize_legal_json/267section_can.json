@@ -439,15 +439,34 @@
       "y_start": 380.0
     },
     {
-      "id": "267-5-a",
-      "citation": "Section 267(5)(a)",
+      "id": "267-5-i",
+      "citation": "Section 267(5)(i)",
       "unit_type": "clause",
       "parent_id": "267-5",
       "section_id": "267",
       "section_number": "267",
       "title": "Tax on updated return.",
-      "text": "25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or (b) 50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(a): 25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or (b) 50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
+      "text": "For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,—",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(i): For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 380.0
+    },
+    {
+      "id": "267-5-i-a",
+      "citation": "Section 267(5)(i)(a)",
+      "unit_type": "sub_clause",
+      "parent_id": "267-5-i",
+      "section_id": "267",
+      "section_number": "267",
+      "title": "Tax on updated return.",
+      "text": "25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(i): For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(5)(i)(a): 25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -458,15 +477,34 @@
       "y_start": 415.0
     },
     {
-      "id": "267-5-c",
-      "citation": "Section 267(5)(c)",
-      "unit_type": "clause",
-      "parent_id": "267-5",
+      "id": "267-5-i-b",
+      "citation": "Section 267(5)(i)(b)",
+      "unit_type": "sub_clause",
+      "parent_id": "267-5-i",
+      "section_id": "267",
+      "section_number": "267",
+      "title": "Tax on updated return.",
+      "text": "50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(i): For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(5)(i)(b): 50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 415.0
+    },
+    {
+      "id": "267-5-i-c",
+      "citation": "Section 267(5)(i)(c)",
+      "unit_type": "sub_clause",
+      "parent_id": "267-5-i",
       "section_id": "267",
       "section_number": "267",
       "title": "Tax on updated return.",
       "text": "60% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twenty-four months, but before the completion of thirty-six months, from the end of the financial year succeeding the relevant tax year; or",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(c): 60% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twenty-four months, but before the completion of thirty-six months, from the end of the financial year succeeding the relevant tax year; or",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(i): For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(5)(i)(c): 60% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twenty-four months, but before the completion of thirty-six months, from the end of the financial year succeeding the relevant tax year; or",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -477,15 +515,15 @@
       "y_start": 430.0
     },
     {
-      "id": "267-5-d",
-      "citation": "Section 267(5)(d)",
-      "unit_type": "clause",
-      "parent_id": "267-5",
+      "id": "267-5-i-d",
+      "citation": "Section 267(5)(i)(d)",
+      "unit_type": "sub_clause",
+      "parent_id": "267-5-i",
       "section_id": "267",
       "section_number": "267",
       "title": "Tax on updated return.",
       "text": "70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before the completion of forty-eight months, from the end of the financial year succeeding the relevant tax year.",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(d): 70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before the completion of forty-eight months, from the end of the financial year succeeding the relevant tax year.",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(i): For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(5)(i)(d): 70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before the completion of forty-eight months, from the end of the financial year succeeding the relevant tax year.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -496,15 +534,15 @@
       "y_start": 450.0
     },
     {
-      "id": "267-5-d-ii",
-      "citation": "Section 267(5)(d)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "267-5-d",
+      "id": "267-5-ii",
+      "citation": "Section 267(5)(ii)",
+      "unit_type": "clause",
+      "parent_id": "267-5",
       "section_id": "267",
       "section_number": "267",
       "title": "Tax on updated return.",
       "text": "Where an updated return is filed in pursuance of a notice issued under section 280 within the period specified in the said notice, the additional income-tax payable under sub-section (5)(i) shall be increased by a further sum of 10% of the aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be.]",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(d): 70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before the completion of forty-eight months, from the end of the financial year succeeding the relevant tax year. Section 267(5)(d)(ii): Where an updated return is filed in pursuance of a notice issued under section 280 within the period specified in the said notice, the additional income-tax payable under sub-section (5)(i) shall be increased by a further sum of 10% of the aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be.]",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(5): Section 267(5)(ii): Where an updated return is filed in pursuance of a notice issued under section 280 within the period specified in the said notice, the additional income-tax payable under sub-section (5)(i) shall be increased by a further sum of 10% of the aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be.]",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -807,8 +845,8 @@
       "section_id": "267",
       "section_number": "267",
       "title": "Tax on updated return.",
-      "text": "For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,—",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,—",
+      "text": "For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1).",
+      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1).",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -817,82 +855,6 @@
       "line_start": null,
       "x": 27.62,
       "y_start": 380.0
-    },
-    {
-      "id": "267-11-a",
-      "citation": "Section 267(11)(a)",
-      "unit_type": "clause",
-      "parent_id": "267-11",
-      "section_id": "267",
-      "section_number": "267",
-      "title": "Tax on updated return.",
-      "text": "25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(11)(a): 25% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after expiry of the time available under section 263(4) or (5) and before completion of twelve months from the end of the financial year succeeding the relevant tax year; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.8,
-      "y_start": 395.0
-    },
-    {
-      "id": "267-11-b",
-      "citation": "Section 267(11)(b)",
-      "unit_type": "clause",
-      "parent_id": "267-11",
-      "section_id": "267",
-      "section_number": "267",
-      "title": "Tax on updated return.",
-      "text": "50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(11)(b): 50% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twelve months but before completion of twenty-four months from the end of the financial year succeeding the relevant tax year; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.8,
-      "y_start": 415.0
-    },
-    {
-      "id": "267-11-c",
-      "citation": "Section 267(11)(c)",
-      "unit_type": "clause",
-      "parent_id": "267-11",
-      "section_id": "267",
-      "section_number": "267",
-      "title": "Tax on updated return.",
-      "text": "60% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twenty-four months, but before completion of thirty-six months, from the end of the financial year succeeding the relevant tax year; or",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(11)(c): 60% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of twenty-four months, but before completion of thirty-six months, from the end of the financial year succeeding the relevant tax year; or",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.8,
-      "y_start": 430.0
-    },
-    {
-      "id": "267-11-d",
-      "citation": "Section 267(11)(d)",
-      "unit_type": "clause",
-      "parent_id": "267-11",
-      "section_id": "267",
-      "section_number": "267",
-      "title": "Tax on updated return.",
-      "text": "70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before completion of forty-eight months, from the end of the financial year succeeding the relevant tax year.\" \"(v) any tax credit claimed, to be set off as per section 206(1)(m) to (p) and 206(2)(e) to (h), which has not been claimed in the earlier return; and\"",
-      "retrieval_text": "Section 267 Tax on updated return. Section 267(11): For the purposes of sub-section (10)(c), the interest paid in the earlier return shall be nil in case of an updated return referred to in sub-section (1). \"(e) any tax credit claimed, to be set off as per the provisions of section 206(1)(m) to (p) and 206(2)(e) to (h) which has not been claimed in the earlier return.\" \"(5) For the purposes of sub-sections (1) and (3), the additional income-tax payable at the time of furnishing the return under section 263(6) shall be equal to,— Section 267(11)(d): 70% of aggregate of tax and interest payable, as determined in sub-section (1) or (3), as the case may be, if such return is furnished after the expiry of thirty-six months, but before completion of forty-eight months, from the end of the financial year succeeding the relevant tax year.\" \"(v) any tax credit claimed, to be set off as per section 206(1)(m) to (p) and 206(2)(e) to (h), which has not been claimed in the earlier return; and\"",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": null,
-      "x": 40.8,
-      "y_start": 450.0
     }
   ],
   "external_nodes": [],
@@ -1118,43 +1080,63 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "267-5-a",
+      "from_id": "267-5-i",
       "to_id": "267-5",
       "edge_type": "parent"
     },
     {
       "from_id": "267-5",
-      "to_id": "267-5-a",
+      "to_id": "267-5-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "267-5-c",
+      "from_id": "267-5-i-a",
+      "to_id": "267-5-i",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "267-5-i",
+      "to_id": "267-5-i-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "267-5-i-b",
+      "to_id": "267-5-i",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "267-5-i",
+      "to_id": "267-5-i-b",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "267-5-i-c",
+      "to_id": "267-5-i",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "267-5-i",
+      "to_id": "267-5-i-c",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "267-5-i-d",
+      "to_id": "267-5-i",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "267-5-i",
+      "to_id": "267-5-i-d",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "267-5-ii",
       "to_id": "267-5",
       "edge_type": "parent"
     },
     {
       "from_id": "267-5",
-      "to_id": "267-5-c",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "267-5-d",
-      "to_id": "267-5",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-5",
-      "to_id": "267-5-d",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "267-5-d-ii",
-      "to_id": "267-5-d",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-5-d",
-      "to_id": "267-5-d-ii",
+      "to_id": "267-5-ii",
       "edge_type": "contains"
     },
     {
@@ -1318,46 +1300,6 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "267-11-a",
-      "to_id": "267-11",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-11",
-      "to_id": "267-11-a",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "267-11-b",
-      "to_id": "267-11",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-11",
-      "to_id": "267-11-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "267-11-c",
-      "to_id": "267-11",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-11",
-      "to_id": "267-11-c",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "267-11-d",
-      "to_id": "267-11",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "267-11",
-      "to_id": "267-11-d",
-      "edge_type": "contains"
-    },
-    {
       "from_id": "267-1",
       "to_id": "263-1",
       "edge_type": "references",
@@ -1466,43 +1408,55 @@
       "reference_text": "section 206(2)(e)"
     },
     {
-      "from_id": "267-5-a",
+      "from_id": "267-5-i",
+      "to_id": "263-6",
+      "edge_type": "references",
+      "reference_text": "section 263(6)"
+    },
+    {
+      "from_id": "267-5-i-a",
       "to_id": "263-4",
       "edge_type": "references",
       "reference_text": "section 263(4)"
     },
     {
-      "from_id": "267-5-a",
+      "from_id": "267-5-i-a",
       "to_id": "267-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "267-5-c",
+      "from_id": "267-5-i-b",
       "to_id": "267-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "267-5-d",
+      "from_id": "267-5-i-c",
       "to_id": "267-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
     },
     {
-      "from_id": "267-5-d-ii",
+      "from_id": "267-5-i-d",
+      "to_id": "267-1",
+      "edge_type": "references",
+      "reference_text": "sub-section (1)"
+    },
+    {
+      "from_id": "267-5-ii",
       "to_id": "280",
       "edge_type": "references",
       "reference_text": "section 280"
     },
     {
-      "from_id": "267-5-d-ii",
+      "from_id": "267-5-ii",
       "to_id": "267-5-i",
       "edge_type": "references",
       "reference_text": "sub-section (5)(i)"
     },
     {
-      "from_id": "267-5-d-ii",
+      "from_id": "267-5-ii",
       "to_id": "267-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
@@ -1617,60 +1571,12 @@
     },
     {
       "from_id": "267-11",
-      "to_id": "206-1-m",
-      "edge_type": "references",
-      "reference_text": "section 206(1)(m)"
-    },
-    {
-      "from_id": "267-11",
-      "to_id": "263-6",
-      "edge_type": "references",
-      "reference_text": "section 263(6)"
-    },
-    {
-      "from_id": "267-11",
       "to_id": "267-10-c",
       "edge_type": "references",
       "reference_text": "sub-section (10)(c)"
     },
     {
       "from_id": "267-11",
-      "to_id": "267-1",
-      "edge_type": "references",
-      "reference_text": "sub-section (1)"
-    },
-    {
-      "from_id": "267-11-a",
-      "to_id": "263-4",
-      "edge_type": "references",
-      "reference_text": "section 263(4)"
-    },
-    {
-      "from_id": "267-11-a",
-      "to_id": "267-1",
-      "edge_type": "references",
-      "reference_text": "sub-section (1)"
-    },
-    {
-      "from_id": "267-11-b",
-      "to_id": "267-1",
-      "edge_type": "references",
-      "reference_text": "sub-section (1)"
-    },
-    {
-      "from_id": "267-11-c",
-      "to_id": "267-1",
-      "edge_type": "references",
-      "reference_text": "sub-section (1)"
-    },
-    {
-      "from_id": "267-11-d",
-      "to_id": "206-1-m",
-      "edge_type": "references",
-      "reference_text": "section 206(1)(m)"
-    },
-    {
-      "from_id": "267-11-d",
       "to_id": "267-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"

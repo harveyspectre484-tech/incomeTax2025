@@ -200,28 +200,6 @@
                   "page_end": 1,
                   "text": "Rs. 50000, in any other case;",
                   "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "149-2-c-i",
-                  "x": 71.75,
-                  "y_start": 394.07,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "interest; or",
-                  "children": []
-                },
-                {
-                  "type": "sub_clause",
-                  "number": "ii",
-                  "id": "149-2-c-ii",
-                  "x": 69.33,
-                  "y_start": 404.68,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "dividends,",
-                  "children": []
                 }
               ]
             },
@@ -445,7 +423,7 @@
           "y_start": 631.17,
           "page_start": 1,
           "page_end": 1,
-          "text_before_clauses": "The provision of this section shall not apply to any co-operative bank which is not a primary agricultural credit society or a primary co-operative agricultural and rural development bank.",
+          "text_before_clauses": "For the purposes of this section,––",
           "clauses": [
             {
               "type": "clause",
@@ -472,12 +450,12 @@
             {
               "type": "clause",
               "number": "c",
-              "id": "149-5-c",
+              "id": "149-6-c",
               "x": 41.27,
               "y_start": 694.82,
               "page_start": 1,
               "page_end": 1,
-              "text": "\"primary co-operative agricultural and rural development bank\" means a society having an area of operation confined to a taluk, the principal object of which is to provide long-term credit for agricultural and rural development activities.]",
+              "text": "\"primary co-operative agricultural and rural development bank\" means a society having an area of operation confined to a taluk, the principal object of which is to provide long-term credit for agricultural and rural development activities.",
               "children": []
             }
           ]

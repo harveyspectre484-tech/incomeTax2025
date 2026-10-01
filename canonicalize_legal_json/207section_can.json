@@ -416,8 +416,8 @@
       "section_id": "207",
       "section_number": "207",
       "title": "Tax on dividends, royalty and fees for technical service in case of foreign companies.",
-      "text": "Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or",
-      "retrieval_text": "Section 207 Tax on dividends, royalty and fees for technical service in case of foreign companies. Section 207(3): Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or",
+      "text": "Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section",
+      "retrieval_text": "Section 207 Tax on dividends, royalty and fees for technical service in case of foreign companies. Section 207(3): Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -428,6 +428,25 @@
       "y_start": 380.0
     },
     {
+      "id": "207-3-a",
+      "citation": "Section 207(3)(a)",
+      "unit_type": "clause",
+      "parent_id": "207-3",
+      "section_id": "207",
+      "section_number": "207",
+      "title": "Tax on dividends, royalty and fees for technical service in case of foreign companies.",
+      "text": "in respect of copyright in any book to an Indian concern; or",
+      "retrieval_text": "Section 207 Tax on dividends, royalty and fees for technical service in case of foreign companies. Section 207(3): Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section Section 207(3)(a): in respect of copyright in any book to an Indian concern; or",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.8,
+      "y_start": 395.0
+    },
+    {
       "id": "207-3-b",
       "citation": "Section 207(3)(b)",
       "unit_type": "clause",
@@ -435,8 +454,8 @@
       "section_id": "207",
       "section_number": "207",
       "title": "Tax on dividends, royalty and fees for technical service in case of foreign companies.",
-      "text": "in respect of any computer software to a person resident in India, then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section.",
-      "retrieval_text": "Section 207 Tax on dividends, royalty and fees for technical service in case of foreign companies. Section 207(3): Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or Section 207(3)(b): in respect of any computer software to a person resident in India, then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section.",
+      "text": "in respect of any computer software to a person resident in India,",
+      "retrieval_text": "Section 207 Tax on dividends, royalty and fees for technical service in case of foreign companies. Section 207(3): Where the royalty referred to in sub-section (2) is in consideration for the transfer or grant of all or any rights (including the granting of a licence)— (a) in respect of copyright in any book to an Indian concern; or then the provisions of sub-section (2) shall apply in relation to such royalty without application of provisions of clause (a) or (b) of that sub-section Section 207(3)(b): in respect of any computer software to a person resident in India,",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -858,6 +877,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "207-3-a",
+      "to_id": "207-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "207-3",
+      "to_id": "207-3-a",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "207-3-b",
       "to_id": "207-3",
       "edge_type": "parent"
@@ -1042,13 +1071,7 @@
       "reference_text": "sub-section (2)"
     },
     {
-      "from_id": "207-3-b",
-      "to_id": "207-2",
-      "edge_type": "references",
-      "reference_text": "sub-section (2)"
-    },
-    {
-      "from_id": "207-3-b",
+      "from_id": "207-3",
       "to_id": "207-3-a",
       "edge_type": "references",
       "reference_text": "clause (a)"

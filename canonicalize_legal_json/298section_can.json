@@ -756,9 +756,12 @@
     },
     {
       "from_id": "298-1-a",
-      "to_id": "298-1-c",
+      "to_id": "294-1-c",
       "edge_type": "references",
-      "reference_text": "clause (c)"
+      "reference_text": "clause (c)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clause (c) of section 294(1)."
     },
     {
       "from_id": "298-1-b",
@@ -768,9 +771,12 @@
     },
     {
       "from_id": "298-1-b",
-      "to_id": "298-1-c",
+      "to_id": "294-1-c",
       "edge_type": "references",
-      "reference_text": "clause (c)"
+      "reference_text": "clause (c)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clause (c) of section 294(1)."
     },
     {
       "from_id": "298-2",

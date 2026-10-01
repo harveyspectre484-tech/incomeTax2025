@@ -203,26 +203,13 @@
               "y_start": 336.25,
               "page_start": 1,
               "page_end": 1,
-              "text": "the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and",
+              "text": "the price charged or paid in an international transaction or specified domestic transaction has not been determined as per sub-sections (1), (2) and (3) or",
               "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "165-3",
-          "x": 55.2,
-          "y_start": 345.8,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "; or",
-          "clauses": [
+            },
             {
               "type": "clause",
               "number": "b",
-              "id": "165-3-b",
+              "id": "165-4-b",
               "x": 40.8,
               "y_start": 356.41,
               "page_start": 1,
@@ -233,7 +220,7 @@
             {
               "type": "clause",
               "number": "c",
-              "id": "165-3-c",
+              "id": "165-4-c",
               "x": 41.27,
               "y_start": 376.57,
               "page_start": 1,
@@ -244,7 +231,7 @@
             {
               "type": "clause",
               "number": "d",
-              "id": "165-3-d",
+              "id": "165-4-d",
               "x": 40.8,
               "y_start": 387.17,
               "page_start": 1,

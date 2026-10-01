@@ -131,26 +131,12 @@
               "y_start": 403.09,
               "page_start": 1,
               "page_end": 1,
-              "text": "a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section",
-              "children": []
-            }
-          ],
-          "text_after_clauses": ""
-        },
-        {
-          "type": "subsection",
-          "number": "3",
-          "id": "315-3",
-          "x": 55.2,
-          "y_start": 412.63,
-          "page_start": 1,
-          "page_end": 1,
-          "text_before_clauses": "that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;",
-          "clauses": [
+              "text": "a claim that such partial partition has taken place shall not be inquired into under sub-section (2) and no finding shall be recorded under sub-section(3)that such partial partition had taken place and any finding recorded under sub-section (3) to that effect at any time, shall be null and void;"
+            },
             {
               "type": "clause",
               "number": "b",
-              "id": "315-3-b",
+              "id": "315-8-b",
               "x": 40.8,
               "y_start": 423.24,
               "page_start": 1,
@@ -161,7 +147,7 @@
             {
               "type": "clause",
               "number": "c",
-              "id": "315-3-c",
+              "id": "315-8-c",
               "x": 41.27,
               "y_start": 433.85,
               "page_start": 1,

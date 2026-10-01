@@ -104,8 +104,8 @@
       "section_id": "150",
       "section_number": "150",
       "title": "^1^8[Deduction in respect of income of federal co-operative.",
-      "text": "For the purposes of this section, \"federal co-operative\" means a \"federal co-operative\" as defined in section 3(k) of the Multi-State Co-operative",
-      "retrieval_text": "Section 150 ^1^8[Deduction in respect of income of federal co-operative. Section 150(3): For the purposes of this section, \"federal co-operative\" means a \"federal co-operative\" as defined in section 3(k) of the Multi-State Co-operative",
+      "text": "For the purposes of this section, \"federal co-operative\" means a \"federal co-operative\" as defined in section 3(k) of the Multi-State Co-operative Societies Act, 2002 (39 of 2002) and notified as such by the Central Government.",
+      "retrieval_text": "Section 150 ^1^8[Deduction in respect of income of federal co-operative. Section 150(3): For the purposes of this section, \"federal co-operative\" means a \"federal co-operative\" as defined in section 3(k) of the Multi-State Co-operative Societies Act, 2002 (39 of 2002) and notified as such by the Central Government.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -116,7 +116,46 @@
       "y_start": 145.83
     }
   ],
-  "external_nodes": [],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-2002-39",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Multi-State Co-operative Societies Act",
+      "title_year": "2002",
+      "act_number": "39",
+      "act_year": "2002",
+      "official_citation": "39 of 2002",
+      "identity_basis": "official_citation",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "Multi-State Co-operative Societies Act, 2002 (39 of 2002)"
+      ]
+    },
+    {
+      "id": "ext-india-act-2002-39-section-3-k",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-2002-39",
+      "jurisdiction": "India",
+      "act_title": "Multi-State Co-operative Societies Act",
+      "title_year": "2002",
+      "act_number": "39",
+      "act_year": "2002",
+      "official_citation": "39 of 2002",
+      "identity_basis": "official_citation",
+      "locator_text": "section 3(k)",
+      "section": "3",
+      "nested_locators": [
+        "k"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 3(k) of the Multi-State Co-operative Societies Act, 2002 (39 of 2002)"
+      ]
+    }
+  ],
   "graph_edges": [
     {
       "from_id": "150-1",
@@ -176,9 +215,21 @@
     },
     {
       "from_id": "150-3",
-      "to_id": "3-k",
-      "edge_type": "references",
-      "reference_text": "section 3(k)"
+      "to_id": "ext-india-act-2002-39-section-3-k",
+      "edge_type": "references_external",
+      "reference_text": "section 3(k) of the Multi-State Co-operative Societies Act, 2002 (39 of 2002)",
+      "target_act_id": "ext-india-act-2002-39",
+      "target_act_title": "Multi-State Co-operative Societies Act",
+      "target_section": "3",
+      "target_nested_locators": [
+        "k"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "39",
+      "target_act_year": "2002",
+      "target_act_title_year": "2002",
+      "target_official_citation": "39 of 2002",
+      "target_identity_basis": "official_citation"
     }
   ]
 }

@@ -834,9 +834,12 @@
     },
     {
       "from_id": "425-6",
-      "to_id": "425-6-e",
+      "to_id": "2-40-e",
       "edge_type": "references",
-      "reference_text": "clause (e)"
+      "reference_text": "clause (e)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clause (e) of section 2(40)."
     }
   ]
 }

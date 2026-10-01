@@ -844,9 +844,12 @@
     },
     {
       "from_id": "210-3",
-      "to_id": "210-3-g",
+      "to_id": "schedule-6-note-1-clause-g-ii",
       "edge_type": "references",
-      "reference_text": "clause (g)"
+      "reference_text": "clause (g)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clause (g)(ii) of Note 1 of the Table in Schedule VI."
     },
     {
       "from_id": "210-3",

@@ -157,11 +157,24 @@
               "page_end": 1,
               "text": "after taking into account all relevant materials which he has gathered,",
               "children": []
-            },
+            }
+          ],
+          "text_after_subsection_clauses": "the Transfer Pricing Officer shall, by order in writing, determine the arm's length price in relation to the international transaction or specified domestic transaction as per section 165(4) and send a copy of his order to the Assessing Officer and to the assessee"
+        },
+        {
+          "type": "subsection",
+          "number": "7",
+          "id": "166-7",
+          "x": 27.62,
+          "y_start": 343.68,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_clauses": "On the date specified in the notice under sub-section (4), or as soon thereafter as may be,—",
+          "clauses": [
             {
               "type": "clause",
               "number": "a",
-              "id": "166-6-a",
+              "id": "166-7-a",
               "x": 41.27,
               "y_start": 459.31,
               "page_start": 1,
@@ -172,7 +185,7 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "166-6-b",
+              "id": "166-7-b",
               "x": 40.8,
               "y_start": 469.92,
               "page_start": 1,
@@ -180,8 +193,7 @@
               "text": "the 31st December of any year, the order under sub-section (6) shall be made on or before the 31st October of that year.]",
               "children": []
             }
-          ],
-          "text_after_clauses": "the Transfer Pricing Officer shall, by order in writing, determine the arm's length price in relation to the international transaction or specified domestic transaction as per section 165(4) and send a copy of his order to the Assessing Officer and to the assessee. which period of limitation referred to in section 286 or 296, for making the order of assessment or reassessment or recomputation or fresh assessment, expires and accordingly, where such period expires on—"
+          ]
         },
         {
           "type": "subsection",

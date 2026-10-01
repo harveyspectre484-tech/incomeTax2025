@@ -548,7 +548,10 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
-        "Income-tax Act, 1961 (43 of 1961)"
+        "Income-tax Act, 1961 (43 of 1961)",
+        "section 115A(5)",
+        "section 115G",
+        "section 194P(1)"
       ]
     },
     {
@@ -591,6 +594,70 @@
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
         "section 142(1) of Income-tax Act, 1961 (43 of 1961)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-115a-5",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "section 115A(5)",
+      "section": "115A",
+      "nested_locators": [
+        "5"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 115A(5)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-115g",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "section 115G",
+      "section": "115G",
+      "nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 115G"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-194p-1",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "section 194P(1)",
+      "section": "194P",
+      "nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 194P(1)"
       ]
     }
   ],
@@ -1001,15 +1068,64 @@
     },
     {
       "from_id": "293-2-d",
-      "to_id": "115A-5",
-      "edge_type": "references",
-      "reference_text": "section 115A(5)"
+      "to_id": "ext-india-act-1961-43-section-115a-5",
+      "edge_type": "references_external",
+      "reference_text": "section 115A(5)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "115A",
+      "target_nested_locators": [
+        "5"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 115A(5) of the Income-tax Act, 1961."
     },
     {
       "from_id": "293-2-d",
-      "to_id": "115G",
-      "edge_type": "references",
-      "reference_text": "section 115G"
+      "to_id": "ext-india-act-1961-43-section-115g",
+      "edge_type": "references_external",
+      "reference_text": "section 115G",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "115G",
+      "target_nested_locators": [],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sections 115G and 194P(1) of the Income-tax Act, 1961."
+    },
+    {
+      "from_id": "293-2-d",
+      "to_id": "ext-india-act-1961-43-section-194p-1",
+      "edge_type": "references_external",
+      "reference_text": "section 194P(1)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "194P",
+      "target_nested_locators": [
+        "1"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sections 115G and 194P(1) of the Income-tax Act, 1961."
     },
     {
       "from_id": "293-3",

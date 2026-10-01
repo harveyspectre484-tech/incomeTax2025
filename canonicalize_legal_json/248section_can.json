@@ -320,9 +320,30 @@
     },
     {
       "from_id": "248-2",
-      "to_id": "248-2-a",
+      "to_id": "248-1-a",
       "edge_type": "references",
-      "reference_text": "clause (a)"
+      "reference_text": "clause (a)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clauses (a), (b), and (c) of sub-section (1)."
+    },
+    {
+      "from_id": "248-2",
+      "to_id": "248-1-b",
+      "edge_type": "references",
+      "reference_text": "clause (b)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clauses (a), (b), and (c) of sub-section (1)."
+    },
+    {
+      "from_id": "248-2",
+      "to_id": "248-1-c",
+      "edge_type": "references",
+      "reference_text": "clause (c)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clauses (a), (b), and (c) of sub-section (1)."
     },
     {
       "from_id": "248-3",

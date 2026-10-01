@@ -624,7 +624,12 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
-        "Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999)"
+        "Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999)",
+        "section 2(a)",
+        "section 2(c)",
+        "section 2(h)",
+        "section 2(j)",
+        "section 2(o)"
       ]
     },
     {
@@ -663,6 +668,116 @@
       "title_year_differs_from_enactment_year": true,
       "source_mentions": [
         "section 2(p) of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1999-44-section-2-a",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1999-44",
+      "jurisdiction": "India",
+      "act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(a)",
+      "section": "2",
+      "nested_locators": [
+        "a"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(a)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1999-44-section-2-c",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1999-44",
+      "jurisdiction": "India",
+      "act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(c)",
+      "section": "2",
+      "nested_locators": [
+        "c"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(c)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1999-44-section-2-h",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1999-44",
+      "jurisdiction": "India",
+      "act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(h)",
+      "section": "2",
+      "nested_locators": [
+        "h"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(h)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1999-44-section-2-j",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1999-44",
+      "jurisdiction": "India",
+      "act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(j)",
+      "section": "2",
+      "nested_locators": [
+        "j"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(j)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1999-44-section-2-o",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1999-44",
+      "jurisdiction": "India",
+      "act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "title_year": "1999",
+      "act_number": "44",
+      "act_year": "1999",
+      "official_citation": "44 of 1999",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(o)",
+      "section": "2",
+      "nested_locators": [
+        "o"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(o)"
       ]
     },
     {
@@ -1179,9 +1294,108 @@
     },
     {
       "from_id": "127-9-e",
-      "to_id": "2-a",
-      "edge_type": "references",
-      "reference_text": "section 2(a)"
+      "to_id": "ext-india-act-1999-44-section-2-a",
+      "edge_type": "references_external",
+      "reference_text": "section 2(a)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "a"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "National Trust Act definitions listed in the source sentence."
+    },
+    {
+      "from_id": "127-9-e",
+      "to_id": "ext-india-act-1999-44-section-2-c",
+      "edge_type": "references_external",
+      "reference_text": "section 2(c)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "c"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "National Trust Act definitions listed in the source sentence."
+    },
+    {
+      "from_id": "127-9-e",
+      "to_id": "ext-india-act-1999-44-section-2-h",
+      "edge_type": "references_external",
+      "reference_text": "section 2(h)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "h"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "National Trust Act definitions listed in the source sentence."
+    },
+    {
+      "from_id": "127-9-e",
+      "to_id": "ext-india-act-1999-44-section-2-j",
+      "edge_type": "references_external",
+      "reference_text": "section 2(j)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "j"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "National Trust Act definitions listed in the source sentence."
+    },
+    {
+      "from_id": "127-9-e",
+      "to_id": "ext-india-act-1999-44-section-2-o",
+      "edge_type": "references_external",
+      "reference_text": "section 2(o)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "o"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "National Trust Act definitions listed in the source sentence."
     },
     {
       "from_id": "127-9-f",
@@ -1217,9 +1431,24 @@
     },
     {
       "from_id": "127-9-f",
-      "to_id": "2-j",
-      "edge_type": "references",
-      "reference_text": "section 2(j)"
+      "to_id": "ext-india-act-1999-44-section-2-j",
+      "edge_type": "references_external",
+      "reference_text": "section 2(j)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "j"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(j) of the National Trust Act, 1999."
     },
     {
       "from_id": "127-9-g-i",
@@ -1255,9 +1484,24 @@
     },
     {
       "from_id": "127-9-g-ii",
-      "to_id": "2-o",
-      "edge_type": "references",
-      "reference_text": "section 2(o)"
+      "to_id": "ext-india-act-1999-44-section-2-o",
+      "edge_type": "references_external",
+      "reference_text": "section 2(o)",
+      "target_act_id": "ext-india-act-1999-44",
+      "target_act_title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "o"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "44",
+      "target_act_year": "1999",
+      "target_act_title_year": "1999",
+      "target_official_citation": "44 of 1999",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(o) of the National Trust Act, 1999."
     },
     {
       "from_id": "127-9-h",

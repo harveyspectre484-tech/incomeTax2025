@@ -916,7 +916,103 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
-        "Patents Act, 1970 (39 of 1970)"
+        "Patents Act, 1970 (39 of 1970)",
+        "section 2(1)(j)",
+        "section 2(1)(m)",
+        "section 2(1)(o)",
+        "section 2(1)(y)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1970-39-section-2-1-j",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1970-39",
+      "jurisdiction": "India",
+      "act_title": "Patents Act",
+      "title_year": "1970",
+      "act_number": "39",
+      "act_year": "1970",
+      "official_citation": "39 of 1970",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(1)(j)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "j"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(j)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1970-39-section-2-1-m",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1970-39",
+      "jurisdiction": "India",
+      "act_title": "Patents Act",
+      "title_year": "1970",
+      "act_number": "39",
+      "act_year": "1970",
+      "official_citation": "39 of 1970",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(1)(m)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "m"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(m)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1970-39-section-2-1-o",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1970-39",
+      "jurisdiction": "India",
+      "act_title": "Patents Act",
+      "title_year": "1970",
+      "act_number": "39",
+      "act_year": "1970",
+      "official_citation": "39 of 1970",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(1)(o)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "o"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(o)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1970-39-section-2-1-y",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1970-39",
+      "jurisdiction": "India",
+      "act_title": "Patents Act",
+      "title_year": "1970",
+      "act_number": "39",
+      "act_year": "1970",
+      "official_citation": "39 of 1970",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(1)(y)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "y"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(y)"
       ]
     }
   ],
@@ -1374,27 +1470,91 @@
     },
     {
       "from_id": "194-2-f",
-      "to_id": "2-1-j",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(j)"
+      "to_id": "ext-india-act-1970-39-section-2-1-j",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(j)",
+      "target_act_id": "ext-india-act-1970-39",
+      "target_act_title": "Patents Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "j"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "39",
+      "target_act_year": "1970",
+      "target_act_title_year": "1970",
+      "target_official_citation": "39 of 1970",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(1)(j) of the Patents Act, 1970."
     },
     {
       "from_id": "194-2-i",
-      "to_id": "2-1-m",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(m)"
+      "to_id": "ext-india-act-1970-39-section-2-1-m",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(m)",
+      "target_act_id": "ext-india-act-1970-39",
+      "target_act_title": "Patents Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "m"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "39",
+      "target_act_year": "1970",
+      "target_act_title_year": "1970",
+      "target_official_citation": "39 of 1970",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(1)(m) of the Patents Act, 1970."
     },
     {
       "from_id": "194-2-j",
-      "to_id": "2-1-o",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(o)"
+      "to_id": "ext-india-act-1970-39-section-2-1-o",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(o)",
+      "target_act_id": "ext-india-act-1970-39",
+      "target_act_title": "Patents Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "o"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "39",
+      "target_act_year": "1970",
+      "target_act_title_year": "1970",
+      "target_official_citation": "39 of 1970",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(1)(o) of the Patents Act, 1970."
     },
     {
       "from_id": "194-2-m",
-      "to_id": "2-1-y",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(y)"
+      "to_id": "ext-india-act-1970-39-section-2-1-y",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(y)",
+      "target_act_id": "ext-india-act-1970-39",
+      "target_act_title": "Patents Act",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "y"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "39",
+      "target_act_year": "1970",
+      "target_act_title_year": "1970",
+      "target_official_citation": "39 of 1970",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(1)(y) of the Patents Act, 1970."
     },
     {
       "from_id": "194-2-n",

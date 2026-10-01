@@ -164,24 +164,25 @@
               "page_end": 1,
               "text": "any concern in which any of the persons referred to in sub-clause (i), (iii), (iv) or (v) has a substantial interest;",
               "children": []
-            },
+            }
+          ]
+        },
+        {
+          "type": "clause",
+          "number": "i",
+          "id": "355-i",
+          "x": 40.8,
+          "y_start": 251.91,
+          "page_start": 1,
+          "page_end": 1,
+          "text_before_sub_clauses": "\"relative\", in relation to an individual, means—",
+          "sub_clauses": [
             {
               "type": "sub_clause",
               "number": "i",
-              "id": "355-h-i",
+              "id": "355-i-i",
               "x": 42.68,
               "y_start": 335.72,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "\"relative\", in relation to an individual, means—",
-              "children": []
-            },
-            {
-              "type": "sub_clause",
-              "number": "i",
-              "id": "355-h-i",
-              "x": 71.75,
-              "y_start": 346.33,
               "page_start": 1,
               "page_end": 1,
               "text": "spouse of the individual;",
@@ -190,7 +191,7 @@
             {
               "type": "sub_clause",
               "number": "ii",
-              "id": "355-h-ii",
+              "id": "355-i-ii",
               "x": 69.33,
               "y_start": 356.94,
               "page_start": 1,
@@ -201,7 +202,7 @@
             {
               "type": "sub_clause",
               "number": "iii",
-              "id": "355-h-iii",
+              "id": "355-i-iii",
               "x": 66.91,
               "y_start": 367.55,
               "page_start": 1,
@@ -212,7 +213,7 @@
             {
               "type": "sub_clause",
               "number": "iv",
-              "id": "355-h-iv",
+              "id": "355-i-iv",
               "x": 67.93,
               "y_start": 378.16,
               "page_start": 1,
@@ -223,7 +224,7 @@
             {
               "type": "sub_clause",
               "number": "v",
-              "id": "355-h-v",
+              "id": "355-i-v",
               "x": 70.35,
               "y_start": 388.77,
               "page_start": 1,
@@ -234,7 +235,7 @@
             {
               "type": "sub_clause",
               "number": "vi",
-              "id": "355-h-vi",
+              "id": "355-i-vi",
               "x": 67.93,
               "y_start": 399.37,
               "page_start": 1,
@@ -245,7 +246,7 @@
             {
               "type": "sub_clause",
               "number": "vii",
-              "id": "355-h-vii",
+              "id": "355-i-vii",
               "x": 65.51,
               "y_start": 409.98,
               "page_start": 1,

@@ -623,9 +623,12 @@
     },
     {
       "from_id": "124-2",
-      "to_id": "124-2-b",
+      "to_id": "124-1-b",
       "edge_type": "references",
-      "reference_text": "clause (b)"
+      "reference_text": "clause (b)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clause (b) of sub-section (1)."
     },
     {
       "from_id": "124-3",

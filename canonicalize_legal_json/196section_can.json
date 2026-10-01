@@ -78,15 +78,15 @@
       "y_start": 134.16
     },
     {
-      "id": "196-1-b-i",
-      "citation": "Section 196(1)(b)(i)",
-      "unit_type": "sub_clause",
-      "parent_id": "196-1-b",
+      "id": "196-1-i",
+      "citation": "Section 196(1)(i)",
+      "unit_type": "item",
+      "parent_id": "196-1",
       "section_id": "196",
       "section_number": "196",
       "title": "Tax on short-term capital gains in certain cases.",
       "text": "income-tax calculated on such short-term capital gains at the rate of 20%;",
-      "retrieval_text": "Section 196 Tax on short-term capital gains in certain cases. Section 196(1): Where the total income of an assessee includes any income chargeable under the head \"Capital gains\", arising from the transfer of a short-term capital asset— the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of— Section 196(1)(b): the transaction of sale of such equity share or unit is chargeable to securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004), then, Section 196(1)(b)(i): income-tax calculated on such short-term capital gains at the rate of 20%;",
+      "retrieval_text": "Section 196 Tax on short-term capital gains in certain cases. Section 196(1): Where the total income of an assessee includes any income chargeable under the head \"Capital gains\", arising from the transfer of a short-term capital asset— the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of— Section 196(1)(i): income-tax calculated on such short-term capital gains at the rate of 20%;",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -97,15 +97,15 @@
       "y_start": 169.7
     },
     {
-      "id": "196-1-b-ii",
-      "citation": "Section 196(1)(b)(ii)",
-      "unit_type": "sub_clause",
-      "parent_id": "196-1-b",
+      "id": "196-1-ii",
+      "citation": "Section 196(1)(ii)",
+      "unit_type": "item",
+      "parent_id": "196-1",
       "section_id": "196",
       "section_number": "196",
       "title": "Tax on short-term capital gains in certain cases.",
       "text": "income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
-      "retrieval_text": "Section 196 Tax on short-term capital gains in certain cases. Section 196(1): Where the total income of an assessee includes any income chargeable under the head \"Capital gains\", arising from the transfer of a short-term capital asset— the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of— Section 196(1)(b): the transaction of sale of such equity share or unit is chargeable to securities transaction tax under Chapter VII of the Finance (No. 2) Act, 2004 (23 of 2004), then, Section 196(1)(b)(ii): income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
+      "retrieval_text": "Section 196 Tax on short-term capital gains in certain cases. Section 196(1): Where the total income of an assessee includes any income chargeable under the head \"Capital gains\", arising from the transfer of a short-term capital asset— the tax payable by the assessee on the total income, subject to the provisions of sub-section (2), shall be the aggregate of— Section 196(1)(ii): income-tax payable on the balance amount of the total income as if such balance amount were the total income of the assessee.",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -280,23 +280,23 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "196-1-b-i",
-      "to_id": "196-1-b",
+      "from_id": "196-1-i",
+      "to_id": "196-1",
       "edge_type": "parent"
     },
     {
-      "from_id": "196-1-b",
-      "to_id": "196-1-b-i",
+      "from_id": "196-1",
+      "to_id": "196-1-i",
       "edge_type": "contains"
     },
     {
-      "from_id": "196-1-b-ii",
-      "to_id": "196-1-b",
+      "from_id": "196-1-ii",
+      "to_id": "196-1",
       "edge_type": "parent"
     },
     {
-      "from_id": "196-1-b",
-      "to_id": "196-1-b-ii",
+      "from_id": "196-1",
+      "to_id": "196-1-ii",
       "edge_type": "contains"
     },
     {

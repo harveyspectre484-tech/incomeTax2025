@@ -379,9 +379,12 @@
     },
     {
       "from_id": "428-a",
-      "to_id": "428-1",
+      "to_id": "263-1",
       "edge_type": "references",
-      "reference_text": "sub-section (1)"
+      "reference_text": "sub-section (1)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-section (1) of section 263."
     },
     {
       "from_id": "428-b",

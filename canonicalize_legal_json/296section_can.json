@@ -21,6 +21,25 @@
       "y_start": 78.67
     },
     {
+      "id": "296-1",
+      "citation": "Section 296(1)",
+      "unit_type": "subsection",
+      "parent_id": "296",
+      "section_id": "296",
+      "section_number": "296",
+      "title": "Time-limit for completion of block assessment.",
+      "text": "Irrespective of the provisions of section 286, the order under section 294 shall be passed within eighteen months from the end of the quarter in which the search was initiated or requisition was made.",
+      "retrieval_text": "Section 296 Time-limit for completion of block assessment. Section 296(1): Irrespective of the provisions of section 286, the order under section 294 shall be passed within eighteen months from the end of the quarter in which the search was initiated or requisition was made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 109.23
+    },
+    {
       "id": "296-2",
       "citation": "Section 296(2)",
       "unit_type": "subsection",
@@ -404,6 +423,16 @@
   "external_nodes": [],
   "graph_edges": [
     {
+      "from_id": "296-1",
+      "to_id": "296",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "296",
+      "to_id": "296-1",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "296-2",
       "to_id": "296",
       "edge_type": "parent"
@@ -611,6 +640,18 @@
     },
     {
       "from_id": "296",
+      "to_id": "294",
+      "edge_type": "references",
+      "reference_text": "section 294"
+    },
+    {
+      "from_id": "296-1",
+      "to_id": "286",
+      "edge_type": "references",
+      "reference_text": "section 286"
+    },
+    {
+      "from_id": "296-1",
       "to_id": "294",
       "edge_type": "references",
       "reference_text": "section 294"

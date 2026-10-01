@@ -21,6 +21,63 @@
       "y_start": null
     },
     {
+      "id": "169-1",
+      "citation": "Section 169(1)",
+      "unit_type": "subsection",
+      "parent_id": "169",
+      "section_id": "169",
+      "section_number": "169",
+      "title": "",
+      "text": "Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—",
+      "retrieval_text": "Section 169 Section 169(1): Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,—",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": 8,
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "169-a",
+      "citation": "Section 169(1)(a)",
+      "unit_type": "clause",
+      "parent_id": "169-1",
+      "section_id": "169",
+      "section_number": "169",
+      "title": "",
+      "text": "furnish a return or a modified return in accordance with and limited to the agreement; and",
+      "retrieval_text": "Section 169 Section 169(1): Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,— Section 169(1)(a): furnish a return or a modified return in accordance with and limited to the agreement; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": 5,
+      "x": null,
+      "y_start": null
+    },
+    {
+      "id": "169-b",
+      "citation": "Section 169(1)(b)",
+      "unit_type": "clause",
+      "parent_id": "169-1",
+      "section_id": "169",
+      "section_number": "169",
+      "title": "",
+      "text": "the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
+      "retrieval_text": "Section 169 Section 169(1): Irrespective of anything to the contrary contained in section 263, where an income is modified as a result of advance pricing agreement entered into with any person then, such person shall, or any other person being an associated enterprise may,— Section 169(1)(b): the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": 6,
+      "x": null,
+      "y_start": null
+    },
+    {
       "id": "169-2",
       "citation": "Section 169(2)",
       "unit_type": "subsection",
@@ -247,48 +304,40 @@
       "line_start": 20,
       "x": null,
       "y_start": null
-    },
-    {
-      "id": "169-a",
-      "citation": "Section 169(a)",
-      "unit_type": "clause",
-      "parent_id": "169",
-      "section_id": "169",
-      "section_number": "169",
-      "title": "",
-      "text": "furnish a return or a modified return in accordance with and limited to the agreement; and",
-      "retrieval_text": "Section 169 Section 169(a): furnish a return or a modified return in accordance with and limited to the agreement; and",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": 5,
-      "x": null,
-      "y_start": null
-    },
-    {
-      "id": "169-b",
-      "citation": "Section 169(b)",
-      "unit_type": "clause",
-      "parent_id": "169",
-      "section_id": "169",
-      "section_number": "169",
-      "title": "",
-      "text": "the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
-      "retrieval_text": "Section 169 Section 169(b): the time period for furnishing such return or modified return shall be three months from the end of the month in which the agreement was entered into, where the tax years relevant for such return or modified return shall be the years covered by such agreement.]",
-      "act": "Income-tax Act, 2025",
-      "chapter": "",
-      "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": 6,
-      "x": null,
-      "y_start": null
     }
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "169-1",
+      "to_id": "169",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "169",
+      "to_id": "169-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "169-a",
+      "to_id": "169-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "169-1",
+      "to_id": "169-a",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "169-b",
+      "to_id": "169-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "169-1",
+      "to_id": "169-b",
+      "edge_type": "contains"
+    },
     {
       "from_id": "169-2",
       "to_id": "169",
@@ -410,27 +459,13 @@
       "edge_type": "contains"
     },
     {
-      "from_id": "169-a",
-      "to_id": "169",
-      "edge_type": "parent"
-    },
-    {
       "from_id": "169",
-      "to_id": "169-a",
-      "edge_type": "contains"
+      "to_id": "263",
+      "edge_type": "references",
+      "reference_text": "section 263"
     },
     {
-      "from_id": "169-b",
-      "to_id": "169",
-      "edge_type": "parent"
-    },
-    {
-      "from_id": "169",
-      "to_id": "169-b",
-      "edge_type": "contains"
-    },
-    {
-      "from_id": "169",
+      "from_id": "169-1",
       "to_id": "263",
       "edge_type": "references",
       "reference_text": "section 263"

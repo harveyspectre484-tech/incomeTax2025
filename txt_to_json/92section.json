@@ -174,30 +174,28 @@
               "y_start": 364.9,
               "page_start": 1,
               "page_end": 1,
-              "text": "any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A), where— A = aggregate of the sum distributed by the business trust with respect to such unit, during the tax year or during any earlier tax year or years, to such unit holder, who holds such unit on the date of distribution of sum or to any other unit holder who held such unit at any time prior to the date of such distribution, which is—",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "92-2-a",
-              "x": 130.02,
-              "y_start": 425.36,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "not in the nature of income referred to in Schedule V (Table: Sl. No. 3 or 4); and",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "92-2-b",
-              "x": 130.02,
-              "y_start": 435.97,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "not chargeable to tax under section 223(2); B = amount at which such unit was issued by the business trust; and C = amount charged to tax under this clause in any earlier tax year;",
-              "children": []
+              "text": "any specified sum received by a unit holder from a business trust during the tax year with respect to a unit held by him at any time during such tax year, the computation of which shall be— ",
+              "formula": "specified sum = A – B – C (which shall be deemed to be zero, if the sum of B and C is greater than A),",
+              "where_block": [
+                {
+                  "type": "where_block",
+                  "number": "A",
+                  "id": "92-2-k-A",
+                  "text": "A = aggregate of the sum distributed by the business trust with respect to such unit, during the tax year or during any earlier tax year or years, to such unit holder, who holds such unit on the date of distribution of sum or to any other unit holder who held such unit at any time prior to the date of such distribution, which is—(a) not in the nature of income referred to in Schedule V (Table: Sl. No. 3 or 4); and (b) not chargeable to tax under section 223(2);"
+                },
+                {
+                  "type": "where_block",
+                  "number": "B",
+                  "id": "92-2-k-B",
+                  "text": "B = amount at which such unit was issued by the business trust; and"
+                },
+                {
+                  "type": "where_block",
+                  "number": "C",
+                  "id": "92-2-k-C",
+                  "text": "C = amount charged to tax under this clause in any earlier tax year;"
+                }
+              ]
             },
             {
               "type": "clause",
@@ -207,13 +205,36 @@
               "y_start": 467.8,
               "page_start": 1,
               "page_end": 1,
-              "text": "where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than—",
-              "children": []
+              "text_before_sub_clauses": "where any sum, including bonus allocated, is received, during a tax year, under a life insurance policy, other than—",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "a",
+                  "id": "92-2-l-a",
+                  "x": 69.87,
+                  "y_start": 478.41,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "sums received under a unit linked insurance policy; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "b",
+                  "id": "92-2-l-b",
+                  "x": 69.87,
+                  "y_start": 489.02,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "income referred to in clause (d), and such sum is not to be excluded from the total income of that tax year under Schedule II (Table: Sl. No. 2), the sum exceeding the aggregate of the premium paid, during the term of such life insurance policy, and not claimed as a deduction under this Act, computed in such manner, as may be prescribed;",
+                  "children": []
+                }
+              ]
             },
             {
               "type": "clause",
               "number": "a",
-              "id": "92-2-a",
+              "id": "92-2-l-a",
               "x": 69.87,
               "y_start": 478.41,
               "page_start": 1,
@@ -224,7 +245,7 @@
             {
               "type": "clause",
               "number": "b",
-              "id": "92-2-b",
+              "id": "92-2-l-b",
               "x": 69.87,
               "y_start": 489.02,
               "page_start": 1,

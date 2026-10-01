@@ -64,12 +64,15 @@
                   "text": "any sum by way of consideration for transfer of a virtual digital asset as referred in section 393(1) [Table: Sl. No. 8(vi)], excluding such consideration which is wholly in kind, as referred to in Note 6 to the said Table,",
                   "children": []
                 }
-              ],
-              "sub_clauses": [
+              ]
+            },
+            {
+              "text_before_operative_clauses": "shall be punishable––",
+              "operative_clauses": [
                 {
-                  "type": "sub_clause",
+                  "type": "operative_clauses",
                   "number": "i",
-                  "id": "476-b-i",
+                  "id": "476-i",
                   "x": 42.68,
                   "y_start": 172.35,
                   "page_start": 1,
@@ -78,9 +81,9 @@
                   "children": []
                 },
                 {
-                  "type": "sub_clause",
+                  "type": "operative_clauses",
                   "number": "ii",
-                  "id": "476-b-ii",
+                  "id": "476-ii",
                   "x": 40.26,
                   "y_start": 182.96,
                   "page_start": 1,
@@ -89,18 +92,17 @@
                   "children": []
                 },
                 {
-                  "type": "sub_clause",
+                  "type": "operative_clauses",
                   "number": "iii",
-                  "id": "476-b-iii",
+                  "id": "476-iii",
                   "x": 37.84,
                   "y_start": 203.12,
                   "page_start": 1,
                   "page_end": 1,
-                  "text": "with fine, in any other case.]",
+                  "text": "with fine, in any other case.",
                   "children": []
                 }
-              ],
-              "text_after_sub_clauses": ""
+              ]
             }
           ]
         },

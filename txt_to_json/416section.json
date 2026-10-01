@@ -99,9 +99,10 @@
                   "children": []
                 }
               ],
-              "sub_clauses": [
+              "text_before_operative_clauses": "to pay to the Assessing Officer or Tax Recovery Officer—",
+              "operative_clauses": [
                 {
-                  "type": "sub_clause",
+                  "type": "operative_clause",
                   "number": "i",
                   "id": "416-5-a-i",
                   "x": 42.68,
@@ -112,7 +113,7 @@
                   "children": []
                 },
                 {
-                  "type": "sub_clause",
+                  "type": "operative_clauses",
                   "number": "ii",
                   "id": "416-5-a-ii",
                   "x": 40.26,
@@ -122,8 +123,7 @@
                   "text": "at or within the time specified in the notice (not being before the money becomes due or is held),",
                   "children": []
                 }
-              ],
-              "text_after_sub_clauses": "to pay to the Assessing Officer or Tax Recovery Officer— so much of the money as is sufficient to pay the amount due by the assessee in respect of arrears or the whole of the money when it is equal to or less than that amount."
+              ]
             },
             {
               "type": "clause",
@@ -213,29 +213,31 @@
               "page_start": 1,
               "page_end": 1,
               "text": "Where a person, to whom a notice under this sub-section is issued, objects to it by a statement on oath that—",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "a",
-              "id": "416-5-a",
-              "x": 40.8,
-              "y_start": 513.95,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "the sum demanded or any part thereof is not due to the assessee; or",
-              "children": []
-            },
-            {
-              "type": "clause",
-              "number": "b",
-              "id": "416-5-b",
-              "x": 40.8,
-              "y_start": 524.55,
-              "page_start": 1,
-              "page_end": 1,
-              "text": "he does not hold any money for or on account of the assessee,",
-              "children": []
+              "sub_clauses": [
+                {
+                  "type": "sub_clauses",
+                  "number": "a",
+                  "id": "416-5-g-a",
+                  "x": 40.8,
+                  "y_start": 513.95,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "the sum demanded or any part thereof is not due to the assessee; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clauses",
+                  "number": "b",
+                  "id": "416-5-g-b",
+                  "x": 40.8,
+                  "y_start": 524.55,
+                  "page_start": 1,
+                  "page_end": 1,
+                  "text": "he does not hold any money for or on account of the assessee,",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": "then nothing contained in that sub-section shall be deemed to require such person to pay any such sum or part thereof."
             },
             {
               "type": "clause",
@@ -246,20 +248,18 @@
               "page_start": 1,
               "page_end": 1,
               "text_before_sub_clauses": "Where it is discovered that the statement given by a person under clause (g) was false in any material particular, such person shall be personally liable to the Assessing Officer or Tax Recovery Officer to the extent of his own liability to the assessee on the date of the notice, or to the extent of the assessee's liability for any sum due under this Act, whichever is less.",
-              "sub_clauses": [
-                {
-                  "type": "sub_clause",
-                  "number": "i",
-                  "id": "416-5-h-i",
-                  "x": 27.62,
-                  "y_start": 592.98,
-                  "page_start": 1,
-                  "page_end": 1,
-                  "text": "The Assessing Officer or Tax Recovery Officer may, at any time or from time to time, amend or revoke any notice issued under this sub-section or extend the time for making any payment in pursuance of a notice issued under the said sub-section.",
-                  "children": []
-                }
-              ],
-              "text_after_sub_clauses": ""
+              "sub_clauses": []
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "416-5-i",
+              "x": 27.62,
+              "y_start": 592.98,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The Assessing Officer or Tax Recovery Officer may, at any time or from time to time, amend or revoke any notice issued under this sub-section or extend the time for making any payment in pursuance of a notice issued under the said sub-section.",
+              "children": []
             },
             {
               "type": "clause",

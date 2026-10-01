@@ -11,9 +11,13 @@ from typing import Any
 
 CHILD_KEYS = (
     "subsections",
+    "subsection",
     "clauses",
+    "clause",
     "sub_clauses",
+    "sub_clause",
     "items",
+    "item",
     "sub_items",
     "conditions",
     "children",
@@ -203,21 +207,49 @@ def validate_pair(
                     )
                 )
             else:
+                human_override = edge.get("resolution_basis") == "human_override"
                 issues.append(
                     issue(
                         section_no,
                         "INFO",
-                        "external_reference_pending",
-                        f"External target is represented by placeholder '{to_id}'.",
+                        "human_external_reference_pending" if human_override else "external_reference_pending",
+                        (
+                            f"Human-reviewed external target is represented by placeholder '{to_id}'."
+                            if human_override
+                            else f"External target is represented by placeholder '{to_id}'."
+                        ),
                         can_path,
                         from_id,
                     )
                 )
             continue
         if to_id in catalog or is_external_reference(to_id):
+            if edge.get("resolution_basis") == "human_override":
+                issues.append(
+                    issue(
+                        section_no,
+                        "INFO",
+                        "human_reference_override",
+                        f"Human-reviewed cross-reference '{edge.get('reference_text', '')}' resolves to '{to_id}'.",
+                        can_path,
+                        from_id,
+                    )
+                )
             continue
         if edge_type == "references":
             reference_text = clean(edge.get("reference_text", ""))
+            if edge.get("resolution_basis") == "human_override":
+                issues.append(
+                    issue(
+                        section_no,
+                        "ERROR",
+                        "bad_human_override_target",
+                        f"Human-reviewed cross-reference '{reference_text}' targets missing unit '{to_id}'.",
+                        can_path,
+                        from_id,
+                    )
+                )
+                continue
             issues.append(
                 issue(
                     section_no,
@@ -270,6 +302,11 @@ def expected_units(raw: dict[str, Any]) -> list[dict[str, str]]:
 
 def iter_source_sections(raw: dict[str, Any]):
     seen: set[str] = set()
+    if str(raw.get("type", "")).lower().replace("-", "_") == "section" and raw.get("number") is not None:
+        identity = str(raw.get("id") or raw.get("number"))
+        seen.add(identity)
+        yield raw
+
     for section in raw.get("sections", []) or []:
         if not isinstance(section, dict):
             continue

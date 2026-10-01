@@ -901,7 +901,10 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
-        "Income-tax Act, 1961 (43 of 1961)"
+        "Income-tax Act, 1961 (43 of 1961)",
+        "clause (i)",
+        "sub-clause (ii)",
+        "sub-clause (iii)"
       ]
     },
     {
@@ -947,6 +950,150 @@
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
         "section 12(1)(ac) of the Income-tax Act, 1961 (43 of 1961)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-10-23c-first-proviso-i",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "clause (i)",
+      "section": "10",
+      "nested_locators": [
+        "23C",
+        "first-proviso",
+        "i"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "clause (i)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-10-23c-first-proviso-ii",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "sub-clause (ii)",
+      "section": "10",
+      "nested_locators": [
+        "23C",
+        "first-proviso",
+        "ii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "sub-clause (ii)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-10-23c-first-proviso-iii",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "sub-clause (iii)",
+      "section": "10",
+      "nested_locators": [
+        "23C",
+        "first-proviso",
+        "iii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "sub-clause (iii)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-12-1-ac-i",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "clause (i)",
+      "section": "12",
+      "nested_locators": [
+        "1",
+        "ac",
+        "i"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "clause (i)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-12-1-ac-ii",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "sub-clause (ii)",
+      "section": "12",
+      "nested_locators": [
+        "1",
+        "ac",
+        "ii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "sub-clause (ii)"
+      ]
+    },
+    {
+      "id": "ext-india-act-1961-43-section-12-1-ac-iii",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-1961-43",
+      "jurisdiction": "India",
+      "act_title": "Income-tax Act",
+      "title_year": "1961",
+      "act_number": "43",
+      "act_year": "1961",
+      "official_citation": "43 of 1961",
+      "identity_basis": "human_override",
+      "locator_text": "sub-clause (iii)",
+      "section": "12",
+      "nested_locators": [
+        "1",
+        "ac",
+        "iii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "sub-clause (iii)"
       ]
     }
   ],
@@ -1444,9 +1591,72 @@
     },
     {
       "from_id": "352-4-table-row-6-case_b_i-a-1",
-      "to_id": "352-4-i",
-      "edge_type": "references",
-      "reference_text": "clause (i)"
+      "to_id": "ext-india-act-1961-43-section-10-23c-first-proviso-i",
+      "edge_type": "references_external",
+      "reference_text": "clause (i)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "10",
+      "target_nested_locators": [
+        "23C",
+        "first-proviso",
+        "i"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961."
+    },
+    {
+      "from_id": "352-4-table-row-6-case_b_i-a-1",
+      "to_id": "ext-india-act-1961-43-section-10-23c-first-proviso-ii",
+      "edge_type": "references_external",
+      "reference_text": "sub-clause (ii)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "10",
+      "target_nested_locators": [
+        "23C",
+        "first-proviso",
+        "ii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961."
+    },
+    {
+      "from_id": "352-4-table-row-6-case_b_i-a-1",
+      "to_id": "ext-india-act-1961-43-section-10-23c-first-proviso-iii",
+      "edge_type": "references_external",
+      "reference_text": "sub-clause (iii)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "10",
+      "target_nested_locators": [
+        "23C",
+        "first-proviso",
+        "iii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of the first proviso to section 10(23C) of the Income-tax Act, 1961."
     },
     {
       "from_id": "352-4-table-row-6-case_b_i-b-2",
@@ -1469,9 +1679,72 @@
     },
     {
       "from_id": "352-4-table-row-6-case_b_i-b-2",
-      "to_id": "352-4-i",
-      "edge_type": "references",
-      "reference_text": "clause (i)"
+      "to_id": "ext-india-act-1961-43-section-12-1-ac-i",
+      "edge_type": "references_external",
+      "reference_text": "clause (i)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "12",
+      "target_nested_locators": [
+        "1",
+        "ac",
+        "i"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of section 12(1)(ac) of the Income-tax Act, 1961."
+    },
+    {
+      "from_id": "352-4-table-row-6-case_b_i-b-2",
+      "to_id": "ext-india-act-1961-43-section-12-1-ac-ii",
+      "edge_type": "references_external",
+      "reference_text": "sub-clause (ii)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "12",
+      "target_nested_locators": [
+        "1",
+        "ac",
+        "ii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of section 12(1)(ac) of the Income-tax Act, 1961."
+    },
+    {
+      "from_id": "352-4-table-row-6-case_b_i-b-2",
+      "to_id": "ext-india-act-1961-43-section-12-1-ac-iii",
+      "edge_type": "references_external",
+      "reference_text": "sub-clause (iii)",
+      "target_act_id": "ext-india-act-1961-43",
+      "target_act_title": "Income-tax Act",
+      "target_section": "12",
+      "target_nested_locators": [
+        "1",
+        "ac",
+        "iii"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "43",
+      "target_act_year": "1961",
+      "target_act_title_year": "1961",
+      "target_official_citation": "43 of 1961",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Sub-clauses (i), (ii), and (iii) of section 12(1)(ac) of the Income-tax Act, 1961."
     },
     {
       "from_id": "352-4-table-row-6-case_b_i-c-3",
@@ -1499,9 +1772,12 @@
     },
     {
       "from_id": "352-8",
-      "to_id": "352-8-b",
+      "to_id": "352-7-b",
       "edge_type": "references",
-      "reference_text": "clause (b)"
+      "reference_text": "clause (b)",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Clause (b) of sub-section (7)."
     }
   ]
 }

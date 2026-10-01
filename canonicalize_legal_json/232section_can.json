@@ -439,6 +439,25 @@
       "y_start": 605.71
     },
     {
+      "id": "232-12",
+      "citation": "Section 232(12)",
+      "unit_type": "subsection",
+      "parent_id": "232",
+      "section_id": "232",
+      "section_number": "232",
+      "title": "Certain conditions for applicability of tonnage tax scheme.",
+      "text": "A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement as per the guidelines issued by the Director-General of Shipping or the Inland Waterways Authority of India, as the case may be, and notified by the Central Government.",
+      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(12): A tonnage tax company, after its option has been approved under section 231(4), shall comply with the minimum training requirement as per the guidelines issued by the Director-General of Shipping or the Inland Waterways Authority of India, as the case may be, and notified by the Central Government.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": 30,
+      "x": null,
+      "y_start": null
+    },
+    {
       "id": "232-13",
       "citation": "Section 232(13)",
       "unit_type": "subsection",
@@ -522,8 +541,8 @@
       "section_id": "232",
       "section_number": "232",
       "title": "Certain conditions for applicability of tonnage tax scheme.",
-      "text": "For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the",
-      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(17): For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the",
+      "text": "For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the Director- General of Shipping or Inland Waterways Authority of India, as the case may be",
+      "retrieval_text": "Section 232 Certain conditions for applicability of tonnage tax scheme. Section 232(17): For the purposes of sub-section (16), the average of net tonnage shall be computed in such manner, as may be prescribed, in consultation with the Director- General of Shipping or Inland Waterways Authority of India, as the case may be",
       "act": "Income-tax Act, 2025",
       "chapter": "",
       "jurisdiction": "India",
@@ -926,6 +945,16 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "232-12",
+      "to_id": "232",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "232",
+      "to_id": "232-12",
+      "edge_type": "contains"
+    },
+    {
       "from_id": "232-13",
       "to_id": "232",
       "edge_type": "parent"
@@ -1174,6 +1203,12 @@
       "to_id": "232-1",
       "edge_type": "references",
       "reference_text": "sub-section (1)"
+    },
+    {
+      "from_id": "232-12",
+      "to_id": "231-4",
+      "edge_type": "references",
+      "reference_text": "section 231(4)"
     },
     {
       "from_id": "232-13",

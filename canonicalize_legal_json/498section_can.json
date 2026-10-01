@@ -97,7 +97,47 @@
       "y_start": 165.46
     }
   ],
-  "external_nodes": [],
+  "external_nodes": [
+    {
+      "id": "ext-india-act-2023-46",
+      "node_type": "external_act_placeholder",
+      "jurisdiction": "India",
+      "act_title": "Bharatiya Nagarik Suraksha Sanhita",
+      "title_year": "2023",
+      "act_number": "46",
+      "act_year": "2023",
+      "official_citation": "46 of 2023",
+      "identity_basis": "human_override",
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(v)"
+      ]
+    },
+    {
+      "id": "ext-india-act-2023-46-section-2-1-v",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-2023-46",
+      "jurisdiction": "India",
+      "act_title": "Bharatiya Nagarik Suraksha Sanhita",
+      "title_year": "2023",
+      "act_number": "46",
+      "act_year": "2023",
+      "official_citation": "46 of 2023",
+      "identity_basis": "human_override",
+      "locator_text": "section 2(1)(v)",
+      "section": "2",
+      "nested_locators": [
+        "1",
+        "v"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 2(1)(v)"
+      ]
+    }
+  ],
   "graph_edges": [
     {
       "from_id": "498-1",
@@ -141,9 +181,25 @@
     },
     {
       "from_id": "498-4",
-      "to_id": "2-1-v",
-      "edge_type": "references",
-      "reference_text": "section 2(1)(v)"
+      "to_id": "ext-india-act-2023-46-section-2-1-v",
+      "edge_type": "references_external",
+      "reference_text": "section 2(1)(v)",
+      "target_act_id": "ext-india-act-2023-46",
+      "target_act_title": "Bharatiya Nagarik Suraksha Sanhita",
+      "target_section": "2",
+      "target_nested_locators": [
+        "1",
+        "v"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "46",
+      "target_act_year": "2023",
+      "target_act_title_year": "2023",
+      "target_official_citation": "46 of 2023",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 2(1)(v) of the Bharatiya Nagarik Suraksha Sanhita, 2023."
     }
   ]
 }

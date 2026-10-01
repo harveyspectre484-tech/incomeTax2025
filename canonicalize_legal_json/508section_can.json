@@ -676,7 +676,30 @@
       "resolution_status": "external_act_not_ingested",
       "title_year_differs_from_enactment_year": false,
       "source_mentions": [
-        "Rehabilitation and Resettlement Act, 2013 (30 of 2013)"
+        "Rehabilitation and Resettlement Act, 2013 (30 of 2013)",
+        "section 3(g)"
+      ]
+    },
+    {
+      "id": "ext-india-act-2013-30-section-3-g",
+      "node_type": "external_provision_placeholder",
+      "parent_id": "ext-india-act-2013-30",
+      "jurisdiction": "India",
+      "act_title": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act",
+      "title_year": "2013",
+      "act_number": "30",
+      "act_year": "2013",
+      "official_citation": "30 of 2013",
+      "identity_basis": "human_override",
+      "locator_text": "section 3(g)",
+      "section": "3",
+      "nested_locators": [
+        "g"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "title_year_differs_from_enactment_year": false,
+      "source_mentions": [
+        "section 3(g)"
       ]
     },
     {
@@ -1148,9 +1171,24 @@
     },
     {
       "from_id": "508-1-g",
-      "to_id": "3-g",
-      "edge_type": "references",
-      "reference_text": "section 3(g)"
+      "to_id": "ext-india-act-2013-30-section-3-g",
+      "edge_type": "references_external",
+      "reference_text": "section 3(g)",
+      "target_act_id": "ext-india-act-2013-30",
+      "target_act_title": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act",
+      "target_section": "3",
+      "target_nested_locators": [
+        "g"
+      ],
+      "resolution_status": "external_act_not_ingested",
+      "target_act_number": "30",
+      "target_act_year": "2013",
+      "target_act_title_year": "2013",
+      "target_official_citation": "30 of 2013",
+      "target_identity_basis": "human_override",
+      "resolution_basis": "human_override",
+      "override_source": "reference_section.rtf",
+      "override_note": "Section 3(g) of the 2013 land acquisition Act."
     },
     {
       "from_id": "508-1-h",

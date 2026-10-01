@@ -653,7 +653,7 @@
                             {
                                 "type": "item",
                                 "number": "i",
-                                "id": "2-22-exclusions-i",
+                                "id": "2-22-i",
                                 "indent": 0,
                                 "line_start": 66,
                                 "page_start": 1,
@@ -664,7 +664,7 @@
                             {
                                 "type": "item",
                                 "number": "ii",
-                                "id": "2-22-exclusions-ii",
+                                "id": "2-22-ii",
                                 "indent": 0,
                                 "line_start": 67,
                                 "page_start": 1,
@@ -675,7 +675,7 @@
                             {
                                 "type": "item",
                                 "number": "iii",
-                                "id": "2-22-exclusions-iii",
+                                "id": "2-22-iii",
                                 "indent": 0,
                                 "line_start": 68,
                                 "page_start": 1,
@@ -685,7 +685,7 @@
                                     {
                                         "type": "sub_item",
                                         "number": "A",
-                                        "id": "2-22-exclusions-iii-A",
+                                        "id": "2-22-iii-A",
                                         "indent": 0,
                                         "line_start": 69,
                                         "page_start": 1,
@@ -696,7 +696,7 @@
                                     {
                                         "type": "sub_item",
                                         "number": "B",
-                                        "id": "2-22-exclusions-iii-B",
+                                        "id": "2-22-iii-B",
                                         "indent": 0,
                                         "line_start": 70,
                                         "page_start": 1,
@@ -705,7 +705,7 @@
                                         "children": [],
                                         "table": {
                                             "type": "table",
-                                            "table_id": "2-22-exclusions-iii-B-table-1",
+                                            "table_id": "2-22-iii-B-table-1",
                                             "title": "TABLE",
                                             "format": "borderless",
                                             "page_start": 1,
@@ -744,7 +744,7 @@
                                         "linearized_text": "Sub-item (B): in any area within the distance as specified in column C of the following Table, measured aerially from the local limits of any municipality or cantonment board referred to in item (A) and having population as referred to in column B of the said Table:— Table rows: 1. More than 10000 and upto 100000. Two kilometres.; 2. More than 100000 and upto 1000000. Six kilometres.; 3. More than 1000000. Eight kilometres",
                                         "source": {
                                             "act": "Income-tax Act",
-                                            "rule": "2-22-exclusions-iii-B",
+                                            "rule": "2-22-iii-B",
                                             "page_start": 1,
                                             "page_end": 1,
                                             "line_start": 75
@@ -756,7 +756,7 @@
                             {
                                 "type": "item",
                                 "number": "iv",
-                                "id": "2-22-exclusions-iv",
+                                "id": "2-22-iv",
                                 "indent": 0,
                                 "line_start": 93,
                                 "page_start": 1,
@@ -769,7 +769,7 @@
                     },
                     "where_block": {
                         "type": "where_block",
-                        "id": "2-22-where",
+                        "id": "2-22",
                         "indent": 0,
                         "line_start": 94,
                         "page_start": 1,
@@ -779,7 +779,7 @@
                             {
                                 "type": "item",
                                 "number": "A",
-                                "id": "2-22-where-A",
+                                "id": "2-22-A",
                                 "indent": 0,
                                 "line_start": 94,
                                 "page_start": 1,
@@ -790,7 +790,7 @@
                             {
                                 "type": "item",
                                 "number": "B",
-                                "id": "2-22-where-B",
+                                "id": "2-22-B",
                                 "indent": 0,
                                 "line_start": 94,
                                 "page_start": 1,
@@ -799,7 +799,7 @@
                                 "children": [],
                                 "exclusion_block": {
                                     "type": "exclusion_block",
-                                    "id": "2-22-where-B-exclusions",
+                                    "id": "2-22-B",
                                     "indent": 0,
                                     "line_start": 94,
                                     "page_start": 1,
@@ -809,7 +809,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "I",
-                                            "id": "2-22-where-B-I",
+                                            "id": "2-22-B-I",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -819,7 +819,7 @@
                                                 {
                                                     "type": "clause",
                                                     "number": "a",
-                                                    "id": "2-22-where-B-I-a",
+                                                    "id": "2-22-B-I-a",
                                                     "indent": 0,
                                                     "line_start": 94,
                                                     "page_start": 1,
@@ -830,7 +830,7 @@
                                                 {
                                                     "type": "clause",
                                                     "number": "b",
-                                                    "id": "2-22-where-B-I-b",
+                                                    "id": "2-22-B-I-b",
                                                     "indent": 0,
                                                     "line_start": 94,
                                                     "page_start": 1,
@@ -844,7 +844,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "II",
-                                            "id": "2-22-where-B-II",
+                                            "id": "2-22-B-II",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -855,7 +855,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "III",
-                                            "id": "2-22-where-B-III",
+                                            "id": "2-22-B-III",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -866,7 +866,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "IV",
-                                            "id": "2-22-where-B-IV",
+                                            "id": "2-22-B-IV",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -877,7 +877,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "V",
-                                            "id": "2-22-where-B-V",
+                                            "id": "2-22-B-V",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -888,7 +888,7 @@
                                         {
                                             "type": "sub_item",
                                             "number": "VI",
-                                            "id": "2-22-where-B-VI",
+                                            "id": "2-22-B-VI",
                                             "indent": 0,
                                             "line_start": 94,
                                             "page_start": 1,
@@ -903,7 +903,7 @@
                             {
                                 "type": "item",
                                 "number": "C",
-                                "id": "2-22-where-C",
+                                "id": "2-22-C",
                                 "indent": 0,
                                 "line_start": 94,
                                 "page_start": 1,
@@ -914,7 +914,7 @@
                             {
                                 "type": "item",
                                 "number": "D",
-                                "id": "2-22-where-D",
+                                "id": "2-22-D",
                                 "indent": 0,
                                 "line_start": 94,
                                 "page_start": 1,
@@ -925,7 +925,7 @@
                             {
                                 "type": "item",
                                 "number": "E",
-                                "id": "2-22-where-E",
+                                "id": "2-22-E",
                                 "indent": 0,
                                 "line_start": 94,
                                 "page_start": 1,

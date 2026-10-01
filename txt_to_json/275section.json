@@ -112,13 +112,34 @@
               "page_start": 1,
               "page_end": 1,
               "text_before_sub_clauses": "no objection is received within the period specified in sub-section (2).",
-              "sub_clauses": [
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "number": "4",
+          "id": "275-4",
+          "x": 27.62,
+          "page_start": 1,
+          "page_end": 1,
+          "clauses": [
+            {
+              "type": "sub_clause",
+              "number": "a",
+              "id": "275-4-a",
+              "x": 42.68,
+              "y_start": 243.96,
+              "page_start": 1,
+              "page_end": 1,
+              "text": "The Assessing Officer shall, irrespective of anything contained in section 286, pass the assessment order under sub-section (3) within one month from the end of the month in which,—",
+              "subclauses": [
                 {
                   "type": "sub_clause",
-                  "number": "i",
-                  "id": "275-3-b-i",
-                  "x": 42.68,
-                  "y_start": 243.96,
+                  "number": "ii",
+                  "id": "275-4-a-i",
+                  "x": 40.26,
+                  "y_start": 254.57,
                   "page_start": 1,
                   "page_end": 1,
                   "text": "the acceptance is received; or",
@@ -127,7 +148,7 @@
                 {
                   "type": "sub_clause",
                   "number": "ii",
-                  "id": "275-3-b-ii",
+                  "id": "275-4-a-ii",
                   "x": 40.26,
                   "y_start": 254.57,
                   "page_start": 1,
@@ -135,22 +156,20 @@
                   "text": "the period of filing of objections under sub-section (2) expires.",
                   "children": []
                 }
-              ],
-              "text_after_sub_clauses": ""
+              ]
             },
             {
               "type": "clause",
               "number": "b",
-              "id": "275-3-b",
+              "id": "275-4-b",
               "x": 27.62,
               "y_start": 266.24,
               "page_start": 1,
               "page_end": 1,
-              "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be",
+              "text": "Irrespective of anything contained in section 286, where a draft of the proposed order of assessment under sub-section (1) is forwarded within the time period allowed under the said section, further time period available to the Assessing Officer to complete the assessment under sub-section (3) shall be governed by the provisions of this sub-section.]",
               "children": []
             }
-          ],
-          "text_after_clauses": "from the end of the month in which,—"
+          ]
         },
         {
           "type": "subsection",
