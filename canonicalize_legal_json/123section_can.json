@@ -1,18 +1,80 @@
 {
   "section_number": "123",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VIII",
+      "citation": "Chapter VIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VIII",
+      "title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "text": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        },
+        {
+          "start": 123,
+          "end": 137
+        },
+        {
+          "start": 138,
+          "end": 152
+        },
+        {
+          "start": 153,
+          "end": 153
+        },
+        {
+          "start": 154,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-B",
+      "citation": "Chapter VIII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "B",
+      "title": "Deductions in respect of certain payments",
+      "text": "Deductions in respect of certain payments",
+      "retrieval_text": "Chapter VIII, Division B Deductions in respect of certain payments",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 123,
+          "end": 137
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "123",
       "citation": "Section 123",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VIII-division-B",
       "section_id": "123",
       "section_number": "123",
       "title": "Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc.",
       "text": "An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
-      "retrieval_text": "Section 123 Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division B Deductions in respect of certain payments Section 123 Deduction for life insurance premia, deferred annuity, contributions to provident fund, etc. An individual or a Hindu undivided family, shall be allowed a deduction of the whole of the amount paid or deposited in the tax year, being the aggregate of the sums enumerated in Schedule XV, as does not exceed Rs. 150000, while computing the total income for that year, subject to the conditions specified in that Schedule.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-B",
+      "division_number": "B",
+      "division_title": "Deductions in respect of certain payments",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -25,9 +87,31 @@
   "graph_edges": [
     {
       "from_id": "123",
-      "to_id": "schedule-15",
-      "edge_type": "references",
-      "reference_text": "Schedule XV"
+      "to_id": "chapter-VIII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII-division-B",
+      "to_id": "123",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "123",
+      "to_id": "schedule-XV",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XV",
+      "schedule_number_roman": "XV",
+      "schedule_number": 15,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
+    },
+    {
+      "from_id": "123",
+      "to_id": "schedule-XV",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule",
+      "reference_kind": "anaphoric_schedule",
+      "antecedent_reference_text": "Schedule XV"
     }
   ]
 }

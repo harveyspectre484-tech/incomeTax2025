@@ -1,18 +1,84 @@
 {
   "section_number": "406",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-C",
+      "citation": "Chapter XIX, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "C",
+      "title": "Advance payment of tax",
+      "text": "Advance payment of tax",
+      "retrieval_text": "Chapter XIX, Division C Advance payment of tax",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 403,
+          "end": 411
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "406",
       "citation": "Section 406",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-C",
       "section_id": "406",
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "",
-      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 406 Payment of advance tax by assessee on his own accord.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
-      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(1): Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 406 Payment of advance tax by assessee on his own accord. Section 406(1): Every person, who is liable to pay advance tax under section 404 (whether or not he has been previously assessed by way of regular assessment) shall, on his own accord, pay advance tax on the specified sum, calculated in the manner laid down in section 405, at the appropriate percentage, on or before the due date of each instalment, as specified in section 408.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
-      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(2): A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 406 Payment of advance tax by assessee on his own accord. Section 406(2): A person who pays any instalment or instalments of advance tax under sub-section (1), may increase or reduce the amount of advance tax payable in the remaining instalment or instalments to accord with specified sum and the advance tax payable thereon, and make payment of the said tax in the remaining instalment or instalments accordingly.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "406",
       "title": "Payment of advance tax by assessee on his own accord.",
       "text": "For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
-      "retrieval_text": "Section 406 Payment of advance tax by assessee on his own accord. Section 406(3): For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 406 Payment of advance tax by assessee on his own accord. Section 406(3): For the purposes of this section, the expression \"specified sum\" means current income as estimated by the assessee.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +170,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "406",
+      "to_id": "chapter-XIX-division-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-C",
+      "to_id": "406",
+      "edge_type": "contains"
+    },
     {
       "from_id": "406-1",
       "to_id": "406",

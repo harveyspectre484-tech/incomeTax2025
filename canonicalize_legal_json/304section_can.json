@@ -1,18 +1,226 @@
 {
   "section_number": "304",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-2",
+      "citation": "Chapter XVII, Division A, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "2",
+      "title": "Representative assessees—General provisions",
+      "text": "Representative assessees—General provisions",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 303,
+          "end": 305
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "304",
       "citation": "Section 304",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-2",
       "section_id": "304",
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "",
-      "retrieval_text": "Section 304 Liability of representative assessee.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,—",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "the representative assessee shall be liable to assessment in his own name in respect of that income and any such assessment shall be deemed to be made upon him in his representative capacity only; and",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,— Section 304(1)(a): the representative assessee shall be liable to assessment in his own name in respect of that income and any such assessment shall be deemed to be made upon him in his representative capacity only; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,— Section 304(1)(a): the representative assessee shall be liable to assessment in his own name in respect of that income and any such assessment shall be deemed to be made upon him in his representative capacity only; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "the tax on such income shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from the representative assessee in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,— Section 304(1)(b): the tax on such income shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from the representative assessee in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(1): Every representative assessee, as regards the income in respect of which he is a representative assessee, shall be subject to the same duties, responsibilities and liabilities as if the income were income received by or accruing to or in favour of him beneficially and for this purpose,— Section 304(1)(b): the tax on such income shall, subject to the other provisions contained in this Chapter, be levied upon and recovered from the representative assessee in like manner and to the same extent as it would be leviable upon and recoverable from the person represented by him.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "If any person, in respect of any income is assessable under this Chapter in the capacity of a representative assessee, then he shall not, in respect of that income, be assessed under any other provisions of this Act.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(2): If any person, in respect of any income is assessable under this Chapter in the capacity of a representative assessee, then he shall not, in respect of that income, be assessed under any other provisions of this Act.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(2): If any person, in respect of any income is assessable under this Chapter in the capacity of a representative assessee, then he shall not, in respect of that income, be assessed under any other provisions of this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "Irrespective of the provisions of this Chapter, the Assessing Officer may directly assess the person on whose behalf or for whose benefit income therein referred to is receivable, or may recover from such person the tax payable in respect of such income.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(3): Irrespective of the provisions of this Chapter, the Assessing Officer may directly assess the person on whose behalf or for whose benefit income therein referred to is receivable, or may recover from such person the tax payable in respect of such income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(3): Irrespective of the provisions of this Chapter, the Assessing Officer may directly assess the person on whose behalf or for whose benefit income therein referred to is receivable, or may recover from such person the tax payable in respect of such income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block:",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block:",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "A= the chargeable part of the income of the trust;",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (A): A= the chargeable part of the income of the trust;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (A): A= the chargeable part of the income of the trust;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "B= the whole income of the trust; and",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (B): B= the whole income of the trust; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (B): B= the whole income of the trust; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -200,9 +480,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "C= the income receivable by the beneficiary from the trust.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (C): C= the income receivable by the beneficiary from the trust.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(4): If only part of the income of a trust is chargeable under this Act, then the proportion of income receivable by a beneficiary from such trust derived from the chargeable part shall be determined as follows:— C x (A/B) Where,— A = the chargeable part of the income of the trust; B = the whole income of the trust; and C = the income receivable by the beneficiary from the trust. Section 304(4), Where block: Section 304(4), Where block, Item (C): C= the income receivable by the beneficiary from the trust.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -219,9 +507,17 @@
       "section_number": "304",
       "title": "Liability of representative assessee.",
       "text": "The Assessing Officer shall have the same remedies in the same manner against all property of any kind vested in or under the control or management of any representative assessee as he would have against the property of any person liable to pay any tax, whether the demand is raised against the representative assessee or against the beneficiary direct.",
-      "retrieval_text": "Section 304 Liability of representative assessee. Section 304(5): The Assessing Officer shall have the same remedies in the same manner against all property of any kind vested in or under the control or management of any representative assessee as he would have against the property of any person liable to pay any tax, whether the demand is raised against the representative assessee or against the beneficiary direct.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 304 Liability of representative assessee. Section 304(5): The Assessing Officer shall have the same remedies in the same manner against all property of any kind vested in or under the control or management of any representative assessee as he would have against the property of any person liable to pay any tax, whether the demand is raised against the representative assessee or against the beneficiary direct.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -232,6 +528,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "304",
+      "to_id": "chapter-XVII-division-A-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-2",
+      "to_id": "304",
+      "edge_type": "contains"
+    },
     {
       "from_id": "304-1",
       "to_id": "304",

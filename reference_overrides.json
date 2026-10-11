@@ -71,6 +71,22 @@
       "targets": [{"kind": "internal", "target_id": "124-1-b"}]
     },
     {
+      "source_unit_id": "36-9",
+      "reference_text": "section 32(1)(h)",
+      "note": "Reviewed citation maps to clause (h) of section 32 in the Income-tax Act, 2025 canonical hierarchy.",
+      "targets": [{"kind": "internal", "target_id": "32-h"}]
+    },
+    {
+      "source_unit_id": "127-9-c",
+      "reference_text": "section 2(a)",
+      "note": "Sections 2(a), 2(c), and 2(h) of the National Trust Act, 1999, listed as a compound locator in the source sentence.",
+      "targets": [
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["a"]},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["c"], "reference_text": "section 2(c)"},
+        {"instrument_key": "national_trust_1999", "section": "2", "nested": ["h"], "reference_text": "section 2(h)"}
+      ]
+    },
+    {
       "source_unit_id": "127-9-e",
       "reference_text": "section 2(a)",
       "note": "National Trust Act definitions listed in the source sentence.",
@@ -101,6 +117,14 @@
       "targets": [
         {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["8"]},
         {"instrument_key": "income_tax_1961", "section": "80-IA", "nested": ["10"], "reference_text": "section 80-IA(10)"}
+      ]
+    },
+    {
+      "source_unit_id": "147-2-a-ii",
+      "reference_text": "section 80LA(1)",
+      "note": "The words 'said Act' refer to the Income-tax Act, 1961 named in parent sub-section 147(2).",
+      "targets": [
+        {"instrument_key": "income_tax_1961", "section": "80LA", "nested": ["1"]}
       ]
     },
     {

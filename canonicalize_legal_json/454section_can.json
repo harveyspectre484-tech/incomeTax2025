@@ -1,18 +1,46 @@
 {
   "section_number": "454",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "454",
       "citation": "Section 454",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXI",
       "section_id": "454",
       "section_number": "454",
       "title": "^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice.",
       "text": "Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
-      "retrieval_text": "Section 454 ^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice. Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
+      "retrieval_text": "Chapter XXI PENALTIES Section 454 ^1^2[Penalty for failure to furnish statement of financial transaction or reportable account after a notice. Where any person, who is required to furnish a statement of financial transaction or reportable account under section 508(1), fails to furnish such statement or reportable account within the period specified in the notice issued under section 508(7), the income-tax authority prescribed under section 508(1) may impose on him, a penalty of Rs. 1000 for every day for which such failure continues, beginning from the day immediately after the period",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +51,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "454",
+      "to_id": "chapter-XXI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXI",
+      "to_id": "454",
+      "edge_type": "contains"
+    },
     {
       "from_id": "454",
       "to_id": "508-1",

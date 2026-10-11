@@ -1,18 +1,186 @@
 {
   "section_number": "333",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-1",
+      "citation": "Chapter XVII, Division B, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "1",
+      "title": "Registration",
+      "text": "Registration",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 1 Registration",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "333",
       "citation": "Section 333",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-1",
       "section_id": "333",
       "section_number": "333",
       "title": "Switching over of regimes.",
       "text": "",
-      "retrieval_text": "Section 333 Switching over of regimes.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 1 Registration Section 333 Switching over of regimes.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Registration",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +197,17 @@
       "section_number": "333",
       "title": "Switching over of regimes.",
       "text": "Nothing contained in section 11, other than Schedule II (Table: Sl. No. 1), Schedule III (Table: Sl. Nos. 27 to 29 and 36) and Schedule VII (Table: Sl. Nos. 10 to 19 and 42 to 45), shall exclude any income of a registered non-profit organisation from its total income for that tax year.",
-      "retrieval_text": "Section 333 Switching over of regimes. Section 333(1): Nothing contained in section 11, other than Schedule II (Table: Sl. No. 1), Schedule III (Table: Sl. Nos. 27 to 29 and 36) and Schedule VII (Table: Sl. Nos. 10 to 19 and 42 to 45), shall exclude any income of a registered non-profit organisation from its total income for that tax year.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 1 Registration Section 333 Switching over of regimes. Section 333(1): Nothing contained in section 11, other than Schedule II (Table: Sl. No. 1), Schedule III (Table: Sl. Nos. 27 to 29 and 36) and Schedule VII (Table: Sl. Nos. 10 to 19 and 42 to 45), shall exclude any income of a registered non-profit organisation from its total income for that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Registration",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +224,17 @@
       "section_number": "333",
       "title": "Switching over of regimes.",
       "text": "The registration under section 332 shall cease to operate from the date on which the registered non-profit organisation is notified as specified in Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42), or from the 1st day of April of the tax year for a registered non-profit organisation which claims exemption under Schedule VII (Table: Sl. No. 43, 44 or 45).",
-      "retrieval_text": "Section 333 Switching over of regimes. Section 333(2): The registration under section 332 shall cease to operate from the date on which the registered non-profit organisation is notified as specified in Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42), or from the 1st day of April of the tax year for a registered non-profit organisation which claims exemption under Schedule VII (Table: Sl. No. 43, 44 or 45).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 1 Registration Section 333 Switching over of regimes. Section 333(2): The registration under section 332 shall cease to operate from the date on which the registered non-profit organisation is notified as specified in Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42), or from the 1st day of April of the tax year for a registered non-profit organisation which claims exemption under Schedule VII (Table: Sl. No. 43, 44 or 45).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Registration",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +251,17 @@
       "section_number": "333",
       "title": "Switching over of regimes.",
       "text": "A person, whose registration ceases to operate under sub-section (2), may apply for registration under section 332 subject to the condition that the notification granting exemption to such person under Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42) ceases to have effect from the date on which the said registration is granted and thereafter shall not be entitled to exemption under the respective serial numbers of the said Schedules.",
-      "retrieval_text": "Section 333 Switching over of regimes. Section 333(3): A person, whose registration ceases to operate under sub-section (2), may apply for registration under section 332 subject to the condition that the notification granting exemption to such person under Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42) ceases to have effect from the date on which the said registration is granted and thereafter shall not be entitled to exemption under the respective serial numbers of the said Schedules.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 1 Registration Section 333 Switching over of regimes. Section 333(3): A person, whose registration ceases to operate under sub-section (2), may apply for registration under section 332 subject to the condition that the notification granting exemption to such person under Schedule III (Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42) ceases to have effect from the date on which the said registration is granted and thereafter shall not be entitled to exemption under the respective serial numbers of the said Schedules.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Registration",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +272,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "333",
+      "to_id": "chapter-XVII-division-B-subdivision-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-1",
+      "to_id": "333",
+      "edge_type": "contains"
+    },
     {
       "from_id": "333-1",
       "to_id": "333",
@@ -118,21 +320,33 @@
     },
     {
       "from_id": "333-1",
-      "to_id": "schedule-2",
-      "edge_type": "references",
-      "reference_text": "Schedule II"
+      "to_id": "schedule-II-t1",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule II (Table: Sl. No. 1)",
+      "schedule_number_roman": "II",
+      "schedule_number": 2,
+      "schedule_locator_type": "table_row",
+      "schedule_locator_value": "1"
     },
     {
       "from_id": "333-1",
-      "to_id": "schedule-3",
-      "edge_type": "references",
-      "reference_text": "Schedule III"
+      "to_id": "schedule-III",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule III",
+      "schedule_number_roman": "III",
+      "schedule_number": 3,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "333-1",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "333-2",
@@ -142,15 +356,33 @@
     },
     {
       "from_id": "333-2",
-      "to_id": "schedule-3",
-      "edge_type": "references",
-      "reference_text": "Schedule III"
+      "to_id": "schedule-III",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule III",
+      "schedule_number_roman": "III",
+      "schedule_number": 3,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "333-2",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
+      "to_id": "schedule-VII-t42",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII (Table: Sl. No. 42)",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "table_row",
+      "schedule_locator_value": "42"
+    },
+    {
+      "from_id": "333-2",
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "333-3",
@@ -166,15 +398,23 @@
     },
     {
       "from_id": "333-3",
-      "to_id": "schedule-3",
-      "edge_type": "references",
-      "reference_text": "Schedule III"
+      "to_id": "schedule-III",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule III",
+      "schedule_number_roman": "III",
+      "schedule_number": 3,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "333-3",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
+      "to_id": "schedule-VII-t42",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII (Table: Sl. No. 42)",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "table_row",
+      "schedule_locator_value": "42"
     }
   ]
 }

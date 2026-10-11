@@ -1,18 +1,46 @@
 {
   "section_number": "530",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "530",
       "citation": "Section 530",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "530",
       "section_number": "530",
       "title": "Act to have effect pending legislative provision for charge of tax.",
       "text": "If on the 1st April in any tax year, provision has not yet been made by a Central Act for the charging of income-tax for that tax year, this Act shall nevertheless have effect until such provision is so made, as if the provision in force in the preceding tax year or the provision proposed in the Bill then before Parliament, whichever is more favourable to the assessee, were actually in force.",
-      "retrieval_text": "Section 530 Act to have effect pending legislative provision for charge of tax. If on the 1st April in any tax year, provision has not yet been made by a Central Act for the charging of income-tax for that tax year, this Act shall nevertheless have effect until such provision is so made, as if the provision in force in the preceding tax year or the provision proposed in the Bill then before Parliament, whichever is more favourable to the assessee, were actually in force.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 530 Act to have effect pending legislative provision for charge of tax. If on the 1st April in any tax year, provision has not yet been made by a Central Act for the charging of income-tax for that tax year, this Act shall nevertheless have effect until such provision is so made, as if the provision in force in the preceding tax year or the provision proposed in the Bill then before Parliament, whichever is more favourable to the assessee, were actually in force.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +50,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "530",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "530",
+      "edge_type": "contains"
+    }
+  ]
 }

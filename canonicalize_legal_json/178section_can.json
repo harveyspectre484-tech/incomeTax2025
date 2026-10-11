@@ -1,18 +1,46 @@
 {
   "section_number": "178",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XI",
+      "citation": "Chapter XI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XI",
+      "title": "GENERAL ANTI-AVOIDANCE RULE",
+      "text": "GENERAL ANTI-AVOIDANCE RULE",
+      "retrieval_text": "Chapter XI GENERAL ANTI-AVOIDANCE RULE",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 178,
+          "end": 184
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "178",
       "citation": "Section 178",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XI",
       "section_id": "178",
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
       "text": "",
-      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule.",
+      "retrieval_text": "Chapter XI GENERAL ANTI-AVOIDANCE RULE Section 178 Applicability of General Anti-Avoidance Rule.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XI",
+      "chapter_id": "chapter-XI",
+      "chapter_title": "GENERAL ANTI-AVOIDANCE RULE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
       "text": "Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
-      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(1): Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
+      "retrieval_text": "Chapter XI GENERAL ANTI-AVOIDANCE RULE Section 178 Applicability of General Anti-Avoidance Rule. Section 178(1): Irrespective of anything contained in this Act, an arrangement entered into by an assessee may be declared to be an impermissible avoidance arrangement and the consequence in relation to tax arising from it may be determined subject to the provisions of this Chapter.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XI",
+      "chapter_id": "chapter-XI",
+      "chapter_title": "GENERAL ANTI-AVOIDANCE RULE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "178",
       "title": "Applicability of General Anti-Avoidance Rule.",
       "text": "The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
-      "retrieval_text": "Section 178 Applicability of General Anti-Avoidance Rule. Section 178(2): The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
+      "retrieval_text": "Chapter XI GENERAL ANTI-AVOIDANCE RULE Section 178 Applicability of General Anti-Avoidance Rule. Section 178(2): The provisions of this Chapter may be applied to any step in, or a part of, the arrangement as they are applicable to the arrangement.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XI",
+      "chapter_id": "chapter-XI",
+      "chapter_title": "GENERAL ANTI-AVOIDANCE RULE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "178",
+      "to_id": "chapter-XI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XI",
+      "to_id": "178",
+      "edge_type": "contains"
+    },
     {
       "from_id": "178-1",
       "to_id": "178",

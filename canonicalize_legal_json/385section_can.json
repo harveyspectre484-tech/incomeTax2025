@@ -1,18 +1,118 @@
 {
   "section_number": "385",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D",
+      "citation": "Chapter XVIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "D",
+      "title": "Alternate Dispute Resolutions",
+      "text": "Alternate Dispute Resolutions",
+      "retrieval_text": "Chapter XVIII, Division D Alternate Dispute Resolutions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D-subdivision-2",
+      "citation": "Chapter XVIII, Division D, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-D",
+      "number": "2",
+      "title": "Advance rulings",
+      "text": "Advance rulings",
+      "retrieval_text": "Chapter XVIII, Division D, Subdivision 2 Advance rulings",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "385",
       "citation": "Section 385",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-D-subdivision-2",
       "section_id": "385",
       "section_number": "385",
       "title": "Appellate authority not to proceed in certain cases.",
       "text": "No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
-      "retrieval_text": "Section 385 Appellate authority not to proceed in certain cases. No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 385 Appellate authority not to proceed in certain cases. No income-tax authority or the Appellate Tribunal shall proceed to decide any issue for which an application has been made by an applicant, being a resident, under section 383(1).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +123,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "385",
+      "to_id": "chapter-XVIII-division-D-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D-subdivision-2",
+      "to_id": "385",
+      "edge_type": "contains"
+    },
     {
       "from_id": "385",
       "to_id": "383-1",

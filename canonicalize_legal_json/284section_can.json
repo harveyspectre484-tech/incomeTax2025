@@ -1,18 +1,68 @@
 {
   "section_number": "284",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVI",
+      "citation": "Chapter XVI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVI",
+      "title": "PROCEDURE FOR ASSESSMENT",
+      "text": "PROCEDURE FOR ASSESSMENT",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        },
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-A",
+      "citation": "Chapter XVI, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "A",
+      "title": "Procedure for assessment",
+      "text": "Procedure for assessment",
+      "retrieval_text": "Chapter XVI, Division A Procedure for assessment",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "284",
       "citation": "Section 284",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVI-division-A",
       "section_id": "284",
       "section_number": "284",
       "title": "Sanction for issue of notice.",
       "text": "The specified authority for the purposes of sections 280 and 281 shall be the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director.",
-      "retrieval_text": "Section 284 Sanction for issue of notice. The specified authority for the purposes of sections 280 and 281 shall be the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division A Procedure for assessment Section 284 Sanction for issue of notice. The specified authority for the purposes of sections 280 and 281 shall be the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-A",
+      "division_number": "A",
+      "division_title": "Procedure for assessment",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +72,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "284",
+      "to_id": "chapter-XVI-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI-division-A",
+      "to_id": "284",
+      "edge_type": "contains"
+    }
+  ]
 }

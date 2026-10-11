@@ -1,18 +1,226 @@
 {
   "section_number": "322",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-12",
+      "citation": "Chapter XVII, Division A, Subdivision 12",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "12",
+      "title": "Discontinuance of business, or dissolution",
+      "text": "Discontinuance of business, or dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 320,
+          "end": 322
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "322",
       "citation": "Section 322",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-12",
       "section_id": "322",
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "",
-      "retrieval_text": "Section 322 Company in liquidation.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "Every person,—",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(1): Every person,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(1): Every person,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "who is the liquidator of any company which is being wound up, whether under the orders of a court or otherwise; or",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(1): Every person,— Section 322(1)(a): who is the liquidator of any company which is being wound up, whether under the orders of a court or otherwise; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(1): Every person,— Section 322(1)(a): who is the liquidator of any company which is being wound up, whether under the orders of a court or otherwise; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "who has been appointed the receiver of any assets of a company, (herein referred to as the liquidator), shall, within thirty days after he has become such liquidator, give notice of his appointment as such to the Assessing Officer who is entitled to assess the income of the company.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(1): Every person,— Section 322(1)(b): who has been appointed the receiver of any assets of a company, (herein referred to as the liquidator), shall, within thirty days after he has become such liquidator, give notice of his appointment as such to the Assessing Officer who is entitled to assess the income of the company.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(1): Every person,— Section 322(1)(b): who has been appointed the receiver of any assets of a company, (herein referred to as the liquidator), shall, within thirty days after he has become such liquidator, give notice of his appointment as such to the Assessing Officer who is entitled to assess the income of the company.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "The Assessing Officer shall, after making such inquiries or calling for such information as he may deem fit, notify to the liquidator within three months from the date on which he receives notice of the appointment of the liquidator the amount which, in the opinion of the Assessing Officer, would be sufficient to provide for any tax which is then, or is likely thereafter to become, payable by the company.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(2): The Assessing Officer shall, after making such inquiries or calling for such information as he may deem fit, notify to the liquidator within three months from the date on which he receives notice of the appointment of the liquidator the amount which, in the opinion of the Assessing Officer, would be sufficient to provide for any tax which is then, or is likely thereafter to become, payable by the company.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(2): The Assessing Officer shall, after making such inquiries or calling for such information as he may deem fit, notify to the liquidator within three months from the date on which he receives notice of the appointment of the liquidator the amount which, in the opinion of the Assessing Officer, would be sufficient to provide for any tax which is then, or is likely thereafter to become, payable by the company.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "The liquidator—",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(3): The liquidator—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(3): The liquidator—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "shall not, without the leave of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, part with any of the assets of the company or the properties in his hands until he has been notified by the Assessing Officer under sub-section (2); and",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(3): The liquidator— Section 322(3)(a): shall not, without the leave of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, part with any of the assets of the company or the properties in his hands until he has been notified by the Assessing Officer under sub-section (2); and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(3): The liquidator— Section 322(3)(a): shall not, without the leave of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, part with any of the assets of the company or the properties in his hands until he has been notified by the Assessing Officer under sub-section (2); and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "on being so notified, shall set aside an amount, equal to the amount notified and, until he so sets aside such amount, shall not part with any of the assets of the company or the properties in his hands.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(3): The liquidator— Section 322(3)(b): on being so notified, shall set aside an amount, equal to the amount notified and, until he so sets aside such amount, shall not part with any of the assets of the company or the properties in his hands.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(3): The liquidator— Section 322(3)(b): on being so notified, shall set aside an amount, equal to the amount notified and, until he so sets aside such amount, shall not part with any of the assets of the company or the properties in his hands.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of—",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "the payment of the tax payable by the company;",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(a): the payment of the tax payable by the company;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(a): the payment of the tax payable by the company;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -200,9 +480,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "making any payment to secured creditors whose debts are entitled under law to priority of payment over debts due to Government on the date of liquidation; or",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(b): making any payment to secured creditors whose debts are entitled under law to priority of payment over debts due to Government on the date of liquidation; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(b): making any payment to secured creditors whose debts are entitled under law to priority of payment over debts due to Government on the date of liquidation; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -219,9 +507,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "meeting such costs and expenses of the winding up of the company, as are in the opinion of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, reasonable.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(c): meeting such costs and expenses of the winding up of the company, as are in the opinion of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, reasonable.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(4): The provisions of sub-section (3) shall not debar the liquidator from parting with such assets or properties for the purpose of— Section 322(4)(c): meeting such costs and expenses of the winding up of the company, as are in the opinion of the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, reasonable.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -238,9 +534,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "If the liquidator fails to give the notice as per sub-section (1), or fails to set aside the amount as required by sub-section (3), or parts with any of the assets of the company or the properties in his hands in contravention of the provisions of that sub-section, he shall be personally liable for the payment of the tax which the company would be liable to pay.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(5): If the liquidator fails to give the notice as per sub-section (1), or fails to set aside the amount as required by sub-section (3), or parts with any of the assets of the company or the properties in his hands in contravention of the provisions of that sub-section, he shall be personally liable for the payment of the tax which the company would be liable to pay.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(5): If the liquidator fails to give the notice as per sub-section (1), or fails to set aside the amount as required by sub-section (3), or parts with any of the assets of the company or the properties in his hands in contravention of the provisions of that sub-section, he shall be personally liable for the payment of the tax which the company would be liable to pay.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -257,9 +561,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "For the purposes of sub-section (5), if the amount of any tax payable by the company is notified under sub-section (2), the personal liability of the liquidator under that sub-section shall be to the extent of such amount.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(6): For the purposes of sub-section (5), if the amount of any tax payable by the company is notified under sub-section (2), the personal liability of the liquidator under that sub-section shall be to the extent of such amount.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(6): For the purposes of sub-section (5), if the amount of any tax payable by the company is notified under sub-section (2), the personal liability of the liquidator under that sub-section shall be to the extent of such amount.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -276,9 +588,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "Where there are more liquidators than one, the obligations and liabilities attached to the liquidator under this section shall attach to all the liquidators jointly and severally.",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(7): Where there are more liquidators than one, the obligations and liabilities attached to the liquidator under this section shall attach to all the liquidators jointly and severally.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(7): Where there are more liquidators than one, the obligations and liabilities attached to the liquidator under this section shall attach to all the liquidators jointly and severally.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -295,9 +615,17 @@
       "section_number": "322",
       "title": "Company in liquidation.",
       "text": "The provisions of this section shall have effect irrespective of anything to the contrary contained in any other law in force, except the provisions of the Insolvency and Bankruptcy Code, 2016 (31 of 2016).",
-      "retrieval_text": "Section 322 Company in liquidation. Section 322(8): The provisions of this section shall have effect irrespective of anything to the contrary contained in any other law in force, except the provisions of the Insolvency and Bankruptcy Code, 2016 (31 of 2016).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 322 Company in liquidation. Section 322(8): The provisions of this section shall have effect irrespective of anything to the contrary contained in any other law in force, except the provisions of the Insolvency and Bankruptcy Code, 2016 (31 of 2016).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -308,6 +636,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "322",
+      "to_id": "chapter-XVII-division-A-subdivision-12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-12",
+      "to_id": "322",
+      "edge_type": "contains"
+    },
     {
       "from_id": "322-1",
       "to_id": "322",

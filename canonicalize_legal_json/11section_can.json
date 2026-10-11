@@ -1,18 +1,68 @@
 {
   "section_number": "11",
+  "hierarchy_path": [
+    {
+      "id": "chapter-III",
+      "citation": "Chapter III",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "III",
+      "title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "text": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        },
+        {
+          "start": 12,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "chapter-III-division-A",
+      "citation": "Chapter III, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-III",
+      "number": "A",
+      "title": "Incomes not to be included in total income",
+      "text": "Incomes not to be included in total income",
+      "retrieval_text": "Chapter III, Division A Incomes not to be included in total income",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "11",
       "citation": "Section 11",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-III-division-A",
       "section_id": "11",
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "",
-      "retrieval_text": "Section 11 Incomes not included in total income.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
-      "retrieval_text": "Section 11 Incomes not included in total income. Section 11(1): In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income. Section 11(1): In computing the total income of any person for a tax year under this Act, any income enumerated in Schedules II, III, IV, V and VI shall not be included, subject to fulfilment of conditions specified therein.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
-      "retrieval_text": "Section 11 Incomes not included in total income. Section 11(2): Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income. Section 11(2): Wherever the conditions referred to in the Schedules referred in sub-section (1) are not satisfied in any tax year in respect of any income enumerated in the said Schedules, such income shall be charged to tax under this Act on the total income for that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +133,17 @@
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
-      "retrieval_text": "Section 11 Incomes not included in total income. Section 11(3): The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income. Section 11(3): The persons enumerated in Schedule VII shall, subject to fulfilment of the conditions specified therein, not be chargeable to tax under this Act on the total income for a tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +160,17 @@
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
-      "retrieval_text": "Section 11 Incomes not included in total income. Section 11(4): Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income. Section 11(4): Wherever the conditions referred to in Schedule VII are not satisfied in respect of the persons enumerated in the said Schedule in any tax year, the income of such person shall be charged to tax under the provisions of this Act for that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +187,17 @@
       "section_number": "11",
       "title": "Incomes not included in total income.",
       "text": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
-      "retrieval_text": "Section 11 Incomes not included in total income. Section 11(5): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division A Incomes not to be included in total income Section 11 Incomes not included in total income. Section 11(5): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedules II, III, IV, V, VI and VII.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-A",
+      "division_number": "A",
+      "division_title": "Incomes not to be included in total income",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -118,6 +208,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "11",
+      "to_id": "chapter-III-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-III-division-A",
+      "to_id": "11",
+      "edge_type": "contains"
+    },
     {
       "from_id": "11-1",
       "to_id": "11",
@@ -169,6 +269,51 @@
       "edge_type": "contains"
     },
     {
+      "from_id": "11-1",
+      "to_id": "schedule-II",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V and VI",
+      "schedule_number_roman": "II",
+      "schedule_number": 2,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-1",
+      "to_id": "schedule-III",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V and VI",
+      "schedule_number_roman": "III",
+      "schedule_number": 3,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-1",
+      "to_id": "schedule-IV",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V and VI",
+      "schedule_number_roman": "IV",
+      "schedule_number": 4,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-1",
+      "to_id": "schedule-V",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V and VI",
+      "schedule_number_roman": "V",
+      "schedule_number": 5,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-1",
+      "to_id": "schedule-VI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V and VI",
+      "schedule_number_roman": "VI",
+      "schedule_number": 6,
+      "schedule_locator_type": "schedule"
+    },
+    {
       "from_id": "11-2",
       "to_id": "11-1",
       "edge_type": "references",
@@ -176,15 +321,85 @@
     },
     {
       "from_id": "11-3",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "11-4",
-      "to_id": "schedule-7",
-      "edge_type": "references",
-      "reference_text": "Schedule VII"
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VII",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
+    },
+    {
+      "from_id": "11-4",
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "said Schedule",
+      "reference_kind": "anaphoric_schedule",
+      "antecedent_reference_text": "Schedule VII"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-II",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "II",
+      "schedule_number": 2,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-III",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "III",
+      "schedule_number": 3,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-IV",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "IV",
+      "schedule_number": 4,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-V",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "V",
+      "schedule_number": 5,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-VI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "VI",
+      "schedule_number": 6,
+      "schedule_locator_type": "schedule"
+    },
+    {
+      "from_id": "11-5",
+      "to_id": "schedule-VII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedules II, III, IV, V, VI and VII",
+      "schedule_number_roman": "VII",
+      "schedule_number": 7,
+      "schedule_locator_type": "schedule"
     }
   ]
 }

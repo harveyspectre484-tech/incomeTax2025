@@ -1,18 +1,68 @@
 {
   "section_number": "299",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVI",
+      "citation": "Chapter XVI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVI",
+      "title": "PROCEDURE FOR ASSESSMENT",
+      "text": "PROCEDURE FOR ASSESSMENT",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        },
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-B",
+      "citation": "Chapter XVI, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "B",
+      "title": "Special procedure for assessment of search cases",
+      "text": "Special procedure for assessment of search cases",
+      "retrieval_text": "Chapter XVI, Division B Special procedure for assessment of search cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "299",
       "citation": "Section 299",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVI-division-B",
       "section_id": "299",
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
       "text": "",
-      "retrieval_text": "Section 299 Authority competent to make assessment of block period.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division B Special procedure for assessment of search cases Section 299 Authority competent to make assessment of block period.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-B",
+      "division_number": "B",
+      "division_title": "Special procedure for assessment of search cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
       "text": "The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
-      "retrieval_text": "Section 299 Authority competent to make assessment of block period. Section 299(1): The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division B Special procedure for assessment of search cases Section 299 Authority competent to make assessment of block period. Section 299(1): The order of assessment for the block period shall be passed by an Assessing Officer not below the rank of a Deputy Commissioner or an Assistant Commissioner or a Deputy Director or an Assistant Director.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-B",
+      "division_number": "B",
+      "division_title": "Special procedure for assessment of search cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "299",
       "title": "Authority competent to make assessment of block period.",
       "text": "The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
-      "retrieval_text": "Section 299 Authority competent to make assessment of block period. Section 299(2): The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division B Special procedure for assessment of search cases Section 299 Authority competent to make assessment of block period. Section 299(2): The order referred to in sub-section (1) shall be passed with the previous approval of the Additional Commissioner or the Additional Director or the Joint Commissioner or the Joint Director, in respect of search initiated or requisition made on or after the commencement of this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-B",
+      "division_number": "B",
+      "division_title": "Special procedure for assessment of search cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +127,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "299",
+      "to_id": "chapter-XVI-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI-division-B",
+      "to_id": "299",
+      "edge_type": "contains"
+    },
     {
       "from_id": "299-1",
       "to_id": "299",

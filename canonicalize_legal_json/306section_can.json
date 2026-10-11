@@ -1,18 +1,226 @@
 {
   "section_number": "306",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-3",
+      "citation": "Chapter XVII, Division A, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "3",
+      "title": "Representative assessees—Special cases",
+      "text": "Representative assessees—Special cases",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 306,
+          "end": 308
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "306",
       "citation": "Section 306",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-3",
       "section_id": "306",
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "",
-      "retrieval_text": "Section 306 Who may be regarded as agent.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "For the purposes of this Act, \"agent\", in relation to a non-resident, includes—",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "any person in India—",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "who is employed by or on behalf of the non-resident; or",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(i): who is employed by or on behalf of the non-resident; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(i): who is employed by or on behalf of the non-resident; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "who has any business connection with the non-resident; or",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(ii): who has any business connection with the non-resident; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(ii): who has any business connection with the non-resident; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(iii): from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(iii): from or through whom the non-resident is in receipt of any income, whether directly or indirectly; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "who is the trustee of the non-resident;",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(iv): who is the trustee of the non-resident;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(a): any person in India— Section 306(1)(a)(iv): who is the trustee of the non-resident;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(b): any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(1): For the purposes of this Act, \"agent\", in relation to a non-resident, includes— Section 306(1)(b): any other person who, whether a resident or non-resident, has acquired by means of a transfer, a capital asset in India.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "the transactions are carried on in the ordinary course of business through the first-mentioned broker; and",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:— Section 306(2)(a): the transactions are carried on in the ordinary course of business through the first-mentioned broker; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:— Section 306(2)(a): the transactions are carried on in the ordinary course of business through the first-mentioned broker; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -200,9 +480,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:— Section 306(2)(b): the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(2): A broker in India who, in respect of any transactions, does not deal directly with or on behalf of a non-resident principal but deals with or through a non- resident broker shall not be deemed to be an agent under this section in respect of such transactions, if the following conditions are fulfilled:— Section 306(2)(b): the non-resident broker is carrying on such transactions in the ordinary course of his business and not as a principal.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -219,9 +507,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(3): A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(3): A person shall not be treated as the agent of a non-resident unless he has had an opportunity of being heard by the Assessing Officer as to his liability to be treated as such.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -238,9 +534,17 @@
       "section_number": "306",
       "title": "Who may be regarded as agent.",
       "text": "For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).",
-      "retrieval_text": "Section 306 Who may be regarded as agent. Section 306(4): For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 306 Who may be regarded as agent. Section 306(4): For the purposes of this section, \"business connection\" shall have the meaning assigned to it in section 9(9)(a).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -251,6 +555,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "306",
+      "to_id": "chapter-XVII-division-A-subdivision-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-3",
+      "to_id": "306",
+      "edge_type": "contains"
+    },
     {
       "from_id": "306-1",
       "to_id": "306",

@@ -1,18 +1,80 @@
 {
   "section_number": "216",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-E",
+      "citation": "Chapter XIII, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "E",
+      "title": "Special provisions relating to non-residents and foreign companies",
+      "text": "Special provisions relating to non-residents and foreign companies",
+      "retrieval_text": "Chapter XIII, Division E Special provisions relating to non-residents and foreign companies",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "216",
       "citation": "Section 216",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIII-division-E",
       "section_id": "216",
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
       "text": "It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
-      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +91,17 @@
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
       "text": "his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
-      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(a): his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(a): his total income during the tax year consisted only of investment income or income by way of long-term capital gains or both; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +118,17 @@
       "section_number": "216",
       "title": "Return of income not to be furnished in certain cases.",
       "text": "the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
-      "retrieval_text": "Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(b): the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 216 Return of income not to be furnished in certain cases. It shall not be necessary for a non-resident Indian to furnish a return of his income under section 263(1), if— Section 216(b): the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +139,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "216",
+      "to_id": "chapter-XIII-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII-division-E",
+      "to_id": "216",
+      "edge_type": "contains"
+    },
     {
       "from_id": "216-a",
       "to_id": "216",

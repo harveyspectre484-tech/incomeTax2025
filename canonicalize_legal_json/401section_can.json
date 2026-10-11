@@ -1,18 +1,84 @@
 {
   "section_number": "401",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-B",
+      "citation": "Chapter XIX, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "B",
+      "title": "Deduction and collection at source",
+      "text": "Deduction and collection at source",
+      "retrieval_text": "Chapter XIX, Division B Deduction and collection at source",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 392,
+          "end": 402
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "401",
       "citation": "Section 401",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-B",
       "section_id": "401",
       "section_number": "401",
       "title": "Bar against direct demand on assessee.",
       "text": "Where tax is deductible at the source under this Chapter, the assessee shall not be called upon to pay the tax himself to the extent to which tax has been deducted from that income.",
-      "retrieval_text": "Section 401 Bar against direct demand on assessee. Where tax is deductible at the source under this Chapter, the assessee shall not be called upon to pay the tax himself to the extent to which tax has been deducted from that income.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division B Deduction and collection at source Section 401 Bar against direct demand on assessee. Where tax is deductible at the source under this Chapter, the assessee shall not be called upon to pay the tax himself to the extent to which tax has been deducted from that income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-B",
+      "division_number": "B",
+      "division_title": "Deduction and collection at source",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +88,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "401",
+      "to_id": "chapter-XIX-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-B",
+      "to_id": "401",
+      "edge_type": "contains"
+    }
+  ]
 }

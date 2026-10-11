@@ -1,18 +1,118 @@
 {
   "section_number": "383",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D",
+      "citation": "Chapter XVIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "D",
+      "title": "Alternate Dispute Resolutions",
+      "text": "Alternate Dispute Resolutions",
+      "retrieval_text": "Chapter XVIII, Division D Alternate Dispute Resolutions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D-subdivision-2",
+      "citation": "Chapter XVIII, Division D, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-D",
+      "number": "2",
+      "title": "Advance rulings",
+      "text": "Advance rulings",
+      "retrieval_text": "Chapter XVIII, Division D, Subdivision 2 Advance rulings",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "383",
       "citation": "Section 383",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-D-subdivision-2",
       "section_id": "383",
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "",
-      "retrieval_text": "Section 383 Application for advance ruling.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 383 Application for advance ruling.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +129,17 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
-      "retrieval_text": "Section 383 Application for advance ruling. Section 383(1): An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 383 Application for advance ruling. Section 383(1): An applicant desirous of obtaining an advance ruling under this Chapter, may make an application in such form and manner, as may be prescribed, stating the question on which the advance ruling is sought.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +156,17 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "The application shall be accompanied by a fee, as may be prescribed.",
-      "retrieval_text": "Section 383 Application for advance ruling. Section 383(2): The application shall be accompanied by a fee, as may be prescribed.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 383 Application for advance ruling. Section 383(2): The application shall be accompanied by a fee, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +183,17 @@
       "section_number": "383",
       "title": "Application for advance ruling.",
       "text": "An applicant may withdraw an application within thirty days from the date of the application.",
-      "retrieval_text": "Section 383 Application for advance ruling. Section 383(3): An applicant may withdraw an application within thirty days from the date of the application.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 383 Application for advance ruling. Section 383(3): An applicant may withdraw an application within thirty days from the date of the application.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +204,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "383",
+      "to_id": "chapter-XVIII-division-D-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D-subdivision-2",
+      "to_id": "383",
+      "edge_type": "contains"
+    },
     {
       "from_id": "383-1",
       "to_id": "383",

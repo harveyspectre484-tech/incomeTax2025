@@ -1,18 +1,46 @@
 {
   "section_number": "456",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "456",
       "citation": "Section 456",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXI",
       "section_id": "456",
       "section_number": "456",
       "title": "Penalty for failure to furnish statement or information or document by an eligible investment fund.",
       "text": "If any eligible investment fund required to furnish a statement or any information or document under paragraph 4 of Schedule I, fails to do so within the time prescribed under the said paragraph, the income-tax authority prescribed under the said paragraph may direct that such fund shall pay, by way of penalty, a sum of Rs. 500000.",
-      "retrieval_text": "Section 456 Penalty for failure to furnish statement or information or document by an eligible investment fund. If any eligible investment fund required to furnish a statement or any information or document under paragraph 4 of Schedule I, fails to do so within the time prescribed under the said paragraph, the income-tax authority prescribed under the said paragraph may direct that such fund shall pay, by way of penalty, a sum of Rs. 500000.",
+      "retrieval_text": "Chapter XXI PENALTIES Section 456 Penalty for failure to furnish statement or information or document by an eligible investment fund. If any eligible investment fund required to furnish a statement or any information or document under paragraph 4 of Schedule I, fails to do so within the time prescribed under the said paragraph, the income-tax authority prescribed under the said paragraph may direct that such fund shall pay, by way of penalty, a sum of Rs. 500000.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -25,9 +53,23 @@
   "graph_edges": [
     {
       "from_id": "456",
-      "to_id": "schedule-1",
-      "edge_type": "references",
-      "reference_text": "Schedule I"
+      "to_id": "chapter-XXI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXI",
+      "to_id": "456",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "456",
+      "to_id": "schedule-I",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule I",
+      "schedule_number_roman": "I",
+      "schedule_number": 1,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     }
   ]
 }

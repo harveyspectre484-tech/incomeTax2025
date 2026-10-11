@@ -1,18 +1,226 @@
 {
   "section_number": "318",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-10",
+      "citation": "Chapter XVII, Division A, Subdivision 10",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "10",
+      "title": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "text": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 10 Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 318,
+          "end": 318
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "318",
       "citation": "Section 318",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-10",
       "section_id": "318",
       "section_number": "318",
       "title": "Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
       "text": "",
-      "retrieval_text": "Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 10 Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-10",
+      "subdivision_number": "10",
+      "subdivision_title": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "318",
       "title": "Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
       "text": "Irrespective of anything contained in section 4, where it appears to the Assessing Officer that any association of persons or a body of individuals or an artificial juridical person, formed or established or incorporated for a particular event or purpose in a tax year is likely to be dissolved in the same year or immediately after such year, the total income of such association or body or juridical person for the period beginning from the first day of that tax year up to the date of its dissolution shall be chargeable to tax in that tax year.",
-      "retrieval_text": "Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose. Section 318(1): Irrespective of anything contained in section 4, where it appears to the Assessing Officer that any association of persons or a body of individuals or an artificial juridical person, formed or established or incorporated for a particular event or purpose in a tax year is likely to be dissolved in the same year or immediately after such year, the total income of such association or body or juridical person for the period beginning from the first day of that tax year up to the date of its dissolution shall be chargeable to tax in that tax year.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 10 Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose. Section 318(1): Irrespective of anything contained in section 4, where it appears to the Assessing Officer that any association of persons or a body of individuals or an artificial juridical person, formed or established or incorporated for a particular event or purpose in a tax year is likely to be dissolved in the same year or immediately after such year, the total income of such association or body or juridical person for the period beginning from the first day of that tax year up to the date of its dissolution shall be chargeable to tax in that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-10",
+      "subdivision_number": "10",
+      "subdivision_title": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "318",
       "title": "Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose.",
       "text": "For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
-      "retrieval_text": "Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose. Section 318(2): For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 10 Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose Section 318 Assessment of association of persons or body of individuals or artificial juridical person formed for a particular event or purpose. Section 318(2): For the purpose of sub-section (1), the provisions of section 317(2) to (6) shall, so far as may be, apply to any proceedings in the case of any such person as they apply in the case of persons leaving India.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-10",
+      "subdivision_number": "10",
+      "subdivision_title": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +285,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "318",
+      "to_id": "chapter-XVII-division-A-subdivision-10",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-10",
+      "to_id": "318",
+      "edge_type": "contains"
+    },
     {
       "from_id": "318-1",
       "to_id": "318",
@@ -91,7 +325,56 @@
       "from_id": "318-2",
       "to_id": "317-2",
       "edge_type": "references",
-      "reference_text": "section 317(2)"
+      "reference_text": "section 317(2) to (6)",
+      "reference_kind": "range",
+      "range_start": "317-2",
+      "range_end": "317-6",
+      "range_member_count": 5,
+      "range_member_index": 1
+    },
+    {
+      "from_id": "318-2",
+      "to_id": "317-3",
+      "edge_type": "references",
+      "reference_text": "section 317(2) to (6)",
+      "reference_kind": "range",
+      "range_start": "317-2",
+      "range_end": "317-6",
+      "range_member_count": 5,
+      "range_member_index": 2
+    },
+    {
+      "from_id": "318-2",
+      "to_id": "317-4",
+      "edge_type": "references",
+      "reference_text": "section 317(2) to (6)",
+      "reference_kind": "range",
+      "range_start": "317-2",
+      "range_end": "317-6",
+      "range_member_count": 5,
+      "range_member_index": 3
+    },
+    {
+      "from_id": "318-2",
+      "to_id": "317-5",
+      "edge_type": "references",
+      "reference_text": "section 317(2) to (6)",
+      "reference_kind": "range",
+      "range_start": "317-2",
+      "range_end": "317-6",
+      "range_member_count": 5,
+      "range_member_index": 4
+    },
+    {
+      "from_id": "318-2",
+      "to_id": "317-6",
+      "edge_type": "references",
+      "reference_text": "section 317(2) to (6)",
+      "reference_kind": "range",
+      "range_start": "317-2",
+      "range_end": "317-6",
+      "range_member_count": 5,
+      "range_member_index": 5
     },
     {
       "from_id": "318-2",

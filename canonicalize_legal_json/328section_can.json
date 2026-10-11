@@ -1,18 +1,226 @@
 {
   "section_number": "328",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-15",
+      "citation": "Chapter XVII, Division A, Subdivision 15",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "15",
+      "title": "Change in constitution, succession and dissolution",
+      "text": "Change in constitution, succession and dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 15 Change in constitution, succession and dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 327,
+          "end": 330
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "328",
       "citation": "Section 328",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-15",
       "section_id": "328",
       "section_number": "328",
       "title": "Succession of one firm by another firm.",
       "text": "Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
-      "retrieval_text": "Section 328 Succession of one firm by another firm. Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 15 Change in constitution, succession and dissolution Section 328 Succession of one firm by another firm. Where a firm carrying on a business or profession is succeeded by another firm, except in a case covered by section 327, separate assessments shall be made on the predecessor firm and the successor firm as per the provisions of section 313.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-15",
+      "subdivision_number": "15",
+      "subdivision_title": "Change in constitution, succession and dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +231,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "328",
+      "to_id": "chapter-XVII-division-A-subdivision-15",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-15",
+      "to_id": "328",
+      "edge_type": "contains"
+    },
     {
       "from_id": "328",
       "to_id": "327",

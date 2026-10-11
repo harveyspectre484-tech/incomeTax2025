@@ -1,18 +1,68 @@
 {
   "section_number": "155",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IX",
+      "citation": "Chapter IX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IX",
+      "title": "REBATES AND RELIEFS",
+      "text": "REBATES AND RELIEFS",
+      "retrieval_text": "Chapter IX REBATES AND RELIEFS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 155,
+          "end": 158
+        },
+        {
+          "start": 159,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "chapter-IX-division-A",
+      "citation": "Chapter IX, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IX",
+      "number": "A",
+      "title": "Rebates and reliefs",
+      "text": "Rebates and reliefs",
+      "retrieval_text": "Chapter IX, Division A Rebates and reliefs",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 155,
+          "end": 158
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "155",
       "citation": "Section 155",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IX-division-A",
       "section_id": "155",
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
       "text": "",
-      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax.",
+      "retrieval_text": "Chapter IX REBATES AND RELIEFS Chapter IX, Division A Rebates and reliefs Section 155 Rebate to be allowed in computing income-tax.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IX",
+      "chapter_id": "chapter-IX",
+      "chapter_title": "REBATES AND RELIEFS",
+      "division_id": "chapter-IX-division-A",
+      "division_number": "A",
+      "division_title": "Rebates and reliefs",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
       "text": "In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
-      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(1): In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
+      "retrieval_text": "Chapter IX REBATES AND RELIEFS Chapter IX, Division A Rebates and reliefs Section 155 Rebate to be allowed in computing income-tax. Section 155(1): In computing income-tax on the total income of an assessee with which he is chargeable for any tax year, there shall be allowed from income-tax (as computed before allowing the deductions under this Part), subject to the provisions of section 156, the deductions specified therein.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IX",
+      "chapter_id": "chapter-IX",
+      "chapter_title": "REBATES AND RELIEFS",
+      "division_id": "chapter-IX-division-A",
+      "division_number": "A",
+      "division_title": "Rebates and reliefs",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "155",
       "title": "Rebate to be allowed in computing income-tax.",
       "text": "The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
-      "retrieval_text": "Section 155 Rebate to be allowed in computing income-tax. Section 155(2): The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
+      "retrieval_text": "Chapter IX REBATES AND RELIEFS Chapter IX, Division A Rebates and reliefs Section 155 Rebate to be allowed in computing income-tax. Section 155(2): The deduction under section 156, shall not, in any case, exceed income-tax (as computed before allowing the deductions under this Part) on the total income of the assessee with which he is chargeable for any tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IX",
+      "chapter_id": "chapter-IX",
+      "chapter_title": "REBATES AND RELIEFS",
+      "division_id": "chapter-IX-division-A",
+      "division_number": "A",
+      "division_title": "Rebates and reliefs",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +127,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "155",
+      "to_id": "chapter-IX-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IX-division-A",
+      "to_id": "155",
+      "edge_type": "contains"
+    },
     {
       "from_id": "155-1",
       "to_id": "155",

@@ -1,18 +1,46 @@
 {
   "section_number": "494",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "494",
       "citation": "Section 494",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXII",
       "section_id": "494",
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
       "text": "",
-      "retrieval_text": "Section 494 Disclosure of particulars by public servants.",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 494 Disclosure of particulars by public servants.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
       "text": "A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
-      "retrieval_text": "Section 494 Disclosure of particulars by public servants. Section 494(1): A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 494 Disclosure of particulars by public servants. Section 494(1): A public servant, who furnishes any information or produces any document in contravention of the provisions of section 258(3), shall be",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "494",
       "title": "Disclosure of particulars by public servants.",
       "text": "No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
-      "retrieval_text": "Section 494 Disclosure of particulars by public servants. Section 494(2): No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 494 Disclosure of particulars by public servants. Section 494(2): No prosecution shall be instituted under this section except with the previous sanction of the Central Government.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "494",
+      "to_id": "chapter-XXII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXII",
+      "to_id": "494",
+      "edge_type": "contains"
+    },
     {
       "from_id": "494-1",
       "to_id": "494",

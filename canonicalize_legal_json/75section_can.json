@@ -1,18 +1,84 @@
 {
   "section_number": "75",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "75",
       "citation": "Section 75",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-E",
       "section_id": "75",
       "section_number": "75",
       "title": "Special provision for cost of acquisition in case of depreciable asset.",
       "text": "If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
-      "retrieval_text": "Section 75 Special provision for cost of acquisition in case of depreciable asset. If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 75 Special provision for cost of acquisition in case of depreciable asset. If depreciation has been obtained under section 33(2) for a capital asset in any tax year, the provisions of sections 72 and 73 shall apply subject to the modification that the written down value, as defined in section 41, of the asset, as adjusted, shall be taken as the cost of acquisition of the asset.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +89,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "75",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "75",
+      "edge_type": "contains"
+    },
     {
       "from_id": "75",
       "to_id": "33-2",

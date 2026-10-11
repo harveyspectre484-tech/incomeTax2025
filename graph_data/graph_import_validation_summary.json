@@ -1,0 +1,17 @@
+{
+  "stage": "4A_pre_import_validation",
+  "schema_version": "1.2.0",
+  "node_count": 9573,
+  "active_edge_count": 23206,
+  "pending_edge_count": 570,
+  "conflicting_node_occurrences": 0,
+  "error_count": 0,
+  "warning_count": 2,
+  "issue_counts": {
+    "plural_sub_clauses_needs_review": 2
+  },
+  "graph_integrity_ready": true,
+  "strict_graph_import_ready": true,
+  "source_table_completeness_checked": true,
+  "external_act_nodes_deferred": true
+}

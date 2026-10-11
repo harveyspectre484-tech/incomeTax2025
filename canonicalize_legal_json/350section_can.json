@@ -1,18 +1,186 @@
 {
   "section_number": "350",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-4",
+      "citation": "Chapter XVII, Division B, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "4",
+      "title": "Compliances",
+      "text": "Compliances",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 4 Compliances",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 347,
+          "end": 350
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "350",
       "citation": "Section 350",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-4",
       "section_id": "350",
       "section_number": "350",
       "title": "Permitted modes of investment.",
       "text": "",
-      "retrieval_text": "Section 350 Permitted modes of investment.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 4 Compliances Section 350 Permitted modes of investment.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Compliances",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +197,17 @@
       "section_number": "350",
       "title": "Permitted modes of investment.",
       "text": "The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
-      "retrieval_text": "Section 350 Permitted modes of investment. Section 350(1): The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 4 Compliances Section 350 Permitted modes of investment. Section 350(1): The modes of investing or depositing the money under this Part, shall be such as specified in Schedule XVI .",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Compliances",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +224,17 @@
       "section_number": "350",
       "title": "Permitted modes of investment.",
       "text": "The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
-      "retrieval_text": "Section 350 Permitted modes of investment. Section 350(2): The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 4 Compliances Section 350 Permitted modes of investment. Section 350(2): The modes of investing or depositing money under this Part, other than the modes specified in Schedule XVI, shall be specified by the Central Government, by notification.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Compliances",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +245,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "350",
+      "to_id": "chapter-XVII-division-B-subdivision-4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-4",
+      "to_id": "350",
+      "edge_type": "contains"
+    },
     {
       "from_id": "350-1",
       "to_id": "350",
@@ -83,15 +277,23 @@
     },
     {
       "from_id": "350-1",
-      "to_id": "schedule-16",
-      "edge_type": "references",
-      "reference_text": "Schedule XVI"
+      "to_id": "schedule-XVI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XVI",
+      "schedule_number_roman": "XVI",
+      "schedule_number": 16,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "350-2",
-      "to_id": "schedule-16",
-      "edge_type": "references",
-      "reference_text": "Schedule XVI"
+      "to_id": "schedule-XVI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XVI",
+      "schedule_number_roman": "XVI",
+      "schedule_number": 16,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     }
   ]
 }

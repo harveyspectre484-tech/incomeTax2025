@@ -23,9 +23,13 @@ DIRECT_TEXT_KEYS = (
     "text_after_sub_items",
     "text_before_conditions",
     "text_after_conditions",
+    "text_before_operative_clauses",
+    "text_after_operative_clauses",
     "text_before_table",
     "text_after_table",
+    "term",
     "intro",
+    "closing_text",
     "formula",
 )
 
@@ -36,10 +40,16 @@ CHILD_LIST_KEYS = (
     "clause",
     "sub_clauses",
     "sub_clause",
+    "sub-clauses",
+    "sub-clause",
+    "subclauses",
+    "sub_sub_clauses",
     "items",
+    "closing_items",
     "item",
     "sub_items",
     "conditions",
+    "operative_clauses",
     "children",
 )
 
@@ -47,12 +57,15 @@ BLOCK_KEYS = (
     "where_block",
     "exclusion_block",
     "explanation_block",
+    "exception",
 )
 
 BLOCK_LABELS = {
     "where_block": "Where block",
     "exclusion_block": "Exclusion block",
     "explanation_block": "Explanation block",
+    "exception": "Exception block",
+    "exception_block": "Exception block",
 }
 
 STRUCTURAL_KEYS = set(DIRECT_TEXT_KEYS + CHILD_LIST_KEYS + BLOCK_KEYS + ("table",))
@@ -72,6 +85,8 @@ class Canonicalizer:
     reference_aliases: dict[str, str] = field(default_factory=dict)
     reference_overrides: dict[tuple[str, str], dict[str, Any]] = field(default_factory=dict)
     reference_scan_text_by_unit_id: dict[str, str] = field(default_factory=dict)
+    hierarchy_by_section: dict[str, dict[str, Any]] = field(default_factory=dict)
+    hierarchy_nodes_by_id: dict[str, dict[str, Any]] = field(default_factory=dict)
 
     def convert(self, raw: dict[str, Any]) -> dict[str, Any]:
         if not self.external_act_registry:
@@ -83,8 +98,18 @@ class Canonicalizer:
             section_numbers.append(str(section.get("number", "")))
             self.add_section(section)
         self.add_reference_edges()
+        hierarchy_path_ids: list[str] = []
+        for section_number in section_numbers:
+            for node_id in self.hierarchy_by_section.get(section_number, {}).get("path_ids", []):
+                if node_id not in hierarchy_path_ids:
+                    hierarchy_path_ids.append(node_id)
         return {
             "section_number": section_numbers[0] if len(section_numbers) == 1 else "",
+            "hierarchy_path": [
+                self.hierarchy_nodes_by_id[node_id]
+                for node_id in hierarchy_path_ids
+                if node_id in self.hierarchy_nodes_by_id
+            ],
             "legal_units": self.units,
             "external_nodes": self.external_nodes,
             "graph_edges": self.edges,
@@ -95,20 +120,23 @@ class Canonicalizer:
         section_id = str(section.get("id") or section_number)
         title = clean(section.get("title", ""))
         act = section.get("act") or self.act_name
-        chapter = section.get("chapter", "")
+        hierarchy = self.hierarchy_by_section.get(section_number, {})
+        chapter = hierarchy.get("chapter_number") or section.get("chapter", "")
+        hierarchy_parent_id = hierarchy.get("parent_id")
 
         section_citation = f"Section {section_number}"
         source_text = render_node_own_text(section)
         inline_split = split_inline_lettered_clauses(source_text) if not has_explicit_children(section) else None
         section_text = inline_split[0] if inline_split else source_text
-        section_context = join_text(section_citation, title, section_text)
+        hierarchy_context = hierarchy.get("context", "")
+        section_context = join_text(hierarchy_context, section_citation, title, section_text)
 
         self.add_unit(
             source=section,
             unit_id=section_id,
             citation=section_citation,
             unit_type="section",
-            parent_id=None,
+            parent_id=hierarchy_parent_id,
             section_id=section_id,
             section_number=section_number,
             title=title,
@@ -144,6 +172,19 @@ class Canonicalizer:
                 chapter=chapter,
             )
 
+        if isinstance(section.get("table"), dict):
+            self.add_table(
+                table=section["table"],
+                parent_id=section_id,
+                parent_citation=section_citation,
+                section_id=section_id,
+                section_number=section_number,
+                title=title,
+                ancestor_context=section_context,
+                act=act,
+                chapter=chapter,
+            )
+
         for subsection_key in ("subsections", "subsection"):
             for subsection in section.get(subsection_key, []) or []:
                 self.add_provision_node(
@@ -154,23 +195,38 @@ class Canonicalizer:
                     section_number=section_number,
                     title=title,
                     citation_parts=[section_number, subsection.get("number")],
-                    ancestor_context=join_text(section_citation, title),
+                    ancestor_context=join_text(hierarchy_context, section_citation, title),
                     act=act,
                     chapter=chapter,
                 )
 
-        for clause_key in ("clauses", "clause"):
-            for clause in section.get(clause_key, []) or []:
-                clause_number = clause.get("number") or clause.get("marker") or clause.get("letter") or clause.get("numeral")
+        for child_key, child_type in (
+            ("clauses", "clause"),
+            ("clause", "clause"),
+            ("sub_clauses", "sub_clause"),
+            ("sub_clause", "sub_clause"),
+            ("sub-clauses", "sub_clause"),
+            ("sub-clause", "sub_clause"),
+            ("subclauses", "sub_clause"),
+            ("sub_sub_clauses", "sub_sub_clause"),
+            ("items", "item"),
+            ("item", "item"),
+            ("sub_items", "sub_item"),
+            ("conditions", "condition"),
+            ("operative_clauses", "operative_clause"),
+            ("children", "item"),
+        ):
+            for child in section.get(child_key, []) or []:
+                child_number = child.get("number") or child.get("marker") or child.get("letter") or child.get("numeral")
                 self.add_provision_node(
-                    node=clause,
-                    unit_type=clause.get("type") or "clause",
+                    node=child,
+                    unit_type=normalized_child_type(child, child_type),
                     parent_id=section_id,
                     section_id=section_id,
                     section_number=section_number,
                     title=title,
-                    citation_parts=[section_number, clause_number],
-                    ancestor_context=join_text(section_citation, title, section.get("text_before_clauses", "")),
+                    citation_parts=[section_number, child_number],
+                    ancestor_context=section_context,
                     act=act,
                     chapter=chapter,
                 )
@@ -256,14 +312,41 @@ class Canonicalizer:
             ("clause", "clause"),
             ("sub_clauses", "sub_clause"),
             ("sub_clause", "sub_clause"),
+            ("sub-clauses", "sub_clause"),
+            ("sub-clause", "sub_clause"),
+            ("subclauses", "sub_clause"),
+            ("sub_sub_clauses", "sub_sub_clause"),
             ("items", "item"),
             ("item", "item"),
             ("sub_items", "sub_item"),
             ("conditions", "condition"),
+            ("operative_clauses", "sub_clause"),
             ("children", "item"),
         ]
         for child_key, child_type in child_specs:
             for child in node.get(child_key, []) or []:
+                if is_transparent_child_wrapper(child):
+                    wrapper_context = join_text(context_text, render_node_own_text(child))
+                    for operative_child in child.get("operative_clauses", []) or []:
+                        operative_number = (
+                            operative_child.get("number")
+                            or operative_child.get("marker")
+                            or operative_child.get("letter")
+                            or operative_child.get("numeral")
+                        )
+                        self.add_provision_node(
+                            node=operative_child,
+                            unit_type=normalized_child_type(operative_child, "operative_clause"),
+                            parent_id=unit_id,
+                            section_id=section_id,
+                            section_number=section_number,
+                            title=title,
+                            citation_parts=citation_parts + [operative_number],
+                            ancestor_context=wrapper_context,
+                            act=act,
+                            chapter=chapter,
+                        )
+                    continue
                 child_node = child
                 if longline and child_key == "clauses" and str(child.get("id", "")) == longline["owner_id"]:
                     child_node = dict(child)
@@ -271,7 +354,7 @@ class Canonicalizer:
                 child_number = child.get("number") or child.get("marker") or child.get("letter") or child.get("numeral")
                 self.add_provision_node(
                     node=child_node,
-                    unit_type=child.get("type") or child_type,
+                    unit_type=normalized_child_type(child, child_type),
                     parent_id=unit_id,
                     section_id=section_id,
                     section_number=section_number,
@@ -313,37 +396,46 @@ class Canonicalizer:
             block = source.get(block_key)
             if not isinstance(block, dict):
                 continue
-            block_type = normalize_type(block.get("type") or block_key)
+            source_block_type = normalize_type(block.get("type") or block_key)
+            block_type = "exception_block" if source_block_type == "exception" else source_block_type
             block_label = BLOCK_LABELS.get(block_type, humanize_key(block_type))
-            block_id = str(block.get("id") or f"{parent_id}-{slug(block_type)}")
+            # Preserve the source-derived ID even when its graph-facing type is normalized.
+            block_id = str(block.get("id") or f"{parent_id}-{slug(source_block_type)}")
             block_citation = f"{parent_citation}, {block_label}"
             block_text = render_node_own_text(block)
             block_context = join_text(ancestor_context, f"{block_citation}: {block_text}")
+            block_parent_id = parent_id if block_id == parent_id else block_id
 
-            self.add_unit(
-                source=block,
-                unit_id=block_id,
-                citation=block_citation,
-                unit_type=block_type,
-                parent_id=parent_id,
-                section_id=section_id,
-                section_number=section_number,
-                title=title,
-                text=block_text,
-                context_text=block_context,
-                act=act,
-                chapter=chapter,
-            )
+            if block_id != parent_id:
+                self.add_unit(
+                    source=block,
+                    unit_id=block_id,
+                    citation=block_citation,
+                    unit_type=block_type,
+                    parent_id=parent_id,
+                    section_id=section_id,
+                    section_number=section_number,
+                    title=title,
+                    text=block_text,
+                    context_text=block_context,
+                    act=act,
+                    chapter=chapter,
+                )
 
             for child_key, child_type in (
                 ("clauses", "clause"),
                 ("clause", "clause"),
                 ("sub_clauses", "sub_clause"),
                 ("sub_clause", "sub_clause"),
+                ("sub-clauses", "sub_clause"),
+                ("sub-clause", "sub_clause"),
+                ("subclauses", "sub_clause"),
+                ("sub_sub_clauses", "sub_sub_clause"),
                 ("items", "item"),
                 ("item", "item"),
                 ("sub_items", "sub_item"),
                 ("conditions", "condition"),
+                ("operative_clauses", "sub_clause"),
                 ("children", "item"),
             ):
                 for child in block.get(child_key, []) or []:
@@ -351,7 +443,7 @@ class Canonicalizer:
                         self.add_block_child(
                             node=child,
                             fallback_type=child_type,
-                            parent_id=block_id,
+                            parent_id=block_parent_id,
                             parent_citation=block_citation,
                             section_id=section_id,
                             section_number=section_number,
@@ -422,10 +514,15 @@ class Canonicalizer:
             ("clause", "clause"),
             ("sub_clauses", "sub_clause"),
             ("sub_clause", "sub_clause"),
+            ("sub-clauses", "sub_clause"),
+            ("sub-clause", "sub_clause"),
+            ("subclauses", "sub_clause"),
+            ("sub_sub_clauses", "sub_sub_clause"),
             ("items", "item"),
             ("item", "item"),
             ("sub_items", "sub_item"),
             ("conditions", "condition"),
+            ("operative_clauses", "sub_clause"),
             ("children", "item"),
         ):
             for child in node.get(child_key, []) or []:
@@ -729,6 +826,7 @@ class Canonicalizer:
         already_unique: bool = False,
     ) -> None:
         final_id = unit_id if already_unique else self.unique_id(unit_id)
+        hierarchy = self.hierarchy_by_section.get(str(section_number), {})
         unit = {
             "id": final_id,
             "citation": citation,
@@ -740,7 +838,15 @@ class Canonicalizer:
             "text": clean(text),
             "retrieval_text": clean(context_text),
             "act": act,
-            "chapter": chapter,
+            "chapter": hierarchy.get("chapter_number") or chapter,
+            "chapter_id": hierarchy.get("chapter_id"),
+            "chapter_title": hierarchy.get("chapter_title", ""),
+            "division_id": hierarchy.get("division_id"),
+            "division_number": hierarchy.get("division_number"),
+            "division_title": hierarchy.get("division_title", ""),
+            "subdivision_id": hierarchy.get("subdivision_id"),
+            "subdivision_number": hierarchy.get("subdivision_number"),
+            "subdivision_title": hierarchy.get("subdivision_title", ""),
             "jurisdiction": self.jurisdiction,
             "page_start": source.get("page_start"),
             "page_end": source.get("page_end"),
@@ -917,6 +1023,22 @@ def render_node_own_text(node: dict[str, Any], exclude_keys: set[str] | None = N
     return join_text(*parts)
 
 
+def normalized_child_type(node: dict[str, Any], fallback_type: str) -> str:
+    raw_type = normalize_type(str(node.get("type") or fallback_type))
+    if raw_type in {"operative_clause", "operative_clauses"}:
+        return "operative_clause"
+    return raw_type
+
+
+def is_transparent_child_wrapper(node: dict[str, Any]) -> bool:
+    if node.get("id") or node.get("number") or node.get("marker") or node.get("letter") or node.get("numeral"):
+        return False
+    if not isinstance(node.get("operative_clauses"), list) or not node.get("operative_clauses"):
+        return False
+    other_child_keys = [key for key in CHILD_LIST_KEYS if key != "operative_clauses"]
+    return not any(isinstance(node.get(key), list) and node.get(key) for key in other_child_keys)
+
+
 def render_reference_scan_text(source: dict[str, Any], fallback_text: str) -> str:
     """Repair an Act title split into a false word-labelled item by source parsing."""
     before = clean(source.get("text_before_clauses", ""))
@@ -963,6 +1085,7 @@ def extract_references(
     seen: set[tuple[str, str, str]] = set()
     consumed_spans: list[tuple[int, int]] = []
     external_act_mentions: list[dict[str, Any]] = []
+    schedule_mentions: list[tuple[int, list[str], str]] = []
 
     def add(target_id: str, reference_text: str, edge_type: str = "references", **metadata: Any) -> None:
         key = (target_id, clean(reference_text).lower(), edge_type)
@@ -1139,6 +1262,42 @@ def extract_references(
         consumed_spans.append(match.span())
 
     for match in re.finditer(
+        r"\bsections?\s+(?P<start_section>\d+[A-Z-]*)"
+        r"(?P<start_nested>(?:\([A-Za-z0-9]+\)){0,4})\s+(?:to|through)\s+"
+        r"(?:(?P<end_section>\d+[A-Z-]*)(?P<end_nested>(?:\([A-Za-z0-9]+\)){0,4})|"
+        r"(?P<short_end_nested>(?:\([A-Za-z0-9]+\)){1,4}))",
+        text,
+        flags=re.IGNORECASE,
+    ):
+        if overlaps_any(match.span(), consumed_spans):
+            continue
+        target_ids = expand_section_reference_range(match)
+        if not target_ids:
+            continue
+        add_reference_range(add, target_ids, match.group(0))
+        consumed_spans.append(match.span())
+
+    for match in re.finditer(
+        r"\b(?P<label>sub-?sections?|sub-?clauses?|clauses?|items?)\s+"
+        r"\((?P<start>[A-Za-z0-9]+)\)\s+(?:to|through)\s+\((?P<end>[A-Za-z0-9]+)\)",
+        text,
+        flags=re.IGNORECASE,
+    ):
+        if overlaps_any(match.span(), consumed_spans):
+            continue
+        markers = expand_reference_markers(match.group("start"), match.group("end"), match.group("label"))
+        if not markers:
+            continue
+        label = match.group("label").lower()
+        if label.startswith("sub-section") or label.startswith("subsection"):
+            section_number = str(source_unit.get("section_number", ""))
+            target_ids = [reference_aliases.get(f"{section_number}-{marker}", f"{section_number}-{marker}") for marker in markers]
+        else:
+            target_ids = [resolve_relative_clause(source_unit, marker, units_by_id) for marker in markers]
+        add_reference_range(add, target_ids, match.group(0))
+        consumed_spans.append(match.span())
+
+    for match in re.finditer(
         r"\bsection\s+(\d+[A-Z-]*)(?:\(([a-z0-9]+)\))?(?:\(([a-z0-9]+)\))?",
         text,
         flags=re.IGNORECASE,
@@ -1170,14 +1329,170 @@ def extract_references(
         if target_id:
             add(target_id, match.group(0))
 
-    for match in re.finditer(r"\bSchedule\s+([IVXLCDM]+|\d+)\b", text, flags=re.IGNORECASE):
+    for match in re.finditer(
+        r"\bSchedules\s+(?P<body>(?:[IVXLCDM]+|\d+)(?:\s*,\s*(?:[IVXLCDM]+|\d+))*"
+        r"(?:\s*(?:and|or)\s*(?:[IVXLCDM]+|\d+))?)",
+        text,
+        flags=re.IGNORECASE,
+    ):
         if overlaps_any(match.span(), consumed_spans):
             continue
-        raw_number = match.group(1)
-        schedule_number = str(roman_to_int(raw_number) or raw_number)
-        add(f"schedule-{schedule_number}", match.group(0))
+        roman_numbers = [
+            normalize_schedule_number(value)
+            for value in re.findall(r"\b(?:[IVXLCDM]+|\d+)\b", match.group("body"), flags=re.IGNORECASE)
+        ]
+        schedule_targets = [(roman, f"schedule-{roman}") for roman in roman_numbers if roman]
+        target_ids = [target_id for _, target_id in schedule_targets]
+        for roman, target_id in schedule_targets:
+            add(
+                target_id,
+                match.group(0),
+                "references_schedule",
+                schedule_number_roman=roman,
+                schedule_number=roman_to_int(roman),
+                schedule_locator_type="schedule",
+            )
+        if target_ids:
+            schedule_mentions.append((match.end(), target_ids, match.group(0)))
+            consumed_spans.append(match.span())
+
+    schedule_pattern = re.compile(
+        r"\bSchedule\s+(?P<number>[IVXLCDM]+|\d+)\b"
+        r"(?:\s*(?:"
+        r"[\[(]\s*Table\s*:\s*Sl\.?\s*No\.?\s*(?P<table_row>\d+)(?:\([A-Za-z0-9]+\))?\s*[\])]"
+        r"|[\[(]\s*Note\s+(?P<note>\d+[A-Za-z]?)(?:\((?P<note_nested>[A-Za-z0-9]+)\))?\s*[\])]"
+        r"))?",
+        flags=re.IGNORECASE,
+    )
+    for match in schedule_pattern.finditer(text):
+        if overlaps_any(match.span(), consumed_spans):
+            continue
+        roman = normalize_schedule_number(match.group("number"))
+        if not roman:
+            continue
+        target_id = f"schedule-{roman}"
+        locator_type = "schedule"
+        locator_value = ""
+        if match.group("table_row"):
+            locator_type = "table_row"
+            locator_value = match.group("table_row")
+            target_id += f"-t{locator_value}"
+        elif match.group("note"):
+            locator_type = "note"
+            locator_value = match.group("note")
+            target_id += f"-note{locator_value}"
+            if match.group("note_nested"):
+                locator_type = "note_child"
+                locator_value += f"({match.group('note_nested')})"
+                target_id += f"-{match.group('note_nested')}"
+        add(
+            target_id,
+            match.group(0),
+            "references_schedule",
+            schedule_number_roman=roman,
+            schedule_number=roman_to_int(roman),
+            schedule_locator_type=locator_type,
+            schedule_locator_value=locator_value or None,
+        )
+        schedule_mentions.append((match.end(), [target_id], match.group(0)))
+        consumed_spans.append(match.span())
+
+    for match in re.finditer(r"\b(?:(?:the|said)\s+)?Schedule\b(?!\s+(?:[IVXLCDM]+|\d+)\b)", text, flags=re.IGNORECASE):
+        if overlaps_any(match.span(), consumed_spans):
+            continue
+        preceding = [mention for mention in schedule_mentions if mention[0] < match.start() and len(mention[1]) == 1]
+        if not preceding:
+            continue
+        _, target_ids, antecedent = max(preceding, key=lambda mention: mention[0])
+        add(
+            target_ids[0],
+            match.group(0),
+            "references_schedule",
+            reference_kind="anaphoric_schedule",
+            antecedent_reference_text=antecedent,
+        )
 
     return references, external_nodes
+
+
+def normalize_schedule_number(value: str) -> str | None:
+    cleaned = clean(value).upper()
+    if cleaned.isdigit():
+        number = int(cleaned)
+        return int_to_roman(number) if 1 <= number <= 3999 else None
+    number = roman_to_int(cleaned)
+    if number is None:
+        return None
+    return int_to_roman(number)
+
+
+def add_reference_range(
+    add: Any,
+    target_ids: list[str],
+    reference_text: str,
+) -> None:
+    unique_targets = list(dict.fromkeys(target_ids))
+    if not unique_targets:
+        return
+    for index, target_id in enumerate(unique_targets, start=1):
+        add(
+            target_id,
+            reference_text,
+            reference_kind="range",
+            range_start=unique_targets[0],
+            range_end=unique_targets[-1],
+            range_member_count=len(unique_targets),
+            range_member_index=index,
+        )
+
+
+def expand_section_reference_range(match: re.Match[str]) -> list[str]:
+    start_section = match.group("start_section")
+    end_section = match.group("end_section") or start_section
+    start_nested = re.findall(r"\(([A-Za-z0-9]+)\)", match.group("start_nested") or "")
+    end_nested_text = match.group("end_nested") or match.group("short_end_nested") or ""
+    end_nested = re.findall(r"\(([A-Za-z0-9]+)\)", end_nested_text)
+
+    if not start_nested and not end_nested:
+        return expand_reference_markers(start_section, end_section, "sections") or []
+
+    if start_section.lower() != end_section.lower() or not start_nested or not end_nested:
+        return []
+    if start_nested[:-1] != end_nested[:-1]:
+        return []
+
+    markers = expand_reference_markers(start_nested[-1], end_nested[-1], "nested")
+    if not markers:
+        return []
+    prefix = [start_section, *start_nested[:-1]]
+    return ["-".join([*prefix, marker]) for marker in markers]
+
+
+def expand_reference_markers(start: str, end: str, label: str) -> list[str] | None:
+    if start.isdigit() and end.isdigit():
+        first, last = int(start), int(end)
+        if first > last or last - first > 1000:
+            return None
+        return [str(value) for value in range(first, last + 1)]
+
+    roman_hint = "sub-clause" in label.lower() or "subclause" in label.lower()
+    roman_start = roman_to_int(start)
+    roman_end = roman_to_int(end)
+    if roman_start and roman_end and (roman_hint or len(start) > 1 or len(end) > 1):
+        if roman_start > roman_end or roman_end - roman_start > 100:
+            return None
+        uppercase = start.isupper() and end.isupper()
+        values = [int_to_roman(value) for value in range(roman_start, roman_end + 1)]
+        return values if uppercase else [value.lower() for value in values]
+
+    if len(start) == 1 and len(end) == 1 and start.isalpha() and end.isalpha():
+        first, last = ord(start.lower()), ord(end.lower())
+        if first > last:
+            return None
+        uppercase = start.isupper() and end.isupper()
+        values = [chr(value) for value in range(first, last + 1)]
+        return [value.upper() for value in values] if uppercase else values
+    return None
 
 
 def apply_reference_overrides(
@@ -1619,6 +1934,32 @@ def roman_to_int(value: str) -> int | None:
     return total
 
 
+def int_to_roman(value: int) -> str:
+    if value < 1 or value > 3999:
+        raise ValueError(f"Roman numeral value out of range: {value}")
+    numerals = (
+        (1000, "M"),
+        (900, "CM"),
+        (500, "D"),
+        (400, "CD"),
+        (100, "C"),
+        (90, "XC"),
+        (50, "L"),
+        (40, "XL"),
+        (10, "X"),
+        (9, "IX"),
+        (5, "V"),
+        (4, "IV"),
+        (1, "I"),
+    )
+    parts: list[str] = []
+    remainder = value
+    for number, numeral in numerals:
+        count, remainder = divmod(remainder, number)
+        parts.append(numeral * count)
+    return "".join(parts)
+
+
 def numeric(value: Any) -> float | None:
     try:
         return float(value)
@@ -1754,12 +2095,139 @@ def slug(value: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]+", "-", value).strip("-")
 
 
+def load_chapter_hierarchy(
+    chapter_path: Path | None,
+    act_name: str,
+    jurisdiction: str,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, dict[str, Any]]]:
+    if chapter_path is None or not chapter_path.exists():
+        return [], [], {}
+
+    nodes: list[dict[str, Any]] = []
+    nodes_by_id: dict[str, dict[str, Any]] = {}
+    edges: list[dict[str, Any]] = []
+    section_map: dict[str, dict[str, Any]] = {}
+    current: dict[int, dict[str, Any]] = {}
+
+    def add_node(level: int, number: str, title: str) -> dict[str, Any]:
+        if level == 1:
+            node_id = f"chapter-{number}"
+            unit_type = "chapter"
+            citation = f"Chapter {number}"
+            parent_id = None
+        elif level == 2:
+            chapter = current[1]
+            node_id = f"{chapter['id']}-division-{number}"
+            unit_type = "chapter_division"
+            citation = f"{chapter['citation']}, Division {number}"
+            parent_id = chapter["id"]
+        else:
+            division = current[2]
+            node_id = f"{division['id']}-subdivision-{number}"
+            unit_type = "chapter_subdivision"
+            citation = f"{division['citation']}, Subdivision {number}"
+            parent_id = division["id"]
+
+        node = {
+            "id": node_id,
+            "citation": citation,
+            "unit_type": unit_type,
+            "parent_id": parent_id,
+            "number": number,
+            "title": title,
+            "text": title,
+            "retrieval_text": join_text(citation, title),
+            "act": act_name,
+            "jurisdiction": jurisdiction,
+            "section_ranges": [],
+        }
+        nodes.append(node)
+        nodes_by_id[node_id] = node
+        current[level] = node
+        for deeper_level in range(level + 1, 4):
+            current.pop(deeper_level, None)
+        if parent_id:
+            edges.append({"from_id": node_id, "to_id": parent_id, "edge_type": "parent"})
+            edges.append({"from_id": parent_id, "to_id": node_id, "edge_type": "contains"})
+        return node
+
+    for raw_line in chapter_path.read_text(encoding="utf-8").splitlines():
+        line = clean(raw_line)
+        if not line:
+            continue
+        chapter_match = re.match(r"^#\s+chapter\s+([IVXLCDM]+)\s*(.*)$", line, flags=re.IGNORECASE)
+        if chapter_match:
+            add_node(1, chapter_match.group(1).upper(), clean_heading_title(chapter_match.group(2)))
+            continue
+        division_match = re.match(r"^##\s+([A-Z])\s*(.*)$", line)
+        if division_match and 1 in current:
+            add_node(2, division_match.group(1), clean_heading_title(division_match.group(2)))
+            continue
+        subdivision_match = re.match(r"^###\s+(\d+)\s*(.*)$", line)
+        if subdivision_match and 2 in current:
+            add_node(3, subdivision_match.group(1), clean_heading_title(subdivision_match.group(2)))
+            continue
+        if line.startswith("#") or 1 not in current:
+            continue
+
+        numbers = re.findall(r"\d+", line)
+        if not numbers:
+            continue
+        start = int(numbers[0])
+        end = int(numbers[1]) if len(numbers) > 1 else start
+        if end < start:
+            start, end = end, start
+        path = [current[level] for level in (1, 2, 3) if level in current]
+        parent = path[-1]
+        section_range = {"start": start, "end": end}
+        for node in path:
+            if section_range not in node["section_ranges"]:
+                node["section_ranges"].append(section_range)
+        for section_number in range(start, end + 1):
+            key = str(section_number)
+            if key in section_map:
+                raise ValueError(f"Section {key} is assigned more than once in {chapter_path}")
+            chapter = current[1]
+            division = current.get(2)
+            subdivision = current.get(3)
+            section_map[key] = {
+                "parent_id": parent["id"],
+                "path_ids": [node["id"] for node in path],
+                "context": join_text(*(join_text(node["citation"], node["title"]) for node in path)),
+                "chapter_id": chapter["id"],
+                "chapter_number": chapter["number"],
+                "chapter_title": chapter["title"],
+                "division_id": division["id"] if division else None,
+                "division_number": division["number"] if division else None,
+                "division_title": division["title"] if division else "",
+                "subdivision_id": subdivision["id"] if subdivision else None,
+                "subdivision_number": subdivision["number"] if subdivision else None,
+                "subdivision_title": subdivision["title"] if subdivision else "",
+            }
+
+    return nodes, edges, section_map
+
+
+def clean_heading_title(value: str) -> str:
+    return clean(re.sub(r"^[.\-—\s]+", "", value))
+
+
+def default_chapter_path(input_path: Path) -> Path | None:
+    project_dir = input_path.parent if input_path.is_dir() else input_path.parent.parent
+    candidate = project_dir / "chapter.md"
+    return candidate if candidate.exists() else None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Convert structured statute JSON into canonical legal units.")
     parser.add_argument("input_json", help="Raw JSON file, or a directory containing *section.json files")
     parser.add_argument("output_json", help="Output JSON file, or output directory for directory input")
     parser.add_argument("--act-name", default="Income-tax Act, 2025")
     parser.add_argument("--jurisdiction", default="India")
+    parser.add_argument(
+        "--chapter-file",
+        help="Markdown chapter hierarchy. Defaults to chapter.md beside the source JSON directory.",
+    )
     parser.add_argument(
         "--reference-overrides",
         help="Reviewed reference override JSON. Defaults to reference_overrides.json beside the input directory.",
@@ -1770,6 +2238,13 @@ def main() -> None:
     output_path = Path(args.output_json)
     override_path = Path(args.reference_overrides) if args.reference_overrides else default_override_path(input_path)
     reference_overrides = load_reference_overrides(override_path)
+    chapter_path = Path(args.chapter_file) if args.chapter_file else default_chapter_path(input_path)
+    hierarchy_nodes, hierarchy_edges, hierarchy_by_section = load_chapter_hierarchy(
+        chapter_path,
+        args.act_name,
+        args.jurisdiction,
+    )
+    hierarchy_nodes_by_id = {node["id"]: node for node in hierarchy_nodes}
 
     if input_path.is_dir():
         output_path.mkdir(parents=True, exist_ok=True)
@@ -1784,13 +2259,26 @@ def main() -> None:
                 external_act_registry=external_act_registry,
                 reference_aliases=reference_aliases,
                 reference_overrides=reference_overrides,
+                hierarchy_by_section=hierarchy_by_section,
+                hierarchy_nodes_by_id=hierarchy_nodes_by_id,
             ).convert(raw)
             # Preserve one output per source file. A mismatched section number
             # must be exposed by validation, not overwrite another section.
             section_number = section_number_from_path(raw_path)
             destination = output_path / f"{section_number}section_can.json"
             destination.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
+        hierarchy_output = {
+            "source": str(chapter_path) if chapter_path else None,
+            "hierarchy_nodes": hierarchy_nodes,
+            "graph_edges": hierarchy_edges,
+        }
+        (output_path / "chapter_hierarchy.json").write_text(
+            json.dumps(hierarchy_output, indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
         print(f"Wrote canonical JSON for {len(input_files)} section files to {output_path}")
+        if hierarchy_nodes:
+            print(f"Wrote {len(hierarchy_nodes)} chapter hierarchy nodes to {output_path / 'chapter_hierarchy.json'}")
         return
 
     raw = json.loads(input_path.read_text(encoding="utf-8"))
@@ -1798,6 +2286,8 @@ def main() -> None:
         act_name=args.act_name,
         jurisdiction=args.jurisdiction,
         reference_overrides=reference_overrides,
+        hierarchy_by_section=hierarchy_by_section,
+        hierarchy_nodes_by_id=hierarchy_nodes_by_id,
     ).convert(raw)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")

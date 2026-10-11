@@ -1,18 +1,84 @@
 {
   "section_number": "410",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-C",
+      "citation": "Chapter XIX, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "C",
+      "title": "Advance payment of tax",
+      "text": "Advance payment of tax",
+      "retrieval_text": "Chapter XIX, Division C Advance payment of tax",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 403,
+          "end": 411
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "410",
       "citation": "Section 410",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-C",
       "section_id": "410",
       "section_number": "410",
       "title": "Credit for advance tax.",
       "text": "Any sum, other than a penalty or interest, paid by or recovered from an assessee as advance tax in pursuance of this Part shall be treated as a payment of tax in respect of the income of the tax year in which it was payable, and credit therefor shall be given to such assessee in the regular assessment.",
-      "retrieval_text": "Section 410 Credit for advance tax. Any sum, other than a penalty or interest, paid by or recovered from an assessee as advance tax in pursuance of this Part shall be treated as a payment of tax in respect of the income of the tax year in which it was payable, and credit therefor shall be given to such assessee in the regular assessment.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 410 Credit for advance tax. Any sum, other than a penalty or interest, paid by or recovered from an assessee as advance tax in pursuance of this Part shall be treated as a payment of tax in respect of the income of the tax year in which it was payable, and credit therefor shall be given to such assessee in the regular assessment.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +88,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "410",
+      "to_id": "chapter-XIX-division-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-C",
+      "to_id": "410",
+      "edge_type": "contains"
+    }
+  ]
 }

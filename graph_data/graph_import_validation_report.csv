@@ -1,0 +1,3 @@
+severity,code,record_id,source_file,message
+WARN,plural_sub_clauses_needs_review,416-5-g-a,canonicalize_legal_json/416section_can.json,Preserved source type; review before normalizing to sub_clause.
+WARN,plural_sub_clauses_needs_review,416-5-g-b,canonicalize_legal_json/416section_can.json,Preserved source type; review before normalizing to sub_clause.

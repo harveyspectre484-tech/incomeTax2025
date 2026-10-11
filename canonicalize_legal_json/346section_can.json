@@ -1,18 +1,186 @@
 {
   "section_number": "346",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-3",
+      "citation": "Chapter XVII, Division B, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "3",
+      "title": "Commercial activities by registered non-profit organisation",
+      "text": "Commercial activities by registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 344,
+          "end": 346
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "346",
       "citation": "Section 346",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-3",
       "section_id": "346",
       "section_number": "346",
       "title": "Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility.",
       "text": "No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,—",
-      "retrieval_text": "Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Commercial activities by registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +197,17 @@
       "section_number": "346",
       "title": "Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility.",
       "text": "such commercial activity is undertaken in the course of actual carrying out of advancement of any object of the general public utility;",
-      "retrieval_text": "Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(a): such commercial activity is undertaken in the course of actual carrying out of advancement of any object of the general public utility;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(a): such commercial activity is undertaken in the course of actual carrying out of advancement of any object of the general public utility;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Commercial activities by registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +224,17 @@
       "section_number": "346",
       "title": "Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility.",
       "text": "the aggregate receipts from such commercial activity or activities do not exceed 20% of the total receipts of such registered non-profit organisation of the relevant tax year; and",
-      "retrieval_text": "Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(b): the aggregate receipts from such commercial activity or activities do not exceed 20% of the total receipts of such registered non-profit organisation of the relevant tax year; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(b): the aggregate receipts from such commercial activity or activities do not exceed 20% of the total receipts of such registered non-profit organisation of the relevant tax year; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Commercial activities by registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +251,17 @@
       "section_number": "346",
       "title": "Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility.",
       "text": "separate books of account are maintained by such registered non-profit organisation for such activities.",
-      "retrieval_text": "Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(c): separate books of account are maintained by such registered non-profit organisation for such activities.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation Section 346 Restriction on commercial activities by registered non-profit organisation, carrying out advancement of any other object of general public utility. No registered non-profit organisation, carrying out advancement of any other object of general public utility, shall carry out any commercial activity unless,— Section 346(c): separate books of account are maintained by such registered non-profit organisation for such activities.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Commercial activities by registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +272,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "346",
+      "to_id": "chapter-XVII-division-B-subdivision-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-3",
+      "to_id": "346",
+      "edge_type": "contains"
+    },
     {
       "from_id": "346-a",
       "to_id": "346",

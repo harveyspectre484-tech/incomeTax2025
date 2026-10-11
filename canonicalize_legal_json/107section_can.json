@@ -1,18 +1,46 @@
 {
   "section_number": "107",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VI",
+      "citation": "Chapter VI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VI",
+      "title": "AGGREGATION OF INCOME",
+      "text": "AGGREGATION OF INCOME",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 101,
+          "end": 107
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "107",
       "citation": "Section 107",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VI",
       "section_id": "107",
       "section_number": "107",
       "title": "Charge of tax.",
       "text": "Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
-      "retrieval_text": "Section 107 Charge of tax. Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 107 Charge of tax. Income referred to in sections 102, 103, 104, 105 and 106 shall be charged to tax as per the provisions of section 195.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +51,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "107",
+      "to_id": "chapter-VI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VI",
+      "to_id": "107",
+      "edge_type": "contains"
+    },
     {
       "from_id": "107",
       "to_id": "195",

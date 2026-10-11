@@ -1,18 +1,130 @@
 {
   "section_number": "372",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-5",
+      "citation": "Chapter XVIII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "5",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 5 General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "372",
       "citation": "Section 372",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-5",
       "section_id": "372",
       "section_number": "372",
       "title": "Exclusion of time taken for copy.",
       "text": "In computing the period of limitation prescribed for an appeal or an application under this Act, the day on which the order complained of was served and, if the assessee was not provided with a copy of the order when the notice of the order was served, the time required to obtain a copy of such order, shall be excluded.",
-      "retrieval_text": "Section 372 Exclusion of time taken for copy. In computing the period of limitation prescribed for an appeal or an application under this Act, the day on which the order complained of was served and, if the assessee was not provided with a copy of the order when the notice of the order was served, the time required to obtain a copy of such order, shall be excluded.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 372 Exclusion of time taken for copy. In computing the period of limitation prescribed for an appeal or an application under this Act, the day on which the order complained of was served and, if the assessee was not provided with a copy of the order when the notice of the order was served, the time required to obtain a copy of such order, shall be excluded.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +134,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "372",
+      "to_id": "chapter-XVIII-division-A-subdivision-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-5",
+      "to_id": "372",
+      "edge_type": "contains"
+    }
+  ]
 }

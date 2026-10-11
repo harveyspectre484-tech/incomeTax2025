@@ -1,18 +1,46 @@
 {
   "section_number": "460",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "460",
       "citation": "Section 460",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXI",
       "section_id": "460",
       "section_number": "460",
       "title": "Penalty for failure to submit statement under section 505.",
       "text": "If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
-      "retrieval_text": "Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
+      "retrieval_text": "Chapter XXI PENALTIES Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "460",
       "title": "Penalty for failure to submit statement under section 505.",
       "text": "Rs. 1000 for every day for which the failure continues, if the period of failure does not exceed three months; or",
-      "retrieval_text": "Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of— Section 460(a): Rs. 1000 for every day for which the failure continues, if the period of failure does not exceed three months; or",
+      "retrieval_text": "Chapter XXI PENALTIES Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of— Section 460(a): Rs. 1000 for every day for which the failure continues, if the period of failure does not exceed three months; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "460",
       "title": "Penalty for failure to submit statement under section 505.",
       "text": "Rs. 100000 in any other case.",
-      "retrieval_text": "Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of— Section 460(b): Rs. 100000 in any other case.",
+      "retrieval_text": "Chapter XXI PENALTIES Section 460 Penalty for failure to submit statement under section 505. If any person required to furnish statement under section 505, fails to do so within the period prescribed under that section, the Assessing Officer may impose on him, a penalty of— Section 460(b): Rs. 100000 in any other case.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "460",
+      "to_id": "chapter-XXI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXI",
+      "to_id": "460",
+      "edge_type": "contains"
+    },
     {
       "from_id": "460-a",
       "to_id": "460",

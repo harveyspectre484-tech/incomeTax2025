@@ -16,14 +16,23 @@ CHILD_KEYS = (
     "clause",
     "sub_clauses",
     "sub_clause",
+    "sub-clauses",
+    "sub-clause",
+    "subclauses",
+    "sub_sub_clauses",
     "items",
     "item",
     "sub_items",
     "conditions",
+    "operative_clauses",
     "children",
 )
-BLOCK_KEYS = ("where_block", "exclusion_block", "explanation_block")
-
+BLOCK_KEYS = (
+    "where_block",
+    "exclusion_block",
+    "explanation_block",
+    "exception",
+)
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate canonical legal units against raw structured section JSON.")
@@ -154,9 +163,23 @@ def validate_pair(
             continue
         if unit.get("unit_type") in {"table", "table_row", "table_cell_item", "longline", "longline_clause"}:
             continue
-        issues.append(issue(section_no, "WARN", "unexpected_unit", f"Unit was not predicted from raw hierarchy: {unit_id}", can_path))
+        issues.append(
+            issue(
+                section_no,
+                "WARN",
+                "unexpected_unit",
+                f"Unit was not predicted from raw hierarchy: {unit_id}",
+                can_path,
+                unit_id,
+            )
+        )
 
-    valid_parent_ids = actual_id_set | {None}
+    hierarchy_ids = {
+        str(node.get("id"))
+        for node in canonical.get("hierarchy_path", []) or []
+        if node.get("id")
+    }
+    valid_parent_ids = actual_id_set | hierarchy_ids | {None}
     units_with_children = {unit.get("parent_id") for unit in units if unit.get("parent_id") is not None}
     for unit in units:
         unit_id = str(unit.get("id", ""))
@@ -407,6 +430,13 @@ def load_json(path: Path) -> dict[str, Any]:
 
 def load_global_unit_ids(canonical_dir: Path) -> set[str]:
     ids: set[str] = set()
+    hierarchy_path = canonical_dir / "chapter_hierarchy.json"
+    if hierarchy_path.exists():
+        try:
+            hierarchy = load_json(hierarchy_path)
+            ids.update(str(node.get("id")) for node in hierarchy.get("hierarchy_nodes", []) if node.get("id"))
+        except Exception:
+            pass
     for path in canonical_dir.glob("*section_can.json"):
         try:
             data = load_json(path)
@@ -414,6 +444,7 @@ def load_global_unit_ids(canonical_dir: Path) -> set[str]:
             continue
         ids.update(str(unit.get("id")) for unit in data.get("legal_units", []) if unit.get("id"))
         ids.update(str(node.get("id")) for node in data.get("external_nodes", []) if node.get("id"))
+        ids.update(str(node.get("id")) for node in data.get("hierarchy_path", []) if node.get("id"))
     return ids
 
 

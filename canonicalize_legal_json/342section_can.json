@@ -1,18 +1,186 @@
 {
   "section_number": "342",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-2",
+      "citation": "Chapter XVII, Division B, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "2",
+      "title": "Income of registered non-profit organisation",
+      "text": "Income of registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "342",
       "citation": "Section 342",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-2",
       "section_id": "342",
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "",
-      "retrieval_text": "Section 342 Accumulated income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +197,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "A registered non-profit organisation may accumulate or set apart any part of its regular income during any tax year by furnishing a statement to the Assessing Officer in such form and manner, as may be prescribed, on or before the due date specified in section 263(1) for furnishing the return of income for such tax year stating therein the purpose and period, not exceeding five years, for which the income is being accumulated or set apart.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(1): A registered non-profit organisation may accumulate or set apart any part of its regular income during any tax year by furnishing a statement to the Assessing Officer in such form and manner, as may be prescribed, on or before the due date specified in section 263(1) for furnishing the return of income for such tax year stating therein the purpose and period, not exceeding five years, for which the income is being accumulated or set apart.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(1): A registered non-profit organisation may accumulate or set apart any part of its regular income during any tax year by furnishing a statement to the Assessing Officer in such form and manner, as may be prescribed, on or before the due date specified in section 263(1) for furnishing the return of income for such tax year stating therein the purpose and period, not exceeding five years, for which the income is being accumulated or set apart.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +224,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "The amount credited or paid by a registered non-profit organisation to any other registered non-profit organisation out of its income accumulated or set apart, shall not be treated as application of income.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(2): The amount credited or paid by a registered non-profit organisation to any other registered non-profit organisation out of its income accumulated or set apart, shall not be treated as application of income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(2): The amount credited or paid by a registered non-profit organisation to any other registered non-profit organisation out of its income accumulated or set apart, shall not be treated as application of income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +251,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "The period during which the income is not applied for the purpose for which it is so accumulated or set apart pursuant to an order or injunction of any court, shall be excluded from the said period of five years.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(3): The period during which the income is not applied for the purpose for which it is so accumulated or set apart pursuant to an order or injunction of any court, shall be excluded from the said period of five years.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(3): The period during which the income is not applied for the purpose for which it is so accumulated or set apart pursuant to an order or injunction of any court, shall be excluded from the said period of five years.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +278,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "The income accumulated or set apart under sub-section (1) shall be invested or deposited in any of the modes permitted under section 350, or applied for the purposes as stated in the prescribed form referred to in sub-section (1).",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(4): The income accumulated or set apart under sub-section (1) shall be invested or deposited in any of the modes permitted under section 350, or applied for the purposes as stated in the prescribed form referred to in sub-section (1).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(4): The income accumulated or set apart under sub-section (1) shall be invested or deposited in any of the modes permitted under section 350, or applied for the purposes as stated in the prescribed form referred to in sub-section (1).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +305,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "The registered non-profit organisation may, for the change of purpose for which income has been accumulated or set apart, make an application to the Assessing Officer, in such form and manner, as may be prescribed.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(5): The registered non-profit organisation may, for the change of purpose for which income has been accumulated or set apart, make an application to the Assessing Officer, in such form and manner, as may be prescribed.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(5): The registered non-profit organisation may, for the change of purpose for which income has been accumulated or set apart, make an application to the Assessing Officer, in such form and manner, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +332,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "The Assessing Officer may, on an application made under sub-section (5) and subject to sub-section (2), allow the registered non-profit organisation to apply its income for such other charitable or religious purposes in India which are in conformity with its objects.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(6): The Assessing Officer may, on an application made under sub-section (5) and subject to sub-section (2), allow the registered non-profit organisation to apply its income for such other charitable or religious purposes in India which are in conformity with its objects.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(6): The Assessing Officer may, on an application made under sub-section (5) and subject to sub-section (2), allow the registered non-profit organisation to apply its income for such other charitable or religious purposes in India which are in conformity with its objects.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +359,17 @@
       "section_number": "342",
       "title": "Accumulated income.",
       "text": "Where a registered non-profit organisation is dissolved, the Assessing Officer may, on an application made by such registered non-profit organisation in such form and manner, as may be prescribed, allow application of such income to be made to any other registered non-profit organisation for the year in which it is dissolved.",
-      "retrieval_text": "Section 342 Accumulated income. Section 342(7): Where a registered non-profit organisation is dissolved, the Assessing Officer may, on an application made by such registered non-profit organisation in such form and manner, as may be prescribed, allow application of such income to be made to any other registered non-profit organisation for the year in which it is dissolved.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 342 Accumulated income. Section 342(7): Where a registered non-profit organisation is dissolved, the Assessing Officer may, on an application made by such registered non-profit organisation in such form and manner, as may be prescribed, allow application of such income to be made to any other registered non-profit organisation for the year in which it is dissolved.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -156,6 +380,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "342",
+      "to_id": "chapter-XVII-division-B-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-2",
+      "to_id": "342",
+      "edge_type": "contains"
+    },
     {
       "from_id": "342-1",
       "to_id": "342",

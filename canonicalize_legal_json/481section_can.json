@@ -1,18 +1,46 @@
 {
   "section_number": "481",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "481",
       "citation": "Section 481",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXII",
       "section_id": "481",
       "section_number": "481",
       "title": "^2^6[Failure to comply with a direction of special audit or valuation.",
       "text": "If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
-      "retrieval_text": "Section 481 ^2^6[Failure to comply with a direction of special audit or valuation. If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 481 ^2^6[Failure to comply with a direction of special audit or valuation. If a person wilfully fails to comply with a direction issued to him under section 268(5), he shall be punishable with simple imprisonment for a term up",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +51,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "481",
+      "to_id": "chapter-XXII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXII",
+      "to_id": "481",
+      "edge_type": "contains"
+    },
     {
       "from_id": "481",
       "to_id": "268-5",

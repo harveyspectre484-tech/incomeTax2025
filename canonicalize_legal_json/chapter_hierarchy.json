@@ -1,0 +1,2628 @@
+{
+  "source": "/Users/avikalchauhan/incometax2025anti/incomeTax2025/chapter.md",
+  "hierarchy_nodes": [
+    {
+      "id": "chapter-I",
+      "citation": "Chapter I",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "I",
+      "title": "PRELIMINARY",
+      "text": "PRELIMINARY",
+      "retrieval_text": "Chapter I PRELIMINARY",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ]
+    },
+    {
+      "id": "chapter-II",
+      "citation": "Chapter II",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "II",
+      "title": "BASIS OF CHARGE",
+      "text": "BASIS OF CHARGE",
+      "retrieval_text": "Chapter II BASIS OF CHARGE",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 4,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "chapter-III",
+      "citation": "Chapter III",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "III",
+      "title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "text": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        },
+        {
+          "start": 12,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "chapter-III-division-A",
+      "citation": "Chapter III, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-III",
+      "number": "A",
+      "title": "Incomes not to be included in total income",
+      "text": "Incomes not to be included in total income",
+      "retrieval_text": "Chapter III, Division A Incomes not to be included in total income",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "id": "chapter-III-division-B",
+      "citation": "Chapter III, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-III",
+      "number": "B",
+      "title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "text": "Incomes not to be included in total income of political parties and electoral trusts",
+      "retrieval_text": "Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-A",
+      "citation": "Chapter IV, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "A",
+      "title": "Heads of income",
+      "text": "Heads of income",
+      "retrieval_text": "Chapter IV, Division A Heads of income",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-B",
+      "citation": "Chapter IV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "B",
+      "title": "Salaries",
+      "text": "Salaries",
+      "retrieval_text": "Chapter IV, Division B Salaries",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 15,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-C",
+      "citation": "Chapter IV, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "C",
+      "title": "Income from house property",
+      "text": "Income from house property",
+      "retrieval_text": "Chapter IV, Division C Income from house property",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 20,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-D",
+      "citation": "Chapter IV, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "D",
+      "title": "Profits and gains of business or profession",
+      "text": "Profits and gains of business or profession",
+      "retrieval_text": "Chapter IV, Division D Profits and gains of business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 26,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-F",
+      "citation": "Chapter IV, Division F",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "F",
+      "title": "Income from Other Sources",
+      "text": "Income from Other Sources",
+      "retrieval_text": "Chapter IV, Division F Income from Other Sources",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-V",
+      "citation": "Chapter V",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "V",
+      "title": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "text": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "retrieval_text": "Chapter V INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 96,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "chapter-VI",
+      "citation": "Chapter VI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VI",
+      "title": "AGGREGATION OF INCOME",
+      "text": "AGGREGATION OF INCOME",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 101,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "chapter-VII",
+      "citation": "Chapter VII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VII",
+      "title": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "text": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "retrieval_text": "Chapter VII SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 108,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII",
+      "citation": "Chapter VIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VIII",
+      "title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "text": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        },
+        {
+          "start": 123,
+          "end": 137
+        },
+        {
+          "start": 138,
+          "end": 152
+        },
+        {
+          "start": 153,
+          "end": 153
+        },
+        {
+          "start": 154,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-A",
+      "citation": "Chapter VIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "A",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter VIII, Division A General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-B",
+      "citation": "Chapter VIII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "B",
+      "title": "Deductions in respect of certain payments",
+      "text": "Deductions in respect of certain payments",
+      "retrieval_text": "Chapter VIII, Division B Deductions in respect of certain payments",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 123,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-C",
+      "citation": "Chapter VIII, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "C",
+      "title": "Deductions in respect of certain incomes",
+      "text": "Deductions in respect of certain incomes",
+      "retrieval_text": "Chapter VIII, Division C Deductions in respect of certain incomes",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 138,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-D",
+      "citation": "Chapter VIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "D",
+      "title": "Deductions in respect of other incomes",
+      "text": "Deductions in respect of other incomes",
+      "retrieval_text": "Chapter VIII, Division D Deductions in respect of other incomes",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 153,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-E",
+      "citation": "Chapter VIII, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "E",
+      "title": "Other deductions",
+      "text": "Other deductions",
+      "retrieval_text": "Chapter VIII, Division E Other deductions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 154,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "chapter-IX",
+      "citation": "Chapter IX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IX",
+      "title": "REBATES AND RELIEFS",
+      "text": "REBATES AND RELIEFS",
+      "retrieval_text": "Chapter IX REBATES AND RELIEFS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 155,
+          "end": 158
+        },
+        {
+          "start": 159,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "chapter-IX-division-A",
+      "citation": "Chapter IX, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IX",
+      "number": "A",
+      "title": "Rebates and reliefs",
+      "text": "Rebates and reliefs",
+      "retrieval_text": "Chapter IX, Division A Rebates and reliefs",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 155,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "chapter-IX-division-B",
+      "citation": "Chapter IX, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IX",
+      "number": "B",
+      "title": "Double taxation relief",
+      "text": "Double taxation relief",
+      "retrieval_text": "Chapter IX, Division B Double taxation relief",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 159,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "chapter-X",
+      "citation": "Chapter X",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "X",
+      "title": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "text": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "retrieval_text": "Chapter X SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 161,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "id": "chapter-XI",
+      "citation": "Chapter XI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XI",
+      "title": "GENERAL ANTI-AVOIDANCE RULE",
+      "text": "GENERAL ANTI-AVOIDANCE RULE",
+      "retrieval_text": "Chapter XI GENERAL ANTI-AVOIDANCE RULE",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 178,
+          "end": 184
+        }
+      ]
+    },
+    {
+      "id": "chapter-XII",
+      "citation": "Chapter XII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XII",
+      "title": "MODE OF PAYMENT IN CERTAIN CASES, ETC",
+      "text": "MODE OF PAYMENT IN CERTAIN CASES, ETC",
+      "retrieval_text": "Chapter XII MODE OF PAYMENT IN CERTAIN CASES, ETC",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 185,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-A",
+      "citation": "Chapter XIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "A",
+      "title": "Determination of tax in certain special cases",
+      "text": "Determination of tax in certain special cases",
+      "retrieval_text": "Chapter XIII, Division A Determination of tax in certain special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-B",
+      "citation": "Chapter XIII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "B",
+      "title": "Special provisions relating to tax on capital gains",
+      "text": "Special provisions relating to tax on capital gains",
+      "retrieval_text": "Chapter XIII, Division B Special provisions relating to tax on capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 196,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-C",
+      "citation": "Chapter XIII, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "C",
+      "title": "New tax regime",
+      "text": "New tax regime",
+      "retrieval_text": "Chapter XIII, Division C New tax regime",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 199,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-D",
+      "citation": "Chapter XIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "D",
+      "title": "Special provisions relating to minimum alternate tax and alternate minimum tax",
+      "text": "Special provisions relating to minimum alternate tax and alternate minimum tax",
+      "retrieval_text": "Chapter XIII, Division D Special provisions relating to minimum alternate tax and alternate minimum tax",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 206,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-E",
+      "citation": "Chapter XIII, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "E",
+      "title": "Special provisions relating to non-residents and foreign companies",
+      "text": "Special provisions relating to non-residents and foreign companies",
+      "retrieval_text": "Chapter XIII, Division E Special provisions relating to non-residents and foreign companies",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-A",
+      "citation": "Chapter XIV, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "A",
+      "title": "Authorities, jurisdiction and functions",
+      "text": "Authorities, jurisdiction and functions",
+      "retrieval_text": "Chapter XIV, Division A Authorities, jurisdiction and functions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XV",
+      "citation": "Chapter XV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XV",
+      "title": "RETURN OF INCOME",
+      "text": "RETURN OF INCOME",
+      "retrieval_text": "Chapter XV RETURN OF INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 262,
+          "end": 262
+        },
+        {
+          "start": 263,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "chapter-XV-division-A",
+      "citation": "Chapter XV, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XV",
+      "number": "A",
+      "title": "Allotment of Permanent Account Number",
+      "text": "Allotment of Permanent Account Number",
+      "retrieval_text": "Chapter XV, Division A Allotment of Permanent Account Number",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 262,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "chapter-XV-division-B",
+      "citation": "Chapter XV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XV",
+      "number": "B",
+      "title": "Filing of return of income",
+      "text": "Filing of return of income",
+      "retrieval_text": "Chapter XV, Division B Filing of return of income",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 263,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI",
+      "citation": "Chapter XVI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVI",
+      "title": "PROCEDURE FOR ASSESSMENT",
+      "text": "PROCEDURE FOR ASSESSMENT",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        },
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-A",
+      "citation": "Chapter XVI, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "A",
+      "title": "Procedure for assessment",
+      "text": "Procedure for assessment",
+      "retrieval_text": "Chapter XVI, Division A Procedure for assessment",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-B",
+      "citation": "Chapter XVI, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "B",
+      "title": "Special procedure for assessment of search cases",
+      "text": "Special procedure for assessment of search cases",
+      "retrieval_text": "Chapter XVI, Division B Special procedure for assessment of search cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-1",
+      "citation": "Chapter XVII, Division A, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "1",
+      "title": "Legal representatives",
+      "text": "Legal representatives",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 1 Legal representatives",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-2",
+      "citation": "Chapter XVII, Division A, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "2",
+      "title": "Representative assessees—General provisions",
+      "text": "Representative assessees—General provisions",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 303,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-3",
+      "citation": "Chapter XVII, Division A, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "3",
+      "title": "Representative assessees—Special cases",
+      "text": "Representative assessees—Special cases",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 306,
+          "end": 308
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-4",
+      "citation": "Chapter XVII, Division A, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "4",
+      "title": "Association of persons and body of individuals",
+      "text": "Association of persons and body of individuals",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 309,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-5",
+      "citation": "Chapter XVII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "5",
+      "title": "Executors",
+      "text": "Executors",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 5 Executors",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 312,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-6",
+      "citation": "Chapter XVII, Division A, Subdivision 6",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "6",
+      "title": "Succession to business or profession",
+      "text": "Succession to business or profession",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 6 Succession to business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 313,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-7",
+      "citation": "Chapter XVII, Division A, Subdivision 7",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "7",
+      "title": "Partition",
+      "text": "Partition",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 7 Partition",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 315,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-8",
+      "citation": "Chapter XVII, Division A, Subdivision 8",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "8",
+      "title": "Profits of non-residents from occasional shipping business",
+      "text": "Profits of non-residents from occasional shipping business",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 8 Profits of non-residents from occasional shipping business",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 316,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-9",
+      "citation": "Chapter XVII, Division A, Subdivision 9",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "9",
+      "title": "Persons leaving India",
+      "text": "Persons leaving India",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 9 Persons leaving India",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 317,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-10",
+      "citation": "Chapter XVII, Division A, Subdivision 10",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "10",
+      "title": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "text": "Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 10 Association of persons or body of individuals or artificial juridical person formed for a particular event or purpose",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 318,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-11",
+      "citation": "Chapter XVII, Division A, Subdivision 11",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "11",
+      "title": "Persons trying to alienate their assets",
+      "text": "Persons trying to alienate their assets",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 11 Persons trying to alienate their assets",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 319,
+          "end": 319
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-12",
+      "citation": "Chapter XVII, Division A, Subdivision 12",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "12",
+      "title": "Discontinuance of business, or dissolution",
+      "text": "Discontinuance of business, or dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 320,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-13",
+      "citation": "Chapter XVII, Division A, Subdivision 13",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "13",
+      "title": "Private companies",
+      "text": "Private companies",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 13 Private companies",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 323,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-14",
+      "citation": "Chapter XVII, Division A, Subdivision 14",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "14",
+      "title": "Assessment of firms",
+      "text": "Assessment of firms",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 14 Assessment of firms",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 324,
+          "end": 326
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-15",
+      "citation": "Chapter XVII, Division A, Subdivision 15",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "15",
+      "title": "Change in constitution, succession and dissolution",
+      "text": "Change in constitution, succession and dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 15 Change in constitution, succession and dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 327,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-16",
+      "citation": "Chapter XVII, Division A, Subdivision 16",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "16",
+      "title": "Liability of partners of limited liability partnership in liquidation",
+      "text": "Liability of partners of limited liability partnership in liquidation",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 16 Liability of partners of limited liability partnership in liquidation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-1",
+      "citation": "Chapter XVII, Division B, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "1",
+      "title": "Registration",
+      "text": "Registration",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 1 Registration",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-2",
+      "citation": "Chapter XVII, Division B, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "2",
+      "title": "Income of registered non-profit organisation",
+      "text": "Income of registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-3",
+      "citation": "Chapter XVII, Division B, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "3",
+      "title": "Commercial activities by registered non-profit organisation",
+      "text": "Commercial activities by registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 3 Commercial activities by registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 344,
+          "end": 346
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-4",
+      "citation": "Chapter XVII, Division B, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "4",
+      "title": "Compliances",
+      "text": "Compliances",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 4 Compliances",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 347,
+          "end": 350
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-5",
+      "citation": "Chapter XVII, Division B, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "5",
+      "title": "Violations",
+      "text": "Violations",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 5 Violations",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 351,
+          "end": 353
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-6",
+      "citation": "Chapter XVII, Division B, Subdivision 6",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "6",
+      "title": "Approval for purpose of deduction under section 133(1)(b)(ii)",
+      "text": "Approval for purpose of deduction under section 133(1)(b)(ii)",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 6 Approval for purpose of deduction under section 133(1)(b)(ii)",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-7",
+      "citation": "Chapter XVII, Division B, Subdivision 7",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "7",
+      "title": "Interpretation",
+      "text": "Interpretation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 7 Interpretation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": []
+    },
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-1",
+      "citation": "Chapter XVIII, Division A, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "1",
+      "title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "text": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-2",
+      "citation": "Chapter XVIII, Division A, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "2",
+      "title": "Appeals to Appellate Tribunal.",
+      "text": "Appeals to Appellate Tribunal.",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 2 Appeals to Appellate Tribunal.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 361,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-3",
+      "citation": "Chapter XVIII, Division A, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "3",
+      "title": "Appeal to High Court.",
+      "text": "Appeal to High Court.",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 3 Appeal to High Court.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 365,
+          "end": 366
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-4",
+      "citation": "Chapter XVIII, Division A, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "4",
+      "title": "Appeals to Supreme Court",
+      "text": "Appeals to Supreme Court",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 4 Appeals to Supreme Court",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 367,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-5",
+      "citation": "Chapter XVIII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "5",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 5 General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-B",
+      "citation": "Chapter XVIII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "B",
+      "title": "Special provisions for avoiding repetitive appeals",
+      "text": "Special provisions for avoiding repetitive appeals",
+      "retrieval_text": "Chapter XVIII, Division B Special provisions for avoiding repetitive appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 375,
+          "end": 376
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-C",
+      "citation": "Chapter XVIII, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "C",
+      "title": "Revision by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner",
+      "text": "Revision by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner",
+      "retrieval_text": "Chapter XVIII, Division C Revision by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 377,
+          "end": 378
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D",
+      "citation": "Chapter XVIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "D",
+      "title": "Alternate Dispute Resolutions",
+      "text": "Alternate Dispute Resolutions",
+      "retrieval_text": "Chapter XVIII, Division D Alternate Dispute Resolutions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D-subdivision-1",
+      "citation": "Chapter XVIII, Division D, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-D",
+      "number": "1",
+      "title": "Dispute Resolution Committee in certain cases",
+      "text": "Dispute Resolution Committee in certain cases",
+      "retrieval_text": "Chapter XVIII, Division D, Subdivision 1 Dispute Resolution Committee in certain cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 379,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D-subdivision-2",
+      "citation": "Chapter XVIII, Division D, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-D",
+      "number": "2",
+      "title": "Advance rulings",
+      "text": "Advance rulings",
+      "retrieval_text": "Chapter XVIII, Division D, Subdivision 2 Advance rulings",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-A",
+      "citation": "Chapter XIX, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "A",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XIX, Division A General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-B",
+      "citation": "Chapter XIX, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "B",
+      "title": "Deduction and collection at source",
+      "text": "Deduction and collection at source",
+      "retrieval_text": "Chapter XIX, Division B Deduction and collection at source",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 392,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-C",
+      "citation": "Chapter XIX, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "C",
+      "title": "Advance payment of tax",
+      "text": "Advance payment of tax",
+      "retrieval_text": "Chapter XIX, Division C Advance payment of tax",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 403,
+          "end": 411
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-D",
+      "citation": "Chapter XIX, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "D",
+      "title": "Collection and Recovery",
+      "text": "Collection and Recovery",
+      "retrieval_text": "Chapter XIX, Division D Collection and Recovery",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-E",
+      "citation": "Chapter XIX, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "E",
+      "title": "Interest chargeable in certain cases",
+      "text": "Interest chargeable in certain cases",
+      "retrieval_text": "Chapter XIX, Division E Interest chargeable in certain cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 423,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-F",
+      "citation": "Chapter XIX, Division F",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "F",
+      "title": "Levy of fee in certain cases",
+      "text": "Levy of fee in certain cases",
+      "retrieval_text": "Chapter XIX, Division F Levy of fee in certain cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XX",
+      "citation": "Chapter XX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XX",
+      "title": "REFUNDS",
+      "text": "REFUNDS",
+      "retrieval_text": "Chapter XX REFUNDS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 431,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    },
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "from_id": "chapter-III-division-A",
+      "to_id": "chapter-III",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-III",
+      "to_id": "chapter-III-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-III-division-B",
+      "to_id": "chapter-III",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-III",
+      "to_id": "chapter-III-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-A",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-B",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-C",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-D",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-D",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IV-division-F",
+      "to_id": "chapter-IV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV",
+      "to_id": "chapter-IV-division-F",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-VIII-division-A",
+      "to_id": "chapter-VIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII",
+      "to_id": "chapter-VIII-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-VIII-division-B",
+      "to_id": "chapter-VIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII",
+      "to_id": "chapter-VIII-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-VIII-division-C",
+      "to_id": "chapter-VIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII",
+      "to_id": "chapter-VIII-division-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-VIII-division-D",
+      "to_id": "chapter-VIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII",
+      "to_id": "chapter-VIII-division-D",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-VIII-division-E",
+      "to_id": "chapter-VIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII",
+      "to_id": "chapter-VIII-division-E",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IX-division-A",
+      "to_id": "chapter-IX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IX",
+      "to_id": "chapter-IX-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-IX-division-B",
+      "to_id": "chapter-IX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IX",
+      "to_id": "chapter-IX-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIII-division-A",
+      "to_id": "chapter-XIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII",
+      "to_id": "chapter-XIII-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIII-division-B",
+      "to_id": "chapter-XIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII",
+      "to_id": "chapter-XIII-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIII-division-C",
+      "to_id": "chapter-XIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII",
+      "to_id": "chapter-XIII-division-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIII-division-D",
+      "to_id": "chapter-XIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII",
+      "to_id": "chapter-XIII-division-D",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIII-division-E",
+      "to_id": "chapter-XIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII",
+      "to_id": "chapter-XIII-division-E",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIV-division-A",
+      "to_id": "chapter-XIV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV",
+      "to_id": "chapter-XIV-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "chapter-XIV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XV-division-A",
+      "to_id": "chapter-XV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XV",
+      "to_id": "chapter-XV-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XV-division-B",
+      "to_id": "chapter-XV",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XV",
+      "to_id": "chapter-XV-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVI-division-A",
+      "to_id": "chapter-XVI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI",
+      "to_id": "chapter-XVI-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVI-division-B",
+      "to_id": "chapter-XVI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI",
+      "to_id": "chapter-XVI-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-1",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-2",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-3",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-4",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-5",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-6",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-6",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-7",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-7",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-8",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-8",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-9",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-9",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-10",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-10",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-11",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-11",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-12",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-12",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-13",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-13",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-14",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-14",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-15",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-15",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-16",
+      "to_id": "chapter-XVII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A",
+      "to_id": "chapter-XVII-division-A-subdivision-16",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-1",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-2",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-3",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-4",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-5",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-6",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-6",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-7",
+      "to_id": "chapter-XVII-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B",
+      "to_id": "chapter-XVII-division-B-subdivision-7",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-1",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII-division-A-subdivision-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-2",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII-division-A-subdivision-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-3",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII-division-A-subdivision-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-4",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII-division-A-subdivision-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-5",
+      "to_id": "chapter-XVIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A",
+      "to_id": "chapter-XVIII-division-A-subdivision-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-B",
+      "to_id": "chapter-XVIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII",
+      "to_id": "chapter-XVIII-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-C",
+      "to_id": "chapter-XVIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII",
+      "to_id": "chapter-XVIII-division-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D",
+      "to_id": "chapter-XVIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII",
+      "to_id": "chapter-XVIII-division-D",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D-subdivision-1",
+      "to_id": "chapter-XVIII-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D",
+      "to_id": "chapter-XVIII-division-D-subdivision-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D-subdivision-2",
+      "to_id": "chapter-XVIII-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D",
+      "to_id": "chapter-XVIII-division-D-subdivision-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-A",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-A",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-B",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-B",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-C",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-C",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-D",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-D",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-E",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-E",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "chapter-XIX-division-F",
+      "to_id": "chapter-XIX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX",
+      "to_id": "chapter-XIX-division-F",
+      "edge_type": "contains"
+    }
+  ]
+}

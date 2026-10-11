@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.2.0",
+  "stage": "4A_collect_graph_edges",
+  "source_files_read": 552,
+  "source_edge_occurrences": 23776,
+  "resolved_edge_occurrences": 23206,
+  "pending_edge_occurrences": 570,
+  "edge_type_counts": {
+    "annotates": 43,
+    "contains": 9534,
+    "parent": 9534,
+    "references": 3931,
+    "references_external": 334,
+    "references_external_act": 223,
+    "references_schedule": 177
+  },
+  "pending_reason_counts": {
+    "external_target_not_ingested": 557,
+    "missing_target_node": 13
+  },
+  "invalid_edge_occurrences": 0,
+  "records_deduplicated": false
+}

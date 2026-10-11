@@ -1,18 +1,226 @@
 {
   "section_number": "321",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-12",
+      "citation": "Chapter XVII, Division A, Subdivision 12",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "12",
+      "title": "Discontinuance of business, or dissolution",
+      "text": "Discontinuance of business, or dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 320,
+          "end": 322
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "321",
       "citation": "Section 321",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-12",
       "section_id": "321",
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "Where any business or profession carried on by an association of persons has been discontinued or where an association of persons is dissolved, the Assessing Officer shall make an assessment of the total income of the association of persons as if no such discontinuance or dissolution had taken place, and all the provisions of this Act, including the provisions relating to the levy of a penalty or any other sum chargeable under any provision of this Act shall apply, so far as may be, to such assessment.",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued. Section 321(1): Where any business or profession carried on by an association of persons has been discontinued or where an association of persons is dissolved, the Assessing Officer shall make an assessment of the total income of the association of persons as if no such discontinuance or dissolution had taken place, and all the provisions of this Act, including the provisions relating to the levy of a penalty or any other sum chargeable under any provision of this Act shall apply, so far as may be, to such assessment.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued. Section 321(1): Where any business or profession carried on by an association of persons has been discontinued or where an association of persons is dissolved, the Assessing Officer shall make an assessment of the total income of the association of persons as if no such discontinuance or dissolution had taken place, and all the provisions of this Act, including the provisions relating to the levy of a penalty or any other sum chargeable under any provision of this Act shall apply, so far as may be, to such assessment.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "Regardless of the generality of sub-section (1), if the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals) in the course of any proceeding under this Act in respect of any such association of persons as is referred to in that sub-section is satisfied that the association of persons was guilty of any of the acts specified in Chapter XXI, he may impose or direct the imposition of a penalty as per the provisions of that Chapter.",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued. Section 321(2): Regardless of the generality of sub-section (1), if the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals) in the course of any proceeding under this Act in respect of any such association of persons as is referred to in that sub-section is satisfied that the association of persons was guilty of any of the acts specified in Chapter XXI, he may impose or direct the imposition of a penalty as per the provisions of that Chapter.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued. Section 321(2): Regardless of the generality of sub-section (1), if the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals) in the course of any proceeding under this Act in respect of any such association of persons as is referred to in that sub-section is satisfied that the association of persons was guilty of any of the acts specified in Chapter XXI, he may impose or direct the imposition of a penalty as per the provisions of that Chapter.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "Every person who was at the time of such discontinuance or dissolution a member of the association of persons, and the legal representative of any such person who is deceased, shall be jointly and severally liable for the amount of tax, penalty or other sum payable, and all the provisions of this Act, so far as may be, shall apply to any such assessment or imposition of penalty or other sum.",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued. Section 321(3): Every person who was at the time of such discontinuance or dissolution a member of the association of persons, and the legal representative of any such person who is deceased, shall be jointly and severally liable for the amount of tax, penalty or other sum payable, and all the provisions of this Act, so far as may be, shall apply to any such assessment or imposition of penalty or other sum.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued. Section 321(3): Every person who was at the time of such discontinuance or dissolution a member of the association of persons, and the legal representative of any such person who is deceased, shall be jointly and severally liable for the amount of tax, penalty or other sum payable, and all the provisions of this Act, so far as may be, shall apply to any such assessment or imposition of penalty or other sum.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "Where such discontinuance or dissolution takes place after any proceedings in respect of a tax year have commenced, the proceedings may be continued against the persons referred to in sub-section (3) from the stage at which the proceedings stood at the time of such discontinuance or dissolution, and all the provisions of this Act shall, so far as may be, apply accordingly.",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued. Section 321(4): Where such discontinuance or dissolution takes place after any proceedings in respect of a tax year have commenced, the proceedings may be continued against the persons referred to in sub-section (3) from the stage at which the proceedings stood at the time of such discontinuance or dissolution, and all the provisions of this Act shall, so far as may be, apply accordingly.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued. Section 321(4): Where such discontinuance or dissolution takes place after any proceedings in respect of a tax year have commenced, the proceedings may be continued against the persons referred to in sub-section (3) from the stage at which the proceedings stood at the time of such discontinuance or dissolution, and all the provisions of this Act shall, so far as may be, apply accordingly.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "321",
       "title": "Association dissolved or business discontinued.",
       "text": "Nothing in this section shall affect the provisions of section 302(4).",
-      "retrieval_text": "Section 321 Association dissolved or business discontinued. Section 321(5): Nothing in this section shall affect the provisions of section 302(4).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 321 Association dissolved or business discontinued. Section 321(5): Nothing in this section shall affect the provisions of section 302(4).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -118,6 +366,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "321",
+      "to_id": "chapter-XVII-division-A-subdivision-12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-12",
+      "to_id": "321",
+      "edge_type": "contains"
+    },
     {
       "from_id": "321-1",
       "to_id": "321",

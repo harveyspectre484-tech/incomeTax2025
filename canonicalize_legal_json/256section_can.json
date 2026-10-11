@@ -1,18 +1,68 @@
 {
   "section_number": "256",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "256",
       "citation": "Section 256",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-B",
       "section_id": "256",
       "section_number": "256",
       "title": "Power of certain income-tax authorities.",
       "text": "The Principal Director General or Director General or Principal Director or Director, the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner and the Joint Commissioner shall be competent to make any enquiry under this Act, and for this purpose, shall have all the powers that an Assessing Officer has under this Act in relation to the making of enquiries.",
-      "retrieval_text": "Section 256 Power of certain income-tax authorities. The Principal Director General or Director General or Principal Director or Director, the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner and the Joint Commissioner shall be competent to make any enquiry under this Act, and for this purpose, shall have all the powers that an Assessing Officer has under this Act in relation to the making of enquiries.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 256 Power of certain income-tax authorities. The Principal Director General or Director General or Principal Director or Director, the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner and the Joint Commissioner shall be competent to make any enquiry under this Act, and for this purpose, shall have all the powers that an Assessing Officer has under this Act in relation to the making of enquiries.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +72,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "256",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "256",
+      "edge_type": "contains"
+    }
+  ]
 }

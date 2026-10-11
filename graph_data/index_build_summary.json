@@ -1,0 +1,46 @@
+{
+  "input_nodes": 9573,
+  "search_documents": 8912,
+  "indexed_by_unit_type": {
+    "clause": 3275,
+    "condition": 3,
+    "exception_block": 1,
+    "exclusion_block": 4,
+    "explanation_block": 2,
+    "footnote": 26,
+    "formula": 1,
+    "item": 408,
+    "longline": 1,
+    "longline_clause": 2,
+    "note": 43,
+    "operative_clause": 5,
+    "paragraph": 97,
+    "section": 151,
+    "sub_clause": 1448,
+    "sub_clauses": 2,
+    "sub_item": 53,
+    "sub_sub_clause": 35,
+    "sub_sub_sub_clause": 8,
+    "subparagraph": 115,
+    "subsection": 2218,
+    "substitution": 1,
+    "table_cell_item": 518,
+    "table_row": 475,
+    "variable": 11,
+    "where_block": 9
+  },
+  "skipped_by_reason": {
+    "empty_text": 485,
+    "non_substantive_table_cell_item": 2,
+    "structural_or_unsupported_type": 174
+  },
+  "non_substantive_table_cell_values": [
+    "",
+    "***",
+    "-",
+    "\u2013",
+    "\u2014"
+  ],
+  "canonical_ids_preserved": true,
+  "external_placeholder_nodes_included": false
+}

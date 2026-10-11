@@ -1,18 +1,84 @@
 {
   "section_number": "81",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "81",
       "citation": "Section 81",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-E",
       "section_id": "81",
       "section_number": "81",
       "title": "Advance money received.",
       "text": "Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
-      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "81",
       "title": "Advance money received.",
       "text": "shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
-      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(a): shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(a): shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "81",
       "title": "Advance money received.",
       "text": "shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
-      "retrieval_text": "Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(b): shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 81 Advance money received. Where any capital asset was, on any previous occasion, the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations— Section 81(b): shall not be deducted from the said cost, where such advance or other money has been included in the total income of the assessee for any tax year as per the provisions of section 92(2)(h) of this Act or section 56(2)(ix) of the Income-tax Act, 1961 (43 of 1961).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -101,6 +183,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "81",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "81",
+      "edge_type": "contains"
+    },
     {
       "from_id": "81-a",
       "to_id": "81",

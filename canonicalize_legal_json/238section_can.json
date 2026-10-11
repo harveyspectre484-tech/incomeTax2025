@@ -1,18 +1,68 @@
 {
   "section_number": "238",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-A",
+      "citation": "Chapter XIV, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "A",
+      "title": "Authorities, jurisdiction and functions",
+      "text": "Authorities, jurisdiction and functions",
+      "retrieval_text": "Chapter XIV, Division A Authorities, jurisdiction and functions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "238",
       "citation": "Section 238",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-A",
       "section_id": "238",
       "section_number": "238",
       "title": "Control of income-tax authorities.",
       "text": "The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
-      "retrieval_text": "Section 238 Control of income-tax authorities. The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division A Authorities, jurisdiction and functions Section 238 Control of income-tax authorities. The Board may, by notification, direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority or authorities as specified in such notification.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-A",
+      "division_number": "A",
+      "division_title": "Authorities, jurisdiction and functions",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +72,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "238",
+      "to_id": "chapter-XIV-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-A",
+      "to_id": "238",
+      "edge_type": "contains"
+    }
+  ]
 }

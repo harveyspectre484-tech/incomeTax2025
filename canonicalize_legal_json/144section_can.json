@@ -1,18 +1,80 @@
 {
   "section_number": "144",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VIII",
+      "citation": "Chapter VIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VIII",
+      "title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "text": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        },
+        {
+          "start": 123,
+          "end": 137
+        },
+        {
+          "start": 138,
+          "end": 152
+        },
+        {
+          "start": 153,
+          "end": 153
+        },
+        {
+          "start": 154,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "chapter-VIII-division-C",
+      "citation": "Chapter VIII, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-VIII",
+      "number": "C",
+      "title": "Deductions in respect of certain incomes",
+      "text": "Deductions in respect of certain incomes",
+      "retrieval_text": "Chapter VIII, Division C Deductions in respect of certain incomes",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 138,
+          "end": 152
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "144",
       "citation": "Section 144",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VIII-division-C",
       "section_id": "144",
       "section_number": "144",
       "title": "Special provisions in respect of newly established Units in Special Economic Zones.",
       "text": "In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that—",
-      "retrieval_text": "Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that—",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division C Deductions in respect of certain incomes Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-C",
+      "division_number": "C",
+      "division_title": "Deductions in respect of certain incomes",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +91,17 @@
       "section_number": "144",
       "title": "Special provisions in respect of newly established Units in Special Economic Zones.",
       "text": "in computing the total income of an assessee, being an entrepreneur as referred to in section 2(j) of the Special Economic Zones Act, 2005 (28 of 2005), who begins to manufacture or produce articles or things or provide any services, as referred to in section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
-      "retrieval_text": "Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— Section 144(a): in computing the total income of an assessee, being an entrepreneur as referred to in section 2(j) of the Special Economic Zones Act, 2005 (28 of 2005), who begins to manufacture or produce articles or things or provide any services, as referred to in section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division C Deductions in respect of certain incomes Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that— Section 144(a): in computing the total income of an assessee, being an entrepreneur as referred to in section 2(j) of the Special Economic Zones Act, 2005 (28 of 2005), who begins to manufacture or produce articles or things or provide any services, as referred to in section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-C",
+      "division_number": "C",
+      "division_title": "Deductions in respect of certain incomes",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +118,17 @@
       "section_number": "144",
       "title": "Special provisions in respect of newly established Units in Special Economic Zones.",
       "text": "such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed,",
-      "retrieval_text": "Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed,",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division C Deductions in respect of certain incomes Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-C",
+      "division_number": "C",
+      "division_title": "Deductions in respect of certain incomes",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +145,17 @@
       "section_number": "144",
       "title": "Special provisions in respect of newly established Units in Special Economic Zones.",
       "text": "the amount of deduction is calculated as per the provisions of section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
-      "retrieval_text": "Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed, Section 144(b)(i): the amount of deduction is calculated as per the provisions of section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division C Deductions in respect of certain incomes Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed, Section 144(b)(i): the amount of deduction is calculated as per the provisions of section 10AA of the Income-tax Act, 1961 (43 of 1961); and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-C",
+      "division_number": "C",
+      "division_title": "Deductions in respect of certain incomes",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +172,17 @@
       "section_number": "144",
       "title": "Special provisions in respect of newly established Units in Special Economic Zones.",
       "text": "the deduction under this Act shall be allowed only for such tax years, as would have been allowed under section 10AA of the Income-tax Act, 1961 (43 of 1961), as if the said Act had not been repealed.",
-      "retrieval_text": "Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed, Section 144(b)(ii): the deduction under this Act shall be allowed only for such tax years, as would have been allowed under section 10AA of the Income-tax Act, 1961 (43 of 1961), as if the said Act had not been repealed.",
+      "retrieval_text": "Chapter VIII DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME Chapter VIII, Division C Deductions in respect of certain incomes Section 144 Special provisions in respect of newly established Units in Special Economic Zones. In respect of any tax year, where— there shall be allowed, in computing the total income of the assessee, a deduction from the profits and gains derived from such business, subject to the conditions that— Section 144(b): such assessee is eligible to claim a deduction from the profits and gains derived from the export, of such articles or things or from services for such tax year under the provisions of the said section, if the said Act had not been repealed, Section 144(b)(ii): the deduction under this Act shall be allowed only for such tax years, as would have been allowed under section 10AA of the Income-tax Act, 1961 (43 of 1961), as if the said Act had not been repealed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VIII",
+      "chapter_id": "chapter-VIII",
+      "chapter_title": "DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME",
+      "division_id": "chapter-VIII-division-C",
+      "division_number": "C",
+      "division_title": "Deductions in respect of certain incomes",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -174,6 +268,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "144",
+      "to_id": "chapter-VIII-division-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VIII-division-C",
+      "to_id": "144",
+      "edge_type": "contains"
+    },
     {
       "from_id": "144-a",
       "to_id": "144",

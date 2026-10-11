@@ -1,18 +1,84 @@
 {
   "section_number": "417",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-D",
+      "citation": "Chapter XIX, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "D",
+      "title": "Collection and Recovery",
+      "text": "Collection and Recovery",
+      "retrieval_text": "Chapter XIX, Division D Collection and Recovery",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "417",
       "citation": "Section 417",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-D",
       "section_id": "417",
       "section_number": "417",
       "title": "Recovery through State Government.",
       "text": "If the recovery of tax in any area has been entrusted to a State Government under article 258(1) of the Constitution, the State Government may direct, with respect to that area or any part thereof that tax shall be recovered therein with, and as an addition to, any municipal tax or local rate, by the same person and in the same manner as the municipal tax or local rate is recovered.",
-      "retrieval_text": "Section 417 Recovery through State Government. If the recovery of tax in any area has been entrusted to a State Government under article 258(1) of the Constitution, the State Government may direct, with respect to that area or any part thereof that tax shall be recovered therein with, and as an addition to, any municipal tax or local rate, by the same person and in the same manner as the municipal tax or local rate is recovered.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 417 Recovery through State Government. If the recovery of tax in any area has been entrusted to a State Government under article 258(1) of the Constitution, the State Government may direct, with respect to that area or any part thereof that tax shall be recovered therein with, and as an addition to, any municipal tax or local rate, by the same person and in the same manner as the municipal tax or local rate is recovered.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +88,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "417",
+      "to_id": "chapter-XIX-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-D",
+      "to_id": "417",
+      "edge_type": "contains"
+    }
+  ]
 }

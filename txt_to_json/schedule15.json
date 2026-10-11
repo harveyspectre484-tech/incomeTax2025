@@ -1,0 +1,938 @@
+{
+  "schedules": [
+    {
+      "type": "schedule",
+      "number": "XV",
+      "id": "schedule-XV",
+      "reference_text": "[See section 123]",
+      "reference_section": "123",
+      "title": "DEDUCTION IN RESPECT OF LIFE INSURANCE PREMIA, CONTRIBUTION TO PROVIDENT FUND, SUBSCRIPTION TO CERTAIN EQUITY SHARES, ETC.",
+      "act": "Income-tax Act, 2025",
+      "source_url": "https://www.incometaxindia.gov.in/w/individual-and-huf-benefits-allowable-1",
+      "source_year": "2026",
+      "x": null,
+      "y_start": null,
+      "page_start": null,
+      "page_end": null,
+      "text_before_paragraphs": "",
+      "paragraphs": [
+        {
+          "type": "paragraph",
+          "number": "1",
+          "id": "schedule-XV-1",
+          "title": "Sums qualifying as deduction.",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_clauses": "For any tax year, the following amounts shall qualify as deduction for the purpose of section 123--",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-XV-1-a",
+              "text_before_sub_clauses": "premium paid for a life insurance policy--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-a-i",
+                  "text": "in the case of an individual, on life of such individual, spouse of the individual and any child of the individual;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-a-ii",
+                  "text": "in the case of a Hindu undivided family, on life of any member of the Hindu undivided family, subject to paragraph 2;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-XV-1-b",
+              "text": "sum paid under a deferred annuity contract other than the annuity plan referred to in clause (l) on life of the individual, spouse of the individual and any child of the individual, and such contract does not contain an option to receive cash payment in lieu of the annuity;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-XV-1-c",
+              "text": "sum deducted from salary payable by or on behalf of the Government to any individual for securing deferred annuity or making provision for his spouse or children, to the extent of 20% of salary;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-XV-1-d",
+              "text": "contribution by an individual to any provident fund to which the Provident Funds Act, 1925 (19 of 1925) applies;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-XV-1-e",
+              "text_before_sub_clauses": "contribution to an account with any provident fund, set up and notified by the Central Government, in the name of,--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-e-i",
+                  "text": "in the case of an individual, such individual, spouse of the individual and any child of the individual;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-e-ii",
+                  "text": "in the case of a Hindu undivided family, any member thereof;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "schedule-XV-1-f",
+              "text": "contribution by an employee to a recognised provident fund;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "schedule-XV-1-g",
+              "text": "contribution by an employee to an approved superannuation fund;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "schedule-XV-1-h",
+              "text": "subscription to any security or deposit scheme notified by the Central Government in the name of an individual or any girl child of that individual, or any girl child for whom such person is the legal guardian, if the scheme so specifies;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-XV-1-i",
+              "text": "subscription to savings certificate as mentioned in section 3(k) of the Government Savings Banks Act, 1873 (5 of 1873), as may be notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "schedule-XV-1-j",
+              "text_before_sub_clauses": "contribution for participation in Unit-linked Insurance Plan, 1971 specified in Schedule II of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002),--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-j-i",
+                  "text": "in the case of an individual, in the name of such individual, spouse of the individual and any child of the individual;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-j-ii",
+                  "text": "in the case of a Hindu undivided family, in the name of any member thereof;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "k",
+              "id": "schedule-XV-1-k",
+              "text_before_sub_clauses": "contribution for participation in unit-linked insurance plan of Life Insurance Corporation Mutual Fund, referred to in Schedule VII (Table: Sl. No. 20 or 21), as may be notified by the Central Government,--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-k-i",
+                  "text": "in the case of an individual, in the name of such individual, spouse of the individual and any child of the individual;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-k-ii",
+                  "text": "in the case of a Hindu undivided family, in the name of any member thereof;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "l",
+              "id": "schedule-XV-1-l",
+              "text": "sum paid to effect or to keep in force a contract for annuity plan of the Life Insurance Corporation or any other insurer notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "m",
+              "id": "schedule-XV-1-m",
+              "text": "subscription to any units of any Mutual Fund referred to in serial number 20 or 21 of the Table in Schedule VII or from the Administrator or the specified company under any plan formulated in accordance with such scheme notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "n",
+              "id": "schedule-XV-1-n",
+              "text_before_sub_clauses": "contribution by an individual to any pension fund set up by--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-n-i",
+                  "text": "any Mutual Fund referred to in Schedule VII (Table: Sl. No. 20 or 21); or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-n-ii",
+                  "text": "the Administrator; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-XV-1-n-iii",
+                  "text": "the specified company, as may be notified by the Central Government;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "o",
+              "id": "schedule-XV-1-o",
+              "text": "subscription to a deposit scheme or contribution to a pension fund, set up by the National Housing Bank established under section 3 of the National Housing Bank Act, 1987 (53 of 1987), as may be notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "p",
+              "id": "schedule-XV-1-p",
+              "text_before_sub_clauses": "subscription to any deposit schemes of--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-p-i",
+                  "text": "a public sector company engaged in providing long-term finance for construction or purchase of houses in India for residential purposes; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-p-ii",
+                  "text": "an authority constituted in India by any law, for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose of planning, development or improvement of cities, towns and villages, or for both, as may be notified by the Central Government;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "q",
+              "id": "schedule-XV-1-q",
+              "text": "tuition fees (excluding any development fees or donation or payment of similar nature) paid by an individual to any University, college, school or other educational institution situated in India (at the time of admission or thereafter), for full time education of any two children of such individual;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "r",
+              "id": "schedule-XV-1-r",
+              "text": "payment made for purchase or construction of a residential house property the income from which is chargeable to tax under the head \"Income from house property\" (or which would, if it had not been used for the own residence of the assessee, have been chargeable to tax under that head), subject to satisfaction of conditions laid down in paragraph 3;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "s",
+              "id": "schedule-XV-1-s",
+              "text": "term deposit for a fixed period of not less than five years with a scheduled bank, and which is as per such scheme framed and notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "t",
+              "id": "schedule-XV-1-t",
+              "text": "subscription to bonds issued by the National Bank for Agriculture and Rural Development, as may be notified by the Central Government;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "u",
+              "id": "schedule-XV-1-u",
+              "text": "deposit in an account under the Senior Citizen Savings Scheme Rules, 2004;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "v",
+              "id": "schedule-XV-1-v",
+              "text": "five years term deposit in an account under the Post Office Time Deposit Rules, 1981;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "w",
+              "id": "schedule-XV-1-w",
+              "text_before_sub_clauses": "contribution by an employee of the Central Government to an additional account referred to in section 20(3) of the Pension Fund Regulatory and Development Authority Act, 2013 (23 of 2013) of the pension scheme notified by the Central Government, as referred to in section 124--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "a",
+                  "id": "schedule-XV-1-w-a",
+                  "text": "for a fixed period of not less than three years; and",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "b",
+                  "id": "schedule-XV-1-w-b",
+                  "text": "which is as per the scheme as may be notified by the Central Government for the purposes of this clause;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "x",
+              "id": "schedule-XV-1-x",
+              "text": "contribution made from income chargeable to tax to effect or keep in force a contract for any annuity plan of Life Insurance Corporation of India or any other insurer for receiving pension from the fund referred to in Schedule VII (Table: Sl. No. 3);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "y",
+              "id": "schedule-XV-1-y",
+              "text_before_sub_clauses": "contribution made by an individual to a pension scheme notified by the Central Government, to the extent of--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-y-i",
+                  "text": "10% of salary, including dearness allowance, if the terms of employment so provide, but excluding all other allowances and perquisites, during the tax year in the case of an employee of the Central Government or any other employer; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-y-ii",
+                  "text": "20% of gross total income during the tax year in the case of any other individual;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "z",
+              "id": "schedule-XV-1-z",
+              "text_before_sub_clauses": "subscription to--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-1-z-i",
+                  "text": "equity shares or debentures forming part of any eligible issue of capital approved by the Board on an application made by a public company or as subscription to any eligible issue of capital by any public financial institution in the prescribed form;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-1-z-ii",
+                  "text": "any units of any mutual fund referred to in Schedule VII (Table: Sl. No. 20 or 21) and approved by the Board on an application made by such mutual fund in the prescribed form and if the amount of subscription to such units is subscribed only in the eligible issue of capital of any company.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "2",
+          "id": "schedule-XV-2",
+          "title": "Payment on insurance policy.",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_subparagraphs": "",
+          "subparagraphs": [
+            {
+              "type": "subparagraph",
+              "number": "1",
+              "id": "schedule-XV-2-1",
+              "text_before_clauses": "The deductions shall apply only to so much of any premium or other payment made on an insurance policy, other than a contract for a deferred annuity,--",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XV-2-1-a",
+                  "text": "as is up to 20% of the actual capital sum assured, in respect of a policy issued on or before the 31st March, 2012;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XV-2-1-b",
+                  "text": "as is up to 10% of the actual capital sum assured, in respect of a policy issued on or after the 1st April, 2012;",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "c",
+                  "id": "schedule-XV-2-1-c",
+                  "text_before_sub_clauses": "as is up to 15% of the actual capital sum assured, if the policy is issued on or after the 1st April, 2013 and where such policy covers the life of,--",
+                  "sub_clauses": [
+                    {
+                      "type": "sub_clause",
+                      "number": "i",
+                      "id": "schedule-XV-2-1-c-i",
+                      "text": "a person with a disability or severe disability as referred to in section 154; or",
+                      "children": []
+                    },
+                    {
+                      "type": "sub_clause",
+                      "number": "ii",
+                      "id": "schedule-XV-2-1-c-ii",
+                      "text": "a person suffering from a disease or ailment specified in the rules made under section 128.",
+                      "children": []
+                    }
+                  ],
+                  "text_after_sub_clauses": ""
+                }
+              ],
+              "text_after_clauses": ""
+            },
+            {
+              "type": "subparagraph",
+              "number": "2",
+              "id": "schedule-XV-2-2",
+              "text_before_clauses": "In this paragraph, \"actual capital sum assured\" shall mean the minimum amount assured under the policy on happening of the insured event at any time during the term of the policy, not taking into account--",
+              "clauses": [
+                {
+                  "type": "clause",
+                  "number": "a",
+                  "id": "schedule-XV-2-2-a",
+                  "text": "the value of any premiums agreed to be returned; or",
+                  "children": []
+                },
+                {
+                  "type": "clause",
+                  "number": "b",
+                  "id": "schedule-XV-2-2-b",
+                  "text": "any benefit by way of bonus or otherwise over and above the sum actually assured, which is to be or may be received under the policy by any person.",
+                  "children": []
+                }
+              ],
+              "text_after_clauses": ""
+            }
+          ],
+          "text_after_subparagraphs": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "3",
+          "id": "schedule-XV-3",
+          "title": "Payments made for purchase or construction of residential house property.",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_clauses": "The deduction in respect of amount spent for purchase or construction of a residential house property as provided in paragraph 1(r) shall--",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-XV-3-a",
+              "text_before_sub_clauses": "include payments that are made towards or by way of--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-3-a-i",
+                  "text": "any instalment or part payment of the amount due under any self-financing or other scheme of any development authority, housing board or other authority engaged in the construction and sale of house property on ownership basis; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-3-a-ii",
+                  "text": "any instalment or part payment of the amount due to any company or co-operative society of which the assessee is a shareholder or member towards the cost of the house property allotted to him; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-XV-3-a-iii",
+                  "text_before_items": "repayment of the amount borrowed by the assessee from--",
+                  "items": [
+                    {
+                      "type": "item",
+                      "number": "A",
+                      "id": "schedule-XV-3-a-iii-A",
+                      "text": "the Central Government or any State Government; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "B",
+                      "id": "schedule-XV-3-a-iii-B",
+                      "text": "any bank, including a co-operative bank; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "C",
+                      "id": "schedule-XV-3-a-iii-C",
+                      "text": "the Life Insurance Corporation; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "D",
+                      "id": "schedule-XV-3-a-iii-D",
+                      "text": "the National Housing Bank; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "E",
+                      "id": "schedule-XV-3-a-iii-E",
+                      "text": "any public company formed and registered in India with the main object of carrying on the business of providing long-term finance for construction or purchase of houses in India for residential purposes which is eligible for deduction under section 32(e); or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "F",
+                      "id": "schedule-XV-3-a-iii-F",
+                      "text": "any company in which the public are substantially interested or any co-operative society, where such company or co-operative society is engaged in the business of financing the construction of houses; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "G",
+                      "id": "schedule-XV-3-a-iii-G",
+                      "text": "the employer where such employer is an authority or a board or a corporation or any other body established or constituted under a Central Act or State Act; or",
+                      "children": []
+                    },
+                    {
+                      "type": "item",
+                      "number": "H",
+                      "id": "schedule-XV-3-a-iii-H",
+                      "text": "the employer of the assessee where such employer is a public company or a public sector company or a University established by law or a college affiliated to such University or a local authority or a co-operative society; or",
+                      "children": []
+                    }
+                  ],
+                  "text_after_items": ""
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iv",
+                  "id": "schedule-XV-3-a-iv",
+                  "text": "stamp duty, registration fee and other expenses for the purpose of transfer of such house property to the assessee;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-XV-3-b",
+              "text_before_sub_clauses": "not include any payment towards or by way of--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-3-b-i",
+                  "text": "the admission fee, cost of share and initial deposit which a shareholder of a company or a member of a co-operative society has to pay for becoming such shareholder or member; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-3-b-ii",
+                  "text": "the cost of any addition or alteration to, or renovation or repair of, the house property, which is carried out after the issue of the completion certificate in respect of the house property by the authority competent to issue it, or after the house property or any part thereof has either been occupied by the assessee or any other person on his behalf, or been let out; or",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "iii",
+                  "id": "schedule-XV-3-b-iii",
+                  "text": "any expenditure in respect of which deduction is allowable under section 22.",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            }
+          ],
+          "text_after_clauses": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "4",
+          "id": "schedule-XV-4",
+          "title": "Disallowance of and taxation of deduction already allowed.",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_table": "The deductions in the nature of payments specified in column B of the Table below shall not be allowable in the tax year in which the conditions specified in column C of the said Table are fulfilled, and the aggregate amount of the deductions allowed thus far in the preceding tax year or tax years shall be deemed to be the income of the assessee and liable to tax in such tax year:",
+          "table": {
+            "type": "table",
+            "id": "schedule-XV-4-table",
+            "caption": "TABLE",
+            "columns": [
+              "Sl. No.",
+              "Nature of payment",
+              "Conditions for disallowance of the deduction in respect of payment provided in column B"
+            ],
+            "column_labels": [
+              "A",
+              "B",
+              "C"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "id": "schedule-XV-4-t1",
+                "nature_of_payment": {
+                  "text": "Premium paid for a life insurance policy."
+                },
+                "conditions_for_disallowance": {
+                  "intro": "Where the assessee terminates his contract of insurance, by notice to that effect or where the contract ceases to be in force by reason of failure to pay any premium, by not reviving contract of insurance,--",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-4-t1-cond-a",
+                      "text": "in case of any single premium policy, within two years after the date of commencement of insurance; or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-4-t1-cond-b",
+                      "text": "in any other case, before premiums have been paid for two years."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "2",
+                "id": "schedule-XV-4-t2",
+                "nature_of_payment": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-4-t2-payment-a",
+                      "text": "Contribution for participation in the Unit-Linked Insurance Plan, 1971;"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-4-t2-payment-b",
+                      "text": "contribution for participation in the unit-linked insurance plan of Life Insurance Corporation Mutual Fund."
+                    }
+                  ]
+                },
+                "conditions_for_disallowance": {
+                  "text": "Where the assessee terminates his participation in such plan, by notice to that effect or where he ceases to participate by reason of failure to pay any contribution, by not reviving his participation, before contributions in respect of such participation have been paid for five years."
+                }
+              },
+              {
+                "sl_no": "3",
+                "id": "schedule-XV-4-t3",
+                "nature_of_payment": {
+                  "text": "Certain payments made for purchase or construction of residential house property."
+                },
+                "conditions_for_disallowance": {
+                  "intro": "Where the assessee--",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-4-t3-cond-a",
+                      "text": "transfers the house property before the expiry of five years from the end of the tax year in which possession of such property is obtained by him; or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-4-t3-cond-b",
+                      "text": "receives back, whether by way of refund or otherwise, any sum specified in that clause."
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "4",
+                "id": "schedule-XV-4-t4",
+                "nature_of_payment": {
+                  "text": "Certain payments for subscription to any equity shares or debentures forming part of any eligible issue of capital by a public company or by any public financial institution and approved by Board."
+                },
+                "conditions_for_disallowance": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-4-t4-cond-a",
+                      "text": "Where the assessee sells or otherwise transfers to any person at any time within a period of three years from the date of their acquisition; and"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-4-t4-cond-b",
+                      "text": "such shares or debentures shall be treated as having acquired by the person on the date on which his name is entered in relation to those shares or debentures in the register of members or of debenture-holders, as the case may be, of the public company."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "text_after_table": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "5",
+          "id": "schedule-XV-5",
+          "title": "Taxation of receipts where deduction already allowed",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_table": "Where deductions in the nature of payments specified in column B of the Table below have been allowed, and the conditions specified in column C of the said Table are fulfilled in any tax year, the amounts received shall be taxed in such tax year in the manner as provided in column D of the said Table:",
+          "table": {
+            "type": "table",
+            "id": "schedule-XV-5-table",
+            "caption": "TABLE",
+            "columns": [
+              "Sl. No.",
+              "Nature of payment",
+              "Condition for taxation",
+              "Manner and amount of taxation in the tax year in which condition in column C is fulfilled"
+            ],
+            "column_labels": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "rows": [
+              {
+                "sl_no": "1",
+                "id": "schedule-XV-5-t1",
+                "nature_of_payment": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-5-t1-payment-a",
+                      "text": "Deposit in an account under the Senior Citizen Savings Scheme Rules, 2004;"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-5-t1-payment-b",
+                      "text": "five year term deposit in an account under the Post Office Time Deposit Rules, 1981."
+                    }
+                  ]
+                },
+                "condition_for_taxation": {
+                  "text": "If any amount, including interest accrued, in respect of the account provided in column B, is withdrawn by the assessee, before the expiry of the period of five years from the date of its deposit."
+                },
+                "manner_and_amount_of_taxation": {
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-5-t1-tax-a",
+                      "text": "The amount so withdrawn shall be deemed to be the income of the assessee of the tax year in which the amount is withdrawn and shall be liable to tax in the said year;"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-5-t1-tax-b",
+                      "intro": "the amount liable to tax, as referred in clause (a), shall not include the following amounts:--",
+                      "items": [
+                        {
+                          "marker": "i",
+                          "id": "schedule-XV-5-t1-tax-b-i",
+                          "text": "any amount of interest, which has been included in the total income of the assessee of the tax year or years preceding such tax year; and"
+                        },
+                        {
+                          "marker": "ii",
+                          "id": "schedule-XV-5-t1-tax-b-ii",
+                          "text": "any amount received by the nominee or legal heir of the assessee, on the death of such assessee, other than interest, if any, accrued thereon, which was not included in the total income of the assessee for the tax year or years preceding such tax year."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "sl_no": "2",
+                "id": "schedule-XV-5-t2",
+                "nature_of_payment": {
+                  "text": "Contribution to effect or keep in force a contract for any annuity plan of Life Insurance Corporation of India or any other insurer for receiving pension from the fund referred to in Schedule VII (Table: Sl. No. 3)."
+                },
+                "condition_for_taxation": {
+                  "intro": "Where any amount standing to the credit of the assessee in the pension fund, in respect of which a deduction has been allowed, together with the interest or bonus accrued or credited to the assessee account, if any, is received by the assessee or his nominee,--",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-5-t2-cond-a",
+                      "text": "on account of the surrender of the annuity plan whether in whole or in part, in any tax year; or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-5-t2-cond-b",
+                      "text": "as pension received from the annuity plan."
+                    }
+                  ]
+                },
+                "manner_and_amount_of_taxation": {
+                  "text": "An amount equal to the whole of the amount referred to in column C (a) or (b) shall be deemed to be the income of the assessee or his nominee, in the tax year in which such withdrawal is made or pension is received, and shall be liable to tax in the said year."
+                }
+              },
+              {
+                "sl_no": "3",
+                "id": "schedule-XV-5-t3",
+                "nature_of_payment": {
+                  "text": "Contribution by an individual to a pension scheme notified by the Central Government."
+                },
+                "condition_for_taxation": {
+                  "intro": "Where any amount standing to the credit of the assessee in the pension scheme, in respect of which a deduction has been allowed, together with the amount accrued thereon, if any, is received by the assessee or his nominee, in whole or in part, in any tax year, and if such amount is not used for purchasing an annuity plan in the same year--",
+                  "items": [
+                    {
+                      "marker": "a",
+                      "id": "schedule-XV-5-t3-cond-a",
+                      "text": "on account of closure or his opting out of the pension scheme (except when received by the nominee on the death of the assessee); or"
+                    },
+                    {
+                      "marker": "b",
+                      "id": "schedule-XV-5-t3-cond-b",
+                      "text": "as pension received from the annuity plan purchased or taken on such closure or opting out."
+                    }
+                  ]
+                },
+                "manner_and_amount_of_taxation": {
+                  "text": "The whole of the amount referred to in column C (a) or (b) shall be deemed to be the income of the assessee or his nominee, in the tax year in which such amount is received, and shall be liable to tax in the said year."
+                }
+              }
+            ]
+          },
+          "text_after_table": ""
+        },
+        {
+          "type": "paragraph",
+          "number": "6",
+          "id": "schedule-XV-6",
+          "title": "Interpretation.",
+          "x": null,
+          "y_start": null,
+          "page_start": null,
+          "page_end": null,
+          "text_before_clauses": "For the purposes of this Schedule,--",
+          "clauses": [
+            {
+              "type": "clause",
+              "number": "a",
+              "id": "schedule-XV-6-a",
+              "text": "\"Administrator\" means the Administrator as referred to in section 2(a) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "b",
+              "id": "schedule-XV-6-b",
+              "text": "\"contribution\" to any fund shall not include any sums in repayment of loan;",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "c",
+              "id": "schedule-XV-6-c",
+              "text_before_sub_clauses": "\"insurance\" shall include,--",
+              "sub_clauses": [
+                {
+                  "type": "sub_clause",
+                  "number": "i",
+                  "id": "schedule-XV-6-c-i",
+                  "text": "a policy of insurance on the life of an individual or the spouse or the child of such individual or a member of a Hindu undivided family securing the payment of specified sum on the stipulated date of maturity, if such person is alive on such date irrespective that the policy of insurance provides only for the return of premiums paid (with or without any interest thereon) in the event of such person dying before the said stipulated date;",
+                  "children": []
+                },
+                {
+                  "type": "sub_clause",
+                  "number": "ii",
+                  "id": "schedule-XV-6-c-ii",
+                  "text": "a policy of insurance effected by an individual or a member of a Hindu undivided family for the benefit of a minor with the object of enabling the minor, after he has attained majority to secure insurance on his own life by adopting the policy and on his being alive on a date (after such adoption) specified in the policy in this behalf;",
+                  "children": []
+                }
+              ],
+              "text_after_sub_clauses": ""
+            },
+            {
+              "type": "clause",
+              "number": "d",
+              "id": "schedule-XV-6-d",
+              "text": "\"Life Insurance Corporation\" means the Life Insurance Corporation of India established under the Life Insurance Corporation Act, 1956 (31 of 1956);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "e",
+              "id": "schedule-XV-6-e",
+              "text": "\"public company\" shall have the same meaning as assigned to it in section 2(71) of the Companies Act, 2013 (18 of 2013);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "f",
+              "id": "schedule-XV-6-f",
+              "text": "\"security\" means a Government security as defined in section 2(f) of the Government Securities Act, 2006 (38 of 2006);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "g",
+              "id": "schedule-XV-6-g",
+              "text": "\"specified company\" means a company as referred to in section 2(h) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002 (58 of 2002);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "h",
+              "id": "schedule-XV-6-h",
+              "text": "\"transfer\" shall be deemed to include also the transactions referred to in section 269UA(f) of the Income-tax Act, 1961 (43 of 1961);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "i",
+              "id": "schedule-XV-6-i",
+              "text": "\"eligible issue of capital\" means an issue made by a public company formed and registered in India or a public financial institution and the entire proceeds of the issue are utilised wholly and exclusively for the purposes of any business referred to in section 80-IA(4) of the Income-tax Act, 1961 (43 of 1961);",
+              "children": []
+            },
+            {
+              "type": "clause",
+              "number": "j",
+              "id": "schedule-XV-6-j",
+              "text": "\"public financial institution\" shall have the same meaning as assigned to it in section 2(72) of the Companies Act, 2013 (18 of 2013).",
+              "children": []
+            }
+          ],
+          "text_after_clauses": ""
+        }
+      ],
+      "text_after_paragraphs": ""
+    }
+  ],
+  "sections": [],
+  "footnotes": [],
+  "orphans": []
+}

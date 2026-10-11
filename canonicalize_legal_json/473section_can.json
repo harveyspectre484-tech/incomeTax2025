@@ -1,18 +1,46 @@
 {
   "section_number": "473",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "473",
       "citation": "Section 473",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXII",
       "section_id": "473",
       "section_number": "473",
       "title": "^1^8[Contravention of order made during search action.]",
       "text": "­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
-      "retrieval_text": "Section 473 ^1^8[Contravention of order made during search action.] ­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 473 ^1^8[Contravention of order made during search action.] ­ Whoever contravenes any order referred to in section 247(4) shall be punishable with ^1^9[simple imprisonment up to two years and with fine].",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +51,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "473",
+      "to_id": "chapter-XXII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXII",
+      "to_id": "473",
+      "edge_type": "contains"
+    },
     {
       "from_id": "473",
       "to_id": "247-4",

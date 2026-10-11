@@ -125,25 +125,39 @@
                 "sl_no": "11",
                 "description_of_the_capital_asset": "Capital asset being a unit or units in the segregated portfolio.",
                 "cost_of_acquisition": {
-                  "text_before_items": "Computed as per the following formula:— X= ( A × B )/ C",
-                  "variables": [
-                    {
-                      "symbol": "X",
-                      "definition": "cost of acquisition of the unit or units in segregated portfolio"
-                    },
-                    {
-                      "symbol": "A",
-                      "definition": "cost of acquisition of unit or units in the total portfolio"
-                    },
-                    {
-                      "symbol": "B",
-                      "definition": "Net Asset Value of the asset transferred to the segregated portfolio"
-                    },
-                    {
-                      "symbol": "C",
-                      "definition": "Net Asset Value of the total portfolio immediately before segregation of portfolios"
-                    }
-                  ]
+                  "text_before_items": "Computed as per the following formula:—",
+                  "formula": "X = (A × B) / C",
+                  "where_block": {
+                    "type": "where_block",
+                    "id": "73-1-t11-cost-where",
+                    "text_before_items": "where,—",
+                    "items": [
+                      {
+                        "type": "variable",
+                        "number": "X",
+                        "id": "73-1-t11-cost_of_acquisition-where-X",
+                        "text": "X = cost of acquisition of the unit or units in segregated portfolio;"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "A",
+                        "id": "73-1-t11-cost_of_acquisition-where-A",
+                        "text": "A = cost of acquisition of unit or units in the total portfolio;"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "B",
+                        "id": "73-1-t11-cost_of_acquisition-where-B",
+                        "text": "B = Net Asset Value of the asset transferred to the segregated portfolio;"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "C",
+                        "id": "73-1-t11-cost_of_acquisition-where-C",
+                        "text": "C = Net Asset Value of the total portfolio immediately before segregation of portfolios."
+                      }
+                    ]
+                  }
                 }
               },
               {
@@ -160,25 +174,39 @@
                 "sl_no": "14",
                 "description_of_the_capital_asset": "Shares in the resulting company as a result of demerger.",
                 "cost_of_acquisition": {
-                  "text_before_items": "Computed as per the following formula:— X= (A × B )/ C",
-                  "variables": [
-                    {
-                      "symbol": "X",
-                      "definition": "cost of acquisition of shares in the resulting company"
-                    },
-                    {
-                      "symbol": "A",
-                      "definition": "cost of acquisition of shares in demerged company"
-                    },
-                    {
-                      "symbol": "B",
-                      "definition": "net book value of assets transferred in demerger"
-                    },
-                    {
-                      "symbol": "C",
-                      "definition": "net worth of demerged company immediately before demerger"
-                    }
-                  ]
+                  "text_before_items": "Computed as per the following formula:— X= (A * B )/ C",
+                  "formula": " X= (A * B )/ C",
+                  "where_block": {
+                    "type": "where_block",
+                    "id": "73-1-t14-cost_of_acquisition-where",
+                    "text_before_items": "where,—",
+                    "items": [
+                      {
+                        "type": "variable",
+                        "number": "X",
+                        "id": "73-1-t14-cost_of_acquisition-where-X",
+                        "text": "X = cost of acquisition of shares in the resulting company;"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "A",
+                        "id": "73-1-t14-cost_of_acquisition-where-A",
+                        "text": "A = cost of acquisition of shares in demerged company;"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "B",
+                        "id": "73-1-t14-cost_of_acquisition-where-B",
+                        "text": "B = net book value of assets transferred in demerger; and"
+                      },
+                      {
+                        "type": "variable",
+                        "number": "C",
+                        "id": "73-1-t14-cost_of_acquisition-where-C",
+                        "text": "C = net worth of demerged company immediately before demerger."
+                      }
+                    ]
+                  }
                 }
               },
               {

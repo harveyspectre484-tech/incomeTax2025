@@ -1,18 +1,68 @@
 {
   "section_number": "259",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "259",
       "citation": "Section 259",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-B",
       "section_id": "259",
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "",
-      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 259 Power to call for information by prescribed income-tax authority.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
-      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(1): For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 259 Power to call for information by prescribed income-tax authority. Section 259(1): For the purposes of verification of information in the possession of the prescribed income-tax authority, such authority may issue a notice requiring any person to furnish any information as may be useful for, or relevant to, any inquiry or proceeding under this Act in such form and manner and within such time, as specified in such notice.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
-      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(2): The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 259 Power to call for information by prescribed income-tax authority. Section 259(2): The prescribed income-tax authority may process and utilise such information and document received by him as per the scheme notified under section 260.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +133,17 @@
       "section_number": "259",
       "title": "Power to call for information by prescribed income-tax authority.",
       "text": "For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
-      "retrieval_text": "Section 259 Power to call for information by prescribed income-tax authority. Section 259(3): For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 259 Power to call for information by prescribed income-tax authority. Section 259(3): For the purposes of this section, the term \"proceeding\" shall have the meaning assigned to it in section 253.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +154,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "259",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "259",
+      "edge_type": "contains"
+    },
     {
       "from_id": "259-1",
       "to_id": "259",

@@ -1,18 +1,84 @@
 {
   "section_number": "409",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-C",
+      "citation": "Chapter XIX, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "C",
+      "title": "Advance payment of tax",
+      "text": "Advance payment of tax",
+      "retrieval_text": "Chapter XIX, Division C Advance payment of tax",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 403,
+          "end": 411
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "409",
       "citation": "Section 409",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-C",
       "section_id": "409",
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments.",
-      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
-      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(a): does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments. Section 409(a): does not pay on the date specified in section 408, any instalment of the advance tax that he is required to pay by an order of the Assessing Officer under section 407(1) and (4); or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
-      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(b): does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments. Section 409(b): does not send to the Assessing Officer an intimation under section 407(8) on or before the date on which any such instalment as is not paid becomes due; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "409",
       "title": "When assessee is deemed to be in default.",
       "text": "does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
-      "retrieval_text": "Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— Section 409(c): does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division C Advance payment of tax Section 409 When assessee is deemed to be in default. A person shall be deemed to be an assessee in default, if such person— in respect of such instalment or instalments. Section 409(c): does not pay on the basis of his estimate of his current income, the advance tax payable by him under section 407(9),",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-C",
+      "division_number": "C",
+      "division_title": "Advance payment of tax",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +170,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "409",
+      "to_id": "chapter-XIX-division-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-C",
+      "to_id": "409",
+      "edge_type": "contains"
+    },
     {
       "from_id": "409-a",
       "to_id": "409",

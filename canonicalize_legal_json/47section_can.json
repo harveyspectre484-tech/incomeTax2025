@@ -1,18 +1,84 @@
 {
   "section_number": "47",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-D",
+      "citation": "Chapter IV, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "D",
+      "title": "Profits and gains of business or profession",
+      "text": "Profits and gains of business or profession",
+      "retrieval_text": "Chapter IV, Division D Profits and gains of business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 26,
+          "end": 68
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "47",
       "citation": "Section 47",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-D",
       "section_id": "47",
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "",
-      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 47 Expenditure on agricultural extension project and skill development project.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it.",
-      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "agricultural extension project by any assessee; or",
-      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(a): agricultural extension project by any assessee; or",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(a): agricultural extension project by any assessee; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "any skill development project by a company,",
-      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(b): any skill development project by a company,",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 47 Expenditure on agricultural extension project and skill development project. Section 47(1): Any expenditure (excluding cost of any land or building) incurred, on— shall be allowed as a deduction, in the tax year in which such expenditure is incurred provided such project is notified by the Board as per the guidelines issued by it. Section 47(1)(b): any skill development project by a company,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +176,17 @@
       "section_number": "47",
       "title": "Expenditure on agricultural extension project and skill development project.",
       "text": "If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
-      "retrieval_text": "Section 47 Expenditure on agricultural extension project and skill development project. Section 47(2): If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 47 Expenditure on agricultural extension project and skill development project. Section 47(2): If a deduction under this section is claimed and allowed for any tax year in respect of any expenditure referred to in sub-section (1), deduction shall not be allowed for such expenditure under any other provision of this Act for the same or any other tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -99,6 +197,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "47",
+      "to_id": "chapter-IV-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-D",
+      "to_id": "47",
+      "edge_type": "contains"
+    },
     {
       "from_id": "47-1",
       "to_id": "47",

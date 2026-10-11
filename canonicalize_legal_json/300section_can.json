@@ -1,18 +1,68 @@
 {
   "section_number": "300",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVI",
+      "citation": "Chapter XVI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVI",
+      "title": "PROCEDURE FOR ASSESSMENT",
+      "text": "PROCEDURE FOR ASSESSMENT",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        },
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-B",
+      "citation": "Chapter XVI, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "B",
+      "title": "Special procedure for assessment of search cases",
+      "text": "Special procedure for assessment of search cases",
+      "retrieval_text": "Chapter XVI, Division B Special procedure for assessment of search cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "300",
       "citation": "Section 300",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVI-division-B",
       "section_id": "300",
       "section_number": "300",
       "title": "Application of other provisions of Act.",
       "text": "Save as otherwise provided in this part, all other provisions of this Act shall apply to assessment made under this part.",
-      "retrieval_text": "Section 300 Application of other provisions of Act. Save as otherwise provided in this part, all other provisions of this Act shall apply to assessment made under this part.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division B Special procedure for assessment of search cases Section 300 Application of other provisions of Act. Save as otherwise provided in this part, all other provisions of this Act shall apply to assessment made under this part.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-B",
+      "division_number": "B",
+      "division_title": "Special procedure for assessment of search cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +72,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "300",
+      "to_id": "chapter-XVI-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI-division-B",
+      "to_id": "300",
+      "edge_type": "contains"
+    }
+  ]
 }

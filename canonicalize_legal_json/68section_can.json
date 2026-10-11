@@ -1,18 +1,84 @@
 {
   "section_number": "68",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-D",
+      "citation": "Chapter IV, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "D",
+      "title": "Profits and gains of business or profession",
+      "text": "Profits and gains of business or profession",
+      "retrieval_text": "Chapter IV, Division D Profits and gains of business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 26,
+          "end": 68
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "68",
       "citation": "Section 68",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-D",
       "section_id": "68",
       "section_number": "68",
       "title": "Capital gains on distribution of assets by companies in liquidation.",
       "text": "",
-      "retrieval_text": "Section 68 Capital gains on distribution of assets by companies in liquidation.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 68 Capital gains on distribution of assets by companies in liquidation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "68",
       "title": "Capital gains on distribution of assets by companies in liquidation.",
       "text": "Irrespective of anything contained in section 67, where the assets of a company are distributed to its shareholders on its liquidation, such distribution shall not be regarded as a transfer by the company for the purposes of the said section.",
-      "retrieval_text": "Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(1): Irrespective of anything contained in section 67, where the assets of a company are distributed to its shareholders on its liquidation, such distribution shall not be regarded as a transfer by the company for the purposes of the said section.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(1): Irrespective of anything contained in section 67, where the assets of a company are distributed to its shareholders on its liquidation, such distribution shall not be regarded as a transfer by the company for the purposes of the said section.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "68",
       "title": "Capital gains on distribution of assets by companies in liquidation.",
       "text": "If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,—",
-      "retrieval_text": "Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,—",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "68",
       "title": "Capital gains on distribution of assets by companies in liquidation.",
       "text": "such shareholder shall be chargeable to income-tax under the head \"Capital gains\", in respect of the money so received or the market value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of section 2(40)(c); and",
-      "retrieval_text": "Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,— Section 68(2)(a): such shareholder shall be chargeable to income-tax under the head \"Capital gains\", in respect of the money so received or the market value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of section 2(40)(c); and",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,— Section 68(2)(a): such shareholder shall be chargeable to income-tax under the head \"Capital gains\", in respect of the money so received or the market value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of section 2(40)(c); and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +176,17 @@
       "section_number": "68",
       "title": "Capital gains on distribution of assets by companies in liquidation.",
       "text": "the sum so arrived at shall be deemed to be the full value of the consideration for the purposes of section 72.",
-      "retrieval_text": "Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,— Section 68(2)(b): the sum so arrived at shall be deemed to be the full value of the consideration for the purposes of section 72.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 68 Capital gains on distribution of assets by companies in liquidation. Section 68(2): If a shareholder, on the liquidation of a company, receives any money or other assets from the company, then,— Section 68(2)(b): the sum so arrived at shall be deemed to be the full value of the consideration for the purposes of section 72.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -99,6 +197,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "68",
+      "to_id": "chapter-IV-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-D",
+      "to_id": "68",
+      "edge_type": "contains"
+    },
     {
       "from_id": "68-1",
       "to_id": "68",

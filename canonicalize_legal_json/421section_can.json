@@ -1,18 +1,84 @@
 {
   "section_number": "421",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-D",
+      "citation": "Chapter XIX, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "D",
+      "title": "Collection and Recovery",
+      "text": "Collection and Recovery",
+      "retrieval_text": "Chapter XIX, Division D Collection and Recovery",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "421",
       "citation": "Section 421",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-D",
       "section_id": "421",
       "section_number": "421",
       "title": "Recovery by suit or under other law not affected.",
       "text": "The several modes of recovery specified in this Part shall not affect in any way:— and it shall be lawful for the Assessing Officer or the Government, as the case may be, to have recourse to any such law or suit, irrespective of the fact that the tax due is being recovered from the assessee by any mode specified in this Part of the Chapter.",
-      "retrieval_text": "Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— and it shall be lawful for the Assessing Officer or the Government, as the case may be, to have recourse to any such law or suit, irrespective of the fact that the tax due is being recovered from the assessee by any mode specified in this Part of the Chapter.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— and it shall be lawful for the Assessing Officer or the Government, as the case may be, to have recourse to any such law or suit, irrespective of the fact that the tax due is being recovered from the assessee by any mode specified in this Part of the Chapter.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "421",
       "title": "Recovery by suit or under other law not affected.",
       "text": "any other law for the time being in force relating to the recovery of debts due to Government; or",
-      "retrieval_text": "Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— Section 421(a): any other law for the time being in force relating to the recovery of debts due to Government; or",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— and it shall be lawful for the Assessing Officer or the Government, as the case may be, to have recourse to any such law or suit, irrespective of the fact that the tax due is being recovered from the assessee by any mode specified in this Part of the Chapter. Section 421(a): any other law for the time being in force relating to the recovery of debts due to Government; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "421",
       "title": "Recovery by suit or under other law not affected.",
       "text": "the right of the Government to institute a suit for the recovery of the arrears due from the assessee,",
-      "retrieval_text": "Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— Section 421(b): the right of the Government to institute a suit for the recovery of the arrears due from the assessee,",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 421 Recovery by suit or under other law not affected. The several modes of recovery specified in this Part shall not affect in any way:— and it shall be lawful for the Assessing Officer or the Government, as the case may be, to have recourse to any such law or suit, irrespective of the fact that the tax due is being recovered from the assessee by any mode specified in this Part of the Chapter. Section 421(b): the right of the Government to institute a suit for the recovery of the arrears due from the assessee,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +143,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "421",
+      "to_id": "chapter-XIX-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-D",
+      "to_id": "421",
+      "edge_type": "contains"
+    },
     {
       "from_id": "421-a",
       "to_id": "421",

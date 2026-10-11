@@ -1,18 +1,68 @@
 {
   "section_number": "12",
+  "hierarchy_path": [
+    {
+      "id": "chapter-III",
+      "citation": "Chapter III",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "III",
+      "title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "text": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        },
+        {
+          "start": 12,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "chapter-III-division-B",
+      "citation": "Chapter III, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-III",
+      "number": "B",
+      "title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "text": "Incomes not to be included in total income of political parties and electoral trusts",
+      "retrieval_text": "Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "12",
       "citation": "Section 12",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-III-division-B",
       "section_id": "12",
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "",
-      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts Section 12 Incomes not included in total income of political parties and electoral trusts.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-B",
+      "division_number": "B",
+      "division_title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
-      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(1): In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(1): In computing the total income of any political party or an electoral trust for a tax year under this Act, any income enumerated in Schedule VIII shall not be included, subject to fulfilment of conditions specified therein.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-B",
+      "division_number": "B",
+      "division_title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
-      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(2): Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(2): Wherever the conditions referred to in Schedule VIII are not satisfied in any tax year in respect of any income enumerated in the said Schedule, such income shall be charged to tax under this Act for that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-B",
+      "division_number": "B",
+      "division_title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +133,17 @@
       "section_number": "12",
       "title": "Incomes not included in total income of political parties and electoral trusts.",
       "text": "The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
-      "retrieval_text": "Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(3): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
+      "retrieval_text": "Chapter III INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME Chapter III, Division B Incomes not to be included in total income of political parties and electoral trusts Section 12 Incomes not included in total income of political parties and electoral trusts. Section 12(3): The Central Government may make rules or issue notifications for the purposes of this section as specified in Schedule VIII.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "III",
+      "chapter_id": "chapter-III",
+      "chapter_title": "INCOMES WHICH DO NOT FORM PART OF TOTAL INCOME",
+      "division_id": "chapter-III-division-B",
+      "division_number": "B",
+      "division_title": "Incomes not to be included in total income of political parties and electoral trusts",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +154,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "12",
+      "to_id": "chapter-III-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-III-division-B",
+      "to_id": "12",
+      "edge_type": "contains"
+    },
     {
       "from_id": "12-1",
       "to_id": "12",
@@ -112,21 +196,41 @@
     },
     {
       "from_id": "12-1",
-      "to_id": "schedule-8",
-      "edge_type": "references",
-      "reference_text": "Schedule VIII"
+      "to_id": "schedule-VIII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VIII",
+      "schedule_number_roman": "VIII",
+      "schedule_number": 8,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     },
     {
       "from_id": "12-2",
-      "to_id": "schedule-8",
-      "edge_type": "references",
-      "reference_text": "Schedule VIII"
+      "to_id": "schedule-VIII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VIII",
+      "schedule_number_roman": "VIII",
+      "schedule_number": 8,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
+    },
+    {
+      "from_id": "12-2",
+      "to_id": "schedule-VIII",
+      "edge_type": "references_schedule",
+      "reference_text": "said Schedule",
+      "reference_kind": "anaphoric_schedule",
+      "antecedent_reference_text": "Schedule VIII"
     },
     {
       "from_id": "12-3",
-      "to_id": "schedule-8",
-      "edge_type": "references",
-      "reference_text": "Schedule VIII"
+      "to_id": "schedule-VIII",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule VIII",
+      "schedule_number_roman": "VIII",
+      "schedule_number": 8,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     }
   ]
 }

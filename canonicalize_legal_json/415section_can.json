@@ -1,18 +1,84 @@
 {
   "section_number": "415",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-D",
+      "citation": "Chapter XIX, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "D",
+      "title": "Collection and Recovery",
+      "text": "Collection and Recovery",
+      "retrieval_text": "Chapter XIX, Division D Collection and Recovery",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "415",
       "citation": "Section 415",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-D",
       "section_id": "415",
       "section_number": "415",
       "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "text": "",
-      "retrieval_text": "Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "415",
       "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "text": "The Tax Recovery Officer may grant time for the payment of any tax and, till the expiry of such time, shall stay the recovery proceedings for such tax.",
-      "retrieval_text": "Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(1): The Tax Recovery Officer may grant time for the payment of any tax and, till the expiry of such time, shall stay the recovery proceedings for such tax.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(1): The Tax Recovery Officer may grant time for the payment of any tax and, till the expiry of such time, shall stay the recovery proceedings for such tax.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "415",
       "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "text": "Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall—",
-      "retrieval_text": "Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall—",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "415",
       "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "text": "if the order is the subject-matter of further proceeding under this Act, stay the recovery of such part of the amount specified in the certificate as pertains to the said reduction for the period for which the appeal or other proceeding remains pending; or",
-      "retrieval_text": "Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall— Section 415(2)(a): if the order is the subject-matter of further proceeding under this Act, stay the recovery of such part of the amount specified in the certificate as pertains to the said reduction for the period for which the appeal or other proceeding remains pending; or",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall— Section 415(2)(a): if the order is the subject-matter of further proceeding under this Act, stay the recovery of such part of the amount specified in the certificate as pertains to the said reduction for the period for which the appeal or other proceeding remains pending; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +176,17 @@
       "section_number": "415",
       "title": "Stay of proceedings in pursuance of certificate and amendment or cancellation thereof.",
       "text": "if the order which was the subject-matter of such appeal or other proceeding has become final and conclusive, amend the certificate, or cancel it.",
-      "retrieval_text": "Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall— Section 415(2)(b): if the order which was the subject-matter of such appeal or other proceeding has become final and conclusive, amend the certificate, or cancel it.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 415 Stay of proceedings in pursuance of certificate and amendment or cancellation thereof. Section 415(2): Where a certificate has been drawn up and subsequently, the amount of the outstanding demand is reduced as a result of the order giving rise to the said demand, being modified in an appeal or other proceeding under this Act, the Tax Recovery Officer shall— Section 415(2)(b): if the order which was the subject-matter of such appeal or other proceeding has become final and conclusive, amend the certificate, or cancel it.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -99,6 +197,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "415",
+      "to_id": "chapter-XIX-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-D",
+      "to_id": "415",
+      "edge_type": "contains"
+    },
     {
       "from_id": "415-1",
       "to_id": "415",

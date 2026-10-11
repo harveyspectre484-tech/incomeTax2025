@@ -1,18 +1,46 @@
 {
   "section_number": "531",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "531",
       "citation": "Section 531",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "531",
       "section_number": "531",
       "title": "Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961.",
       "text": "Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
-      "retrieval_text": "Section 531 Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961. Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 531 Power to rescind exemption in relation to certain Union territories already granted under section 294A of the Income-tax Act, 1961. Where the Central Government considers it necessary or expedient so to do may, by general or special order, rescind an exemption, reduction in rate or other modification in respect of income-tax or super-tax in favour of any assessee or class of assessees or in regard to the whole or any part of the income of any assessee or class of assessees, made as per the provisions of section 294A of the Income-tax Act, 1961 (43 of 1961).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -60,6 +88,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "531",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "531",
+      "edge_type": "contains"
+    },
     {
       "from_id": "531",
       "to_id": "ext-india-act-1961-43-section-294a",

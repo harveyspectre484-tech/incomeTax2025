@@ -1,18 +1,68 @@
 {
   "section_number": "237",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-A",
+      "citation": "Chapter XIV, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "A",
+      "title": "Authorities, jurisdiction and functions",
+      "text": "Authorities, jurisdiction and functions",
+      "retrieval_text": "Chapter XIV, Division A Authorities, jurisdiction and functions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "237",
       "citation": "Section 237",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-A",
       "section_id": "237",
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "",
-      "retrieval_text": "Section 237 Appointment of income-tax authorities.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division A Authorities, jurisdiction and functions Section 237 Appointment of income-tax authorities.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-A",
+      "division_number": "A",
+      "division_title": "Authorities, jurisdiction and functions",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
-      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(1): The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division A Authorities, jurisdiction and functions Section 237 Appointment of income-tax authorities. Section 237(1): The Central Government may appoint such persons as it thinks fit to be income-tax authorities.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-A",
+      "division_number": "A",
+      "division_title": "Authorities, jurisdiction and functions",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
-      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(2): The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division A Authorities, jurisdiction and functions Section 237 Appointment of income-tax authorities. Section 237(2): The Central Government may, subject to the rules and its orders regulating the conditions of service of persons in public services and posts, authorise the Board, or a Principal Director General or Director General, or a Principal Chief Commissioner or Chief Commissioner, or a Principal Director or Director, or a Principal Commissioner or Commissioner, to appoint income-tax authorities below the rank of a Deputy Commissioner or Assistant Commissioner.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-A",
+      "division_number": "A",
+      "division_title": "Authorities, jurisdiction and functions",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +133,17 @@
       "section_number": "237",
       "title": "Appointment of income-tax authorities.",
       "text": "Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
-      "retrieval_text": "Section 237 Appointment of income-tax authorities. Section 237(3): Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division A Authorities, jurisdiction and functions Section 237 Appointment of income-tax authorities. Section 237(3): Subject to the rules and orders of the Central Government regulating the conditions of service of persons in public services and posts, an income-tax authority authorised in this behalf by the Board, may appoint such executive or ministerial staff as may be necessary to assist it in the execution of its functions.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-A",
+      "division_number": "A",
+      "division_title": "Authorities, jurisdiction and functions",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +154,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "237",
+      "to_id": "chapter-XIV-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-A",
+      "to_id": "237",
+      "edge_type": "contains"
+    },
     {
       "from_id": "237-1",
       "to_id": "237",

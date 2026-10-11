@@ -1,0 +1,14 @@
+{
+  "stage": "4A_parent_selection",
+  "candidate_nodes_checked": 9554,
+  "root_nodes": {
+    "chapter": 23,
+    "schedule": 16
+  },
+  "recorded_parent_links": 9515,
+  "resolved_parent_edge_occurrences": 9515,
+  "resolved_contains_edge_occurrences": 9515,
+  "error_count": 0,
+  "warning_count": 0,
+  "issue_counts": {}
+}

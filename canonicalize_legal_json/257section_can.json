@@ -1,18 +1,68 @@
 {
   "section_number": "257",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "257",
       "citation": "Section 257",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-B",
       "section_id": "257",
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
       "text": "",
-      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 257 Proceedings before income-tax authorities to be judicial proceedings.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
       "text": "Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
-      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(1): Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(1): Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "257",
       "title": "Proceedings before income-tax authorities to be judicial proceedings.",
       "text": "Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
-      "retrieval_text": "Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(2): Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 257 Proceedings before income-tax authorities to be judicial proceedings. Section 257(2): Every income-tax authority shall be deemed to be a Civil Court for the purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023), but not for the purposes of Chapter XXVIII of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +127,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "257",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "257",
+      "edge_type": "contains"
+    },
     {
       "from_id": "257-1",
       "to_id": "257",

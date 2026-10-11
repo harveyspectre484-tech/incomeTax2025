@@ -1,18 +1,46 @@
 {
   "section_number": "475",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "475",
       "citation": "Section 475",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXII",
       "section_id": "475",
       "section_number": "475",
       "title": "Removal, concealment, transfer or delivery of property to prevent tax recovery.",
       "text": "Whoever, fraudulently removes, conceals, transfers or delivers to any person, any property or any interest therein, with the intent to prevent such",
-      "retrieval_text": "Section 475 Removal, concealment, transfer or delivery of property to prevent tax recovery. Whoever, fraudulently removes, conceals, transfers or delivers to any person, any property or any interest therein, with the intent to prevent such",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 475 Removal, concealment, transfer or delivery of property to prevent tax recovery. Whoever, fraudulently removes, conceals, transfers or delivers to any person, any property or any interest therein, with the intent to prevent such",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +50,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "475",
+      "to_id": "chapter-XXII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXII",
+      "to_id": "475",
+      "edge_type": "contains"
+    }
+  ]
 }

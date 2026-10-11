@@ -1,18 +1,226 @@
 {
   "section_number": "320",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-12",
+      "citation": "Chapter XVII, Division A, Subdivision 12",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "12",
+      "title": "Discontinuance of business, or dissolution",
+      "text": "Discontinuance of business, or dissolution",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 320,
+          "end": 322
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "320",
       "citation": "Section 320",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-12",
       "section_id": "320",
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "",
-      "retrieval_text": "Section 320 Discontinued business.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Irrespective of anything contained in section 4, where any business or profession is discontinued in any tax year, the income of the period beginning from the first day of that tax year up to the date of such discontinuance may, at the discretion of the Assessing Officer, be charged to tax in that tax year.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(1): Irrespective of anything contained in section 4, where any business or profession is discontinued in any tax year, the income of the period beginning from the first day of that tax year up to the date of such discontinuance may, at the discretion of the Assessing Officer, be charged to tax in that tax year.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(1): Irrespective of anything contained in section 4, where any business or profession is discontinued in any tax year, the income of the period beginning from the first day of that tax year up to the date of such discontinuance may, at the discretion of the Assessing Officer, be charged to tax in that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "The total income of each completed tax year or part of any tax year included in such period shall be chargeable to tax at the rate or rates in force in that tax year, and separate assessments shall be made in respect of each such completed tax year or part of any tax year.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(2): The total income of each completed tax year or part of any tax year included in such period shall be chargeable to tax at the rate or rates in force in that tax year, and separate assessments shall be made in respect of each such completed tax year or part of any tax year.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(2): The total income of each completed tax year or part of any tax year included in such period shall be chargeable to tax at the rate or rates in force in that tax year, and separate assessments shall be made in respect of each such completed tax year or part of any tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Any person discontinuing any business or profession shall give to the Assessing Officer notice of such discontinuance within fifteen days thereof.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(3): Any person discontinuing any business or profession shall give to the Assessing Officer notice of such discontinuance within fifteen days thereof.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(3): Any person discontinuing any business or profession shall give to the Assessing Officer notice of such discontinuance within fifteen days thereof.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Where any business is discontinued in any year, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the person who carried on the business had such sum been received before such discontinuance.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(4): Where any business is discontinued in any year, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the person who carried on the business had such sum been received before such discontinuance.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(4): Where any business is discontinued in any year, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the person who carried on the business had such sum been received before such discontinuance.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Where any profession is discontinued in any year on account of the cessation of the profession by, or the retirement or death of, the person carrying on the profession, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the said person, had it been received before such discontinuance.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(5): Where any profession is discontinued in any year on account of the cessation of the profession by, or the retirement or death of, the person carrying on the profession, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the said person, had it been received before such discontinuance.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(5): Where any profession is discontinued in any year on account of the cessation of the profession by, or the retirement or death of, the person carrying on the profession, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly in the year of receipt, if such sum would have been included in the total income of the said person, had it been received before such discontinuance.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Where an assessment is to be made under the provisions of this section, the Assessing Officer may serve on the person whose income is to be assessed or, in the case of a firm, on any person who was a partner of such firm at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under section 268(1) and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under section 268(1).",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(6): Where an assessment is to be made under the provisions of this section, the Assessing Officer may serve on the person whose income is to be assessed or, in the case of a firm, on any person who was a partner of such firm at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under section 268(1) and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under section 268(1).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(6): Where an assessment is to be made under the provisions of this section, the Assessing Officer may serve on the person whose income is to be assessed or, in the case of a firm, on any person who was a partner of such firm at the time of its discontinuance or, in the case of a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under section 268(1) and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under section 268(1).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "Irrespective of anything contained in section 268 or 280, where the provisions of sub-section (1) are applicable, the Assessing Officer may issue any notice under section 268 or 280, requiring the furnishing of the return by the person whose income is to be assessed in respect of any tax chargeable under any other provisions of this Act, within such period, not being less than seven days, as the Assessing Officer may think proper.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(7): Irrespective of anything contained in section 268 or 280, where the provisions of sub-section (1) are applicable, the Assessing Officer may issue any notice under section 268 or 280, requiring the furnishing of the return by the person whose income is to be assessed in respect of any tax chargeable under any other provisions of this Act, within such period, not being less than seven days, as the Assessing Officer may think proper.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(7): Irrespective of anything contained in section 268 or 280, where the provisions of sub-section (1) are applicable, the Assessing Officer may issue any notice under section 268 or 280, requiring the furnishing of the return by the person whose income is to be assessed in respect of any tax chargeable under any other provisions of this Act, within such period, not being less than seven days, as the Assessing Officer may think proper.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "320",
       "title": "Discontinued business.",
       "text": "The tax chargeable under this section shall be in addition to the tax, if any, chargeable under any other provision of this Act.",
-      "retrieval_text": "Section 320 Discontinued business. Section 320(8): The tax chargeable under this section shall be in addition to the tax, if any, chargeable under any other provision of this Act.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 12 Discontinuance of business, or dissolution Section 320 Discontinued business. Section 320(8): The tax chargeable under this section shall be in addition to the tax, if any, chargeable under any other provision of this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-12",
+      "subdivision_number": "12",
+      "subdivision_title": "Discontinuance of business, or dissolution",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -175,6 +447,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "320",
+      "to_id": "chapter-XVII-division-A-subdivision-12",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-12",
+      "to_id": "320",
+      "edge_type": "contains"
+    },
     {
       "from_id": "320-1",
       "to_id": "320",

@@ -1,18 +1,226 @@
 {
   "section_number": "302",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-1",
+      "citation": "Chapter XVII, Division A, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "1",
+      "title": "Legal representatives",
+      "text": "Legal representatives",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 1 Legal representatives",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "302",
       "citation": "Section 302",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-1",
       "section_id": "302",
       "section_number": "302",
       "title": "Legal representative.",
       "text": "",
-      "retrieval_text": "Section 302 Legal representative.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "Where a person dies, his legal representative shall be liable to pay any sum which the deceased would have been liable to pay if he had not died, in the like manner and to the same extent as the deceased.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(1): Where a person dies, his legal representative shall be liable to pay any sum which the deceased would have been liable to pay if he had not died, in the like manner and to the same extent as the deceased.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(1): Where a person dies, his legal representative shall be liable to pay any sum which the deceased would have been liable to pay if he had not died, in the like manner and to the same extent as the deceased.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), —",
-      "retrieval_text": "Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), —",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), —",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "any proceeding taken against the deceased before his death shall be deemed to have been taken against the legal representative and may be continued against the legal representative from the stage at which it stood on the date of the death of the deceased;",
-      "retrieval_text": "Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(a): any proceeding taken against the deceased before his death shall be deemed to have been taken against the legal representative and may be continued against the legal representative from the stage at which it stood on the date of the death of the deceased;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(a): any proceeding taken against the deceased before his death shall be deemed to have been taken against the legal representative and may be continued against the legal representative from the stage at which it stood on the date of the death of the deceased;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "any proceeding which could have been taken against the deceased if he had survived, may be taken against the legal representative; and",
-      "retrieval_text": "Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(b): any proceeding which could have been taken against the deceased if he had survived, may be taken against the legal representative; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(b): any proceeding which could have been taken against the deceased if he had survived, may be taken against the legal representative; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "all the provisions of this Act shall apply accordingly.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(c): all the provisions of this Act shall apply accordingly.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(2): For the purposes of making an assessment (including an assessment, reassessment or recomputation under section 279) of the income of the deceased and for the purpose of levying any sum in the hands of the legal representative as per the provisions of sub-section (1), — Section 302(2)(c): all the provisions of this Act shall apply accordingly.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "The legal representative of the deceased shall be deemed to be an assessee for the purposes of this Act.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(3): The legal representative of the deceased shall be deemed to be an assessee for the purposes of this Act.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(3): The legal representative of the deceased shall be deemed to be an assessee for the purposes of this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "Subject to the provisions of sub-sections (5), (6) and (7), the liability of a legal representative referred to in sub-section (1) shall be limited to the extent to which the estate of the deceased is capable of meeting the liability.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(4): Subject to the provisions of sub-sections (5), (6) and (7), the liability of a legal representative referred to in sub-section (1) shall be limited to the extent to which the estate of the deceased is capable of meeting the liability.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(4): Subject to the provisions of sub-sections (5), (6) and (7), the liability of a legal representative referred to in sub-section (1) shall be limited to the extent to which the estate of the deceased is capable of meeting the liability.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "Every legal representative shall be personally liable for any tax payable by him in his capacity as legal representative if, while such liability for tax remains undischarged, he creates a charge on or disposes of or parts with any assets of the estate of the deceased, which are in, or may come into, his possession.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(5): Every legal representative shall be personally liable for any tax payable by him in his capacity as legal representative if, while such liability for tax remains undischarged, he creates a charge on or disposes of or parts with any assets of the estate of the deceased, which are in, or may come into, his possession.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(5): Every legal representative shall be personally liable for any tax payable by him in his capacity as legal representative if, while such liability for tax remains undischarged, he creates a charge on or disposes of or parts with any assets of the estate of the deceased, which are in, or may come into, his possession.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "The liability of a legal representative referred to in sub-section (5) shall be limited to the value of the asset so charged, disposed of or parted with.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(6): The liability of a legal representative referred to in sub-section (5) shall be limited to the value of the asset so charged, disposed of or parted with.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(6): The liability of a legal representative referred to in sub-section (5) shall be limited to the value of the asset so charged, disposed of or parted with.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -200,9 +480,17 @@
       "section_number": "302",
       "title": "Legal representative.",
       "text": "The provisions of sections 304(2) and (5) and 305 shall, in so far as may be and to the extent to which they are not inconsistent with the provisions of this section, apply in relation to a legal representative.",
-      "retrieval_text": "Section 302 Legal representative. Section 302(7): The provisions of sections 304(2) and (5) and 305 shall, in so far as may be and to the extent to which they are not inconsistent with the provisions of this section, apply in relation to a legal representative.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 1 Legal representatives Section 302 Legal representative. Section 302(7): The provisions of sections 304(2) and (5) and 305 shall, in so far as may be and to the extent to which they are not inconsistent with the provisions of this section, apply in relation to a legal representative.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Legal representatives",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -213,6 +501,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "302",
+      "to_id": "chapter-XVII-division-A-subdivision-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-1",
+      "to_id": "302",
+      "edge_type": "contains"
+    },
     {
       "from_id": "302-1",
       "to_id": "302",

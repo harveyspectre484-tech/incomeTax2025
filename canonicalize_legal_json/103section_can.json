@@ -1,18 +1,46 @@
 {
   "section_number": "103",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VI",
+      "citation": "Chapter VI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VI",
+      "title": "AGGREGATION OF INCOME",
+      "text": "AGGREGATION OF INCOME",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 101,
+          "end": 107
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "103",
       "citation": "Section 103",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VI",
       "section_id": "103",
       "section_number": "103",
       "title": "Unexplained investment.",
       "text": "Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
-      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "103",
       "title": "Unexplained investment.",
       "text": "the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
-      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(a): the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year. Section 103(a): the assessee offers no explanation about the nature and source of such investment, or such excess amount, as the case may be; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "103",
       "title": "Unexplained investment.",
       "text": "the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
-      "retrieval_text": "Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— Section 103(b): the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 103 Unexplained investment. Where in any tax year, any investment has been made by the assessee which is not recorded in the books of account, if any, maintained by such assessee for any source of income, or, the Assessing Officer finds that the amount of such investment exceeds the amount recorded in such books of account and— then, the value of such investment, or such excess amount, as the case may be, shall be deemed to be the income of the assessee of that tax year. Section 103(b): the explanation offered about the nature and source of such investment by the assessee, is not satisfactory in the opinion of the Assessing Officer,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "103",
+      "to_id": "chapter-VI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VI",
+      "to_id": "103",
+      "edge_type": "contains"
+    },
     {
       "from_id": "103-a",
       "to_id": "103",

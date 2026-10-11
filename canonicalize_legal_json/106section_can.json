@@ -1,18 +1,46 @@
 {
   "section_number": "106",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VI",
+      "citation": "Chapter VI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VI",
+      "title": "AGGREGATION OF INCOME",
+      "text": "AGGREGATION OF INCOME",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 101,
+          "end": 107
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "106",
       "citation": "Section 106",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VI",
       "section_id": "106",
       "section_number": "106",
       "title": "Amount borrowed or repaid through negotiable instrument, hundi, etc.",
       "text": "",
-      "retrieval_text": "Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc.",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "106",
       "title": "Amount borrowed or repaid through negotiable instrument, hundi, etc.",
       "text": "Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
-      "retrieval_text": "Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc. Section 106(1): Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc. Section 106(1): Where any amount (including interest thereof) is borrowed or repaid through a negotiable instrument or on a hundi, otherwise than an account payee cheque, or through any mode as specified by the Board in this behalf, the amount so borrowed or repaid (including interest paid on the borrowed amount) shall be deemed to be the income of the person borrowing or repaying, as the case may be, for the tax year in which the amount was borrowed or repaid.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "106",
       "title": "Amount borrowed or repaid through negotiable instrument, hundi, etc.",
       "text": "Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
-      "retrieval_text": "Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc. Section 106(2): Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
+      "retrieval_text": "Chapter VI AGGREGATION OF INCOME Section 106 Amount borrowed or repaid through negotiable instrument, hundi, etc. Section 106(2): Where the amount borrowed under sub-section (1) has been deemed to be the income of any person, such person shall not be liable to be assessed again in respect of such amount under that sub-section on repayment of such amount.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VI",
+      "chapter_id": "chapter-VI",
+      "chapter_title": "AGGREGATION OF INCOME",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "106",
+      "to_id": "chapter-VI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VI",
+      "to_id": "106",
+      "edge_type": "contains"
+    },
     {
       "from_id": "106-1",
       "to_id": "106",

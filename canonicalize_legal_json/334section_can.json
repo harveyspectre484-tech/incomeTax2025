@@ -1,37 +1,186 @@
 {
-  "section_number": "",
-  "legal_units": [
+  "section_number": "334",
+  "hierarchy_path": [
     {
-      "id": "2",
-      "citation": "Section 2",
-      "unit_type": "section",
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
       "parent_id": null,
-      "section_id": "2",
-      "section_number": "2",
-      "title": "Income Tax Department",
-      "text": "—Income of registered non-profit organisation",
-      "retrieval_text": "Section 2 Income Tax Department —Income of registered non-profit organisation",
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
       "jurisdiction": "India",
-      "page_start": 1,
-      "page_end": 1,
-      "line_start": 4,
-      "x": null,
-      "y_start": null
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
     },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-2",
+      "citation": "Chapter XVII, Division B, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "2",
+      "title": "Income of registered non-profit organisation",
+      "text": "Income of registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    }
+  ],
+  "legal_units": [
     {
       "id": "334",
       "citation": "Section 334",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-2",
       "section_id": "334",
       "section_number": "334",
       "title": "Tax on income of registered non-profit organisation.",
       "text": "",
-      "retrieval_text": "Section 334 Tax on income of registered non-profit organisation.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 334 Tax on income of registered non-profit organisation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +197,17 @@
       "section_number": "334",
       "title": "Tax on income of registered non-profit organisation.",
       "text": "The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
-      "retrieval_text": "Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated —",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +224,17 @@
       "section_number": "334",
       "title": "Tax on income of registered non-profit organisation.",
       "text": "at the rate of 30% on specified income for such tax year; and",
-      "retrieval_text": "Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated — Section 334(1)(a): at the rate of 30% on specified income for such tax year; and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated — Section 334(1)(a): at the rate of 30% on specified income for such tax year; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +251,17 @@
       "section_number": "334",
       "title": "Tax on income of registered non-profit organisation.",
       "text": "at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
-      "retrieval_text": "Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated — Section 334(1)(b): at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 334 Tax on income of registered non-profit organisation. Section 334(1): The income-tax payable by a registered non-profit organisation on its total income for any tax year shall be the aggregate of the amounts calculated — Section 334(1)(b): at the rate applicable on taxable regular income and any residual income for such tax year under other provisions of this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +278,17 @@
       "section_number": "334",
       "title": "Tax on income of registered non-profit organisation.",
       "text": "The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
-      "retrieval_text": "Section 334 Tax on income of registered non-profit organisation. Section 334(2): The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 334 Tax on income of registered non-profit organisation. Section 334(2): The provisions of this Chapter shall apply irrespective of anything to the contrary contained in any other provision of this Act other than sections 96 to 98.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -118,6 +299,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "334",
+      "to_id": "chapter-XVII-division-B-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-2",
+      "to_id": "334",
+      "edge_type": "contains"
+    },
     {
       "from_id": "334-1",
       "to_id": "334",
@@ -157,6 +348,39 @@
       "from_id": "334",
       "to_id": "334-2",
       "edge_type": "contains"
+    },
+    {
+      "from_id": "334-2",
+      "to_id": "96",
+      "edge_type": "references",
+      "reference_text": "sections 96 to 98",
+      "reference_kind": "range",
+      "range_start": "96",
+      "range_end": "98",
+      "range_member_count": 3,
+      "range_member_index": 1
+    },
+    {
+      "from_id": "334-2",
+      "to_id": "97",
+      "edge_type": "references",
+      "reference_text": "sections 96 to 98",
+      "reference_kind": "range",
+      "range_start": "96",
+      "range_end": "98",
+      "range_member_count": 3,
+      "range_member_index": 2
+    },
+    {
+      "from_id": "334-2",
+      "to_id": "98",
+      "edge_type": "references",
+      "reference_text": "sections 96 to 98",
+      "reference_kind": "range",
+      "range_start": "96",
+      "range_end": "98",
+      "range_member_count": 3,
+      "range_member_index": 3
     }
   ]
 }

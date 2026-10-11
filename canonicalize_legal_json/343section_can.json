@@ -1,18 +1,186 @@
 {
   "section_number": "343",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-2",
+      "citation": "Chapter XVII, Division B, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "2",
+      "title": "Income of registered non-profit organisation",
+      "text": "Income of registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "343",
       "citation": "Section 343",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-2",
       "section_id": "343",
       "section_number": "343",
       "title": "Deemed accumulated income.",
       "text": "",
-      "retrieval_text": "Section 343 Deemed accumulated income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 343 Deemed accumulated income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +197,17 @@
       "section_number": "343",
       "title": "Deemed accumulated income.",
       "text": "The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
-      "retrieval_text": "Section 343 Deemed accumulated income. Section 343(1): The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 343 Deemed accumulated income. Section 343(1): The regular income, as reduced by the application of income as per the provisions of section 341 and accumulated or set apart income under section 342, to the extent of 15% of regular income, shall be considered as deemed accumulated income and where such deemed accumulated income is invested or deposited, it shall be invested or deposited in any of the modes permitted under section 350.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +224,17 @@
       "section_number": "343",
       "title": "Deemed accumulated income.",
       "text": "The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
-      "retrieval_text": "Section 343 Deemed accumulated income. Section 343(2): The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 343 Deemed accumulated income. Section 343(2): The deemed accumulated income under this section shall not be considered as accumulated income for the purposes of section 342.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +245,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "343",
+      "to_id": "chapter-XVII-division-B-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-2",
+      "to_id": "343",
+      "edge_type": "contains"
+    },
     {
       "from_id": "343-1",
       "to_id": "343",

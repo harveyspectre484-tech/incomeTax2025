@@ -1,18 +1,46 @@
 {
   "section_number": "172",
+  "hierarchy_path": [
+    {
+      "id": "chapter-X",
+      "citation": "Chapter X",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "X",
+      "title": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "text": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "retrieval_text": "Chapter X SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 161,
+          "end": 177
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "172",
       "citation": "Section 172",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-X",
       "section_id": "172",
       "section_number": "172",
       "title": "Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction.",
       "text": "Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
-      "retrieval_text": "Section 172 Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction. Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
+      "retrieval_text": "Chapter X SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX Section 172 Report from an accountant to be furnished by persons entering into inter-national transaction or specified domestic transaction. Every person who has entered into an international transaction or specified domestic transaction during a tax year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the manner as may be prescribed by such accountant and setting forth such particulars as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "X",
+      "chapter_id": "chapter-X",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +50,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "172",
+      "to_id": "chapter-X",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-X",
+      "to_id": "172",
+      "edge_type": "contains"
+    }
+  ]
 }

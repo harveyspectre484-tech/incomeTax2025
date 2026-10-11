@@ -1,18 +1,118 @@
 {
   "section_number": "389",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D",
+      "citation": "Chapter XVIII, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "D",
+      "title": "Alternate Dispute Resolutions",
+      "text": "Alternate Dispute Resolutions",
+      "retrieval_text": "Chapter XVIII, Division D Alternate Dispute Resolutions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-D-subdivision-2",
+      "citation": "Chapter XVIII, Division D, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-D",
+      "number": "2",
+      "title": "Advance rulings",
+      "text": "Advance rulings",
+      "retrieval_text": "Chapter XVIII, Division D, Subdivision 2 Advance rulings",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "389",
       "citation": "Section 389",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-D-subdivision-2",
       "section_id": "389",
       "section_number": "389",
       "title": "Appeal.",
       "text": "",
-      "retrieval_text": "Section 389 Appeal.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 389 Appeal.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +129,17 @@
       "section_number": "389",
       "title": "Appeal.",
       "text": "The applicant, if aggrieved by any ruling pronounced or order passed by the Board for Advance Rulings or the Assessing Officer, on the directions of the Principal Commissioner or Commissioner, may appeal to the High Court against such ruling or order of the Board for Advance Rulings within sixty days from the date of the communication of that ruling or order, in such form and manner, as may be prescribed.",
-      "retrieval_text": "Section 389 Appeal. Section 389(1): The applicant, if aggrieved by any ruling pronounced or order passed by the Board for Advance Rulings or the Assessing Officer, on the directions of the Principal Commissioner or Commissioner, may appeal to the High Court against such ruling or order of the Board for Advance Rulings within sixty days from the date of the communication of that ruling or order, in such form and manner, as may be prescribed.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 389 Appeal. Section 389(1): The applicant, if aggrieved by any ruling pronounced or order passed by the Board for Advance Rulings or the Assessing Officer, on the directions of the Principal Commissioner or Commissioner, may appeal to the High Court against such ruling or order of the Board for Advance Rulings within sixty days from the date of the communication of that ruling or order, in such form and manner, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +156,17 @@
       "section_number": "389",
       "title": "Appeal.",
       "text": "Where the High Court is satisfied, on an application made by the appellant in this behalf, that the appellant was prevented by sufficient cause from presenting the appeal within the period specified in sub-section (1), it may grant further period of thirty days for filing such appeal.",
-      "retrieval_text": "Section 389 Appeal. Section 389(2): Where the High Court is satisfied, on an application made by the appellant in this behalf, that the appellant was prevented by sufficient cause from presenting the appeal within the period specified in sub-section (1), it may grant further period of thirty days for filing such appeal.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division D Alternate Dispute Resolutions Chapter XVIII, Division D, Subdivision 2 Advance rulings Section 389 Appeal. Section 389(2): Where the High Court is satisfied, on an application made by the appellant in this behalf, that the appellant was prevented by sufficient cause from presenting the appeal within the period specified in sub-section (1), it may grant further period of thirty days for filing such appeal.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-D",
+      "division_number": "D",
+      "division_title": "Alternate Dispute Resolutions",
+      "subdivision_id": "chapter-XVIII-division-D-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Advance rulings",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +177,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "389",
+      "to_id": "chapter-XVIII-division-D-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-D-subdivision-2",
+      "to_id": "389",
+      "edge_type": "contains"
+    },
     {
       "from_id": "389-1",
       "to_id": "389",

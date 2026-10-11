@@ -1,18 +1,130 @@
 {
   "section_number": "360",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-1",
+      "citation": "Chapter XVIII, Division A, Subdivision 1",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "1",
+      "title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "text": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "360",
       "citation": "Section 360",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-1",
       "section_id": "360",
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +141,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:—",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:—",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +168,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "in an appeal against an order of assessment, he may confirm, reduce, enhance or annul the assessment;",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(a): in an appeal against an order of assessment, he may confirm, reduce, enhance or annul the assessment;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(a): in an appeal against an order of assessment, he may confirm, reduce, enhance or annul the assessment;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +195,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "where such appeal is against an order of assessment made under section 271, the Commissioner (Appeals) may set aside the assessment and refer the case back to the Assessing Officer for making a fresh assessment;",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(b): where such appeal is against an order of assessment made under section 271, the Commissioner (Appeals) may set aside the assessment and refer the case back to the Assessing Officer for making a fresh assessment;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(b): where such appeal is against an order of assessment made under section 271, the Commissioner (Appeals) may set aside the assessment and refer the case back to the Assessing Officer for making a fresh assessment;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +222,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "in an appeal against the order of assessment for which the proceeding before the Settlement Commission abates under section 245HA of the Income- tax Act, 1961 (43 of 1961), the Commissioner (Appeals) may, after taking into consideration all the material and other information produced by the assessee before, or the results of the inquiry held or evidence recorded by, the Settlement Commission, in the course of the proceeding before it and such other material as may be brought on his record, confirm, reduce, enhance or annul the assessment;",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(c): in an appeal against the order of assessment for which the proceeding before the Settlement Commission abates under section 245HA of the Income- tax Act, 1961 (43 of 1961), the Commissioner (Appeals) may, after taking into consideration all the material and other information produced by the assessee before, or the results of the inquiry held or evidence recorded by, the Settlement Commission, in the course of the proceeding before it and such other material as may be brought on his record, confirm, reduce, enhance or annul the assessment;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(c): in an appeal against the order of assessment for which the proceeding before the Settlement Commission abates under section 245HA of the Income- tax Act, 1961 (43 of 1961), the Commissioner (Appeals) may, after taking into consideration all the material and other information produced by the assessee before, or the results of the inquiry held or evidence recorded by, the Settlement Commission, in the course of the proceeding before it and such other material as may be brought on his record, confirm, reduce, enhance or annul the assessment;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +249,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "in an appeal against an order imposing a penalty, he may confirm or cancel such order or vary it so as either to enhance or to reduce the penalty;",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(d): in an appeal against an order imposing a penalty, he may confirm or cancel such order or vary it so as either to enhance or to reduce the penalty;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(d): in an appeal against an order imposing a penalty, he may confirm or cancel such order or vary it so as either to enhance or to reduce the penalty;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +276,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "in any other case, he may pass such orders in the appeal as he thinks fit.",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(e): in any other case, he may pass such orders in the appeal as he thinks fit.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(1): In disposing of an appeal, the Commissioner (Appeals) or the Joint Commissioner (Appeals), shall have the following powers:— Section 360(1)(e): in any other case, he may pass such orders in the appeal as he thinks fit.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +303,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "The Joint Commissioner (Appeals) or the Commissioner (Appeals), shall not enhance an assessment or a penalty or reduce the amount of refund, unless the appellant has had a reasonable opportunity of showing cause against such enhancement or reduction.",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(2): The Joint Commissioner (Appeals) or the Commissioner (Appeals), shall not enhance an assessment or a penalty or reduce the amount of refund, unless the appellant has had a reasonable opportunity of showing cause against such enhancement or reduction.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(2): The Joint Commissioner (Appeals) or the Commissioner (Appeals), shall not enhance an assessment or a penalty or reduce the amount of refund, unless the appellant has had a reasonable opportunity of showing cause against such enhancement or reduction.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +330,17 @@
       "section_number": "360",
       "title": "Powers of Joint Commissioner (Appeals) or Commissioner (Appeals).",
       "text": "The Joint Commissioner (Appeals) or the Commissioner (Appeals), may consider and decide any matter arising out of the proceedings in which the order appealed against was passed, irrespective of the fact that such matter was not raised before him by the appellant.",
-      "retrieval_text": "Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(3): The Joint Commissioner (Appeals) or the Commissioner (Appeals), may consider and decide any matter arising out of the proceedings in which the order appealed against was passed, irrespective of the fact that such matter was not raised before him by the appellant.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 1 Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals) Section 360 Powers of Joint Commissioner (Appeals) or Commissioner (Appeals). Section 360(3): The Joint Commissioner (Appeals) or the Commissioner (Appeals), may consider and decide any matter arising out of the proceedings in which the order appealed against was passed, irrespective of the fact that such matter was not raised before him by the appellant.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-1",
+      "subdivision_number": "1",
+      "subdivision_title": "Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -212,6 +388,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "360",
+      "to_id": "chapter-XVIII-division-A-subdivision-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-1",
+      "to_id": "360",
+      "edge_type": "contains"
+    },
     {
       "from_id": "360-1",
       "to_id": "360",

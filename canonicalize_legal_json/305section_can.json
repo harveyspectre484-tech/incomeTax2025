@@ -1,18 +1,226 @@
 {
   "section_number": "305",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-2",
+      "citation": "Chapter XVII, Division A, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "2",
+      "title": "Representative assessees—General provisions",
+      "text": "Representative assessees—General provisions",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 303,
+          "end": 305
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "305",
       "citation": "Section 305",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-2",
       "section_id": "305",
       "section_number": "305",
       "title": "Right of representative assessee to recover tax paid.",
       "text": "",
-      "retrieval_text": "Section 305 Right of representative assessee to recover tax paid.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 305 Right of representative assessee to recover tax paid.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "305",
       "title": "Right of representative assessee to recover tax paid.",
       "text": "Every representative assessee who, as such, pays any sum under this Act, shall be entitled to recover the sum so paid from the person on whose behalf it is paid, or to retain out of any moneys that may be in his possession or may come to him in his representative capacity, an amount equal to the sum so paid.",
-      "retrieval_text": "Section 305 Right of representative assessee to recover tax paid. Section 305(1): Every representative assessee who, as such, pays any sum under this Act, shall be entitled to recover the sum so paid from the person on whose behalf it is paid, or to retain out of any moneys that may be in his possession or may come to him in his representative capacity, an amount equal to the sum so paid.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 305 Right of representative assessee to recover tax paid. Section 305(1): Every representative assessee who, as such, pays any sum under this Act, shall be entitled to recover the sum so paid from the person on whose behalf it is paid, or to retain out of any moneys that may be in his possession or may come to him in his representative capacity, an amount equal to the sum so paid.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "305",
       "title": "Right of representative assessee to recover tax paid.",
       "text": "Any representative assessee, or any person who apprehends that he may be assessed as a representative assessee, may retain out of any money payable by him to the person on whose behalf he is liable to pay tax (hereinafter in this section 306 referred to as the principal), a sum equal to his estimated liability under this Chapter.",
-      "retrieval_text": "Section 305 Right of representative assessee to recover tax paid. Section 305(2): Any representative assessee, or any person who apprehends that he may be assessed as a representative assessee, may retain out of any money payable by him to the person on whose behalf he is liable to pay tax (hereinafter in this section 306 referred to as the principal), a sum equal to his estimated liability under this Chapter.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 305 Right of representative assessee to recover tax paid. Section 305(2): Any representative assessee, or any person who apprehends that he may be assessed as a representative assessee, may retain out of any money payable by him to the person on whose behalf he is liable to pay tax (hereinafter in this section 306 referred to as the principal), a sum equal to his estimated liability under this Chapter.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "305",
       "title": "Right of representative assessee to recover tax paid.",
       "text": "In the event of any disagreement between such principal and such representative assessee or person with regard to the amount to be so retained as referred to in sub-section (2), such representative assessee or person may secure from the Assessing Officer a certificate stating the amount to be so retained pending final settlement of the liability, and the certificate so obtained shall be his warrant for retaining that amount.",
-      "retrieval_text": "Section 305 Right of representative assessee to recover tax paid. Section 305(3): In the event of any disagreement between such principal and such representative assessee or person with regard to the amount to be so retained as referred to in sub-section (2), such representative assessee or person may secure from the Assessing Officer a certificate stating the amount to be so retained pending final settlement of the liability, and the certificate so obtained shall be his warrant for retaining that amount.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 305 Right of representative assessee to recover tax paid. Section 305(3): In the event of any disagreement between such principal and such representative assessee or person with regard to the amount to be so retained as referred to in sub-section (2), such representative assessee or person may secure from the Assessing Officer a certificate stating the amount to be so retained pending final settlement of the liability, and the certificate so obtained shall be his warrant for retaining that amount.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "305",
       "title": "Right of representative assessee to recover tax paid.",
       "text": "The amount recoverable from such representative assessee or person at the time of final settlement shall not exceed the amount specified in such certificate, except to the extent to which such representative assessee or person may at such time have in his hands additional assets of the principal.",
-      "retrieval_text": "Section 305 Right of representative assessee to recover tax paid. Section 305(4): The amount recoverable from such representative assessee or person at the time of final settlement shall not exceed the amount specified in such certificate, except to the extent to which such representative assessee or person may at such time have in his hands additional assets of the principal.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 2 Representative assessees—General provisions Section 305 Right of representative assessee to recover tax paid. Section 305(4): The amount recoverable from such representative assessee or person at the time of final settlement shall not exceed the amount specified in such certificate, except to the extent to which such representative assessee or person may at such time have in his hands additional assets of the principal.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Representative assessees—General provisions",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -99,6 +339,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "305",
+      "to_id": "chapter-XVII-division-A-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-2",
+      "to_id": "305",
+      "edge_type": "contains"
+    },
     {
       "from_id": "305-1",
       "to_id": "305",

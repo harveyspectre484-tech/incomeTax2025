@@ -1,18 +1,130 @@
 {
   "section_number": "370",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-5",
+      "citation": "Chapter XVIII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "5",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 5 General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "370",
       "citation": "Section 370",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-5",
       "section_id": "370",
       "section_number": "370",
       "title": "Execution for costs awarded by Supreme Court.",
       "text": "The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
-      "retrieval_text": "Section 370 Execution for costs awarded by Supreme Court. The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 370 Execution for costs awarded by Supreme Court. The High Court may, on petition made for the execution of the order of the Supreme Court in respect of any costs awarded thereby, transmit the order for execution to any court subordinate to the High Court.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +134,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "370",
+      "to_id": "chapter-XVIII-division-A-subdivision-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-5",
+      "to_id": "370",
+      "edge_type": "contains"
+    }
+  ]
 }

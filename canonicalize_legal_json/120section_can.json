@@ -1,18 +1,46 @@
 {
   "section_number": "120",
+  "hierarchy_path": [
+    {
+      "id": "chapter-VII",
+      "citation": "Chapter VII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "VII",
+      "title": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "text": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "retrieval_text": "Chapter VII SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 108,
+          "end": 121
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "120",
       "citation": "Section 120",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-VII",
       "section_id": "120",
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "text": "",
-      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey.",
+      "retrieval_text": "Chapter VII SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VII",
+      "chapter_id": "chapter-VII",
+      "chapter_title": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "text": "Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
-      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(1): Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
+      "retrieval_text": "Chapter VII SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(1): Irrespective of anything contained in any other provision of this Act, any loss, whether brought forward or otherwise or unabsorbed depreciation, shall not be allowed to be set off against any undisclosed income which is included in the total income of any tax year, consequent to a search conducted under section 247 or a requisition under section 248 or a survey conducted under section 253, not being a survey under section 253(4).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VII",
+      "chapter_id": "chapter-VII",
+      "chapter_title": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "120",
       "title": "No set off of losses against undisclosed income consequent to search, requisition and survey.",
       "text": "For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
-      "retrieval_text": "Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(2): For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
+      "retrieval_text": "Chapter VII SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES Section 120 No set off of losses against undisclosed income consequent to search, requisition and survey. Section 120(2): For the purposes of this section, the expression \"undisclosed income\" for any tax year shall have the meaning as referred to in section 301.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "VII",
+      "chapter_id": "chapter-VII",
+      "chapter_title": "SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "120",
+      "to_id": "chapter-VII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-VII",
+      "to_id": "120",
+      "edge_type": "contains"
+    },
     {
       "from_id": "120-1",
       "to_id": "120",

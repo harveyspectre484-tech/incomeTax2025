@@ -1,18 +1,46 @@
 {
   "section_number": "517",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "517",
       "citation": "Section 517",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "517",
       "section_number": "517",
       "title": "Receipt to be given.",
       "text": "A receipt shall be given for any money paid or recovered under this Act.",
-      "retrieval_text": "Section 517 Receipt to be given. A receipt shall be given for any money paid or recovered under this Act.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 517 Receipt to be given. A receipt shall be given for any money paid or recovered under this Act.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +50,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "517",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "517",
+      "edge_type": "contains"
+    }
+  ]
 }

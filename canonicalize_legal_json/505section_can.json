@@ -1,18 +1,46 @@
 {
   "section_number": "505",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "505",
       "citation": "Section 505",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "505",
       "section_number": "505",
       "title": "Submission of statement by a non-resident having liaison office.",
       "text": "Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
-      "retrieval_text": "Section 505 Submission of statement by a non-resident having liaison office. Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 505 Submission of statement by a non-resident having liaison office. Every person, being a non-resident, having a liaison office in India set up as per the guidelines issued by the Reserve Bank of India under the Foreign Exchange Management Act, 1999 (42 of 1999), shall, in respect of its activities in a tax year, prepare and deliver to the Assessing Officer having jurisdiction, a statement, in such form and containing such particulars within such period, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -40,6 +68,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "505",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "505",
+      "edge_type": "contains"
+    },
     {
       "from_id": "505",
       "to_id": "ext-india-act-1999-42",

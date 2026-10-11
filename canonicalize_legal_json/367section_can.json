@@ -1,18 +1,130 @@
 {
   "section_number": "367",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-4",
+      "citation": "Chapter XVIII, Division A, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "4",
+      "title": "Appeals to Supreme Court",
+      "text": "Appeals to Supreme Court",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 4 Appeals to Supreme Court",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 367,
+          "end": 368
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "367",
       "citation": "Section 367",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-4",
       "section_id": "367",
       "section_number": "367",
       "title": "Appeal to Supreme Court.",
       "text": "An appeal shall lie to the Supreme Court from any judgment of the High Court delivered on an appeal made to High Court in respect of an order passed under section 363 in any case which the High Court certifies to be fit for appeal to the Supreme Court.",
-      "retrieval_text": "Section 367 Appeal to Supreme Court. An appeal shall lie to the Supreme Court from any judgment of the High Court delivered on an appeal made to High Court in respect of an order passed under section 363 in any case which the High Court certifies to be fit for appeal to the Supreme Court.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 4 Appeals to Supreme Court Section 367 Appeal to Supreme Court. An appeal shall lie to the Supreme Court from any judgment of the High Court delivered on an appeal made to High Court in respect of an order passed under section 363 in any case which the High Court certifies to be fit for appeal to the Supreme Court.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Appeals to Supreme Court",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +135,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "367",
+      "to_id": "chapter-XVIII-division-A-subdivision-4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-4",
+      "to_id": "367",
+      "edge_type": "contains"
+    },
     {
       "from_id": "367",
       "to_id": "363",

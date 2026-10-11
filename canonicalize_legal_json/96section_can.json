@@ -1,18 +1,46 @@
 {
   "section_number": "96",
+  "hierarchy_path": [
+    {
+      "id": "chapter-V",
+      "citation": "Chapter V",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "V",
+      "title": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "text": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "retrieval_text": "Chapter V INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 96,
+          "end": 100
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "96",
       "citation": "Section 96",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-V",
       "section_id": "96",
       "section_number": "96",
       "title": "Transfer of income without transfer of assets.",
       "text": "All income arising to any person by virtue of a transfer,— shall be chargeable to income-tax as the income of the transferor and shall be included in his total income.",
-      "retrieval_text": "Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— shall be chargeable to income-tax as the income of the transferor and shall be included in his total income.",
+      "retrieval_text": "Chapter V INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— shall be chargeable to income-tax as the income of the transferor and shall be included in his total income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "V",
+      "chapter_id": "chapter-V",
+      "chapter_title": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "96",
       "title": "Transfer of income without transfer of assets.",
       "text": "whether revocable or not, and whether effected before or after the commencement of this Act; and",
-      "retrieval_text": "Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— Section 96(a): whether revocable or not, and whether effected before or after the commencement of this Act; and",
+      "retrieval_text": "Chapter V INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— shall be chargeable to income-tax as the income of the transferor and shall be included in his total income. Section 96(a): whether revocable or not, and whether effected before or after the commencement of this Act; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "V",
+      "chapter_id": "chapter-V",
+      "chapter_title": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "96",
       "title": "Transfer of income without transfer of assets.",
       "text": "where there is no transfer of assets from which such income arises,",
-      "retrieval_text": "Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— Section 96(b): where there is no transfer of assets from which such income arises,",
+      "retrieval_text": "Chapter V INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE Section 96 Transfer of income without transfer of assets. All income arising to any person by virtue of a transfer,— shall be chargeable to income-tax as the income of the transferor and shall be included in his total income. Section 96(b): where there is no transfer of assets from which such income arises,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "V",
+      "chapter_id": "chapter-V",
+      "chapter_title": "INCOME OF OTHER PERSONS INCLUDED IN TOTAL INCOME OF ASSESSEE",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "96",
+      "to_id": "chapter-V",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-V",
+      "to_id": "96",
+      "edge_type": "contains"
+    },
     {
       "from_id": "96-a",
       "to_id": "96",

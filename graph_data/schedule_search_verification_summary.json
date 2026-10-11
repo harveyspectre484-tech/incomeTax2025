@@ -1,0 +1,12 @@
+{
+  "canonical_schedule_units": 1249,
+  "graph_schedule_units": 1249,
+  "expected_search_documents": 1185,
+  "actual_search_documents": 1185,
+  "ignored_unit_ids": [
+    "schedule-X-3-3-formula"
+  ],
+  "issues": 0,
+  "errors": 0,
+  "passed": true
+}

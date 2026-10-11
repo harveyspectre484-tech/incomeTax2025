@@ -1,18 +1,84 @@
 {
   "section_number": "24",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-C",
+      "citation": "Chapter IV, Division C",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "C",
+      "title": "Income from house property",
+      "text": "Income from house property",
+      "retrieval_text": "Chapter IV, Division C Income from house property",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 20,
+          "end": 25
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "24",
       "citation": "Section 24",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-C",
       "section_id": "24",
       "section_number": "24",
       "title": "Property owned by co-owners.",
       "text": "",
-      "retrieval_text": "Section 24 Property owned by co-owners.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division C Income from house property Section 24 Property owned by co-owners.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-C",
+      "division_number": "C",
+      "division_title": "Income from house property",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "24",
       "title": "Property owned by co-owners.",
       "text": "For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
-      "retrieval_text": "Section 24 Property owned by co-owners. Section 24(1): For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division C Income from house property Section 24 Property owned by co-owners. Section 24(1): For property co-owned with definite and ascertainable share, the co-owners shall not be assessed as an association of persons and their income computed separately under this Part as per their respective share shall be included in their total income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-C",
+      "division_number": "C",
+      "division_title": "Income from house property",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "24",
       "title": "Property owned by co-owners.",
       "text": "The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
-      "retrieval_text": "Section 24 Property owned by co-owners. Section 24(2): The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division C Income from house property Section 24 Property owned by co-owners. Section 24(2): The relief available under section 21(6) shall be provided as if each co-owner is individually entitled to the said relief.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-C",
+      "division_number": "C",
+      "division_title": "Income from house property",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +143,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "24",
+      "to_id": "chapter-IV-division-C",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-C",
+      "to_id": "24",
+      "edge_type": "contains"
+    },
     {
       "from_id": "24-1",
       "to_id": "24",

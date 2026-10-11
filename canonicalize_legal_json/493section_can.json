@@ -1,18 +1,46 @@
 {
   "section_number": "493",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXII",
+      "citation": "Chapter XXII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXII",
+      "title": "OFFENCES AND PROSECUTION",
+      "text": "OFFENCES AND PROSECUTION",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 473,
+          "end": 498
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "493",
       "citation": "Section 493",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXII",
       "section_id": "493",
       "section_number": "493",
       "title": "Proof of entries in records or documents.",
       "text": "Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by—",
-      "retrieval_text": "Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by—",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "493",
       "title": "Proof of entries in records or documents.",
       "text": "the production of the records or other documents in the custody of the income-tax authority containing such entries; or",
-      "retrieval_text": "Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by— Section 493(a): the production of the records or other documents in the custody of the income-tax authority containing such entries; or",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by— Section 493(a): the production of the records or other documents in the custody of the income-tax authority containing such entries; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "493",
       "title": "Proof of entries in records or documents.",
       "text": "the production of a copy of the entries certified by the income-tax authority having custody of the records or other documents under its signature and stating that it is a true copy of the original entries and that such original entries are contained in the records or other documents in its custody.",
-      "retrieval_text": "Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by— Section 493(b): the production of a copy of the entries certified by the income-tax authority having custody of the records or other documents under its signature and stating that it is a true copy of the original entries and that such original entries are contained in the records or other documents in its custody.",
+      "retrieval_text": "Chapter XXII OFFENCES AND PROSECUTION Section 493 Proof of entries in records or documents. Entries in the records or other documents in the custody of an income-tax authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under this Chapter, and all such entries may be proved either by— Section 493(b): the production of a copy of the entries certified by the income-tax authority having custody of the records or other documents under its signature and stating that it is a true copy of the original entries and that such original entries are contained in the records or other documents in its custody.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXII",
+      "chapter_id": "chapter-XXII",
+      "chapter_title": "OFFENCES AND PROSECUTION",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "493",
+      "to_id": "chapter-XXII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXII",
+      "to_id": "493",
+      "edge_type": "contains"
+    },
     {
       "from_id": "493-a",
       "to_id": "493",

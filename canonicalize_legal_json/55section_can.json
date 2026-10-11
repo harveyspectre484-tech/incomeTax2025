@@ -1,18 +1,84 @@
 {
   "section_number": "55",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-D",
+      "citation": "Chapter IV, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "D",
+      "title": "Profits and gains of business or profession",
+      "text": "Profits and gains of business or profession",
+      "retrieval_text": "Chapter IV, Division D Profits and gains of business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 26,
+          "end": 68
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "55",
       "citation": "Section 55",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-D",
       "section_id": "55",
       "section_number": "55",
       "title": "Insurance business.",
       "text": "Irrespective of anything to the contrary contained in the provisions of this Act for computing income under the head \"Income from house property\", \"Capital gains\" or \"Income from other sources\", or in section 390(5) and (6), or in sections 26 to 54, the profits and gains of any business of insurance, including any such business carried on by a mutual insurance company or by a co-operative society, shall be computed as per the provisions of Schedule XIV.",
-      "retrieval_text": "Section 55 Insurance business. Irrespective of anything to the contrary contained in the provisions of this Act for computing income under the head \"Income from house property\", \"Capital gains\" or \"Income from other sources\", or in section 390(5) and (6), or in sections 26 to 54, the profits and gains of any business of insurance, including any such business carried on by a mutual insurance company or by a co-operative society, shall be computed as per the provisions of Schedule XIV.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division D Profits and gains of business or profession Section 55 Insurance business. Irrespective of anything to the contrary contained in the provisions of this Act for computing income under the head \"Income from house property\", \"Capital gains\" or \"Income from other sources\", or in section 390(5) and (6), or in sections 26 to 54, the profits and gains of any business of insurance, including any such business carried on by a mutual insurance company or by a co-operative society, shall be computed as per the provisions of Schedule XIV.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-D",
+      "division_number": "D",
+      "division_title": "Profits and gains of business or profession",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -25,15 +91,348 @@
   "graph_edges": [
     {
       "from_id": "55",
+      "to_id": "chapter-IV-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-D",
+      "to_id": "55",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "55",
+      "to_id": "26",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 1
+    },
+    {
+      "from_id": "55",
+      "to_id": "27",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 2
+    },
+    {
+      "from_id": "55",
+      "to_id": "28",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 3
+    },
+    {
+      "from_id": "55",
+      "to_id": "29",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 4
+    },
+    {
+      "from_id": "55",
+      "to_id": "30",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 5
+    },
+    {
+      "from_id": "55",
+      "to_id": "31",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 6
+    },
+    {
+      "from_id": "55",
+      "to_id": "32",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 7
+    },
+    {
+      "from_id": "55",
+      "to_id": "33",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 8
+    },
+    {
+      "from_id": "55",
+      "to_id": "34",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 9
+    },
+    {
+      "from_id": "55",
+      "to_id": "35",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 10
+    },
+    {
+      "from_id": "55",
+      "to_id": "36",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 11
+    },
+    {
+      "from_id": "55",
+      "to_id": "37",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 12
+    },
+    {
+      "from_id": "55",
+      "to_id": "38",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 13
+    },
+    {
+      "from_id": "55",
+      "to_id": "39",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 14
+    },
+    {
+      "from_id": "55",
+      "to_id": "40",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 15
+    },
+    {
+      "from_id": "55",
+      "to_id": "41",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 16
+    },
+    {
+      "from_id": "55",
+      "to_id": "42",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 17
+    },
+    {
+      "from_id": "55",
+      "to_id": "43",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 18
+    },
+    {
+      "from_id": "55",
+      "to_id": "44",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 19
+    },
+    {
+      "from_id": "55",
+      "to_id": "45",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 20
+    },
+    {
+      "from_id": "55",
+      "to_id": "46",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 21
+    },
+    {
+      "from_id": "55",
+      "to_id": "47",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 22
+    },
+    {
+      "from_id": "55",
+      "to_id": "48",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 23
+    },
+    {
+      "from_id": "55",
+      "to_id": "49",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 24
+    },
+    {
+      "from_id": "55",
+      "to_id": "50",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 25
+    },
+    {
+      "from_id": "55",
+      "to_id": "51",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 26
+    },
+    {
+      "from_id": "55",
+      "to_id": "52",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 27
+    },
+    {
+      "from_id": "55",
+      "to_id": "53",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 28
+    },
+    {
+      "from_id": "55",
+      "to_id": "54",
+      "edge_type": "references",
+      "reference_text": "sections 26 to 54",
+      "reference_kind": "range",
+      "range_start": "26",
+      "range_end": "54",
+      "range_member_count": 29,
+      "range_member_index": 29
+    },
+    {
+      "from_id": "55",
       "to_id": "390-5",
       "edge_type": "references",
       "reference_text": "section 390(5)"
     },
     {
       "from_id": "55",
-      "to_id": "schedule-14",
-      "edge_type": "references",
-      "reference_text": "Schedule XIV"
+      "to_id": "schedule-XIV",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XIV",
+      "schedule_number_roman": "XIV",
+      "schedule_number": 14,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     }
   ]
 }

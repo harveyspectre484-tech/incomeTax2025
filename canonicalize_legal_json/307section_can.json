@@ -1,18 +1,226 @@
 {
   "section_number": "307",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-3",
+      "citation": "Chapter XVII, Division A, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "3",
+      "title": "Representative assessees—Special cases",
+      "text": "Representative assessees—Special cases",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 306,
+          "end": 308
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "307",
       "citation": "Section 307",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-3",
       "section_id": "307",
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if—",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "such income or such part thereof is not specifically receivable on behalf or for the benefit of any one person; or",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if— Section 307(1)(a): such income or such part thereof is not specifically receivable on behalf or for the benefit of any one person; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if— Section 307(1)(a): such income or such part thereof is not specifically receivable on behalf or for the benefit of any one person; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable are indeterminate or unknown.",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if— Section 307(1)(b): the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable are indeterminate or unknown.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(1): The income or any part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall be chargeable to tax at the maximum marginal rate, if— Section 307(1)(b): the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable are indeterminate or unknown.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,—",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "none of the beneficiaries has any other income chargeable under this Act exceeding the maximum amount not chargeable to tax in case of an association of persons, or is a beneficiary under any other trust; or",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(a): none of the beneficiaries has any other income chargeable under this Act exceeding the maximum amount not chargeable to tax in case of an association of persons, or is a beneficiary under any other trust; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(a): none of the beneficiaries has any other income chargeable under this Act exceeding the maximum amount not chargeable to tax in case of an association of persons, or is a beneficiary under any other trust; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "such income or part of such income is receivable under a trust declared by any person by will and such trust is the only trust so declared by him; or",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(b): such income or part of such income is receivable under a trust declared by any person by will and such trust is the only trust so declared by him; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(b): such income or part of such income is receivable under a trust declared by any person by will and such trust is the only trust so declared by him; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "exclusively for the benefit of the relatives of the settlor; or",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or Section 307(2)(c)(i): exclusively for the benefit of the relatives of the settlor; or",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or Section 307(2)(c)(i): exclusively for the benefit of the relatives of the settlor; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "exclusively for the benefit of the members of such family, where the settlor is a Hindu undivided family,",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or Section 307(2)(c)(ii): exclusively for the benefit of the members of such family, where the settlor is a Hindu undivided family,",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(c): such income or part of such income is receivable under a trust created before the 1st March, 1970, by a non-testamentary instrument and the Assessing Officer is satisfied, having regard to all the circumstances existing at the relevant time, that the trust was created bona fide— in circumstances where such relatives or members were mainly dependent on the settlor for their support and maintenance; or Section 307(2)(c)(ii): exclusively for the benefit of the members of such family, where the settlor is a Hindu undivided family,",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -200,9 +480,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "such income is receivable by the trustees on behalf of a provident fund, superannuation fund, gratuity fund, pension fund or any other fund created bona fide by a person carrying on a business or profession exclusively for the benefit of persons employed in such business or profession.",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(d): such income is receivable by the trustees on behalf of a provident fund, superannuation fund, gratuity fund, pension fund or any other fund created bona fide by a person carrying on a business or profession exclusively for the benefit of persons employed in such business or profession.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(2): The income or any part thereof as referred to in sub-section (1), shall be chargeable to tax at the rate applicable to an association of persons as if it were its total income, if,— Section 307(2)(d): such income is receivable by the trustees on behalf of a provident fund, superannuation fund, gratuity fund, pension fund or any other fund created bona fide by a person carrying on a business or profession exclusively for the benefit of persons employed in such business or profession.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -219,9 +507,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "Subject to the provisions of sub-section (4), where the income in respect of the person mentioned in section 303(1)(d) consists of, or includes, profits and gains of business, tax shall be charged at the maximum marginal rate on such income or part thereof.",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(3): Subject to the provisions of sub-section (4), where the income in respect of the person mentioned in section 303(1)(d) consists of, or includes, profits and gains of business, tax shall be charged at the maximum marginal rate on such income or part thereof.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(3): Subject to the provisions of sub-section (4), where the income in respect of the person mentioned in section 303(1)(d) consists of, or includes, profits and gains of business, tax shall be charged at the maximum marginal rate on such income or part thereof.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -238,9 +534,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "Where the profits and gains referred to in sub-section (3) are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him, income or part thereof shall be chargeable to tax at the rate applicable to an association of persons.",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(4): Where the profits and gains referred to in sub-section (3) are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him, income or part thereof shall be chargeable to tax at the rate applicable to an association of persons.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(4): Where the profits and gains referred to in sub-section (3) are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance, and such trust is the only trust so declared by him, income or part thereof shall be chargeable to tax at the rate applicable to an association of persons.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -257,9 +561,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "For the purposes of this section,—",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -276,9 +588,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "such income or any part thereof shall be deemed as being not specifically receivable on behalf or for the benefit of any one person unless the person on whose behalf or for whose benefit such income or such part thereof is receivable during the tax year is expressly stated in the order of the court or the instrument of trust or wakf deed, as the case may be, and is identifiable as such on the date of such order, instrument or deed;",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,— Section 307(5)(a): such income or any part thereof shall be deemed as being not specifically receivable on behalf or for the benefit of any one person unless the person on whose behalf or for whose benefit such income or such part thereof is receivable during the tax year is expressly stated in the order of the court or the instrument of trust or wakf deed, as the case may be, and is identifiable as such on the date of such order, instrument or deed;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,— Section 307(5)(a): such income or any part thereof shall be deemed as being not specifically receivable on behalf or for the benefit of any one person unless the person on whose behalf or for whose benefit such income or such part thereof is receivable during the tax year is expressly stated in the order of the court or the instrument of trust or wakf deed, as the case may be, and is identifiable as such on the date of such order, instrument or deed;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -295,9 +615,17 @@
       "section_number": "307",
       "title": "Charge of tax where share of beneficiaries unknown.",
       "text": "the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is received shall be deemed to be indeterminate or unknown unless the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable, are expressly stated in the order of the court or the instrument of trust or wakf deed and are ascertainable as such on the date of such order, instrument or deed.",
-      "retrieval_text": "Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,— Section 307(5)(b): the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is received shall be deemed to be indeterminate or unknown unless the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable, are expressly stated in the order of the court or the instrument of trust or wakf deed and are ascertainable as such on the date of such order, instrument or deed.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 3 Representative assessees—Special cases Section 307 Charge of tax where share of beneficiaries unknown. Section 307(5): For the purposes of this section,— Section 307(5)(b): the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is received shall be deemed to be indeterminate or unknown unless the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable, are expressly stated in the order of the court or the instrument of trust or wakf deed and are ascertainable as such on the date of such order, instrument or deed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Representative assessees—Special cases",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -308,6 +636,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "307",
+      "to_id": "chapter-XVII-division-A-subdivision-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-3",
+      "to_id": "307",
+      "edge_type": "contains"
+    },
     {
       "from_id": "307-1",
       "to_id": "307",

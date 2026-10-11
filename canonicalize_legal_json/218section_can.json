@@ -1,30 +1,234 @@
 {
   "section_number": "218",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-E",
+      "citation": "Chapter XIII, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "E",
+      "title": "Special provisions relating to non-residents and foreign companies",
+      "text": "Special provisions relating to non-residents and foreign companies",
+      "retrieval_text": "Chapter XIII, Division E Special provisions relating to non-residents and foreign companies",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "218",
       "citation": "Section 218",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIII-division-E",
       "section_id": "218",
       "section_number": "218",
       "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
       "text": "Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table:",
-      "retrieval_text": "Section 218 Tax on business income of Offshore Banking Units or International Financial Services Centre unit. Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table:",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 218 Tax on business income of Offshore Banking Units or International Financial Services Centre unit. Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table:",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    },
+    {
+      "id": "218-table",
+      "citation": "Section 218 Table",
+      "unit_type": "table",
+      "parent_id": "218",
+      "section_id": "218",
+      "section_number": "218",
+      "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
+      "text": "Table columns: Sl. No.; Income; Rate of income-tax payable",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 218 Tax on business income of Offshore Banking Units or International Financial Services Centre unit. Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table: Table columns: Sl. No.; Income; Rate of income-tax payable",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 150.0,
+      "columns": [
+        "Sl. No.",
+        "Income",
+        "Rate of income-tax payable"
+      ]
+    },
+    {
+      "id": "218-table-row-1",
+      "citation": "Section 218 Table, Sl. No. 1",
+      "unit_type": "table_row",
+      "parent_id": "218-table",
+      "section_id": "218",
+      "section_number": "218",
+      "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
+      "text": "Income: Income referred to in section 147(3); Rate Of Income Tax Payable: 15%",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 218 Tax on business income of Offshore Banking Units or International Financial Services Centre unit. Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table: Table columns: Sl. No.; Income; Rate of income-tax payable Section 218 Table, Sl. No. 1 Income: Income referred to in section 147(3); Rate Of Income Tax Payable: 15%",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "1",
+      "columns": {
+        "income": "Income referred to in section 147(3)",
+        "rate_of_income_tax_payable": "15%"
+      }
+    },
+    {
+      "id": "218-table-row-2",
+      "citation": "Section 218 Table, Sl. No. 2",
+      "unit_type": "table_row",
+      "parent_id": "218-table",
+      "section_id": "218",
+      "section_number": "218",
+      "title": "Tax on business income of Offshore Banking Units or International Financial Services Centre unit.",
+      "text": "Income: Total income as reduced by income referred to in Sl. No. (1); Rate Of Income Tax Payable: Rates in force.]",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 218 Tax on business income of Offshore Banking Units or International Financial Services Centre unit. Where the total income of an assessee includes income of the nature referred to in section 147(3), the aggregate of income-tax payable by the assessee shall be the aggregate of income-tax computed on the income specified in column B of the Table below at the rate specified in the corresponding entry in column C of the said Table: Table columns: Sl. No.; Income; Rate of income-tax payable Section 218 Table, Sl. No. 2 Income: Total income as reduced by income referred to in Sl. No. (1); Rate Of Income Tax Payable: Rates in force.]",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "2",
+      "columns": {
+        "income": "Total income as reduced by income referred to in Sl. No. (1)",
+        "rate_of_income_tax_payable": "Rates in force.]"
+      }
     }
   ],
   "external_nodes": [],
   "graph_edges": [
     {
       "from_id": "218",
+      "to_id": "chapter-XIII-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII-division-E",
+      "to_id": "218",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "218-table",
+      "to_id": "218",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "218",
+      "to_id": "218-table",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "218-table-row-1",
+      "to_id": "218-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "218-table",
+      "to_id": "218-table-row-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "218-table-row-2",
+      "to_id": "218-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "218-table",
+      "to_id": "218-table-row-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "218",
+      "to_id": "147-3",
+      "edge_type": "references",
+      "reference_text": "section 147(3)"
+    },
+    {
+      "from_id": "218-table-row-1",
       "to_id": "147-3",
       "edge_type": "references",
       "reference_text": "section 147(3)"

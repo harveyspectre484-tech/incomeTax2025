@@ -1,18 +1,130 @@
 {
   "section_number": "373",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-5",
+      "citation": "Chapter XVIII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "5",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 5 General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "373",
       "citation": "Section 373",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-5",
       "section_id": "373",
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +141,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "The Board may, from time to time, issue orders, instructions or directions to other income-tax authorities, fixing such monetary limits as it may deem fit, for the purpose of regulating filing of appeal by any income-tax authority under the provisions of this Chapter.",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(1): The Board may, from time to time, issue orders, instructions or directions to other income-tax authorities, fixing such monetary limits as it may deem fit, for the purpose of regulating filing of appeal by any income-tax authority under the provisions of this Chapter.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(1): The Board may, from time to time, issue orders, instructions or directions to other income-tax authorities, fixing such monetary limits as it may deem fit, for the purpose of regulating filing of appeal by any income-tax authority under the provisions of this Chapter.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +168,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of—",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of—",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +195,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "the same assessee for any other tax year; or",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of— Section 373(2)(a): the same assessee for any other tax year; or",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of— Section 373(2)(a): the same assessee for any other tax year; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +222,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "any other assessee for the same or any other tax year.",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of— Section 373(2)(b): any other assessee for the same or any other tax year.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(2): Where, in pursuance of the orders, instructions or directions issued under sub-section (1), an income-tax authority has not filed any appeal on any issue in the case of an assessee for any tax year, it shall not preclude such authority from filing an appeal on the same issue in the case of— Section 373(2)(b): any other assessee for the same or any other tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +249,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "Where no appeal has been filed by an income-tax authority pursuant to the orders or instructions or directions issued under sub-section (1), it shall not be lawful for an assessee, being a party in any appeal, to contend that the income-tax authority has acquiesced in the decision on the disputed issue by not filing an appeal in any case.",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(3): Where no appeal has been filed by an income-tax authority pursuant to the orders or instructions or directions issued under sub-section (1), it shall not be lawful for an assessee, being a party in any appeal, to contend that the income-tax authority has acquiesced in the decision on the disputed issue by not filing an appeal in any case.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(3): Where no appeal has been filed by an income-tax authority pursuant to the orders or instructions or directions issued under sub-section (1), it shall not be lawful for an assessee, being a party in any appeal, to contend that the income-tax authority has acquiesced in the decision on the disputed issue by not filing an appeal in any case.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +276,17 @@
       "section_number": "373",
       "title": "Filing of appeal by income-tax authority.",
       "text": "The Appellate Tribunal or Court, hearing such appeal, shall have regard to the orders, instructions or directions issued under sub-section (1) and the circumstances under which such appeal was filed or not filed in respect of any case.",
-      "retrieval_text": "Section 373 Filing of appeal by income-tax authority. Section 373(4): The Appellate Tribunal or Court, hearing such appeal, shall have regard to the orders, instructions or directions issued under sub-section (1) and the circumstances under which such appeal was filed or not filed in respect of any case.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 373 Filing of appeal by income-tax authority. Section 373(4): The Appellate Tribunal or Court, hearing such appeal, shall have regard to the orders, instructions or directions issued under sub-section (1) and the circumstances under which such appeal was filed or not filed in respect of any case.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -137,6 +297,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "373",
+      "to_id": "chapter-XVIII-division-A-subdivision-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-5",
+      "to_id": "373",
+      "edge_type": "contains"
+    },
     {
       "from_id": "373-1",
       "to_id": "373",

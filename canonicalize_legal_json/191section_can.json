@@ -1,18 +1,80 @@
 {
   "section_number": "191",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-A",
+      "citation": "Chapter XIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "A",
+      "title": "Determination of tax in certain special cases",
+      "text": "Determination of tax in certain special cases",
+      "retrieval_text": "Chapter XIII, Division A Determination of tax in certain special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "191",
       "citation": "Section 191",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIII-division-A",
       "section_id": "191",
       "section_number": "191",
       "title": "Tax on accumulated balance of recognised provident fund.",
       "text": "Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
-      "retrieval_text": "Section 191 Tax on accumulated balance of recognised provident fund. Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division A Determination of tax in certain special cases Section 191 Tax on accumulated balance of recognised provident fund. Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income, owing to the provisions of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer shall calculate the total of the various sums of tax as per the provisions of paragraph 9 thereof.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-A",
+      "division_number": "A",
+      "division_title": "Determination of tax in certain special cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -25,9 +87,23 @@
   "graph_edges": [
     {
       "from_id": "191",
-      "to_id": "schedule-11",
-      "edge_type": "references",
-      "reference_text": "Schedule XI"
+      "to_id": "chapter-XIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII-division-A",
+      "to_id": "191",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "191",
+      "to_id": "schedule-XI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XI",
+      "schedule_number_roman": "XI",
+      "schedule_number": 11,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
     }
   ]
 }

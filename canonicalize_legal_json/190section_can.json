@@ -1,18 +1,80 @@
 {
   "section_number": "190",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-A",
+      "citation": "Chapter XIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "A",
+      "title": "Determination of tax in certain special cases",
+      "text": "Determination of tax in certain special cases",
+      "retrieval_text": "Chapter XIII, Division A Determination of tax in certain special cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "190",
       "citation": "Section 190",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIII-division-A",
       "section_id": "190",
       "section_number": "190",
       "title": "Determination of tax where total income includes income on which no tax is payable.",
       "text": "Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
-      "retrieval_text": "Section 190 Determination of tax where total income includes income on which no tax is payable. Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division A Determination of tax in certain special cases Section 190 Determination of tax where total income includes income on which no tax is payable. Where there is included in the total income of an assessee any income on which no income-tax is payable under the provisions of this Act, the assessee shall be entitled to a deduction, from income-tax with which he is chargeable on his total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax is payable.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-A",
+      "division_number": "A",
+      "division_title": "Determination of tax in certain special cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +84,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "190",
+      "to_id": "chapter-XIII-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII-division-A",
+      "to_id": "190",
+      "edge_type": "contains"
+    }
+  ]
 }

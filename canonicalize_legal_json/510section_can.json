@@ -1,18 +1,46 @@
 {
   "section_number": "510",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "510",
       "citation": "Section 510",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "510",
       "section_number": "510",
       "title": "Annual information statement.",
       "text": "",
-      "retrieval_text": "Section 510 Annual information statement.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 510 Annual information statement.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "510",
       "title": "Annual information statement.",
       "text": "The prescribed income-tax authority or the person authorised by such authority, shall upload in the registered account of the assessee an annual information statement in such form and manner, within such time and along with such information, which is in the possession of an income-tax authority, as may be prescribed.",
-      "retrieval_text": "Section 510 Annual information statement. Section 510(1): The prescribed income-tax authority or the person authorised by such authority, shall upload in the registered account of the assessee an annual information statement in such form and manner, within such time and along with such information, which is in the possession of an income-tax authority, as may be prescribed.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 510 Annual information statement. Section 510(1): The prescribed income-tax authority or the person authorised by such authority, shall upload in the registered account of the assessee an annual information statement in such form and manner, within such time and along with such information, which is in the possession of an income-tax authority, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "510",
       "title": "Annual information statement.",
       "text": "In sub-section (1), \"registered account\" means the electronic filing account registered by the assessee in the web portal, as may be designated by the prescribed income-tax authority or the person authorised by such authority.",
-      "retrieval_text": "Section 510 Annual information statement. Section 510(2): In sub-section (1), \"registered account\" means the electronic filing account registered by the assessee in the web portal, as may be designated by the prescribed income-tax authority or the person authorised by such authority.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 510 Annual information statement. Section 510(2): In sub-section (1), \"registered account\" means the electronic filing account registered by the assessee in the web portal, as may be designated by the prescribed income-tax authority or the person authorised by such authority.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "510",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "510",
+      "edge_type": "contains"
+    },
     {
       "from_id": "510-1",
       "to_id": "510",

@@ -1,18 +1,46 @@
 {
   "section_number": "457",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "457",
       "citation": "Section 457",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXI",
       "section_id": "457",
       "section_number": "457",
       "title": "Penalty for failure to furnish information or document under section 171.",
       "text": "If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
-      "retrieval_text": "Section 457 Penalty for failure to furnish information or document under section 171. If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
+      "retrieval_text": "Chapter XXI PENALTIES Section 457 Penalty for failure to furnish information or document under section 171. If any person who has entered into an international transaction or specified domestic transaction fails to furnish any such information or document as required under section 171(2), a penalty equal to 2% of the value of such transaction may be imposed upon him for each such failure by the Assessing Officer or the Transfer Pricing Officer as referred to in section 166 or the Commissioner (Appeals).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +51,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "457",
+      "to_id": "chapter-XXI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXI",
+      "to_id": "457",
+      "edge_type": "contains"
+    },
     {
       "from_id": "457",
       "to_id": "171-2",

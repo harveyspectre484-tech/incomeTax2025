@@ -1,18 +1,80 @@
 {
   "section_number": "223",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIII",
+      "citation": "Chapter XIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIII",
+      "title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "text": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 199,
+          "end": 205
+        },
+        {
+          "start": 206,
+          "end": 206
+        },
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIII-division-E",
+      "citation": "Chapter XIII, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIII",
+      "number": "E",
+      "title": "Special provisions relating to non-residents and foreign companies",
+      "text": "Special provisions relating to non-residents and foreign companies",
+      "retrieval_text": "Chapter XIII, Division E Special provisions relating to non-residents and foreign companies",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 207,
+          "end": 235
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "223",
       "citation": "Section 223",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIII-division-E",
       "section_id": "223",
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +91,17 @@
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust. Section 223(1): Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust. Section 223(1): Irrespective of anything contained in any other provisions of this Act, any income distributed by a business trust to its unit holders shall be deemed to be of the same nature and in the same proportion in the hands of the unit holder as it had been received by, or accrued to, the business trust.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +118,17 @@
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust. Section 223(2): Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust. Section 223(2): Subject to the provisions of sections 196, 197 and 198, the total income of a business trust shall be charged to tax at the maximum marginal rate.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +145,17 @@
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust. Section 223(3): If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust. Section 223(3): If in any tax year, the distributed income or any part thereof, received by a unit holder from the business trust is of the nature as referred to in Schedule V (Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof shall be deemed to be income of such unit holder and shall be charged to tax as income of the tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +172,17 @@
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust. Section 223(4): The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust. Section 223(4): The provisions of sub-section (1) shall not apply in respect of any sum referred to in section 92(2)(k) received by a unit holder from a business trust.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +199,17 @@
       "section_number": "223",
       "title": "Tax on income of unit holder and business trust.",
       "text": "Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.",
-      "retrieval_text": "Section 223 Tax on income of unit holder and business trust. Section 223(5): Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.",
+      "retrieval_text": "Chapter XIII DETERMINATION OF TAX IN SPECIAL CASES Chapter XIII, Division E Special provisions relating to non-residents and foreign companies Section 223 Tax on income of unit holder and business trust. Section 223(5): Any person responsible for making payment of the income distributed on behalf of a business trust to a unit holder, shall furnish a statement to the unit holder and the prescribed authority, within such time and in such form and manner, as may be prescribed, giving the details of the nature of the income paid during the tax year and such other details, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIII",
+      "chapter_id": "chapter-XIII",
+      "chapter_title": "DETERMINATION OF TAX IN SPECIAL CASES",
+      "division_id": "chapter-XIII-division-E",
+      "division_number": "E",
+      "division_title": "Special provisions relating to non-residents and foreign companies",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -118,6 +220,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "223",
+      "to_id": "chapter-XIII-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIII-division-E",
+      "to_id": "223",
+      "edge_type": "contains"
+    },
     {
       "from_id": "223-1",
       "to_id": "223",
@@ -170,9 +282,13 @@
     },
     {
       "from_id": "223-3",
-      "to_id": "schedule-5",
-      "edge_type": "references",
-      "reference_text": "Schedule V"
+      "to_id": "schedule-V-t3",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule V (Table: Sl. No. 3)",
+      "schedule_number_roman": "V",
+      "schedule_number": 5,
+      "schedule_locator_type": "table_row",
+      "schedule_locator_value": "3"
     },
     {
       "from_id": "223-4",

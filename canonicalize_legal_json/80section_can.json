@@ -1,18 +1,84 @@
 {
   "section_number": "80",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "80",
       "citation": "Section 80",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-E",
       "section_id": "80",
       "section_number": "80",
       "title": "Fair market value deemed to be full value of consideration in certain cases.",
       "text": "If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
-      "retrieval_text": "Section 80 Fair market value deemed to be full value of consideration in certain cases. If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 80 Fair market value deemed to be full value of consideration in certain cases. If the consideration received or accruing from the transfer of a capital asset is not ascertainable or cannot be determined, its fair market value on the date of transfer shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of computing income under the head \"Capital gains\".",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +88,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "80",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "80",
+      "edge_type": "contains"
+    }
+  ]
 }

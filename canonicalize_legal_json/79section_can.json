@@ -1,18 +1,84 @@
 {
   "section_number": "79",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "79",
       "citation": "Section 79",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-E",
       "section_id": "79",
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "",
-      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 79 Special provision for full value of consideration for transfer of share other than quoted share.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
-      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(1): If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(1): If the consideration received or accruing from the transfer of a capital asset, being share of a company other than a quoted share, is less than the fair market value of such share determined in the manner as may be prescribed, the value so determined shall be deemed to be the full value of consideration received or accruing as a result of such transfer for the purposes of section 72.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
-      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(2): The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(2): The provisions of sub-section (1) shall not apply to any consideration received or accruing as a result of transfer by such class of persons and subject to such conditions, as may be prescribed.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +149,17 @@
       "section_number": "79",
       "title": "Special provision for full value of consideration for transfer of share other than quoted share.",
       "text": "For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
-      "retrieval_text": "Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(3): For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 79 Special provision for full value of consideration for transfer of share other than quoted share. Section 79(3): For the purposes of this section, the expression \"quoted share\" means the share quoted on any recognised stock exchange with regularity from time to time, where the quotation of such share is based on current transaction made in the ordinary course of business.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +170,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "79",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "79",
+      "edge_type": "contains"
+    },
     {
       "from_id": "79-1",
       "to_id": "79",

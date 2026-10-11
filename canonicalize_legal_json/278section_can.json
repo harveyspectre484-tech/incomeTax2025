@@ -1,18 +1,68 @@
 {
   "section_number": "278",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVI",
+      "citation": "Chapter XVI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVI",
+      "title": "PROCEDURE FOR ASSESSMENT",
+      "text": "PROCEDURE FOR ASSESSMENT",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        },
+        {
+          "start": 292,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVI-division-A",
+      "citation": "Chapter XVI, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVI",
+      "number": "A",
+      "title": "Procedure for assessment",
+      "text": "Procedure for assessment",
+      "retrieval_text": "Chapter XVI, Division A Procedure for assessment",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 268,
+          "end": 291
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "278",
       "citation": "Section 278",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVI-division-A",
       "section_id": "278",
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "",
-      "retrieval_text": "Section 278 Taxability of certain income.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division A Procedure for assessment Section 278 Taxability of certain income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-A",
+      "division_number": "A",
+      "division_title": "Procedure for assessment",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +79,17 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
-      "retrieval_text": "Section 278 Taxability of certain income. Section 278(1): Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division A Procedure for assessment Section 278 Taxability of certain income. Section 278(1): Any interest received by an assessee on any compensation or on enhanced compensation, shall be deemed to be the income of the tax year in which it is received, irrespective of anything to the contrary contained in section 276.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-A",
+      "division_number": "A",
+      "division_title": "Procedure for assessment",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +106,17 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
-      "retrieval_text": "Section 278 Taxability of certain income. Section 278(2): Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division A Procedure for assessment Section 278 Taxability of certain income. Section 278(2): Any claim for escalation of price in a contract or export incentives shall be deemed to be the income of the tax year in which reasonable certainty of its realisation is achieved.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-A",
+      "division_number": "A",
+      "division_title": "Procedure for assessment",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +133,17 @@
       "section_number": "278",
       "title": "Taxability of certain income.",
       "text": "The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
-      "retrieval_text": "Section 278 Taxability of certain income. Section 278(3): The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
+      "retrieval_text": "Chapter XVI PROCEDURE FOR ASSESSMENT Chapter XVI, Division A Procedure for assessment Section 278 Taxability of certain income. Section 278(3): The income referred to in section 2(49)(w) shall be treated as the income of the tax year in which it is received, if not charged to income-tax in any earlier tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVI",
+      "chapter_id": "chapter-XVI",
+      "chapter_title": "PROCEDURE FOR ASSESSMENT",
+      "division_id": "chapter-XVI-division-A",
+      "division_number": "A",
+      "division_title": "Procedure for assessment",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -80,6 +154,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "278",
+      "to_id": "chapter-XVI-division-A",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVI-division-A",
+      "to_id": "278",
+      "edge_type": "contains"
+    },
     {
       "from_id": "278-1",
       "to_id": "278",

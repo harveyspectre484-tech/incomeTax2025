@@ -1,18 +1,46 @@
 {
   "section_number": "441",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXI",
+      "citation": "Chapter XXI",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXI",
+      "title": "PENALTIES",
+      "text": "PENALTIES",
+      "retrieval_text": "Chapter XXI PENALTIES",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 439,
+          "end": 472
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "441",
       "citation": "Section 441",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXI",
       "section_id": "441",
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
       "text": "A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
-      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
+      "retrieval_text": "Chapter XXI PENALTIES Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
       "text": "keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
-      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(a): keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
+      "retrieval_text": "Chapter XXI PENALTIES Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(a): keep and maintain the books of account and other documents as per section 62 or the rules made thereunder, in respect of any tax year; or",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "441",
       "title": "Failure to keep, maintain or retain books of account, documents, etc.",
       "text": "retain such books of account and other documents for the period specified in the said rules.",
-      "retrieval_text": "Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(b): retain such books of account and other documents for the period specified in the said rules.",
+      "retrieval_text": "Chapter XXI PENALTIES Section 441 Failure to keep, maintain or retain books of account, documents, etc. A penalty of Rs. 25000 may be imposed on a person by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner (Appeals), if he fails to— Section 441(b): retain such books of account and other documents for the period specified in the said rules.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXI",
+      "chapter_id": "chapter-XXI",
+      "chapter_title": "PENALTIES",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "441",
+      "to_id": "chapter-XXI",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXI",
+      "to_id": "441",
+      "edge_type": "contains"
+    },
     {
       "from_id": "441-a",
       "to_id": "441",

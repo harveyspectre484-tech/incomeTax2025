@@ -1,0 +1,27 @@
+{
+  "canonical_schedule_units": 1249,
+  "graph_schedule_units": 1249,
+  "expected_search_documents": 1186,
+  "actual_search_documents": 1186,
+  "schedule_table_rows": 164,
+  "formulas": 1,
+  "variables": 3,
+  "footnotes": 26,
+  "resolved_annotation_edges": 43,
+  "resolved_schedule_reference_edges": 177,
+  "pending_schedule_reference_edges": 0,
+  "ignored_formula_ids": [],
+  "errors_by_check": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0
+  },
+  "issues": 0,
+  "errors": 0,
+  "passed": true
+}

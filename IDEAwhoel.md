@@ -170,5 +170,43 @@ Then graph edges separately:
   "reference_text": "clause (a)"
 }
 ```
+# Dependency retrieval stage.
+Mechanism	How it finds indirect relevance
+For your system, I would add a dependency retrieval stage after initial hybrid search.
+Mechanism	How it finds indirect relevance
+Parent expansion	Retrieves introductions, conditions, and exceptions governing a matching clause
+Outgoing references	Retrieves provisions explicitly cited by the matching unit
+Incoming references	Finds other provisions that refer to the retrieved section, including possible restrictions
+Definition lookup	Retrieves definitions of legally significant terms used in the evidence
+Applicability lookup	Checks provisions governing the taxpayer category, tax year, chapter, or subject
+Targeted follow-up search	Searches for missing eligibility conditions, exclusions, limits, and exceptions
+
+
+Incoming references are particularly useful. Suppose clause B says “the deduction under section A shall not be allowed where…”. Search retrieves A, but A never mentions B.
+Your graph already records:
+B ── references ──→ A
+Looking up who references A brings B into the candidate evidence. You can support this with an incoming-edge index; you do not have to duplicate every reference as another stored edge.
+For dependencies without an explicit citation, you need an additional layer.
+You can record relationships such as:
+Definition D ── defines term used in ──→ A
+Exception B  ── restricts ────────────→ A
+Limit C      ── caps ────────────────→ A
+These relationships need evidence and scope. A definition may apply only within one section or chapter. A general rule may affect hundreds of provisions, so storing its scope can be more practical than creating hundreds of individual edges.
+LLMs can propose these relationships, but an inferred relationship should carry its supporting passage and review status. A plain citation edge does not establish whether the cited provision restricts, defines, or overrides another provision.
+Your retrieval flow would become:
+Question
+   ↓
+Hybrid search
+   ↓
+Parents + outgoing and incoming references
+   ↓
+Scoped definitions and applicability checks
+   ↓
+Targeted searches for missing conditions or exceptions
+   ↓
+Select evidence, preserve necessary dependencies, deduplicate
+   ↓
+LLM answer
+
 
 That is the cleaner design.

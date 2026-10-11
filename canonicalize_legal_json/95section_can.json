@@ -1,18 +1,84 @@
 {
   "section_number": "95",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-F",
+      "citation": "Chapter IV, Division F",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "F",
+      "title": "Income from Other Sources",
+      "text": "Income from Other Sources",
+      "retrieval_text": "Chapter IV, Division F Income from Other Sources",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "95",
       "citation": "Section 95",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-F",
       "section_id": "95",
       "section_number": "95",
       "title": "",
       "text": "The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
-      "retrieval_text": "Section 95 The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division F Income from Other Sources Section 95 The provision of section 38(1), (2), (3) and (4) shall apply in computing the income of an assessee under section 92, as they apply in computing the income of an assessee under the head \"Profits and gains of business or profession\".",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-F",
+      "division_number": "F",
+      "division_title": "Income from Other Sources",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +89,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "95",
+      "to_id": "chapter-IV-division-F",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-F",
+      "to_id": "95",
+      "edge_type": "contains"
+    },
     {
       "from_id": "95",
       "to_id": "38-1",

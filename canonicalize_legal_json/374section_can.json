@@ -1,26 +1,482 @@
 {
   "section_number": "374",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-5",
+      "citation": "Chapter XVIII, Division A, Subdivision 5",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "5",
+      "title": "General",
+      "text": "General",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 5 General",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "374",
       "citation": "Section 374",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-5",
       "section_id": "374",
       "section_number": "374",
       "title": "Interpretation of \"High Court\".",
       "text": "For the purposes of this Chapter, \"High Court\" means,—",
-      "retrieval_text": "Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,—",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    },
+    {
+      "id": "374-i",
+      "citation": "Section 374(i)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for any State, the High Court for that State;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(i): for any State, the High Court for that State;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 42.68,
+      "y_start": 95.44
+    },
+    {
+      "id": "374-ii",
+      "citation": "Section 374(ii)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of Jammu and Kashmir, the High Court of Jammu and Kashmir and Ladakh;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(ii): for the Union territory of Jammu and Kashmir, the High Court of Jammu and Kashmir and Ladakh;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 40.26,
+      "y_start": 106.05
+    },
+    {
+      "id": "374-iii",
+      "citation": "Section 374(iii)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of Ladakh, the High Court of Jammu and Kashmir and Ladakh;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(iii): for the Union territory of Ladakh, the High Court of Jammu and Kashmir and Ladakh;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 37.84,
+      "y_start": 116.66
+    },
+    {
+      "id": "374-iv",
+      "citation": "Section 374(iv)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of the Andaman and Nicobar Islands, the High Court at Calcutta;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(iv): for the Union territory of the Andaman and Nicobar Islands, the High Court at Calcutta;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 38.85,
+      "y_start": 127.26
+    },
+    {
+      "id": "374-v",
+      "citation": "Section 374(v)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of Lakshadweep, the High Court of Kerala;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(v): for the Union territory of Lakshadweep, the High Court of Kerala;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 41.27,
+      "y_start": 137.87
+    },
+    {
+      "id": "374-vi",
+      "citation": "Section 374(vi)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of Chandigarh, the High Court of Punjab and Haryana;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(vi): for the Union territory of Chandigarh, the High Court of Punjab and Haryana;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 38.85,
+      "y_start": 148.48
+    },
+    {
+      "id": "374-vii",
+      "citation": "Section 374(vii)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territories of Dadra and Nagar Haveli and Daman and Diu, the High Court at Bombay;",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(vii): for the Union territories of Dadra and Nagar Haveli and Daman and Diu, the High Court at Bombay;",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 36.43,
+      "y_start": 159.09
+    },
+    {
+      "id": "374-viii",
+      "citation": "Section 374(viii)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the Union territory of Puducherry, the High Court at Madras; and",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(viii): for the Union territory of Puducherry, the High Court at Madras; and",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 34.01,
+      "y_start": 169.7
+    },
+    {
+      "id": "374-ix",
+      "citation": "Section 374(ix)",
+      "unit_type": "sub_clause",
+      "parent_id": "374",
+      "section_id": "374",
+      "section_number": "374",
+      "title": "Interpretation of \"High Court\".",
+      "text": "for the National Capital Territory of Delhi, the High Court of Delhi.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 5 General Section 374 Interpretation of \"High Court\". For the purposes of this Chapter, \"High Court\" means,— Section 374(ix): for the National Capital Territory of Delhi, the High Court of Delhi.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-5",
+      "subdivision_number": "5",
+      "subdivision_title": "General",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 38.85,
+      "y_start": 180.31
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "374",
+      "to_id": "chapter-XVIII-division-A-subdivision-5",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-5",
+      "to_id": "374",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-i",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-i",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-ii",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-ii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-iii",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-iii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-iv",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-iv",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-v",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-v",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-vi",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-vi",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-vii",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-vii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-viii",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-viii",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "374-ix",
+      "to_id": "374",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "374",
+      "to_id": "374-ix",
+      "edge_type": "contains"
+    }
+  ]
 }

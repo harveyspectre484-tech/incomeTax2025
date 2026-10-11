@@ -1,18 +1,68 @@
 {
   "section_number": "255",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "255",
       "citation": "Section 255",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-B",
       "section_id": "255",
       "section_number": "255",
       "title": "Power to inspect registers of companies.",
       "text": "The Assessing Officer, assessment unit, verification unit, the Joint Commissioner or the Joint Commissioner (Appeals) or the Commissioner (Appeals), or any person subordinate thereof and authorised in writing in this behalf by such officer or authority, may inspect, and if necessary, take copies, or cause copies to be taken, of any register of the members, debenture holders or mortgagees of any company or of any entry in such register.",
-      "retrieval_text": "Section 255 Power to inspect registers of companies. The Assessing Officer, assessment unit, verification unit, the Joint Commissioner or the Joint Commissioner (Appeals) or the Commissioner (Appeals), or any person subordinate thereof and authorised in writing in this behalf by such officer or authority, may inspect, and if necessary, take copies, or cause copies to be taken, of any register of the members, debenture holders or mortgagees of any company or of any entry in such register.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 255 Power to inspect registers of companies. The Assessing Officer, assessment unit, verification unit, the Joint Commissioner or the Joint Commissioner (Appeals) or the Commissioner (Appeals), or any person subordinate thereof and authorised in writing in this behalf by such officer or authority, may inspect, and if necessary, take copies, or cause copies to be taken, of any register of the members, debenture holders or mortgagees of any company or of any entry in such register.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +72,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "255",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "255",
+      "edge_type": "contains"
+    }
+  ]
 }

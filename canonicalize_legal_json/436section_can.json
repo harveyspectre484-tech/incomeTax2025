@@ -1,18 +1,46 @@
 {
   "section_number": "436",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XX",
+      "citation": "Chapter XX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XX",
+      "title": "REFUNDS",
+      "text": "REFUNDS",
+      "retrieval_text": "Chapter XX REFUNDS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 431,
+          "end": 438
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "436",
       "citation": "Section 436",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XX",
       "section_id": "436",
       "section_number": "436",
       "title": "Correctness of assessment not to be questioned.",
       "text": "In a claim under this Chapter, it shall not be open to the assessee to question the correctness of any assessment, or other matter decided which has become final and conclusive, or ask for a review of the aforesaid assessment or matter; and the assessee shall not be entitled to any relief on such claim except refund of tax wrongly paid or paid in excess.",
-      "retrieval_text": "Section 436 Correctness of assessment not to be questioned. In a claim under this Chapter, it shall not be open to the assessee to question the correctness of any assessment, or other matter decided which has become final and conclusive, or ask for a review of the aforesaid assessment or matter; and the assessee shall not be entitled to any relief on such claim except refund of tax wrongly paid or paid in excess.",
+      "retrieval_text": "Chapter XX REFUNDS Section 436 Correctness of assessment not to be questioned. In a claim under this Chapter, it shall not be open to the assessee to question the correctness of any assessment, or other matter decided which has become final and conclusive, or ask for a review of the aforesaid assessment or matter; and the assessee shall not be entitled to any relief on such claim except refund of tax wrongly paid or paid in excess.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XX",
+      "chapter_id": "chapter-XX",
+      "chapter_title": "REFUNDS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +50,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "436",
+      "to_id": "chapter-XX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XX",
+      "to_id": "436",
+      "edge_type": "contains"
+    }
+  ]
 }

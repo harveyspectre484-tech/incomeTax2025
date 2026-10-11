@@ -1,18 +1,226 @@
 {
   "section_number": "314",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-6",
+      "citation": "Chapter XVII, Division A, Subdivision 6",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "6",
+      "title": "Succession to business or profession",
+      "text": "Succession to business or profession",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 6 Succession to business or profession",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 313,
+          "end": 314
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "314",
       "citation": "Section 314",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-6",
       "section_id": "314",
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "Irrespective of anything to the contrary contained in section 263, if prior to the date of order in respect of business reorganisation, any return of income has been furnished under the provisions of the said section by an entity for any tax year to which such order applies, the successor shall furnish, within six months from the end of the month in which the order was issued, a modified return in such form and manner, as may be prescribed, in accordance with and limited to the said order.",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(1): Irrespective of anything to the contrary contained in section 263, if prior to the date of order in respect of business reorganisation, any return of income has been furnished under the provisions of the said section by an entity for any tax year to which such order applies, the successor shall furnish, within six months from the end of the month in which the order was issued, a modified return in such form and manner, as may be prescribed, in accordance with and limited to the said order.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(1): Irrespective of anything to the contrary contained in section 263, if prior to the date of order in respect of business reorganisation, any return of income has been furnished under the provisions of the said section by an entity for any tax year to which such order applies, the successor shall furnish, within six months from the end of the month in which the order was issued, a modified return in such form and manner, as may be prescribed, in accordance with and limited to the said order.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,—",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "have been completed on the date of furnishing of the modified return as per the provisions of sub-section (1), the Assessing Officer shall pass an order modifying the total income of the relevant tax year determined in such assessment or reassessment, in accordance with such order in respect of business reorganisation and taking into account the modified return so furnished;",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,— Section 314(2)(a): have been completed on the date of furnishing of the modified return as per the provisions of sub-section (1), the Assessing Officer shall pass an order modifying the total income of the relevant tax year determined in such assessment or reassessment, in accordance with such order in respect of business reorganisation and taking into account the modified return so furnished;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,— Section 314(2)(a): have been completed on the date of furnishing of the modified return as per the provisions of sub-section (1), the Assessing Officer shall pass an order modifying the total income of the relevant tax year determined in such assessment or reassessment, in accordance with such order in respect of business reorganisation and taking into account the modified return so furnished;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "are pending on the date of furnishing of the modified return as per sub-section (1), the Assessing Officer shall pass an order assessing or reassessing the total income of the relevant tax year as per the order in respect of the business reorganisation and taking into account the modified return so furnished.",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,— Section 314(2)(b): are pending on the date of furnishing of the modified return as per sub-section (1), the Assessing Officer shall pass an order assessing or reassessing the total income of the relevant tax year as per the order in respect of the business reorganisation and taking into account the modified return so furnished.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(2): Where the assessment or reassessment proceedings for a tax year to which the order in respect of the business reorganisation applies,— Section 314(2)(b): are pending on the date of furnishing of the modified return as per sub-section (1), the Assessing Officer shall pass an order assessing or reassessing the total income of the relevant tax year as per the order in respect of the business reorganisation and taking into account the modified return so furnished.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "Subject to any other provisions of this section, in an assessment or reassessment made in respect of a tax year under this section, all other provisions of this Act shall apply and the tax shall be chargeable at the rate or rates as applicable to such tax year.",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(3): Subject to any other provisions of this section, in an assessment or reassessment made in respect of a tax year under this section, all other provisions of this Act shall apply and the tax shall be chargeable at the rate or rates as applicable to such tax year.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(3): Subject to any other provisions of this section, in an assessment or reassessment made in respect of a tax year under this section, all other provisions of this Act shall apply and the tax shall be chargeable at the rate or rates as applicable to such tax year.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -124,9 +372,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "For the purposes of this section,—",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -143,9 +399,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "\"business reorganisation\" means the reorganisation of business involving the amalgamation or demerger or merger of business of one or more persons;",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(a): \"business reorganisation\" means the reorganisation of business involving the amalgamation or demerger or merger of business of one or more persons;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(a): \"business reorganisation\" means the reorganisation of business involving the amalgamation or demerger or merger of business of one or more persons;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -162,9 +426,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "\"order in respect of business reorganisation\" means an order of a High Court or tribunal or an Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016); and",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(b): \"order in respect of business reorganisation\" means an order of a High Court or tribunal or an Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016); and",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(b): \"order in respect of business reorganisation\" means an order of a High Court or tribunal or an Adjudicating Authority as defined in section 5(1) of the Insolvency and Bankruptcy Code, 2016 (31 of 2016); and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -181,9 +453,17 @@
       "section_number": "314",
       "title": "Effect of order of tribunal or court in respect of business reorganisation.",
       "text": "\"successor\" means all resulting companies in a business reorganisation, whether or not the company was in existence prior to such business reorganisation.",
-      "retrieval_text": "Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(c): \"successor\" means all resulting companies in a business reorganisation, whether or not the company was in existence prior to such business reorganisation.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 6 Succession to business or profession Section 314 Effect of order of tribunal or court in respect of business reorganisation. Section 314(4): For the purposes of this section,— Section 314(4)(c): \"successor\" means all resulting companies in a business reorganisation, whether or not the company was in existence prior to such business reorganisation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-6",
+      "subdivision_number": "6",
+      "subdivision_title": "Succession to business or profession",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -194,6 +474,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "314",
+      "to_id": "chapter-XVII-division-A-subdivision-6",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-6",
+      "to_id": "314",
+      "edge_type": "contains"
+    },
     {
       "from_id": "314-1",
       "to_id": "314",

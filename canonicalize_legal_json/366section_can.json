@@ -1,18 +1,130 @@
 {
   "section_number": "366",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVIII",
+      "citation": "Chapter XVIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVIII",
+      "title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "text": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 375,
+          "end": 376
+        },
+        {
+          "start": 377,
+          "end": 378
+        },
+        {
+          "start": 379,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A",
+      "citation": "Chapter XVIII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVIII",
+      "number": "A",
+      "title": "Appeals",
+      "text": "Appeals",
+      "retrieval_text": "Chapter XVIII, Division A Appeals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 355,
+          "end": 360
+        },
+        {
+          "start": 361,
+          "end": 364
+        },
+        {
+          "start": 365,
+          "end": 366
+        },
+        {
+          "start": 367,
+          "end": 368
+        },
+        {
+          "start": 369,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVIII-division-A-subdivision-3",
+      "citation": "Chapter XVIII, Division A, Subdivision 3",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVIII-division-A",
+      "number": "3",
+      "title": "Appeal to High Court.",
+      "text": "Appeal to High Court.",
+      "retrieval_text": "Chapter XVIII, Division A, Subdivision 3 Appeal to High Court.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 365,
+          "end": 366
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "366",
       "citation": "Section 366",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVIII-division-A-subdivision-3",
       "section_id": "366",
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
       "text": "",
-      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 3 Appeal to High Court. Section 366 Case before High Court to be heard by not less than two Judges.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Appeal to High Court.",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +141,17 @@
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
       "text": "When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
-      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(1): When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 3 Appeal to High Court. Section 366 Case before High Court to be heard by not less than two Judges. Section 366(1): When an appeal has been filed before the High Court under section 365, it shall be heard by a bench of not less than two Judges of the High Court, and shall be decided as per the opinion of such Judges or of the majority, if any, of such Judges.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Appeal to High Court.",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +168,17 @@
       "section_number": "366",
       "title": "Case before High Court to be heard by not less than two Judges.",
       "text": "Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
-      "retrieval_text": "Section 366 Case before High Court to be heard by not less than two Judges. Section 366(2): Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
+      "retrieval_text": "Chapter XVIII APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS Chapter XVIII, Division A Appeals Chapter XVIII, Division A, Subdivision 3 Appeal to High Court. Section 366 Case before High Court to be heard by not less than two Judges. Section 366(2): Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall then be heard upon that point only by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVIII",
+      "chapter_id": "chapter-XVIII",
+      "chapter_title": "APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS",
+      "division_id": "chapter-XVIII-division-A",
+      "division_number": "A",
+      "division_title": "Appeals",
+      "subdivision_id": "chapter-XVIII-division-A-subdivision-3",
+      "subdivision_number": "3",
+      "subdivision_title": "Appeal to High Court.",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +189,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "366",
+      "to_id": "chapter-XVIII-division-A-subdivision-3",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVIII-division-A-subdivision-3",
+      "to_id": "366",
+      "edge_type": "contains"
+    },
     {
       "from_id": "366-1",
       "to_id": "366",

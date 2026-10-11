@@ -1,18 +1,84 @@
 {
   "section_number": "89",
+  "hierarchy_path": [
+    {
+      "id": "chapter-IV",
+      "citation": "Chapter IV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "IV",
+      "title": "COMPUTATION OF TOTAL INCOME",
+      "text": "COMPUTATION OF TOTAL INCOME",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 68
+        },
+        {
+          "start": 69,
+          "end": 91
+        },
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "chapter-IV-division-E",
+      "citation": "Chapter IV, Division E",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-IV",
+      "number": "E",
+      "title": "Capital gains",
+      "text": "Capital gains",
+      "retrieval_text": "Chapter IV, Division E Capital gains",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 69,
+          "end": 91
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "89",
       "citation": "Section 89",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-IV-division-E",
       "section_id": "89",
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
       "text": "Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
-      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +95,17 @@
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
       "text": "if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
-      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(a): if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(a): if the transfer of the original asset mentioned in those sections is by way of compulsory acquisition under any law; and",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +122,17 @@
       "section_number": "89",
       "title": "Extension of time for acquiring new asset or depositing or investing amount of capital gains.",
       "text": "if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
-      "retrieval_text": "Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(b): if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
+      "retrieval_text": "Chapter IV COMPUTATION OF TOTAL INCOME Chapter IV, Division E Capital gains Section 89 Extension of time for acquiring new asset or depositing or investing amount of capital gains. Irrespective of anything contained in sections 82, 83, 84, 85 and 86,— Section 89(b): if the compensation awarded for such acquisition is not received by the assessee on the date of transfer, then, the period available to him under those sections for acquisition of the new asset or investment or deposit of capital gain in specified bank or institution shall be reckoned from the date of receipt of compensation.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "IV",
+      "chapter_id": "chapter-IV",
+      "chapter_title": "COMPUTATION OF TOTAL INCOME",
+      "division_id": "chapter-IV-division-E",
+      "division_number": "E",
+      "division_title": "Capital gains",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +143,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "89",
+      "to_id": "chapter-IV-division-E",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-IV-division-E",
+      "to_id": "89",
+      "edge_type": "contains"
+    },
     {
       "from_id": "89-a",
       "to_id": "89",

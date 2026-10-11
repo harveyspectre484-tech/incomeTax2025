@@ -1,18 +1,226 @@
 {
   "section_number": "310",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A",
+      "citation": "Chapter XVII, Division A",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "A",
+      "title": "Association of persons, firm, Hindu undivided family, etc.",
+      "text": "Association of persons, firm, Hindu undivided family, etc.",
+      "retrieval_text": "Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc.",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-A-subdivision-4",
+      "citation": "Chapter XVII, Division A, Subdivision 4",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-A",
+      "number": "4",
+      "title": "Association of persons and body of individuals",
+      "text": "Association of persons and body of individuals",
+      "retrieval_text": "Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 309,
+          "end": 311
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "310",
       "citation": "Section 310",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-A-subdivision-4",
       "section_id": "310",
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +237,17 @@
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "Income-tax shall not be payable by an assessee (who is a member of an association of persons or body of individuals) in respect of his share in the income of the association of persons or body of individuals computed in the manner provided in section 309, except in a case referred to in sub-section (2).",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(1): Income-tax shall not be payable by an assessee (who is a member of an association of persons or body of individuals) in respect of his share in the income of the association of persons or body of individuals computed in the manner provided in section 309, except in a case referred to in sub-section (2).",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(1): Income-tax shall not be payable by an assessee (who is a member of an association of persons or body of individuals) in respect of his share in the income of the association of persons or body of individuals computed in the manner provided in section 309, except in a case referred to in sub-section (2).",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +264,17 @@
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "Where no income-tax is chargeable on the total income of the association of persons or body of individuals, the share of a member computed as provided in section 309 shall be chargeable to tax as part of his total income.",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(2): Where no income-tax is chargeable on the total income of the association of persons or body of individuals, the share of a member computed as provided in section 309 shall be chargeable to tax as part of his total income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(2): Where no income-tax is chargeable on the total income of the association of persons or body of individuals, the share of a member computed as provided in section 309 shall be chargeable to tax as part of his total income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -67,9 +291,17 @@
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "Where no income-tax is payable by an assessee under sub-section (1),—",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -86,9 +318,17 @@
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "if the association of persons or body of individuals is chargeable to tax on its total income at the maximum marginal rate or any higher rate under any of the provisions of this Act, the share of a member computed as aforesaid shall not be included in his total income;",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),— Section 310(3)(a): if the association of persons or body of individuals is chargeable to tax on its total income at the maximum marginal rate or any higher rate under any of the provisions of this Act, the share of a member computed as aforesaid shall not be included in his total income;",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),— Section 310(3)(a): if the association of persons or body of individuals is chargeable to tax on its total income at the maximum marginal rate or any higher rate under any of the provisions of this Act, the share of a member computed as aforesaid shall not be included in his total income;",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -105,9 +345,17 @@
       "section_number": "310",
       "title": "Share of member of association of persons or body of individuals in income of association or body.",
       "text": "in any other case, the share of a member computed as aforesaid shall form part of his total income.",
-      "retrieval_text": "Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),— Section 310(3)(b): in any other case, the share of a member computed as aforesaid shall form part of his total income.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division A Association of persons, firm, Hindu undivided family, etc. Chapter XVII, Division A, Subdivision 4 Association of persons and body of individuals Section 310 Share of member of association of persons or body of individuals in income of association or body. Section 310(3): Where no income-tax is payable by an assessee under sub-section (1),— Section 310(3)(b): in any other case, the share of a member computed as aforesaid shall form part of his total income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-A",
+      "division_number": "A",
+      "division_title": "Association of persons, firm, Hindu undivided family, etc.",
+      "subdivision_id": "chapter-XVII-division-A-subdivision-4",
+      "subdivision_number": "4",
+      "subdivision_title": "Association of persons and body of individuals",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -118,6 +366,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "310",
+      "to_id": "chapter-XVII-division-A-subdivision-4",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-A-subdivision-4",
+      "to_id": "310",
+      "edge_type": "contains"
+    },
     {
       "from_id": "310-1",
       "to_id": "310",

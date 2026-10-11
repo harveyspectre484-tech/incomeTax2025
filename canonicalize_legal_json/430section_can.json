@@ -1,18 +1,84 @@
 {
   "section_number": "430",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-F",
+      "citation": "Chapter XIX, Division F",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "F",
+      "title": "Levy of fee in certain cases",
+      "text": "Levy of fee in certain cases",
+      "retrieval_text": "Chapter XIX, Division F Levy of fee in certain cases",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "430",
       "citation": "Section 430",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-F",
       "section_id": "430",
       "section_number": "430",
       "title": "Fee for default relating to intimation of Aadhaar number.",
       "text": "Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
-      "retrieval_text": "Section 430 Fee for default relating to intimation of Aadhaar number. Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division F Levy of fee in certain cases Section 430 Fee for default relating to intimation of Aadhaar number. Without prejudice to the provisions of this Act, where a person is required to intimate his Aadhaar number under section 262(6) and such person fails to do so on or before such date as may be prescribed, he shall be liable to pay such fee, as may be prescribed, not exceeding Rs. 1000, at the time of making intimation under the said section after the said date.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-F",
+      "division_number": "F",
+      "division_title": "Levy of fee in certain cases",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +89,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "430",
+      "to_id": "chapter-XIX-division-F",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-F",
+      "to_id": "430",
+      "edge_type": "contains"
+    },
     {
       "from_id": "430",
       "to_id": "262-6",

@@ -1,26 +1,975 @@
 {
   "section_number": "337",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XVII",
+      "citation": "Chapter XVII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XVII",
+      "title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "text": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 302,
+          "end": 302
+        },
+        {
+          "start": 303,
+          "end": 305
+        },
+        {
+          "start": 306,
+          "end": 308
+        },
+        {
+          "start": 309,
+          "end": 311
+        },
+        {
+          "start": 312,
+          "end": 312
+        },
+        {
+          "start": 313,
+          "end": 314
+        },
+        {
+          "start": 315,
+          "end": 315
+        },
+        {
+          "start": 316,
+          "end": 316
+        },
+        {
+          "start": 317,
+          "end": 317
+        },
+        {
+          "start": 318,
+          "end": 318
+        },
+        {
+          "start": 319,
+          "end": 319
+        },
+        {
+          "start": 320,
+          "end": 322
+        },
+        {
+          "start": 323,
+          "end": 323
+        },
+        {
+          "start": 324,
+          "end": 326
+        },
+        {
+          "start": 327,
+          "end": 330
+        },
+        {
+          "start": 331,
+          "end": 331
+        },
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B",
+      "citation": "Chapter XVII, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XVII",
+      "number": "B",
+      "title": "Special provisions for registered non-profit organisation",
+      "text": "Special provisions for registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B Special provisions for registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 332,
+          "end": 333
+        },
+        {
+          "start": 334,
+          "end": 343
+        },
+        {
+          "start": 344,
+          "end": 346
+        },
+        {
+          "start": 347,
+          "end": 350
+        },
+        {
+          "start": 351,
+          "end": 353
+        },
+        {
+          "start": 354,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "chapter-XVII-division-B-subdivision-2",
+      "citation": "Chapter XVII, Division B, Subdivision 2",
+      "unit_type": "chapter_subdivision",
+      "parent_id": "chapter-XVII-division-B",
+      "number": "2",
+      "title": "Income of registered non-profit organisation",
+      "text": "Income of registered non-profit organisation",
+      "retrieval_text": "Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "337",
       "citation": "Section 337",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XVII-division-B-subdivision-2",
       "section_id": "337",
       "section_number": "337",
       "title": "Specified income.",
       "text": "The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
-      "retrieval_text": "Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:—",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
       "line_start": null,
       "x": 27.62,
       "y_start": 80.59
+    },
+    {
+      "id": "337-table",
+      "citation": "Section 337 Table",
+      "unit_type": "table",
+      "parent_id": "337",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Table columns: Sl. No.; Specified income; Tax year",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": 1,
+      "page_end": 1,
+      "line_start": null,
+      "x": 27.62,
+      "y_start": 150.0,
+      "columns": [
+        "Sl. No.",
+        "Specified income",
+        "Tax year"
+      ]
+    },
+    {
+      "id": "337-table-row-1",
+      "citation": "Section 337 Table, Sl. No. 1",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any anonymous donation received by a registered non-profit organisation other than a registered nonprofit organisation created or established,— (i) wholly for religious purposes, (ii) wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher.; Tax Year: Tax year in which such anonymous donation is received.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 1 Specified Income: Any anonymous donation received by a registered non-profit organisation other than a registered nonprofit organisation created or established,— (i) wholly for religious purposes, (ii) wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher.; Tax Year: Tax year in which such anonymous donation is received.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "1",
+      "columns": {
+        "specified_income": "Any anonymous donation received by a registered non-profit organisation other than a registered nonprofit organisation created or established,— (i) wholly for religious purposes, (ii) wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher.",
+        "tax_year": "Tax year in which such anonymous donation is received."
+      }
+    },
+    {
+      "id": "337-table-row-1-specified_income-i-1",
+      "citation": "Section 337 Table, Sl. No. 1, Column Specified Income, item (i)",
+      "unit_type": "table_cell_item",
+      "parent_id": "337-table-row-1",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "wholly for religious purposes,",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 1 Column Specified Income, item (i): wholly for religious purposes,",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "column": "specified_income",
+      "column_label": "Specified Income",
+      "source_id": "337-table-B-i"
+    },
+    {
+      "id": "337-table-row-1-specified_income-ii-2",
+      "citation": "Section 337 Table, Sl. No. 1, Column Specified Income, item (ii)",
+      "unit_type": "table_cell_item",
+      "parent_id": "337-table-row-1",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 1 Column Specified Income, item (ii): wholly for charitable and religious purposes (excluding anonymous donation made with a specific direction that such donation is for any university or other educational institution or any hospital; or other medical institution run by such registered non-profit organisation), excluding the anonymous donations up to Rs. 100000 or 5% of the total donations received by it during the tax year, whichever is higher.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "column": "specified_income",
+      "column_label": "Specified Income",
+      "source_id": "337-table-B-i-ii"
+    },
+    {
+      "id": "337-table-row-2",
+      "citation": "Section 337 Table, Sl. No. 2",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of income applied by it, directly or indirectly, for the benefit of any related person, computed in the manner, as may be prescribed.; Tax Year: Tax year in which such application is made.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 2 Specified Income: Any portion of income applied by it, directly or indirectly, for the benefit of any related person, computed in the manner, as may be prescribed.; Tax Year: Tax year in which such application is made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "2",
+      "columns": {
+        "specified_income": "Any portion of income applied by it, directly or indirectly, for the benefit of any related person, computed in the manner, as may be prescribed.",
+        "tax_year": "Tax year in which such application is made."
+      }
+    },
+    {
+      "id": "337-table-row-3",
+      "citation": "Section 337 Table, Sl. No. 3",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of income applied by it outside India in contravention to the provisions of section 338(a).; Tax Year: Tax year in which such application of income is made.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 3 Specified Income: Any portion of income applied by it outside India in contravention to the provisions of section 338(a).; Tax Year: Tax year in which such application of income is made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "3",
+      "columns": {
+        "specified_income": "Any portion of income applied by it outside India in contravention to the provisions of section 338(a).",
+        "tax_year": "Tax year in which such application of income is made."
+      }
+    },
+    {
+      "id": "337-table-row-4",
+      "citation": "Section 337 Table, Sl. No. 4",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any investment or deposit made in contravention to the provisions of section 350 out of any income, accumulated income, deemed accumulated income, corpus, deemed corpus, or any other fund.; Tax Year: Tax year in which such investment or deposit is made.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 4 Specified Income: Any investment or deposit made in contravention to the provisions of section 350 out of any income, accumulated income, deemed accumulated income, corpus, deemed corpus, or any other fund.; Tax Year: Tax year in which such investment or deposit is made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "4",
+      "columns": {
+        "specified_income": "Any investment or deposit made in contravention to the provisions of section 350 out of any income, accumulated income, deemed accumulated income, corpus, deemed corpus, or any other fund.",
+        "tax_year": "Tax year in which such investment or deposit is made."
+      }
+    },
+    {
+      "id": "337-table-row-5",
+      "citation": "Section 337 Table, Sl. No. 5",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any deemed corpus donation in respect of which any of the conditions specified in the section 340 is violated.; Tax Year: Tax year in which such violation is made.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 5 Specified Income: Any deemed corpus donation in respect of which any of the conditions specified in the section 340 is violated.; Tax Year: Tax year in which such violation is made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "5",
+      "columns": {
+        "specified_income": "Any deemed corpus donation in respect of which any of the conditions specified in the section 340 is violated.",
+        "tax_year": "Tax year in which such violation is made."
+      }
+    },
+    {
+      "id": "337-table-row-6",
+      "citation": "Section 337 Table, Sl. No. 6",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of accumulated income, if it is applied to purposes other than charitable or religious purposes for which it is accumulated or set apart.; Tax Year: Tax year in which it is so applied.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 6 Specified Income: Any portion of accumulated income, if it is applied to purposes other than charitable or religious purposes for which it is accumulated or set apart.; Tax Year: Tax year in which it is so applied.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "6",
+      "columns": {
+        "specified_income": "Any portion of accumulated income, if it is applied to purposes other than charitable or religious purposes for which it is accumulated or set apart.",
+        "tax_year": "Tax year in which it is so applied."
+      }
+    },
+    {
+      "id": "337-table-row-7",
+      "citation": "Section 337 Table, Sl. No. 7",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of accumulated income, if it ceases to be accumulated or set apart for application to such purposes as specified under section 342(1).; Tax Year: Tax year in which it ceases to be so accumulated or set apart.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 7 Specified Income: Any portion of accumulated income, if it ceases to be accumulated or set apart for application to such purposes as specified under section 342(1).; Tax Year: Tax year in which it ceases to be so accumulated or set apart.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "7",
+      "columns": {
+        "specified_income": "Any portion of accumulated income, if it ceases to be accumulated or set apart for application to such purposes as specified under section 342(1).",
+        "tax_year": "Tax year in which it ceases to be so accumulated or set apart."
+      }
+    },
+    {
+      "id": "337-table-row-8",
+      "citation": "Section 337 Table, Sl. No. 8",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to 341(4) for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 3 2(1); Tax Year: Last of the tax years for which income was so accumulated or set apart.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 8 Specified Income: Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to 341(4) for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 3 2(1); Tax Year: Last of the tax years for which income was so accumulated or set apart.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "8",
+      "columns": {
+        "specified_income": "Any portion of accumulated income, if it is not applied as per the provisions of section 341(1) to 341(4) for which it is accumulated or set apart within the period for which it was accumulated or set apart as specified in section 3 2(1)",
+        "tax_year": "Last of the tax years for which income was so accumulated or set apart."
+      }
+    },
+    {
+      "id": "337-table-row-9",
+      "citation": "Section 337 Table, Sl. No. 9",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any portion of accumulated income, if it is credited or paid to any other registered non-profit organisation.; Tax Year: Tax year in which it is so credited or paid.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 9 Specified Income: Any portion of accumulated income, if it is credited or paid to any other registered non-profit organisation.; Tax Year: Tax year in which it is so credited or paid.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "9",
+      "columns": {
+        "specified_income": "Any portion of accumulated income, if it is credited or paid to any other registered non-profit organisation.",
+        "tax_year": "Tax year in which it is so credited or paid."
+      }
+    },
+    {
+      "id": "337-table-row-10",
+      "citation": "Section 337 Table, Sl. No. 10",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any income applied to purposes other than charitable or religious purposes for which it is registered.; Tax Year: Tax year in which it is so applied.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 10 Specified Income: Any income applied to purposes other than charitable or religious purposes for which it is registered.; Tax Year: Tax year in which it is so applied.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "10",
+      "columns": {
+        "specified_income": "Any income applied to purposes other than charitable or religious purposes for which it is registered.",
+        "tax_year": "Tax year in which it is so applied."
+      }
+    },
+    {
+      "id": "337-table-row-11",
+      "citation": "Section 337 Table, Sl. No. 11",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any income determined by the Assessing Officer under section 344 in excess of income shown in the books of account of such business undertaking.; Tax Year: Tax year to which such income relates.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 11 Specified Income: Any income determined by the Assessing Officer under section 344 in excess of income shown in the books of account of such business undertaking.; Tax Year: Tax year to which such income relates.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "11",
+      "columns": {
+        "specified_income": "Any income determined by the Assessing Officer under section 344 in excess of income shown in the books of account of such business undertaking.",
+        "tax_year": "Tax year to which such income relates."
+      }
+    },
+    {
+      "id": "337-table-row-12",
+      "citation": "Section 337 Table, Sl. No. 12",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to 1(30) of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired; Tax Year: Tax year immediately following the expiry of limitation period mentioned in Column B.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 12 Specified Income: Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to 1(30) of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired; Tax Year: Tax year immediately following the expiry of limitation period mentioned in Column B.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "12",
+      "columns": {
+        "specified_income": "Fair market value of any asset, where it is not held in forms or modes specified in paragraph 1(1) to 1(30) of Schedule XVI even after the expiry of one year from the end of the tax year in which such asset is acquired",
+        "tax_year": "Tax year immediately following the expiry of limitation period mentioned in Column B."
+      }
+    },
+    {
+      "id": "337-table-row-13",
+      "citation": "Section 337 Table, Sl. No. 13",
+      "unit_type": "table_row",
+      "parent_id": "337-table",
+      "section_id": "337",
+      "section_number": "337",
+      "title": "Specified income.",
+      "text": "Specified Income: Any deemed application under section 341(5) not actually applied by the registered non-profit organization for its objects in India within the period specified in section 341(6).; Tax Year: Tax year specified in section 341(6) by which such application is required to be made.",
+      "retrieval_text": "Chapter XVII SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS Chapter XVII, Division B Special provisions for registered non-profit organisation Chapter XVII, Division B, Subdivision 2 Income of registered non-profit organisation Section 337 Specified income. The specified income of a registered non-profit organisation shall mean the income as specified in column B of the Table below and shall be taxable in the year provided in the column C thereof:— Table columns: Sl. No.; Specified income; Tax year Section 337 Table, Sl. No. 13 Specified Income: Any deemed application under section 341(5) not actually applied by the registered non-profit organization for its objects in India within the period specified in section 341(6).; Tax Year: Tax year specified in section 341(6) by which such application is required to be made.",
+      "act": "Income-tax Act, 2025",
+      "chapter": "XVII",
+      "chapter_id": "chapter-XVII",
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS",
+      "division_id": "chapter-XVII-division-B",
+      "division_number": "B",
+      "division_title": "Special provisions for registered non-profit organisation",
+      "subdivision_id": "chapter-XVII-division-B-subdivision-2",
+      "subdivision_number": "2",
+      "subdivision_title": "Income of registered non-profit organisation",
+      "jurisdiction": "India",
+      "page_start": null,
+      "page_end": null,
+      "line_start": null,
+      "x": null,
+      "y_start": null,
+      "row_number": "13",
+      "columns": {
+        "specified_income": "Any deemed application under section 341(5) not actually applied by the registered non-profit organization for its objects in India within the period specified in section 341(6).",
+        "tax_year": "Tax year specified in section 341(6) by which such application is required to be made."
+      }
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "337",
+      "to_id": "chapter-XVII-division-B-subdivision-2",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XVII-division-B-subdivision-2",
+      "to_id": "337",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337",
+      "to_id": "337-table",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-1",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-1-specified_income-i-1",
+      "to_id": "337-table-row-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table-row-1",
+      "to_id": "337-table-row-1-specified_income-i-1",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-1-specified_income-ii-2",
+      "to_id": "337-table-row-1",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table-row-1",
+      "to_id": "337-table-row-1-specified_income-ii-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-2",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-2",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-3",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-3",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-4",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-4",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-5",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-5",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-6",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-6",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-7",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-7",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-8",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-9",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-9",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-10",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-10",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-11",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-11",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-12",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-12",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-13",
+      "to_id": "337-table",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "337-table",
+      "to_id": "337-table-row-13",
+      "edge_type": "contains"
+    },
+    {
+      "from_id": "337-table-row-3",
+      "to_id": "338-a",
+      "edge_type": "references",
+      "reference_text": "section 338(a)"
+    },
+    {
+      "from_id": "337-table-row-4",
+      "to_id": "350",
+      "edge_type": "references",
+      "reference_text": "section 350"
+    },
+    {
+      "from_id": "337-table-row-5",
+      "to_id": "340",
+      "edge_type": "references",
+      "reference_text": "section 340"
+    },
+    {
+      "from_id": "337-table-row-7",
+      "to_id": "342-1",
+      "edge_type": "references",
+      "reference_text": "section 342(1)"
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "341-1",
+      "edge_type": "references",
+      "reference_text": "section 341(1) to 341(4)",
+      "reference_kind": "range",
+      "range_start": "341-1",
+      "range_end": "341-4",
+      "range_member_count": 4,
+      "range_member_index": 1
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "341-2",
+      "edge_type": "references",
+      "reference_text": "section 341(1) to 341(4)",
+      "reference_kind": "range",
+      "range_start": "341-1",
+      "range_end": "341-4",
+      "range_member_count": 4,
+      "range_member_index": 2
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "341-3",
+      "edge_type": "references",
+      "reference_text": "section 341(1) to 341(4)",
+      "reference_kind": "range",
+      "range_start": "341-1",
+      "range_end": "341-4",
+      "range_member_count": 4,
+      "range_member_index": 3
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "341-4",
+      "edge_type": "references",
+      "reference_text": "section 341(1) to 341(4)",
+      "reference_kind": "range",
+      "range_start": "341-1",
+      "range_end": "341-4",
+      "range_member_count": 4,
+      "range_member_index": 4
+    },
+    {
+      "from_id": "337-table-row-8",
+      "to_id": "3",
+      "edge_type": "references",
+      "reference_text": "section 3"
+    },
+    {
+      "from_id": "337-table-row-11",
+      "to_id": "344",
+      "edge_type": "references",
+      "reference_text": "section 344"
+    },
+    {
+      "from_id": "337-table-row-12",
+      "to_id": "schedule-XVI",
+      "edge_type": "references_schedule",
+      "reference_text": "Schedule XVI",
+      "schedule_number_roman": "XVI",
+      "schedule_number": 16,
+      "schedule_locator_type": "schedule",
+      "schedule_locator_value": null
+    },
+    {
+      "from_id": "337-table-row-13",
+      "to_id": "341-5",
+      "edge_type": "references",
+      "reference_text": "section 341(5)"
+    },
+    {
+      "from_id": "337-table-row-13",
+      "to_id": "341-6",
+      "edge_type": "references",
+      "reference_text": "section 341(6)"
+    }
+  ]
 }

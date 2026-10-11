@@ -1,18 +1,46 @@
 {
   "section_number": "521",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XXIII",
+      "citation": "Chapter XXIII",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XXIII",
+      "title": "MISCELLANEOUS",
+      "text": "MISCELLANEOUS",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 499,
+          "end": 536
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "521",
       "citation": "Section 521",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XXIII",
       "section_id": "521",
       "section_number": "521",
       "title": "Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply.",
       "text": "The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
-      "retrieval_text": "Section 521 Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply. The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
+      "retrieval_text": "Chapter XXIII MISCELLANEOUS Section 521 Probation of Offenders Act, 1958 and section 401 of Bharatiya Nagarik Suraksha Sanhita, 2023, not to apply. The provisions of the Probation of Offenders Act, 1958 (20 of 1958) and section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) shall not apply to a person convicted of an offence under this Act unless that person is under eighteen years of age.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XXIII",
+      "chapter_id": "chapter-XXIII",
+      "chapter_title": "MISCELLANEOUS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -40,6 +68,16 @@
     }
   ],
   "graph_edges": [
+    {
+      "from_id": "521",
+      "to_id": "chapter-XXIII",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XXIII",
+      "to_id": "521",
+      "edge_type": "contains"
+    },
     {
       "from_id": "521",
       "to_id": "ext-india-act-1958-20",

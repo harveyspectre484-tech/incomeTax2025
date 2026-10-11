@@ -1,18 +1,46 @@
 {
   "section_number": "432",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XX",
+      "citation": "Chapter XX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XX",
+      "title": "REFUNDS",
+      "text": "REFUNDS",
+      "retrieval_text": "Chapter XX REFUNDS",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 431,
+          "end": 438
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "432",
       "citation": "Section 432",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XX",
       "section_id": "432",
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
       "text": "",
-      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases.",
+      "retrieval_text": "Chapter XX REFUNDS Section 432 Person entitled to claim refund in certain special cases.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XX",
+      "chapter_id": "chapter-XX",
+      "chapter_title": "REFUNDS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -29,9 +57,17 @@
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
       "text": "Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
-      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(1): Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
+      "retrieval_text": "Chapter XX REFUNDS Section 432 Person entitled to claim refund in certain special cases. Section 432(1): Where the income of one person is included in total income of any other person under any provision of this Act, the latter alone shall be eligible for a refund under this Chapter in respect of such income.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XX",
+      "chapter_id": "chapter-XX",
+      "chapter_title": "REFUNDS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -48,9 +84,17 @@
       "section_number": "432",
       "title": "Person entitled to claim refund in certain special cases.",
       "text": "Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
-      "retrieval_text": "Section 432 Person entitled to claim refund in certain special cases. Section 432(2): Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
+      "retrieval_text": "Chapter XX REFUNDS Section 432 Person entitled to claim refund in certain special cases. Section 432(2): Where a person is unable to claim or receive a refund due to him, on account of death, incapacity, insolvency, liquidation or other cause, his legal representative or the trustee or guardian or receiver, shall be entitled to claim or receive such refund for the benefit of such person or his estate.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XX",
+      "chapter_id": "chapter-XX",
+      "chapter_title": "REFUNDS",
+      "division_id": null,
+      "division_number": null,
+      "division_title": "",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -61,6 +105,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "432",
+      "to_id": "chapter-XX",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XX",
+      "to_id": "432",
+      "edge_type": "contains"
+    },
     {
       "from_id": "432-1",
       "to_id": "432",

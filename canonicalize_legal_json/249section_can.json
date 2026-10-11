@@ -1,18 +1,68 @@
 {
   "section_number": "249",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIV",
+      "citation": "Chapter XIV",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIV",
+      "title": "TAX ADMINISTRATION",
+      "text": "TAX ADMINISTRATION",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 236,
+          "end": 245
+        },
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIV-division-B",
+      "citation": "Chapter XIV, Division B",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIV",
+      "number": "B",
+      "title": "Powers",
+      "text": "Powers",
+      "retrieval_text": "Chapter XIV, Division B Powers",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "249",
       "citation": "Section 249",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIV-division-B",
       "section_id": "249",
       "section_number": "249",
       "title": "Reasons not to be disclosed.",
       "text": "The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
-      "retrieval_text": "Section 249 Reasons not to be disclosed. The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
+      "retrieval_text": "Chapter XIV TAX ADMINISTRATION Chapter XIV, Division B Powers Section 249 Reasons not to be disclosed. The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIV",
+      "chapter_id": "chapter-XIV",
+      "chapter_title": "TAX ADMINISTRATION",
+      "division_id": "chapter-XIV-division-B",
+      "division_number": "B",
+      "division_title": "Powers",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -23,6 +73,16 @@
   ],
   "external_nodes": [],
   "graph_edges": [
+    {
+      "from_id": "249",
+      "to_id": "chapter-XIV-division-B",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIV-division-B",
+      "to_id": "249",
+      "edge_type": "contains"
+    },
     {
       "from_id": "249",
       "to_id": "247",

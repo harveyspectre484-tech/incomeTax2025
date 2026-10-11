@@ -1,18 +1,84 @@
 {
   "section_number": "419",
+  "hierarchy_path": [
+    {
+      "id": "chapter-XIX",
+      "citation": "Chapter XIX",
+      "unit_type": "chapter",
+      "parent_id": null,
+      "number": "XIX",
+      "title": "COLLECTION AND RECOVERY OF TAX",
+      "text": "COLLECTION AND RECOVERY OF TAX",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 390,
+          "end": 391
+        },
+        {
+          "start": 392,
+          "end": 402
+        },
+        {
+          "start": 403,
+          "end": 411
+        },
+        {
+          "start": 412,
+          "end": 422
+        },
+        {
+          "start": 423,
+          "end": 426
+        },
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "chapter-XIX-division-D",
+      "citation": "Chapter XIX, Division D",
+      "unit_type": "chapter_division",
+      "parent_id": "chapter-XIX",
+      "number": "D",
+      "title": "Collection and Recovery",
+      "text": "Collection and Recovery",
+      "retrieval_text": "Chapter XIX, Division D Collection and Recovery",
+      "act": "Income-tax Act, 2025",
+      "jurisdiction": "India",
+      "section_ranges": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    }
+  ],
   "legal_units": [
     {
       "id": "419",
       "citation": "Section 419",
       "unit_type": "section",
-      "parent_id": null,
+      "parent_id": "chapter-XIX-division-D",
       "section_id": "419",
       "section_number": "419",
       "title": "Recovery of penalties, fine, interest and other sums.",
       "text": "Any sum imposed by way of interest, fine, penalty, or any other sum payable under the provisions of this Act, shall be recoverable in the manner provided in this Part for the recovery of arrears of tax.",
-      "retrieval_text": "Section 419 Recovery of penalties, fine, interest and other sums. Any sum imposed by way of interest, fine, penalty, or any other sum payable under the provisions of this Act, shall be recoverable in the manner provided in this Part for the recovery of arrears of tax.",
+      "retrieval_text": "Chapter XIX COLLECTION AND RECOVERY OF TAX Chapter XIX, Division D Collection and Recovery Section 419 Recovery of penalties, fine, interest and other sums. Any sum imposed by way of interest, fine, penalty, or any other sum payable under the provisions of this Act, shall be recoverable in the manner provided in this Part for the recovery of arrears of tax.",
       "act": "Income-tax Act, 2025",
-      "chapter": "",
+      "chapter": "XIX",
+      "chapter_id": "chapter-XIX",
+      "chapter_title": "COLLECTION AND RECOVERY OF TAX",
+      "division_id": "chapter-XIX-division-D",
+      "division_number": "D",
+      "division_title": "Collection and Recovery",
+      "subdivision_id": null,
+      "subdivision_number": null,
+      "subdivision_title": "",
       "jurisdiction": "India",
       "page_start": 1,
       "page_end": 1,
@@ -22,5 +88,16 @@
     }
   ],
   "external_nodes": [],
-  "graph_edges": []
+  "graph_edges": [
+    {
+      "from_id": "419",
+      "to_id": "chapter-XIX-division-D",
+      "edge_type": "parent"
+    },
+    {
+      "from_id": "chapter-XIX-division-D",
+      "to_id": "419",
+      "edge_type": "contains"
+    }
+  ]
 }

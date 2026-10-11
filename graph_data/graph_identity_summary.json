@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.2.0",
+  "stage": "4A_identity_and_duplicates",
+  "input_node_occurrences": 9573,
+  "active_node_count": 9573,
+  "merged_node_occurrences": 0,
+  "conflicting_node_ids": 0,
+  "input_resolved_edge_occurrences": 23206,
+  "active_edge_count": 23206,
+  "merged_resolved_edge_occurrences": 0,
+  "input_pending_edge_occurrences": 570,
+  "pending_edge_count": 570,
+  "edges_moved_to_pending": 0,
+  "blocking_conflicts": false,
+  "external_act_nodes_deferred": true
+}
