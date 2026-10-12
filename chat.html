@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f7f8">
+    <title>Act Research | Income-tax Act, 2025</title>
+    <link rel="stylesheet" href="/chat.css">
+    <script src="/chat.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar" aria-label="Conversations">
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">§</div>
+          <div class="brand-copy"><strong>ACT RESEARCH</strong><span>INCOME-TAX · 2025</span></div>
+          <button class="icon-button mobile-only" id="closeSidebar" type="button" aria-label="Close conversations" title="Close conversations">×</button>
+        </div>
+        <button class="new-chat" id="newChat" type="button"><span aria-hidden="true">＋</span> New research</button>
+        <div class="rail-label">CONVERSATIONS</div>
+        <nav class="thread-list" id="threadList" aria-label="Conversation list"></nav>
+        <div class="sidebar-footer">
+          <div class="corpus"><span aria-hidden="true">▤</span> Income-tax Act, 2025</div>
+          <div class="corpus-detail">537 sections · 16 schedules</div>
+          <div class="connection" id="connection"><span class="status-dot"></span><span id="connectionLabel">Connecting</span></div>
+        </div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div class="topbar-title">
+            <button class="icon-button mobile-only" id="openSidebar" type="button" aria-label="Open conversations" title="Open conversations">☰</button>
+            <strong>Income-tax Act, 2025</strong><span class="topbar-divider"></span><span class="topbar-subtitle">Legal research</span>
+          </div>
+          <div class="topbar-actions">
+            <button class="tool-button" id="openFilters" type="button" title="Search filters">⚙ <span>Filters</span><b id="filterCount" hidden></b></button>
+            <button class="icon-button" id="toggleEvidence" type="button" aria-label="Toggle evidence" title="Toggle evidence">▤</button>
+          </div>
+        </header>
+        <div class="system-banner" id="systemBanner" role="status" hidden>
+          <span aria-hidden="true">!</span><span id="bannerText"></span>
+          <button class="icon-button" id="retryHealth" type="button" aria-label="Check connection" title="Check connection">↻</button>
+        </div>
+        <div class="chat-scroll" id="chatScroll">
+          <div class="chat-content" id="chatContent"></div>
+        </div>
+        <div class="composer-area">
+          <form class="composer" id="composerForm">
+            <label class="sr-only" for="questionInput">Question</label>
+            <textarea id="questionInput" rows="2" placeholder="Ask a question about the Income-tax Act..."></textarea>
+            <div class="composer-bottom">
+              <span>Income-tax Act, 2025 <span id="activeFiltersLabel"></span></span>
+              <button class="send-button" id="sendButton" type="submit" aria-label="Send question" title="Send question" disabled>➤</button>
+            </div>
+          </form>
+          <p class="disclaimer">Responses are based on retrieved provisions and require legal review.</p>
+        </div>
+      </main>
+
+      <aside class="evidence-pane" id="evidencePane" aria-label="Evidence">
+        <div class="evidence-header"><div><span class="eyebrow">RESEARCH FILE</span><h2>Evidence</h2></div><button class="icon-button" id="closeEvidence" type="button" aria-label="Close evidence" title="Close evidence">×</button></div>
+        <div id="evidenceContent"></div>
+      </aside>
+    </div>
+
+    <div class="overlay" id="overlay" hidden></div>
+    <dialog class="filter-dialog" id="filterDialog" aria-labelledby="filterTitle">
+      <form method="dialog" id="filterForm">
+        <div class="dialog-header"><div><span class="eyebrow">SEARCH SCOPE</span><h2 id="filterTitle">Filters</h2></div><button class="icon-button" type="button" id="closeFilters" aria-label="Close filters" title="Close filters">×</button></div>
+        <label>Chapter<input id="filterChapter" placeholder="e.g. IV" autocomplete="off"></label>
+        <label>Section<input id="filterSection" placeholder="e.g. 31" inputmode="numeric" autocomplete="off"></label>
+        <label>Unit type<select id="filterUnitType"><option value="">All units</option><option value="section">Section</option><option value="subsection">Subsection</option><option value="clause">Clause</option><option value="sub_clause">Sub-clause</option><option value="table_row">Table row</option><option value="paragraph">Schedule paragraph</option></select></label>
+        <label>Jurisdiction<input id="filterJurisdiction" value="India" autocomplete="off"></label>
+        <div class="dialog-actions"><button class="reset-button" id="resetFilters" type="button">Reset</button><button class="apply-button" type="submit">Apply filters</button></div>
+      </form>
+    </dialog>
+  </body>
+</html>

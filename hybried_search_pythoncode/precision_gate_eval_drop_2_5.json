@@ -1,0 +1,715 @@
+{
+  "cases": [
+    {
+      "kind": "exact_citation",
+      "question": "Explain Section 36(3)(a)(i)",
+      "required_ids": [
+        "36-3-a-i",
+        "36-3-a-i-table"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "required_recall": 1.0,
+      "focus_precision_proxy": 0.8333333333333334,
+      "focus_ids": [
+        "36",
+        "36-3",
+        "36-3-a",
+        "36-3-a-i",
+        "36-3-a-i-table",
+        "36-3-a-i-table-row-1",
+        "36-3-a-i-table-row-2",
+        "36-3-a-i-table-row-3",
+        "36-3-a-i-table-row-4",
+        "36-3-a-i-table-row-5"
+      ],
+      "final_evidence_ids": [
+        "36",
+        "36-2",
+        "36-3",
+        "36-3-a",
+        "36-3-a-i",
+        "36-3-a-i-table",
+        "36-3-a-i-table-row-1",
+        "36-3-a-i-table-row-2",
+        "36-3-a-i-table-row-3",
+        "36-3-a-i-table-row-4",
+        "36-3-a-i-table-row-5",
+        "36-3-a-iv"
+      ],
+      "omitted_units": [],
+      "omitted_bundles": [
+        {
+          "anchor_id": "36-3-a-iv-D",
+          "reason": "bundle_limit",
+          "rerank_score": 6.6363525390625
+        },
+        {
+          "anchor_id": "36-3-a-iv-A",
+          "reason": "bundle_limit",
+          "rerank_score": 6.523536682128906
+        },
+        {
+          "anchor_id": "36-3-a-iv-C",
+          "reason": "bundle_limit",
+          "rerank_score": 6.394880294799805
+        },
+        {
+          "anchor_id": "36-3-a-iv-E",
+          "reason": "bundle_limit",
+          "rerank_score": 6.268321990966797
+        },
+        {
+          "anchor_id": "36-3-a-iv-B",
+          "reason": "bundle_limit",
+          "rerank_score": 6.158034324645996
+        },
+        {
+          "anchor_id": "36-3-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.966831207275391
+        },
+        {
+          "anchor_id": "36-3-b-i",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.83198356628418
+        },
+        {
+          "anchor_id": "36-3",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.736724853515625
+        },
+        {
+          "anchor_id": "36-3-b-ii",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.581711769104004
+        },
+        {
+          "anchor_id": "36-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.6283512115478516
+        },
+        {
+          "anchor_id": "schedule-III-t36",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.813614845275879
+        },
+        {
+          "anchor_id": "195-1-b-i",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.869204521179199
+        },
+        {
+          "anchor_id": "93-1-d-i",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.085920333862305
+        },
+        {
+          "anchor_id": "536-2-s",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.3014020919799805
+        },
+        {
+          "anchor_id": "schedule-II-t3-cond-a-ii-B",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.8889570236206055
+        },
+        {
+          "anchor_id": "195-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.941532135009766
+        },
+        {
+          "anchor_id": "326-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.057753562927246
+        },
+        {
+          "anchor_id": "194-1-b-table-row-4",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.876108169555664
+        },
+        {
+          "anchor_id": "194-1-b-table-row-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -6.661539554595947
+        },
+        {
+          "anchor_id": "schedule-III-t4",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -6.785399436950684
+        },
+        {
+          "anchor_id": "schedule-III-t39",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -7.233246326446533
+        }
+      ]
+    },
+    {
+      "kind": "bank_table",
+      "question": "What deduction percentage is allowed for provision for bad debts of a scheduled bank?",
+      "required_ids": [
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "required_recall": 1.0,
+      "focus_precision_proxy": 0.25,
+      "focus_ids": [
+        "31",
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1"
+      ],
+      "final_evidence_ids": [
+        "26",
+        "276",
+        "276-2",
+        "31",
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1",
+        "31-2",
+        "31-2-b",
+        "31-2-c",
+        "31-2-c-i",
+        "31-2-c-ii",
+        "31-2-c-iii",
+        "31-3",
+        "31-3-a",
+        "31-3-b"
+      ],
+      "omitted_units": [
+        {
+          "id": "31-1-table-row-2",
+          "reason": "nonmatching_table_alternative"
+        }
+      ],
+      "omitted_bundles": [
+        {
+          "anchor_id": "31-2",
+          "reason": "bundle_limit",
+          "rerank_score": 4.809988975524902
+        },
+        {
+          "anchor_id": "31-2-c-ii",
+          "reason": "bundle_limit",
+          "rerank_score": 4.407797813415527
+        },
+        {
+          "anchor_id": "31-2-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.215221405029297
+        },
+        {
+          "anchor_id": "31-2-c",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.151395797729492
+        },
+        {
+          "anchor_id": "31-2-c-iii",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.125944137573242
+        },
+        {
+          "anchor_id": "37-7",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 1.3321723937988281
+        },
+        {
+          "anchor_id": "536-2-t",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -0.8268795013427734
+        },
+        {
+          "anchor_id": "56-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.5822639465332031
+        },
+        {
+          "anchor_id": "56-2-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.9063844680786133
+        }
+      ]
+    },
+    {
+      "kind": "definition",
+      "question": "What is a demerged company under Section 2(34)?",
+      "required_ids": [
+        "2-34"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "required_recall": 1.0,
+      "focus_precision_proxy": 1.0,
+      "focus_ids": [
+        "2",
+        "2-34"
+      ],
+      "final_evidence_ids": [
+        "2",
+        "2-34"
+      ],
+      "omitted_units": [],
+      "omitted_bundles": [
+        {
+          "anchor_id": "2-35-g-v",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 7.09963321685791
+        },
+        {
+          "anchor_id": "2-35-g-vi",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.554128646850586
+        },
+        {
+          "anchor_id": "2-35-e",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.542932510375977
+        },
+        {
+          "anchor_id": "2-35",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.505125045776367
+        },
+        {
+          "anchor_id": "2-35-c",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.395216941833496
+        },
+        {
+          "anchor_id": "2-97",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.359396934509277
+        },
+        {
+          "anchor_id": "2-35-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.278739929199219
+        },
+        {
+          "anchor_id": "2-35-g",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.182697296142578
+        },
+        {
+          "anchor_id": "2-35-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 6.181102752685547
+        },
+        {
+          "anchor_id": "2-101-c-B-III",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.875824928283691
+        },
+        {
+          "anchor_id": "2-35-d",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.737237930297852
+        },
+        {
+          "anchor_id": "233-6",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.605825424194336
+        },
+        {
+          "anchor_id": "33-5-c",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.564519882202148
+        },
+        {
+          "anchor_id": "233-5",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 5.143803596496582
+        },
+        {
+          "anchor_id": "2-40-exclusions-iv",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.920578956604004
+        },
+        {
+          "anchor_id": "70-1-j",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.476081848144531
+        },
+        {
+          "anchor_id": "39-4-table-row-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.7127113342285156
+        },
+        {
+          "anchor_id": "52-2-e",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.6541061401367188
+        },
+        {
+          "anchor_id": "2-38",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.5168981552124023
+        },
+        {
+          "anchor_id": "116-6-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.440704345703125
+        },
+        {
+          "anchor_id": "70-1-l",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.368983268737793
+        },
+        {
+          "anchor_id": "66-34-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.464655876159668
+        },
+        {
+          "anchor_id": "70-1-m",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.4617624282836914
+        },
+        {
+          "anchor_id": "66-34-c",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.371793746948242
+        },
+        {
+          "anchor_id": "34-3-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.2127084732055664
+        },
+        {
+          "anchor_id": "34-2-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 1.454446792602539
+        },
+        {
+          "anchor_id": "66-34-d",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 1.137969970703125
+        },
+        {
+          "anchor_id": "34-2-c",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 1.0475492477416992
+        },
+        {
+          "anchor_id": "34-2-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 0.31350231170654297
+        }
+      ]
+    },
+    {
+      "kind": "cross_section_exception",
+      "question": "Are marked to market losses deductible under Section 32(h), considering Section 36(9)?",
+      "required_ids": [
+        "32-h",
+        "36-9"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "required_recall": 1.0,
+      "focus_precision_proxy": 0.8571428571428571,
+      "focus_ids": [
+        "276",
+        "276-2",
+        "32",
+        "32-h",
+        "36",
+        "36-9"
+      ],
+      "final_evidence_ids": [
+        "26",
+        "276",
+        "276-2",
+        "32",
+        "32-h",
+        "36",
+        "36-9"
+      ],
+      "omitted_units": [],
+      "omitted_bundles": [
+        {
+          "anchor_id": "36-2-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.4106082916259766
+        },
+        {
+          "anchor_id": "36-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.1382064819335938
+        },
+        {
+          "anchor_id": "36-3-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 0.8794851303100586
+        },
+        {
+          "anchor_id": "36-3-a-iv",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 0.5046310424804688
+        },
+        {
+          "anchor_id": "36-2-b",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -0.37293243408203125
+        },
+        {
+          "anchor_id": "36-3-a-i-table-row-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -0.6273527145385742
+        },
+        {
+          "anchor_id": "36-3-a-iv-A",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.1013059616088867
+        },
+        {
+          "anchor_id": "36-3-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.162278175354004
+        },
+        {
+          "anchor_id": "36-3-a-iv-C",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.1889333724975586
+        },
+        {
+          "anchor_id": "36-3",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.5870246887207031
+        },
+        {
+          "anchor_id": "36-3-a-iv-B",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.6592826843261719
+        },
+        {
+          "anchor_id": "36-3-a-iv-E",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.669992446899414
+        },
+        {
+          "anchor_id": "36-3-a-iv-D",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.6315183639526367
+        },
+        {
+          "anchor_id": "36-3-a-i",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.972200393676758
+        },
+        {
+          "anchor_id": "140-9",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.4279403686523438
+        },
+        {
+          "anchor_id": "109-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.042293548583984
+        },
+        {
+          "anchor_id": "122-6",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.458045959472656
+        },
+        {
+          "anchor_id": "175-9",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.542038917541504
+        },
+        {
+          "anchor_id": "175-10",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.728424072265625
+        },
+        {
+          "anchor_id": "536-2-n",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -4.876072883605957
+        },
+        {
+          "anchor_id": "175-8",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.384712219238281
+        },
+        {
+          "anchor_id": "76-4",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.61413049697876
+        },
+        {
+          "anchor_id": "76-3-where-C",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.757453918457031
+        },
+        {
+          "anchor_id": "199-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.772757530212402
+        },
+        {
+          "anchor_id": "195-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.884007453918457
+        },
+        {
+          "anchor_id": "76-1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -6.60040283203125
+        },
+        {
+          "anchor_id": "76-5",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -6.940791130065918
+        },
+        {
+          "anchor_id": "76-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -7.24194860458374
+        }
+      ]
+    },
+    {
+      "kind": "schedule_row",
+      "question": "When is armed forces disability pension excluded under Schedule III row 38A?",
+      "required_ids": [
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "required_recall": 1.0,
+      "focus_precision_proxy": 0.5714285714285714,
+      "focus_ids": [
+        "schedule-III",
+        "schedule-III-footnote37",
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "final_evidence_ids": [
+        "schedule-III",
+        "schedule-III-footnote37",
+        "schedule-III-footnote38",
+        "schedule-III-note12",
+        "schedule-III-note12-b",
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "omitted_units": [],
+      "omitted_bundles": [
+        {
+          "anchor_id": "schedule-III-t16",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 4.952824592590332
+        },
+        {
+          "anchor_id": "schedule-III-t14",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 3.996631622314453
+        },
+        {
+          "anchor_id": "schedule-III-t4",
+          "reason": "below_rerank_threshold",
+          "rerank_score": 2.323697090148926
+        },
+        {
+          "anchor_id": "schedule-III-t13",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -0.2566709518432617
+        },
+        {
+          "anchor_id": "schedule-III-t15",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -0.5094566345214844
+        },
+        {
+          "anchor_id": "schedule-III-t34",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.150374412536621
+        },
+        {
+          "anchor_id": "schedule-III-t8",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.2227916717529297
+        },
+        {
+          "anchor_id": "schedule-VII-note6-ii",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.5275449752807617
+        },
+        {
+          "anchor_id": "schedule-III-t6",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.6758203506469727
+        },
+        {
+          "anchor_id": "schedule-III-t1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.781015396118164
+        },
+        {
+          "anchor_id": "schedule-III-t12",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -1.830744743347168
+        },
+        {
+          "anchor_id": "schedule-XI-A-5-2-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.4303064346313477
+        },
+        {
+          "anchor_id": "schedule-III-t19",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.5907325744628906
+        },
+        {
+          "anchor_id": "schedule-III-t36",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.6209373474121094
+        },
+        {
+          "anchor_id": "schedule-XI-A-5-2",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -2.6945371627807617
+        },
+        {
+          "anchor_id": "schedule-III-t30",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.0824708938598633
+        },
+        {
+          "anchor_id": "schedule-III-t33",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.277228355407715
+        },
+        {
+          "anchor_id": "schedule-VII-t1",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.4921321868896484
+        },
+        {
+          "anchor_id": "133-1-a-xii",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -3.996212959289551
+        },
+        {
+          "anchor_id": "125-3-a",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -5.081782341003418
+        },
+        {
+          "anchor_id": "157-1-d",
+          "reason": "below_rerank_threshold",
+          "rerank_score": -9.722668647766113
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

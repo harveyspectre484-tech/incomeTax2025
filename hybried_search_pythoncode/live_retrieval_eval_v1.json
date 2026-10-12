@@ -1,0 +1,147 @@
+{
+  "cases": [
+    {
+      "kind": "exact_citation",
+      "question": "Explain Section 36(3)(a)(i)",
+      "required_ids": [
+        "36-3-a-i",
+        "36-3-a-i-table"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "final_evidence_ids": [
+        "36",
+        "36-2",
+        "36-3",
+        "36-3-a",
+        "36-3-a-i",
+        "36-3-a-i-table",
+        "36-3-a-i-table-row-1",
+        "36-3-a-i-table-row-2",
+        "36-3-a-i-table-row-3",
+        "36-3-a-i-table-row-4",
+        "36-3-a-i-table-row-5",
+        "36-3-a-iv"
+      ],
+      "omitted_units": []
+    },
+    {
+      "kind": "bank_table",
+      "question": "What deduction percentage is allowed for provision for bad debts of a scheduled bank?",
+      "required_ids": [
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "final_evidence_ids": [
+        "26",
+        "276",
+        "276-2",
+        "31",
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1",
+        "31-2",
+        "31-2-b",
+        "31-2-c",
+        "31-2-c-i",
+        "31-2-c-ii",
+        "31-2-c-iii",
+        "31-3",
+        "31-3-a",
+        "31-3-b"
+      ],
+      "omitted_units": [
+        {
+          "id": "31-1-table-row-2",
+          "reason": "nonmatching_table_alternative"
+        }
+      ]
+    },
+    {
+      "kind": "definition",
+      "question": "What is a demerged company under Section 2(34)?",
+      "required_ids": [
+        "2-34"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "final_evidence_ids": [
+        "116",
+        "116-7",
+        "2",
+        "2-103-b",
+        "2-103-b-i",
+        "2-34",
+        "2-35",
+        "2-35-a",
+        "2-35-c",
+        "2-35-e",
+        "2-35-g",
+        "2-35-g-iii",
+        "2-35-g-v",
+        "2-35-g-vi",
+        "2-35-g-vi-A",
+        "2-97",
+        "230",
+        "231",
+        "232"
+      ],
+      "omitted_units": []
+    },
+    {
+      "kind": "cross_section_exception",
+      "question": "Are marked to market losses deductible under Section 32(h), considering Section 36(9)?",
+      "required_ids": [
+        "32-h",
+        "36-9"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "final_evidence_ids": [
+        "26",
+        "276",
+        "276-2",
+        "32",
+        "32-h",
+        "36",
+        "36-1",
+        "36-2",
+        "36-2-a",
+        "36-2-b",
+        "36-3",
+        "36-3-a",
+        "36-3-a-i",
+        "36-3-a-i-table",
+        "36-3-a-i-table-row-1",
+        "36-3-a-iv",
+        "36-3-b",
+        "36-9"
+      ],
+      "omitted_units": []
+    },
+    {
+      "kind": "schedule_row",
+      "question": "When is armed forces disability pension excluded under Schedule III row 38A?",
+      "required_ids": [
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "missing_ids": [],
+      "passed": true,
+      "final_evidence_ids": [
+        "schedule-III",
+        "schedule-III-footnote37",
+        "schedule-III-footnote38",
+        "schedule-III-note12",
+        "schedule-III-note12-b",
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "omitted_units": []
+    }
+  ],
+  "passed": true
+}

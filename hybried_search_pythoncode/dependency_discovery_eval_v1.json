@@ -1,0 +1,351 @@
+{
+  "cases": [
+    {
+      "case_id": "s31_scheduled_bank_table",
+      "question": "What provision for bad and doubtful debts may a scheduled bank deduct?",
+      "anchor_id": "31-1-table-row-1",
+      "baseline_ids": [
+        "26",
+        "31",
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-1",
+        "31-2",
+        "31-2-c",
+        "31-2-c-iii"
+      ],
+      "discovered": [],
+      "baseline_missing_ids": [],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "31-1",
+        "31-1-table-row-1"
+      ],
+      "review_note": "Section 31(1) supplies the governing deduction sentence; table row 1 identifies scheduled banks and the amount."
+    },
+    {
+      "case_id": "s31_foreign_bank_table",
+      "question": "What provision for bad debts may a bank incorporated outside India deduct?",
+      "anchor_id": "31-1-table-row-2",
+      "baseline_ids": [
+        "26",
+        "31",
+        "31-1",
+        "31-1-table",
+        "31-1-table-row-2",
+        "31-2",
+        "31-2-c",
+        "31-2-c-iii"
+      ],
+      "discovered": [],
+      "baseline_missing_ids": [],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "31-1",
+        "31-1-table-row-2"
+      ],
+      "review_note": "Section 31(1) supplies the governing sentence; table row 2 contains the foreign-bank category and limit."
+    },
+    {
+      "case_id": "s31_provision_account_conditions",
+      "question": "Which conditions govern a bank bad-debt write-off against its provision account?",
+      "anchor_id": "31-2-c-i",
+      "baseline_ids": [
+        "26",
+        "31",
+        "31-1",
+        "31-2",
+        "31-2-c",
+        "31-2-c-i",
+        "31-3",
+        "31-3-b"
+      ],
+      "discovered": [
+        {
+          "id": "31-2-c-ii",
+          "reason": "same_condition_list_candidate",
+          "support_id": "31-2-c",
+          "scope": "31-2-c"
+        },
+        {
+          "id": "31-2-c-iii",
+          "reason": "same_condition_list_candidate",
+          "support_id": "31-2-c",
+          "scope": "31-2-c"
+        }
+      ],
+      "baseline_missing_ids": [
+        "31-2-c-ii",
+        "31-2-c-iii"
+      ],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "31-1",
+        "31-2",
+        "31-2-c",
+        "31-2-c-i",
+        "31-2-c-ii",
+        "31-2-c-iii"
+      ],
+      "review_note": "The introduction in 31(2), the gate in 31(2)(c), all three connected sub-clauses, and the cited 31(1) provision are needed to read this condition list."
+    },
+    {
+      "case_id": "s31_deemed_writeoff",
+      "question": "When is a bad debt deemed written off under Section 31(3)(b)?",
+      "anchor_id": "31-3-b",
+      "baseline_ids": [
+        "276",
+        "276-2",
+        "31",
+        "31-2",
+        "31-3",
+        "31-3-b"
+      ],
+      "discovered": [],
+      "baseline_missing_ids": [],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "31-2",
+        "31-3",
+        "31-3-b"
+      ],
+      "review_note": "Section 31(3)(b) states the rule, 31(3) introduces it, and the text expressly applies it for purposes of 31(2)."
+    },
+    {
+      "case_id": "schedule_iii_disability_pension_footnote",
+      "question": "What conditions and effective-date footnote accompany Schedule III row 38A?",
+      "anchor_id": "schedule-III-t38A",
+      "baseline_ids": [
+        "schedule-III",
+        "schedule-III-footnote37",
+        "schedule-III-t38A",
+        "schedule-III-table"
+      ],
+      "discovered": [],
+      "baseline_missing_ids": [],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "schedule-III-footnote37",
+        "schedule-III-t38A"
+      ],
+      "review_note": "The row contains eligible persons and conditions; footnote 37 annotates the row with insertion and commencement details."
+    },
+    {
+      "case_id": "schedule_xv_huf_post_2012_premium",
+      "question": "For a HUF policy issued on or after 1 April 2012, what life-insurance premium limit and definition apply?",
+      "anchor_id": "schedule-XV-1-a-ii",
+      "baseline_ids": [
+        "123",
+        "schedule-XV",
+        "schedule-XV-1",
+        "schedule-XV-1-a",
+        "schedule-XV-1-a-ii"
+      ],
+      "discovered": [
+        {
+          "id": "schedule-XV-2-1",
+          "reason": "referenced_container_child_candidate",
+          "support_id": "schedule-XV-1-a-ii",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-1-b",
+          "reason": "referenced_condition_candidate",
+          "support_id": "schedule-XV-2-1",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2",
+          "reason": "referenced_container_child_candidate",
+          "support_id": "schedule-XV-1-a-ii",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-a",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-b",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        }
+      ],
+      "baseline_missing_ids": [
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "schedule-XV-1-a-ii",
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "review_note": "The HUF clause is subject to paragraph 2; its 2012 limit is 2(1)(b), and 2(2) defines the capital-sum term with two exclusions."
+    },
+    {
+      "case_id": "schedule_xv_capital_sum_definition",
+      "question": "How is actual capital sum assured defined for the 10% life-insurance premium limit?",
+      "anchor_id": "schedule-XV-2-1-b",
+      "baseline_ids": [
+        "schedule-XV",
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b"
+      ],
+      "discovered": [
+        {
+          "id": "schedule-XV-2-2",
+          "reason": "scoped_definition_candidate",
+          "support_id": "schedule-XV-2-1-b",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-a",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-b",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        }
+      ],
+      "baseline_missing_ids": [
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "review_note": "The limit uses the term; the definition expressly says it applies in this paragraph, and its two child clauses complete the definition."
+    },
+    {
+      "case_id": "schedule_xv_disability_policy",
+      "question": "What premium limit applies to a policy covering a person with disability issued after April 2013?",
+      "anchor_id": "schedule-XV-2-1-c",
+      "baseline_ids": [
+        "schedule-XV",
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-c"
+      ],
+      "discovered": [
+        {
+          "id": "schedule-XV-2-1-c-i",
+          "reason": "matching_operative_child_candidate",
+          "support_id": "schedule-XV-2-1-c",
+          "scope": "schedule-XV-2-1-c"
+        },
+        {
+          "id": "schedule-XV-2-2",
+          "reason": "scoped_definition_candidate",
+          "support_id": "schedule-XV-2-1-c",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-a",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-b",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        }
+      ],
+      "baseline_missing_ids": [
+        "schedule-XV-2-1-c-i",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-c",
+        "schedule-XV-2-1-c-i",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "review_note": "The parent gives the 15% limit and introduces alternatives; child (i) identifies the disability category. The scoped definition and its continuations explain the capital-sum basis."
+    },
+    {
+      "case_id": "schedule_xv_2012_limit_no_siblings",
+      "question": "What premium limit applies to a life-insurance policy issued after April 2012?",
+      "anchor_id": "schedule-XV-2-1-b",
+      "baseline_ids": [
+        "schedule-XV",
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b"
+      ],
+      "discovered": [
+        {
+          "id": "schedule-XV-2-2",
+          "reason": "scoped_definition_candidate",
+          "support_id": "schedule-XV-2-1-b",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-a",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        },
+        {
+          "id": "schedule-XV-2-2-b",
+          "reason": "definition_continuation_candidate",
+          "support_id": "schedule-XV-2-2",
+          "scope": "schedule-XV-2"
+        }
+      ],
+      "baseline_missing_ids": [
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "missing_ids": [],
+      "false_additions": [],
+      "expected_ids": [
+        "schedule-XV-2-1",
+        "schedule-XV-2-1-b",
+        "schedule-XV-2-2",
+        "schedule-XV-2-2-a",
+        "schedule-XV-2-2-b"
+      ],
+      "review_note": "The 2012 clause and scoped capital-sum definition are relevant; alternative 2012 and 2013 limit clauses should not be pulled in merely as siblings."
+    }
+  ],
+  "summary": {
+    "case_count": 9,
+    "baseline_misses": 17,
+    "remaining_misses": 0,
+    "false_additions": 0,
+    "cases_fully_covered": 9
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "s31_scheduled_bank_table",
+    "question": "What provision for bad and doubtful debts may a scheduled bank deduct?",
+    "anchor_id": "31-1-table-row-1",
+    "expected_ids": ["31-1-table-row-1", "31-1"],
+    "review_note": "Section 31(1) supplies the governing deduction sentence; table row 1 identifies scheduled banks and the amount."
+  },
+  {
+    "id": "s31_foreign_bank_table",
+    "question": "What provision for bad debts may a bank incorporated outside India deduct?",
+    "anchor_id": "31-1-table-row-2",
+    "expected_ids": ["31-1-table-row-2", "31-1"],
+    "review_note": "Section 31(1) supplies the governing sentence; table row 2 contains the foreign-bank category and limit."
+  },
+  {
+    "id": "s31_provision_account_conditions",
+    "question": "Which conditions govern a bank bad-debt write-off against its provision account?",
+    "anchor_id": "31-2-c-i",
+    "expected_ids": ["31-2", "31-2-c", "31-2-c-i", "31-2-c-ii", "31-2-c-iii", "31-1"],
+    "review_note": "The introduction in 31(2), the gate in 31(2)(c), all three connected sub-clauses, and the cited 31(1) provision are needed to read this condition list."
+  },
+  {
+    "id": "s31_deemed_writeoff",
+    "question": "When is a bad debt deemed written off under Section 31(3)(b)?",
+    "anchor_id": "31-3-b",
+    "expected_ids": ["31-3-b", "31-3", "31-2"],
+    "review_note": "Section 31(3)(b) states the rule, 31(3) introduces it, and the text expressly applies it for purposes of 31(2)."
+  },
+  {
+    "id": "schedule_iii_disability_pension_footnote",
+    "question": "What conditions and effective-date footnote accompany Schedule III row 38A?",
+    "anchor_id": "schedule-III-t38A",
+    "expected_ids": ["schedule-III-t38A", "schedule-III-footnote37"],
+    "review_note": "The row contains eligible persons and conditions; footnote 37 annotates the row with insertion and commencement details."
+  },
+  {
+    "id": "schedule_xv_huf_post_2012_premium",
+    "question": "For a HUF policy issued on or after 1 April 2012, what life-insurance premium limit and definition apply?",
+    "anchor_id": "schedule-XV-1-a-ii",
+    "expected_ids": ["schedule-XV-1-a-ii", "schedule-XV-2-1", "schedule-XV-2-1-b", "schedule-XV-2-2", "schedule-XV-2-2-a", "schedule-XV-2-2-b"],
+    "review_note": "The HUF clause is subject to paragraph 2; its 2012 limit is 2(1)(b), and 2(2) defines the capital-sum term with two exclusions."
+  },
+  {
+    "id": "schedule_xv_capital_sum_definition",
+    "question": "How is actual capital sum assured defined for the 10% life-insurance premium limit?",
+    "anchor_id": "schedule-XV-2-1-b",
+    "expected_ids": ["schedule-XV-2-1-b", "schedule-XV-2-1", "schedule-XV-2-2", "schedule-XV-2-2-a", "schedule-XV-2-2-b"],
+    "review_note": "The limit uses the term; the definition expressly says it applies in this paragraph, and its two child clauses complete the definition."
+  },
+  {
+    "id": "schedule_xv_disability_policy",
+    "question": "What premium limit applies to a policy covering a person with disability issued after April 2013?",
+    "anchor_id": "schedule-XV-2-1-c",
+    "expected_ids": ["schedule-XV-2-1-c", "schedule-XV-2-1", "schedule-XV-2-1-c-i", "schedule-XV-2-2", "schedule-XV-2-2-a", "schedule-XV-2-2-b"],
+    "review_note": "The parent gives the 15% limit and introduces alternatives; child (i) identifies the disability category. The scoped definition and its continuations explain the capital-sum basis."
+  },
+  {
+    "id": "schedule_xv_2012_limit_no_siblings",
+    "question": "What premium limit applies to a life-insurance policy issued after April 2012?",
+    "anchor_id": "schedule-XV-2-1-b",
+    "expected_ids": ["schedule-XV-2-1-b", "schedule-XV-2-1", "schedule-XV-2-2", "schedule-XV-2-2-a", "schedule-XV-2-2-b"],
+    "review_note": "The 2012 clause and scoped capital-sum definition are relevant; alternative 2012 and 2013 limit clauses should not be pulled in merely as siblings."
+  }
+]
